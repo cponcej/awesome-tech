@@ -12,6 +12,7 @@
 - [frontend.zeef.com](https://frontend.zeef.com)
 - [apps-and-tools.zeef.com](https://apps-and-tools.zeef.com)
 - [data-science.zeef.com](https://data-science.zeef.com)
+- [apache-spark.zeef.com](https://apache-spark.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
