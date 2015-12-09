@@ -116,7 +116,7 @@
 
 ### Configuration Management, Red Hat Satellite, Katello and Foreman
 - [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
-- [Foreman is a complete lifecycle management tool for physical and virtual servers. We give system administrators the power to easily automate repetitive tasks, quickly deploy applications, and proactively manage servers, on-premise or in the cloud](http://www.theforeman.org/)
+- [Foreman is a complete lifecycle management tool](http://www.theforeman.org/)
 
 ### Configuration Management, Chef 
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
