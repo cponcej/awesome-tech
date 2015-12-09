@@ -3,6 +3,7 @@
 ### Zeef.com - Find & share quality development/tech resources
 - [Zeef.com](https://zeef.com)
 - [virtualization.zeef.com](https://virtualization.zeef.com)
+- [dev-ops-tools.zeef.com](https://dev-ops-tools.zeef.com)
 - [continuous-integration.zeef.com](https://continuous-integration.zeef.com)
 - [frontend.zeef.com](https://frontend.zeef.com)
 - [apps-and-tools.zeef.com](https://apps-and-tools.zeef.com)
