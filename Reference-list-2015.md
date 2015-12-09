@@ -374,6 +374,8 @@
 ### Startups
 - [Startupxplore, mapa con todas las startups TI](https://startupxplore.com/)
 - [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
+- [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
+- [startup.zeef.com](https://startup.zeef.com/)
 
 ### Python analytics
 - [Python for Data Science vs Python for Web Development](http://www.datasciencecentral.com/profiles/blogs/python-for-data-science-vs-python-for-web-development)
