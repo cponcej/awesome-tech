@@ -11,6 +11,7 @@
 - [docker.zeef.com](https://docker.zeef.com)
 - [linux.zeef.com](https://linux.zeef.com)
 - [virtualization.zeef.com](https://virtualization.zeef.com)
+- [devops.zeef.com](https://devops.zeef.com)
 - [dev-ops-tools.zeef.com](https://dev-ops-tools.zeef.com)
 - [continuous-integration.zeef.com](https://continuous-integration.zeef.com)
 - [python.zeef.com](https://python.zeef.com)
