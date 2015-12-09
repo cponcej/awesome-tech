@@ -26,6 +26,7 @@
 - [unix-shell.zeef.com](https://unix-shell.zeef.com)
 - [html.zeef.com](https://html.zeef.com)
 - [javaee8.zeef.com](https://javaee8.zeef.com)
+- [nodejs.zeef.com](https://nodejs.zeef.com)
 - [free-programming-books.zeef.com](https://free-programming-books.zeef.com)
 - [programming.zeef.com](https://programming.zeef.com)
 - [frontend.zeef.com](https://frontend.zeef.com)
