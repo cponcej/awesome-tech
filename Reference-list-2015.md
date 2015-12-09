@@ -44,9 +44,12 @@
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
 - [Nginxconf 2014. When Dynamic Becomes Static: The Next Step in Web Caching Techniques: Wim Godden @nginxconf 2014](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
-## Data virtualization
+## JBoss and Data virtualization
 - [JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
-
+- [Introduction to JBoss EAP 6: installation, configuration & clustering](http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar)
+- [JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
+- [Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](http://info.c2b2.co.uk/learn-how-to-supercharge-your-apps-with-jboss-data-grid)
+ 
 ## Network virtualization
 - [FOSS Network Functions Virtualization](https://www.opnfv.org) 
 
