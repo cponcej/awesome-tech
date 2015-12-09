@@ -508,6 +508,12 @@
 ### Editors
 - [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Sublime Text Unofficial Documentation] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
+- [Welcome to SublimeLinter 3](http://www.sublimelinter.com/en/latest/)
+- [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
+- [sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox.](http://sublimetexttips.com/)
+- [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
+- [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
+- [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Create and Open GitHub Gists from Sublime Text] (http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
 - [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 - [Full-featured Git integration for Sublime Text 2 and 3] (http://sublimegit.net/)
