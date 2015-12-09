@@ -118,6 +118,7 @@
 ### DevOps
 - [Agilidad, por Javier Garzás](https://www.youtube.com/watch?v=oShXAC26rcs)
 - [Un video imprescindible sobre la buena gestión de equipos software](http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html)
+- [ebook: IBM DevOps for Dummies (free)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge](http://www.scrumguides.org/)
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
 - [Why estimates never work](http://www.brandonsavage.net/why-estimates-never-work/)
