@@ -193,6 +193,11 @@
 - [Command Line Essentials: Git Bash for Windows (free)](https://www.udemy.com/git-bash/)
 - [Git Recipes. A Problem-Solution Approach](http://it-ebooks.info/book/3259/)
 - [Git Pocket Guide](http://it-ebooks.info/book/2517/)
+- [Git-scm.com](http://git-scm.com/)
+- [Git-scm ebook - free](http://git-scm.com/book/en/v2)
+- [Git Magic - training](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+- [git.training](http://git.training/)
+- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 
 ### Next Generation Firewalls
 - [Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
@@ -485,6 +490,7 @@
 - [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Sublime Text Unofficial Documentation] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
 - [Create and Open GitHub Gists from Sublime Text] (http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
+- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 - [Full-featured Git integration for Sublime Text 2 and 3] (http://sublimegit.net/)
 - [An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta)] (http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 - [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
@@ -549,6 +555,8 @@
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
 - [Zeef.com - discover quality resources on the web](https://zeef.com/about)
+- [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
+- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
 
 ### Software Testing
 - [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
