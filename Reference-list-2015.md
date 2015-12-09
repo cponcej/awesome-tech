@@ -278,6 +278,7 @@
 - [youtube: Logstash Presentation](https://www.youtube.com/watch?v=U3m0jKygAqU)
 - [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
+- [Cloudlytics.com - Analytics for AWS Cloud Logs | CloudFront, CloudTrail, ELB & S3 Logs and Billing Analytics](https://www.cloudlytics.com/)
 
 ### Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
