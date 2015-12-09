@@ -10,6 +10,7 @@
 - [databases.zeef.com](https://databases.zeef.com)
 - [docker.zeef.com](https://docker.zeef.com)
 - [linux.zeef.com](https://linux.zeef.com)
+- [linux-for-administrators.zeef.com](https://linux-for-administrators.zeef.com)
 - [virtualization.zeef.com](https://virtualization.zeef.com)
 - [devops.zeef.com](https://devops.zeef.com)
 - [dev-ops-tools.zeef.com](https://dev-ops-tools.zeef.com)
