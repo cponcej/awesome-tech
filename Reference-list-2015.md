@@ -593,7 +593,7 @@
 
 ### JVM
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
-- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](../master/change_in_memory_management_java_8.md)
+- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](../../../RHEL6_KVM_Tomcat_DellR720_deployment/blob/master/change_in_memory_management_java_8.md)
 - [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
 - [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
 - [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
