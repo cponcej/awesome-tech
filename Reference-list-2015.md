@@ -16,6 +16,7 @@
 - [data-stack.zeef.com](https://data-stack.zeef.com)
 - [continuous-integration.zeef.com](https://continuous-integration.zeef.com)
 - [python.zeef.com](https://python.zeef.com)
+- [javaee8.zeef.com](https://javaee8.zeef.com)
 - [programming.zeef.com](https://programming.zeef.com)
 - [frontend.zeef.com](https://frontend.zeef.com)
 - [apps-and-tools.zeef.com](https://apps-and-tools.zeef.com)
