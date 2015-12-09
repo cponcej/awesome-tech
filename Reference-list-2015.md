@@ -345,6 +345,11 @@
 - [Google Refine, a power tool for working with messy data (formerly Freebase Gridworks)](https://code.google.com/p/google-refine/)
 
 ### SQL 
+- [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
+- [essentialsql.com: Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+- [essentialsql.com: What is the Difference Between Cast and Convert?](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+- [essentialsql.com's twitter](https://twitter.com/sqlkris)
+- [T-SQL Tidy: Online T-SQL Statement Parser and Formatter](http://tsqltidy.com/)
 - [Syadmincasts: Crash Course on MySQL](https://sysadmincasts.com/episodes/38-crash-course-on-mysql)
 - [What Every Data Scientist Needs to Know about SQL](http://joshualande.com/data-science-sql/)
 - [Top 20+ MySQL Best Practices](http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)
