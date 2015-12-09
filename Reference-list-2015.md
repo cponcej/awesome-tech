@@ -22,6 +22,7 @@
 - [frontend.zeef.com](https://frontend.zeef.com)
 - [apps-and-tools.zeef.com](https://apps-and-tools.zeef.com)
 - [data-science.zeef.com](https://data-science.zeef.com)
+- [big-data.zeef.com](https://big-data.zeef.com)
 - [apache-spark.zeef.com](https://apache-spark.zeef.com)
 - [python-tutorials.zeef.com](https://python-tutorials.zeef.com)
 - [cloud.zeef.com](https://cloud.zeef.com)
