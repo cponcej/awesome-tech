@@ -13,6 +13,7 @@
 - [virtualization.zeef.com](https://virtualization.zeef.com)
 - [devops.zeef.com](https://devops.zeef.com)
 - [dev-ops-tools.zeef.com](https://dev-ops-tools.zeef.com)
+- [data-stack.zeef.com](https://data-stack.zeef.com)
 - [continuous-integration.zeef.com](https://continuous-integration.zeef.com)
 - [python.zeef.com](https://python.zeef.com)
 - [programming.zeef.com](https://programming.zeef.com)
