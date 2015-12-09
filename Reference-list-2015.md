@@ -19,6 +19,17 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
+### Startups
+- [Startupxplore, mapa con todas las startups TI](https://startupxplore.com/)
+- [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
+- [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
+- [startup.zeef.com](https://startup.zeef.com/)
+
+### Startup jobs
+- [Angellist jobs](https://angel.co)
+- [techstartupjobs.com](http://www.techstartupjobs.com/)
+- [tyba startup jobs](http://tyba.com/)
+
 ## Red Hat virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5] (http://www.tecmint.com/install-redhat-virtualization-rhev/)
 - [How to Create Virtual Machines in Linux Using KVM (Kernel-based Virtual Machine)] (http://www.tecmint.com/install-and-configure-kvm-in-linux/)
@@ -370,12 +381,6 @@
 - [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 - [10 emuladores WAN para que pruebes distintas condiciones de red](http://www.hackplayers.com/2015/10/10-emuladores-wan-para-que-pruebes.html)
 - [NEWfly, Redes Cisco y Packet Tracker: Network, ejercicios Packet Tracer y simulación de vuelo](https://newfly.wordpress.com/)
-
-### Startups
-- [Startupxplore, mapa con todas las startups TI](https://startupxplore.com/)
-- [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
-- [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
-- [startup.zeef.com](https://startup.zeef.com/)
 
 ### Python analytics
 - [Python for Data Science vs Python for Web Development](http://www.datasciencecentral.com/profiles/blogs/python-for-data-science-vs-python-for-web-development)
