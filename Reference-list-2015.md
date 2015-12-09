@@ -522,6 +522,7 @@
 
 ### Regular expressions
 - [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
+- [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
 
 ### Editors
 - [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
