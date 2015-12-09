@@ -379,7 +379,7 @@
 - [Troubleshooting with Wireshark: Identifying SIP Errors] (https://www.youtube.com/watch?v=bu6kpneLlFc)
 - [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark] (https://www.youtube.com/watch?v=OFpQLyQxt84)
 - [Wireshark Tip 10: Identify Separate TCP Conversations with TCP Stream Index (Laura Chappell)] (https://www.youtube.com/watch?v=0dFndZwkDGY)
-- [Laura Chappell's Top Videos:] (https://www.youtube.com/user/thebitgirl/videos)
+- [Laura Chappell's Top Videos] (https://www.youtube.com/user/thebitgirl/videos)
 - [How Can the Packet Size Be Greater than the MTU?] (http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/)
 - [Wireshark profiles] (https://www.youtube.com/watch?v=pxxcuR7fwXM)
 - http://packetlife.net/
