@@ -2,6 +2,7 @@
 
 ### Zeef.com - Find & share quality development/tech resources
 - [Zeef.com](https://zeef.com)
+- [sublime-text.zeef.com](https://sublime-text.zeef.com)
 - [wordpress.zeef.com](https://wordpress.zeef.com)
 - [security.zeef.com](https://security.zeef.com)
 - [penetration-testing.zeef.com)](https://penetration-testing.zeef.com)
