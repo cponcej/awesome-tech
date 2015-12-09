@@ -293,8 +293,8 @@
 - [Wireshark profiles] (https://www.youtube.com/watch?v=pxxcuR7fwXM)
 - http://packetlife.net/
 - [Understanding Application Performance on the Network – Part VII: TCP Window Size](http://apmblog.dynatrace.com/2014/08/12/understanding-application-performance-network-part-tcp-window-size/)
-- [Network Forensics: ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs] (http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html)
-- [Seguridad con Wireshark: ejemplos de ataques de seguridad DDoS (macof, DNS), filtros, perfiles, coloreado de frames y tshark para trazas largas](https://www.youtube.com/watch?v=UXAHvwouk6Q)
+- [Switches And Tool Placement (by Tony Fortunato). Ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs] (http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html)
+- [Sharkfest 2013 - Wireshark Network Forensics (Laura Chappell). Seguridad con Wireshark: ejemplos de ataques de seguridad DDoS (macof, DNS), filtros, perfiles, coloreado de frames y tshark para trazas largas](https://www.youtube.com/watch?v=UXAHvwouk6Q)
 - [Flood network with random MAC addresses with macof tool] (https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/)
 - http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html
 - https://www.htcia.org/
