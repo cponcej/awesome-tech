@@ -155,6 +155,8 @@
 ### NoSQL
 - [Introduction to NoSQL by Martin Fowler, video tutorial](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [NoSQL vs. SQL: Choosing a Data Management Solution](http://www.javacodegeeks.com/2015/10/nosql-vs-sql.html)
+- [NoSQL Guide, by Martin Fowler](http://martinfowler.com/nosql.html)
+- [thoughtworks.com: NoSQL Databases, an overview](NoSQL Databases: An Overview)
 
 ### NewSQL
 - [NuoDB es una de las principales soluciones NewSQL, una revolución con respecto a las monolíticas 1-box BBDD tradicionales. NuoDB es ACID y SQL, pero también distribuida/escalable y schema flexible](http://www.nuodb.com/)
