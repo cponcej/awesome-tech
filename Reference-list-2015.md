@@ -23,6 +23,7 @@
 - [apps-and-tools.zeef.com](https://apps-and-tools.zeef.com)
 - [data-science.zeef.com](https://data-science.zeef.com)
 - [big-data.zeef.com](https://big-data.zeef.com)
+- [data-visualization.zeef.com](https://data-visualization.zeef.com)
 - [apache-spark.zeef.com](https://apache-spark.zeef.com)
 - [python-tutorials.zeef.com](https://python-tutorials.zeef.com)
 - [cloud.zeef.com](https://cloud.zeef.com)
