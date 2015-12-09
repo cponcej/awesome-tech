@@ -14,6 +14,8 @@
 - [data-science.zeef.com](https://data-science.zeef.com)
 - [apache-spark.zeef.com](https://apache-spark.zeef.com)
 - [python-tutorials.zeef.com](https://python-tutorials.zeef.com)
+- [cloud.zeef.com](https://cloud.zeef.com)
+- [online-collaboration-tools.zeef.com](https://online-collaboration-tools.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
