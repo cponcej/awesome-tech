@@ -591,7 +591,7 @@
 ### Domain driven design
 - [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
 - [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
-- [Domain Driven Design Community]http://www.domaindrivendesign.org/
+- [Domain Driven Design Community](http://www.domaindrivendesign.org/)
 
 ### Cloud
 - [Sysadmincasts.com: Introduction to Amazon Web Services (AWS)](https://sysadmincasts.com/episodes/29-introduction-to-amazon-web-services-aws)
