@@ -3,6 +3,7 @@
 ### Zeef.com - Find & share quality development/tech resources
 - [Zeef.com](https://zeef.com)
 - [sublime-text.zeef.com](https://sublime-text.zeef.com)
+- [git.zeef.com](https://git.zeef.com)
 - [wordpress.zeef.com](https://wordpress.zeef.com)
 - [security.zeef.com](https://security.zeef.com)
 - [penetration-testing.zeef.com)](https://penetration-testing.zeef.com)
@@ -18,6 +19,7 @@
 - [data-stack.zeef.com](https://data-stack.zeef.com)
 - [continuous-integration.zeef.com](https://continuous-integration.zeef.com)
 - [python.zeef.com](https://python.zeef.com)
+- [unix-shell.zeef.com](https://unix-shell.zeef.com)
 - [javaee8.zeef.com](https://javaee8.zeef.com)
 - [programming.zeef.com](https://programming.zeef.com)
 - [frontend.zeef.com](https://frontend.zeef.com)
