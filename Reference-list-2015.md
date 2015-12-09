@@ -2,6 +2,7 @@
 
 ### Zeef.com - Find & share quality development/tech resources
 - [Zeef.com](https://zeef.com)
+- [free-programming-books.zeef.com](https://free-programming-books.zeef.com)
 - [sublime-text.zeef.com](https://sublime-text.zeef.com)
 - [git.zeef.com](https://git.zeef.com)
 - [wordpress.zeef.com](https://wordpress.zeef.com)
