@@ -1,4 +1,4 @@
-# New reference list updated, December 2015
+# Reference list, December 2015
 ## Red Hat virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5] (http://www.tecmint.com/install-redhat-virtualization-rhev/)
 - [How to Create Virtual Machines in Linux Using KVM (Kernel-based Virtual Machine)] (http://www.tecmint.com/install-and-configure-kvm-in-linux/)
