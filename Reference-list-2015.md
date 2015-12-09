@@ -5,6 +5,8 @@
 - [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
 - [Up and Running with oVirt 3.5](http://community.redhat.com/blog/2014/10/up-and-running-with-ovirt-3-5/)
 - [Up and Running with oVirt 3.5, Part Two](http://community.redhat.com/blog/2014/11/up-and-running-with-ovirt-3-5-part-two/)
+- [GlusterFS Documentation](http://gluster.readthedocs.org/en/latest/)
+- [GlusterFS scalable network filesystem](http://www.gluster.org/)
 
 ## Red Hat docs and forums
 - [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
@@ -26,6 +28,7 @@
 - [Red Hat developers blog, an Enterprise Developer’s Journey to the IoT](http://developerblog.redhat.com/2015/12/02/enterprise-developers-journey-to-iot/)
 - [Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
+- [ReadtheDocs.org - Crear, alojar y explorar documentación](https://readthedocs.org/)
 
 ## Microservices
 - [Introduction to Microservices | NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
@@ -544,6 +547,8 @@
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular] (http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
 - [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
+- [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
+- [Zeef.com - discover quality resources on the web](https://zeef.com/about)
 
 ### Software Testing
 - [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
