@@ -2,6 +2,9 @@
 
 ### Zeef.com - Find & share quality development/tech resources
 - [Zeef.com](https://zeef.com)
+- [security.zeef.com](https://security.zeef.com)
+- [databases.zeef.com](https://databases.zeef.com)
+- [linux.zeef.com](https://linux.zeef.com)
 - [virtualization.zeef.com](https://virtualization.zeef.com)
 - [dev-ops-tools.zeef.com](https://dev-ops-tools.zeef.com)
 - [continuous-integration.zeef.com](https://continuous-integration.zeef.com)
