@@ -260,6 +260,8 @@
 
 ### Linux
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
+- [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
+- [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
 - [nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
 - [Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
 - [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
