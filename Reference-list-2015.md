@@ -27,6 +27,7 @@
 - [cloud.zeef.com](https://cloud.zeef.com)
 - [online-collaboration-tools.zeef.com](https://online-collaboration-tools.zeef.com)
 - [digital-marketing.zeef.com](https://digital-marketing.zeef.com)
+- [email-marketing.zeef.com](https://email-marketing.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
