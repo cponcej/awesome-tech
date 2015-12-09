@@ -11,6 +11,7 @@
 - [mobile-app-testing.zeef.com](https://mobile-app-testing.zeef.com)
 - [ab-testing.zeef.com](https://ab-testing.zeef.com)
 - [databases.zeef.com](https://databases.zeef.com)
+- [nosql.zeef.com](https://nosql.zeef.com)
 - [docker.zeef.com](https://docker.zeef.com)
 - [linux.zeef.com](https://linux.zeef.com)
 - [linux-for-administrators.zeef.com](https://linux-for-administrators.zeef.com)
