@@ -1,4 +1,12 @@
 # Reference list, December 2015
+
+### Find & share quality development/tech resources
+- [Zeef.com](https://zeef.com)
+- [frontend.zeef.com](https://frontend.zeef.com)
+- [apps-and-tools.zeef.com](https://apps-and-tools.zeef.com)
+- [startup.zeef.com](https://startup.zeef.com/)
+- etc
+
 ## Red Hat virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5] (http://www.tecmint.com/install-redhat-virtualization-rhev/)
 - [How to Create Virtual Machines in Linux Using KVM (Kernel-based Virtual Machine)] (http://www.tecmint.com/install-and-configure-kvm-in-linux/)
