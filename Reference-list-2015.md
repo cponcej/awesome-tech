@@ -541,6 +541,7 @@
 - [12 best NAS drives 2015/2016 UK: What's the best network storage you can buy in the UK?](http://www.pcadvisor.co.uk/test-centre/pc-peripheral/12-best-nas-drives-2015-2016-uk-3217608/)
 - [Soluciones de almacenamiento Flash Array basadas en Dell y en Supermicro](http://searchdatacenter.techtarget.com/feature/Rethinking-data-center-components-as-commodities)
 - [All Flash Buying Guide](http://www.infostor.com/disk-arrays/all-flash-buying-guide.html)
+- [6 Steps to Better Data Backup and Quicker Recovery](https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd)
 - [Best Practices for Linux Backup Every Administrator Should Know](http://www.storagecraft.com/blog/best-practices-for-linux-backup-every-administrator-should-know/)
 - [Synology Data Backup](https://www.synology.com/en-us/dsm/data_backup)
 - [Synology RC18015xs+ and Snapshot Manager at Computex 2015](https://youtu.be/YeMoCDxZYDU?list=PLbeBr03sf2pUuYdoZCwJQ5oGvFhIMvAWM)
