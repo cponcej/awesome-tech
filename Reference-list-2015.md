@@ -44,8 +44,8 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
-### stackshare.io
-- [stackshare.io - Discover and discuss the best software tools and services](http://stackshare.io/)
+### stackshare.io - Discover and discuss the best software tools and services
+- [stackshare.io](http://stackshare.io/)
 - [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
 
 ### Startups
