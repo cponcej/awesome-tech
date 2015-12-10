@@ -507,6 +507,7 @@
 - [Naming Conventions in Database Modeling](http://www.vertabelo.com/blog/technical-articles/naming-conventions-in-database-modeling)
 - [High Performance MySQL, 3rd Edition](http://it-ebooks.info/book/676/)
 - [Terrible choices: MySQL (for Django)](https://www.reddit.com/r/Python/comments/2qm448/terrible_choices_mysql_for_django)
+- [MySQL 5.7: Improved Performance of Queries with Derived Tables](http://mysqlserverteam.com/mysql-5-7-improved-performance-of-queries-with-derived-tables/)
 
 ### SQL replication
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
