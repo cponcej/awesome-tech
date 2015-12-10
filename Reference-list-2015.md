@@ -41,6 +41,9 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
+### stackshare.io
+- [stackshare.io ,para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
+
 ### Startups
 - [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
 - [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
@@ -84,14 +87,34 @@
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
 - [ReadtheDocs.org - Crear, alojar y explorar documentación](https://readthedocs.org/)
 
-## Microservices
-- [Introduction to Microservices | NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
-- [Microservices, Martin Fowler](http://martinfowler.com/articles/microservices.html)
-- [What are Microservices?](https://www.linkedin.com/pulse/what-microservices-walli-datoo)
-- [Microservices architecture: advantages and drawbacks](http://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
+### Scalability and Reliability
+- [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
+- ["Scalable Internet Architectures" book - Theo Schlossnagle](http://scalableinternetarchitectures.com/)
+- [video: Scalable Internet Architectures - Theo Schlossnagle](https://www.youtube.com/watch?v=2WuT2rdLK5A)
+- [slides: Scalable Web Architectures: Common Patterns and Approaches](http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches)
+- [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
+- [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
+- [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
+
+### HTTP/2
+- [SPDY & HTTP 2 with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=WkLBrHW4NhQ)
+- https://http2.github.io/faq/
+- [A Simple Performance Comparison of HTTPS, SPDY and HTTP/2](https://blog.httpwatch.com/2015/01/16/a-simple-performance-comparison-of-https-spdy-and-http2/comment-page-1/)
+- [HTTP/2 With JBoss EAP 7 - Tech Preview](http://blog.eisele.net/2015/11/http2-with-jboss-eap-7.html)
+- [Dzone - HTTP/2 With JBoss EAP 7: Tech Preview](https://dzone.com/articles/http2-with-jboss-eap-7-tech-preview)
+- [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
+- [Enabling HTTPS Without Sacrificing Your Web Performance](http://moz.com/blog/enabling-https-without-sacrificing-web-performance)
+- [HTTP/2 resources](https://pinboard.in/u:rmurphey/t:http2/)
+- [As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet](http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/)
+- [Microsoft may block SHA1 certificates sooner than expected](http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/)
 
 ### Apache
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
+
+### Weblogic
+- [WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
+- [Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
+- [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
 
 ## Nginx
 - [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
@@ -104,10 +127,18 @@
 - [JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
 - [Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](http://info.c2b2.co.uk/learn-how-to-supercharge-your-apps-with-jboss-data-grid)
  
-## Network virtualization
-- [FOSS Network Functions Virtualization](https://www.opnfv.org) 
+### E-Mail
+- [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
+- [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/) 
+
+## Microservices
+- [Introduction to Microservices | NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
+- [Microservices, Martin Fowler](http://martinfowler.com/articles/microservices.html)
+- [What are Microservices?](https://www.linkedin.com/pulse/what-microservices-walli-datoo)
+- [Microservices architecture: advantages and drawbacks](http://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
 
 ## Docker
+- [Why Docker Could Revolutionize Enterprise Cloud Computing](https://www.linkedin.com/pulse/why-docker-could-revolutionize-enterprise-cloud-computing-andy-waroma)
 - [Adoption/popularity is the new king. The only constant is change! - puppet, chef, ansible, docker ](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
 - [DockerCon EU: Software Testing with Docker](http://thenewstack.io/software-testing-docker/)
 - [Free eBook - Docker Security: Using Containers Safely in Production](https://www.openshift.com/promotions/docker-security.html)
@@ -173,23 +204,36 @@
 - [Foreman is a complete lifecycle management tool](http://www.theforeman.org/)
 
 ### Configuration Management, Chef 
+- [docs.chef.io](https://docs.chef.io/)
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
+- [Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps](http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction)
 
 ### DevOps
+- [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
 - [Agilidad, por Javier Garzás](https://www.youtube.com/watch?v=oShXAC26rcs)
 - [Un video imprescindible sobre la buena gestión de equipos software](http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html)
+- [New Relic eBook: What is DevOps and Why it Can Help Your Business?](http://newrelic.com/devops-101)
 - [ebook: IBM DevOps for Dummies (free)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
-- [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge](http://www.scrumguides.org/)
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
-- [Why estimates never work](http://www.brandonsavage.net/why-estimates-never-work/)
-- [Lean vs Agile Programming](http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/)
+- [New Relic: Glossary of DevOps Tools. Get a glimpse into some of New Relic's favorite DevOps tools](http://newrelic.com/devops/toolset)
+- [Ansible - Confessions of a Full Stack DevOp](http://www.ansible.com/blog/confessions-of-a-full-stack-devop)
 - [What to Expect From a DevOps Interview](https://dzone.com/articles/what-to-expect-from-a-devops-interview)
 - [Why You’ll NEVER Nail That DevOps Interview](https://dzone.com/articles/why-youll-never-nail-that-devops-interview-1)
-- [You will not become agile by implementing scrum](https://www.linkedin.com/pulse/you-become-agile-implementing-scrum-jurriaan-kamer)
 - [Why everyone hates DevOps](http://www.networkworld.com/article/2915893/software/why-everyone-hates-devops.html)
 - [8 Reasons IT Pros Hate The Cloud](http://www.informationweek.com/cloud/8-reasons-it-pros-hate-the-cloud/d/d-id/1320531)
 - [The IT Culture War: The Struggle to Adopt DevOps | WIRED](http://www.wired.com/2015/03/culture-war-struggle-adopt-devops/)
 - [Cómo y quién recuperó uno de los mayores desastres del desarrollo software: la web healthcare...](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
+- [Deloitte: The DevOps Difference](http://deloitte.wsj.com/cio/2014/04/24/the-devops-difference/)
+- [MountainWest Devops 2014 - How I Learned to Stop Worrying and Love DevOps.I was a college-student BOFH, an ISP sysadmin, and an academic IT manager. If I wanted a curmudgeonly sysadmin, I could just look in a mirror. Most developers were unlikely to be granted root on any systems whatsoever, and servers were carefully hand-whittled works of art. You know, The Way Things Were.
+Moving to a role doing operations at a developer-centric startup was both a culture shock and a great learning experience. I'll discuss what worked for me (and what was challenging!) in terms of my transition to a DevOps practice. Spoiler alert: change is scary, but awesome developers on the team make it much easier for an old-school sysadmin to be assimilated into the DevOps of Borg.kromh](https://youtu.be/uLfIp-2zm6I)
+
+### DevOps planning and tools
+- [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge](http://www.scrumguides.org/)
+- [Why estimates never work](http://www.brandonsavage.net/why-estimates-never-work/)
+- [You will not become agile by implementing scrum](https://www.linkedin.com/pulse/you-become-agile-implementing-scrum-jurriaan-kamer)
+- [Kanban board is one of the most effective and popular tools for boosting productivity. Here is a collection of Kanban board's examples including plane simple and complicated Kanban board's style](http://tracks.roojoom.com/r/340)
+- [Lean vs Agile Programming](http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/)
+- [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 
 ### Continuous Integration and Delivery
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
@@ -205,40 +249,6 @@
 - [jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server](https://github.com/jhrcz/jenkins-rpm-builder)
 - [Building RPM with Docker images](http://blog.chmouel.com/2014/12/31/building-rpm-with-docker-images/)
 - [Reddit: Creating internal RPM build environment?](https://www.reddit.com/r/linuxadmin/comments/2ke2vs/creating_internal_rpm_build_environment/)
-
-### NoSQL
-- [Introduction to NoSQL by Martin Fowler, video tutorial](https://www.youtube.com/watch?v=qI_g07C_Q5I)
-- [NoSQL vs. SQL: Choosing a Data Management Solution](http://www.javacodegeeks.com/2015/10/nosql-vs-sql.html)
-- [NoSQL Guide, by Martin Fowler](http://martinfowler.com/nosql.html)
-- [thoughtworks.com: NoSQL Databases, an overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
-
-### NewSQL
-- [NuoDB es una de las principales soluciones NewSQL, una revolución con respecto a las monolíticas 1-box BBDD tradicionales. NuoDB es ACID y SQL, pero también distribuida/escalable y schema flexible](http://www.nuodb.com/)
-- [Inconvenientes de la replicación tradicional de BBDD](http://www.nuodb.com/blog/replication-is-it-easy)
-
-### Scalability and Reliability
-- [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
-- ["Scalable Internet Architectures" book - Theo Schlossnagle](http://scalableinternetarchitectures.com/)
-- [video: Scalable Internet Architectures - Theo Schlossnagle](https://www.youtube.com/watch?v=2WuT2rdLK5A)
-- [slides: Scalable Web Architectures: Common Patterns and Approaches](http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches)
-- [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
-- [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
-- [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
-
-### Search servers
-- [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/) 
- 
-### HTTP/2
-- [SPDY & HTTP 2 with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=WkLBrHW4NhQ)
-- https://http2.github.io/faq/
-- [A Simple Performance Comparison of HTTPS, SPDY and HTTP/2](https://blog.httpwatch.com/2015/01/16/a-simple-performance-comparison-of-https-spdy-and-http2/comment-page-1/)
-- [HTTP/2 With JBoss EAP 7 - Tech Preview](http://blog.eisele.net/2015/11/http2-with-jboss-eap-7.html)
-- [Dzone - HTTP/2 With JBoss EAP 7: Tech Preview](https://dzone.com/articles/http2-with-jboss-eap-7-tech-preview)
-- [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
-- [Enabling HTTPS Without Sacrificing Your Web Performance](http://moz.com/blog/enabling-https-without-sacrificing-web-performance)
-- [HTTP/2 resources](https://pinboard.in/u:rmurphey/t:http2/)
-- [As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet](http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/)
-- [Microsoft may block SHA1 certificates sooner than expected](http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/)
  
 ### Git
 - [GitHub lanza su propio curso de formación; ¿el objetivo? Que los desarrolladores exploten todo su potencial](http://www.genbeta.com/comparativa/github-lanza-su-propio-curso-de-formacion-el-objetivo-que-los-desarrolladores-exploten-todo-su-potencial)
@@ -258,13 +268,6 @@
 - [git.training](http://git.training/)
 - [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 
-### Next Generation Firewalls
-- [Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
-- http://livedemo.sonicwall.com
-- [Disponible la 6ª generación de Dell SonicWALL TZ Series Firewalls con SonicOS 6.2. A tener en cuenta por Pymes interesadas en las nuevas conexiones de Internet para empresa (300 y 500Mbs)](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-sonic-wall-tz-series)
-- [SonicWALL Firewall vs. Fortinet Fortigate](http://www.firewalls.com/sonicwall_vs_fortigate)
-- [Dell Security Adds 50 Percent Rebate On SonicWall TZ And NSA Appliances](http://www.crn.com/news/channel-programs/300077951/dell-security-adds-50-percent-rebate-on-sonicwall-tz-and-nsa-appliances.htm)
-
 ### Identity Management
 - [Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
 - [Improvements to Identity Management (IdM) in RHEL 7.1](http://www.redhat.com/en/about/press-releases/red-hat-continues-platform-innovation-general-availability-first-minor-release-red-hat-enterprise-linux-7)
@@ -276,6 +279,7 @@
 
 ### Load Testing
 - [JMeter Tutorial for Load Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
+- [Selenium, qtp Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 
 ### Metric monitoring
 - [Stop using Nagios (so it can die peacefully)](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
@@ -285,7 +289,6 @@
 - [All the slides of Zabbix Conference 2015](http://www.zabbix.com/conf2015_agenda.php)
 - [Zabbix for Beginners webinar](https://www.youtube.com/watch?v=uqFaz2HyxVM)
 - [Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?](https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/)
-- [MoSKito.org APM, herramienta de monitorización de JVMs en producción](http://www.moskito.org/)
 - [Anemometer: MySQL Slow Query Monitor](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
 - [GitHub: Capturing JVM- and application-level metrics. So you know what's going on](http://metrics.dropwizard.io)
 - [GitHub: Dropwizard metrics](https://github.com/dropwizard/metrics)
@@ -303,7 +306,20 @@
 - [Sensu monitoring](https://sensuapp.org/)
 - [AppDynamics Application Intelligence Platform](http://www.appdynamics.com/product/)
 
+### APM - Application Performance Management
+- [APM Convergence: Monitoring vs. Management. APM is entering into a period of intense competition of technology and strategy with a multiplicity of vendors and viewpoints](http://apmdigest.com/apm-convergence-monitoring-vs-management)
+- [MoSKito.org APM, herramienta de monitorización de JVMs en producción](http://www.moskito.org/)
+- [New Relic para monitorizar el rendimiento y las conexiones de red de aplicaciones mรณviles Android e iOS](http://www.genbetadev.com/desarrollo-aplicaciones-moviles/new-relic-para-monitorizar-el-rendimiento-y-las-conexiones-de-red-de-aplicaciones-moviles-android-e-ios)
+- [Youtube - New Relic - Dashboard & Feature Tour](https://www.youtube.com/watch?v=J5tzI-8k__Q)
+- [New Relic - Developers: 30 minutes discovering how New Relic monitors your servers ](https://youtu.be/7Mg0UtzYql4)
+- [New Relic - Free Server Monitoring as a core feature of New Relic app management](https://blog.newrelic.com/2011/11/08/server-monitoring-is-here/)
+- [Performance management from the client's point of view](http://www.networkworld.com/article/2300639/data-center/performance-management-from-the-client-s-point-of-view.html)
+- [APMdigest: Where Application Performance Management, BSM, Virtualization, and Cloud Computing Meet](http://apmdigest.com/)
+- [4 Reasons to Use APM Tools](http://apmdigest.com/4-reasons-to-use-apm-tools)
+- [Application Performance Management and the Cloud](http://apmdigest.com/application-performance-management-and-the-cloud)
+
 ### Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)
+- [Devops and Log Management Tools Drive Agile IT](http://blog.xpolog.com/2014/04/17/devops-and-log-analysis-tools-drive-agile-it/)
 - [Logstash | Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
 - [Kibana | Explore & Visualize Your Data](https://www.elastic.co/products/kibana)
 - [Nagios Log Server vs. Elasticsearch – Logstash – Kibana](http://labs.nagios.com/2014/10/19/nagios-log-server-vs-elasticsearch-logstash-kibana/)
@@ -315,16 +331,13 @@
 - [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 - [Cloudlytics.com - Analytics for AWS Cloud Logs | CloudFront, CloudTrail, ELB & S3 Logs and Billing Analytics](https://www.cloudlytics.com/)
+- [Splunk feels the heat from stronger, cheaper open source rivals](http://www.infoworld.com/article/2610524/log-analysis/splunk-feels-the-heat-from-stronger--cheaper-open-source-rivals.html)
+- [Getting Started on Centralized Logging with Logstash, Elasticsearch and Kibana](http://www.ericvb.com/archives/getting-started-on-centralized-logging-with-logstash-elasticsearch-and-kibana)
+- [My Logstash and Graylog2 notes](http://jpmens.net/2012/08/06/my-logstash-and-graylog2-notes/)
+- [speakerdeck.com: Using elasticsearch, logstash & kibana to create realtime dashboards](https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards)
 
-### Spark
-- [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
-- [Spark Streaming: What Is It and Who’s Using It?](http://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/)
-- [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
-
-### Weblogic
-- [WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
-- [Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
-- [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
+### Search servers
+- [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/) 
 
 ### Linux
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
@@ -350,19 +363,15 @@
 - [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
 - [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
 
-### E-Mail
-- [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
-- [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
+### Next Generation Firewalls
+- [Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
+- http://livedemo.sonicwall.com
+- [Disponible la 6ª generación de Dell SonicWALL TZ Series Firewalls con SonicOS 6.2. A tener en cuenta por Pymes interesadas en las nuevas conexiones de Internet para empresa (300 y 500Mbs)](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-sonic-wall-tz-series)
+- [SonicWALL Firewall vs. Fortinet Fortigate](http://www.firewalls.com/sonicwall_vs_fortigate)
+- [Dell Security Adds 50 Percent Rebate On SonicWall TZ And NSA Appliances](http://www.crn.com/news/channel-programs/300077951/dell-security-adds-50-percent-rebate-on-sonicwall-tz-and-nsa-appliances.htm)
 
-### VoIP
-- [VoIP Planning: Calculate Your Bandwidth Before Adding SIP Trunk Service](http://it.toolbox.com/blogs/voip-news/voip-planning-calculate-your-bandwidth-before-adding-sip-trunk-service-66093)
-- [The Importance of VoIP Voice Quality](http://it.toolbox.com/blogs/voip-news/the-importance-of-voip-voice-quality-65970)
-- [10 Key VoIP Trends to Track in 2015](http://it.toolbox.com/blogs/voip-news/10-key-voip-trends-to-track-in-2015-66121)
-- [The Power of VoIP in Disaster Recovery](http://it.toolbox.com/blogs/voip-news/the-power-of-voip-in-disaster-recovery-66205)
-- [Implementing A Successful VoIP System](http://it.toolbox.com/blogs/voip-news/implementing-a-successful-voip-system-66450)
-- [Hosted vs SIP and PBX: Which is best for your Business?](http://it.toolbox.com/blogs/voip-news/hosted-vs-sip-and-pbx-which-is-best-for-your-business-66697)
-- [Understanding the Key Differences between ESBCs and Firewalls?](https://www.edgewaternetworks.com/2015/05/understanding-the-key-differences-between-esbcs-and-firewalls/)
-- [Reddit: Hosted VoIP/PBX Suggestions. Moving FreePBX/Asterisk/3CX to the Cloud](http://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/)
+## Network virtualization
+- [FOSS Network Functions Virtualization](https://www.opnfv.org) 
 
 ### Network forensics
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
@@ -401,6 +410,16 @@
 - [TRANSUM es un plugin dissector para Wireshark que añade información de tiempo de respuesta a los paquetes de petición de servicio para diferentes protocolos.](http://www.tribelabzero.com/temp/tl_resources.html)
 - [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
 
+### VoIP
+- [VoIP Planning: Calculate Your Bandwidth Before Adding SIP Trunk Service](http://it.toolbox.com/blogs/voip-news/voip-planning-calculate-your-bandwidth-before-adding-sip-trunk-service-66093)
+- [The Importance of VoIP Voice Quality](http://it.toolbox.com/blogs/voip-news/the-importance-of-voip-voice-quality-65970)
+- [10 Key VoIP Trends to Track in 2015](http://it.toolbox.com/blogs/voip-news/10-key-voip-trends-to-track-in-2015-66121)
+- [The Power of VoIP in Disaster Recovery](http://it.toolbox.com/blogs/voip-news/the-power-of-voip-in-disaster-recovery-66205)
+- [Implementing A Successful VoIP System](http://it.toolbox.com/blogs/voip-news/implementing-a-successful-voip-system-66450)
+- [Hosted vs SIP and PBX: Which is best for your Business?](http://it.toolbox.com/blogs/voip-news/hosted-vs-sip-and-pbx-which-is-best-for-your-business-66697)
+- [Understanding the Key Differences between ESBCs and Firewalls?](https://www.edgewaternetworks.com/2015/05/understanding-the-key-differences-between-esbcs-and-firewalls/)
+- [Reddit: Hosted VoIP/PBX Suggestions. Moving FreePBX/Asterisk/3CX to the Cloud](http://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/)
+
 ### WebPerf & Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
 - [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
@@ -425,6 +444,11 @@
 - [Apache Zeppelin, A web-based notebook that enables interactive data analytics](https://zeppelin.incubator.apache.org/)
 - [Don't use Hadoop - your data isn't that big](https://www.reddit.com/r/programming/comments/1mkvhs/dont_use_hadoop_your_data_isnt_that_big/)
 - [Google Refine, a power tool for working with messy data (formerly Freebase Gridworks)](https://code.google.com/p/google-refine/)
+
+### Spark
+- [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
+- [Spark Streaming: What Is It and Who’s Using It?](http://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/)
+- [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 
 ### SQL 
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
@@ -461,11 +485,15 @@
 - [What is MariaDB Galera Cluster?](https://mariadb.com/kb/en/mariadb/what-is-mariadb-galera-cluster/)
 - [Replication Manager for PostgreSQL Clusters](http://repmgr.org/)
 
-### Python and AWS
-- [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
-- [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
-- [Boto](https://github.com/boto/boto)
-- [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
+### NoSQL
+- [Introduction to NoSQL by Martin Fowler, video tutorial](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+- [NoSQL vs. SQL: Choosing a Data Management Solution](http://www.javacodegeeks.com/2015/10/nosql-vs-sql.html)
+- [NoSQL Guide, by Martin Fowler](http://martinfowler.com/nosql.html)
+- [thoughtworks.com: NoSQL Databases, an overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
+
+### NewSQL
+- [NuoDB es una de las principales soluciones NewSQL, una revolución con respecto a las monolíticas 1-box BBDD tradicionales. NuoDB es ACID y SQL, pero también distribuida/escalable y schema flexible](http://www.nuodb.com/)
+- [Inconvenientes de la replicación tradicional de BBDD](http://www.nuodb.com/blog/replication-is-it-easy)
 
 ### Storage & Backup
 - [Presentación Synology 2015 Evento Madrid](http://qloudea.com/blog/evento-synology-2015-madrid/)
@@ -555,10 +583,6 @@
 - [Practical RAID Choices for Spindle Based Arrays](http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)
 - [Can I use a desktop hard drive in my storage array?](http://blog.seagate.com/business/can-i-use-a-desktop-hard-drive-in-my-storage-array/)
 
-### Regular expressions
-- [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
-- [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
-
 ### Editors
 - [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Sublime Text Unofficial Documentation] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
@@ -575,6 +599,10 @@
 - [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
+
+### Regular expressions
+- [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
+- [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
 
 ### Bash
 - [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands](http://www.shellcheck.net/)
@@ -615,6 +643,12 @@
 - [Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian] (http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/)
 - [Profiling Python using cProfile: a concrete case] (https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara)
 - [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team] (http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team) 
+
+### Python and AWS
+- [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
+- [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
+- [Boto](https://github.com/boto/boto)
+- [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
 
 ### JVM
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
