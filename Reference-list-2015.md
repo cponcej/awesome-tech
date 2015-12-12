@@ -746,8 +746,8 @@
 - [AWS Partner Network (APN) blog](https://aws.amazon.com/es/blogs/apn/)
 - [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
 
-### E-Learning
-- [Red Hat Certified System Administrator - Exam EX200 - RHCSA (11€ con cupón de descuento)](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
+### E-Learning (Drop the price of any Udemy Course to 11-12€ with a Coupon Code)
+- [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
 - [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
 - [Learn To Run Linux Servers Part 2 (LPI Level 1-102)](https://www.udemy.com/linuxacademy2/)
 - [A Cloud Guru, AWS Certification Courses](https://acloud.guru)
@@ -762,3 +762,4 @@
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
 - [Udemy: Learn Database Design using PostgreSQL](https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20)
 - [Udemy: Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
+- [Udemy: Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
