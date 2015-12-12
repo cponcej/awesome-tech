@@ -130,6 +130,7 @@
 
 ## JBoss, Red Hat OpenShift PaaS and Data Virtualization
 - [Red Hat OpenShift 3.1 Opens the Door for Both .NET and JBoss Middleware](http://thenewstack.io/openshift-3-1-opens-door-net-jboss-middleware/)
+- [Red Hat JBoss Fuse Workshop 101: Fuse in EAP](https://dzone.com/articles/red-hat-jboss-fuse-workshop-101-fuse-in-eap)
 - [JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
 - [Introduction to JBoss EAP 6: installation, configuration & clustering](http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar)
 - [JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
@@ -203,6 +204,7 @@
 - [Docker in Action - Fitter, Happier, More Productive](https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/)
 - [Docker for PHP Developers.Efficient Nginx, PHP, and MySQL development environments with Docker](http://www.newmediacampaigns.com/blog/docker-for-php-developers)
 - [DockerCon EU 2015 Videos: Use Cases](http://blog.docker.com/2015/12/dockercon-eu-2015-use-cases/)
+- [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
 
 ### Configuration Management, Vagrant
 - [Learning Puppet with Vagrant, video tutorial at sysadmincasts.com](http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant)
@@ -469,6 +471,7 @@
 
 ### Python analytics
 - [Python for Data Science vs Python for Web Development](http://www.datasciencecentral.com/profiles/blogs/python-for-data-science-vs-python-for-web-development)
+- [Python for Social Scientists](http://www.pythonforsocialscientists.org/#welcome-to-python-for-social-scientists)
 - [Cheat Sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 - [The State of Python for Data Science, PySS 2015](https://speakerdeck.com/chdoig/the-state-of-python-for-data-science-pyss-2015)
 - [Distributed Computing on your Cluster with Anaconda (modern open source analytics platform powered by Python) - Webinar 2015](http://www.slideshare.net/continuumio/distributed-computing-on-your-cluster-with-anaconda-webinar-2015)
@@ -485,6 +488,8 @@
 - [Apache Zeppelin, A web-based notebook that enables interactive data analytics](https://zeppelin.incubator.apache.org/)
 - [Don't use Hadoop - your data isn't that big](https://www.reddit.com/r/programming/comments/1mkvhs/dont_use_hadoop_your_data_isnt_that_big/)
 - [Google Refine, a power tool for working with messy data (formerly Freebase Gridworks)](https://code.google.com/p/google-refine/)
+- [stratebi - Apache Storm: Introduccion](http://es.slideshare.net/zanorte/apache-storm-introduccion)
+- [stratebi - Instalación de Storm](http://es.slideshare.net/zanorte/apache-storm-instalacin)
 
 ### Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
@@ -678,12 +683,13 @@
 ### HTML5 & Developer Survey 2015
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular] (http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
+- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
 - [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
 - [Zeef.com - discover quality resources on the web](https://zeef.com/about)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
-- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
+- [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
 
 ### Software Testing
 - [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
