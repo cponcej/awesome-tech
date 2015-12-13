@@ -3,10 +3,12 @@
 **Table of Contents**  
 <!-- MarkdownTOC -->
 
-- [Zeef.com - Find & share quality development/tech resources](#zeefcom---find--share-quality-developmenttech-resources)
-- [stackshare.io - Discover and discuss the best software tools and services](#stackshareio---discover-and-discuss-the-best-software-tools-and-services)
+- [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
+	- [Zeef.com - Find & share quality development/tech resources](#zeefcom---find--share-quality-developmenttech-resources)
+	- [stackshare.io - Discover and discuss the best software tools and services](#stackshareio---discover-and-discuss-the-best-software-tools-and-services)
 - [Startups](#startups)
-- [Startup jobs](#startup-jobs)
+	- [Startup related links](#startup-related-links)
+	- [Startup jobs](#startup-jobs)
 - [Red Hat](#red-hat)
 	- [Red Hat virtualization](#red-hat-virtualization)
 	- [Red Hat docs and forums](#red-hat-docs-and-forums)
@@ -91,9 +93,9 @@
 <!-- /MarkdownTOC -->
 
 
+# High quality tech resources and search engines
 
-
-# Zeef.com - Find & share quality development/tech resources
+## Zeef.com - Find & share quality development/tech resources
 - [Zeef.com](https://zeef.com)
 - [agile.zeef.com](https://agile.zeef.com)
 - [sublime-text.zeef.com](https://sublime-text.zeef.com)
@@ -137,17 +139,19 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
-# stackshare.io - Discover and discuss the best software tools and services
+## stackshare.io - Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
 - [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
 
 # Startups
+
+## Startup related links
 - [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
 - [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [startup.zeef.com](https://startup.zeef.com/)
 
-# Startup jobs
+## Startup jobs
 - [Angellist jobs](https://angel.co)
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
