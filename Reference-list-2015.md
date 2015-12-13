@@ -40,11 +40,7 @@
 	- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 	- [Git](#git)
 	- [Load Testing](#load-testing)
-- [Metric monitoring](#metric-monitoring)
-	- [Tools](#tools)
-	- [APM - Application Performance Management](#apm---application-performance-management)
-	- [Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)](#centralized-logging-big-data-log-management-tools-splunkxpolog-graylog2-etc)
-	- [Search servers](#search-servers)
+	- [Metric monitoring](#metric-monitoring)
 - [Linux](#linux)
 - [Microsoft](#microsoft)
 - [Networking](#networking)
@@ -420,8 +416,8 @@
 - [JMeter Tutorial for Load Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [Selenium, qtp Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 
-# Metric monitoring
-## Tools
+## Metric monitoring
+### Tools
 - [Stop using Nagios (so it can die peacefully)](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
 - [Linux cluster sysadmin — OS metric monitoring with colmux](http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/)
 - [Netflix and linux performance analysis in 60 seconds](http://www.itworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
@@ -447,7 +443,7 @@
 - [AppDynamics Application Intelligence Platform](http://www.appdynamics.com/product/)
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
 
-## APM - Application Performance Management
+### APM - Application Performance Management
 - [APM Convergence: Monitoring vs. Management. APM is entering into a period of intense competition of technology and strategy with a multiplicity of vendors and viewpoints](http://apmdigest.com/apm-convergence-monitoring-vs-management)
 - [MoSKito.org APM, herramienta de monitorización de JVMs en producción](http://www.moskito.org/)
 - [New Relic para monitorizar el rendimiento y las conexiones de red de aplicaciones mรณviles Android e iOS](http://www.genbetadev.com/desarrollo-aplicaciones-moviles/new-relic-para-monitorizar-el-rendimiento-y-las-conexiones-de-red-de-aplicaciones-moviles-android-e-ios)
@@ -459,7 +455,7 @@
 - [4 Reasons to Use APM Tools](http://apmdigest.com/4-reasons-to-use-apm-tools)
 - [Application Performance Management and the Cloud](http://apmdigest.com/application-performance-management-and-the-cloud)
 
-## Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)
+### Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)
 - [Devops and Log Management Tools Drive Agile IT](http://blog.xpolog.com/2014/04/17/devops-and-log-analysis-tools-drive-agile-it/)
 - [Logstash | Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
 - [Kibana | Explore & Visualize Your Data](https://www.elastic.co/products/kibana)
@@ -477,7 +473,7 @@
 - [My Logstash and Graylog2 notes](http://jpmens.net/2012/08/06/my-logstash-and-graylog2-notes/)
 - [speakerdeck.com: Using elasticsearch, logstash & kibana to create realtime dashboards](https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards)
 
-## Search servers
+### Search servers
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/) 
 
 # Linux
