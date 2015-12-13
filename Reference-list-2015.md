@@ -857,6 +857,7 @@
 - [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
 
 # E-Learning 
+
 ## Udemy. Drop the price of any Udemy Course to 11-12€ with a Coupon Code
 - [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
 - [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
@@ -869,6 +870,7 @@
 - [Udemy: Learn Database Design using PostgreSQL](https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20)
 - [Udemy: Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
 - [Udemy: Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
+
 ## Alternatives
 - [A Cloud Guru, AWS Certification Courses](https://acloud.guru)
 - [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
