@@ -2,72 +2,72 @@
 
 <!-- MarkdownTOC -->
 
-- [Zeef.com - Find & share quality development/tech resources][zeefcom---find--share-quality-developmenttech-resources]
-- [stackshare.io - Discover and discuss the best software tools and services][stackshareio---discover-and-discuss-the-best-software-tools-and-services]
-- [Startups][startups]
-- [Startup jobs][startup-jobs]
-- [Red Hat virtualization][red-hat-virtualization]
-- [Red Hat docs and forums][red-hat-docs-and-forums]
-- [Red Hat Development][red-hat-development]
-- [Scalability and Reliability][scalability-and-reliability]
-- [HTTP/2][http2]
-- [Apache][apache]
-- [Weblogic][weblogic]
-- [Nginx][nginx]
-- [JBoss, Red Hat OpenShift PaaS and Data Virtualization][jboss-red-hat-openshift-paas-and-data-virtualization]
-- [E-Mail][e-mail]
-- [Security - Identity Management][security---identity-management]
-- [Security. Web App Firewall - blocking bots][security-web-app-firewall---blocking-bots]
-- [Security][security]
-- [Microservices][microservices]
-- [Docker][docker]
-- [Configuration Management, Vagrant][configuration-management-vagrant]
-- [Configuration Management, Ansible][configuration-management-ansible]
-- [Configuration Management, Puppet][configuration-management-puppet]
-- [Configuration Management, Red Hat Satellite, Katello and Foreman][configuration-management-red-hat-satellite-katello-and-foreman]
-- [Configuration Management, Chef][configuration-management-chef]
-- [DevOps][devops]
-- [DevOps planning and tools][devops-planning-and-tools]
-- [Continuous Integration and Delivery][continuous-integration-and-delivery]
-- [Git][git]
-- [Load Testing][load-testing]
-- [Metric monitoring][metric-monitoring]
-- [APM - Application Performance Management][apm---application-performance-management]
-- [Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)][centralized-logging-big-data-log-management-tools-splunkxpolog-graylog2-etc]
-- [Search servers][search-servers]
-- [Linux][linux]
-- [Microsoft][microsoft]
-- [Next Generation Firewalls][next-generation-firewalls]
-- [Network virtualization][network-virtualization]
-- [Network forensics][network-forensics]
-- [VoIP][voip]
-- [WiFi security][wifi-security]
-- [WebPerf & Resilient Networking: Planning for Failure][webperf--resilient-networking-planning-for-failure]
-- [Python analytics][python-analytics]
-- [Big Data][big-data]
-- [Spark][spark]
-- [SQL][sql]
-- [SQL replication][sql-replication]
-- [NoSQL][nosql]
-- [NewSQL][newsql]
-- [Storage & Backup][storage--backup]
-- [Remote PC Access][remote-pc-access]
-- [Servers, Dell][servers-dell]
-- [Servers, HP][servers-hp]
-- [RAID disks][raid-disks]
-- [Editors][editors]
-- [Regular expressions][regular-expressions]
-- [Bash][bash]
-- [Python][python]
-- [Python and AWS][python-and-aws]
-- [JVM][jvm]
-- [HTML5 & Developer Survey 2015][html5--developer-survey-2015]
-- [Software Testing][software-testing]
-- [Domain driven design][domain-driven-design]
-- [Cloud][cloud]
-- [AWS re:Invent 2015][aws-reinvent-2015]
-- [AWS Partner Network (APN)][aws-partner-network-apn]
-- [E-Learning (Drop the price of any Udemy Course to 11-12€ with a Coupon Code)][e-learning-drop-the-price-of-any-udemy-course-to-11-12€-with-a-coupon-code]
+- [Zeef.com - Find & share quality development/tech resources](#zeefcom---find--share-quality-developmenttech-resources)
+- [stackshare.io - Discover and discuss the best software tools and services](#stackshareio---discover-and-discuss-the-best-software-tools-and-services)
+- [Startups](#startups)
+- [Startup jobs](#startup-jobs)
+- [Red Hat virtualization](#red-hat-virtualization)
+- [Red Hat docs and forums](#red-hat-docs-and-forums)
+- [Red Hat Development](#red-hat-development)
+- [Scalability and Reliability](#scalability-and-reliability)
+- [HTTP/2](#http2)
+- [Apache](#apache)
+- [Weblogic](#weblogic)
+- [Nginx](#nginx)
+- [JBoss, Red Hat OpenShift PaaS and Data Virtualization](#jboss-red-hat-openshift-paas-and-data-virtualization)
+- [E-Mail](#e-mail)
+- [Security - Identity Management](#security---identity-management)
+- [Security. Web App Firewall - blocking bots](#security-web-app-firewall---blocking-bots)
+- [Security](#security)
+- [Microservices](#microservices)
+- [Docker](#docker)
+- [Configuration Management, Vagrant](#configuration-management-vagrant)
+- [Configuration Management, Ansible](#configuration-management-ansible)
+- [Configuration Management, Puppet](#configuration-management-puppet)
+- [Configuration Management, Red Hat Satellite, Katello and Foreman](#configuration-management-red-hat-satellite-katello-and-foreman)
+- [Configuration Management, Chef](#configuration-management-chef)
+- [DevOps](#devops)
+- [DevOps planning and tools](#devops-planning-and-tools)
+- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
+- [Git](#git)
+- [Load Testing](#load-testing)
+- [Metric monitoring](#metric-monitoring)
+- [APM - Application Performance Management](#apm---application-performance-management)
+- [Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)](#centralized-logging-big-data-log-management-tools-splunkxpolog-graylog2-etc)
+- [Search servers](#search-servers)
+- [Linux](#linux)
+- [Microsoft](#microsoft)
+- [Next Generation Firewalls](#next-generation-firewalls)
+- [Network virtualization](#network-virtualization)
+- [Network forensics](#network-forensics)
+- [VoIP](#voip)
+- [WiFi security](#wifi-security)
+- [WebPerf & Resilient Networking: Planning for Failure](#webperf--resilient-networking-planning-for-failure)
+- [Python analytics](#python-analytics)
+- [Big Data](#big-data)
+- [Spark](#spark)
+- [SQL](#sql)
+- [SQL replication](#sql-replication)
+- [NoSQL](#nosql)
+- [NewSQL](#newsql)
+- [Storage & Backup](#storage--backup)
+- [Remote PC Access](#remote-pc-access)
+- [Servers, Dell](#servers-dell)
+- [Servers, HP](#servers-hp)
+- [RAID disks](#raid-disks)
+- [Editors](#editors)
+- [Regular expressions](#regular-expressions)
+- [Bash](#bash)
+- [Python](#python)
+- [Python and AWS](#python-and-aws)
+- [JVM](#jvm)
+- [HTML5 & Developer Survey 2015](#html5--developer-survey-2015)
+- [Software Testing](#software-testing)
+- [Domain driven design](#domain-driven-design)
+- [Cloud](#cloud)
+- [AWS re:Invent 2015](#aws-reinvent-2015)
+- [AWS Partner Network (APN)](#aws-partner-network-apn)
+- [E-Learning (Drop the price of any Udemy Course to 11-12€ with a Coupon Code)](#e-learning-drop-the-price-of-any-udemy-course-to-11-12€-with-a-coupon-code)
 
 <!-- /MarkdownTOC -->
 
