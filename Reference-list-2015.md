@@ -649,6 +649,7 @@
 - [Inconvenientes de la replicación tradicional de BBDD](http://www.nuodb.com/blog/replication-is-it-easy)
 
 # Storage & Backup
+
 ## Storage
 - [Presentación Synology 2015 Evento Madrid](http://qloudea.com/blog/evento-synology-2015-madrid/)
 - [Forum.synology.com](http://forum.synology.com)
@@ -656,18 +657,19 @@
 - https://www.synology.com/en-uk/company/case_study/somersault
 - https://www.synology.com/en-uk/company/case_study/Bridges_Electrical
 - http://qloudea.com/blog/synology-ds3615xs-lanzamiento/
+- [Synology RackStation RS18016xs+](https://www.synology.com/en-uk/products/RS18016xs+)
 - [Synology RS815+ NAS](https://www.synology.com/es-es/products/RS815+)
 - [Synology DS214Play Revisión a fondo](http://qloudea.com/blog/review-synology-ds214play/)
 - [Synology DiskStation DS3615xs review](http://www.itpro.co.uk/storage/23990/synology-diskstation-ds3615xs-review)
 - [12 best NAS drives 2015/2016 UK: What's the best network storage you can buy in the UK?](http://www.pcadvisor.co.uk/test-centre/pc-peripheral/12-best-nas-drives-2015-2016-uk-3217608/)
 - [Soluciones de almacenamiento Flash Array basadas en Dell y en Supermicro](http://searchdatacenter.techtarget.com/feature/Rethinking-data-center-components-as-commodities)
 - [All Flash Buying Guide](http://www.infostor.com/disk-arrays/all-flash-buying-guide.html)
+
+## Backup
 - [6 Steps to Better Data Backup and Quicker Recovery](https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd)
 - [Best Practices for Linux Backup Every Administrator Should Know](http://www.storagecraft.com/blog/best-practices-for-linux-backup-every-administrator-should-know/)
-## Backup
 - [Synology Data Backup](https://www.synology.com/en-us/dsm/data_backup)
 - [Synology RC18015xs+ and Snapshot Manager at Computex 2015](https://youtu.be/YeMoCDxZYDU?list=PLbeBr03sf2pUuYdoZCwJQ5oGvFhIMvAWM)
-- [Synology RackStation RS18016xs+](https://www.synology.com/en-uk/products/RS18016xs+)
 - [rsnapshot Remote MySQL Backup Shell Script](http://bash.cyberciti.biz/backup/rsnapshot-remote-mysql-backup-shell-script/)
 - [rsnapshot.org, filesystem snapshot](http://rsnapshot.org/)
 - [Moving from Tape to Disk Backup with Data Deduplication](http://www.datamation.com/data-center/moving-from-tape-to-disk-backup-with-data-deduplication.html)
