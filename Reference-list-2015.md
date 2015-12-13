@@ -7,9 +7,10 @@
 - [stackshare.io - Discover and discuss the best software tools and services](#stackshareio---discover-and-discuss-the-best-software-tools-and-services)
 - [Startups](#startups)
 - [Startup jobs](#startup-jobs)
-- [Red Hat virtualization](#red-hat-virtualization)
-- [Red Hat docs and forums](#red-hat-docs-and-forums)
-- [Red Hat Development](#red-hat-development)
+- [Red Hat](#red-hat)
+	- [Red Hat virtualization](#red-hat-virtualization)
+	- [Red Hat docs and forums](#red-hat-docs-and-forums)
+	- [Red Hat Development](#red-hat-development)
 - [Scalability and Reliability](#scalability-and-reliability)
 - [HTTP/2](#http2)
 - [Apache](#apache)
@@ -134,7 +135,8 @@
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
 
-# Red Hat virtualization
+# Red Hat
+## Red Hat virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 - [How to Create Virtual Machines in Linux Using KVM (Kernel-based Virtual Machine)] (http://www.tecmint.com/install-and-configure-kvm-in-linux/)
 - [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
@@ -143,7 +145,7 @@
 - [GlusterFS Documentation](http://gluster.readthedocs.org/en/latest/)
 - [GlusterFS scalable network filesystem](http://www.gluster.org/)
 
-# Red Hat docs and forums
+## Red Hat docs and forums
 - [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
 - [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
 - [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
@@ -158,7 +160,7 @@
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 - [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
 
-# Red Hat Development
+## Red Hat Development
 - [Our 5 most popular developer posts in 2014](http://developerblog.redhat.com/2014/12/31/5-most-popular-posts-2014/)
 - [Red Hat Software Collections 2.1 now generally available](http://developerblog.redhat.com/2015/11/17/software-collections-2-1-generally-available/)
 - [Red Hat developers blog, an Enterprise Developer’s Journey to the IoT](http://developerblog.redhat.com/2015/12/02/enterprise-developers-journey-to-iot/)
