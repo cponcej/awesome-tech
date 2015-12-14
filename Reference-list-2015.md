@@ -88,6 +88,7 @@
 - [Domain driven design](#domain-driven-design)
 - [Cloud](#cloud)
 	- [Cloud references](#cloud-references)
+	- [Cloud Pricing](#cloud-pricing)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 - [E-Learning](#e-learning)
@@ -894,11 +895,13 @@
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
 - [reddit: Size of your AWS infrastructure and who manages it/how it's managed](https://www.reddit.com/r/aws/comments/277zli/size_of_your_aws_infrastructure_and_who_manages/)
 - [Disadvantages of Cloud Computing](http://cloudacademy.com/blog/disadvantages-of-cloud-computing/)
-- [AWS simple monthly calculator](http://calculator.s3.amazonaws.com/index.html)
+
+## Cloud Pricing
+- [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)
+	- [Amazon's AWS simple monthly calculator](http://calculator.s3.amazonaws.com/index.html)
 - [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/)
 - [Azure Pricing Calculator](http://azure.microsoft.com/en-us/pricing/calculator/)
 - [Linode pricing calculator](https://www.linode.com/pricing)
-- [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)
 
 ## AWS re:Invent 2015
 - [Amazon anuncia Elastic File System (Amazon EFS)](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
