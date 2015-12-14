@@ -20,7 +20,6 @@
 	- [Weblogic](#weblogic)
 	- [Nginx](#nginx)
 	- [JBoss/WildFly, Red Hat OpenShift PaaS and Data Virtualization](#jbosswildfly-red-hat-openshift-paas-and-data-virtualization)
-	- [Oracle Database](#oracle-database)
 	- [E-Mail](#e-mail)
 - [Security](#security)
 	- [Security - Identity Management](#security---identity-management)
@@ -30,6 +29,7 @@
 - [Configuration Management](#configuration-management)
 	- [Vagrant](#vagrant)
 	- [Ansible](#ansible)
+		- [Databases via Ansible](#databases-via-ansible)
 	- [Puppet](#puppet)
 	- [Red Hat Satellite, Katello and Foreman](#red-hat-satellite-katello-and-foreman)
 	- [Chef](#chef)
@@ -266,9 +266,6 @@
 - [JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
 - [Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](http://info.c2b2.co.uk/learn-how-to-supercharge-your-apps-with-jboss-data-grid)
 
-## Oracle Database
-- [middlewaresnippets.blogspot.com.es - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com.es/2015/06/more-fun-with-ansible.html)
-
 ## E-Mail
 - [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
 - [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
@@ -343,6 +340,14 @@
 - [AnsibleFest San Francisco 2015 Presentations](http://www.ansible.com/videos-ansiblefest-sf-2015)
 	- [Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes](http://www.ansible.com/ansiblefest-videos-spark-central-sf15)
 	- [Lessons Automating the Deployment of J.Crew’s Website](http://www.ansible.com/ansiblefest-videos-jcrew-sf15) 
+
+### Databases via Ansible
+	- [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)
+	- [Ansible Role: MySQL](https://github.com/geerlingguy/ansible-role-mysql)
+	- [Example Ansible playbook that uses the MySQL module](https://github.com/ansible/ansible-examples/blob/master/language_features/mysql.yml)
+	- [Ansible and Loading MySQL Databases Part I](https://opensourcedba.wordpress.com/2015/07/14/ansible-and-loading-mysql-databases-part-i/)
+			- [Ansible and Loading MySQL Databases Part II](https://opensourcedba.wordpress.com/2015/07/29/ansible-and-loading-mysql-databases-part-ii/)
+	- [middlewaresnippets.blogspot.com.es - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com.es/2015/06/more-fun-with-ansible.html)
 
 ## Puppet
 - [Github: The Puppet Dashboard is a web interface providing node classification and reporting features for Puppet, an open source system configuration management tool](https://github.com/sodabrew/puppet-dashboard)
