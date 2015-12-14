@@ -278,6 +278,7 @@
 - [Announcing Managed Microsoft Active Directory in the AWS Cloud](https://aws.amazon.com/es/about-aws/whats-new/2015/12/announcing-managed-microsoft-active-directory-in-the-aws-cloud/)
 
 ## Application Security. Web App Firewall - blocking bots
+- [dzone.com - The 2015 DZone Guide to Application Security](http://bit.ly/1RksReA)
 - [JBossDeveloper - Theft-Proof Java EE - Securing Your Java EE Enterprise Applications](http://planet.jboss.org/post/theft_proof_java_ee_securing_your_java_ee_enterprise_applications)
 - [pyvideo.org: Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities](http://www.pyvideo.org/video/3512/shiny-lets-be-bad-guys-exploiting-and-mitigati-3)
 - [What is Baiduspider?](https://chineseseoshifu.com/blog/what-is-baiduspider.html)
