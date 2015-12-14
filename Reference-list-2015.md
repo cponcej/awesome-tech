@@ -203,8 +203,10 @@
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
 
 ## Red Hat Development
+- [developerblog.redhat.com: 2015 Year in Review – oh what a year](http://developerblog.redhat.com/2015/12/14/2015-year-in-review-oh-what-a-year/)
 - [Our 5 most popular developer posts in 2014](http://developerblog.redhat.com/2014/12/31/5-most-popular-posts-2014/)
 - [Red Hat Software Collections 2.1 now generally available](http://developerblog.redhat.com/2015/11/17/software-collections-2-1-generally-available/)
+- [developers.redhat.com: So, what are containers??](http://developers.redhat.com/containers/overview/)
 - [Red Hat developers blog, an Enterprise Developer’s Journey to the IoT](http://developerblog.redhat.com/2015/12/02/enterprise-developers-journey-to-iot/)
 - [Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
