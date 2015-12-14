@@ -16,7 +16,7 @@
 - [Scalability and Reliability](#scalability-and-reliability)
 - [WebApp](#webapp)
 	- [HTTP/2](#http2)
-	- [Apache](#apache)
+	- [Apache & Tomcat](#apache--tomcat)
 	- [Weblogic](#weblogic)
 	- [Nginx](#nginx)
 	- [JBoss/WildFly, Red Hat OpenShift PaaS and Data Virtualization](#jbosswildfly-red-hat-openshift-paas-and-data-virtualization)
@@ -236,8 +236,9 @@
 	- [As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet](http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/)
 	- [Microsoft may block SHA1 certificates sooner than expected](http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/)
 
-## Apache
+## Apache & Tomcat
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
+- [How to set up a cluster with Tomcat 8, Apache and mod_jk.Tomcat Performance Monitoring and Tuning](http://blog.c2b2.co.uk/2014/05/tomcat-performance-monitoring-and-tuning.html)
 
 ## Weblogic
 - [blogs.oracle.com - WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
@@ -278,6 +279,9 @@
 - [Are their any valid Active Directory Alternatives?](http://community.spiceworks.com/topic/689453-are-their-any-valid-active-directory-alternatives)
 - [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
 - [Announcing Managed Microsoft Active Directory in the AWS Cloud](https://aws.amazon.com/es/about-aws/whats-new/2015/12/announcing-managed-microsoft-active-directory-in-the-aws-cloud/)
+- [Apache Syncope, Open Source Identity Management software](http://syncope.apache.org/)
+- [Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management](http://shiro.apache.org/)
+- [Open source identity management 20121106 - apache con eu](http://www.slideshare.net/ilgrosso/open-source-identity-management-20121106-apache-con-eu)
 
 ## Application Security. Web App Firewall - blocking bots
 - [dzone.com - The 2015 DZone Guide to Application Security](http://bit.ly/1RksReA)
@@ -673,6 +677,7 @@
 - [Google Refine, a power tool for working with messy data (formerly Freebase Gridworks)](https://code.google.com/p/google-refine/)
 - [stratebi - Apache Storm: Introduccion](http://es.slideshare.net/zanorte/apache-storm-introduccion)
 - [stratebi - Instalación de Storm](http://es.slideshare.net/zanorte/apache-storm-instalacin)
+- [HP Big Data Reference Architecture for Apache Spark based on RHEL](http://hpe.to/6019BO4TW)
 
 ## Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
@@ -978,8 +983,11 @@
 
 ## Alternatives
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
+- [Databricks to run two massive online courses on Apache Spark](https://databricks.com/blog/2014/12/02/announcing-two-spark-based-moocs.html)
+	- [Introduction to Big Data with Apache Spark](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs100-1x-introduction-big-6181)
+	- [Scalable Machine Learning](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs190-1x-scalable-machine-6066)
 - [INE.com training videos (free): Wireshark, vSphere 6.0, CCNA, MPLS, BGP, etc](https://www.youtube.com/user/INEtraining/playlists)
-- [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
 - [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
+- [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
