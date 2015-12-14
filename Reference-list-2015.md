@@ -140,6 +140,8 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
+![internet users](/images/internet-users.png)
+
 ## stackshare.io - Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
 - [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
@@ -295,6 +297,8 @@
 - [Fixing Heartbleed with Ansible](http://www.ansible.com/blog/fixing-heartbleed-with-ansible)
 - [Patching the GHOST glibc gethostbyname CVE-2015-0235 bug](https://sysadmincasts.com/episodes/44-patching-the-ghost-glibc-gethostbyname-cve-2015-0235-bug)
 - [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
+
+![intrusion response procedures](/images/intrusion_response_procedures.png)
 
 # New SOA: Microservices and Docker
 ## Microservices
@@ -843,6 +847,8 @@
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
 - [Free online Book: O'Reilly® Test-Driven Development with Python](http://freecomputerbooks.com/Test-Driven-Development-with-Python.html)
 - [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
+
+![system testing](/images/system_testing_cartoon.png)
 
 # Domain driven design
 - [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
