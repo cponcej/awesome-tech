@@ -357,6 +357,8 @@
 - [PyCon US 2015: Ansible beyond YAML](http://www.pyvideo.org/video/3484/ansible-beyond-yaml)
 - [DevOps.com: Ansible: Automation, Provisioning and Configuration Management](http://devops.com/2015/05/19/ansible-automation-provisioning-configuration-management/)
 
+![disruption cycle](/images/disruption cycle.png)
+
 ## Puppet
 - [Github: The Puppet Dashboard is a web interface providing node classification and reporting features for Puppet, an open source system configuration management tool](https://github.com/sodabrew/puppet-dashboard)
 - [Github: Smarter Puppet deployment.R10k provides a general purpose toolset for deploying Puppet environments and modules](https://github.com/puppetlabs/r10k)
@@ -684,6 +686,9 @@
 - [NuoDB es una de las principales soluciones NewSQL, una revolución con respecto a las monolíticas 1-box BBDD tradicionales. NuoDB es ACID y SQL, pero también distribuida/escalable y schema flexible](http://www.nuodb.com/)
 - [Inconvenientes de la replicación tradicional de BBDD](http://www.nuodb.com/blog/replication-is-it-easy)
 
+![sql-join-clauses](/images/sql-join-clauses.png)
+![Visual_SQL_JOINS](/images/Visual_SQL_JOINS_orig.jpg)
+
 # Storage & Backup
 
 ## Storage
@@ -841,6 +846,8 @@
 - [Zeef.com - discover quality resources on the web](https://zeef.com/about)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
 - [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
+
+![goto-dinosaur](/images/goto-dinosaur.jpeg)
 
 # Software Testing
 - [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
