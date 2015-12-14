@@ -438,7 +438,7 @@
 - [git.training](http://git.training/)
 - [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 
-![git image](/images/git.png)Format: ![Alt Text](url)
+![git image](/images/git.png)
 
 ## Load Testing
 - [JMeter Tutorial for Load Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
