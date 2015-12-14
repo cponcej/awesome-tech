@@ -19,11 +19,12 @@
 	- [Apache](#apache)
 	- [Weblogic](#weblogic)
 	- [Nginx](#nginx)
-	- [JBoss, Red Hat OpenShift PaaS and Data Virtualization](#jboss-red-hat-openshift-paas-and-data-virtualization)
+	- [JBoss/WildFly, Red Hat OpenShift PaaS and Data Virtualization](#jbosswildfly-red-hat-openshift-paas-and-data-virtualization)
 - [E-Mail](#e-mail)
 - [Security](#security)
 	- [Security - Identity Management](#security---identity-management)
 	- [Security. Web App Firewall - blocking bots](#security-web-app-firewall---blocking-bots)
+	- [Security, Breaking Firewalls](#security-breaking-firewalls)
 	- [Major security issues and blogs](#major-security-issues-and-blogs)
 - [New SOA: Microservices and Docker](#new-soa-microservices-and-docker)
 	- [Microservices](#microservices)
@@ -234,7 +235,10 @@
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
 - [Nginxconf 2014. When Dynamic Becomes Static: The Next Step in Web Caching Techniques: Wim Godden @nginxconf 2014](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
-## JBoss, Red Hat OpenShift PaaS and Data Virtualization
+## JBoss/WildFly, Red Hat OpenShift PaaS and Data Virtualization
+- [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
+- [JBoss Developer](https://developer.jboss.org/)
+- [JBoss Issue Tracker](https://issues.jboss.org)
 - [Red Hat OpenShift 3.1 Opens the Door for Both .NET and JBoss Middleware](http://thenewstack.io/openshift-3-1-opens-door-net-jboss-middleware/)
 - [Red Hat JBoss Fuse Workshop 101: Fuse in EAP](https://dzone.com/articles/red-hat-jboss-fuse-workshop-101-fuse-in-eap)
 - [JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
@@ -261,6 +265,10 @@
 - [What is Baiduspider?](https://chineseseoshifu.com/blog/what-is-baiduspider.html)
 - [Estándar de exclusión de robots](https://es.wikipedia.org/wiki/Est%C3%A1ndar_de_exclusi%C3%B3n_de_robots)
 - [Robots Database](http://www.robotstxt.org/db.html)
+
+## Security, Breaking Firewalls
+- [Breaking Firewalls with OpenSSH and PuTTY](http://souptonuts.sourceforge.net/sshtips.htm)
+- [Punching holes into firewalls. Why firewalls shouldn't be considered a ultimate weapon for network security. Secure TCP-into-HTTP tunnelling guide](http://sebsauvage.net/punching/)
 
 ## Major security issues and blogs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
