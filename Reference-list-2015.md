@@ -558,6 +558,7 @@
 - [Wireshark 101: Transmission Control Protocol, video tutorial](https://www.youtube.com/watch?v=iX44XIZafiw)
 - [HTTP Basic Authentication with wireshark](http://www.networkcomputing.com/applications/http-basic-authentication-primer/d/d-id/1323331)
 - [How Can the Packet Size Be Greater than the MTU?] (http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/)
+- [INE.com training videos: Analyzing Packet Lengths](https://youtu.be/qsUaB36CVDw)
 - [blog.cloudflare.com - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/)
 	- [Calculate HTTP response time in wireshark](http://www.thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/)
 	- [Diagnose slow connections with Wireshark](http://theitjuggler.com/how-to/diagnose-slow-connections-wireshark/)
@@ -927,7 +928,7 @@
 
 ## Alternatives
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
-- [INE training videos (free): Wireshark, vSphere, CCNA, MPLS, etc](https://www.youtube.com/user/INEtraining/playlists)
+- [INE.com training videos (free): Wireshark, vSphere 6.0, CCNA, MPLS, BGP, etc](https://www.youtube.com/user/INEtraining/playlists)
 - [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
 - [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
