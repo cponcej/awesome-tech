@@ -1,4 +1,4 @@
-# IT Reference list, December 2015
+# IT Reference List, December 2015
 
 **Table of Contents**  
 <!-- MarkdownTOC -->
@@ -893,7 +893,7 @@
 - [Udemy: Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
 
 ## Alternatives
-- [A Cloud Guru, AWS Certification Courses](https://acloud.guru)
+- [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
 - [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
 - [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
