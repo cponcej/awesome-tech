@@ -140,7 +140,7 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
-![internet users](/images/internet-users.png)
+![internet users](/images/internet-users.jpeg)
 
 ## stackshare.io - Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
