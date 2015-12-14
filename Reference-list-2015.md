@@ -20,7 +20,8 @@
 	- [Weblogic](#weblogic)
 	- [Nginx](#nginx)
 	- [JBoss/WildFly, Red Hat OpenShift PaaS and Data Virtualization](#jbosswildfly-red-hat-openshift-paas-and-data-virtualization)
-- [E-Mail](#e-mail)
+	- [Oracle Database](#oracle-database)
+	- [E-Mail](#e-mail)
 - [Security](#security)
 	- [Security - Identity Management](#security---identity-management)
 	- [Application Security. Web App Firewall - blocking bots](#application-security-web-app-firewall---blocking-bots)
@@ -230,7 +231,14 @@
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
 
 ## Weblogic
-- [WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
+- [middlewaresnippets.blogspot.com.es - set-up Oracle WebLogic Server environment with Ansible (3 hosts, one control node and two managed nodes)](http://middlewaresnippets.blogspot.com.es/2015/03/fun-with-ansible.html)
+- [blogs.oracle.com - WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
+- [blogs.oracle.com - Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7 by Christos Vezalis](https://blogs.oracle.com/emeapartnerweblogic/entry/ansible_playbook_to_provision_a)
+	- https://github.com/cvezalis/weblogic-ansible
+	- https://github.com/cvezalis/ansible-weblogic-fmw-infra-12c-R2
+- [Setup WebLogic 12c environment with Vagrant and Puppet](http://multikoop.blogspot.com.br/2013/11/setup-weblogic-12c-environment-with.html)
+- [New Puppet 3 Weblogic provisioning module by Edwin Biemond](https://blogs.oracle.com/emeapartnerweblogic/entry/new_puppet_3_weblogic_provisioning)
+	- [puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module](https://forge.puppetlabs.com/biemond/wls)
 - [Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
 - [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
 - [Udemy: Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
@@ -254,7 +262,10 @@
 - [JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
 - [Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](http://info.c2b2.co.uk/learn-how-to-supercharge-your-apps-with-jboss-data-grid)
 
-# E-Mail
+## Oracle Database
+- [middlewaresnippets.blogspot.com.es - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com.es/2015/06/more-fun-with-ansible.html)
+
+## E-Mail
 - [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
 - [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
 
@@ -933,6 +944,7 @@
 - [Udemy: Learn Database Design using PostgreSQL](https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20)
 - [Udemy: Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
 - [Udemy: Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
+- [The Complete Ethical Hacking Course: Beginner to Advanced! Learn how to do ethical hacking, penetration testing, web testing, and wifi hacking using kali linux!](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 
 ## Alternatives
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
