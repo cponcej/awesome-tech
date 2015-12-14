@@ -29,8 +29,10 @@
 - [Configuration Management](#configuration-management)
 	- [Vagrant](#vagrant)
 	- [Ansible](#ansible)
+		- [WebLogic via Ansible](#weblogic-via-ansible)
 		- [Databases via Ansible](#databases-via-ansible)
 	- [Puppet](#puppet)
+		- [WebLogic via Puppet](#weblogic-via-puppet)
 	- [Red Hat Satellite, Katello and Foreman](#red-hat-satellite-katello-and-foreman)
 	- [Chef](#chef)
 	- [Docker](#docker)
@@ -235,14 +237,7 @@
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
 
 ## Weblogic
-- [middlewaresnippets.blogspot.com.es - set-up Oracle WebLogic Server environment with Ansible (3 hosts, one control node and two managed nodes)](http://middlewaresnippets.blogspot.com.es/2015/03/fun-with-ansible.html)
 - [blogs.oracle.com - WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
-- [blogs.oracle.com - Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7 by Christos Vezalis](https://blogs.oracle.com/emeapartnerweblogic/entry/ansible_playbook_to_provision_a)
-	- https://github.com/cvezalis/weblogic-ansible
-	- https://github.com/cvezalis/ansible-weblogic-fmw-infra-12c-R2
-- [Setup WebLogic 12c environment with Vagrant and Puppet](http://multikoop.blogspot.com.br/2013/11/setup-weblogic-12c-environment-with.html)
-- [New Puppet 3 Weblogic provisioning module by Edwin Biemond](https://blogs.oracle.com/emeapartnerweblogic/entry/new_puppet_3_weblogic_provisioning)
-	- [puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module](https://forge.puppetlabs.com/biemond/wls)
 - [Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
 - [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
 - [Udemy: Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
@@ -341,6 +336,12 @@
 	- [Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes](http://www.ansible.com/ansiblefest-videos-spark-central-sf15)
 	- [Lessons Automating the Deployment of J.Crew’s Website](http://www.ansible.com/ansiblefest-videos-jcrew-sf15)+
 
+### WebLogic via Ansible
+- [middlewaresnippets.blogspot.com.es - set-up Oracle WebLogic Server environment with Ansible (3 hosts, one control node and two managed nodes)](http://middlewaresnippets.blogspot.com.es/2015/03/fun-with-ansible.html)
+- [blogs.oracle.com - Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7 by Christos Vezalis](https://blogs.oracle.com/emeapartnerweblogic/entry/ansible_playbook_to_provision_a)
+	- https://github.com/cvezalis/weblogic-ansible
+	- https://github.com/cvezalis/ansible-weblogic-fmw-infra-12c-R2
+
 ### Databases via Ansible
 - [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)
 - [Ansible Role: MySQL](https://github.com/geerlingguy/ansible-role-mysql)
@@ -364,6 +365,11 @@
 - [Twitter's transition from Puppet to Ansible](https://www.youtube.com/watch?v=fwGrKXzocg4)
 - [Learning Puppet can be like drinking from a fire hose. Here is a guide to basic terms and resources to help you learn](https://puppetlabs.com/blog/starting-puppet-basics-from-puppet-labs-employee)
 - [Geppetto, eclipse plugin for puppet](https://puppetlabs.com/blog-tags/geppetto)
+
+### WebLogic via Puppet
+- [Setup WebLogic 12c environment with Vagrant and Puppet](http://multikoop.blogspot.com.br/2013/11/setup-weblogic-12c-environment-with.html)
+- [New Puppet 3 Weblogic provisioning module by Edwin Biemond](https://blogs.oracle.com/emeapartnerweblogic/entry/new_puppet_3_weblogic_provisioning)
+	- [puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module](https://forge.puppetlabs.com/biemond/wls)
 
 ## Red Hat Satellite, Katello and Foreman
 - [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
