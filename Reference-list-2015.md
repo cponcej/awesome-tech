@@ -34,7 +34,7 @@
 	- [Puppet](#puppet)
 		- [WebLogic via Puppet](#weblogic-via-puppet)
 	- [Red Hat Satellite, Katello and Foreman](#red-hat-satellite-katello-and-foreman)
-	- [Chef](#chef)
+	- [Chef and SAP](#chef-and-sap)
 	- [Docker](#docker)
 		- [Microservices](#microservices)
 		- [Docker references](#docker-references)
@@ -376,7 +376,7 @@
 - [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
 - [Foreman is a complete lifecycle management tool](http://www.theforeman.org/)
 
-## Chef 
+## Chef and SAP  
 - [docs.chef.io](https://docs.chef.io/)
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
 - [Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps](http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction)
