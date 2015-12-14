@@ -152,10 +152,16 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 
 ## Startup jobs
-- [Angellist jobs](https://angel.co)
+- [AngelList jobs](https://angel.co)
+- [AngelList jobs Barcelona](https://angel.co/barcelona)
+- [AngelList Jobs Madrid](https://angel.co/barcelona)
+- [AngelList Jobs Valencia](https://angel.co/valencia)
+- [AngelList Jobs Bilbao](https://angel.co/bilbao)
+- [AngelList Jobs Sevilla](https://angel.co/sevilla)
+- [AngelList Jobs Malaga](https://angel.co/malaga)
+- [Jobs BCN, All Startup Jobs in Barcelona](http://www.jobsbcn.com/)
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
-- [Jobs BCN, All Startup Jobs in Barcelona](http://www.jobsbcn.com/)
 
 # Red Hat
 ## Red Hat virtualization
