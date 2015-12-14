@@ -342,12 +342,12 @@
 	- [Lessons Automating the Deployment of J.Crew’s Website](http://www.ansible.com/ansiblefest-videos-jcrew-sf15)+
 
 ### Databases via Ansible
-	- [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)
-	- [Ansible Role: MySQL](https://github.com/geerlingguy/ansible-role-mysql)
-	- [Example Ansible playbook that uses the MySQL module](https://github.com/ansible/ansible-examples/blob/master/language_features/mysql.yml)
-	- [Ansible and Loading MySQL Databases Part I](https://opensourcedba.wordpress.com/2015/07/14/ansible-and-loading-mysql-databases-part-i/)
+- [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)
+- [Ansible Role: MySQL](https://github.com/geerlingguy/ansible-role-mysql)
+- [Example Ansible playbook that uses the MySQL module](https://github.com/ansible/ansible-examples/blob/master/language_features/mysql.yml)
+- [Ansible and Loading MySQL Databases Part I](https://opensourcedba.wordpress.com/2015/07/14/ansible-and-loading-mysql-databases-part-i/)
 	- [Ansible and Loading MySQL Databases Part II](https://opensourcedba.wordpress.com/2015/07/29/ansible-and-loading-mysql-databases-part-ii/)
-	- [middlewaresnippets.blogspot.com.es - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com.es/2015/06/more-fun-with-ansible.html)
+- [middlewaresnippets.blogspot.com.es - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com.es/2015/06/more-fun-with-ansible.html)
 
 ## Puppet
 - [Github: The Puppet Dashboard is a web interface providing node classification and reporting features for Puppet, an open source system configuration management tool](https://github.com/sodabrew/puppet-dashboard)
