@@ -26,15 +26,15 @@
 	- [Application Security. Web App Firewall - blocking bots](#application-security-web-app-firewall---blocking-bots)
 	- [Security, Breaking Firewalls](#security-breaking-firewalls)
 	- [Major security issues and blogs](#major-security-issues-and-blogs)
-- [New SOA: Microservices and Docker](#new-soa-microservices-and-docker)
-	- [Microservices](#microservices)
-	- [Docker](#docker)
 - [Configuration Management](#configuration-management)
 	- [Vagrant](#vagrant)
 	- [Ansible](#ansible)
 	- [Puppet](#puppet)
 	- [Red Hat Satellite, Katello and Foreman](#red-hat-satellite-katello-and-foreman)
 	- [Chef](#chef)
+	- [Docker](#docker)
+		- [Microservices](#microservices)
+		- [Docker references](#docker-references)
 - [DevOps](#devops)
 	- [Description](#description)
 	- [DevOps planning and tools](#devops-planning-and-tools)
@@ -300,41 +300,6 @@
 
 ![intrusion response procedures](/images/intrusion_response_procedures.png)
 
-# New SOA: Microservices and Docker
-## Microservices
-- [Introduction to Microservices | NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
-- [Microservices, Martin Fowler](http://martinfowler.com/articles/microservices.html)
-- [What are Microservices?](https://www.linkedin.com/pulse/what-microservices-walli-datoo)
-- [Microservices architecture: advantages and drawbacks](http://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
-- [Welcome to Microservices.TV, where you will get the latest news, trends and tutorials on all things microservices](https://developer.ibm.com/tv/microservices/)
-
-## Docker
-- [Why Docker Could Revolutionize Enterprise Cloud Computing](https://www.linkedin.com/pulse/why-docker-could-revolutionize-enterprise-cloud-computing-andy-waroma)
-- [Adoption/popularity is the new king. The only constant is change! - puppet, chef, ansible, docker ](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
-- [DockerCon EU: Software Testing with Docker](http://thenewstack.io/software-testing-docker/)
-- [Free eBook - Docker Security: Using Containers Safely in Production](https://www.openshift.com/promotions/docker-security.html)
-- [Why docker](http://www.javacodegeeks.com/2015/11/why-docker.html)
-- [Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
-- [Deploying Containers with Docker Swarm and Docker Networking](http://www.javacodegeeks.com/2015/11/deploying-containers-docker-swarm-docker-networking.html)
-- [Docker for the python developer, podcast at http://talkpython.fm/](http://talkpython.fm/episodes/show/9/docker-for-the-python-developer)
-- [How to be Successful Running Docker in Production](http://www.infoq.com/news/2015/11/running-docker-production)
-- [Monitoring Docker: Part II](http://blog.logscape.com/2014/07/monitoring-docker-part-ii/)
-- [Gathering LXC and Docker containers metrics](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
-- [Red Hat containers](http://www.redhat.com/en/insights/containers)
-- [Red Hat loves containers in RHEL 7.2](http://www.zdnet.com/article/red-hat-loves-containers-in-rhel-7-2/)
-- [Taste of Red Hat Training: Customizing a container to deploy a network service](http://www.redhat.com/en/about/videos/taste-red-hat-training-customizing-container-deploy-network-service)
-- [Red Hat Drives Networking, Linux Container Innovation in Latest Version of Red Hat Enterprise Linux 7](http://www.redhat.com/en/about/press-releases/red-hat-drives-networking-linux-container-innovation-latest-version-red-hat-enterprise-linux-7)
-- [Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters](http://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/)
-- [​CoreOS brings end-to-end trusted computing to containers](http://www.zdnet.com/article/coreos-brings-end-to-end-trusted-computing-to-containers/)
-- [10 Awesome Docker Tutorials to Kick-Start your DevOps Projects](http://www.javacodegeeks.com/2015/11/10-awesome-docker-tutorials-to-kick-start-your-devops-projects.html)
-- [Docker cookbook](http://shop.oreilly.com/product/0636920036791.do?sortby=publicationDate)
-- [Docker in Action - Fitter, Happier, More Productive](https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/)
-- [Docker for PHP Developers.Efficient Nginx, PHP, and MySQL development environments with Docker](http://www.newmediacampaigns.com/blog/docker-for-php-developers)
-- [DockerCon EU 2015 Videos: Use Cases](http://blog.docker.com/2015/12/dockercon-eu-2015-use-cases/)
-- [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
-
-![disruption cycle](/images/disruption cycle.png)
-
 # Configuration Management
 ## Vagrant
 - [Learning Puppet with Vagrant, video tutorial at sysadmincasts.com](http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant)
@@ -383,6 +348,40 @@
 - [docs.chef.io](https://docs.chef.io/)
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
 - [Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps](http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction)
+
+## Docker
+### Microservices
+- [Introduction to Microservices | NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
+- [Microservices, Martin Fowler](http://martinfowler.com/articles/microservices.html)
+- [What are Microservices?](https://www.linkedin.com/pulse/what-microservices-walli-datoo)
+- [Microservices architecture: advantages and drawbacks](http://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
+- [Welcome to Microservices.TV, where you will get the latest news, trends and tutorials on all things microservices](https://developer.ibm.com/tv/microservices/)
+### Docker references
+- [Why Docker Could Revolutionize Enterprise Cloud Computing](https://www.linkedin.com/pulse/why-docker-could-revolutionize-enterprise-cloud-computing-andy-waroma)
+- [Adoption/popularity is the new king. The only constant is change! - puppet, chef, ansible, docker ](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
+- [DockerCon EU: Software Testing with Docker](http://thenewstack.io/software-testing-docker/)
+- [Free eBook - Docker Security: Using Containers Safely in Production](https://www.openshift.com/promotions/docker-security.html)
+- [Why docker](http://www.javacodegeeks.com/2015/11/why-docker.html)
+- [Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
+- [Deploying Containers with Docker Swarm and Docker Networking](http://www.javacodegeeks.com/2015/11/deploying-containers-docker-swarm-docker-networking.html)
+- [Docker for the python developer, podcast at http://talkpython.fm/](http://talkpython.fm/episodes/show/9/docker-for-the-python-developer)
+- [How to be Successful Running Docker in Production](http://www.infoq.com/news/2015/11/running-docker-production)
+- [Monitoring Docker: Part II](http://blog.logscape.com/2014/07/monitoring-docker-part-ii/)
+- [Gathering LXC and Docker containers metrics](http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
+- [Red Hat containers](http://www.redhat.com/en/insights/containers)
+- [Red Hat loves containers in RHEL 7.2](http://www.zdnet.com/article/red-hat-loves-containers-in-rhel-7-2/)
+- [Taste of Red Hat Training: Customizing a container to deploy a network service](http://www.redhat.com/en/about/videos/taste-red-hat-training-customizing-container-deploy-network-service)
+- [Red Hat Drives Networking, Linux Container Innovation in Latest Version of Red Hat Enterprise Linux 7](http://www.redhat.com/en/about/press-releases/red-hat-drives-networking-linux-container-innovation-latest-version-red-hat-enterprise-linux-7)
+- [Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters](http://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/)
+- [​CoreOS brings end-to-end trusted computing to containers](http://www.zdnet.com/article/coreos-brings-end-to-end-trusted-computing-to-containers/)
+- [10 Awesome Docker Tutorials to Kick-Start your DevOps Projects](http://www.javacodegeeks.com/2015/11/10-awesome-docker-tutorials-to-kick-start-your-devops-projects.html)
+- [Docker cookbook](http://shop.oreilly.com/product/0636920036791.do?sortby=publicationDate)
+- [Docker in Action - Fitter, Happier, More Productive](https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/)
+- [Docker for PHP Developers.Efficient Nginx, PHP, and MySQL development environments with Docker](http://www.newmediacampaigns.com/blog/docker-for-php-developers)
+- [DockerCon EU 2015 Videos: Use Cases](http://blog.docker.com/2015/12/dockercon-eu-2015-use-cases/)
+- [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
+
+![disruption cycle](/images/disruption cycle.png)
 
 # DevOps
 ## Description
