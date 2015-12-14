@@ -29,7 +29,7 @@
 - [Configuration Management](#configuration-management)
 	- [Vagrant](#vagrant)
 	- [Ansible](#ansible)
-		- [Databases via Ansible](#databases-via-ansible)
+		- [Databases](#databases)
 	- [Puppet](#puppet)
 	- [Red Hat Satellite, Katello and Foreman](#red-hat-satellite-katello-and-foreman)
 	- [Chef](#chef)
@@ -339,9 +339,9 @@
 - [DevOps.com: Ansible: Automation, Provisioning and Configuration Management](http://devops.com/2015/05/19/ansible-automation-provisioning-configuration-management/)
 - [AnsibleFest San Francisco 2015 Presentations](http://www.ansible.com/videos-ansiblefest-sf-2015)
 	- [Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes](http://www.ansible.com/ansiblefest-videos-spark-central-sf15)
-	- [Lessons Automating the Deployment of J.Crew’s Website](http://www.ansible.com/ansiblefest-videos-jcrew-sf15)
+	- [Lessons Automating the Deployment of J.Crew’s Website](http://www.ansible.com/ansiblefest-videos-jcrew-sf15)+
 
-### Databases via Ansible
+### Databases
 	- [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)
 	- [Ansible Role: MySQL](https://github.com/geerlingguy/ansible-role-mysql)
 	- [Example Ansible playbook that uses the MySQL module](https://github.com/ansible/ansible-examples/blob/master/language_features/mysql.yml)
