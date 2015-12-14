@@ -81,7 +81,7 @@
 	- [Python and AWS](#python-and-aws)
 	- [JVM](#jvm)
 	- [HTML5 & Developer Survey 2015](#html5--developer-survey-2015)
-- [Software Testing](#software-testing)
+- [QA. Software Testing](#qa-software-testing)
 - [Domain driven design](#domain-driven-design)
 - [Cloud](#cloud)
 	- [Cloud references](#cloud-references)
@@ -847,20 +847,20 @@
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
 - [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
 
-![goto-dinosaur](/images/goto-dinosaur.jpeg)
-
-# Software Testing
+# QA. Software Testing
 - [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
 - [Free online Book: O'Reilly® Test-Driven Development with Python](http://freecomputerbooks.com/Test-Driven-Development-with-Python.html)
 - [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
 
-![system testing](/images/system_testing_cartoon.png)
+![goto-dinosaur](/images/goto-dinosaur.jpeg)
 
 # Domain driven design
 - [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
 - [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
 - [Domain Driven Design Community](http://www.domaindrivendesign.org/)
+
+![system testing](/images/system_testing_cartoon.png)
 
 # Cloud
 ## Cloud references
