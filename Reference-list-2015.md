@@ -553,40 +553,40 @@
 ## Network forensics
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
 - [WireEdit. First-Of-A-Kind and The Only Full Stack WYSIWYG Packet Editor Edit L2 - L7 with just a few clicks](https://wireedit.com/)
+- [Optimal Wireshark Setup | Enhance Your Wireshark Experience] (https://www.youtube.com/watch?v=F4l3CedRlJc)
+	- [Switches And Tool Placement (by Tony Fortunato). Ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs] (http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html)
 - [Wireshark 101: Transmission Control Protocol, video tutorial](https://www.youtube.com/watch?v=iX44XIZafiw)
 - [blog.cloudflare.com - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/)
-- [Calculate HTTP response time in wireshark](http://www.thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/)
+	- [Calculate HTTP response time in wireshark](http://www.thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/)
+	- [Diagnose slow connections with Wireshark](http://theitjuggler.com/how-to/diagnose-slow-connections-wireshark/)
+	- [Toubleshooting with Wireshark: Detect HTTP Delays](http://youtu.be/5k16DWEnEGA)
+	- [Troubleshooting with Wireshark: Detect TCP Delays (full video)] (https://www.youtube.com/watch?v=YJRmh6L2Hls)
+	- [Packet timing and Average IO Graph with Wireshark] (http://www.lovemytool.com/blog/2014/09/documenting-why-its-slow-by-tony-fortunato.html)
+	- [Calculate HTTP response time in wireshark] (http://thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/)
+	- [Understanding Application Performance on the Network – Part VII: TCP Window Size](http://apmblog.dynatrace.com/2014/08/12/understanding-application-performance-network-part-tcp-window-size/)
 - [HTTP Basic Authentication with wireshark](http://www.networkcomputing.com/applications/http-basic-authentication-primer/d/d-id/1323331)
-- [Diagnose slow connections with Wireshark](http://theitjuggler.com/how-to/diagnose-slow-connections-wireshark/)
-- [Toubleshooting with Wireshark: Detect HTTP Delays](http://youtu.be/5k16DWEnEGA)
-- [Troubleshooting with Wireshark: Detect TCP Delays (full video)] (https://www.youtube.com/watch?v=YJRmh6L2Hls)
-- [Packet timing and Average IO Graph with Wireshark] (http://www.lovemytool.com/blog/2014/09/documenting-why-its-slow-by-tony-fortunato.html)
-- [Calculate HTTP response time in wireshark] (http://thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/)
-- [Optimal Wireshark Setup | Enhance Your Wireshark Experience] (https://www.youtube.com/watch?v=F4l3CedRlJc)
 - [Troubleshooting with Wireshark: Identifying SIP Errors] (https://www.youtube.com/watch?v=bu6kpneLlFc)
-- [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark] (https://www.youtube.com/watch?v=OFpQLyQxt84)
-- [Wireshark Tip 10: Identify Separate TCP Conversations with TCP Stream Index (Laura Chappell)] (https://www.youtube.com/watch?v=0dFndZwkDGY)
+	- [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark] (https://www.youtube.com/watch?v=OFpQLyQxt84)
 - [Laura Chappell's Top Videos] (https://www.youtube.com/user/thebitgirl/videos)
-- [How Can the Packet Size Be Greater than the MTU?] (http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/)
-- [Wireshark profiles] (https://www.youtube.com/watch?v=pxxcuR7fwXM)
-- http://packetlife.net/
-- [Understanding Application Performance on the Network – Part VII: TCP Window Size](http://apmblog.dynatrace.com/2014/08/12/understanding-application-performance-network-part-tcp-window-size/)
-- [Switches And Tool Placement (by Tony Fortunato). Ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs] (http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html)
-- [Sharkfest 2013 - Wireshark Network Forensics (Laura Chappell). Seguridad con Wireshark: ejemplos de ataques de seguridad DDoS (macof, DNS), filtros, perfiles, coloreado de frames y tshark para trazas largas](https://www.youtube.com/watch?v=UXAHvwouk6Q)
-- [Flood network with random MAC addresses with macof tool] (https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/)
-- http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html
-- https://www.htcia.org/
+	- [Wireshark Tip 10: Identify Separate TCP Conversations with TCP Stream Index (Laura Chappell)] (https://www.youtube.com/watch?v=0dFndZwkDGY)
+	- [How Can the Packet Size Be Greater than the MTU?] (http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/)
+	- [Wireshark profiles] (https://www.youtube.com/watch?v=pxxcuR7fwXM)
+	- http://packetlife.net/
+	- [Sharkfest 2013 - Wireshark Network Forensics (Laura Chappell). Seguridad con Wireshark: ejemplos de ataques de seguridad DDoS (macof, DNS), filtros, perfiles, coloreado de frames y tshark para trazas largas](https://www.youtube.com/watch?v=UXAHvwouk6Q)
+	- [wireshark's colors, by Laura Chappell] (http://bit.ly/nmapcolors)
+	- [How to Use Wireshark to Analyze Video] (http://sharkfest.wireshark.org/sharkfest.13/presentations/PA-11_How-to-Use-Wireshark-to-Analyze-Video_Betty-DuBois.pdf)
+	- [Sharkfest '14 Retrospective. Videos y presentaciones del congreso anual de Wireshark](http://sharkfest.wireshark.org/sharkfest.14/)
+	- [Sharkfest '14 presentation: Get started with HTTP Analysis](http://sharkfest.wireshark.org/sharkfest.14/presentations/B6-Get%20Started%20with%20HTTP%20Analysis.pdf)
+	- [Tuning Win7 Using Wireshark’s TCP Stream Graph] (http://sharkfest.wireshark.org/sharkfest.12/presentations/A-3_A-10_Tuning_Win7_Using_Wireshark_TCP_Stream_Graph_a_Case_Study.pdf)
 - Una forma de evitar los ataques DDoS similares a macof es bloquear desde los firewalls las conexiones (SYN) con MSS=0 y WinSize=0.
-- [wireshark's colors, by Laura Chappell] (http://bit.ly/nmapcolors)
-- [How to Use Wireshark to Analyze Video] (http://sharkfest.wireshark.org/sharkfest.13/presentations/PA-11_How-to-Use-Wireshark-to-Analyze-Video_Betty-DuBois.pdf)
-- [Sharkfest '14 Retrospective. Videos y presentaciones del congreso anual de Wireshark](http://sharkfest.wireshark.org/sharkfest.14/)
-- [Sharkfest '14 presentation: Get started with HTTP Analysis](http://sharkfest.wireshark.org/sharkfest.14/presentations/B6-Get%20Started%20with%20HTTP%20Analysis.pdf)
-- [Tuning Win7 Using Wireshark’s TCP Stream Graph] (http://sharkfest.wireshark.org/sharkfest.12/presentations/A-3_A-10_Tuning_Win7_Using_Wireshark_TCP_Stream_Graph_a_Case_Study.pdf)
+	- [Flood network with random MAC addresses with macof tool] (https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/)
+	- http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html
+	- https://www.htcia.org/
 - [Videos con formación en redes publicados por INE.com .Recomiendo el playlist de Wireshark, si bien hay videos formativos en otras disciplinas.](https://www.youtube.com/user/INEtraining/playlists)
 - [Fiddler complementa muy bien a las devtools de Firefox ó Chrome (F12 key) para capturar y analizar trazas de tráfico HTTP. Alternativa a Wireshark para HTTP Network Forensics.] (http://www.telerik.com/fiddler)
 - http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones
 - [TRANSUM es un plugin dissector para Wireshark que añade información de tiempo de respuesta a los paquetes de petición de servicio para diferentes protocolos.](http://www.tribelabzero.com/temp/tl_resources.html)
-- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
+	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
 
 ## VoIP
 - [VoIP Planning: Calculate Your Bandwidth Before Adding SIP Trunk Service](http://it.toolbox.com/blogs/voip-news/voip-planning-calculate-your-bandwidth-before-adding-sip-trunk-service-66093)
@@ -595,8 +595,8 @@
 - [The Power of VoIP in Disaster Recovery](http://it.toolbox.com/blogs/voip-news/the-power-of-voip-in-disaster-recovery-66205)
 - [Implementing A Successful VoIP System](http://it.toolbox.com/blogs/voip-news/implementing-a-successful-voip-system-66450)
 - [Hosted vs SIP and PBX: Which is best for your Business?](http://it.toolbox.com/blogs/voip-news/hosted-vs-sip-and-pbx-which-is-best-for-your-business-66697)
+	- [Reddit: Hosted VoIP/PBX Suggestions. Moving FreePBX/Asterisk/3CX to the Cloud](http://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/)
 - [Understanding the Key Differences between ESBCs and Firewalls?](https://www.edgewaternetworks.com/2015/05/understanding-the-key-differences-between-esbcs-and-firewalls/)
-- [Reddit: Hosted VoIP/PBX Suggestions. Moving FreePBX/Asterisk/3CX to the Cloud](http://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/)
 
 ## WiFi security
 - [Analyzing the 1000 Most Common Wi-Fi Network Names](https://ghostpath.com/blog/ssid-analyzing-the-1000-most-common-wi-fi-network-names/)
@@ -605,7 +605,7 @@
 
 ## WebPerf & Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
-- [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+	- [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 - [10 emuladores WAN para que pruebes distintas condiciones de red](http://www.hackplayers.com/2015/10/10-emuladores-wan-para-que-pruebes.html)
 - [NEWfly, Redes Cisco y Packet Tracker: Network, ejercicios Packet Tracer y simulación de vuelo](https://newfly.wordpress.com/)
 
