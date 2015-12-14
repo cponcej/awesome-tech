@@ -51,6 +51,7 @@
 		- [Search servers](#search-servers)
 - [Linux](#linux)
 - [Microsoft](#microsoft)
+	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [Networking](#networking)
 	- [Next Generation Firewalls](#next-generation-firewalls)
 	- [Network virtualization](#network-virtualization)
@@ -563,9 +564,11 @@
 - [SSH for Windows open sourced by Microsoft. Qué está pasando?](https://github.com/PowerShell/Win32-OpenSSH)
 - [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
 - [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
+
+## Microsoft Monitoring and Management 
 - [Spiceworks](http://www.spiceworks.com/app/)
-- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
-- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
+	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
+	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
 
 # Networking
 ## Next Generation Firewalls
