@@ -29,7 +29,7 @@
 - [Configuration Management](#configuration-management)
 	- [Vagrant](#vagrant)
 	- [Ansible](#ansible)
-		- [Databases](#databases)
+		- [Databases via Ansible](#databases-via-ansible)
 	- [Puppet](#puppet)
 	- [Red Hat Satellite, Katello and Foreman](#red-hat-satellite-katello-and-foreman)
 	- [Chef](#chef)
@@ -341,12 +341,12 @@
 	- [Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes](http://www.ansible.com/ansiblefest-videos-spark-central-sf15)
 	- [Lessons Automating the Deployment of J.Crew’s Website](http://www.ansible.com/ansiblefest-videos-jcrew-sf15)+
 
-### Databases
+### Databases via Ansible
 	- [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)
 	- [Ansible Role: MySQL](https://github.com/geerlingguy/ansible-role-mysql)
 	- [Example Ansible playbook that uses the MySQL module](https://github.com/ansible/ansible-examples/blob/master/language_features/mysql.yml)
 	- [Ansible and Loading MySQL Databases Part I](https://opensourcedba.wordpress.com/2015/07/14/ansible-and-loading-mysql-databases-part-i/)
-			- [Ansible and Loading MySQL Databases Part II](https://opensourcedba.wordpress.com/2015/07/29/ansible-and-loading-mysql-databases-part-ii/)
+	- [Ansible and Loading MySQL Databases Part II](https://opensourcedba.wordpress.com/2015/07/29/ansible-and-loading-mysql-databases-part-ii/)
 	- [middlewaresnippets.blogspot.com.es - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com.es/2015/06/more-fun-with-ansible.html)
 
 ## Puppet
