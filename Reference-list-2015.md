@@ -556,6 +556,8 @@
 - [Optimal Wireshark Setup | Enhance Your Wireshark Experience] (https://www.youtube.com/watch?v=F4l3CedRlJc)
 	- [Switches And Tool Placement (by Tony Fortunato). Ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs] (http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html)
 - [Wireshark 101: Transmission Control Protocol, video tutorial](https://www.youtube.com/watch?v=iX44XIZafiw)
+- [HTTP Basic Authentication with wireshark](http://www.networkcomputing.com/applications/http-basic-authentication-primer/d/d-id/1323331)
+- [How Can the Packet Size Be Greater than the MTU?] (http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/)
 - [blog.cloudflare.com - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/)
 	- [Calculate HTTP response time in wireshark](http://www.thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/)
 	- [Diagnose slow connections with Wireshark](http://theitjuggler.com/how-to/diagnose-slow-connections-wireshark/)
@@ -564,27 +566,24 @@
 	- [Packet timing and Average IO Graph with Wireshark] (http://www.lovemytool.com/blog/2014/09/documenting-why-its-slow-by-tony-fortunato.html)
 	- [Calculate HTTP response time in wireshark] (http://thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/)
 	- [Understanding Application Performance on the Network – Part VII: TCP Window Size](http://apmblog.dynatrace.com/2014/08/12/understanding-application-performance-network-part-tcp-window-size/)
-- [HTTP Basic Authentication with wireshark](http://www.networkcomputing.com/applications/http-basic-authentication-primer/d/d-id/1323331)
 - [Troubleshooting with Wireshark: Identifying SIP Errors] (https://www.youtube.com/watch?v=bu6kpneLlFc)
 	- [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark] (https://www.youtube.com/watch?v=OFpQLyQxt84)
 - [Laura Chappell's Top Videos] (https://www.youtube.com/user/thebitgirl/videos)
 	- [Wireshark Tip 10: Identify Separate TCP Conversations with TCP Stream Index (Laura Chappell)] (https://www.youtube.com/watch?v=0dFndZwkDGY)
-	- [How Can the Packet Size Be Greater than the MTU?] (http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/)
 	- [Wireshark profiles] (https://www.youtube.com/watch?v=pxxcuR7fwXM)
 	- http://packetlife.net/
 	- [Sharkfest 2013 - Wireshark Network Forensics (Laura Chappell). Seguridad con Wireshark: ejemplos de ataques de seguridad DDoS (macof, DNS), filtros, perfiles, coloreado de frames y tshark para trazas largas](https://www.youtube.com/watch?v=UXAHvwouk6Q)
 	- [wireshark's colors, by Laura Chappell] (http://bit.ly/nmapcolors)
+- [Sharkfest '14 Retrospective](http://sharkfest.wireshark.org/sharkfest.14/)
 	- [How to Use Wireshark to Analyze Video] (http://sharkfest.wireshark.org/sharkfest.13/presentations/PA-11_How-to-Use-Wireshark-to-Analyze-Video_Betty-DuBois.pdf)
-	- [Sharkfest '14 Retrospective. Videos y presentaciones del congreso anual de Wireshark](http://sharkfest.wireshark.org/sharkfest.14/)
 	- [Sharkfest '14 presentation: Get started with HTTP Analysis](http://sharkfest.wireshark.org/sharkfest.14/presentations/B6-Get%20Started%20with%20HTTP%20Analysis.pdf)
 	- [Tuning Win7 Using Wireshark’s TCP Stream Graph] (http://sharkfest.wireshark.org/sharkfest.12/presentations/A-3_A-10_Tuning_Win7_Using_Wireshark_TCP_Stream_Graph_a_Case_Study.pdf)
 - Una forma de evitar los ataques DDoS similares a macof es bloquear desde los firewalls las conexiones (SYN) con MSS=0 y WinSize=0.
 	- [Flood network with random MAC addresses with macof tool] (https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/)
 	- http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html
 	- https://www.htcia.org/
-- [Videos con formación en redes publicados por INE.com .Recomiendo el playlist de Wireshark, si bien hay videos formativos en otras disciplinas.](https://www.youtube.com/user/INEtraining/playlists)
 - [Fiddler complementa muy bien a las devtools de Firefox ó Chrome (F12 key) para capturar y analizar trazas de tráfico HTTP. Alternativa a Wireshark para HTTP Network Forensics.] (http://www.telerik.com/fiddler)
-- http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones
+	- [Fiddler, un proxy para depurar aplicaciones](http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones)
 - [TRANSUM es un plugin dissector para Wireshark que añade información de tiempo de respuesta a los paquetes de petición de servicio para diferentes protocolos.](http://www.tribelabzero.com/temp/tl_resources.html)
 	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
 
@@ -928,6 +927,7 @@
 
 ## Alternatives
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
+- [INE training videos (free): Wireshark, vSphere, CCNA, MPLS, etc](https://www.youtube.com/user/INEtraining/playlists)
 - [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
 - [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
