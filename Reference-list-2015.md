@@ -48,6 +48,7 @@
 	- [DevOps Library - Tools](#devops-library---tools)
 		- [Continuous Integration and Delivery - Jenkins](#continuous-integration-and-delivery---jenkins)
 	- [Git](#git)
+		- [Git clients](#git-clients)
 	- [Load Testing](#load-testing)
 	- [Metric monitoring](#metric-monitoring)
 		- [Tools](#tools)
@@ -528,7 +529,7 @@
 	- [GitHub lanza su propio curso de formación; ¿el objetivo? Que los desarrolladores exploten todo su potencial](http://www.genbeta.com/comparativa/github-lanza-su-propio-curso-de-formacion-el-objetivo-que-los-desarrolladores-exploten-todo-su-potencial)
 - [Git Magic - training](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 - [opentechschool.github.io - Social Coding with GitHub. This is the course content for Social Coding with GitHub](http://opentechschool.github.io/social-coding/)
-- [Git-scm.com](http://git-scm.com/)
+- [Git-scm.com]([http://git-scm.com/])
 - [Git-scm ebook - free](http://git-scm.com/book/en/v2)
 - [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 - [Using GIT to backup your website files on linux](http://techarena51.com/index.php/using-git-backup-website-files-on-linux/)
@@ -537,6 +538,11 @@
 - [Newrelic: GitHub Flow - Collaborating effectively using Git and GitHub](https://newrelic.com/webinar/github-for-teams)
 - [Git Recipes. A Problem-Solution Approach](http://it-ebooks.info/book/3259/)
 - [Git Pocket Guide](http://it-ebooks.info/book/2517/)
+
+### Git clients
+- [SourceTree](https://www.sourcetreeapp.com/)
+- [git-scm clients](http://git-scm.com/downloads)
+- [TortoiseGit](https://tortoisegit.org/)
 
 ![git image](/images/git.png)
 
