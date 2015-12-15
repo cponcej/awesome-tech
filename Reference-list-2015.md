@@ -42,7 +42,8 @@
 - [DevOps](#devops)
 	- [Description](#description)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
-	- [Continuous Integration and Delivery - Jenkins](#continuous-integration-and-delivery---jenkins)
+	- [DevOps Tools](#devops-tools)
+		- [Continuous Integration and Delivery - Jenkins](#continuous-integration-and-delivery---jenkins)
 	- [Git](#git)
 	- [Load Testing](#load-testing)
 	- [Metric monitoring](#metric-monitoring)
@@ -453,11 +454,10 @@
 # DevOps
 ## Description
 - [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
+- [Software Development in the 21st century](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
 - [New Relic eBook: What is DevOps and Why it Can Help Your Business?](http://newrelic.com/devops-101)
 - [ebook: IBM DevOps for Dummies (free)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
-- [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
 - [New Relic: Glossary of DevOps Tools. Get a glimpse into some of New Relic's favorite DevOps tools](http://newrelic.com/devops/toolset)
-- [Ansible - Confessions of a Full Stack DevOp](http://www.ansible.com/blog/confessions-of-a-full-stack-devop)
 - [What to Expect From a DevOps Interview](https://dzone.com/articles/what-to-expect-from-a-devops-interview)
 	- [Why You’ll NEVER Nail That DevOps Interview](https://dzone.com/articles/why-youll-never-nail-that-devops-interview-1)
 - [Why everyone hates DevOps](http://www.networkworld.com/article/2915893/software/why-everyone-hates-devops.html)
@@ -477,10 +477,13 @@
 - [Lean vs Agile Programming](http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/)
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 
-## Continuous Integration and Delivery - Jenkins
+## DevOps Tools
+- [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
+- [Ansible - Confessions of a Full Stack DevOp](http://www.ansible.com/blog/confessions-of-a-full-stack-devop)
+
+### Continuous Integration and Delivery - Jenkins
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
-- [Software Development in the 21st century](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
 - [Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
 - [Jenkins User Conference West 2015 - Slides available](https://www.cloudbees.com/jenkins/juc-2015/us-west)
 	- [Jenkins and Docker: Next Generation Continuous Delivery](https://www.linkedin.com/pulse/jenkins-docker-next-generation-continuous-delivery-khadija-kerissi)
