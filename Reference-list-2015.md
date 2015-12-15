@@ -85,9 +85,9 @@
 - [Editors](#editors)
 	- [Sublime](#sublime)
 	- [Alternative editors](#alternative-editors)
-	- [Regular expressions](#regular-expressions)
 - [Programming languages](#programming-languages)
 	- [API Docs](#api-docs)
+	- [Regular expressions](#regular-expressions)
 	- [Bash](#bash)
 	- [Python](#python)
 	- [Python and AWS](#python-and-aws)
@@ -878,15 +878,15 @@
 	- [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
 
-## Regular expressions
-- [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
-- [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
-
 # Programming languages
 
 ## API Docs
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
+
+## Regular expressions
+- [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
+- [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
 
 ## Bash
 - [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands](http://www.shellcheck.net/)
