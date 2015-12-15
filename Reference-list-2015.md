@@ -29,6 +29,7 @@
 - [Configuration Management](#configuration-management)
 	- [Vagrant](#vagrant)
 	- [Ansible](#ansible)
+		- [Apache via Ansible](#apache-via-ansible)
 		- [WebLogic via Ansible](#weblogic-via-ansible)
 		- [Databases via Ansible](#databases-via-ansible)
 	- [Puppet](#puppet)
@@ -88,6 +89,7 @@
 	- [Python](#python)
 	- [Python and AWS](#python-and-aws)
 	- [JVM](#jvm)
+		- [Java Monitoring](#java-monitoring)
 	- [HTML5 & Developer Survey 2015](#html5--developer-survey-2015)
 - [QA. Software Testing](#qa-software-testing)
 - [Domain driven design](#domain-driven-design)
@@ -244,9 +246,16 @@
 ## Apache & Tomcat
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
 - [How to set up a cluster with Tomcat 8, Apache and mod_jk.Tomcat Performance Monitoring and Tuning](http://blog.c2b2.co.uk/2014/05/tomcat-performance-monitoring-and-tuning.html)
+- [middlewaresnippets.blogspot.com.es - Working with Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/05/working-with-apache-http-server.html)
+	- [middlewaresnippets.blogspot.com.es - Working some more with Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/09/working-some-more-with-apache-http.html)
 
 ## Weblogic
 - [SlideShare - 12 Things You Should Know About WebLogic Server 12.2.1](http://www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015)
+- [middlewaresnippets.blogspot.com.es - WebLogic Server on Linux 7](http://middlewaresnippets.blogspot.com.es/2015/04/weblogic-server-on-linux-7.html)
+	- [middlewaresnippets.blogspot.com.es - WebLogic Domain Partitioning](http://middlewaresnippets.blogspot.com.es/2015/11/weblogic-domain-partitioning.html)
+	- [middlewaresnippets.blogspot.com.es - Monitoring Domain Partitions](http://middlewaresnippets.blogspot.com.es/2015/11/monitoring-domain-partitions.html)
+	- [middlewaresnippets.blogspot.com.es - Deploying Applications to Domain Partitions](http://middlewaresnippets.blogspot.com.es/2015/11/deploying-applications-to-domain.html)
+	- [middlewaresnippets.blogspot.com.es - Security Recovery - LDAP server](http://middlewaresnippets.blogspot.com.es/2015/07/security-recovery.html)
 - [blogs.oracle.com - WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
 - [Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
 - [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
@@ -350,6 +359,9 @@
 	- [Lessons Automating the Deployment of J.Crew’s Website](http://www.ansible.com/ansiblefest-videos-jcrew-sf15)+
 - [Twitter's transition from Puppet to Ansible](https://www.youtube.com/watch?v=fwGrKXzocg4)
 
+### Apache via Ansible
+- [middlewaresnippets.blogspot.com.es - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/08/ansible-apache-http-server.html)
+
 ### WebLogic via Ansible
 - [middlewaresnippets.blogspot.com.es - set-up Oracle WebLogic Server environment with Ansible (3 hosts, one control node and two managed nodes)](http://middlewaresnippets.blogspot.com.es/2015/03/fun-with-ansible.html)
 - [blogs.oracle.com - Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7 by Christos Vezalis](https://blogs.oracle.com/emeapartnerweblogic/entry/ansible_playbook_to_provision_a)
@@ -382,6 +394,7 @@
 - [Setup WebLogic 12c environment with Vagrant and Puppet](http://multikoop.blogspot.com.br/2013/11/setup-weblogic-12c-environment-with.html)
 - [New Puppet 3 Weblogic provisioning module by Edwin Biemond](https://blogs.oracle.com/emeapartnerweblogic/entry/new_puppet_3_weblogic_provisioning)
 	- [puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module](https://forge.puppetlabs.com/biemond/wls)
+	- [middlewaresnippets.blogspot.com.es - Install and Configure a WebLogic Server Environment using Puppet](http://middlewaresnippets.blogspot.com.es/2015/03/install-and-configure-weblogic-server.html)
 
 ## Red Hat Satellite, Katello and Foreman
 - [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
@@ -893,14 +906,17 @@
 ## JVM
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
-- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](../../../RHEL6_KVM_Tomcat_DellR720_deployment/blob/master/change_in_memory_management_java_8.md)
 - [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
-- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
-- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
 - [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
-- [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
 - [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
 - [What is a Data Grid?](http://www.c2b2.co.uk/what_is_data_grid_webinar)
+
+### Java Monitoring
+- [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
+- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
+	- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
+	- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](../../../RHEL6_KVM_Tomcat_DellR720_deployment/blob/master/change_in_memory_management_java_8.md)
+- [middlewaresnippets.blogspot.com.es - Monitoring with JMX](http://middlewaresnippets.blogspot.com.es/2014/10/monitoring-with-jmx.html)
 
 ## HTML5 & Developer Survey 2015
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
