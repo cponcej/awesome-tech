@@ -88,8 +88,8 @@
 	- [Bash](#bash)
 	- [Python](#python)
 	- [Python and AWS](#python-and-aws)
-	- [JVM](#jvm)
-		- [Java Monitoring](#java-monitoring)
+	- [JVM Latency - Caching - Off Heap - Data Grid](#jvm-latency---caching---off-heap---data-grid)
+		- [Java Garbage Collection - Changes in Java 8 - JMX monitoring](#java-garbage-collection---changes-in-java-8---jmx-monitoring)
 	- [HTML5 & Developer Survey 2015](#html5--developer-survey-2015)
 - [QA. Software Testing](#qa-software-testing)
 - [Domain driven design](#domain-driven-design)
@@ -523,7 +523,6 @@
 - [Netflix and linux performance analysis in 60 seconds](http://www.itworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
 - [Why use Sensu?](http://www.rampmeupscotty.com/blog/2013/01/20/why-use-sensu/)
 	- [Sensu monitoring](https://sensuapp.org/)
-- [Metrics is a Java library which gives you unparalleled insight into what your code does in production (application-level metrics)](http://metrics.dropwizard.io/)
 - [StatsD: Simple daemon for easy stats aggregation](https://github.com/etsy/statsd/)
 - [munin monitoring](http://munin-monitoring.org/)
 - [OMD - The Open Monitoring Distribution](http://omdistro.org/)
@@ -532,7 +531,6 @@
 	- [Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?](https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/)
 - [Anemometer: MySQL Slow Query Monitor](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
-- [GitHub: Dropwizard metrics](https://github.com/dropwizard/metrics)
 - [Zipkin](http://zipkin.io)
 	- [Zipkin architecture](http://twitter.github.io/zipkin/Architecture.html)
 	- [Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures](https://github.com/openzipkin/zipkin)
@@ -552,6 +550,8 @@
 #### APM Solutions
 - [RTI - Application Performance Management for Red Hat Middleware (JBoss, Fuse, Tomcat)](http://www.rtiperformance.com/)
 - [MoSKito.org APM. Monitoring for Java applications. Complete ecosystem for DevOps. Free & open source](http://www.moskito.org/)
+- [Metrics is a Java library which gives you unparalleled insight into what your code does in production (application-level metrics)](http://metrics.dropwizard.io/)
+	- [GitHub: Dropwizard metrics](https://github.com/dropwizard/metrics)
 - [New Relic para monitorizar el rendimiento y las conexiones de red de aplicaciones mรณviles Android e iOS](http://www.genbetadev.com/desarrollo-aplicaciones-moviles/new-relic-para-monitorizar-el-rendimiento-y-las-conexiones-de-red-de-aplicaciones-moviles-android-e-ios)
 	- [Youtube - New Relic - Dashboard & Feature Tour](https://www.youtube.com/watch?v=J5tzI-8k__Q)
 	- [New Relic - Developers: 30 minutes discovering how New Relic monitors your servers ](https://youtu.be/7Mg0UtzYql4)
@@ -910,7 +910,7 @@
 - [Boto](https://github.com/boto/boto)
 - [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
 
-## JVM
+## JVM Latency - Caching - Off Heap - Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
 - [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
@@ -918,7 +918,7 @@
 - [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
 - [What is a Data Grid?](http://www.c2b2.co.uk/what_is_data_grid_webinar)
 
-### Java Monitoring
+### Java Garbage Collection - Changes in Java 8 - JMX monitoring
 - [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
 - [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
 	- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
