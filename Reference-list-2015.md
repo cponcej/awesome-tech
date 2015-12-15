@@ -164,8 +164,8 @@
 # Startups
 
 ## Startup related links
-- [European Startup Initiative](http://www.startupheatmap.eu/)
 - [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
+- [European Startup Initiative](http://www.startupheatmap.eu/)
 - [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [startup.zeef.com](https://startup.zeef.com/)
