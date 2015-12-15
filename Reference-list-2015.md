@@ -529,8 +529,6 @@
 - [David Baumgold - Advanced Git - PyCon 2015](https://www.youtube.com/watch?v=4EOZvow1mk4)
 - [Udemy e-learning: Git Going Fast: One Hour Git Crash Course - Free](https://www.udemy.com/git-going-fast/)
 - [Newrelic: GitHub Flow - Collaborating effectively using Git and GitHub](https://newrelic.com/webinar/github-for-teams)
-- [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete)
-- [Command Line Essentials: Git Bash for Windows (free)](https://www.udemy.com/git-bash/)
 - [Git Recipes. A Problem-Solution Approach](http://it-ebooks.info/book/3259/)
 - [Git Pocket Guide](http://it-ebooks.info/book/2517/)
 - [Git-scm.com](http://git-scm.com/)
@@ -948,9 +946,9 @@
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
 
 # QA. Software Testing
+- [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 - [thenewstack.io: How Vagrant Eases Software Research and Testing](http://thenewstack.io/vagrant-developers-researchers/)
-- [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
 - [Free online Book: O'Reilly® Test-Driven Development with Python](http://freecomputerbooks.com/Test-Driven-Development-with-Python.html)
 - [eBook: Testing Python. Applying Unit Testing, TDD, BDD and Acceptance Testing](http://it-ebooks.info/book/3778/)
@@ -958,6 +956,8 @@
 - [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
 
 ![goto-dinosaur](/images/goto-dinosaur.jpeg)
+
+![Most popular test automation frameworks](/images/Most-popular-test-automation-frameworks.png)
 
 # Domain driven design
 - [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
@@ -1032,15 +1032,18 @@
 ## Udemy. Drop the price of any Udemy Course to 11-12€ with a Coupon Code
 - [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
 - [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
-- [Learn To Run Linux Servers Part 2 (LPI Level 1-102)](https://www.udemy.com/linuxacademy2/)
+	- [Learn To Run Linux Servers Part 2 (LPI Level 1-102)](https://www.udemy.com/linuxacademy2/)
 - [Learning Puppet - Udemy](https://www.udemy.com/learning-puppet/)
+- [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
 - [Taming Big Data with Apache Spark - Hands On! - Udemy](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/?couponCode=SPARK15)
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 - [Zabbix Network Monitoring Essentials - Udemy](https://www.udemy.com/zabbix-network-monitoring-essentials/)
-- [Udemy - Sensu - Introduction (free, alternative to Zabbix, Icinga & Nagios)](https://www.udemy.com/sensu-introduction/)
-- [Udemy: Learn Database Design using PostgreSQL](https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20)
-- [Udemy: Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
-- [Udemy: Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
+- [Sensu - Introduction (free, alternative to Zabbix, Icinga & Nagios)](https://www.udemy.com/sensu-introduction/)
+- [Learn Database Design using PostgreSQL](https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20)
+- [Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
+- [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete)
+	- [Command Line Essentials: Git Bash for Windows (free)](https://www.udemy.com/git-bash/)
+	- [Udemy: Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
 - [The Complete Ethical Hacking Course: Beginner to Advanced! Learn how to do ethical hacking, penetration testing, web testing, and wifi hacking using kali linux!](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 
 ## Alternatives
