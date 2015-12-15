@@ -185,6 +185,8 @@
 
 ![La economía crece](../../../economics/blob/master/mkeiser.md)
 
+![Should the Fed raise rates?](/images/should-the-fed-raise-rates.png)
+
 # Red Hat
 ## Red Hat virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
