@@ -183,7 +183,7 @@
 
 ![global house prices economist](/images/global-house-prices-economist.png)
 
-![La economía crece](../../../economics/blob/master/mkeiser.md)
+[La economía crece](../../../economics/blob/master/mkeiser.md)
 
 ![Should the Fed raise rates?](/images/should-the-fed-raise-rates.png)
 
