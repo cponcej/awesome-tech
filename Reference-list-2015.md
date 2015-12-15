@@ -874,8 +874,8 @@
 # Programming languages
 
 ## API Docs
-- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
+- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
 ## Bash
 - [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands](http://www.shellcheck.net/)
