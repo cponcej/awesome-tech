@@ -109,7 +109,7 @@
 # High quality tech resources and search engines
 
 ## Zeef.com - Find & share quality development/tech resources
-- [Zeef.com](https://zeef.com)
+- ![Zeef.com](https://zeef.com)
 - [agile.zeef.com](https://agile.zeef.com)
 - [sublime-text.zeef.com](https://sublime-text.zeef.com)
 - [git.zeef.com](https://git.zeef.com)
