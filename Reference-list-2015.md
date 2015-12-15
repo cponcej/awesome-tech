@@ -529,7 +529,7 @@
 	- [GitHub lanza su propio curso de formación; ¿el objetivo? Que los desarrolladores exploten todo su potencial](http://www.genbeta.com/comparativa/github-lanza-su-propio-curso-de-formacion-el-objetivo-que-los-desarrolladores-exploten-todo-su-potencial)
 - [Git Magic - training](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 - [opentechschool.github.io - Social Coding with GitHub. This is the course content for Social Coding with GitHub](http://opentechschool.github.io/social-coding/)
-- [Git-scm.com]([http://git-scm.com/])
+- [Git-scm.com](http://git-scm.com/)
 - [Git-scm ebook - free](http://git-scm.com/book/en/v2)
 - [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 - [Using GIT to backup your website files on linux](http://techarena51.com/index.php/using-git-backup-website-files-on-linux/)
