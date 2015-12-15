@@ -100,6 +100,7 @@
 	- [Cloud references](#cloud-references)
 	- [Cloud Pricing](#cloud-pricing)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
+	- [AWS Official Blog - New features](#aws-official-blog---new-features)
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 - [E-Learning](#e-learning)
 	- [Udemy. Drop the price of any Udemy Course to 11-12€ with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11-12€-with-a-coupon-code)
@@ -996,7 +997,6 @@
 - [AWS re:Invent 2015 Keynote | Werner Vogels](https://www.youtube.com/watch?v=y-0Wf2Zyi5Q)
 	- [AWS re:Invent 2015 Keynote | Andy Jassy](https://www.youtube.com/watch?v=D5-ifl7KJ00)
 - [AWS re:Invent: Five takeaways on Amazon's new cloud services](http://www.zdnet.com/article/aws-reinvent-five-takeaways-on-new-services/)
-- [Amazon anuncia Elastic File System (Amazon EFS)](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
 - [Amazon Web Services gets serious about big data analytics with bevy of new services](http://www.zdnet.com/article/amazon-web-services-big-data-analytics-enterprise-datacenters/)
 - [Amazon QuickSight: Fast, easy to use, in-memory, Cloud BI service for everyone in an organization (not only technical people). It is 1/10 the cost of traditional BI tools.](https://aws.amazon.com/es/quicksight/)
 - [Revealed at AWS re:Invent: Amazon Kinesis Firehose - easily load streaming data into Amazon S3 & Amazon RedShift.] (http://oak.ctx.ly/r/3tfr7)
@@ -1016,6 +1016,10 @@
 - [Amazon Launches AWS Mobile Hub To Help Mobile Developers Build Back-End Processes] (http://techcrunch.com/2015/10/08/amazon-launches-aws-mobile-hub-to-help-mobile-developers-build-back-end-processes/)
 - [AWS IoT – Cloud Services for Connected Devices](https://aws.amazon.com/es/blogs/aws/aws-iot-cloud-services-for-connected-devices)
 - [AWS Mobile Hub – Build, Test, and Monitor Mobile Applications] (https://aws.amazon.com/es/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications)
+
+## AWS Official Blog - New features
+- [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
+- [New – Encrypted EBS Boot Volumes](https://aws.amazon.com/es/blogs/aws/new-encrypted-ebs-boot-volumes)
 
 ## AWS Partner Network (APN) 
 - [AWS Partner Network (APN) blog](https://aws.amazon.com/es/blogs/apn/)
