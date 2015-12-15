@@ -859,8 +859,9 @@
 
 ## Alternative editors
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
-- [Android Studio](http://developer.android.com/sdk/index.html)
+- [Android Studio 2.0](http://developer.android.com/sdk/index.html)
 	- [Say hello to a faster Android emulator](https://infinum.co/the-capsized-eight/articles/say-hello-to-a-faster-android-emulator)
+	- [Android development is 30% more expensive than iOS. And we have the numbers to prove it!](https://infinum.co/the-capsized-eight/articles/android-development-is-30-percent-more-expensive-than-ios)
 	- [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
 
