@@ -972,6 +972,7 @@
 - [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)
 	- [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
 - [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
+	- [Demonstrating domain-driven design (GitHub)](https://github.com/citerus/dddsample-core)
 
 ![system testing](/images/system_testing_cartoon.png)
 
