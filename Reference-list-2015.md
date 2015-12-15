@@ -268,7 +268,7 @@
 ## Nginx
 - [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
-- [Nginxconf 2014. When Dynamic Becomes Static: The Next Step in Web Caching Techniques: Wim Godden @nginxconf 2014](https://www.youtube.com/watch?v=OssIuHbgzJY)
+- [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
 ## JBoss/WildFly, Red Hat OpenShift PaaS and Data Virtualization
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
