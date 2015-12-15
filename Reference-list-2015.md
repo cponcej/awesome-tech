@@ -968,9 +968,10 @@
 ![Most popular test automation frameworks](/images/Most-popular-test-automation-frameworks.png)
 
 # Domain driven design
-- [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
+- [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
+- [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)
+	- [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
 - [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
-- [Domain Driven Design Community](http://www.domaindrivendesign.org/)
 
 ![system testing](/images/system_testing_cartoon.png)
 
