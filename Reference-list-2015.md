@@ -84,7 +84,6 @@
 	- [Alternative editors](#alternative-editors)
 	- [Regular expressions](#regular-expressions)
 - [Programming languages](#programming-languages)
-	- [Platforms](#platforms)
 	- [Bash](#bash)
 	- [Python](#python)
 	- [Python and AWS](#python-and-aws)
@@ -93,6 +92,7 @@
 - [QA. Software Testing](#qa-software-testing)
 - [Domain driven design](#domain-driven-design)
 - [Cloud](#cloud)
+	- [Development environments in the Cloud](#development-environments-in-the-cloud)
 	- [Cloud references](#cloud-references)
 	- [Cloud Pricing](#cloud-pricing)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
@@ -846,8 +846,6 @@
 - [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
 
 # Programming languages
-## Platforms
-- [Koding is a developer community and cloud development environment where developers come together and code in the browser – with a real development server to run their code. Developers can work, collaborate, write and run apps without jumping through hoops and spending unnecessary money.] (https://koding.com/)
 
 ## Bash
 - [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands](http://www.shellcheck.net/)
@@ -936,6 +934,15 @@
 ![system testing](/images/system_testing_cartoon.png)
 
 # Cloud
+
+## Development environments in the Cloud
+- [Cloud9](https://c9.io/)
+- [Koding](https://koding.com/)
+- [Codio](https://codio.com/)
+- [Nitrous](https://www.nitrous.io/)
+- [Runnable](https://runnable.io/)
+- [Floobits](https://floobits.com/)
+
 ## Cloud references
 - [Sysadmincasts.com: Introduction to Amazon Web Services (AWS)](https://sysadmincasts.com/episodes/29-introduction-to-amazon-web-services-aws)
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
