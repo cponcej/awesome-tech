@@ -104,7 +104,7 @@
 	- [AWS Official Blog](#aws-official-blog)
 		- [AWS New features](#aws-new-features)
 		- [AWS DevOps](#aws-devops)
-		- [AWS DevOps](#aws-devops-1)
+		- [AWS Security](#aws-security)
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 - [E-Learning](#e-learning)
@@ -1042,7 +1042,7 @@
 - [Setting Up the Jenkins Plugin for AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy)
 - [Continuous Delivery for a PHP Application Using AWS CodePipeline, AWS Elastic Beanstalk, and Solano Labs](https://blogs.aws.amazon.com/application-management/post/TxYSRRBH57NP2P/Continuous-Delivery-for-a-PHP-Application-Using-AWS-CodePipeline-AWS-Elastic-Bea)
 
-### AWS DevOps
+### AWS Security
 - [AWS Security Blog](http://blogs.aws.amazon.com/security)
 - [How to Automatically Update Your Security Groups for Amazon CloudFront and AWS WAF by Using AWS Lambda (boto3 python)](http://blogs.aws.amazon.com/security/post/Tx1LPI2H6Q6S5KC/How-to-Automatically-Update-Your-Security-Groups-for-Amazon-CloudFront-and-AWS-W)
 
