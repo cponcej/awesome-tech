@@ -9,6 +9,9 @@
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
 	- [Startup jobs](#startup-jobs)
+- [Linux](#linux)
+- [Microsoft](#microsoft)
+	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [Red Hat](#red-hat)
 	- [Red Hat virtualization](#red-hat-virtualization)
 	- [Red Hat docs and forums](#red-hat-docs-and-forums)
@@ -52,9 +55,6 @@
 			- [APM Solutions](#apm-solutions)
 		- [Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)](#centralized-logging-big-data-log-management-tools-splunkxpolog-graylog2-etc)
 		- [Search servers](#search-servers)
-- [Linux](#linux)
-- [Microsoft](#microsoft)
-	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [Networking](#networking)
 	- [Next Generation Firewalls](#next-generation-firewalls)
 	- [Network virtualization](#network-virtualization)
@@ -188,6 +188,32 @@
 [La economía crece](../../../economics/blob/master/mkeiser.md)
 
 ![Should the Fed raise rates?](/images/should-the-fed-raise-rates.png)
+
+# Linux
+- [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
+- [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
+- [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
+- [nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
+- [Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
+- [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
+- [Linux and Unix Port Scanning With netcat [nc] Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
+- [Sysadmincasts.com: LVM Linear vs Striped Logical Volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)
+- [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+- [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
+- [Linux: Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
+- [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
+- [GoAccess real time web log analyzer](http://goaccess.io/)
+- [awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
+
+# Microsoft
+- [SSH for Windows open sourced by Microsoft. Qué está pasando?](https://github.com/PowerShell/Win32-OpenSSH)
+- [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
+- [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
+
+## Microsoft Monitoring and Management 
+- [Spiceworks](http://www.spiceworks.com/app/)
+	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
+	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
 
 # Red Hat
 ## Red Hat virtualization
@@ -584,32 +610,6 @@
 
 ### Search servers
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/) 
-
-# Linux
-- [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
-- [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
-- [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
-- [nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
-- [Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
-- [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
-- [Linux and Unix Port Scanning With netcat [nc] Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
-- [Sysadmincasts.com: LVM Linear vs Striped Logical Volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)
-- [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
-- [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
-- [Linux: Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
-- [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
-- [GoAccess real time web log analyzer](http://goaccess.io/)
-- [awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
-
-# Microsoft
-- [SSH for Windows open sourced by Microsoft. Qué está pasando?](https://github.com/PowerShell/Win32-OpenSSH)
-- [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
-- [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
-
-## Microsoft Monitoring and Management 
-- [Spiceworks](http://www.spiceworks.com/app/)
-	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
-	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
 
 # Networking
 ## Next Generation Firewalls
