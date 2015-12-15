@@ -856,6 +856,7 @@
 
 ## Alternative editors
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
+- [Android Studio](http://developer.android.com/sdk/index.html)
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
 
 ## Regular expressions
