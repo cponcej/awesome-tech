@@ -270,6 +270,7 @@
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
 - [JBoss Developer](https://developer.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
+- [middlewaresnippets.blogspot.com.es - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com.es/2014/07/wildflying-java-ee-7.html)
 - [developerblog.redhat.com - JBoss on Docker At a Glance](http://developerblog.redhat.com/2015/01/14/jboss-on-docker-at-a-glance/)
 - [youtube - 2014 Red Hat Summit: Red Hat JBoss Middleware keynote](https://youtu.be/XPK2RTqlBxk)
 - [youtube - Craig Muzilla delivers middleware keynote at 2015 Red Hat Summit](https://youtu.be/wWNVpFibayA)
