@@ -823,19 +823,18 @@
 
 # Editors
 ## Sublime
-- [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
-- [Sublime Text Unofficial Documentation] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
-- [Welcome to SublimeLinter 3](http://www.sublimelinter.com/en/latest/)
-- [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
 - [sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox.](http://sublimetexttips.com/)
-- [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
+- [Sublime Text Unofficial Documentation] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
+	- [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
+	- [Welcome to SublimeLinter 3](http://www.sublimelinter.com/en/latest/)
+	- [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
+- [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
+	- [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
+	- [Create and Open GitHub Gists from Sublime Text] (http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
+	- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
+	- [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
-- [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
-- [Create and Open GitHub Gists from Sublime Text] (http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
-- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
-- [Full-featured Git integration for Sublime Text 2 and 3] (http://sublimegit.net/)
-- [An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta)] (http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
-- [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
+	- [An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta)] (http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 
 ## Alternative editors
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
@@ -906,13 +905,12 @@
 ## HTML5 & Developer Survey 2015
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular] (http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
-- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
+	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
 - [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
+- [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
-- [Zeef.com - discover quality resources on the web](https://zeef.com/about)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
-- [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
 
 # QA. Software Testing
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
