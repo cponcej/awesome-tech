@@ -41,7 +41,7 @@
 		- [Docker references](#docker-references)
 - [DevOps](#devops)
 	- [Description](#description)
-	- [DevOps planning and tools](#devops-planning-and-tools)
+	- [DevOps planning and tools - Agile methodologies](#devops-planning-and-tools---agile-methodologies)
 	- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 	- [Git](#git)
 	- [Load Testing](#load-testing)
@@ -469,7 +469,7 @@
 - [Deloitte: The DevOps Difference](http://deloitte.wsj.com/cio/2014/04/24/the-devops-difference/)
 - [MountainWest Devops 2014 - How I Learned to Stop Worrying and Love DevOps](https://youtu.be/uLfIp-2zm6I)
 
-## DevOps planning and tools
+## DevOps planning and tools - Agile methodologies
 - [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge](http://www.scrumguides.org/)
 - [Why estimates never work](http://www.brandonsavage.net/why-estimates-never-work/)
 - [You will not become agile by implementing scrum](https://www.linkedin.com/pulse/you-become-agile-implementing-scrum-jurriaan-kamer)
