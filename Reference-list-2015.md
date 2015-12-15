@@ -42,7 +42,7 @@
 - [DevOps](#devops)
 	- [Description](#description)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
-	- [DevOps Tools](#devops-tools)
+	- [DevOps Library - Tools](#devops-library---tools)
 		- [Continuous Integration and Delivery - Jenkins](#continuous-integration-and-delivery---jenkins)
 	- [Git](#git)
 	- [Load Testing](#load-testing)
@@ -477,7 +477,7 @@
 - [Lean vs Agile Programming](http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/)
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 
-## DevOps Tools
+## DevOps Library - Tools
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
 - [Ansible - Confessions of a Full Stack DevOp](http://www.ansible.com/blog/confessions-of-a-full-stack-devop)
 
