@@ -945,6 +945,8 @@
 - [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
 
+![goto-dinosaur](/images/goto-dinosaur.jpeg)
+
 # QA. Software Testing
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
@@ -954,8 +956,6 @@
 - [eBook: Testing Python. Applying Unit Testing, TDD, BDD and Acceptance Testing](http://it-ebooks.info/book/3778/)
 - [pyvideo.org: TDD with Django, from scratch: a beginner's intro to testing and web development](http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
 - [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
-
-![goto-dinosaur](/images/goto-dinosaur.jpeg)
 
 ![Most popular test automation frameworks](/images/Most-popular-test-automation-frameworks.png)
 
