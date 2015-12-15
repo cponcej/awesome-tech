@@ -536,7 +536,6 @@
 - [The Bro Network Security Monitor](https://www.bro.org/)
 	- [FLOSS Weekly 296, Bro](https://twit.tv/shows/floss-weekly/episodes/296)
 - [pingdom.com webiste monitoring](https://www.pingdom.com/)
-- [AppDynamics Application Intelligence Platform](http://www.appdynamics.com/product/)
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
 
 ### APM - Application Performance Management
@@ -553,6 +552,7 @@
 	- [Youtube - New Relic - Dashboard & Feature Tour](https://www.youtube.com/watch?v=J5tzI-8k__Q)
 	- [New Relic - Developers: 30 minutes discovering how New Relic monitors your servers ](https://youtu.be/7Mg0UtzYql4)
 	- [New Relic - Free Server Monitoring as a core feature of New Relic app management](https://blog.newrelic.com/2011/11/08/server-monitoring-is-here/)
+- [AppDynamics Application Intelligence Platform](http://www.appdynamics.com/product/)
 
 ### Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)
 - [Devops and Log Management Tools Drive Agile IT](http://blog.xpolog.com/2014/04/17/devops-and-log-analysis-tools-drive-agile-it/)
