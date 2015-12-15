@@ -780,8 +780,8 @@
 - [Diferencias entre SQL y NoSQL ¿Sabes cuál usar?](http://www.facilcloud.com/noticias/?p=1294&lang=es_ES)
 
 ## NewSQL
-- [NuoDB es una de las principales soluciones NewSQL, una revolución con respecto a las monolíticas 1-box BBDD tradicionales. NuoDB es ACID y SQL, pero también distribuida/escalable y schema flexible](http://www.nuodb.com/)
-- [Inconvenientes de la replicación tradicional de BBDD](http://www.nuodb.com/blog/replication-is-it-easy)
+- [NuoDB, elastically scalable database. A revolution compared to traditional monolithic 1-box databases. NuoDB is ACID,SQL, distributed/scalable and support flexible schemas](http://www.nuodb.com/)
+- [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
 
 ![sql-join-clauses](/images/sql-join-clauses.png)
 ![Visual_SQL_JOINS](/images/Visual_SQL_JOINS_orig.jpg)
