@@ -968,6 +968,8 @@
 - [AWS Partner Network (APN) blog](https://aws.amazon.com/es/blogs/apn/)
 - [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
 
+![Amazon NASDAQ](/images/amazon-nasdaq.jpeg)
+
 # E-Learning
 
 ## Udemy. Drop the price of any Udemy Course to 11-12€ with a Coupon Code
