@@ -249,6 +249,7 @@
 	- [Red Hat Software Collections 2.1 now generally available](http://developerblog.redhat.com/2015/11/17/software-collections-2-1-generally-available/)
 	- [Red Hat developers blog, an Enterprise Developer’s Journey to the IoT](http://developerblog.redhat.com/2015/12/02/enterprise-developers-journey-to-iot/)
 - [developers.redhat.com: So, what are containers??](http://developers.redhat.com/containers/overview/)
+- [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 - [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
 
 # Scalability and Reliability
@@ -521,19 +522,21 @@
 	- [Reddit: Creating internal RPM build environment?](https://www.reddit.com/r/linuxadmin/comments/2ke2vs/creating_internal_rpm_build_environment/)
 
 ## Git
-- [GitHub lanza su propio curso de formación; ¿el objetivo? Que los desarrolladores exploten todo su potencial](http://www.genbeta.com/comparativa/github-lanza-su-propio-curso-de-formacion-el-objetivo-que-los-desarrolladores-exploten-todo-su-potencial)
 - [One Million Downloads of GitLab](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
+- [git.training](http://git.training/)
+- [training.github.com - GitHub Training](https://training.github.com/classes/developers/)
+	- [GitHub lanza su propio curso de formación; ¿el objetivo? Que los desarrolladores exploten todo su potencial](http://www.genbeta.com/comparativa/github-lanza-su-propio-curso-de-formacion-el-objetivo-que-los-desarrolladores-exploten-todo-su-potencial)
+- [Git Magic - training](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+- [opentechschool.github.io - Social Coding with GitHub. This is the course content for Social Coding with GitHub](http://opentechschool.github.io/social-coding/)
+- [Git-scm.com](http://git-scm.com/)
+- [Git-scm ebook - free](http://git-scm.com/book/en/v2)
+- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 - [Using GIT to backup your website files on linux](http://techarena51.com/index.php/using-git-backup-website-files-on-linux/)
 - [Sysadmincasts.com: Git to Puppet Deployment Workflow](https://sysadmincasts.com/episodes/33-git-to-puppet-deployment-workflow)
 - [David Baumgold - Advanced Git - PyCon 2015](https://www.youtube.com/watch?v=4EOZvow1mk4)
 - [Newrelic: GitHub Flow - Collaborating effectively using Git and GitHub](https://newrelic.com/webinar/github-for-teams)
 - [Git Recipes. A Problem-Solution Approach](http://it-ebooks.info/book/3259/)
 - [Git Pocket Guide](http://it-ebooks.info/book/2517/)
-- [Git-scm.com](http://git-scm.com/)
-- [Git-scm ebook - free](http://git-scm.com/book/en/v2)
-- [Git Magic - training](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
-- [git.training](http://git.training/)
-- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 
 ![git image](/images/git.png)
 
@@ -598,6 +601,7 @@
 	- [Getting Started on Centralized Logging with Logstash, Elasticsearch and Kibana](http://www.ericvb.com/archives/getting-started-on-centralized-logging-with-logstash-elasticsearch-and-kibana)
 	- [My Logstash and Graylog2 notes](http://jpmens.net/2012/08/06/my-logstash-and-graylog2-notes/)
 	- [speakerdeck.com: Using elasticsearch, logstash & kibana to create realtime dashboards](https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards)
+	- [pyvideo.org - log everything with logstash and elasticsearch](http://pyvideo.org/video/3021/log-everything-with-logstash-and-elasticsearch)
 - [Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools: Splunk Storm, Graylog, Sumlogic, Logentries, Papertrail](https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/)
 - [rsyslog, the rocket-fast system for logs processing](http://www.rsyslog.com/)
 - [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
@@ -1028,22 +1032,23 @@
 # E-Learning
 
 ## Udemy. Drop the price of any Udemy Course to 11-12€ with a Coupon Code
+- [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 - [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
-- [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
+	- [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
 	- [Learn To Run Linux Servers Part 2 (LPI Level 1-102)](https://www.udemy.com/linuxacademy2/)
-- [Learning Puppet - Udemy](https://www.udemy.com/learning-puppet/)
-- [Udemy e-learning: Git Going Fast: One Hour Git Crash Course - Free](https://www.udemy.com/git-going-fast/)
+- [Learning Puppet](https://www.udemy.com/learning-puppet/)
 - [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete)
 	- [Command Line Essentials: Git Bash for Windows (free)](https://www.udemy.com/git-bash/)
-	- [Udemy: Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
+	- [Git Going Fast: One Hour Git Crash Course (free)](https://www.udemy.com/git-going-fast/)
+	- [Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
 - [Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
-- [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
-- [Taming Big Data with Apache Spark - Hands On! - Udemy](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/?couponCode=SPARK15)
-- [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
-- [Zabbix Network Monitoring Essentials - Udemy](https://www.udemy.com/zabbix-network-monitoring-essentials/)
-- [Sensu - Introduction (free, alternative to Zabbix, Icinga & Nagios)](https://www.udemy.com/sensu-introduction/)
 - [Learn Database Design using PostgreSQL](https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20)
-- [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
+- [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
+- [Taming Big Data with Apache Spark - Hands On!](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/?couponCode=SPARK15)
+- [Zabbix Network Monitoring Essentials](https://www.udemy.com/zabbix-network-monitoring-essentials/)
+- [Sensu - Introduction (free, alternative to Zabbix, Icinga & Nagios)](https://www.udemy.com/sensu-introduction/)
+- [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
+	- [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 
 ## Alternatives
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
