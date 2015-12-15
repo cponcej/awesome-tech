@@ -103,6 +103,7 @@
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
 	- [AWS Official Blog - New features](#aws-official-blog---new-features)
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
+	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 - [E-Learning](#e-learning)
 	- [Udemy. Drop the price of any Udemy Course to 11-12€ with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11-12€-with-a-coupon-code)
 	- [Alternatives](#alternatives)
@@ -1034,9 +1035,16 @@
 	- [AWS DevOps Blog - Setting Up the Jenkins Plugin for AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy)
 	- [AWS DevOps Blog - Continuous Delivery for a PHP Application Using AWS CodePipeline, AWS Elastic Beanstalk, and Solano Labs](https://blogs.aws.amazon.com/application-management/post/TxYSRRBH57NP2P/Continuous-Delivery-for-a-PHP-Application-Using-AWS-CodePipeline-AWS-Elastic-Bea)
 
-## AWS Partner Network (APN) 
+## AWS Partner Network (APN)
+- [AWS Partner Network](https://aws.amazon.com/partners/)
+	- [APN Technology Partners](https://aws.amazon.com/partners/technology/)
+	- [APN Consulting Partners](https://aws.amazon.com/partners/consulting/)
 - [AWS Partner Network (APN) blog](https://aws.amazon.com/es/blogs/apn/)
-- [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
+	- [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
+
+## AWS Startup Collection. For startups building on AWS
+- [bitmovin: Improving Video Quality on the Web](https://medium.com/aws-activate-startup-blog/bitmovin-improving-video-quality-on-the-web-8670039c4334)
+- [What Startups Should Know about Amazon VPC — Part 1](https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228)
 
 ![Amazon's share price over the last 8 years](/images/amazon-nasdaq.jpeg)
 
