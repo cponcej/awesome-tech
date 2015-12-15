@@ -1032,6 +1032,7 @@
 - [AWS Mobile Hub – Build, Test, and Monitor Mobile Applications] (https://aws.amazon.com/es/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications)
 
 ## AWS Official Blog  
+- http://blogs.aws.amazon.com/
 
 ### AWS New features
 - [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
