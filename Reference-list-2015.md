@@ -944,6 +944,7 @@
 - [Floobits](https://floobits.com/)
 
 ## Cloud references
+- [The cloud wars explained: Why nobody can catch up with Amazon](http://www.businessinsider.com/why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10)
 - [Sysadmincasts.com: Introduction to Amazon Web Services (AWS)](https://sysadmincasts.com/episodes/29-introduction-to-amazon-web-services-aws)
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
 - [reddit: Size of your AWS infrastructure and who manages it/how it's managed](https://www.reddit.com/r/aws/comments/277zli/size_of_your_aws_infrastructure_and_who_manages/)
@@ -957,14 +958,13 @@
 - [Linode pricing calculator](https://www.linode.com/pricing)
 
 ## AWS re:Invent 2015
-- [Amazon anuncia Elastic File System (Amazon EFS)](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
+- [Festín de novedades en re:Invent 2015](http://www.siliconweek.es/data-storage/business-intelligence/festin-de-novedades-en-reinvent-2015-89129)
 - [What's New from Amazon Web Services](https://aws.amazon.com/es/new/)
 - [AWS Well Architected Framework](https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-- [The cloud wars explained: Why nobody can catch up with Amazon](http://www.businessinsider.com/why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10)
 - [AWS re:Invent 2015 Keynote | Werner Vogels](https://www.youtube.com/watch?v=y-0Wf2Zyi5Q)
-- [AWS re:Invent 2015 Keynote | Andy Jassy](https://www.youtube.com/watch?v=D5-ifl7KJ00)
-- [Festín de novedades en re:Invent 2015](http://www.siliconweek.es/data-storage/business-intelligence/festin-de-novedades-en-reinvent-2015-89129)
+	- [AWS re:Invent 2015 Keynote | Andy Jassy](https://www.youtube.com/watch?v=D5-ifl7KJ00)
 - [AWS re:Invent: Five takeaways on Amazon's new cloud services](http://www.zdnet.com/article/aws-reinvent-five-takeaways-on-new-services/)
+- [Amazon anuncia Elastic File System (Amazon EFS)](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
 - [Amazon Web Services gets serious about big data analytics with bevy of new services](http://www.zdnet.com/article/amazon-web-services-big-data-analytics-enterprise-datacenters/)
 - [Amazon QuickSight: Fast, easy to use, in-memory, Cloud BI service for everyone in an organization (not only technical people). It is 1/10 the cost of traditional BI tools.](https://aws.amazon.com/es/quicksight/)
 - [Revealed at AWS re:Invent: Amazon Kinesis Firehose - easily load streaming data into Amazon S3 & Amazon RedShift.] (http://oak.ctx.ly/r/3tfr7)
