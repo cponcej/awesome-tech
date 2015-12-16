@@ -212,6 +212,7 @@
 
 ## Scalability Solutions
 - [OpenShift Dedicated](https://www.openshift.com/dedicated/)
+- [OpenStack](http://www.openstack.org/)
 - [Apache Mesos](http://mesos.apache.org/)
 - [Kubernetes.io](http://kubernetes.io/)
 - [Univa Grid Engine](http://www.univa.com/)
