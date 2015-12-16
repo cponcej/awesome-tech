@@ -199,11 +199,11 @@
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
 
-![global house prices economist](/images/global-house-prices-economist.png)
+![global house prices economist](images/global-house-prices-economist.png)
 
 [La economía crece](../../../../economics/blob/master/mkeiser.md)
 
-![Should the Fed raise rates?](/images/should-the-fed-raise-rates.png)
+![Should the Fed raise rates?](images/should-the-fed-raise-rates.png)
 
 # Scalability and Reliability
 - [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
@@ -421,7 +421,7 @@
 	- [Red Hat security blog: Frequently Asked Questions about the Shellshock Bash flaws](https://securityblog.redhat.com/2014/09/26/frequently-asked-questions-about-the-shellshock-bash-flaws/)
 - [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
 
-![intrusion response procedures](/images/intrusion_response_procedures.png)
+![intrusion response procedures](images/intrusion_response_procedures.png)
 
 # Configuration Management
 ## Vagrant
@@ -531,7 +531,7 @@
 - [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
 - [Podcast: Docker & Puppet: Uniting Containers with Configuration Management](https://puppetlabs.com/podcasts/podcast-docker-puppet-combining-containers-configuration-management)
 
-![disruption cycle](/images/disruption cycle.png)
+![disruption cycle](images/disruption cycle.png)
 
 # DevOps
 ## DevOps Blogs
@@ -602,7 +602,7 @@
 - [git-scm clients](http://git-scm.com/downloads)
 - [TortoiseGit](https://tortoisegit.org/)
 
-![git image](/images/git.png)
+![git image](images/git.png)
 
 ## Load Testing
 - [JMeter Tutorial for Load Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
@@ -682,7 +682,7 @@
 - [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
 	- [Demonstrating domain-driven design (GitHub)](https://github.com/citerus/dddsample-core)
 
-![system testing](/images/system_testing_cartoon.png)
+![system testing](images/system_testing_cartoon.png)
 
 ## API & Infrastructure Docs
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io)
@@ -720,7 +720,7 @@
 - [Writing Robust Bash Shell Scripts](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
 - [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming)
 
-![goto-dinosaur](/images/goto-dinosaur.jpeg)
+![goto-dinosaur](images/goto-dinosaur.jpeg)
 
 ## Python
 - [reddit: python cheat sheet](https://www.reddit.com/r/learnpython/comments/3r2hsq/python_cheat_sheet/)
@@ -796,7 +796,7 @@
 - [pyvideo.org: TDD with Django, from scratch: a beginner's intro to testing and web development](http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
 - [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
 
-![Most popular test automation frameworks](/images/Most-popular-test-automation-frameworks.png)
+![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)
 
 # Data Science
 ## Python analytics
@@ -894,8 +894,8 @@
 - [NuoDB, elastically scalable database. A revolution compared to traditional monolithic 1-box databases. NuoDB is ACID,SQL, distributed/scalable and support flexible schemas](http://www.nuodb.com/)
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
 
-![sql-join-clauses](/images/sql-join-clauses.png)
-![Visual_SQL_JOINS](/images/Visual_SQL_JOINS_orig.jpg)
+![sql-join-clauses](images/sql-join-clauses.png)
+![Visual_SQL_JOINS](images/Visual_SQL_JOINS_orig.jpg)
 
 # Networking
 ## Next Generation Firewalls
@@ -1111,7 +1111,7 @@
 - [bitmovin: Improving Video Quality on the Web](https://medium.com/aws-activate-startup-blog/bitmovin-improving-video-quality-on-the-web-8670039c4334)
 - [What Startups Should Know about Amazon VPC — Part 1](https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228)
 
-![Amazon's share price over the last 8 years](/images/amazon-nasdaq.jpeg)
+![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)
 
 # E-Learning
 
