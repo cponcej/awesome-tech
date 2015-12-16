@@ -734,9 +734,10 @@
 	- [A beginner's guide to web development with Python 2.7 / Django 1.7](http://www.tangowithdjango.com/)
 	- [I wish I knew these things when I learned Python](http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)
 	- [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
-	- http://www.learnpython.org
-	- https://github.com/vinta/awesome-python/
-	- https://github.com/rosarior/awesome-django
+	- [LearnPython.org interactive Python tutorial](http://www.learnpython.org)
+	- [Awesome Python. A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python/)
+	- [Awesome PHP. A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
+	- [Awesome Django. A curated list of awesome Django apps, projects and resources](https://gitlab.com/rosarior/awesome-django)
 - [15 Essential Python Interview Questions](https://www.codementor.io/python/tutorial/essential-python-interview-questions)
 	- [Python mini-quiz](http://www.mypythonquiz.com/)
 - [Testing Python](http://it-ebooks.info/book/3778/)
