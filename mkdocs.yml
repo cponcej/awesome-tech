@@ -1,3 +1,4 @@
 site_name: IT reference list - 2015
 pages:
 - Home: index.md
+- About: about.md
