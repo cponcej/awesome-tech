@@ -27,9 +27,13 @@
 	- [HTTP/2](#http2)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
 	- [Apache & Tomcat](#apache--tomcat)
-	- [Weblogic](#weblogic)
+	- [WebLogic](#weblogic)
 	- [Nginx](#nginx)
-	- [JBoss/WildFly, Red Hat OpenShift PaaS and Data Virtualization](#jbosswildfly-red-hat-openshift-paas-and-data-virtualization)
+	- [JBoss/WildFly](#jbosswildfly)
+		- [Blogs](#blogs)
+		- [Resources](#resources)
+		- [Data Virtualization](#data-virtualization)
+		- [Data Grid - Supercharge Your Applications with Intelligent, Distributed Caching](#data-grid---supercharge-your-applications-with-intelligent-distributed-caching)
 	- [E-Mail](#e-mail)
 - [Security](#security)
 	- [Security - Identity Management](#security---identity-management)
@@ -245,12 +249,13 @@
 ## Red Hat Blogs
 - [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/)
 - [Red Hat Community](http://community.redhat.com)
+- [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
+- [ossmentor.com](http://www.ossmentor.com)
 - [Fedora Magazine](http://fedoramagazine.org/)
 - [Red Hat Developer Blog](http://developerblog.redhat.com)
 - [Red Hat Developers](http://developers.redhat.com)
 - [Planet JBoss Developer](http://planet.jboss.org/)
 - [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
-- [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
 
 ## Red Hat virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
@@ -271,9 +276,11 @@
 ## Red Hat OpenShift PaaS
 - [OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes](http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/)
 	- [OpenShift Dedicated](https://www.openshift.com/dedicated/)
+	- [Red Hat OpenShift 3.1 Opens the Door for Both .NET and JBoss Middleware](http://thenewstack.io/openshift-3-1-opens-door-net-jboss-middleware/)
 	- [Red Hat quiere que su canal se vuelque en middleware y cloud](http://www.channelpartner.es/oportunidades-negocio/noticias/1079121002302/red-hat-quiere-canal-vuelque-middleware-cloud.1.html)
 
 ## Red Hat Videos
+- [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
 - [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
 - [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
 	- [Flock 2014 Fedora Conference](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
@@ -324,7 +331,7 @@
 - [middlewaresnippets.blogspot.com.es - Working with Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/05/working-with-apache-http-server.html)
 	- [middlewaresnippets.blogspot.com.es - Working some more with Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/09/working-some-more-with-apache-http.html)
 
-## Weblogic
+## WebLogic
 - [SlideShare - 12 Things You Should Know About WebLogic Server 12.2.1](http://www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015)
 - [middlewaresnippets.blogspot.com.es - WebLogic Server on Linux 7](http://middlewaresnippets.blogspot.com.es/2015/04/weblogic-server-on-linux-7.html)
 	- [middlewaresnippets.blogspot.com.es - WebLogic Domain Partitioning](http://middlewaresnippets.blogspot.com.es/2015/11/weblogic-domain-partitioning.html)
@@ -340,20 +347,29 @@
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
-## JBoss/WildFly, Red Hat OpenShift PaaS and Data Virtualization
-- [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
+## JBoss/WildFly
+### Blogs
 - [JBoss Developer](https://developer.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
+- [middlewaresnippets.blogspot.com.es](http://middlewaresnippets.blogspot.com.es)
+- [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)
+
+### Resources
 - [middlewaresnippets.blogspot.com.es - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com.es/2014/07/wildflying-java-ee-7.html)
 - [developerblog.redhat.com - JBoss on Docker At a Glance](http://developerblog.redhat.com/2015/01/14/jboss-on-docker-at-a-glance/)
+- [C2B2Consulting - JBoss EAP 6: installation, configuration & clustering](http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar)
+- [dzone.com - Red Hat JBoss Fuse Workshop 101: Fuse in EAP](https://dzone.com/articles/red-hat-jboss-fuse-workshop-101-fuse-in-eap)
 - [youtube - 2014 Red Hat Summit: Red Hat JBoss Middleware keynote](https://youtu.be/XPK2RTqlBxk)
 - [youtube - Craig Muzilla delivers middleware keynote at 2015 Red Hat Summit](https://youtu.be/wWNVpFibayA)
-- [Red Hat OpenShift 3.1 Opens the Door for Both .NET and JBoss Middleware](http://thenewstack.io/openshift-3-1-opens-door-net-jboss-middleware/)
-- [Red Hat JBoss Fuse Workshop 101: Fuse in EAP](https://dzone.com/articles/red-hat-jboss-fuse-workshop-101-fuse-in-eap)
-- [JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
-- [Introduction to JBoss EAP 6: installation, configuration & clustering](http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar)
-- [JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
-- [Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](http://info.c2b2.co.uk/learn-how-to-supercharge-your-apps-with-jboss-data-grid)
+
+### Data Virtualization
+- [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
+
+### Data Grid - Supercharge Your Applications with Intelligent, Distributed Caching
+- [C2B2Consulting - JBoss Data Grid](http://www.c2b2.co.uk/jboss_data_grid)
+	- [C2B2Consulting - JBoss Data Grid: Webinar](http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1)
+	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
+	- [C2B2Consulting - Youtube - Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](https://youtu.be/q52_C9WW70Q)
 
 ## E-Mail
 - [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
