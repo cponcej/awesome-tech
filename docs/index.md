@@ -201,7 +201,7 @@
 
 ![global house prices economist](images/global-house-prices-economist.png)
 
-[La economía crece](../../../../economics/blob/master/mkeiser.md)
+[La economía crece](https://github.com/inafev/economics/blob/master/mkeiser.md)
 
 ![Should the Fed raise rates?](images/should-the-fed-raise-rates.png)
 
@@ -775,7 +775,7 @@
 - [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
 - [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
 	- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
-	- [Análisis: cambios en la gestión de memoria de Java 8. Diferencias en distintas implementaciones de JVM](../../../../RHEL6_KVM_Tomcat_DellR720_deployment/blob/master/change_in_memory_management_java_8.md)
+	- [Análisis: cambios en la gestión de memoria de Java 8. Diferencias en distintas implementaciones de JVM](https://github.com/inafev/RHEL6_KVM_Tomcat_DellR720_deployment/blob/master/change_in_memory_management_java_8.md)
 - [middlewaresnippets.blogspot.com.es - Monitoring with JMX](http://middlewaresnippets.blogspot.com.es/2014/10/monitoring-with-jmx.html)
 
 ## Front-end: HTML5, javascript/node.js
