@@ -10,7 +10,7 @@
 	- [Startup related links](#startup-related-links)
 	- [Startup jobs](#startup-jobs)
 - [Scalability and Reliability](#scalability-and-reliability)
-	- [Solutions](#solutions)
+	- [Scalability Solutions](#scalability-solutions)
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
 	- [Linux Docs and Resources](#linux-docs-and-resources)
@@ -209,7 +209,7 @@
 - [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
 - [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
 - [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
-## Solutions
+## Scalability Solutions
 - [OpenShift Dedicated](https://www.openshift.com/dedicated/)
 - [Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks](http://mesos.apache.org/)
 - [Univa Grid Engine, workload orchestration and container optimization solutions](http://www.univa.com/)
