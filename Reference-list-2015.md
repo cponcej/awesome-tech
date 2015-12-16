@@ -69,33 +69,33 @@
 			- [Anaconda Analytics - code examples](#anaconda-analytics---code-examples)
 		- [Apache Zeppelin](#apache-zeppelin)
 	- [Big Data](#big-data)
-	- [Spark](#spark)
+		- [Spark](#spark)
 	- [SQL](#sql)
-	- [SQL replication](#sql-replication)
-	- [NoSQL](#nosql)
-	- [NewSQL](#newsql)
+		- [SQL replication](#sql-replication)
+		- [NoSQL](#nosql)
+		- [NewSQL](#newsql)
 - [Storage & Backup](#storage--backup)
 	- [Storage](#storage)
 	- [Backup](#backup)
-- [Remote PC Access](#remote-pc-access)
 - [Servers](#servers)
 	- [Dell](#dell)
 	- [HP](#hp)
 	- [RAID disks](#raid-disks)
-- [Editors](#editors)
-	- [Sublime](#sublime)
-	- [Alternative editors](#alternative-editors)
-- [Programming languages](#programming-languages)
+	- [Remote PC Access](#remote-pc-access)
+- [Software Development. Programming languages](#software-development-programming-languages)
+	- [Domain driven design](#domain-driven-design)
 	- [API Docs](#api-docs)
+	- [Editors](#editors)
+		- [Sublime](#sublime)
+		- [Alternative editors](#alternative-editors)
 	- [Regular expressions](#regular-expressions)
 	- [Bash](#bash)
 	- [Python](#python)
 	- [Python and AWS](#python-and-aws)
 	- [JVM Latency - Caching - Off Heap - Data Grid](#jvm-latency---caching---off-heap---data-grid)
 		- [Java Garbage Collection - Changes in Java 8 - JMX monitoring](#java-garbage-collection---changes-in-java-8---jmx-monitoring)
-	- [HTML5 & Developer Survey 2015](#html5--developer-survey-2015)
-- [QA. Software Testing](#qa-software-testing)
-- [Domain driven design](#domain-driven-design)
+	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
+	- [QA. Software Testing](#qa-software-testing)
 - [Cloud](#cloud)
 	- [Development environments in the Cloud](#development-environments-in-the-cloud)
 	- [Cloud references](#cloud-references)
@@ -729,7 +729,7 @@
 - [stratebi - Instalación de Storm](http://es.slideshare.net/zanorte/apache-storm-instalacin)
 - [HP Big Data Reference Architecture for Apache Spark based on RHEL](http://hpe.to/6019BO4TW)
 
-## Spark
+### Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
 - [Spark Streaming: What Is It and Who’s Using It?](http://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/)
 - [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
@@ -767,7 +767,7 @@
 	- [MySQL 5.7: Improved Performance of Queries with Derived Tables](http://mysqlserverteam.com/mysql-5-7-improved-performance-of-queries-with-derived-tables/)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
 
-## SQL replication
+### SQL replication
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
 - [Tungsten Replicator is an open source replication engine supporting a variety of different extractor and applier modules](https://github.com/vmware/tungsten-replicator)
 - [Multi-source replication in MySQL 5.7 vs Tungsten Replicator](https://www.percona.com/blog/2015/07/29/multi-source-replication-in-mysql-5-7-vs-tungsten-replicator/)
@@ -776,14 +776,14 @@
 - [What is MariaDB Galera Cluster?](https://mariadb.com/kb/en/mariadb/what-is-mariadb-galera-cluster/)
 - [Replication Manager for PostgreSQL Clusters](http://repmgr.org/)
 
-## NoSQL
+### NoSQL
 - [Introduction to NoSQL by Martin Fowler, video tutorial](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [NoSQL vs. SQL: Choosing a Data Management Solution](http://www.javacodegeeks.com/2015/10/nosql-vs-sql.html)
 - [NoSQL Guide, by Martin Fowler](http://martinfowler.com/nosql.html)
 - [thoughtworks.com: NoSQL Databases, an overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 - [Diferencias entre SQL y NoSQL ¿Sabes cuál usar?](http://www.facilcloud.com/noticias/?p=1294&lang=es_ES)
 
-## NewSQL
+### NewSQL
 - [NuoDB, elastically scalable database. A revolution compared to traditional monolithic 1-box databases. NuoDB is ACID,SQL, distributed/scalable and support flexible schemas](http://www.nuodb.com/)
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
 
@@ -833,12 +833,6 @@
 	- [Announcing: Veeam Backup for Linux](https://www.veeam.com/blog/announcing-linux-server-backup.html)
 - [Vembu Online Backup supports Amazon Glacier](https://www.vembu.com/blog/vembu-supports-amazon-glacier)
 
-# Remote PC Access
-- [Alternatives to LogMeIn for Remote PC Access](http://www.storagecraft.com/blog/alternatives-logmein-remote-pc-access/)
-- [Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP](http://guac-dev.org/)
-- [Nomachine](https://www.nomachine.com/)
-- [X2Go](http://x2go.org)
-
 # Servers
 
 ## Dell
@@ -855,8 +849,30 @@
 - [Practical RAID Choices for Spindle Based Arrays](http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)
 - [Can I use a desktop hard drive in my storage array?](http://blog.seagate.com/business/can-i-use-a-desktop-hard-drive-in-my-storage-array/)
 
-# Editors
-## Sublime
+## Remote PC Access
+- [Alternatives to LogMeIn for Remote PC Access](http://www.storagecraft.com/blog/alternatives-logmein-remote-pc-access/)
+- [Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP](http://guac-dev.org/)
+- [Nomachine](https://www.nomachine.com/)
+- [X2Go](http://x2go.org)
+
+# Software Development. Programming languages
+- [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+
+## Domain driven design
+- [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
+- [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)
+	- [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
+- [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
+	- [Demonstrating domain-driven design (GitHub)](https://github.com/citerus/dddsample-core)
+
+![system testing](/images/system_testing_cartoon.png)
+
+## API Docs
+- [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
+- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
+
+## Editors
+### Sublime
 - [sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox.](http://sublimetexttips.com/)
 - [Sublime Text Unofficial Documentation] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
 	- [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
@@ -870,19 +886,13 @@
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 	- [An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta)] (http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 
-## Alternative editors
+### Alternative editors
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
 - [Android Studio 2.0](http://developer.android.com/sdk/index.html)
 	- [Say hello to a faster Android emulator](https://infinum.co/the-capsized-eight/articles/say-hello-to-a-faster-android-emulator)
 	- [Android development is 30% more expensive than iOS. And we have the numbers to prove it!](https://infinum.co/the-capsized-eight/articles/android-development-is-30-percent-more-expensive-than-ios)
 	- [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
-
-# Programming languages
-
-## API Docs
-- [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
-- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
 ## Regular expressions
 - [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
@@ -893,11 +903,13 @@
 - [Writing Robust Bash Shell Scripts](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
 - [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming)
 
+![goto-dinosaur](/images/goto-dinosaur.jpeg)
+
 ## Python
 - [reddit: python cheat sheet](https://www.reddit.com/r/learnpython/comments/3r2hsq/python_cheat_sheet/)
 - [Python progression path - From apprentice to guru] (https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 - [Setting up Python on OSX: UPDATED](http://staticnat.com/setting-up-python-on-osx/)
-- [Python 3.4 Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) 
+- [Python 3.4 Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 	- [Full Stack Python is an open book that explains each Python web application stack layer and provides the best web resources for those topics](http://www.fullstackpython.com/)
 	- [Python mini-course](http://ai.berkeley.edu/tutorial.html#PythonBasics)
 	- [Web Development using Python & Django] (https://www.mysliderule.com/learning-paths/web-development-python-django/)
@@ -924,7 +936,7 @@
 - [Don't Make Us Say We Told You So: virtualenv for New Pythonistas] (http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for)
 - [The docker-py repository: an API client for docker written in Python](http://docker-py.readthedocs.org/en/stable/api/)
 - [Java Vs. Python - Which Programming Language is More Productive? - Infographic] (http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive)
-- [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team] (http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team) 
+- [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team] (http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team)
 
 ## Python and AWS
 - [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
@@ -947,19 +959,16 @@
 	- [Análisis: cambios en la gestión de memoria de Java 8](../../../RHEL6_KVM_Tomcat_DellR720_deployment/blob/master/change_in_memory_management_java_8.md)
 - [middlewaresnippets.blogspot.com.es - Monitoring with JMX](http://middlewaresnippets.blogspot.com.es/2014/10/monitoring-with-jmx.html)
 
-## HTML5 & Developer Survey 2015
-- [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+## Front-end: HTML5, javascript/node.js
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular] (http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
 	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
 - [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
 - [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
-- [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
+- [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
 
-![goto-dinosaur](/images/goto-dinosaur.jpeg)
-
-# QA. Software Testing
+## QA. Software Testing
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 - [thenewstack.io: How Vagrant Eases Software Research and Testing](http://thenewstack.io/vagrant-developers-researchers/)
@@ -970,15 +979,6 @@
 - [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
 
 ![Most popular test automation frameworks](/images/Most-popular-test-automation-frameworks.png)
-
-# Domain driven design
-- [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
-- [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)
-	- [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
-- [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
-	- [Demonstrating domain-driven design (GitHub)](https://github.com/citerus/dddsample-core)
-
-![system testing](/images/system_testing_cartoon.png)
 
 # Cloud
 
