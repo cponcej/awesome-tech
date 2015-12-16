@@ -4,7 +4,7 @@
 <!-- MarkdownTOC -->
 
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
-	- [Zeef.com: Find & share quality development/tech resources](#zeefcom-find--share-quality-developmenttech-resources)
+	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
@@ -26,7 +26,7 @@
 - [WebApp](#webapp)
 	- [HTTP/2](#http2)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
-	- [Apache & Tomcat](#apache--tomcat)
+	- [Apache and Tomcat](#apache-and-tomcat)
 	- [WebLogic](#weblogic)
 	- [Nginx](#nginx)
 	- [JBoss/WildFly](#jbosswildfly)
@@ -57,18 +57,18 @@
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
-		- [Continuous Integration and Delivery. Tools: Ansible, Jenkins, Maven & Gradle](#continuous-integration-and-delivery-tools-ansible-jenkins-maven--gradle)
+		- [Continuous Integration and Delivery. Tools: Ansible, Jenkins, Maven, Gradle](#continuous-integration-and-delivery-tools-ansible-jenkins-maven-gradle)
 	- [Git](#git)
 		- [Git clients](#git-clients)
 	- [Load Testing](#load-testing)
 	- [Metric monitoring](#metric-monitoring)
 		- [Tools](#tools)
-		- [APM - Application Performance Management](#apm---application-performance-management)
+		- [APM: Application Performance Management](#apm-application-performance-management)
 			- [APM Solutions](#apm-solutions)
 		- [Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)](#centralized-logging-big-data-log-management-tools-splunkxpolog-graylog2-etc)
 - [Software Development. Programming languages](#software-development-programming-languages)
 	- [Domain driven design](#domain-driven-design)
-	- [API & Infrastructure Docs](#api--infrastructure-docs)
+	- [API and Documentation Generators](#api-and-documentation-generators)
 	- [Editors](#editors)
 		- [Sublime](#sublime)
 		- [Alternative editors](#alternative-editors)
@@ -97,7 +97,7 @@
 	- [Network forensics](#network-forensics)
 	- [VoIP](#voip)
 	- [WiFi security](#wifi-security)
-	- [WebPerf & Resilient Networking: Planning for Failure](#webperf--resilient-networking-planning-for-failure)
+	- [WebPerf and Resilient Networking: Planning for Failure](#webperf-and-resilient-networking-planning-for-failure)
 - [Servers, Storage & Backup](#servers-storage--backup)
 	- [Dell](#dell)
 	- [HP](#hp)
@@ -125,7 +125,7 @@
 
 # High quality tech resources and search engines
 
-## Zeef.com: Find & share quality development/tech resources
+## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com](https://zeef.com)
 - [agile.zeef.com](https://agile.zeef.com)
 - [sublime-text.zeef.com](https://sublime-text.zeef.com)
@@ -321,7 +321,7 @@
 ## Enterprise Search Platforms
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 
-## Apache & Tomcat
+## Apache and Tomcat
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
 - [How to set up a cluster with Tomcat 8, Apache and mod_jk.Tomcat Performance Monitoring and Tuning](http://blog.c2b2.co.uk/2014/05/tomcat-performance-monitoring-and-tuning.html)
 - [middlewaresnippets.blogspot.com.es - Working with Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/05/working-with-apache-http-server.html)
@@ -559,7 +559,7 @@
 - [Lean vs Agile Programming](http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/)
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 
-### Continuous Integration and Delivery. Tools: Ansible, Jenkins, Maven & Gradle
+### Continuous Integration and Delivery. Tools: Ansible, Jenkins, Maven, Gradle
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
 - [Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
@@ -631,7 +631,7 @@
 - [pingdom.com webiste monitoring](https://www.pingdom.com/)
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
 
-### APM - Application Performance Management
+### APM: Application Performance Management
 - [APM Convergence: Monitoring vs. Management. APM is entering into a period of intense competition of technology and strategy with a multiplicity of vendors and viewpoints](http://apmdigest.com/apm-convergence-monitoring-vs-management)
 - [Performance management from the client's point of view](http://www.networkworld.com/article/2300639/data-center/performance-management-from-the-client-s-point-of-view.html)
 - [APMdigest: Where Application Performance Management, BSM, Virtualization, and Cloud Computing Meet](http://apmdigest.com/)
@@ -680,7 +680,7 @@
 
 ![system testing](images/system_testing_cartoon.png)
 
-## API & Infrastructure Docs
+## API and Documentation Generators
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
@@ -958,7 +958,7 @@
 - [Ubiquiti Networks](https://www.ubnt.com)
 - [Aruba Networks](http://www.arubanetworks.com)
 
-## WebPerf & Resilient Networking: Planning for Failure
+## WebPerf and Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
 	- [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 - [10 emuladores WAN para que pruebes distintas condiciones de red](http://www.hackplayers.com/2015/10/10-emuladores-wan-para-que-pruebes.html)
