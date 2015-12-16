@@ -98,7 +98,7 @@
 	- [VoIP](#voip)
 	- [WiFi security](#wifi-security)
 	- [WebPerf and Resilient Networking: Planning for Failure](#webperf-and-resilient-networking-planning-for-failure)
-- [Servers, Storage & Backup](#servers-storage--backup)
+- [Servers, Storage and Backup](#servers-storage-and-backup)
 	- [Dell](#dell)
 	- [HP](#hp)
 	- [RAID disks](#raid-disks)
@@ -964,7 +964,7 @@
 - [10 emuladores WAN para que pruebes distintas condiciones de red](http://www.hackplayers.com/2015/10/10-emuladores-wan-para-que-pruebes.html)
 - [NEWfly, Redes Cisco y Packet Tracker: Network, ejercicios Packet Tracer y simulación de vuelo](https://newfly.wordpress.com/)
 
-# Servers, Storage & Backup
+# Servers, Storage and Backup
 
 ## Dell
 - [Nuevo PowerEdge R930: innovación y potencia x86 para migrar plataformas UNIX con software empresarial](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-r930-server)
