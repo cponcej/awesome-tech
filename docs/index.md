@@ -179,6 +179,7 @@
 ![internet users](images/internet-users.jpeg)
 
 # Startups
+[La economía crece](mkeiser.md)
 
 ## Startup related links
 - [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
@@ -198,12 +199,6 @@
 - [Jobs BCN, All Startup Jobs in Barcelona](http://www.jobsbcn.com/)
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
-
-![global house prices economist](images/global-house-prices-economist.png)
-
-[La economía crece](mkeiser.md)
-
-![Should the Fed raise rates?](images/should-the-fed-raise-rates.png)
 
 # Scalability and Reliability
 - [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
