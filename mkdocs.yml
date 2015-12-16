@@ -2,5 +2,5 @@ site_name: Awesome Tech
 pages:
 - Home: index.md
 - Java 8 changes: jvm-mem.md
-- About: about.md
 - Quote: mkeiser.md
+- About: about.md
