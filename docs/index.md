@@ -117,7 +117,7 @@
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 - [E-Learning](#e-learning)
-	- [Udemy. Drop the price of any Udemy Course to 11€ or 12€ with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11€-or-12€-with-a-coupon-code)
+	- [Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
 	- [Alternatives](#alternatives)
 
 <!-- /MarkdownTOC -->
@@ -1113,7 +1113,7 @@
 
 # E-Learning
 
-## Udemy. Drop the price of any Udemy Course to 11€ or 12€ with a Coupon Code
+## Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 - [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
 	- [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
