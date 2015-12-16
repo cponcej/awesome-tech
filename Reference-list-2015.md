@@ -56,6 +56,20 @@
 			- [APM Solutions](#apm-solutions)
 		- [Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)](#centralized-logging-big-data-log-management-tools-splunkxpolog-graylog2-etc)
 		- [Search servers](#search-servers)
+- [Software Development. Programming languages](#software-development-programming-languages)
+	- [Domain driven design](#domain-driven-design)
+	- [API Docs](#api-docs)
+	- [Editors](#editors)
+		- [Sublime](#sublime)
+		- [Alternative editors](#alternative-editors)
+	- [Regular expressions](#regular-expressions)
+	- [Bash](#bash)
+	- [Python](#python)
+	- [Python and AWS](#python-and-aws)
+	- [JVM Latency - Caching - Off Heap - Data Grid](#jvm-latency---caching---off-heap---data-grid)
+		- [Java Garbage Collection - Changes in Java 8 - JMX monitoring](#java-garbage-collection---changes-in-java-8---jmx-monitoring)
+	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
+	- [QA. Software Testing](#qa-software-testing)
 - [Data Science](#data-science)
 	- [Python analytics](#python-analytics)
 		- [Anaconda Analytics](#anaconda-analytics)
@@ -81,20 +95,6 @@
 	- [Remote PC Access](#remote-pc-access)
 	- [Storage](#storage)
 	- [Backup](#backup)
-- [Software Development. Programming languages](#software-development-programming-languages)
-	- [Domain driven design](#domain-driven-design)
-	- [API Docs](#api-docs)
-	- [Editors](#editors)
-		- [Sublime](#sublime)
-		- [Alternative editors](#alternative-editors)
-	- [Regular expressions](#regular-expressions)
-	- [Bash](#bash)
-	- [Python](#python)
-	- [Python and AWS](#python-and-aws)
-	- [JVM Latency - Caching - Off Heap - Data Grid](#jvm-latency---caching---off-heap---data-grid)
-		- [Java Garbage Collection - Changes in Java 8 - JMX monitoring](#java-garbage-collection---changes-in-java-8---jmx-monitoring)
-	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
-	- [QA. Software Testing](#qa-software-testing)
 - [Cloud](#cloud)
 	- [Development environments in the Cloud](#development-environments-in-the-cloud)
 	- [Cloud references](#cloud-references)
@@ -620,6 +620,131 @@
 ### Search servers
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/) 
 
+# Software Development. Programming languages
+- [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+
+## Domain driven design
+- [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
+- [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)
+	- [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
+- [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
+	- [Demonstrating domain-driven design (GitHub)](https://github.com/citerus/dddsample-core)
+
+![system testing](/images/system_testing_cartoon.png)
+
+## API Docs
+- [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
+- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
+
+## Editors
+### Sublime
+- [sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox.](http://sublimetexttips.com/)
+- [Sublime Text Unofficial Documentation] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
+	- [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
+	- [Welcome to SublimeLinter 3](http://www.sublimelinter.com/en/latest/)
+	- [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
+- [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
+	- [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
+	- [Create and Open GitHub Gists from Sublime Text] (http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
+	- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
+	- [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
+- [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
+	- [An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta)] (http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
+
+### Alternative editors
+- [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
+- [Android Studio 2.0](http://developer.android.com/sdk/index.html)
+	- [Say hello to a faster Android emulator](https://infinum.co/the-capsized-eight/articles/say-hello-to-a-faster-android-emulator)
+	- [Android development is 30% more expensive than iOS. And we have the numbers to prove it!](https://infinum.co/the-capsized-eight/articles/android-development-is-30-percent-more-expensive-than-ios)
+	- [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
+- [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
+
+## Regular expressions
+- [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
+- [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
+
+## Bash
+- [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands](http://www.shellcheck.net/)
+- [Writing Robust Bash Shell Scripts](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
+- [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming)
+
+![goto-dinosaur](/images/goto-dinosaur.jpeg)
+
+## Python
+- [reddit: python cheat sheet](https://www.reddit.com/r/learnpython/comments/3r2hsq/python_cheat_sheet/)
+- [Python progression path - From apprentice to guru] (https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
+- [Setting up Python on OSX: UPDATED](http://staticnat.com/setting-up-python-on-osx/)
+- [Python 3.4 Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+	- [Full Stack Python is an open book that explains each Python web application stack layer and provides the best web resources for those topics](http://www.fullstackpython.com/)
+	- [Python mini-course](http://ai.berkeley.edu/tutorial.html#PythonBasics)
+	- [Web Development using Python & Django] (https://www.mysliderule.com/learning-paths/web-development-python-django/)
+	- [A beginner's guide to web development with Python 2.7 / Django 1.7](http://www.tangowithdjango.com/)
+	- [I wish I knew these things when I learned Python] (http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)
+	- [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
+	- http://www.learnpython.org
+	- https://github.com/vinta/awesome-python/
+	- https://github.com/rosarior/awesome-django
+- [15 Essential Python Interview Questions](https://www.codementor.io/python/tutorial/essential-python-interview-questions)
+	- [Python mini-quiz](http://www.mypythonquiz.com/)
+- [Testing Python](http://it-ebooks.info/book/3778/)
+	- [Profiling Python using cProfile: a concrete case] (https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara)
+	- [gabbi - Declarative HTTP testing library pypi](http://pypi.python.org/pypi/gabbi/)
+- [Learn Python Django in 4 Hours](https://dzone.com/articles/learn-python-django-in-4-hours)
+	- [Django Development With Docker Compose and Machine] (https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+	- [TaskBuster Django Tutorial, made with Django 1.8 and Python 3](http://www.marinamele.com/taskbuster-django-tutorial)
+	- [TDD with Django, from scratch: a beginner's intro to testing and web development] (http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
+	- [Cómo crear un servicio REST en 30 líneas de código de Django y Python] (http://www.genbetadev.com/desarrolloparastartups/como-crear-un-servicio-rest-en-30-lineas-de-codigo-de-django-y-python)
+	- [Django Development With Docker Compose and Machine] (https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+	- [Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian] (http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/)
+- [The Flask Mega-Tutorial: Now with Python 3 Support] (http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
+- [How do you handle the ORM problem? When do you say YES or NO to using ORM?] (http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood)
+- [Don't Make Us Say We Told You So: virtualenv for New Pythonistas] (http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for)
+- [The docker-py repository: an API client for docker written in Python](http://docker-py.readthedocs.org/en/stable/api/)
+- [Java Vs. Python - Which Programming Language is More Productive? - Infographic] (http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive)
+- [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team] (http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team)
+
+## Python and AWS
+- [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
+- [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
+- [Boto](https://github.com/boto/boto)
+- [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
+
+## JVM Latency - Caching - Off Heap - Data Grid
+- [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
+- [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
+- [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
+- [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
+- [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
+- [What is a Data Grid?](http://www.c2b2.co.uk/what_is_data_grid_webinar)
+
+### Java Garbage Collection - Changes in Java 8 - JMX monitoring
+- [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
+- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
+	- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
+	- [Análisis: cambios en la gestión de memoria de Java 8](../../../RHEL6_KVM_Tomcat_DellR720_deployment/blob/master/change_in_memory_management_java_8.md)
+- [middlewaresnippets.blogspot.com.es - Monitoring with JMX](http://middlewaresnippets.blogspot.com.es/2014/10/monitoring-with-jmx.html)
+
+## Front-end: HTML5, javascript/node.js
+- [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular] (http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
+	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
+- [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
+- [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
+- [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
+- [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
+- [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
+
+## QA. Software Testing
+- [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
+- [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
+- [thenewstack.io: How Vagrant Eases Software Research and Testing](http://thenewstack.io/vagrant-developers-researchers/)
+- [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
+- [Free online Book: O'Reilly® Test-Driven Development with Python](http://freecomputerbooks.com/Test-Driven-Development-with-Python.html)
+- [eBook: Testing Python. Applying Unit Testing, TDD, BDD and Acceptance Testing](http://it-ebooks.info/book/3778/)
+- [pyvideo.org: TDD with Django, from scratch: a beginner's intro to testing and web development](http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
+- [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
+
+![Most popular test automation frameworks](/images/Most-popular-test-automation-frameworks.png)
+
 # Data Science
 ## Python analytics
 - [PyData, a community for developers and users of Python data tools](http://pydata.org)
@@ -851,131 +976,6 @@
 	- [Libro sobre Veeam Backup, by Xavier Genestós](https://www.linkedin.com/pulse/libro-sobre-veeam-backup-xavier-genestós-josep-ros)
 	- [Announcing: Veeam Backup for Linux](https://www.veeam.com/blog/announcing-linux-server-backup.html)
 - [Vembu Online Backup supports Amazon Glacier](https://www.vembu.com/blog/vembu-supports-amazon-glacier)
-
-# Software Development. Programming languages
-- [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
-
-## Domain driven design
-- [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
-- [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)
-	- [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
-- [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
-	- [Demonstrating domain-driven design (GitHub)](https://github.com/citerus/dddsample-core)
-
-![system testing](/images/system_testing_cartoon.png)
-
-## API Docs
-- [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
-- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
-
-## Editors
-### Sublime
-- [sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox.](http://sublimetexttips.com/)
-- [Sublime Text Unofficial Documentation] (http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
-	- [Setting Up Sublime Text 3 for Full Stack Python Development] (https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
-	- [Welcome to SublimeLinter 3](http://www.sublimelinter.com/en/latest/)
-	- [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
-- [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
-	- [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
-	- [Create and Open GitHub Gists from Sublime Text] (http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
-	- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
-	- [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
-- [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
-	- [An excellent free video course on Sublime Text 2 (Sublime Text 3 is still in beta)] (http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
-
-### Alternative editors
-- [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
-- [Android Studio 2.0](http://developer.android.com/sdk/index.html)
-	- [Say hello to a faster Android emulator](https://infinum.co/the-capsized-eight/articles/say-hello-to-a-faster-android-emulator)
-	- [Android development is 30% more expensive than iOS. And we have the numbers to prove it!](https://infinum.co/the-capsized-eight/articles/android-development-is-30-percent-more-expensive-than-ios)
-	- [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
-- [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
-
-## Regular expressions
-- [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
-- [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
-
-## Bash
-- [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands](http://www.shellcheck.net/)
-- [Writing Robust Bash Shell Scripts](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
-- [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming)
-
-![goto-dinosaur](/images/goto-dinosaur.jpeg)
-
-## Python
-- [reddit: python cheat sheet](https://www.reddit.com/r/learnpython/comments/3r2hsq/python_cheat_sheet/)
-- [Python progression path - From apprentice to guru] (https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
-- [Setting up Python on OSX: UPDATED](http://staticnat.com/setting-up-python-on-osx/)
-- [Python 3.4 Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-	- [Full Stack Python is an open book that explains each Python web application stack layer and provides the best web resources for those topics](http://www.fullstackpython.com/)
-	- [Python mini-course](http://ai.berkeley.edu/tutorial.html#PythonBasics)
-	- [Web Development using Python & Django] (https://www.mysliderule.com/learning-paths/web-development-python-django/)
-	- [A beginner's guide to web development with Python 2.7 / Django 1.7](http://www.tangowithdjango.com/)
-	- [I wish I knew these things when I learned Python] (http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)
-	- [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
-	- http://www.learnpython.org
-	- https://github.com/vinta/awesome-python/
-	- https://github.com/rosarior/awesome-django
-- [15 Essential Python Interview Questions](https://www.codementor.io/python/tutorial/essential-python-interview-questions)
-	- [Python mini-quiz](http://www.mypythonquiz.com/)
-- [Testing Python](http://it-ebooks.info/book/3778/)
-	- [Profiling Python using cProfile: a concrete case] (https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara)
-	- [gabbi - Declarative HTTP testing library pypi](http://pypi.python.org/pypi/gabbi/)
-- [Learn Python Django in 4 Hours](https://dzone.com/articles/learn-python-django-in-4-hours)
-	- [Django Development With Docker Compose and Machine] (https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
-	- [TaskBuster Django Tutorial, made with Django 1.8 and Python 3](http://www.marinamele.com/taskbuster-django-tutorial)
-	- [TDD with Django, from scratch: a beginner's intro to testing and web development] (http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
-	- [Cómo crear un servicio REST en 30 líneas de código de Django y Python] (http://www.genbetadev.com/desarrolloparastartups/como-crear-un-servicio-rest-en-30-lineas-de-codigo-de-django-y-python)
-	- [Django Development With Docker Compose and Machine] (https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
-	- [Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian] (http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/)
-- [The Flask Mega-Tutorial: Now with Python 3 Support] (http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
-- [How do you handle the ORM problem? When do you say YES or NO to using ORM?] (http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood)
-- [Don't Make Us Say We Told You So: virtualenv for New Pythonistas] (http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for)
-- [The docker-py repository: an API client for docker written in Python](http://docker-py.readthedocs.org/en/stable/api/)
-- [Java Vs. Python - Which Programming Language is More Productive? - Infographic] (http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive)
-- [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team] (http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team)
-
-## Python and AWS
-- [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
-- [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
-- [Boto](https://github.com/boto/boto)
-- [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
-
-## JVM Latency - Caching - Off Heap - Data Grid
-- [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
-- [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
-- [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
-- [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
-- [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
-- [What is a Data Grid?](http://www.c2b2.co.uk/what_is_data_grid_webinar)
-
-### Java Garbage Collection - Changes in Java 8 - JMX monitoring
-- [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
-- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
-	- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
-	- [Análisis: cambios en la gestión de memoria de Java 8](../../../RHEL6_KVM_Tomcat_DellR720_deployment/blob/master/change_in_memory_management_java_8.md)
-- [middlewaresnippets.blogspot.com.es - Monitoring with JMX](http://middlewaresnippets.blogspot.com.es/2014/10/monitoring-with-jmx.html)
-
-## Front-end: HTML5, javascript/node.js
-- [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular] (http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
-	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
-- [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
-- [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
-- [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
-- [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
-- [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
-
-## QA. Software Testing
-- [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
-- [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
-- [thenewstack.io: How Vagrant Eases Software Research and Testing](http://thenewstack.io/vagrant-developers-researchers/)
-- [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
-- [Free online Book: O'Reilly® Test-Driven Development with Python](http://freecomputerbooks.com/Test-Driven-Development-with-Python.html)
-- [eBook: Testing Python. Applying Unit Testing, TDD, BDD and Acceptance Testing](http://it-ebooks.info/book/3778/)
-- [pyvideo.org: TDD with Django, from scratch: a beginner's intro to testing and web development](http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
-- [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
-
-![Most popular test automation frameworks](/images/Most-popular-test-automation-frameworks.png)
 
 # Cloud
 
