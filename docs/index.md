@@ -1088,6 +1088,7 @@
 - [AWS Labs GitHub](https://github.com/awslabs)
 - [AWS Quick Start Reference Deployments](http://aws.amazon.com/es/quickstart/)
 	- [AWS Quick Start - GitHub](https://github.com/awslabs/aws-quickstart)
+- [InfoWorld Review – Amazon Aurora Rocks MySQL](https://aws.amazon.com/es/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/)
 
 ### AWS New features
 - [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
