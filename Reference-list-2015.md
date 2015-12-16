@@ -46,7 +46,7 @@
 	- [Description](#description)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 	- [DevOps Library - Tools](#devops-library---tools)
-		- [Continuous Integration and Delivery - Jenkins](#continuous-integration-and-delivery---jenkins)
+		- [Continuous Integration and Delivery - Jenkins, Maven & Gradle](#continuous-integration-and-delivery---jenkins-maven--gradle)
 	- [Git](#git)
 		- [Git clients](#git-clients)
 	- [Load Testing](#load-testing)
@@ -236,12 +236,12 @@
 - [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
 - [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
 - [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
+	- [OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes](http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/)
+	- [OpenShift Dedicated](https://www.openshift.com/dedicated/)
+	- [Red Hat quiere que su canal se vuelque en middleware y cloud](http://www.channelpartner.es/oportunidades-negocio/noticias/1079121002302/red-hat-quiere-canal-vuelque-middleware-cloud.1.html)
 - [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
-- [A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives](http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/)
-- [Red Hat quiere que su canal se vuelque en middleware y cloud](http://www.channelpartner.es/oportunidades-negocio/noticias/1079121002302/red-hat-quiere-canal-vuelque-middleware-cloud.1.html)
+	- [A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives](http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/)
 - [Product documentation](https://access.redhat.com/documentation/en/)
-- [How to use Red Hat Software Collections (RHSCL) or Red Hat Developer Toolset (DTS)?](https://access.redhat.com/solutions/472793)
-	- [Reddit: Red Hat Software Collections (SCL) is not provided with RHEL Server/Workstation, Self Support](https://www.reddit.com/r/redhat/comments/39kk0s/red_hat_software_collections_scl_is_not_provided/)
 - [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
 	- [Flock 2014 Fedora Conference: Live Streaming Schedule and Video Archives](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
 	- [Flock 2015 Fedora Conference: Streaming video](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
@@ -254,6 +254,8 @@
 	- [Red Hat Software Collections 2.1 now generally available](http://developerblog.redhat.com/2015/11/17/software-collections-2-1-generally-available/)
 	- [Red Hat developers blog, an Enterprise Developer’s Journey to the IoT](http://developerblog.redhat.com/2015/12/02/enterprise-developers-journey-to-iot/)
 - [developers.redhat.com: So, what are containers??](http://developers.redhat.com/containers/overview/)
+- [How to use Red Hat Software Collections (RHSCL) or Red Hat Developer Toolset (DTS)?](https://access.redhat.com/solutions/472793)
+	- [Reddit: Red Hat Software Collections (SCL) is not provided with RHEL Server/Workstation, Self Support](https://www.reddit.com/r/redhat/comments/39kk0s/red_hat_software_collections_scl_is_not_provided/)
 - [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 - [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
 
@@ -511,7 +513,7 @@
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
 - [Ansible - Confessions of a Full Stack DevOp](http://www.ansible.com/blog/confessions-of-a-full-stack-devop)
 
-### Continuous Integration and Delivery - Jenkins
+### Continuous Integration and Delivery - Jenkins, Maven & Gradle
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
 - [Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
@@ -524,6 +526,7 @@
 	- [Build native RPM packages by leveraging docker capabilities](https://github.com/alanfranz/docker-rpm-builder)
 	- [Building RPM with Docker images](http://blog.chmouel.com/2014/12/31/building-rpm-with-docker-images/)
 	- [Reddit: Creating internal RPM build environment?](https://www.reddit.com/r/linuxadmin/comments/2ke2vs/creating_internal_rpm_build_environment/)
+- [Java: Maven vs Gradle](https://dzone.com/articles/maven-vs-gradle-one-year-later)
 
 ## Git
 - [One Million Downloads of GitLab](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
