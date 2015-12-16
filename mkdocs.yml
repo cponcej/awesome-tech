@@ -2,3 +2,4 @@ site_name: Awesome Tech
 pages:
 - Home: index.md
 - About: about.md
+- Quote: mkeiser.md
