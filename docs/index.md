@@ -176,7 +176,7 @@
 	- [Joyent Triton Elastic Container Infrastructure](https://www.joyent.com/)
 	- [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
 
-![internet users](/images/internet-users.jpeg)
+![internet users](images/internet-users.jpeg)
 
 # Startups
 
