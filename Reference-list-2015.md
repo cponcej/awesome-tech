@@ -24,6 +24,7 @@
 	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [WebApp](#webapp)
 	- [HTTP/2](#http2)
+	- [Enterprise Search Platforms](#enterprise-search-platforms)
 	- [Apache & Tomcat](#apache--tomcat)
 	- [Weblogic](#weblogic)
 	- [Nginx](#nginx)
@@ -60,7 +61,6 @@
 		- [APM - Application Performance Management](#apm---application-performance-management)
 			- [APM Solutions](#apm-solutions)
 		- [Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)](#centralized-logging-big-data-log-management-tools-splunkxpolog-graylog2-etc)
-		- [Search servers](#search-servers)
 - [Software Development. Programming languages](#software-development-programming-languages)
 	- [Domain driven design](#domain-driven-design)
 	- [API & Infrastructure Docs](#api--infrastructure-docs)
@@ -308,6 +308,9 @@
 - [Enabling HTTPS Without Sacrificing Your Web Performance](http://moz.com/blog/enabling-https-without-sacrificing-web-performance)
 	- [As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet](http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/)
 	- [Microsoft may block SHA1 certificates sooner than expected](http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/)
+
+## Enterprise Search Platforms
+- [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 
 ## Apache & Tomcat
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
@@ -645,9 +648,6 @@
 - [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
 - [Cloudlytics.com - Analytics for AWS Cloud Logs | CloudFront, CloudTrail, ELB & S3 Logs and Billing Analytics](https://www.cloudlytics.com/)
 - [Splunk feels the heat from stronger, cheaper open source rivals](http://www.infoworld.com/article/2610524/log-analysis/splunk-feels-the-heat-from-stronger--cheaper-open-source-rivals.html)
-
-### Search servers
-- [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 
 # Software Development. Programming languages
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
