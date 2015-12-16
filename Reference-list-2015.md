@@ -212,8 +212,9 @@
 
 ## Scalability Solutions
 - [OpenShift Dedicated](https://www.openshift.com/dedicated/)
-- [Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks](http://mesos.apache.org/)
-- [Univa Grid Engine, workload orchestration and container optimization solutions](http://www.univa.com/)
+- [Apache Mesos](http://mesos.apache.org/)
+- [Kubernetes.io](http://kubernetes.io/)
+- [Univa Grid Engine](http://www.univa.com/)
 
 # Linux
 ## Linux Blogs and Forums
