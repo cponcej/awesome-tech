@@ -9,6 +9,7 @@
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
 	- [Startup jobs](#startup-jobs)
+- [Scalability and Reliability](#scalability-and-reliability)
 - [Linux](#linux)
 - [Microsoft](#microsoft)
 	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
@@ -16,7 +17,6 @@
 	- [Red Hat virtualization](#red-hat-virtualization)
 	- [Red Hat docs and forums](#red-hat-docs-and-forums)
 	- [Red Hat Development](#red-hat-development)
-- [Scalability and Reliability](#scalability-and-reliability)
 - [WebApp](#webapp)
 	- [HTTP/2](#http2)
 	- [Apache & Tomcat](#apache--tomcat)
@@ -195,6 +195,17 @@
 
 ![Should the Fed raise rates?](/images/should-the-fed-raise-rates.png)
 
+# Scalability and Reliability
+- [Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks](http://mesos.apache.org/)
+- [Univa Grid Engine, workload orchestration and container optimization solutions](http://www.univa.com/)
+- [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
+	- ["Scalable Internet Architectures" book - Theo Schlossnagle](http://scalableinternetarchitectures.com/)
+	- [video: Scalable Internet Architectures - Theo Schlossnagle](https://www.youtube.com/watch?v=2WuT2rdLK5A)
+- [slides: Scalable Web Architectures: Common Patterns and Approaches](http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches)
+- [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
+- [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
+- [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
+
 # Linux
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
@@ -255,17 +266,6 @@
 - [developers.redhat.com: So, what are containers??](http://developers.redhat.com/containers/overview/)
 - [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 - [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
-
-# Scalability and Reliability
-- [Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks](http://mesos.apache.org/)
-- [Univa Grid Engine, workload orchestration and container optimization solutions](http://www.univa.com/)
-- [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
-	- ["Scalable Internet Architectures" book - Theo Schlossnagle](http://scalableinternetarchitectures.com/)
-	- [video: Scalable Internet Architectures - Theo Schlossnagle](https://www.youtube.com/watch?v=2WuT2rdLK5A)
-- [slides: Scalable Web Architectures: Common Patterns and Approaches](http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches)
-- [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
-- [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
-- [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
 
 # WebApp
 ## HTTP/2
@@ -439,7 +439,7 @@
 - [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
 - [Foreman is a complete lifecycle management tool](http://www.theforeman.org/)
 
-## Chef and SAP  
+## Chef and SAP
 - [docs.chef.io](https://docs.chef.io/)
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
 - [Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps](http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction)
