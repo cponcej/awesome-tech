@@ -10,6 +10,7 @@
 	- [Startup related links](#startup-related-links)
 	- [Startup jobs](#startup-jobs)
 - [Scalability and Reliability](#scalability-and-reliability)
+	- [Solutions](#solutions)
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
 	- [Linux Docs and Resources](#linux-docs-and-resources)
@@ -201,8 +202,6 @@
 ![Should the Fed raise rates?](/images/should-the-fed-raise-rates.png)
 
 # Scalability and Reliability
-- [Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks](http://mesos.apache.org/)
-- [Univa Grid Engine, workload orchestration and container optimization solutions](http://www.univa.com/)
 - [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
 	- ["Scalable Internet Architectures" book - Theo Schlossnagle](http://scalableinternetarchitectures.com/)
 	- [video: Scalable Internet Architectures - Theo Schlossnagle](https://www.youtube.com/watch?v=2WuT2rdLK5A)
@@ -210,6 +209,10 @@
 - [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
 - [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
 - [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
+## Solutions
+- [OpenShift Dedicated](https://www.openshift.com/dedicated/)
+- [Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks](http://mesos.apache.org/)
+- [Univa Grid Engine, workload orchestration and container optimization solutions](http://www.univa.com/)
 
 # Linux
 ## Linux Blogs and Forums
