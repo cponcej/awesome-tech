@@ -1034,6 +1034,9 @@
 
 ## AWS Official Blog  
 - http://blogs.aws.amazon.com/
+- [AWS Quick Start Reference Deployments](http://aws.amazon.com/es/quickstart/)
+	- https://github.com/awslabs/aws-quickstart
+	- https://github.com/awslabs
 
 ### AWS New features
 - [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
