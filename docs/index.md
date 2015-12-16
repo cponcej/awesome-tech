@@ -532,7 +532,7 @@
 - [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
 - [Podcast: Docker & Puppet: Uniting Containers with Configuration Management](https://puppetlabs.com/podcasts/podcast-docker-puppet-combining-containers-configuration-management)
 
-![disruption cycle](images/disruption cycle.png)
+![disruption cycle](images/disruption-cycle.png)
 
 # DevOps
 ## DevOps Blogs
