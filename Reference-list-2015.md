@@ -11,12 +11,12 @@
 	- [Startup jobs](#startup-jobs)
 - [Scalability and Reliability](#scalability-and-reliability)
 - [Linux](#linux)
-- [Microsoft](#microsoft)
-	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [Red Hat](#red-hat)
 	- [Red Hat virtualization](#red-hat-virtualization)
 	- [Red Hat docs and forums](#red-hat-docs-and-forums)
 	- [Red Hat Development](#red-hat-development)
+- [Microsoft](#microsoft)
+	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [WebApp](#webapp)
 	- [HTTP/2](#http2)
 	- [Apache & Tomcat](#apache--tomcat)
@@ -222,16 +222,6 @@
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
 
-# Microsoft
-- [SSH for Windows open sourced by Microsoft. Qué está pasando?](https://github.com/PowerShell/Win32-OpenSSH)
-- [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
-- [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
-
-## Microsoft Monitoring and Management 
-- [Spiceworks](http://www.spiceworks.com/app/)
-	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
-	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
-
 # Red Hat
 ## Red Hat virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
@@ -266,6 +256,16 @@
 - [developers.redhat.com: So, what are containers??](http://developers.redhat.com/containers/overview/)
 - [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 - [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
+
+# Microsoft
+- [SSH for Windows open sourced by Microsoft. Qué está pasando?](https://github.com/PowerShell/Win32-OpenSSH)
+- [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
+- [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
+
+## Microsoft Monitoring and Management 
+- [Spiceworks](http://www.spiceworks.com/app/)
+	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
+	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
 
 # WebApp
 ## HTTP/2
