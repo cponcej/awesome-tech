@@ -1,4 +1,4 @@
-# IT Reference List, December 2015
+# Awesome Tech
 
 **Table of Contents**  
 <!-- MarkdownTOC -->
