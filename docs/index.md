@@ -1063,7 +1063,7 @@
 - [AWS re:Invent: Five takeaways on Amazon's new cloud services](http://www.zdnet.com/article/aws-reinvent-five-takeaways-on-new-services/)
 - [Amazon Web Services gets serious about big data analytics with bevy of new services](http://www.zdnet.com/article/amazon-web-services-big-data-analytics-enterprise-datacenters/)
 - [Amazon QuickSight: Fast, easy to use, in-memory, Cloud BI service for everyone in an organization (not only technical people). It is 1/10 the cost of traditional BI tools.](https://aws.amazon.com/es/quicksight/)
-- [Revealed at AWS re:Invent: Amazon Kinesis Firehose - easily load streaming data into Amazon S3 & Amazon RedShift.] (http://oak.ctx.ly/r/3tfr7)
+- [Revealed at AWS re:Invent: Amazon Kinesis Firehose - easily load streaming data into Amazon S3 & Amazon RedShift] (http://oak.ctx.ly/r/3tfr7)
 - [What is Streaming Data?](https://aws.amazon.com/es/streaming-data/)
 - [Amazon RDS Update – MariaDB is Now Available](https://aws.amazon.com/es/blogs/aws/amazon-rds-update-mariadb-is-now-available)
 - [AWS Database Migration Service with AWS Schema Conversion Tool] (http://aws.amazon.com/es/dms/)
