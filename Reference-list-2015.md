@@ -209,6 +209,7 @@
 - [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
 - [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
 - [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
+
 ## Scalability Solutions
 - [OpenShift Dedicated](https://www.openshift.com/dedicated/)
 - [Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks](http://mesos.apache.org/)
