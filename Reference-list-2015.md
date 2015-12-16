@@ -12,8 +12,9 @@
 - [Scalability and Reliability](#scalability-and-reliability)
 - [Linux](#linux)
 - [Red Hat](#red-hat)
+	- [Red Hat Blogs](#red-hat-blogs)
 	- [Red Hat virtualization](#red-hat-virtualization)
-	- [Red Hat docs and forums](#red-hat-docs-and-forums)
+	- [Red Hat Docs](#red-hat-docs)
 	- [Red Hat Development](#red-hat-development)
 - [Microsoft](#microsoft)
 	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
@@ -58,7 +59,7 @@
 		- [Search servers](#search-servers)
 - [Software Development. Programming languages](#software-development-programming-languages)
 	- [Domain driven design](#domain-driven-design)
-	- [API Docs](#api-docs)
+	- [API & Infrastructure Docs](#api--infrastructure-docs)
 	- [Editors](#editors)
 		- [Sublime](#sublime)
 		- [Alternative editors](#alternative-editors)
@@ -223,6 +224,16 @@
 - [awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
 
 # Red Hat
+## Red Hat Blogs
+- [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/)
+- [Red Hat Community](http://community.redhat.com)
+- [Fedora Magazine](http://fedoramagazine.org/)
+- [Red Hat Developer Blog](http://developerblog.redhat.com)
+- [Red Hat Developers](http://developers.redhat.com)
+- [Planet JBoss Developer](http://planet.jboss.org/)
+- [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
+- [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
+
 ## Red Hat virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 	- [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
@@ -232,16 +243,14 @@
 - [GlusterFS scalable network filesystem](http://www.gluster.org/)
 	- [GlusterFS Documentation](http://gluster.readthedocs.org/en/latest/)
 
-## Red Hat docs and forums
-- [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
-- [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
-- [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
-	- [OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes](http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/)
-	- [OpenShift Dedicated](https://www.openshift.com/dedicated/)
-	- [Red Hat quiere que su canal se vuelque en middleware y cloud](http://www.channelpartner.es/oportunidades-negocio/noticias/1079121002302/red-hat-quiere-canal-vuelque-middleware-cloud.1.html)
+## Red Hat Docs
 - [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
 	- [A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives](http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/)
 - [Product documentation](https://access.redhat.com/documentation/en/)
+- [OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes](http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/)
+	- [OpenShift Dedicated](https://www.openshift.com/dedicated/)
+	- [Red Hat quiere que su canal se vuelque en middleware y cloud](http://www.channelpartner.es/oportunidades-negocio/noticias/1079121002302/red-hat-quiere-canal-vuelque-middleware-cloud.1.html)
+- [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
 - [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
 	- [Flock 2014 Fedora Conference: Live Streaming Schedule and Video Archives](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
 	- [Flock 2015 Fedora Conference: Streaming video](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
@@ -264,7 +273,7 @@
 - [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
 - [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
 
-## Microsoft Monitoring and Management 
+## Microsoft Monitoring and Management
 - [Spiceworks](http://www.spiceworks.com/app/)
 	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
 	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
@@ -327,10 +336,10 @@
 
 # Security
 ## Security - Identity Management
-- [Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
-- [Improvements to Identity Management (IdM) in RHEL 7.1](http://www.redhat.com/en/about/press-releases/red-hat-continues-platform-innovation-general-availability-first-minor-release-red-hat-enterprise-linux-7)
+- [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
+- [redhat.com - Improvements to Identity Management (IdM) in RHEL 7.1](http://www.redhat.com/en/about/press-releases/red-hat-continues-platform-innovation-general-availability-first-minor-release-red-hat-enterprise-linux-7)
 - [Dell Authentication Services](http://software.dell.com/products/authentication-services/)
-- [Centrify | Identity Management](https://www.centrify.com/)
+- [Centrify](https://www.centrify.com/)
 - [Employees have no qualms in selling corporate passwords](http://www.csoonline.com/article/2905682/data-breach/employees-have-no-qualms-in-selling-corporate-passwords.html)
 - [Are their any valid Active Directory Alternatives?](http://community.spiceworks.com/topic/689453-are-their-any-valid-active-directory-alternatives)
 - [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
@@ -532,7 +541,7 @@
 - [One Million Downloads of GitLab](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
 - [git.training](http://git.training/)
 - [training.github.com - GitHub Training](https://training.github.com/classes/developers/)
-	- [GitHub lanza su propio curso de formación; ¿el objetivo? Que los desarrolladores exploten todo su potencial](http://www.genbeta.com/comparativa/github-lanza-su-propio-curso-de-formacion-el-objetivo-que-los-desarrolladores-exploten-todo-su-potencial)
+	- [GitHub lanza su propio curso de formación; objetivo:Que los desarrolladores exploten todo su potencial](http://www.genbeta.com/comparativa/github-lanza-su-propio-curso-de-formacion-el-objetivo-que-los-desarrolladores-exploten-todo-su-potencial)
 - [Git Magic - training](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 - [opentechschool.github.io - Social Coding with GitHub. This is the course content for Social Coding with GitHub](http://opentechschool.github.io/social-coding/)
 - [Git-scm.com](http://git-scm.com/)
@@ -621,7 +630,7 @@
 - [Splunk feels the heat from stronger, cheaper open source rivals](http://www.infoworld.com/article/2610524/log-analysis/splunk-feels-the-heat-from-stronger--cheaper-open-source-rivals.html)
 
 ### Search servers
-- [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/) 
+- [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 
 # Software Development. Programming languages
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
@@ -635,7 +644,7 @@
 
 ![system testing](/images/system_testing_cartoon.png)
 
-## API Docs
+## API & Infrastructure Docs
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface] (http://devdocs.io)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
@@ -792,7 +801,7 @@
 - [Spark Streaming: What Is It and Who’s Using It?](http://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/)
 - [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 
-## SQL 
+## SQL
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [essentialsql.com: Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
