@@ -110,7 +110,7 @@
 	- [Cloud references](#cloud-references)
 	- [Cloud Pricing](#cloud-pricing)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
-	- [AWS Official Blog](#aws-official-blog)
+	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New features](#aws-new-features)
 		- [AWS DevOps](#aws-devops)
 		- [AWS Security](#aws-security)
@@ -310,7 +310,8 @@
 # WebApp
 ## HTTP/2
 - [SPDY & HTTP 2 with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=WkLBrHW4NhQ)
-	- https://http2.github.io/faq/
+	- [http2.github.io HTTP/2](https://http2.github.io)
+	- [http2.github.io HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/)
 	- [HTTP/2 resources](https://pinboard.in/u:rmurphey/t:http2/)
 	- [A Simple Performance Comparison of HTTPS, SPDY and HTTP/2](https://blog.httpwatch.com/2015/01/16/a-simple-performance-comparison-of-https-spdy-and-http2/comment-page-1/)
 	- [blog.cloudflare.com - Tools for debugging, testing and using HTTP/2](https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/)
@@ -456,8 +457,8 @@
 ### WebLogic via Ansible
 - [middlewaresnippets.blogspot.com.es - set-up Oracle WebLogic Server environment with Ansible (3 hosts, one control node and two managed nodes)](http://middlewaresnippets.blogspot.com.es/2015/03/fun-with-ansible.html)
 - [blogs.oracle.com - Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7 by Christos Vezalis](https://blogs.oracle.com/emeapartnerweblogic/entry/ansible_playbook_to_provision_a)
-	- https://github.com/cvezalis/weblogic-ansible
-	- https://github.com/cvezalis/ansible-weblogic-fmw-infra-12c-R2
+	- [Ansible Playbook: install and configure WebLogic server 12c with Oracle Fusion Middleware in RHEL7](https://github.com/cvezalis/weblogic-ansible)
+	- [Ansible playbook: deploy and create a WebLogic 12c R2 Domain with Oracle Fusion Middleware](https://github.com/cvezalis/ansible-weblogic-fmw-infra-12c-R2)
 
 ### Databases via Ansible
 - [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)
@@ -900,7 +901,7 @@
 # Networking
 ## Next Generation Firewalls
 - [Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
-- http://livedemo.sonicwall.com
+- [Dell Security Live Demo](http://livedemo.sonicwall.com)
 - [Disponible la 6ª generación de Dell SonicWALL TZ Series Firewalls con SonicOS 6.2. A tener en cuenta por Pymes interesadas en las nuevas conexiones de Internet para empresa (300 y 500Mbs)](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-sonic-wall-tz-series)
 - [SonicWALL Firewall vs. Fortinet Fortigate](http://www.firewalls.com/sonicwall_vs_fortigate)
 - [Dell Security Adds 50 Percent Rebate On SonicWall TZ And NSA Appliances](http://www.crn.com/news/channel-programs/300077951/dell-security-adds-50-percent-rebate-on-sonicwall-tz-and-nsa-appliances.htm)
@@ -930,7 +931,7 @@
 - [Laura Chappell's Top Videos](https://www.youtube.com/user/thebitgirl/videos)
 	- [Wireshark Tip 10: Identify Separate TCP Conversations with TCP Stream Index (Laura Chappell)](https://www.youtube.com/watch?v=0dFndZwkDGY)
 	- [Wireshark profiles](https://www.youtube.com/watch?v=pxxcuR7fwXM)
-	- http://packetlife.net/
+	- [PacketLife.net](http://packetlife.net/)
 	- [Sharkfest 2013 - Wireshark Network Forensics (Laura Chappell). Seguridad con Wireshark: ejemplos de ataques de seguridad DDoS (macof, DNS), filtros, perfiles, coloreado de frames y tshark para trazas largas](https://www.youtube.com/watch?v=UXAHvwouk6Q)
 	- [wireshark's colors, by Laura Chappell](http://bit.ly/nmapcolors)
 - [Sharkfest '14 Retrospective](http://sharkfest.wireshark.org/sharkfest.14/)
@@ -939,8 +940,8 @@
 	- [Tuning Win7 Using Wireshark’s TCP Stream Graph](http://sharkfest.wireshark.org/sharkfest.12/presentations/A-3_A-10_Tuning_Win7_Using_Wireshark_TCP_Stream_Graph_a_Case_Study.pdf)
 - Una forma de evitar los ataques DDoS similares a macof es bloquear desde los firewalls las conexiones (SYN) con MSS=0 y WinSize=0.
 	- [Flood network with random MAC addresses with macof tool](https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/)
-	- http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html
-	- https://www.htcia.org/
+	- ['itsoknoproblembro' Toolkit - The Beast that Beat Banks](http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html)
+	- [HTCIA | High Technology Crime Investigation Association](https://www.htcia.org/)
 - [Fiddler complementa muy bien a las devtools de Firefox ó Chrome (F12 key) para capturar y analizar trazas de tráfico HTTP. Alternativa a Wireshark para HTTP Network Forensics.](http://www.telerik.com/fiddler)
 	- [Fiddler, un proxy para depurar aplicaciones](http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones)
 - [TRANSUM es un plugin dissector para Wireshark que añade información de tiempo de respuesta a los paquetes de petición de servicio para diferentes protocolos.](http://www.tribelabzero.com/temp/tl_resources.html)
@@ -958,8 +959,8 @@
 
 ## WiFi security
 - [Analyzing the 1000 Most Common Wi-Fi Network Names](https://ghostpath.com/blog/ssid-analyzing-the-1000-most-common-wi-fi-network-names/)
-- https://www.ubnt.com/
-- http://www.arubanetworks.com/es/
+- [Ubiquiti Networks](https://www.ubnt.com)
+- [Aruba Networks](http://www.arubanetworks.com)
 
 ## WebPerf & Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
@@ -993,9 +994,9 @@
 - [Presentación Synology 2015 Evento Madrid](http://qloudea.com/blog/evento-synology-2015-madrid/)
 	- [Forum.synology.com](http://forum.synology.com)
 	- [Synology Add-on Packages](https://www.synology.com/en-uk/dsm/app_packages)
-	- https://www.synology.com/en-uk/company/case_study/somersault
-	- https://www.synology.com/en-uk/company/case_study/Bridges_Electrical
-	- http://qloudea.com/blog/synology-ds3615xs-lanzamiento/
+	- [Synology Case Study: Somersault Productions](https://www.synology.com/en-uk/company/case_study/somersault)
+	- [Synology Case Study: Bridges Electrical Engineers](https://www.synology.com/en-uk/company/case_study/Bridges_Electrical)
+	- [Lanzamiento Synology DS3615xs](http://qloudea.com/blog/synology-ds3615xs-lanzamiento/)
 	- [Synology RackStation RS18016xs+](https://www.synology.com/en-uk/products/RS18016xs+)
 	- [Synology RS815+ NAS](https://www.synology.com/es-es/products/RS815+)
 	- [Synology DS214Play Revisión a fondo](http://qloudea.com/blog/review-synology-ds214play/)
@@ -1081,11 +1082,11 @@
 - [AWS IoT – Cloud Services for Connected Devices](https://aws.amazon.com/es/blogs/aws/aws-iot-cloud-services-for-connected-devices)
 - [AWS Mobile Hub – Build, Test, and Monitor Mobile Applications](https://aws.amazon.com/es/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications)
 
-## AWS Official Blog
-- http://blogs.aws.amazon.com/
+## AWS Official Blog, AWS Labs, AWS Quick Start
+- [AWS Official Blog](http://blogs.aws.amazon.com/)
+- [AWS Labs GitHub](https://github.com/awslabs)
 - [AWS Quick Start Reference Deployments](http://aws.amazon.com/es/quickstart/)
-	- https://github.com/awslabs/aws-quickstart
-	- https://github.com/awslabs
+	- [AWS Quick Start - GitHub](https://github.com/awslabs/aws-quickstart)
 
 ### AWS New features
 - [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
