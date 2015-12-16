@@ -11,6 +11,8 @@
 	- [Startup jobs](#startup-jobs)
 - [Scalability and Reliability](#scalability-and-reliability)
 - [Linux](#linux)
+	- [Linux Blogs and Forums](#linux-blogs-and-forums)
+- [Linux Docs and Resources](#linux-docs-and-resources)
 - [Red Hat](#red-hat)
 	- [Red Hat Blogs](#red-hat-blogs)
 	- [Red Hat virtualization](#red-hat-virtualization)
@@ -210,13 +212,20 @@
 - [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
 
 # Linux
+## Linux Blogs and Forums
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
-- [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
+- [Sysadmincasts.com](http://sysadmincasts.com)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
-- [nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
+- [Linux.com](http://www.linux.com/)
+- [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
+- [LinuxJournal](http://www.linuxjournal.com)
+- [Xmodulo - Linux FAQs, tips and tutorials](http://xmodulo.com)
+
+# Linux Docs and Resources
+- [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 - [Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
 - [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
-- [Linux and Unix Port Scanning With netcat [nc] Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
+- [Linux and Unix Port Scanning With netcat 'nc' Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
 - [Sysadmincasts.com: LVM Linear vs Striped Logical Volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 - [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
