@@ -12,7 +12,7 @@
 - [Scalability and Reliability](#scalability-and-reliability)
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
-- [Linux Docs and Resources](#linux-docs-and-resources)
+	- [Linux Docs and Resources](#linux-docs-and-resources)
 - [Red Hat](#red-hat)
 	- [Red Hat Blogs](#red-hat-blogs)
 	- [Red Hat virtualization](#red-hat-virtualization)
@@ -221,7 +221,7 @@
 - [LinuxJournal](http://www.linuxjournal.com)
 - [Xmodulo - Linux FAQs, tips and tutorials](http://xmodulo.com)
 
-# Linux Docs and Resources
+## Linux Docs and Resources
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 - [Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
 - [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
