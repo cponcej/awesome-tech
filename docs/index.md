@@ -36,9 +36,9 @@
 		- [Data Grid: Supercharge Your Applications with Intelligent, Distributed Caching](#data-grid-supercharge-your-applications-with-intelligent-distributed-caching)
 	- [E-Mail](#e-mail)
 - [Security](#security)
-	- [Security - Identity Management](#security---identity-management)
+	- [Identity Management](#identity-management)
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
-	- [Security, Breaking Firewalls](#security-breaking-firewalls)
+	- [Breaking Firewalls](#breaking-firewalls)
 	- [Major security issues and blogs](#major-security-issues-and-blogs)
 - [Configuration Management](#configuration-management)
 	- [Vagrant](#vagrant)
@@ -117,7 +117,7 @@
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 - [E-Learning](#e-learning)
-	- [Udemy. Drop the price of any Udemy Course to 11€/12€ with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11€12€-with-a-coupon-code)
+	- [Udemy. Drop the price of any Udemy Course to 11€ or 12€ with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11€-or-12€-with-a-coupon-code)
 	- [Alternatives](#alternatives)
 
 <!-- /MarkdownTOC -->
@@ -372,7 +372,7 @@
 - [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
 
 # Security
-## Security - Identity Management
+## Identity Management
 - [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
 - [redhat.com - Improvements to Identity Management (IdM) in RHEL 7.1](http://www.redhat.com/en/about/press-releases/red-hat-continues-platform-innovation-general-availability-first-minor-release-red-hat-enterprise-linux-7)
 - [Dell Authentication Services](http://software.dell.com/products/authentication-services/)
@@ -393,7 +393,7 @@
 - [Estándar de exclusión de robots](https://es.wikipedia.org/wiki/Est%C3%A1ndar_de_exclusi%C3%B3n_de_robots)
 - [Robots Database](http://www.robotstxt.org/db.html)
 
-## Security, Breaking Firewalls
+## Breaking Firewalls
 - [Breaking Firewalls with OpenSSH and PuTTY](http://souptonuts.sourceforge.net/sshtips.htm)
 - [Punching holes into firewalls. Why firewalls shouldn't be considered a ultimate weapon for network security. Secure TCP-into-HTTP tunnelling guide](http://sebsauvage.net/punching/)
 
@@ -1113,7 +1113,7 @@
 
 # E-Learning
 
-## Udemy. Drop the price of any Udemy Course to 11€/12€ with a Coupon Code
+## Udemy. Drop the price of any Udemy Course to 11€ or 12€ with a Coupon Code
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 - [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
 	- [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
