@@ -4,6 +4,6 @@ A curated list of awesome IT projects and resources collected between 2014 and 2
 - [Awesome Tech](/docs/index.md)
 - [Awesome Tech at readthedocs.org](http://awesome-tech.readthedocs.org)
 
-# The awesome manifesto
+# Awesome Lists
 - [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
