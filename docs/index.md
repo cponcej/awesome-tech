@@ -4,8 +4,8 @@
 <!-- MarkdownTOC -->
 
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
-	- [Zeef.com - Find & share quality development/tech resources](#zeefcom---find--share-quality-developmenttech-resources)
-	- [stackshare.io - Discover and discuss the best software tools and services](#stackshareio---discover-and-discuss-the-best-software-tools-and-services)
+	- [Zeef.com: Find & share quality development/tech resources](#zeefcom-find--share-quality-developmenttech-resources)
+	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
 	- [Startup jobs](#startup-jobs)
@@ -33,11 +33,11 @@
 		- [Blogs](#blogs)
 		- [Resources](#resources)
 		- [Data Virtualization](#data-virtualization)
-		- [Data Grid - Supercharge Your Applications with Intelligent, Distributed Caching](#data-grid---supercharge-your-applications-with-intelligent-distributed-caching)
+		- [Data Grid: Supercharge Your Applications with Intelligent, Distributed Caching](#data-grid-supercharge-your-applications-with-intelligent-distributed-caching)
 	- [E-Mail](#e-mail)
 - [Security](#security)
 	- [Security - Identity Management](#security---identity-management)
-	- [Application Security. Web App Firewall - blocking bots](#application-security-web-app-firewall---blocking-bots)
+	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Security, Breaking Firewalls](#security-breaking-firewalls)
 	- [Major security issues and blogs](#major-security-issues-and-blogs)
 - [Configuration Management](#configuration-management)
@@ -57,7 +57,7 @@
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
-		- [Continuous Integration and Delivery - Tools: Ansible, Jenkins, Maven & Gradle](#continuous-integration-and-delivery---tools-ansible-jenkins-maven--gradle)
+		- [Continuous Integration and Delivery. Tools: Ansible, Jenkins, Maven & Gradle](#continuous-integration-and-delivery-tools-ansible-jenkins-maven--gradle)
 	- [Git](#git)
 		- [Git clients](#git-clients)
 	- [Load Testing](#load-testing)
@@ -76,14 +76,14 @@
 	- [Bash](#bash)
 	- [Python](#python)
 	- [Python and AWS](#python-and-aws)
-	- [JVM Latency - Caching - Off Heap - Data Grid](#jvm-latency---caching---off-heap---data-grid)
-		- [Java Garbage Collection - Changes in Java 8 - JMX monitoring](#java-garbage-collection---changes-in-java-8---jmx-monitoring)
+	- [JVM Latency: Caching, Off Heap, Data Grid](#jvm-latency-caching-off-heap-data-grid)
+		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
 	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
 	- [QA. Software Testing](#qa-software-testing)
 - [Data Science](#data-science)
 	- [Python analytics](#python-analytics)
 		- [Anaconda Analytics](#anaconda-analytics)
-			- [Anaconda Analytics - code examples](#anaconda-analytics---code-examples)
+			- [Anaconda Code examples](#anaconda-code-examples)
 		- [Apache Zeppelin](#apache-zeppelin)
 	- [Big Data](#big-data)
 		- [Spark](#spark)
@@ -117,7 +117,7 @@
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 - [E-Learning](#e-learning)
-	- [Udemy. Drop the price of any Udemy Course to 11-12€ with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11-12€-with-a-coupon-code)
+	- [Udemy. Drop the price of any Udemy Course to 11€/12€ with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11€12€-with-a-coupon-code)
 	- [Alternatives](#alternatives)
 
 <!-- /MarkdownTOC -->
@@ -125,7 +125,7 @@
 
 # High quality tech resources and search engines
 
-## Zeef.com - Find & share quality development/tech resources
+## Zeef.com: Find & share quality development/tech resources
 - [Zeef.com](https://zeef.com)
 - [agile.zeef.com](https://agile.zeef.com)
 - [sublime-text.zeef.com](https://sublime-text.zeef.com)
@@ -169,7 +169,7 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
-## stackshare.io - Discover and discuss the best software tools and services
+## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
 	- [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
 - [Amazon ECS vs Joyent Triton Elastic Container Infrastructure](http://stackshare.io/convox/amazon-ecs-vs-joyent-triton)
@@ -361,7 +361,7 @@
 ### Data Virtualization
 - [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
 
-### Data Grid - Supercharge Your Applications with Intelligent, Distributed Caching
+### Data Grid: Supercharge Your Applications with Intelligent, Distributed Caching
 - [C2B2Consulting - JBoss Data Grid](http://www.c2b2.co.uk/jboss_data_grid)
 	- [C2B2Consulting - JBoss Data Grid: Webinar](http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1)
 	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
@@ -385,7 +385,7 @@
 - [Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management](http://shiro.apache.org/)
 - [Open source identity management 20121106 - apache con eu](http://www.slideshare.net/ilgrosso/open-source-identity-management-20121106-apache-con-eu)
 
-## Application Security. Web App Firewall - blocking bots
+## Application Security: Web App Firewall. Blocking bots
 - [dzone.com - The 2015 DZone Guide to Application Security](http://bit.ly/1RksReA)
 - [JBossDeveloper - Theft-Proof Java EE - Securing Your Java EE Enterprise Applications](http://planet.jboss.org/post/theft_proof_java_ee_securing_your_java_ee_enterprise_applications)
 - [pyvideo.org: Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities](http://www.pyvideo.org/video/3512/shiny-lets-be-bad-guys-exploiting-and-mitigati-3)
@@ -559,7 +559,7 @@
 - [Lean vs Agile Programming](http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/)
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 
-### Continuous Integration and Delivery - Tools: Ansible, Jenkins, Maven & Gradle
+### Continuous Integration and Delivery. Tools: Ansible, Jenkins, Maven & Gradle
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
 - [Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
@@ -758,7 +758,7 @@
 - [Boto](https://github.com/boto/boto)
 - [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
 
-## JVM Latency - Caching - Off Heap - Data Grid
+## JVM Latency: Caching, Off Heap, Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
 - [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
@@ -766,7 +766,7 @@
 - [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
 - [What is a Data Grid?](http://www.c2b2.co.uk/what_is_data_grid_webinar)
 
-### Java Garbage Collection - Changes in Java 8 - JMX monitoring
+### Java Garbage Collection: Changes in Java 8. JMX monitoring
 - [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
 - [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
 	- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
@@ -815,7 +815,7 @@
 	- [Network data, also known as linked data, is the new frontier of data analysis](https://www.youtube.com/watch?v=wcrwASR5DCQ&index=42&list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
 - [Talk Python to Me Podcast. Episode #34: Continuum: Scientific Python and The Business of Open Source](http://talkpython.fm/episodes/show/34/continuum-scientific-python-and-the-business-of-open-source)
 
-#### Anaconda Analytics - code examples
+#### Anaconda Code examples
 - [Introduction to Python for data mining](http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Python_For_Data_Mining.ipynb)
 - [Jeff Reback's pandas tutorial at PyDataNYC2015, notebooks included](https://github.com/jreback/pydatanyc2015)
 - [Nginx log analysis with pandas and matplotlib](https://github.com/grokcode/ipython-notebooks/blob/master/nginx-log-analysis.ipynb)
@@ -1113,7 +1113,7 @@
 
 # E-Learning
 
-## Udemy. Drop the price of any Udemy Course to 11-12€ with a Coupon Code
+## Udemy. Drop the price of any Udemy Course to 11€/12€ with a Coupon Code
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 - [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
 	- [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
