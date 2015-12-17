@@ -94,6 +94,7 @@
 	- [SQL](#sql)
 		- [SQL replication](#sql-replication)
 		- [NoSQL](#nosql)
+			- [Schema free SQL query on everything engines](#schema-free-sql-query-on-everything-engines)
 		- [NewSQL](#newsql)
 - [Networking](#networking)
 	- [Next Generation Firewalls](#next-generation-firewalls)
@@ -905,6 +906,10 @@
 - [NoSQL Guide, by Martin Fowler](http://martinfowler.com/nosql.html)
 - [thoughtworks.com: NoSQL Databases, an overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 - [Diferencias entre SQL y NoSQL ¿Sabes cuál usar?](http://www.facilcloud.com/noticias/?p=1294&lang=es_ES)
+
+#### Schema free SQL query on everything engines
+- [Apache Drill](https://drill.apache.org/)
+- [dzone: SQL Syntax for Apache Drill](https://dzone.com/refcardz/sql-syntax-for-apache-drill)
 
 ### NewSQL
 - [NuoDB, elastically scalable database. A revolution compared to traditional monolithic 1-box databases. NuoDB is ACID,SQL, distributed/scalable and support flexible schemas](http://www.nuodb.com/)
