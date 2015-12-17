@@ -511,13 +511,13 @@
 - [Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes](http://www.ansible.com/ansiblefest-videos-spark-central-sf15)
 
 ### Docker references
+- [DZone Refcard: Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
 - [Awesome Docker. A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
+- [Free eBook - Docker Security: Using Containers Safely in Production](https://www.openshift.com/promotions/docker-security.html)
+- [javacodegeeks.com: Why docker](http://www.javacodegeeks.com/2015/11/why-docker.html)
 - [Why Docker Could Revolutionize Enterprise Cloud Computing](https://www.linkedin.com/pulse/why-docker-could-revolutionize-enterprise-cloud-computing-andy-waroma)
 - [Adoption/popularity is the new king. The only constant is change! - puppet, chef, ansible, docker ](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
 - [DockerCon EU: Software Testing with Docker](http://thenewstack.io/software-testing-docker/)
-- [Free eBook - Docker Security: Using Containers Safely in Production](https://www.openshift.com/promotions/docker-security.html)
-- [Why docker](http://www.javacodegeeks.com/2015/11/why-docker.html)
-- [Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
 - [Deploying Containers with Docker Swarm and Docker Networking](http://www.javacodegeeks.com/2015/11/deploying-containers-docker-swarm-docker-networking.html)
 - [Docker for the python developer, podcast at http://talkpython.fm/](http://talkpython.fm/episodes/show/9/docker-for-the-python-developer)
 - [How to be Successful Running Docker in Production](http://www.infoq.com/news/2015/11/running-docker-production)
