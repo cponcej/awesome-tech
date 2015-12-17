@@ -945,10 +945,13 @@
 - [Diferencias entre SQL y NoSQL ¿Sabes cuál usar?](http://www.facilcloud.com/noticias/?p=1294&lang=es_ES)
 
 #### MongoDB Tools and MongoDB as a Service
+- [MongoDB Tools - Admin GUIs, Monitoring and Other Good Stuff](http://mongodb-tools.com/)
 - [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
 	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
+- [blog.mongodirector.com: Which is the best MongoDB GUI?](http://blog.mongodirector.com/which-is-the-best-mongodb-gui/)
 - [MongoLab: Fully managed MongoDB-as-a-Service](https://mongolab.com/)
 - [Orchestrate: DBaaS|NoSQL with One REST API](https://orchestrate.io/)
+- [mongodirector: MongoDB Hosting](http://mongodirector.com)
 
 #### Schema free SQL query on everything engines
 - [Apache Drill](https://drill.apache.org/)
