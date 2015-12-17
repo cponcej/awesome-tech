@@ -28,8 +28,8 @@
 	- [HTTP/2](#http2)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
 	- [Apache and Tomcat](#apache-and-tomcat)
-	- [WebLogic](#weblogic)
 	- [Nginx](#nginx)
+	- [WebLogic](#weblogic)
 	- [JBoss (WildFly)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
 		- [JBoss Resources](#jboss-resources)
@@ -334,6 +334,11 @@
 - [middlewaresnippets.blogspot.com.es - Working with Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/05/working-with-apache-http-server.html)
 	- [middlewaresnippets.blogspot.com.es - Working some more with Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/09/working-some-more-with-apache-http.html)
 
+## Nginx
+- [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
+- [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
+- [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
+
 ## WebLogic
 - [SlideShare - 12 Things You Should Know About WebLogic Server 12.2.1](http://www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015)
 - [middlewaresnippets.blogspot.com.es - WebLogic Server on Linux 7](http://middlewaresnippets.blogspot.com.es/2015/04/weblogic-server-on-linux-7.html)
@@ -344,11 +349,6 @@
 - [blogs.oracle.com - WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
 - [Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
 - [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
-
-## Nginx
-- [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
-- [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
-- [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
 ## JBoss (WildFly)
 ### JBoss Blogs
