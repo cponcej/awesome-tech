@@ -890,6 +890,7 @@
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
 
 ### SQL replication
+- [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
 - [Tungsten Replicator is an open source replication engine supporting a variety of different extractor and applier modules](https://github.com/vmware/tungsten-replicator)
 - [Multi-source replication in MySQL 5.7 vs Tungsten Replicator](https://www.percona.com/blog/2015/07/29/multi-source-replication-in-mysql-5-7-vs-tungsten-replicator/)
@@ -921,7 +922,7 @@
 - [Dell Security Adds 50 Percent Rebate On SonicWall TZ And NSA Appliances](http://www.crn.com/news/channel-programs/300077951/dell-security-adds-50-percent-rebate-on-sonicwall-tz-and-nsa-appliances.htm)
 
 ## Network virtualization
-- [FOSS Network Functions Virtualization](https://www.opnfv.org) 
+- [FOSS Network Functions Virtualization](https://www.opnfv.org)
 
 ## Network forensics
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
