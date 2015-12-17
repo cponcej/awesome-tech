@@ -58,7 +58,10 @@
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
-		- [Continuous Integration and Delivery. Tools: Ansible, Jenkins, Maven, Gradle](#continuous-integration-and-delivery-tools-ansible-jenkins-maven-gradle)
+		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
+			- [CI Jenkins](#ci-jenkins)
+			- [CI RPM build](#ci-rpm-build)
+			- [CI Maven and Gradle](#ci-maven-and-gradle)
 	- [Git](#git)
 		- [Git clients](#git-clients)
 	- [Load Testing](#load-testing)
@@ -437,6 +440,7 @@
 - [Ansible, Just Use It - slide](https://speakerdeck.com/vranac/ansible-just-use-it)
 - [Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7](http://unversioned.blogspot.gr/2015/10/ansible-playbook-provision-weblogic-fusion-middleware-12.1.3-centos-7.html)
 - [Ansible vs Puppet – Hands-On with Ansible](https://dantehranian.wordpress.com/2015/01/20/ansible-vs-puppet-hands-on-with-ansible/)
+- [Ansible.com Blog - Confessions of a Full Stack DevOp](http://www.ansible.com/blog/confessions-of-a-full-stack-devop)
 - [Ansible for DevOps, a book on Ansible by Jeff Geerling](http://www.ansiblefordevops.com/)
 - [Ansible examples from Ansible for DevOps - github code](https://github.com/geerlingguy/ansible-for-devops)
 - [How to Install and Configure ‘Ansible’ Automation Tool for IT Management](http://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/)
@@ -564,20 +568,25 @@
 - [Lean vs Agile Programming](http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/)
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 
-### Continuous Integration and Delivery. Tools: Ansible, Jenkins, Maven, Gradle
+### Continuous Integration and Delivery
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
 - [Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
-- [Ansible - Confessions of a Full Stack DevOp](http://www.ansible.com/blog/confessions-of-a-full-stack-devop)
+
+#### CI Jenkins
 - [Jenkins User Conference West 2015 - Slides available](https://www.cloudbees.com/jenkins/juc-2015/us-west)
 	- [Jenkins and Docker: Next Generation Continuous Delivery](https://www.linkedin.com/pulse/jenkins-docker-next-generation-continuous-delivery-khadija-kerissi)
 	- [Tutorial: Gestión de Configuración – Ansible + Vagrant + Jenkins](http://www.carlessanagustin.com/2015/08/20/tutorial-gestion-de-configuracion-ansible-vagrant-jenkins/)
 	- [Jenkins Docker Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin)
 	- [jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server](https://github.com/jhrcz/jenkins-rpm-builder)
+
+#### CI RPM build
 - [Continuous integration + rpmbuild + Docker](https://access.redhat.com/discussions/1174853)
 	- [Build native RPM packages by leveraging docker capabilities](https://github.com/alanfranz/docker-rpm-builder)
 	- [Building RPM with Docker images](http://blog.chmouel.com/2014/12/31/building-rpm-with-docker-images/)
 	- [Reddit: Creating internal RPM build environment?](https://www.reddit.com/r/linuxadmin/comments/2ke2vs/creating_internal_rpm_build_environment/)
+
+#### CI Maven and Gradle
 - [Java: Maven vs Gradle](https://dzone.com/articles/maven-vs-gradle-one-year-later)
 
 ## Git

@@ -1,0 +1,2503 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>body {
+  width: 45em;
+  border: 1px solid #ddd;
+  outline: 1300px solid #fff;
+  margin: 16px auto;
+}
+
+body .markdown-body
+{
+  padding: 30px;
+}
+
+@font-face {
+  font-family: fontawesome-mini;
+  src: url(data:font/woff;charset=utf-8;base64,d09GRgABAAAAAAzUABAAAAAAFNgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAABbAAAABwAAAAcZMzaOEdERUYAAAGIAAAAHQAAACAAOQAET1MvMgAAAagAAAA+AAAAYHqhde9jbWFwAAAB6AAAAFIAAAFa4azkLWN2dCAAAAI8AAAAKAAAACgFgwioZnBnbQAAAmQAAAGxAAACZVO0L6dnYXNwAAAEGAAAAAgAAAAIAAAAEGdseWYAAAQgAAAFDgAACMz7eroHaGVhZAAACTAAAAAwAAAANgWEOEloaGVhAAAJYAAAAB0AAAAkDGEGa2htdHgAAAmAAAAAEwAAADBEgAAQbG9jYQAACZQAAAAaAAAAGgsICJBtYXhwAAAJsAAAACAAAAAgASgBD25hbWUAAAnQAAACZwAABOD4no+3cG9zdAAADDgAAABsAAAAmF+yXM9wcmVwAAAMpAAAAC4AAAAusPIrFAAAAAEAAAAAyYlvMQAAAADLVHQgAAAAAM/u9uZ4nGNgZGBg4ANiCQYQYGJgBEJuIGYB8xgABMMAPgAAAHicY2Bm42OcwMDKwMLSw2LMwMDQBqGZihmiwHycoKCyqJjB4YPDh4NsDP+BfNb3DIuAFCOSEgUGRgAKDgt4AAB4nGNgYGBmgGAZBkYGEAgB8hjBfBYGCyDNxcDBwMTA9MHhQ9SHrA8H//9nYACyQyFs/sP86/kX8HtB9UIBIxsDXICRCUgwMaACRoZhDwA3fxKSAAAAAAHyAHABJQB/AIEAdAFGAOsBIwC/ALgAxACGAGYAugBNACcA/wCIeJxdUbtOW0EQ3Q0PA4HE2CA52hSzmZDGe6EFCcTVjWJkO4XlCGk3cpGLcQEfQIFEDdqvGaChpEibBiEXSHxCPiESM2uIojQ7O7NzzpkzS8qRqnfpa89T5ySQwt0GzTb9Tki1swD3pOvrjYy0gwdabGb0ynX7/gsGm9GUO2oA5T1vKQ8ZTTuBWrSn/tH8Cob7/B/zOxi0NNP01DoJ6SEE5ptxS4PvGc26yw/6gtXhYjAwpJim4i4/plL+tzTnasuwtZHRvIMzEfnJNEBTa20Emv7UIdXzcRRLkMumsTaYmLL+JBPBhcl0VVO1zPjawV2ys+hggyrNgQfYw1Z5DB4ODyYU0rckyiwNEfZiq8QIEZMcCjnl3Mn+pED5SBLGvElKO+OGtQbGkdfAoDZPs/88m01tbx3C+FkcwXe/GUs6+MiG2hgRYjtiKYAJREJGVfmGGs+9LAbkUvvPQJSA5fGPf50ItO7YRDyXtXUOMVYIen7b3PLLirtWuc6LQndvqmqo0inN+17OvscDnh4Lw0FjwZvP+/5Kgfo8LK40aA4EQ3o3ev+iteqIq7wXPrIn07+xWgAAAAABAAH//wAPeJyFlctvG1UUh+/12DPN1B7P3JnYjj2Ox4/MuDHxJH5N3UdaEUQLqBIkfQQioJWQ6AMEQkIqsPGCPwA1otuWSmTBhjtps2ADWbJg3EpIXbGouqSbCraJw7kzNo2dRN1cnXN1ZvT7zuuiMEI7ncizyA0URofRBJpCdbQuIFShYY+GZRrxMDVtih5TwQPHtXDFFSIKoWIbuREBjLH27Ny4MsbVx+uOJThavebgVrNRLAiYx06rXsvhxLgWx9xpfHdrs/ekc2Pl2cpPCVEITQpwbj8VQhfXSq2m+Wxqaq2D73Kne5e3NjHqQNj3CRYlJlgUl/jRNP+2Gs2pNYRQiOnmUaQDqm30KqKiTTWPWjboxnTWpvgxjXo0KrtZXAHt7hwIz0YVcj88JnKlJKi3NPAwLyDwZudSmJSMMJFDYaOkaol6XtESx3Gt1VTytdZJ3DCLeaVhVnCBH1fycHTxFXwPX+l2e3d6H/TufGGmMTLTnbSJUdo00zuBswMO/nl3YLeL/wnu9/limCuD3vC54h5NBVz6Li414AI8Vx3iiosKcQXUbrvhFFiYb++HN4DaF4XzFW0fIN4XDWJ3a3XQoq9V8WiyRmdsatV9xUcHims1JloH0YUa090G3Tro3mC6c01f+YwCPquINr1PTaCP6rVTOOmf0GE2dBc7zWIhji3/5MchSuBHgDbU99RMWt3YUNMZMJmx92YP6NsHx/5/M1yvInpnkIOM3Z8fA3JQ2lW1RFC1KaBPDFXNAHYYvGy73aYZZZ3HifbeuiVZCpwA3oQBs0wGPYJbJfg60xrKEbKiNtTe1adwrpBRwlAuQ3q3VRaX0QmQ9a49BTSCuF1MLfQ6+tinOubRBZuWPNoMevGMT+V41KitO1is3D/tpMcq1JHZqDHGs8DoYGDkxJgKjHROeTCmhZvzPm9pod+ltKm4PN7Dyvvldlpsg8D+4AUJZ3F/JBstZz7cbFRxsaAGV6yX/dkcycWf8eS3QlQea+YLjdm3yrOnrhFpUyKVvFE4lpv4bO3Svx/6F/4xmiDu/RT5iI++lko18mY1oX+5UGKR6kmVjM/Zb76yfHtxy+h/SyQ0lLdpdKy/lWB6szatetQJ8nZ80A2Qt6ift6gJeavU3BO4gtxs/KCtNPVibCtYCWY3SIlSBPKXZALXiIR9oZeJ1AuMyxLpHIy/yO7vSiSE+kZvk0ihJ30HgHfzZtEMmvV58x6dtqns0XTAW7Vdm4HJ04OCp/crOO7rd9SGxQAE/mVA9xRN+kVSMRFF6S9JFGUtthkjBA5tFCWc2l4V43Ex9GmUP3SI37Jjmir9KqlaDJ4S4JB3vuM/jzyH1+8MuoZ+QGzfnvPoJb96cZlWjMcKLfgDwB7E634JTY+asjsPzS5CiVnEWY+KsrsIN5rn3mAPjqmQBxGjcGKB9f9ZxY3mYC2L85CJ2FXIxKKyHk+dg0FHbuEc7D5NzWUX32WxFcWNGRAbvwSx0RmIXVDuYySafluQBmzA/ssqJAMLnli+WIC90Gw4lm85wcp0qjArEDPJJV/sSx4P9ungTpgMw5gVC1XO4uULq0s3v1rqLi0vX/z65vlH50f8T/RHmSPTk5xxWBWOluMT6WiOy+tdvWxlV/XQb3o3c6Ssr+r6I708GsX9/nzp1tKFh0s3v7m4vAy/Hnb/KMOvc1wump6Il48K6mGDy02X9Yd65pa+nQIjk76lWxCkG8NBCP0HQS9IpAAAeJxjYGRgYGBhcCrq214Qz2/zlUGenQEEzr/77oug/zewFbB+AHI5GJhAogBwKQ0qeJxjYGRgYH3/P46BgZ0BBNgKGBgZUAEPAE/7At0AAAB4nGNngAB2IGYjhBsYBAAIYADVAAAAAAAAAAAAAFwAyAEeAaACCgKmAx4DggRmAAAAAQAAAAwAagAEAAAAAAACAAEAAgAWAAABAAChAAAAAHiclZI7bxQxFIWPd/JkUYQChEhIyAVKgdBMskm1QkKrRETpQiLRUczueB/K7HhlOxttg8LvoKPgP9DxFxANDR0tHRWi4NjrPIBEgh1p/dm+vufcawNYFWsQmP6e4jSyQB2fI9cwj++RE9wTjyPP4LYoI89iWbyLPIe6+Bh5Hs9rryMv4GbtW+RF3EhuRa7jbrIbeQkPkjdUETOLnL0Kip4FVvAhco1RXyMnSPEz8gzWxE7kWTwUp5HnsCLeR57HW/El8gJWa58iL+JO7UfkOh4l9yMv4UnyEtvQGGECgwF66MNBooF1bGCL1ELB/TYU+ZBRlvsKQ44Se6jQ4a7hef+fh72Crv25kp+8lNWGmeKoOI5jJLb1aGIGvb6TjfWNLdkqdFvJw4l1amjlXtXRZqRN7lSRylZZyhBqpVFWmTEXgWfUrpi/hZOQXdOd4rKuXOtEWT3k5IArPRzTUU5tHKjecZkTpnVbNOnt6jzN8240GD4xtikvZW56043rPMg/dS+dlOceXoR+WPbJ55Dsekq1lJpnypsMUsYOdCW30o103Ytu/lvh+5RWFLfBjm9/N8hJntPhvx92rnoE/kyHdGasGy754kw36vsVf/lFeBi+0COu+cfgQr42G3CRpeLoZ53gmfe3X6rcKt5oVxnptHR9JS8ehVUd5wvvahN2uqxOOpMXapibI5k7Zwbt4xBSaTfoKBufhAnO/uqNcfK8OTs0OQ6l7JIqFjDhYj5WcjevCnI/1DDiI8j4ndWb/5YzDZWh79yomWXeXj7Nnw70/2TIeFPTrlSh89k1ObOSRVZWZfgF0r/zJQB4nG2JUQuCQBCEd07TTg36fb2IyBaLd3vWaUh/vmSJnvpgmG8YcmS8X3Shf3R7QA4OBUocUKHGER5NNbOOEvwc1txnuWkTRb/aPjimJ5vXabI+3VfOiyS15UWvyezM2xiGOPyuMohOH8O8JiO4Af+FsAGNAEuwCFBYsQEBjlmxRgYrWCGwEFlLsBRSWCGwgFkdsAYrXFhZsBQrAAA=) format('woff');
+}
+
+@font-face {
+  font-family: octicons-anchor;
+  src: url(data:font/woff;charset=utf-8;base64,d09GRgABAAAAAAYcAA0AAAAACjQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAABMAAAABwAAAAca8vGTk9TLzIAAAFMAAAARAAAAFZG1VHVY21hcAAAAZAAAAA+AAABQgAP9AdjdnQgAAAB0AAAAAQAAAAEACICiGdhc3AAAAHUAAAACAAAAAj//wADZ2x5ZgAAAdwAAADRAAABEKyikaNoZWFkAAACsAAAAC0AAAA2AtXoA2hoZWEAAALgAAAAHAAAACQHngNFaG10eAAAAvwAAAAQAAAAEAwAACJsb2NhAAADDAAAAAoAAAAKALIAVG1heHAAAAMYAAAAHwAAACABEAB2bmFtZQAAAzgAAALBAAAFu3I9x/Nwb3N0AAAF/AAAAB0AAAAvaoFvbwAAAAEAAAAAzBdyYwAAAADP2IQvAAAAAM/bz7t4nGNgZGFgnMDAysDB1Ml0hoGBoR9CM75mMGLkYGBgYmBlZsAKAtJcUxgcPsR8iGF2+O/AEMPsznAYKMwIkgMA5REMOXicY2BgYGaAYBkGRgYQsAHyGMF8FgYFIM0ChED+h5j//yEk/3KoSgZGNgYYk4GRCUgwMaACRoZhDwCs7QgGAAAAIgKIAAAAAf//AAJ4nHWMMQrCQBBF/0zWrCCIKUQsTDCL2EXMohYGSSmorScInsRGL2DOYJe0Ntp7BK+gJ1BxF1stZvjz/v8DRghQzEc4kIgKwiAppcA9LtzKLSkdNhKFY3HF4lK69ExKslx7Xa+vPRVS43G98vG1DnkDMIBUgFN0MDXflU8tbaZOUkXUH0+U27RoRpOIyCKjbMCVejwypzJJG4jIwb43rfl6wbwanocrJm9XFYfskuVC5K/TPyczNU7b84CXcbxks1Un6H6tLH9vf2LRnn8Ax7A5WQAAAHicY2BkYGAA4teL1+yI57f5ysDNwgAC529f0kOmWRiYVgEpDgYmEA8AUzEKsQAAAHicY2BkYGB2+O/AEMPCAAJAkpEBFbAAADgKAe0EAAAiAAAAAAQAAAAEAAAAAAAAKgAqACoAiAAAeJxjYGRgYGBhsGFgYgABEMkFhAwM/xn0QAIAD6YBhwB4nI1Ty07cMBS9QwKlQapQW3VXySvEqDCZGbGaHULiIQ1FKgjWMxknMfLEke2A+IJu+wntrt/QbVf9gG75jK577Lg8K1qQPCfnnnt8fX1NRC/pmjrk/zprC+8D7tBy9DHgBXoWfQ44Av8t4Bj4Z8CLtBL9CniJluPXASf0Lm4CXqFX8Q84dOLnMB17N4c7tBo1AS/Qi+hTwBH4rwHHwN8DXqQ30XXAS7QaLwSc0Gn8NuAVWou/gFmnjLrEaEh9GmDdDGgL3B4JsrRPDU2hTOiMSuJUIdKQQayiAth69r6akSSFqIJuA19TrzCIaY8sIoxyrNIrL//pw7A2iMygkX5vDj+G+kuoLdX4GlGK/8Lnlz6/h9MpmoO9rafrz7ILXEHHaAx95s9lsI7AHNMBWEZHULnfAXwG9/ZqdzLI08iuwRloXE8kfhXYAvE23+23DU3t626rbs8/8adv+9DWknsHp3E17oCf+Z48rvEQNZ78paYM38qfk3v/u3l3u3GXN2Dmvmvpf1Srwk3pB/VSsp512bA/GG5i2WJ7wu430yQ5K3nFGiOqgtmSB5pJVSizwaacmUZzZhXLlZTq8qGGFY2YcSkqbth6aW1tRmlaCFs2016m5qn36SbJrqosG4uMV4aP2PHBmB3tjtmgN2izkGQyLWprekbIntJFing32a5rKWCN/SdSoga45EJykyQ7asZvHQ8PTm6cslIpwyeyjbVltNikc2HTR7YKh9LBl9DADC0U/jLcBZDKrMhUBfQBvXRzLtFtjU9eNHKin0x5InTqb8lNpfKv1s1xHzTXRqgKzek/mb7nB8RZTCDhGEX3kK/8Q75AmUM/eLkfA+0Hi908Kx4eNsMgudg5GLdRD7a84npi+YxNr5i5KIbW5izXas7cHXIMAau1OueZhfj+cOcP3P8MNIWLyYOBuxL6DRylJ4cAAAB4nGNgYoAALjDJyIAOWMCiTIxMLDmZedkABtIBygAAAA==) format('woff');
+}
+
+.markdown-body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body b,
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body sub,
+.markdown-body sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+.markdown-body sup {
+  top: -0.5em;
+}
+.markdown-body sub {
+  bottom: -0.25em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body .codehilitetable {
+  border: 0;
+  border-spacing: 0;
+}
+
+.markdown-body .codehilitetable tr {
+  border: 0;
+}
+
+.markdown-body .codehilitetable pre,
+.markdown-body .codehilitetable div.codehilite {
+  margin: 0;
+}
+
+.markdown-body .linenos,
+.markdown-body .code,
+.markdown-body .codehilitetable td {
+  border: 0;
+  padding: 0;
+}
+
+.markdown-body td:not(.linenos) .linenodiv {
+  padding: 0 !important;
+}
+
+.markdown-body .code {
+  width: 100%;
+}
+
+.markdown-body .linenos div pre,
+.markdown-body .linenodiv pre,
+.markdown-body .linenodiv {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.markdown-body .code div pre,
+.markdown-body .code div {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+}
+
+.markdown-body a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before,
+.markdown-body hr:after {
+  display: table;
+  content: " ";
+}
+
+.markdown-body hr:after {
+  clear: both;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #e7e7e7;
+  background-image: -moz-linear-gradient(#fefefe, #e7e7e7);
+  background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);
+  background-image: linear-gradient(#fefefe, #e7e7e7);
+  background-repeat: repeat-x;
+  border-radius: 2px;
+  border: 1px solid #cfcfcf;
+  color: #000;
+  padding: 3px 5px;
+  line-height: 10px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  display: inline-block;
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body .headeranchor-link {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  padding-right: 6px;
+  padding-left: 30px;
+  margin-left: -30px;
+}
+
+.markdown-body .headeranchor-link:focus {
+  outline: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.markdown-body h1 .headeranchor,
+.markdown-body h2 .headeranchor,
+.markdown-body h3 .headeranchor,
+.markdown-body h4 .headeranchor,
+.markdown-body h5 .headeranchor,
+.markdown-body h6 .headeranchor {
+  display: none;
+  color: #000;
+  vertical-align: middle;
+}
+
+.markdown-body h1:hover .headeranchor-link,
+.markdown-body h2:hover .headeranchor-link,
+.markdown-body h3:hover .headeranchor-link,
+.markdown-body h4:hover .headeranchor-link,
+.markdown-body h5:hover .headeranchor-link,
+.markdown-body h6:hover .headeranchor-link {
+  height: 1em;
+  padding-left: 8px;
+  margin-left: -30px;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .headeranchor-link .headeranchor,
+.markdown-body h2:hover .headeranchor-link .headeranchor,
+.markdown-body h3:hover .headeranchor-link .headeranchor,
+.markdown-body h4:hover .headeranchor-link .headeranchor,
+.markdown-body h5:hover .headeranchor-link .headeranchor,
+.markdown-body h6:hover .headeranchor-link .headeranchor {
+  display: inline-block;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre,
+.markdown-body .admonition {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body code,
+.markdown-body samp {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .codehilite {
+  margin-bottom: 16px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .codehilite pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+/* Admonition */
+.markdown-body .admonition {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  border-left: 6px solid #333;
+  padding: 10px 10px 10px 30px;
+}
+
+.markdown-body .admonition table {
+  color: #333;
+}
+
+.markdown-body .admonition p {
+  padding: 0;
+}
+
+.markdown-body .admonition-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.markdown-body .admonition>.admonition-title {
+  color: #333;
+}
+
+.markdown-body .attention>.admonition-title {
+  color: #a6d796;
+}
+
+.markdown-body .caution>.admonition-title {
+  color: #d7a796;
+}
+
+.markdown-body .hint>.admonition-title {
+  color: #96c6d7;
+}
+
+.markdown-body .danger>.admonition-title {
+  color: #c25f77;
+}
+
+.markdown-body .question>.admonition-title {
+  color: #96a6d7;
+}
+
+.markdown-body .note>.admonition-title {
+  color: #d7c896;
+}
+
+.markdown-body .admonition:before,
+.markdown-body .attention:before,
+.markdown-body .caution:before,
+.markdown-body .hint:before,
+.markdown-body .danger:before,
+.markdown-body .question:before,
+.markdown-body .note:before {
+  font: normal normal 16px fontawesome-mini;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.5;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.markdown-body .admonition:before {
+  content: "\f056\00a0";
+  color: 333;
+}
+
+.markdown-body .attention:before {
+  content: "\f058\00a0";
+  color: #a6d796;
+}
+
+.markdown-body .caution:before {
+  content: "\f06a\00a0";
+  color: #d7a796;
+}
+
+.markdown-body .hint:before {
+  content: "\f05a\00a0";
+  color: #96c6d7;
+}
+
+.markdown-body .danger:before {
+  content: "\f057\00a0";
+  color: #c25f77;
+}
+
+.markdown-body .question:before {
+  content: "\f059\00a0";
+  color: #96a6d7;
+}
+
+.markdown-body .note:before {
+  content: "\f040\00a0";
+  color: #d7c896;
+}
+
+.markdown-body .admonition::after {
+  content: normal;
+}
+
+.markdown-body .attention {
+  border-left: 6px solid #a6d796;
+}
+
+.markdown-body .caution {
+  border-left: 6px solid #d7a796;
+}
+
+.markdown-body .hint {
+  border-left: 6px solid #96c6d7;
+}
+
+.markdown-body .danger {
+  border-left: 6px solid #c25f77;
+}
+
+.markdown-body .question {
+  border-left: 6px solid #96a6d7;
+}
+
+.markdown-body .note {
+  border-left: 6px solid #d7c896;
+}
+
+.markdown-body .admonition>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body .admonition>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* progress bar*/
+.markdown-body .progress {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+  height: 24px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #ededed;
+  position: relative;
+  box-shadow: inset -1px 1px 3px rgba(0, 0, 0, .1);
+}
+
+.markdown-body .progress-label {
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  width: 100%; margin: 0;
+  line-height: 24px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fefefe, -1px -1px 0 #fefefe, -1px 1px 0 #fefefe, 1px -1px 0 #fefefe, 0 1px 0 #fefefe, 0 -1px 0 #fefefe, 1px 0 0 #fefefe, -1px 0 0 #fefefe, 1px 1px 2px #000;
+  -webkit-font-smoothing: antialiased !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.markdown-body .progress-bar {
+  height: 24px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #96c6d7;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .5), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background-size: 30px 30px;
+  background-image: -webkit-linear-gradient(
+    135deg, rgba(255, 255, 255, .4) 27%,
+    transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%,
+    transparent 77%, transparent
+  );
+  background-image: -moz-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -ms-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -o-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+}
+
+.markdown-body .progress-100plus .progress-bar {
+  background-color: #a6d796;
+}
+
+.markdown-body .progress-80plus .progress-bar {
+  background-color: #c6d796;
+}
+
+.markdown-body .progress-60plus .progress-bar {
+  background-color: #d7c896;
+}
+
+.markdown-body .progress-40plus .progress-bar {
+  background-color: #d7a796;
+}
+
+.markdown-body .progress-20plus .progress-bar {
+  background-color: #d796a6;
+}
+
+.markdown-body .progress-0plus .progress-bar {
+  background-color: #c25f77;
+}
+
+.markdown-body .candystripe-animate .progress-bar{
+  -webkit-animation: animate-stripes 3s linear infinite;
+  -moz-animation: animate-stripes 3s linear infinite;
+  animation: animate-stripes 3s linear infinite;
+}
+
+@-webkit-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@-moz-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+.markdown-body .gloss .progress-bar {
+  box-shadow:
+    inset 0 4px 12px rgba(255, 255, 255, .7),
+    inset 0 -12px 0 rgba(0, 0, 0, .05);
+}
+
+/* Multimarkdown Critic Blocks */
+.markdown-body .critic_mark {
+  background: #ff0;
+}
+
+.markdown-body .critic_delete {
+  color: #c82829;
+  text-decoration: line-through;
+}
+
+.markdown-body .critic_insert {
+  color: #718c00 ;
+  text-decoration: underline;
+}
+
+.markdown-body .critic_comment {
+  color: #8e908c;
+  font-style: italic;
+}
+
+.markdown-body .headeranchor {
+  font: normal normal 16px octicons-anchor;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.headeranchor:before {
+  content: '\f05c';
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
+/* Media */
+@media only screen and (min-width: 480px) {
+  .markdown-body {
+    font-size:14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .markdown-body {
+    font-size:16px;
+  }
+}
+
+@media print {
+  .markdown-body * {
+    background: transparent !important;
+    color: black !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  .markdown-body {
+    font-size:12pt;
+    max-width:100%;
+    outline:none;
+    border: 0;
+  }
+
+  .markdown-body a,
+  .markdown-body a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-body .headeranchor-link {
+    display: none;
+  }
+
+  .markdown-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-body .ir a:after,
+  .markdown-body a[href^="javascript:"]:after,
+  .markdown-body a[href^="#"]:after {
+    content: "";
+  }
+
+  .markdown-body pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .markdown-body pre,
+  .markdown-body blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  .markdown-body .progress,
+  .markdown-body .progress-bar {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .markdown-body .progress {
+    border: 1px solid #ddd;
+  }
+
+  .markdown-body .progress-bar {
+    height: 22px;
+    border-right: 1px solid #ddd;
+  }
+
+  .markdown-body tr,
+  .markdown-body img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-body img {
+    max-width: 100% !important;
+  }
+
+  .markdown-body p,
+  .markdown-body h2,
+  .markdown-body h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .markdown-body h2,
+  .markdown-body h3 {
+    page-break-after: avoid;
+  }
+}
+</style><title>index</title></head><body><article class="markdown-body"><h1 id="awesome-tech"><a name="user-content-awesome-tech" href="#awesome-tech" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Awesome Tech <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a></h1>
+<p><strong>Table of Contents</strong><br />
+<!-- MarkdownTOC --></p>
+<ul>
+<li><a href="#high-quality-tech-resources-and-search-engines">High quality tech resources and search engines</a><ul>
+<li><a href="#zeefcom-find-and-share-quality-developmenttech-resources">Zeef.com: Find and share quality development/tech resources</a></li>
+<li><a href="#awesome-lists">Awesome Lists</a></li>
+<li><a href="#stackshareio-discover-and-discuss-the-best-software-tools-and-services">stackshare.io: Discover and discuss the best software tools and services</a></li>
+</ul>
+</li>
+<li><a href="#startups">Startups</a><ul>
+<li><a href="#startup-related-links">Startup related links</a></li>
+<li><a href="#startup-jobs">Startup jobs</a></li>
+</ul>
+</li>
+<li><a href="#scalability-and-reliability">Scalability and Reliability</a><ul>
+<li><a href="#scalability-solutions">Scalability Solutions</a></li>
+</ul>
+</li>
+<li><a href="#linux">Linux</a><ul>
+<li><a href="#linux-blogs-and-forums">Linux Blogs and Forums</a></li>
+<li><a href="#linux-docs-and-resources">Linux Docs and Resources</a></li>
+</ul>
+</li>
+<li><a href="#red-hat">Red Hat</a><ul>
+<li><a href="#red-hat-blogs">Red Hat Blogs</a></li>
+<li><a href="#red-hat-virtualization">Red Hat virtualization</a></li>
+<li><a href="#red-hat-docs">Red Hat Docs</a></li>
+<li><a href="#red-hat-openshift-paas">Red Hat OpenShift PaaS</a></li>
+<li><a href="#red-hat-videos">Red Hat Videos</a></li>
+<li><a href="#red-hat-development">Red Hat Development</a></li>
+</ul>
+</li>
+<li><a href="#microsoft">Microsoft</a><ul>
+<li><a href="#microsoft-monitoring-and-management">Microsoft Monitoring and Management</a></li>
+</ul>
+</li>
+<li><a href="#webapp">WebApp</a><ul>
+<li><a href="#http2">HTTP/2</a></li>
+<li><a href="#enterprise-search-platforms">Enterprise Search Platforms</a></li>
+<li><a href="#apache-and-tomcat">Apache and Tomcat</a></li>
+<li><a href="#weblogic">WebLogic</a></li>
+<li><a href="#nginx">Nginx</a></li>
+<li><a href="#jboss-wildfly">JBoss (WildFly)</a><ul>
+<li><a href="#jboss-blogs">JBoss Blogs</a></li>
+<li><a href="#jboss-resources">JBoss Resources</a></li>
+<li><a href="#jboss-data-virtualization">JBoss Data Virtualization</a></li>
+<li><a href="#jboss-data-grid">JBoss Data Grid</a></li>
+</ul>
+</li>
+<li><a href="#e-mail">E-Mail</a></li>
+</ul>
+</li>
+<li><a href="#security">Security</a><ul>
+<li><a href="#identity-management">Identity Management</a></li>
+<li><a href="#application-security-web-app-firewall-blocking-bots">Application Security: Web App Firewall. Blocking bots</a></li>
+<li><a href="#breaking-firewalls">Breaking Firewalls</a></li>
+<li><a href="#major-security-issues-and-blogs">Major security issues and blogs</a></li>
+</ul>
+</li>
+<li><a href="#configuration-management">Configuration Management</a><ul>
+<li><a href="#vagrant">Vagrant</a></li>
+<li><a href="#ansible">Ansible</a><ul>
+<li><a href="#apache-via-ansible">Apache via Ansible</a></li>
+<li><a href="#weblogic-via-ansible">WebLogic via Ansible</a></li>
+<li><a href="#databases-via-ansible">Databases via Ansible</a></li>
+</ul>
+</li>
+<li><a href="#puppet">Puppet</a><ul>
+<li><a href="#weblogic-via-puppet">WebLogic via Puppet</a></li>
+</ul>
+</li>
+<li><a href="#red-hat-satellite-katello-and-foreman">Red Hat Satellite, Katello and Foreman</a></li>
+<li><a href="#chef-and-sap">Chef and SAP</a></li>
+<li><a href="#docker">Docker</a><ul>
+<li><a href="#microservices">Microservices</a></li>
+<li><a href="#docker-references">Docker references</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#devops">DevOps</a><ul>
+<li><a href="#devops-blogs">DevOps Blogs</a></li>
+<li><a href="#description">Description</a></li>
+<li><a href="#agile-planning-scrum-kanban-lean">Agile planning: Scrum, Kanban, Lean</a><ul>
+<li><a href="#continuous-integration-and-delivery">Continuous Integration and Delivery</a><ul>
+<li><a href="#jenkins">Jenkins</a></li>
+<li><a href="#rpm-build">RPM build</a></li>
+<li><a href="#maven-and-gradle">Maven and Gradle</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#git">Git</a><ul>
+<li><a href="#git-clients">Git clients</a></li>
+</ul>
+</li>
+<li><a href="#load-testing">Load Testing</a></li>
+<li><a href="#metric-monitoring">Metric monitoring</a><ul>
+<li><a href="#tools">Tools</a></li>
+<li><a href="#apm-application-performance-management">APM: Application Performance Management</a><ul>
+<li><a href="#apm-solutions">APM Solutions</a></li>
+</ul>
+</li>
+<li><a href="#centralized-logging-big-data-log-management-tools">Centralized logging. Big Data Log Management Tools</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#software-development-programming-languages">Software Development. Programming languages</a><ul>
+<li><a href="#domain-driven-design">Domain driven design</a></li>
+<li><a href="#api-and-documentation-generators">API and Documentation Generators</a></li>
+<li><a href="#editors">Editors</a><ul>
+<li><a href="#sublime">Sublime</a></li>
+<li><a href="#alternative-editors">Alternative editors</a></li>
+</ul>
+</li>
+<li><a href="#regular-expressions">Regular expressions</a></li>
+<li><a href="#bash">Bash</a></li>
+<li><a href="#python">Python</a></li>
+<li><a href="#python-and-aws">Python and AWS</a></li>
+<li><a href="#jvm-latency-caching-off-heap-data-grid">JVM Latency: Caching, Off Heap, Data Grid</a><ul>
+<li><a href="#java-garbage-collection-changes-in-java-8-jmx-monitoring">Java Garbage Collection: Changes in Java 8. JMX monitoring</a></li>
+</ul>
+</li>
+<li><a href="#front-end-html5-javascriptnodejs">Front-end: HTML5, javascript/node.js</a></li>
+<li><a href="#qa-software-testing">QA. Software Testing</a></li>
+</ul>
+</li>
+<li><a href="#data-science">Data Science</a><ul>
+<li><a href="#python-analytics">Python analytics</a><ul>
+<li><a href="#anaconda-analytics">Anaconda Analytics</a><ul>
+<li><a href="#anaconda-code-examples">Anaconda Code examples</a></li>
+</ul>
+</li>
+<li><a href="#apache-zeppelin">Apache Zeppelin</a></li>
+</ul>
+</li>
+<li><a href="#big-data">Big Data</a><ul>
+<li><a href="#spark">Spark</a></li>
+</ul>
+</li>
+<li><a href="#sql">SQL</a><ul>
+<li><a href="#sql-replication">SQL replication</a></li>
+<li><a href="#nosql">NoSQL</a></li>
+<li><a href="#newsql">NewSQL</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#networking">Networking</a><ul>
+<li><a href="#next-generation-firewalls">Next Generation Firewalls</a></li>
+<li><a href="#network-virtualization">Network virtualization</a></li>
+<li><a href="#network-forensics">Network forensics</a></li>
+<li><a href="#voip">VoIP</a></li>
+<li><a href="#wifi-security">WiFi security</a></li>
+<li><a href="#webperf-and-resilient-networking-planning-for-failure">WebPerf and Resilient Networking: Planning for Failure</a></li>
+</ul>
+</li>
+<li><a href="#servers-storage-and-backup">Servers, Storage and Backup</a><ul>
+<li><a href="#dell">Dell</a></li>
+<li><a href="#hp">HP</a></li>
+<li><a href="#raid-disks">RAID disks</a></li>
+<li><a href="#remote-pc-access">Remote PC Access</a></li>
+<li><a href="#storage">Storage</a></li>
+<li><a href="#backup">Backup</a></li>
+</ul>
+</li>
+<li><a href="#cloud">Cloud</a><ul>
+<li><a href="#development-environments-in-the-cloud">Development environments in the Cloud</a></li>
+<li><a href="#cloud-references">Cloud references</a></li>
+<li><a href="#cloud-pricing">Cloud Pricing</a></li>
+<li><a href="#aws-reinvent-2015">AWS re:Invent 2015</a></li>
+<li><a href="#aws-official-blog-aws-labs-aws-quick-start">AWS Official Blog, AWS Labs, AWS Quick Start</a><ul>
+<li><a href="#aws-new-features">AWS New features</a></li>
+<li><a href="#aws-devops">AWS DevOps</a></li>
+<li><a href="#aws-security">AWS Security</a></li>
+</ul>
+</li>
+<li><a href="#aws-partner-network-apn">AWS Partner Network (APN)</a></li>
+<li><a href="#aws-startup-collection-for-startups-building-on-aws">AWS Startup Collection. For startups building on AWS</a></li>
+</ul>
+</li>
+<li><a href="#e-learning">E-Learning</a><ul>
+<li><a href="#udemy-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code">Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code</a></li>
+<li><a href="#alternatives">Alternatives</a></li>
+</ul>
+</li>
+</ul>
+<!-- /MarkdownTOC -->
+
+<h1 id="high-quality-tech-resources-and-search-engines"><a name="user-content-high-quality-tech-resources-and-search-engines" href="#high-quality-tech-resources-and-search-engines" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>High quality tech resources and search engines</h1>
+<h2 id="zeefcom-find-and-share-quality-developmenttech-resources"><a name="user-content-zeefcom-find-and-share-quality-developmenttech-resources" href="#zeefcom-find-and-share-quality-developmenttech-resources" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Zeef.com: Find and share quality development/tech resources</h2>
+<ul>
+<li><a href="https://zeef.com">Zeef.com</a></li>
+<li><a href="https://agile.zeef.com">agile.zeef.com</a></li>
+<li><a href="https://sublime-text.zeef.com">sublime-text.zeef.com</a></li>
+<li><a href="https://git.zeef.com">git.zeef.com</a></li>
+<li><a href="https://wordpress.zeef.com">wordpress.zeef.com</a></li>
+<li><a href="https://web-publishing.zeef.com">web-publishing.zeef.com</a></li>
+<li><a href="https://security.zeef.com">security.zeef.com</a></li>
+<li><a href="https://malware.zeef.com">malware.zeef.com</a></li>
+<li><a href="https://penetration-testing.zeef.com">penetration-testing.zeef.com)</a></li>
+<li><a href="https://mobile-app-testing.zeef.com">mobile-app-testing.zeef.com</a></li>
+<li><a href="https://ab-testing.zeef.com">ab-testing.zeef.com</a></li>
+<li><a href="https://databases.zeef.com">databases.zeef.com</a></li>
+<li><a href="https://nosql.zeef.com">nosql.zeef.com</a></li>
+<li><a href="https://docker.zeef.com">docker.zeef.com</a></li>
+<li><a href="https://linux.zeef.com">linux.zeef.com</a></li>
+<li><a href="https://linux-for-administrators.zeef.com">linux-for-administrators.zeef.com</a></li>
+<li><a href="https://virtualization.zeef.com">virtualization.zeef.com</a></li>
+<li><a href="https://devops.zeef.com">devops.zeef.com</a></li>
+<li><a href="https://dev-ops-tools.zeef.com">dev-ops-tools.zeef.com</a></li>
+<li><a href="https://data-stack.zeef.com">data-stack.zeef.com</a></li>
+<li><a href="https://continuous-integration.zeef.com">continuous-integration.zeef.com</a></li>
+<li><a href="https://python.zeef.com">python.zeef.com</a></li>
+<li><a href="https://unix-shell.zeef.com">unix-shell.zeef.com</a></li>
+<li><a href="https://html.zeef.com">html.zeef.com</a></li>
+<li><a href="https://javaee8.zeef.com">javaee8.zeef.com</a></li>
+<li><a href="https://nodejs.zeef.com">nodejs.zeef.com</a></li>
+<li><a href="https://free-programming-books.zeef.com">free-programming-books.zeef.com</a></li>
+<li><a href="https://programming.zeef.com">programming.zeef.com</a></li>
+<li><a href="https://frontend.zeef.com">frontend.zeef.com</a></li>
+<li><a href="https://apps-and-tools.zeef.com">apps-and-tools.zeef.com</a></li>
+<li><a href="https://data-science.zeef.com">data-science.zeef.com</a></li>
+<li><a href="https://big-data.zeef.com">big-data.zeef.com</a></li>
+<li><a href="https://data-visualization.zeef.com">data-visualization.zeef.com</a></li>
+<li><a href="https://datapyr.zeef.com">datapyr.zeef.com</a></li>
+<li><a href="https://apache-spark.zeef.com">apache-spark.zeef.com</a></li>
+<li><a href="https://python-tutorials.zeef.com">python-tutorials.zeef.com</a></li>
+<li><a href="https://cloud.zeef.com">cloud.zeef.com</a></li>
+<li><a href="https://online-collaboration-tools.zeef.com">online-collaboration-tools.zeef.com</a></li>
+<li><a href="https://digital-marketing.zeef.com">digital-marketing.zeef.com</a></li>
+<li><a href="https://email-marketing.zeef.com">email-marketing.zeef.com</a></li>
+<li><a href="https://startup.zeef.com/">startup.zeef.com</a></li>
+<li>etc</li>
+</ul>
+<h2 id="awesome-lists"><a name="user-content-awesome-lists" href="#awesome-lists" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Awesome Lists</h2>
+<ul>
+<li><a href="https://github.com/sindresorhus/awesome">A curated list of awesome lists</a></li>
+</ul>
+<h2 id="stackshareio-discover-and-discuss-the-best-software-tools-and-services"><a name="user-content-stackshareio-discover-and-discuss-the-best-software-tools-and-services" href="#stackshareio-discover-and-discuss-the-best-software-tools-and-services" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>stackshare.io: Discover and discuss the best software tools and services</h2>
+<ul>
+<li><a href="http://stackshare.io/">stackshare.io</a><ul>
+<li><a href="http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/">whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet</a></li>
+</ul>
+</li>
+<li><a href="http://stackshare.io/convox/amazon-ecs-vs-joyent-triton">Amazon ECS vs Joyent Triton Elastic Container Infrastructure</a><ul>
+<li><a href="https://www.joyent.com/">Joyent Triton Elastic Container Infrastructure</a></li>
+<li><a href="https://www.joyent.com/blog/how-to-dockerize-a-complete-application">Microservices stack in seconds: Node.js + Docker + NoSQL</a></li>
+</ul>
+</li>
+</ul>
+<p><img alt="internet users" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/internet-users.jpeg" /></p>
+<h1 id="startups"><a name="user-content-startups" href="#startups" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Startups</h1>
+<p><a href="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/mkeiser.md">La economía crece</a></p>
+<h2 id="startup-related-links"><a name="user-content-startup-related-links" href="#startup-related-links" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Startup related links</h2>
+<ul>
+<li><a href="https://startupxplore.com/">Startupxplore, map with all the IT startups and investors</a></li>
+<li><a href="http://www.startupheatmap.eu/">European Startup Initiative</a></li>
+<li><a href="http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/">Barcelona vs Madrid vs everywhere else: Spain&rsquo;s regions slug it out to be named startup capital</a></li>
+<li><a href="https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm">Glassdoor.com: Best Places to Work in 2016!</a></li>
+<li><a href="https://startup.zeef.com/">startup.zeef.com</a></li>
+</ul>
+<h2 id="startup-jobs"><a name="user-content-startup-jobs" href="#startup-jobs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Startup jobs</h2>
+<ul>
+<li><a href="https://angel.co">AngelList jobs</a><ul>
+<li><a href="https://angel.co/barcelona">AngelList jobs Barcelona</a></li>
+<li><a href="https://angel.co/barcelona">AngelList Jobs Madrid</a></li>
+<li><a href="https://angel.co/valencia">AngelList Jobs Valencia</a></li>
+<li><a href="https://angel.co/bilbao">AngelList Jobs Bilbao</a></li>
+<li><a href="https://angel.co/sevilla">AngelList Jobs Sevilla</a></li>
+<li><a href="https://angel.co/malaga">AngelList Jobs Malaga</a></li>
+</ul>
+</li>
+<li><a href="http://www.jobsbcn.com/">Jobs BCN, All Startup Jobs in Barcelona</a></li>
+<li><a href="http://www.techstartupjobs.com/">techstartupjobs.com</a></li>
+<li><a href="http://tyba.com/">tyba startup jobs</a></li>
+</ul>
+<h1 id="scalability-and-reliability"><a name="user-content-scalability-and-reliability" href="#scalability-and-reliability" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Scalability and Reliability</h1>
+<ul>
+<li><a href="http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf">Scalable Internet Architectures&rdquo; slides - Theo Schlossnagle how to build scalable production Internet services and&hellip; how not to build them</a><ul>
+<li><a href="http://scalableinternetarchitectures.com/">&ldquo;Scalable Internet Architectures&rdquo; book - Theo Schlossnagle</a></li>
+<li><a href="https://www.youtube.com/watch?v=2WuT2rdLK5A">video: Scalable Internet Architectures - Theo Schlossnagle</a></li>
+</ul>
+</li>
+<li><a href="http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches">slides: Scalable Web Architectures: Common Patterns and Approaches</a></li>
+<li><a href="https://www.youtube.com/watch?v=DngAZyWMGR0">video: Making Architecture Matter - Martin Fowler Keynote</a></li>
+<li><a href="http://shop.oreilly.com/product/9780596102357.do">book: Building Scalable Web Sites - Cal Henderson</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920041528.do">book: Site Reliability Engineering. How Google Runs Production Systems - 2016</a></li>
+</ul>
+<h2 id="scalability-solutions"><a name="user-content-scalability-solutions" href="#scalability-solutions" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Scalability Solutions</h2>
+<ul>
+<li><a href="https://www.openshift.com/dedicated/">OpenShift Dedicated</a></li>
+<li><a href="http://www.openstack.org/">OpenStack</a></li>
+<li><a href="http://mesos.apache.org/">Apache Mesos</a></li>
+<li><a href="http://kubernetes.io/">Kubernetes.io</a></li>
+<li><a href="http://www.univa.com/">Univa Grid Engine</a></li>
+</ul>
+<h1 id="linux"><a name="user-content-linux" href="#linux" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux</h1>
+<h2 id="linux-blogs-and-forums"><a name="user-content-linux-blogs-and-forums" href="#linux-blogs-and-forums" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux Blogs and Forums</h2>
+<ul>
+<li><a href="http://www.tecmint.com/">Tecmint.com Linux Howto&rsquo;s Guide</a></li>
+<li><a href="http://sysadmincasts.com">Sysadmincasts.com</a></li>
+<li><a href="https://www.reddit.com/r/linuxadmin">Linuxadmin &lsquo;subreddit&rsquo;</a></li>
+<li><a href="https://opensource.com/">opensource.com</a></li>
+<li><a href="http://www.linux.com/">Linux.com</a></li>
+<li><a href="http://www.cyberciti.biz/">nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog</a></li>
+<li><a href="http://www.linuxjournal.com">LinuxJournal</a></li>
+<li><a href="http://xmodulo.com">Xmodulo - Linux FAQs, tips and tutorials</a></li>
+</ul>
+<h2 id="linux-docs-and-resources"><a name="user-content-linux-docs-and-resources" href="#linux-docs-and-resources" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux Docs and Resources</h2>
+<ul>
+<li><a href="https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career">7 Steps to Start Your Linux SysAdmin Career</a></li>
+<li><a href="http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/">Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe</a></li>
+<li><a href="http://www.linuxjournal.com/content/slow-system-iotop-your-friend">Slow System? iotop Is Your Friend</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-port-scanning/">Linux and Unix Port Scanning With netcat &lsquo;nc&rsquo; Command</a></li>
+<li><a href="https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes">Sysadmincasts.com: LVM Linear vs Striped Logical Volumes</a></li>
+<li><a href="http://www.viemu.com/vi-vim-cheat-sheet.gif">vim graphical cheat sheet</a></li>
+<li><a href="http://conn-check.org/">conn-check, a deployment utility to check connectivity between services</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/">Linux: Keep An Eye On Your System With Glances Monitor</a></li>
+<li><a href="http://xmodulo.com/useful-command-line-network-monitors-linux.html">What are useful command-line network monitors on Linux</a></li>
+<li><a href="http://goaccess.io/">GoAccess real time web log analyzer</a></li>
+<li><a href="https://github.com/kahun/awesome-sysadmin">awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP</a></li>
+</ul>
+<h1 id="red-hat"><a name="user-content-red-hat" href="#red-hat" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Red Hat</h1>
+<h2 id="red-hat-blogs"><a name="user-content-red-hat-blogs" href="#red-hat-blogs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Red Hat Blogs</h2>
+<ul>
+<li><a href="http://rhelblog.redhat.com/">Red Hat Enterprise Linux Blog</a></li>
+<li><a href="http://community.redhat.com">Red Hat Community</a></li>
+<li><a href="http://www.redhat-cloudstrategy.com/">Red Hat Cloud Strategy Blog</a></li>
+<li><a href="http://www.ossmentor.com">ossmentor.com</a></li>
+<li><a href="http://fedoramagazine.org/">Fedora Magazine</a></li>
+<li><a href="http://developerblog.redhat.com">Red Hat Developer Blog</a></li>
+<li><a href="http://developers.redhat.com">Red Hat Developers</a></li>
+<li><a href="http://planet.jboss.org/">Planet JBoss Developer</a></li>
+<li><a href="https://www.reddit.com/r/redhat/">RedHat &ldquo;subreddit&rdquo;</a></li>
+</ul>
+<h2 id="red-hat-virtualization"><a name="user-content-red-hat-virtualization" href="#red-hat-virtualization" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Red Hat virtualization</h2>
+<ul>
+<li><a href="http://www.tecmint.com/install-redhat-virtualization-rhev/">How to Install RedHat Enterprise Virtualization (RHEV) 3.5</a><ul>
+<li><a href="https://youtu.be/F2lxJTdfVy8">Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London</a></li>
+<li><a href="http://www.tecmint.com/install-and-configure-kvm-in-linux/">How to Create Virtual Machines in Linux Using KVM (Kernel-based Virtual Machine)</a></li>
+</ul>
+</li>
+<li><a href="http://community.redhat.com/blog/2014/10/up-and-running-with-ovirt-3-5/">Up and Running with oVirt 3.5</a><ul>
+<li><a href="http://community.redhat.com/blog/2014/11/up-and-running-with-ovirt-3-5-part-two/">Up and Running with oVirt 3.5, Part Two</a></li>
+</ul>
+</li>
+<li><a href="http://www.gluster.org/">GlusterFS scalable network filesystem</a><ul>
+<li><a href="http://gluster.readthedocs.org/en/latest/">GlusterFS Documentation</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="red-hat-docs"><a name="user-content-red-hat-docs" href="#red-hat-docs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Red Hat Docs</h2>
+<ul>
+<li><a href="https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf">Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands</a><ul>
+<li><a href="http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/">A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives</a></li>
+</ul>
+</li>
+<li><a href="https://access.redhat.com/documentation/en/">Product documentation</a></li>
+<li><a href="http://fedoramagazine.org/fedora-23-released/">Fedora 23 released - Fedora Magazine</a><ul>
+<li><a href="https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/">Fedora 23: An Impressive Release for Advanced Linux Users</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="red-hat-openshift-paas"><a name="user-content-red-hat-openshift-paas" href="#red-hat-openshift-paas" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Red Hat OpenShift PaaS</h2>
+<ul>
+<li><a href="http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/">OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes</a><ul>
+<li><a href="https://www.openshift.com/dedicated/">OpenShift Dedicated</a></li>
+<li><a href="http://thenewstack.io/openshift-3-1-opens-door-net-jboss-middleware/">Red Hat OpenShift 3.1 Opens the Door for Both .NET and JBoss Middleware</a></li>
+<li><a href="http://www.channelpartner.es/oportunidades-negocio/noticias/1079121002302/red-hat-quiere-canal-vuelque-middleware-cloud.1.html">Red Hat quiere que su canal se vuelque en middleware y cloud</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="red-hat-videos"><a name="user-content-red-hat-videos" href="#red-hat-videos" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Red Hat Videos</h2>
+<ul>
+<li><a href="http://developers.redhat.com/events/devoxx/2015/">Red Hat Developers at Devoxx 2015</a></li>
+<li><a href="https://www.youtube.com/user/redhatsummit">youtube - Red Hat Summit</a></li>
+<li><a href="https://fedoramagazine.org/tag/flock/">Flock Fedora Conference</a><ul>
+<li><a href="http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/">Flock 2014 Fedora Conference</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC">Flock 2015 Fedora Conference</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="red-hat-development"><a name="user-content-red-hat-development" href="#red-hat-development" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Red Hat Development</h2>
+<ul>
+<li><a href="http://developerblog.redhat.com/2015/12/14/2015-year-in-review-oh-what-a-year/">developerblog.redhat.com: 2015 Year in Review – oh what a year</a><ul>
+<li><a href="http://developerblog.redhat.com/2014/12/31/5-most-popular-posts-2014/">Our 5 most popular developer posts in 2014</a></li>
+<li><a href="http://developerblog.redhat.com/2015/11/17/software-collections-2-1-generally-available/">Red Hat Software Collections 2.1 now generally available</a></li>
+<li><a href="http://developerblog.redhat.com/2015/12/02/enterprise-developers-journey-to-iot/">Red Hat developers blog, an Enterprise Developer’s Journey to the IoT</a></li>
+</ul>
+</li>
+<li><a href="http://developers.redhat.com/containers/overview/">developers.redhat.com: So, what are containers??</a></li>
+<li><a href="https://access.redhat.com/solutions/472793">How to use Red Hat Software Collections (RHSCL) or Red Hat Developer Toolset (DTS)?</a><ul>
+<li><a href="https://www.reddit.com/r/redhat/comments/39kk0s/red_hat_software_collections_scl_is_not_provided/">Reddit: Red Hat Software Collections (SCL) is not provided with RHEL Server/Workstation, Self Support</a></li>
+</ul>
+</li>
+<li><a href="http://pyvideo.org/video/2962/red-hat-loves-python">pyvideo.org - Red Hat Loves Python (EuroPython 2014)</a></li>
+<li><a href="http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl">planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL</a></li>
+</ul>
+<h1 id="microsoft"><a name="user-content-microsoft" href="#microsoft" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Microsoft</h1>
+<ul>
+<li><a href="https://github.com/PowerShell/Win32-OpenSSH">SSH for Windows open sourced by Microsoft. Qué está pasando?</a></li>
+<li><a href="http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/">Microsoft open sources its Visual Studio Code light-weight editor</a></li>
+<li><a href="http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx">Microsoft has released over 100 Free Ebooks</a></li>
+</ul>
+<h2 id="microsoft-monitoring-and-management"><a name="user-content-microsoft-monitoring-and-management" href="#microsoft-monitoring-and-management" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Microsoft Monitoring and Management</h2>
+<ul>
+<li><a href="http://www.spiceworks.com/app/">Spiceworks</a><ul>
+<li><a href="https://www.youtube.com/watch?v=kHnEXoPxiJ4">Spiceworks Overview,inventory &amp; helpdesk</a></li>
+<li><a href="https://www.youtube.com/watch?v=BJ2mQpOZHPE">Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="webapp"><a name="user-content-webapp" href="#webapp" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>WebApp</h1>
+<h2 id="http2"><a name="user-content-http2" href="#http2" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>HTTP/2</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=WkLBrHW4NhQ">SPDY &amp; HTTP 2 with Akamai CTO Guy Podjarny</a><ul>
+<li><a href="https://http2.github.io">http2.github.io HTTP/2</a></li>
+<li><a href="https://http2.github.io/faq/">http2.github.io HTTP/2 Frequently Asked Questions</a></li>
+<li><a href="https://pinboard.in/u:rmurphey/t:http2/">HTTP/2 resources</a></li>
+<li><a href="https://blog.httpwatch.com/2015/01/16/a-simple-performance-comparison-of-https-spdy-and-http2/comment-page-1/">A Simple Performance Comparison of HTTPS, SPDY and HTTP/2</a></li>
+<li><a href="https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/">blog.cloudflare.com - Tools for debugging, testing and using HTTP/2</a></li>
+<li><a href="https://blog.cloudflare.com/http-2-for-web-developers/">blog.cloudflare.com - HTTP/2 For Web Developers</a></li>
+</ul>
+</li>
+<li><a href="http://blog.eisele.net/2015/11/http2-with-jboss-eap-7.html">HTTP/2 With JBoss EAP 7 - Tech Preview</a><ul>
+<li><a href="https://dzone.com/articles/http2-with-jboss-eap-7-tech-preview">Dzone - HTTP/2 With JBoss EAP 7: Tech Preview</a></li>
+</ul>
+</li>
+<li><a href="http://www.tecmint.com/apache-performance-tuning/">5 Tips to Boost the Performance of Your Apache Web Server</a></li>
+<li><a href="http://moz.com/blog/enabling-https-without-sacrificing-web-performance">Enabling HTTPS Without Sacrificing Your Web Performance</a><ul>
+<li><a href="http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/">As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet</a></li>
+<li><a href="http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/">Microsoft may block SHA1 certificates sooner than expected</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="enterprise-search-platforms"><a name="user-content-enterprise-search-platforms" href="#enterprise-search-platforms" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Enterprise Search Platforms</h2>
+<ul>
+<li><a href="http://solr-vs-elasticsearch.com/">Apache Solr vs ElasticSearch</a></li>
+</ul>
+<h2 id="apache-and-tomcat"><a name="user-content-apache-and-tomcat" href="#apache-and-tomcat" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Apache and Tomcat</h2>
+<ul>
+<li><a href="http://www.tecmint.com/apache-performance-tuning/">5 Tips to Boost the Performance of Your Apache Web Server</a></li>
+<li><a href="http://blog.c2b2.co.uk/2014/05/tomcat-performance-monitoring-and-tuning.html">How to set up a cluster with Tomcat 8, Apache and mod_jk.Tomcat Performance Monitoring and Tuning</a></li>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/05/working-with-apache-http-server.html">middlewaresnippets.blogspot.com.es - Working with Apache HTTP Server</a><ul>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/09/working-some-more-with-apache-http.html">middlewaresnippets.blogspot.com.es - Working some more with Apache HTTP Server</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="weblogic"><a name="user-content-weblogic" href="#weblogic" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>WebLogic</h2>
+<ul>
+<li><a href="http://www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015">SlideShare - 12 Things You Should Know About WebLogic Server 12.2.1</a></li>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/04/weblogic-server-on-linux-7.html">middlewaresnippets.blogspot.com.es - WebLogic Server on Linux 7</a><ul>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/11/weblogic-domain-partitioning.html">middlewaresnippets.blogspot.com.es - WebLogic Domain Partitioning</a></li>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/11/monitoring-domain-partitions.html">middlewaresnippets.blogspot.com.es - Monitoring Domain Partitions</a></li>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/11/deploying-applications-to-domain.html">middlewaresnippets.blogspot.com.es - Deploying Applications to Domain Partitions</a></li>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/07/security-recovery.html">middlewaresnippets.blogspot.com.es - Security Recovery - LDAP server</a></li>
+</ul>
+</li>
+<li><a href="https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic">blogs.oracle.com - WLST Scripting to Get WebLogic Libraries and Deployed Applications</a></li>
+<li><a href="https://dzone.com/articles/java-serialization-vulnerability-threatens-million">Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.</a></li>
+<li><a href="http://it-ebooks.info/book/3020/">Oracle WebLogic Server 12c Advanced Administration Cookbook</a></li>
+</ul>
+<h2 id="nginx"><a name="user-content-nginx" href="#nginx" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Nginx</h2>
+<ul>
+<li><a href="http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/">How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX</a></li>
+<li><a href="http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/">TCP Load Balancing in NGINX Plus r5 - NGINX</a></li>
+<li><a href="https://www.youtube.com/watch?v=OssIuHbgzJY">Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden</a></li>
+</ul>
+<h2 id="jboss-wildfly"><a name="user-content-jboss-wildfly" href="#jboss-wildfly" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>JBoss (WildFly)</h2>
+<h3 id="jboss-blogs"><a name="user-content-jboss-blogs" href="#jboss-blogs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>JBoss Blogs</h3>
+<ul>
+<li><a href="https://developer.jboss.org/">JBoss Developer</a></li>
+<li><a href="https://issues.jboss.org">JBoss Issue Tracker</a></li>
+<li><a href="http://middlewaresnippets.blogspot.com.es">middlewaresnippets.blogspot.com.es</a></li>
+<li><a href="http://developerblog.redhat.com/tag/jboss/">developerblog.redhat.com - JBoss</a></li>
+</ul>
+<h3 id="jboss-resources"><a name="user-content-jboss-resources" href="#jboss-resources" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>JBoss Resources</h3>
+<ul>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2014/07/wildflying-java-ee-7.html">middlewaresnippets.blogspot.com.es - WildFlying Java EE 7</a></li>
+<li><a href="http://developerblog.redhat.com/2015/01/14/jboss-on-docker-at-a-glance/">developerblog.redhat.com - JBoss on Docker At a Glance</a></li>
+<li><a href="http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar">C2B2Consulting - JBoss EAP 6: installation, configuration &amp; clustering</a></li>
+<li><a href="https://dzone.com/articles/red-hat-jboss-fuse-workshop-101-fuse-in-eap">dzone.com - Red Hat JBoss Fuse Workshop 101: Fuse in EAP</a></li>
+<li><a href="https://youtu.be/XPK2RTqlBxk">youtube - 2014 Red Hat Summit: Red Hat JBoss Middleware keynote</a></li>
+<li><a href="https://youtu.be/wWNVpFibayA">youtube - Craig Muzilla delivers middleware keynote at 2015 Red Hat Summit</a></li>
+</ul>
+<h3 id="jboss-data-virtualization"><a name="user-content-jboss-data-virtualization" href="#jboss-data-virtualization" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>JBoss Data Virtualization</h3>
+<ul>
+<li><a href="http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html">ossmentor.com - JBoss Data Virtualization 6.1</a></li>
+</ul>
+<h3 id="jboss-data-grid"><a name="user-content-jboss-data-grid" href="#jboss-data-grid" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>JBoss Data Grid</h3>
+<ul>
+<li><a href="http://www.c2b2.co.uk/jboss_data_grid">C2B2Consulting - JBoss Data Grid</a><ul>
+<li><a href="http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1">C2B2Consulting - JBoss Data Grid: Webinar</a></li>
+<li><a href="http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html">C2B2Consulting - JBoss Data Grid: Installation and Development</a></li>
+<li><a href="https://youtu.be/q52_C9WW70Q">C2B2Consulting - Youtube - Learn How to Supercharge Your Applications with Intelligent, Distributed Caching</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="e-mail"><a name="user-content-e-mail" href="#e-mail" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>E-Mail</h2>
+<ul>
+<li><a href="http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend">Best Transactional Email Service Comparison</a></li>
+<li><a href="http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/">Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders</a></li>
+</ul>
+<h1 id="security"><a name="user-content-security" href="#security" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Security</h1>
+<h2 id="identity-management"><a name="user-content-identity-management" href="#identity-management" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Identity Management</h2>
+<ul>
+<li><a href="http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/">rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1</a></li>
+<li><a href="http://www.redhat.com/en/about/press-releases/red-hat-continues-platform-innovation-general-availability-first-minor-release-red-hat-enterprise-linux-7">redhat.com - Improvements to Identity Management (IdM) in RHEL 7.1</a></li>
+<li><a href="http://software.dell.com/products/authentication-services/">Dell Authentication Services</a></li>
+<li><a href="https://www.centrify.com/">Centrify</a></li>
+<li><a href="http://www.csoonline.com/article/2905682/data-breach/employees-have-no-qualms-in-selling-corporate-passwords.html">Employees have no qualms in selling corporate passwords</a></li>
+<li><a href="http://community.spiceworks.com/topic/689453-are-their-any-valid-active-directory-alternatives">Are their any valid Active Directory Alternatives?</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium">Active Directory Single Sign-On (SSO) on AWS with Bitium</a></li>
+<li><a href="https://aws.amazon.com/es/about-aws/whats-new/2015/12/announcing-managed-microsoft-active-directory-in-the-aws-cloud/">Announcing Managed Microsoft Active Directory in the AWS Cloud</a></li>
+<li><a href="http://syncope.apache.org/">Apache Syncope, Open Source Identity Management software</a></li>
+<li><a href="http://shiro.apache.org/">Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management</a></li>
+<li><a href="http://www.slideshare.net/ilgrosso/open-source-identity-management-20121106-apache-con-eu">Open source identity management 20121106 - apache con eu</a></li>
+</ul>
+<h2 id="application-security-web-app-firewall-blocking-bots"><a name="user-content-application-security-web-app-firewall-blocking-bots" href="#application-security-web-app-firewall-blocking-bots" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Application Security: Web App Firewall. Blocking bots</h2>
+<ul>
+<li><a href="http://bit.ly/1RksReA">dzone.com - The 2015 DZone Guide to Application Security</a></li>
+<li><a href="http://planet.jboss.org/post/theft_proof_java_ee_securing_your_java_ee_enterprise_applications">JBossDeveloper - Theft-Proof Java EE - Securing Your Java EE Enterprise Applications</a></li>
+<li><a href="http://www.pyvideo.org/video/3512/shiny-lets-be-bad-guys-exploiting-and-mitigati-3">pyvideo.org: Let&rsquo;s Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities</a></li>
+<li><a href="https://chineseseoshifu.com/blog/what-is-baiduspider.html">What is Baiduspider?</a></li>
+<li><a href="https://es.wikipedia.org/wiki/Est%C3%A1ndar_de_exclusi%C3%B3n_de_robots">Estándar de exclusión de robots</a></li>
+<li><a href="http://www.robotstxt.org/db.html">Robots Database</a></li>
+</ul>
+<h2 id="breaking-firewalls"><a name="user-content-breaking-firewalls" href="#breaking-firewalls" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Breaking Firewalls</h2>
+<ul>
+<li><a href="http://souptonuts.sourceforge.net/sshtips.htm">Breaking Firewalls with OpenSSH and PuTTY</a></li>
+<li><a href="http://sebsauvage.net/punching/">Punching holes into firewalls. Why firewalls shouldn&rsquo;t be considered a ultimate weapon for network security. Secure TCP-into-HTTP tunnelling guide</a></li>
+</ul>
+<h2 id="major-security-issues-and-blogs"><a name="user-content-major-security-issues-and-blogs" href="#major-security-issues-and-blogs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Major security issues and blogs</h2>
+<ul>
+<li><a href="http://www.digitalattackmap.com/#anim=1&amp;color=2&amp;country=ALL&amp;list=0&amp;time=16064&amp;view=map">Digital Attack Map. Top daily DDoS attacks worldwide</a></li>
+<li><a href="https://dzone.com/articles/java-serialization-vulnerability-threatens-million">dzone.com - Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.</a><ul>
+<li><a href="https://dzone.com/articles/point-of-viewwhy-the-java-serialization-vulnerabil">dzone.com - This Java Vulnerability Makes Heartbleed Look Tame.Find out what the big deal is with the Java serialization security flaw that the community is buzzing about</a></li>
+</ul>
+</li>
+<li><a href="http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/">keychain: Set Up Secure Passwordless SSH Access For Backup Scripts</a></li>
+<li><a href="http://www.tripwire.com/state-of-security/vulnerability-management/new-high-severity-openssl-vulnerabilities-announced-cve-2015-0291-cve-2015-0204/">New High Severity OpenSSL Vulnerabilities Announced: CVE-2015-0291 &amp; CVE-2015-0204</a></li>
+<li><a href="https://securityblog.redhat.com/tag/heartbleed/">Red Hat security blog: Heartbleed</a><ul>
+<li><a href="http://www.ansible.com/blog/fixing-heartbleed-with-ansible">Fixing Heartbleed with Ansible</a></li>
+</ul>
+</li>
+<li><a href="https://sysadmincasts.com/episodes/44-patching-the-ghost-glibc-gethostbyname-cve-2015-0235-bug">Patching the GHOST glibc gethostbyname CVE-2015-0235 bug</a></li>
+<li><a href="http://www.independent.co.uk/life-style/gadgets-and-tech/shell-shock-bash-bug-bigger-than-heartbleed-could-undermine-security-of-millions-of-websites-9754720.html">Shellshock: Bash bug &lsquo;bigger than Heartbleed&rsquo; could undermine security of millions of websites – and there&rsquo;s nothing you can do to protect yourself</a><ul>
+<li><a href="http://www.ansible.com/blog/shellshock">Ansible.com shellshock</a></li>
+<li><a href="https://raymii.org/s/articles/Patch_CVE-2014-6271_Shellshock_with_Ansible.html">Patch Shellshock with Ansible</a></li>
+<li><a href="https://servercheck.in/blog/secure-your-servers-shellshock-bash-vulnerability">servercheck.in: Secure your servers from Shellshock Bash vulnerability using Ansible</a></li>
+<li><a href="http://aroundthecode.org/2014/09/26/fix_bash_shellshock/">aroundthecode.org: Ansible - massively fix bash shellshock</a></li>
+<li><a href="https://gist.github.com/kacy/2b9408af04c71fab686e">shellshock CVE-2014-6271 fix for ubuntu bash</a></li>
+<li><a href="http://community.redhat.com/blog/2014/09/critical-bash-security-vulnerability-update-your-systems-today/">community.redhat.com: Critical Bash Security Vulnerability: Update Your Systems Today</a></li>
+<li><a href="http://www.lynda.com/articles/shellshock-bash-exploit">Lynda.com: Protect Your System from the Shellshock Bash Exploit</a></li>
+<li><a href="https://securityblog.redhat.com/2014/09/26/frequently-asked-questions-about-the-shellshock-bash-flaws/">Red Hat security blog: Frequently Asked Questions about the Shellshock Bash flaws</a></li>
+</ul>
+</li>
+<li><a href="http://www.seguridad.unam.mx/noticia/?noti=2657">La inyección SQL se colocó como el ataque número uno en 2015</a></li>
+</ul>
+<p><img alt="intrusion response procedures" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/intrusion_response_procedures.png" /></p>
+<h1 id="configuration-management"><a name="user-content-configuration-management" href="#configuration-management" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Configuration Management</h1>
+<h2 id="vagrant"><a name="user-content-vagrant" href="#vagrant" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Vagrant</h2>
+<ul>
+<li><a href="http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6">7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go</a></li>
+<li><a href="http://thenewstack.io/vagrant-developers-researchers/">How Vagrant Eases the Software Research and Testing - The New Stack</a></li>
+<li><a href="http://pyvideo.org/video/3411/improve-your-development-environments-with-virtua">Improve your development environments with virtualization - Vagrant, Python </a></li>
+<li><a href="http://opensource.com/business/15/5/why-Docker-Vagrant-and-Ansible">Why tools like Docker, Vagrant, and Ansible are hotter than ever</a></li>
+<li><a href="https://sysadmincasts.com/episodes/42-crash-course-on-vagrant-revised">Crash course on Vagrant, video tutorial at sysadmincasts.com</a></li>
+</ul>
+<h2 id="ansible"><a name="user-content-ansible" href="#ansible" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Ansible</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=miO00M4vPok">Demo: Chef vs Puppet vs Ansible</a></li>
+<li><a href="http://thenewstack.io/are-docker-users-migrating-to-ansible-and-away-from-puppet-and-chef/">Are Docker Users Migrating to Ansible and Away from Puppet and Chef?</a></li>
+<li><a href="https://speakerdeck.com/vranac/ansible-just-use-it">Ansible, Just Use It - slide</a></li>
+<li><a href="http://unversioned.blogspot.gr/2015/10/ansible-playbook-provision-weblogic-fusion-middleware-12.1.3-centos-7.html">Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7</a></li>
+<li>
+<p><a href="https://dantehranian.wordpress.com/2015/01/20/ansible-vs-puppet-hands-on-with-ansible/">Ansible vs Puppet – Hands-On with Ansible</a></p>
+</li>
+<li>
+<p><a href="http://www.ansiblefordevops.com/">Ansible for DevOps, a book on Ansible by Jeff Geerling</a></p>
+</li>
+<li><a href="https://github.com/geerlingguy/ansible-for-devops">Ansible examples from Ansible for DevOps - github code</a></li>
+<li><a href="http://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/">How to Install and Configure ‘Ansible’ Automation Tool for IT Management</a></li>
+<li><a href="https://sysadmincasts.com/episodes/43-19-minutes-with-ansible-part-1-4">Ansible video tutorial at sysadmincasts.com</a></li>
+<li><a href="https://www.youtube.com/watch?t=24&amp;v=2jXHxkLBOHg">Ansible Introduction video tutorial</a></li>
+<li><a href="http://www.pyvideo.org/video/3484/ansible-beyond-yaml">PyCon US 2015: Ansible beyond YAML</a></li>
+<li><a href="http://devops.com/2015/05/19/ansible-automation-provisioning-configuration-management/">DevOps.com: Ansible: Automation, Provisioning and Configuration Management</a></li>
+<li><a href="http://www.ansible.com/videos-ansiblefest-sf-2015">AnsibleFest San Francisco 2015 Presentations</a><ul>
+<li><a href="http://www.ansible.com/ansiblefest-videos-spark-central-sf15">Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes</a></li>
+<li><a href="http://www.ansible.com/ansiblefest-videos-jcrew-sf15">Lessons Automating the Deployment of J.Crew’s Website</a>+</li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=fwGrKXzocg4">Twitter&rsquo;s transition from Puppet to Ansible</a></li>
+<li><a href="http://www.slideshare.net/aleonhardt/debugging-ansible-modules">slideshare.net: Debugging ansible modules</a></li>
+</ul>
+<h3 id="apache-via-ansible"><a name="user-content-apache-via-ansible" href="#apache-via-ansible" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Apache via Ansible</h3>
+<ul>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/08/ansible-apache-http-server.html">middlewaresnippets.blogspot.com.es - Ansible the Apache HTTP Server</a></li>
+</ul>
+<h3 id="weblogic-via-ansible"><a name="user-content-weblogic-via-ansible" href="#weblogic-via-ansible" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>WebLogic via Ansible</h3>
+<ul>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/03/fun-with-ansible.html">middlewaresnippets.blogspot.com.es - set-up Oracle WebLogic Server environment with Ansible (3 hosts, one control node and two managed nodes)</a></li>
+<li><a href="https://blogs.oracle.com/emeapartnerweblogic/entry/ansible_playbook_to_provision_a">blogs.oracle.com - Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7 by Christos Vezalis</a><ul>
+<li><a href="https://github.com/cvezalis/weblogic-ansible">Ansible Playbook: install and configure WebLogic server 12c with Oracle Fusion Middleware in RHEL7</a></li>
+<li><a href="https://github.com/cvezalis/ansible-weblogic-fmw-infra-12c-R2">Ansible playbook: deploy and create a WebLogic 12c R2 Domain with Oracle Fusion Middleware</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="databases-via-ansible"><a name="user-content-databases-via-ansible" href="#databases-via-ansible" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Databases via Ansible</h3>
+<ul>
+<li><a href="http://docs.ansible.com/ansible/list_of_database_modules.html">List of Database Modules</a></li>
+<li><a href="https://github.com/geerlingguy/ansible-role-mysql">Ansible Role: MySQL</a></li>
+<li><a href="https://github.com/ansible/ansible-examples/blob/master/language_features/mysql.yml">Example Ansible playbook that uses the MySQL module</a></li>
+<li><a href="https://opensourcedba.wordpress.com/2015/07/14/ansible-and-loading-mysql-databases-part-i/">Ansible and Loading MySQL Databases Part I</a><ul>
+<li><a href="https://opensourcedba.wordpress.com/2015/07/29/ansible-and-loading-mysql-databases-part-ii/">Ansible and Loading MySQL Databases Part II</a></li>
+</ul>
+</li>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/06/more-fun-with-ansible.html">middlewaresnippets.blogspot.com.es - How to set-up an Oracle Database with Ansible</a></li>
+</ul>
+<h2 id="puppet"><a name="user-content-puppet" href="#puppet" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Puppet</h2>
+<ul>
+<li><a href="http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant">sysadmincasts.com: Learning Puppet with Vagrant</a><ul>
+<li><a href="https://sysadmincasts.com/episodes/33-git-to-puppet-deployment-workflow">Sysadmincasts.com: Git to Puppet Deployment Workflow</a></li>
+</ul>
+</li>
+<li><a href="https://puppetlabs.com/webinars/getting-started-puppet-enterprise-33-us">Webinar: Getting Started with Puppet Enterprise 3.3</a><ul>
+<li><a href="https://puppetlabs.com/blog/puppet-enterprise-3.3-get-started-faster">Puppet Enterprise 3.3 disponible con soporte para RHEL 7, Ubuntu 14.04 LTS, Windows Server 2012 R2, y Mac OS X Mavericks</a></li>
+<li><a href="https://puppetlabs.com/blog/starting-puppet-basics-from-puppet-labs-employee">Learning Puppet can be like drinking from a fire hose. Here is a guide to basic terms and resources to help you learn</a></li>
+<li><a href="https://forge.puppetlabs.com/puppetlabs/mcollective">puppetlabs/mcollective</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/sodabrew/puppet-dashboard">Github: The Puppet Dashboard is a web interface providing node classification and reporting features for Puppet, an open source system configuration management tool</a></li>
+<li><a href="https://github.com/puppetlabs/r10k">Github: Smarter Puppet deployment.R10k provides a general purpose toolset for deploying Puppet environments and modules</a></li>
+<li><a href="http://librarian-puppet.com/">Librarian-puppet is a bundler for your puppet infrastructure. You can use librarian-puppet to manage the puppet modules your infrastructure depends on, whether the modules come from the Puppet Forge, Git repositories or a just a path</a></li>
+<li><a href="http://pyvideo.org/video/3649/puppet-and-python">Puppet and Python</a></li>
+<li><a href="http://pyvideo.org/video/2589/puppet-modules-apps-for-ops">Puppet Modules: Apps for Ops</a></li>
+<li><a href="https://puppetlabs.com/blog-tags/geppetto">Geppetto, eclipse plugin for puppet</a></li>
+</ul>
+<h3 id="weblogic-via-puppet"><a name="user-content-weblogic-via-puppet" href="#weblogic-via-puppet" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>WebLogic via Puppet</h3>
+<ul>
+<li><a href="http://multikoop.blogspot.com.br/2013/11/setup-weblogic-12c-environment-with.html">Setup WebLogic 12c environment with Vagrant and Puppet</a></li>
+<li><a href="https://blogs.oracle.com/emeapartnerweblogic/entry/new_puppet_3_weblogic_provisioning">New Puppet 3 Weblogic provisioning module by Edwin Biemond</a><ul>
+<li><a href="https://forge.puppetlabs.com/biemond/wls">puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module</a></li>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2015/03/install-and-configure-weblogic-server.html">middlewaresnippets.blogspot.com.es - Install and Configure a WebLogic Server Environment using Puppet</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="red-hat-satellite-katello-and-foreman"><a name="user-content-red-hat-satellite-katello-and-foreman" href="#red-hat-satellite-katello-and-foreman" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Red Hat Satellite, Katello and Foreman</h2>
+<ul>
+<li><a href="http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/">The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server</a></li>
+<li><a href="http://www.theforeman.org/">Foreman is a complete lifecycle management tool</a></li>
+</ul>
+<h2 id="chef-and-sap"><a name="user-content-chef-and-sap" href="#chef-and-sap" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Chef and SAP</h2>
+<ul>
+<li><a href="https://docs.chef.io/">docs.chef.io</a></li>
+<li><a href="http://sapcc.github.io/sap-cookbook-docs/">SAP cookbooks with chef</a></li>
+<li><a href="http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction">Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps</a></li>
+</ul>
+<h2 id="docker"><a name="user-content-docker" href="#docker" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Docker</h2>
+<h3 id="microservices"><a name="user-content-microservices" href="#microservices" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Microservices</h3>
+<ul>
+<li><a href="https://www.nginx.com/blog/introduction-to-microservices/">Introduction to Microservices | NGINX</a></li>
+<li><a href="http://martinfowler.com/articles/microservices.html">Microservices, Martin Fowler</a></li>
+<li><a href="https://www.linkedin.com/pulse/what-microservices-walli-datoo">What are Microservices?</a></li>
+<li><a href="http://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/">Microservices architecture: advantages and drawbacks</a></li>
+<li><a href="https://developer.ibm.com/tv/microservices/">Welcome to Microservices.TV, where you will get the latest news, trends and tutorials on all things microservices</a></li>
+<li><a href="http://www.ansible.com/ansiblefest-videos-spark-central-sf15">Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes</a></li>
+</ul>
+<h3 id="docker-references"><a name="user-content-docker-references" href="#docker-references" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Docker references</h3>
+<ul>
+<li><a href="https://github.com/veggiemonk/awesome-docker">Awesome Docker. A curated list of Docker resources and projects</a></li>
+<li><a href="https://www.linkedin.com/pulse/why-docker-could-revolutionize-enterprise-cloud-computing-andy-waroma">Why Docker Could Revolutionize Enterprise Cloud Computing</a></li>
+<li><a href="http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html">Adoption/popularity is the new king. The only constant is change! - puppet, chef, ansible, docker </a></li>
+<li><a href="http://thenewstack.io/software-testing-docker/">DockerCon EU: Software Testing with Docker</a></li>
+<li><a href="https://www.openshift.com/promotions/docker-security.html">Free eBook - Docker Security: Using Containers Safely in Production</a></li>
+<li><a href="http://www.javacodegeeks.com/2015/11/why-docker.html">Why docker</a></li>
+<li><a href="https://dzone.com/refcardz/getting-started-with-docker-1">Getting started with docker</a></li>
+<li><a href="http://www.javacodegeeks.com/2015/11/deploying-containers-docker-swarm-docker-networking.html">Deploying Containers with Docker Swarm and Docker Networking</a></li>
+<li><a href="http://talkpython.fm/episodes/show/9/docker-for-the-python-developer">Docker for the python developer, podcast at <a href="http://talkpython.fm/"><a href="http://talkpython.fm/">http://talkpython.fm/</a></a></a></li>
+<li><a href="http://www.infoq.com/news/2015/11/running-docker-production">How to be Successful Running Docker in Production</a></li>
+<li><a href="http://blog.logscape.com/2014/07/monitoring-docker-part-ii/">Monitoring Docker: Part II</a></li>
+<li><a href="http://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/">Gathering LXC and Docker containers metrics</a></li>
+<li><a href="http://www.redhat.com/en/insights/containers">Red Hat containers</a></li>
+<li><a href="http://www.zdnet.com/article/red-hat-loves-containers-in-rhel-7-2/">Red Hat loves containers in RHEL 7.2</a></li>
+<li><a href="http://www.redhat.com/en/about/videos/taste-red-hat-training-customizing-container-deploy-network-service">Taste of Red Hat Training: Customizing a container to deploy a network service</a></li>
+<li><a href="http://www.redhat.com/en/about/press-releases/red-hat-drives-networking-linux-container-innovation-latest-version-red-hat-enterprise-linux-7">Red Hat Drives Networking, Linux Container Innovation in Latest Version of Red Hat Enterprise Linux 7</a></li>
+<li><a href="http://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/">Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters</a></li>
+<li><a href="http://www.zdnet.com/article/coreos-brings-end-to-end-trusted-computing-to-containers/">​CoreOS brings end-to-end trusted computing to containers</a></li>
+<li><a href="http://www.javacodegeeks.com/2015/11/10-awesome-docker-tutorials-to-kick-start-your-devops-projects.html">10 Awesome Docker Tutorials to Kick-Start your DevOps Projects</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920036791.do?sortby=publicationDate">Docker cookbook</a></li>
+<li><a href="https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/">Docker in Action - Fitter, Happier, More Productive</a></li>
+<li><a href="http://www.newmediacampaigns.com/blog/docker-for-php-developers">Docker for PHP Developers.Efficient Nginx, PHP, and MySQL development environments with Docker</a></li>
+<li><a href="http://blog.docker.com/2015/12/dockercon-eu-2015-use-cases/">DockerCon EU 2015 Videos: Use Cases</a></li>
+<li><a href="http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/">MySQL 5.7 Docker images</a></li>
+<li><a href="https://puppetlabs.com/podcasts/podcast-docker-puppet-combining-containers-configuration-management">Podcast: Docker &amp; Puppet: Uniting Containers with Configuration Management</a></li>
+</ul>
+<p><img alt="disruption cycle" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/disruption-cycle.png" /></p>
+<h1 id="devops"><a name="user-content-devops" href="#devops" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>DevOps</h1>
+<h2 id="devops-blogs"><a name="user-content-devops-blogs" href="#devops-blogs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>DevOps Blogs</h2>
+<ul>
+<li><a href="http://devops.com/">devops.com</a></li>
+<li><a href="http://devopslibrary.com/">DevOps Library: The Best Videos for the Best Admins</a></li>
+</ul>
+<h2 id="description"><a name="user-content-description" href="#description" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Description</h2>
+<ul>
+<li><a href="https://youtu.be/_I94-tJlovg">What is DevOps? - In Simple English </a></li>
+<li><a href="https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014">Software Development in the 21st century</a></li>
+<li><a href="http://newrelic.com/devops-101">New Relic eBook: What is DevOps and Why it Can Help Your Business?</a></li>
+<li><a href="http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/">ebook: IBM DevOps for Dummies (free)</a></li>
+<li><a href="http://newrelic.com/devops/toolset">New Relic: Glossary of DevOps Tools. Get a glimpse into some of New Relic&rsquo;s favorite DevOps tools</a></li>
+<li><a href="https://dzone.com/articles/what-to-expect-from-a-devops-interview">What to Expect From a DevOps Interview</a><ul>
+<li><a href="https://dzone.com/articles/why-youll-never-nail-that-devops-interview-1">Why You’ll NEVER Nail That DevOps Interview</a></li>
+</ul>
+</li>
+<li><a href="http://www.networkworld.com/article/2915893/software/why-everyone-hates-devops.html">Why everyone hates DevOps</a><ul>
+<li><a href="http://www.informationweek.com/cloud/8-reasons-it-pros-hate-the-cloud/d/d-id/1320531">8 Reasons IT Pros Hate The Cloud</a></li>
+<li><a href="http://www.wired.com/2015/03/culture-war-struggle-adopt-devops/">The IT Culture War: The Struggle to Adopt DevOps | WIRED</a></li>
+</ul>
+</li>
+<li><a href="http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html">Cómo y quién recuperó uno de los mayores desastres del desarrollo software: la web healthcare&hellip;</a></li>
+<li><a href="http://deloitte.wsj.com/cio/2014/04/24/the-devops-difference/">Deloitte: The DevOps Difference</a></li>
+<li><a href="https://youtu.be/uLfIp-2zm6I">MountainWest Devops 2014 - How I Learned to Stop Worrying and Love DevOps</a></li>
+</ul>
+<h2 id="agile-planning-scrum-kanban-lean"><a name="user-content-agile-planning-scrum-kanban-lean" href="#agile-planning-scrum-kanban-lean" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Agile planning: Scrum, Kanban, Lean</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=oShXAC26rcs">Agilidad, por Javier Garzás</a></li>
+<li><a href="http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html">Un video imprescindible sobre la buena gestión de equipos software</a></li>
+<li><a href="http://www.scrumguides.org/">Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge</a></li>
+<li><a href="http://www.brandonsavage.net/why-estimates-never-work/">Why estimates never work</a></li>
+<li><a href="https://www.linkedin.com/pulse/you-become-agile-implementing-scrum-jurriaan-kamer">You will not become agile by implementing scrum</a></li>
+<li><a href="http://tracks.roojoom.com/r/340">Kanban board is one of the most effective and popular tools for boosting productivity. Here is a collection of Kanban board&rsquo;s examples including plane simple and complicated Kanban board&rsquo;s style</a></li>
+<li><a href="http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/">Lean vs Agile Programming</a></li>
+<li><a href="https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again">Think Scrum is Only for Developers? Think Again</a></li>
+</ul>
+<h3 id="continuous-integration-and-delivery"><a name="user-content-continuous-integration-and-delivery" href="#continuous-integration-and-delivery" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Continuous Integration and Delivery</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=aoMfbgF2D_4">Martin Fowler - Continuous Delivery</a><ul>
+<li><a href="http://martinfowler.com/articles/agileFluency.html">A Brief Guide to Success with Agile, Martin Fowler</a></li>
+</ul>
+</li>
+<li><a href="https://dzone.com/articles/continuously-delivering-soa">Learn about how to apply Continuous Delivery principles to SOA, when test services aren&rsquo;t adequate, and the mechanics of service virtualization</a></li>
+</ul>
+<h4 id="jenkins"><a name="user-content-jenkins" href="#jenkins" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Jenkins</h4>
+<ul>
+<li><a href="https://www.cloudbees.com/jenkins/juc-2015/us-west">Jenkins User Conference West 2015 - Slides available</a><ul>
+<li><a href="https://www.linkedin.com/pulse/jenkins-docker-next-generation-continuous-delivery-khadija-kerissi">Jenkins and Docker: Next Generation Continuous Delivery</a></li>
+<li><a href="http://www.carlessanagustin.com/2015/08/20/tutorial-gestion-de-configuracion-ansible-vagrant-jenkins/">Tutorial: Gestión de Configuración – Ansible + Vagrant + Jenkins</a></li>
+<li><a href="https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin">Jenkins Docker Plugin</a></li>
+<li><a href="https://github.com/jhrcz/jenkins-rpm-builder">jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="rpm-build"><a name="user-content-rpm-build" href="#rpm-build" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>RPM build</h4>
+<ul>
+<li><a href="https://access.redhat.com/discussions/1174853">Continuous integration + rpmbuild + Docker</a><ul>
+<li><a href="https://github.com/alanfranz/docker-rpm-builder">Build native RPM packages by leveraging docker capabilities</a></li>
+<li><a href="http://blog.chmouel.com/2014/12/31/building-rpm-with-docker-images/">Building RPM with Docker images</a></li>
+<li><a href="https://www.reddit.com/r/linuxadmin/comments/2ke2vs/creating_internal_rpm_build_environment/">Reddit: Creating internal RPM build environment?</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="maven-and-gradle"><a name="user-content-maven-and-gradle" href="#maven-and-gradle" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Maven and Gradle</h4>
+<ul>
+<li><a href="https://dzone.com/articles/maven-vs-gradle-one-year-later">Java: Maven vs Gradle</a></li>
+</ul>
+<h2 id="git"><a name="user-content-git" href="#git" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Git</h2>
+<ul>
+<li><a href="https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/">One Million Downloads of GitLab</a></li>
+<li><a href="http://git.training/">git.training</a></li>
+<li><a href="https://training.github.com/classes/developers/">training.github.com - GitHub Training</a><ul>
+<li><a href="http://www.genbeta.com/comparativa/github-lanza-su-propio-curso-de-formacion-el-objetivo-que-los-desarrolladores-exploten-todo-su-potencial">GitHub lanza su propio curso de formación; objetivo:Que los desarrolladores exploten todo su potencial</a></li>
+</ul>
+</li>
+<li><a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/">Git Magic - training</a></li>
+<li><a href="http://opentechschool.github.io/social-coding/">opentechschool.github.io - Social Coding with GitHub. This is the course content for Social Coding with GitHub</a></li>
+<li><a href="http://git-scm.com/">Git-scm.com</a></li>
+<li><a href="http://git-scm.com/book/en/v2">Git-scm ebook - free</a></li>
+<li><a href="https://www3.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html">Git HowTo: How to get started with GIT and work with GIT Remote Repo</a></li>
+<li><a href="https://help.github.com/articles/associating-text-editors-with-git/">Associating text editors with Git</a></li>
+<li><a href="http://techarena51.com/index.php/using-git-backup-website-files-on-linux/">Using GIT to backup your website files on linux</a></li>
+<li><a href="https://sysadmincasts.com/episodes/33-git-to-puppet-deployment-workflow">Sysadmincasts.com: Git to Puppet Deployment Workflow</a></li>
+<li><a href="https://www.youtube.com/watch?v=4EOZvow1mk4">David Baumgold - Advanced Git - PyCon 2015</a></li>
+<li><a href="https://newrelic.com/webinar/github-for-teams">Newrelic: GitHub Flow - Collaborating effectively using Git and GitHub</a></li>
+<li><a href="http://it-ebooks.info/book/3259/">Git Recipes. A Problem-Solution Approach</a></li>
+<li><a href="http://it-ebooks.info/book/2517/">Git Pocket Guide</a></li>
+</ul>
+<h3 id="git-clients"><a name="user-content-git-clients" href="#git-clients" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Git clients</h3>
+<ul>
+<li><a href="https://www.sourcetreeapp.com/">SourceTree</a></li>
+<li><a href="http://git-scm.com/downloads">git-scm clients</a></li>
+<li><a href="https://tortoisegit.org/">TortoiseGit</a></li>
+</ul>
+<p><img alt="git image" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/git.png" /></p>
+<h2 id="load-testing"><a name="user-content-load-testing" href="#load-testing" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Load Testing</h2>
+<ul>
+<li><a href="http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html">JMeter Tutorial for Load Testing – The ULTIMATE Guide (PDF Download)</a></li>
+<li><a href="https://blazemeter.com/blog/ultimate-jmeter-resource-list">The Ultimate JMeter Resource List (july 2015)</a></li>
+<li><a href="http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter">How to Load Test HTTP Live Media Streaming (HLS) with JMeter</a></li>
+</ul>
+<h2 id="metric-monitoring"><a name="user-content-metric-monitoring" href="#metric-monitoring" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Metric monitoring</h2>
+<h3 id="tools"><a name="user-content-tools" href="#tools" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Tools</h3>
+<ul>
+<li><a href="http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully">Stop using Nagios (so it can die peacefully)</a><ul>
+<li><a href="http://www.nagiosql.org/">nagiosql.org</a></li>
+</ul>
+</li>
+<li><a href="http://goaccess.io/">GoAccess real time web log analyzer</a></li>
+<li><a href="http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/">Linux cluster sysadmin — OS metric monitoring with colmux</a></li>
+<li><a href="http://www.itworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html">Netflix and linux performance analysis in 60 seconds</a></li>
+<li><a href="http://www.rampmeupscotty.com/blog/2013/01/20/why-use-sensu/">Why use Sensu?</a><ul>
+<li><a href="https://sensuapp.org/">Sensu monitoring</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/etsy/statsd/">StatsD: Simple daemon for easy stats aggregation</a></li>
+<li><a href="http://munin-monitoring.org/">munin monitoring</a></li>
+<li><a href="http://omdistro.org/">OMD - The Open Monitoring Distribution</a></li>
+<li><a href="http://www.zabbix.com/conf2015_agenda.php">All the slides of Zabbix Conference 2015</a><ul>
+<li><a href="https://www.youtube.com/watch?v=uqFaz2HyxVM">Zabbix for Beginners webinar</a></li>
+<li><a href="https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/">Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?</a></li>
+</ul>
+</li>
+<li><a href="http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor">Anemometer: MySQL Slow Query Monitor</a></li>
+<li><a href="http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/">SQL Monitoring in PostgreSQL. Identify long running queries</a></li>
+<li><a href="http://zipkin.io">Zipkin</a><ul>
+<li><a href="http://twitter.github.io/zipkin/Architecture.html">Zipkin architecture</a></li>
+<li><a href="https://github.com/openzipkin/zipkin">Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures</a></li>
+<li><a href="http://twitter.github.io/zipkin">Zipkin is a distributed tracing system that helps us gather timing data for all the disparate services at Twitter</a></li>
+</ul>
+</li>
+<li><a href="https://www.bro.org/">The Bro Network Security Monitor</a><ul>
+<li><a href="https://twit.tv/shows/floss-weekly/episodes/296">FLOSS Weekly 296, Bro</a></li>
+</ul>
+</li>
+<li><a href="https://www.pingdom.com/">pingdom.com webiste monitoring</a></li>
+<li><a href="http://techcrunch.com/2015/12/10/server-density/">Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion</a></li>
+</ul>
+<h3 id="apm-application-performance-management"><a name="user-content-apm-application-performance-management" href="#apm-application-performance-management" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>APM: Application Performance Management</h3>
+<ul>
+<li><a href="http://apmdigest.com/apm-convergence-monitoring-vs-management">APM Convergence: Monitoring vs. Management. APM is entering into a period of intense competition of technology and strategy with a multiplicity of vendors and viewpoints</a></li>
+<li><a href="http://www.networkworld.com/article/2300639/data-center/performance-management-from-the-client-s-point-of-view.html">Performance management from the client&rsquo;s point of view</a></li>
+<li><a href="http://apmdigest.com/">APMdigest: Where Application Performance Management, BSM, Virtualization, and Cloud Computing Meet</a></li>
+<li><a href="http://apmdigest.com/4-reasons-to-use-apm-tools">4 Reasons to Use APM Tools</a></li>
+<li><a href="http://apmdigest.com/application-performance-management-and-the-cloud">Application Performance Management and the Cloud</a></li>
+</ul>
+<h4 id="apm-solutions"><a name="user-content-apm-solutions" href="#apm-solutions" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>APM Solutions</h4>
+<ul>
+<li><a href="http://www.rtiperformance.com/">RTI - Application Performance Management for Red Hat Middleware (JBoss, Fuse, Tomcat)</a></li>
+<li><a href="http://www.moskito.org/">MoSKito.org APM. Monitoring for Java applications. Complete ecosystem for DevOps. Free &amp; open source</a></li>
+<li><a href="http://metrics.dropwizard.io/">Metrics is a Java library which gives you unparalleled insight into what your code does in production (application-level metrics)</a><ul>
+<li><a href="https://github.com/dropwizard/metrics">GitHub: Dropwizard metrics</a></li>
+</ul>
+</li>
+<li><a href="http://www.genbetadev.com/desarrollo-aplicaciones-moviles/new-relic-para-monitorizar-el-rendimiento-y-las-conexiones-de-red-de-aplicaciones-moviles-android-e-ios">New Relic para monitorizar el rendimiento y las conexiones de red de aplicaciones mรณviles Android e iOS</a><ul>
+<li><a href="https://www.youtube.com/watch?v=J5tzI-8k__Q">Youtube - New Relic - Dashboard &amp; Feature Tour</a></li>
+<li><a href="https://youtu.be/7Mg0UtzYql4">New Relic - Developers: 30 minutes discovering how New Relic monitors your servers </a></li>
+<li><a href="https://blog.newrelic.com/2011/11/08/server-monitoring-is-here/">New Relic - Free Server Monitoring as a core feature of New Relic app management</a></li>
+</ul>
+</li>
+<li><a href="http://www.appdynamics.com/product/">AppDynamics Application Intelligence Platform</a></li>
+</ul>
+<h3 id="centralized-logging-big-data-log-management-tools"><a name="user-content-centralized-logging-big-data-log-management-tools" href="#centralized-logging-big-data-log-management-tools" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Centralized logging. Big Data Log Management Tools</h3>
+<ul>
+<li><a href="http://blog.xpolog.com/2014/04/17/devops-and-log-analysis-tools-drive-agile-it/">Devops and Log Management Tools Drive Agile IT</a></li>
+<li><a href="http://www.splunk.com">Splunk</a><ul>
+<li><a href="http://www.infoworld.com/article/2610524/log-analysis/splunk-feels-the-heat-from-stronger--cheaper-open-source-rivals.html">Splunk feels the heat from stronger, cheaper open source rivals</a></li>
+</ul>
+</li>
+<li><a href="http://www.xpolog.com/">XpoLog</a></li>
+<li><a href="https://www.graylog.org/">GrayLog2 | Open Source Log Management</a></li>
+<li><a href="http://www.fluentd.org/">Fluentd | Open Source Data Collector | Unified Logging Layer</a><ul>
+<li><a href="docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd">Free Alternative to Splunk Using Fluentd</a></li>
+<li><a href="http://www.fluentd.org/guides/recipes/graylog2">Fluentd and Graylog2 for End-to-End Log Analysis</a></li>
+</ul>
+</li>
+<li><a href="https://www.elastic.co/products/logstash">Logstash | Collect, Enrich &amp; Transport Data</a><ul>
+<li><a href="https://www.elastic.co/products/kibana">Kibana | Explore &amp; Visualize Your Data</a></li>
+<li><a href="http://labs.nagios.com/2014/10/19/nagios-log-server-vs-elasticsearch-logstash-kibana/">Nagios Log Server vs. Elasticsearch – Logstash – Kibana</a></li>
+<li><a href="http://kibana.org">Kibana is a highly scalable interface for Logstash and ElasticSearch that allows you to efficiently search, graph, analyze and otherwise make sense of a mountain of logs</a></li>
+<li><a href="https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards">Using elasticsearch, logstash and kibana to create realtime dashboards (slides)</a></li>
+<li><a href="http://solr-vs-elasticsearch.com/">Apache Solr vs ElasticSearch</a></li>
+<li><a href="https://www.youtube.com/watch?v=U3m0jKygAqU">youtube: Logstash Presentation</a></li>
+<li><a href="http://www.ericvb.com/archives/getting-started-on-centralized-logging-with-logstash-elasticsearch-and-kibana">Getting Started on Centralized Logging with Logstash, Elasticsearch and Kibana</a></li>
+<li><a href="http://jpmens.net/2012/08/06/my-logstash-and-graylog2-notes/">My Logstash and Graylog2 notes</a></li>
+<li><a href="https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards">speakerdeck.com: Using elasticsearch, logstash &amp; kibana to create realtime dashboards</a></li>
+<li><a href="http://pyvideo.org/video/3021/log-everything-with-logstash-and-elasticsearch">pyvideo.org - log everything with logstash and elasticsearch</a></li>
+</ul>
+</li>
+<li><a href="http://www.rsyslog.com/">rsyslog, the rocket-fast system for logs processing</a></li>
+<li><a href="https://www.cloudlytics.com/">Cloudlytics.com - Analytics for AWS Cloud Logs | CloudFront, CloudTrail, ELB &amp; S3 Logs and Billing Analytics</a></li>
+<li><a href="https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/">Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools: Splunk Storm, Graylog, Sumlogic, Logentries, Papertrail</a></li>
+</ul>
+<h1 id="software-development-programming-languages"><a name="user-content-software-development-programming-languages" href="#software-development-programming-languages" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Software Development. Programming languages</h1>
+<ul>
+<li><a href="http://stackoverflow.com/research/developer-survey-2015">Stack Overflow Developer Survey 2015</a></li>
+</ul>
+<h2 id="domain-driven-design"><a name="user-content-domain-driven-design" href="#domain-driven-design" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Domain driven design</h2>
+<ul>
+<li><a href="http://www.domaindrivendesign.org/">domaindrivendesign.org - Domain Driven Design Community</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Domain-driven_design">Domain-driven design description</a><ul>
+<li><a href="https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio">Diseño guiado por el dominio</a></li>
+</ul>
+</li>
+<li><a href="http://dddsample.sourceforge.net/">Demonstrating domain-driven design</a><ul>
+<li><a href="https://github.com/citerus/dddsample-core">Demonstrating domain-driven design (GitHub)</a></li>
+</ul>
+</li>
+</ul>
+<p><img alt="system testing" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/system_testing_cartoon.png" /></p>
+<h2 id="api-and-documentation-generators"><a name="user-content-api-and-documentation-generators" href="#api-and-documentation-generators" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>API and Documentation Generators</h2>
+<ul>
+<li><a href="http://devdocs.io">Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface</a></li>
+<li><a href="https://readthedocs.org/">ReadtheDocs.org - Create, host, and browse documentation</a></li>
+</ul>
+<h2 id="editors"><a name="user-content-editors" href="#editors" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Editors</h2>
+<h3 id="sublime"><a name="user-content-sublime" href="#sublime" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Sublime</h3>
+<ul>
+<li><a href="http://sublimetexttips.com/">sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox</a></li>
+<li><a href="http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/">Sublime Text Unofficial Documentation</a><ul>
+<li><a href="https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/">Setting Up Sublime Text 3 for Full Stack Python Development</a></li>
+<li><a href="http://www.sublimelinter.com/en/latest/">Welcome to SublimeLinter 3</a></li>
+<li><a href="https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/">Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development</a></li>
+</ul>
+</li>
+<li><a href="https://sublimegit.net/">SublimeGit: Full-featured Git integration for Sublime Text 2 and 3</a><ul>
+<li><a href="https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow">Using Git Inside of Sublime Text to Improve Workflow</a></li>
+<li><a href="http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/">Create and Open GitHub Gists from Sublime Text</a></li>
+<li><a href="https://help.github.com/articles/associating-text-editors-with-git/">Associating text editors with Git</a></li>
+<li><a href="https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/">Git for Windows tip: opening Sublime Text from bash</a></li>
+</ul>
+</li>
+<li><a href="http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2">Perfect Workflow in Sublime Text 2</a><ul>
+<li><a href="http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2">An excellent free video course on Sublime Text 2 - Sublime Text 3 is still in beta</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="alternative-editors"><a name="user-content-alternative-editors" href="#alternative-editors" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Alternative editors</h3>
+<ul>
+<li><a href="http://blog.atom.io/2015/10/29/atom-1-1-is-out.html">Atom 1.1 is out</a></li>
+<li><a href="http://developer.android.com/sdk/index.html">Android Studio 2.0</a><ul>
+<li><a href="https://infinum.co/the-capsized-eight/articles/say-hello-to-a-faster-android-emulator">Say hello to a faster Android emulator</a></li>
+<li><a href="https://infinum.co/the-capsized-eight/articles/android-development-is-30-percent-more-expensive-than-ios">Android development is 30% more expensive than iOS. And we have the numbers to prove it!</a></li>
+<li><a href="http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html">Eclipse ha muerto, larga vida a Android Studio</a></li>
+</ul>
+</li>
+<li><a href="http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html">Screencast of Docker Tooling for Eclipse</a></li>
+</ul>
+<h2 id="regular-expressions"><a name="user-content-regular-expressions" href="#regular-expressions" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Regular expressions</h2>
+<ul>
+<li><a href="http://www.regexr.com/">RegExr: Learn, Build, &amp; Test RegEx</a></li>
+<li><a href="http://pythex.org/">pythex is a quick way to test your Python regular expressions</a></li>
+</ul>
+<h2 id="bash"><a name="user-content-bash" href="#bash" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Bash</h2>
+<ul>
+<li><a href="http://www.shellcheck.net/">shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands</a></li>
+<li><a href="http://www.davidpashley.com/articles/writing-robust-shell-scripts/">Writing Robust Bash Shell Scripts</a></li>
+<li><a href="http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming">Defensive BASH Programming</a></li>
+</ul>
+<p><img alt="goto-dinosaur" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/goto-dinosaur.jpeg" /></p>
+<h2 id="python"><a name="user-content-python" href="#python" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Python</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/learnpython/comments/3r2hsq/python_cheat_sheet/">reddit: python cheat sheet</a></li>
+<li><a href="https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru">Python progression path - From apprentice to guru</a></li>
+<li><a href="http://staticnat.com/setting-up-python-on-osx/">Setting up Python on OSX: UPDATED</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_">Python 3.4 Programming Tutorials - YouTube</a><ul>
+<li><a href="http://www.fullstackpython.com/">Full Stack Python is an open book that explains each Python web application stack layer and provides the best web resources for those topics</a></li>
+<li><a href="http://ai.berkeley.edu/tutorial.html#PythonBasics">Python mini-course</a></li>
+<li><a href="https://www.mysliderule.com/learning-paths/web-development-python-django/">Web Development using Python &amp; Django</a></li>
+<li><a href="http://www.tangowithdjango.com/">A beginner&rsquo;s guide to web development with Python 2.7 / Django 1.7</a></li>
+<li><a href="http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/">I wish I knew these things when I learned Python</a></li>
+<li><a href="http://migrateup.com/main-difference-python-3/">The Bottom-Line Single Main Difference Between Python 2 and 3</a></li>
+<li><a href="http://www.learnpython.org">LearnPython.org interactive Python tutorial</a></li>
+<li><a href="https://github.com/vinta/awesome-python/">Awesome Python. A curated list of awesome Python frameworks, libraries and software</a></li>
+<li><a href="https://gitlab.com/rosarior/awesome-django">Awesome Django. A curated list of awesome Django apps, projects and resources</a></li>
+</ul>
+</li>
+<li><a href="https://www.codementor.io/python/tutorial/essential-python-interview-questions">15 Essential Python Interview Questions</a><ul>
+<li><a href="http://www.mypythonquiz.com/">Python mini-quiz</a></li>
+</ul>
+</li>
+<li><a href="http://it-ebooks.info/book/3778/">Testing Python</a><ul>
+<li><a href="https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara">Profiling Python using cProfile: a concrete case</a></li>
+<li><a href="http://pypi.python.org/pypi/gabbi/">gabbi - Declarative HTTP testing library pypi</a></li>
+</ul>
+</li>
+<li><a href="https://dzone.com/articles/learn-python-django-in-4-hours">Learn Python Django in 4 Hours</a><ul>
+<li><a href="https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/">Django Development With Docker Compose and Machine</a></li>
+<li><a href="http://www.marinamele.com/taskbuster-django-tutorial">TaskBuster Django Tutorial, made with Django 1.8 and Python 3</a></li>
+<li><a href="http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro">TDD with Django, from scratch: a beginner&rsquo;s intro to testing and web development</a></li>
+<li><a href="http://www.genbetadev.com/desarrolloparastartups/como-crear-un-servicio-rest-en-30-lineas-de-codigo-de-django-y-python">Cómo crear un servicio REST en 30 líneas de código de Django y Python</a></li>
+<li><a href="https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/">Django Development With Docker Compose and Machine</a></li>
+<li><a href="http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/">Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian</a></li>
+</ul>
+</li>
+<li><a href="http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support">The Flask Mega-Tutorial: Now with Python 3 Support</a></li>
+<li><a href="http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood">How do you handle the ORM problem? When do you say YES or NO to using ORM?</a></li>
+<li><a href="http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for">Don&rsquo;t Make Us Say We Told You So: virtualenv for New Pythonistas</a></li>
+<li><a href="http://docker-py.readthedocs.org/en/stable/api/">The docker-py repository: an API client for docker written in Python</a></li>
+<li><a href="http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive">Java Vs. Python - Which Programming Language is More Productive? - Infographic</a></li>
+<li><a href="http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team">Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team</a></li>
+</ul>
+<h2 id="python-and-aws"><a name="user-content-python-and-aws" href="#python-and-aws" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Python and AWS</h2>
+<ul>
+<li><a href="http://cloudacademy.com/blog/ansible-aws/">Ansible and AWS: cloud IT automation management</a></li>
+<li><a href="http://it-ebooks.info/book/542/">Python and AWS Cookbook. Boto library</a></li>
+<li><a href="https://github.com/boto/boto">Boto</a></li>
+<li><a href="http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python">Managing the Cloud with a Few Lines of Python (EuroPython 2014)</a></li>
+</ul>
+<h2 id="jvm-latency-caching-off-heap-data-grid"><a name="user-content-jvm-latency-caching-off-heap-data-grid" href="#jvm-latency-caching-off-heap-data-grid" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>JVM Latency: Caching, Off Heap, Data Grid</h2>
+<ul>
+<li><a href="http://bit.ly/1RbGgms">dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application</a></li>
+<li><a href="http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html">Reminder: JDK 7 will be EOL soon. Oracle won&rsquo;t publish any Public Updates to JDK 7 after April 2015</a></li>
+<li><a href="http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html">Free eGuide: JVM Troubleshooting Guide</a></li>
+<li><a href="http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html">On heap vs off heap memory usage</a></li>
+<li><a href="http://www.c2b2.co.uk/javazone-2013-low-latency">Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory</a></li>
+<li><a href="http://www.c2b2.co.uk/what_is_data_grid_webinar">What is a Data Grid?</a></li>
+</ul>
+<h3 id="java-garbage-collection-changes-in-java-8-jmx-monitoring"><a name="user-content-java-garbage-collection-changes-in-java-8-jmx-monitoring" href="#java-garbage-collection-changes-in-java-8-jmx-monitoring" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Java Garbage Collection: Changes in Java 8. JMX monitoring</h3>
+<ul>
+<li><a href="http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/">How Garbage Collection differs in the three big JVMs</a></li>
+<li><a href="http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/">Cambios importantes en la gestión de memoria de Java 8 de Oracle</a><ul>
+<li><a href="http://www.infoq.com/articles/Java-PERMGEN-Removed">PermGen eliminado</a></li>
+<li><a href="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/jvm-mem.md">Análisis: cambios en la gestión de memoria de Java 8. Diferencias en distintas implementaciones de JVM</a></li>
+</ul>
+</li>
+<li><a href="http://middlewaresnippets.blogspot.com.es/2014/10/monitoring-with-jmx.html">middlewaresnippets.blogspot.com.es - Monitoring with JMX</a></li>
+</ul>
+<h2 id="front-end-html5-javascriptnodejs"><a name="user-content-front-end-html5-javascriptnodejs" href="#front-end-html5-javascriptnodejs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Front-end: HTML5, javascript/node.js</h2>
+<ul>
+<li><a href="http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list">HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular</a><ul>
+<li><a href="http://www.initializr.com/">Initializr: Start an HTML5 project in 15 seconds!</a></li>
+</ul>
+</li>
+<li><a href="http://chimera.labs.oreilly.com/books/1234000000262">Good things in life are free. Read online &ldquo;Programming JavaScript Applications&rdquo; book for free</a></li>
+<li><a href="http://www.redsilice.com/redsilice/?p=329">redsilice.com - Node.js. Una Introducción</a></li>
+<li><a href="http://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/">wired.com - Google&rsquo;s Angular 2 release pushes javascript beyond the browser</a></li>
+<li><a href="https://frontend.zeef.com">Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc</a></li>
+<li><a href="http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/">Ur/Web makes writing Web applications easier — and more secure</a></li>
+<li><a href="http://hipsum.co/">Hipster Ipsum, Artisanal filler text for your site or project</a></li>
+</ul>
+<h2 id="qa-software-testing"><a name="user-content-qa-software-testing" href="#qa-software-testing" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>QA. Software Testing</h2>
+<ul>
+<li><a href="http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/">blog.testproject.io - World’s most desirable test automation skills!</a></li>
+<li><a href="http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&amp;l=">Selenium, QTP Job Trends</a></li>
+<li><a href="http://thenewstack.io/vagrant-developers-researchers/">thenewstack.io: How Vagrant Eases Software Research and Testing</a></li>
+<li><a href="http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html">JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)</a></li>
+<li><a href="http://freecomputerbooks.com/Test-Driven-Development-with-Python.html">Free online Book: O&rsquo;Reilly® Test-Driven Development with Python</a></li>
+<li><a href="http://it-ebooks.info/book/3778/">eBook: Testing Python. Applying Unit Testing, TDD, BDD and Acceptance Testing</a></li>
+<li><a href="http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro">pyvideo.org: TDD with Django, from scratch: a beginner&rsquo;s intro to testing and web development</a></li>
+<li><a href="https://www.quantifiedcode.com/how-it-works">The first tool that automatically refactors your Python code</a></li>
+</ul>
+<p><img alt="Most popular test automation frameworks" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/Most-popular-test-automation-frameworks.png" /></p>
+<h1 id="data-science"><a name="user-content-data-science" href="#data-science" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Data Science</h1>
+<h2 id="python-analytics"><a name="user-content-python-analytics" href="#python-analytics" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Python analytics</h2>
+<ul>
+<li><a href="http://pydata.org">PyData, a community for developers and users of Python data tools</a></li>
+<li><a href="http://www.datasciencecentral.com/profiles/blogs/python-for-data-science-vs-python-for-web-development">Python for Data Science vs Python for Web Development</a></li>
+<li><a href="http://www.pythonforsocialscientists.org/#welcome-to-python-for-social-scientists">Python for Social Scientists</a></li>
+<li><a href="http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/">Cheat Sheet: Data Visualisation in Python</a></li>
+<li><a href="http://www.slideshare.net/continuumio/distributed-computing-on-your-cluster-with-anaconda-webinar-2015">Distributed Computing on your Cluster with Anaconda (modern open source analytics platform powered by Python) - Webinar 2015</a></li>
+</ul>
+<h3 id="anaconda-analytics"><a name="user-content-anaconda-analytics" href="#anaconda-analytics" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Anaconda Analytics</h3>
+<ul>
+<li><a href="http://docs.continuum.io/anaconda/index">docs.continuum.io</a></li>
+<li><a href="https://dzone.com/articles/python-the-next-big-thing-in-big-data">Python: The Next Big Thing in Big Data</a></li>
+<li><a href="https://speakerdeck.com/chdoig/the-state-of-python-for-data-science-pyss-2015">The State of Python for Data Science, PySS 2015</a></li>
+<li><a href="https://www.continuum.io/content/videos">Continuum analytics videos</a></li>
+<li><a href="https://youtu.be/mNvPiV37F7Q?list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL">PyData NYC 2015. See talks on Anaconda, Bokeh, pandas, and more. Travis Oliphant &amp; Peter Wang (Keynote): Python as the Zen of Data Science</a><ul>
+<li><a href="http://www.slideshare.net/teoliphant/python-as-the-zen-of-data-science">Slide: Python as the Zen of Data Science</a></li>
+<li><a href="https://youtu.be/Xb5r_495_-k">Continuum Analytics&rsquo; Peter Wang on the State of Analytics</a></li>
+<li><a href="https://www.youtube.com/watch?v=V85G5Q-Lj9o&amp;feature=youtu.be&amp;list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL">Jessica Forde: Visualizing Wireless Router Timeseries Data with the Density API, Seaborn, and Pandas</a></li>
+<li><a href="https://www.youtube.com/watch?v=wcrwASR5DCQ&amp;index=42&amp;list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL">Network data, also known as linked data, is the new frontier of data analysis</a></li>
+</ul>
+</li>
+<li><a href="http://talkpython.fm/episodes/show/34/continuum-scientific-python-and-the-business-of-open-source">Talk Python to Me Podcast. Episode #34: Continuum: Scientific Python and The Business of Open Source</a></li>
+</ul>
+<h4 id="anaconda-code-examples"><a name="user-content-anaconda-code-examples" href="#anaconda-code-examples" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Anaconda Code examples</h4>
+<ul>
+<li><a href="http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Python_For_Data_Mining.ipynb">Introduction to Python for data mining</a></li>
+<li><a href="https://github.com/jreback/pydatanyc2015">Jeff Reback&rsquo;s pandas tutorial at PyDataNYC2015, notebooks included</a></li>
+<li><a href="https://github.com/grokcode/ipython-notebooks/blob/master/nginx-log-analysis.ipynb">Nginx log analysis with pandas and matplotlib</a></li>
+<li><a href="https://github.com/inafev/anacondalearning">Data mining with Anaconda proof of concept</a></li>
+</ul>
+<h3 id="apache-zeppelin"><a name="user-content-apache-zeppelin" href="#apache-zeppelin" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Apache Zeppelin</h3>
+<ul>
+<li><a href="https://zeppelin.incubator.apache.org/">Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science</a></li>
+</ul>
+<h2 id="big-data"><a name="user-content-big-data" href="#big-data" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Big Data</h2>
+<ul>
+<li><a href="http://www.infoworld.com/article/2868007/big-data/big-data-is-just-another-name-for-complicated-business-intelligence.html">Big data is simply another name for complicated business intelligence: New visualization tools like Tableau, Clearstory, and Domo aims to unlock enterprise data for a broader audience than before</a></li>
+<li><a href="http://bit.ly/1MHcFT4">dzone.com The DZone Guide to Big Data, Business Intelligence and Analytics, 2015 Edition</a></li>
+<li><a href="https://www.reddit.com/r/programming/comments/1mkvhs/dont_use_hadoop_your_data_isnt_that_big/">Don&rsquo;t use Hadoop - your data isn&rsquo;t that big</a></li>
+<li><a href="https://code.google.com/p/google-refine/">Google Refine, a power tool for working with messy data (formerly Freebase Gridworks)</a></li>
+<li><a href="http://es.slideshare.net/zanorte/apache-storm-introduccion">stratebi - Apache Storm: Introduccion</a></li>
+<li><a href="http://es.slideshare.net/zanorte/apache-storm-instalacin">stratebi - Instalación de Storm</a></li>
+<li><a href="http://hpe.to/6019BO4TW">HP Big Data Reference Architecture for Apache Spark based on RHEL</a></li>
+</ul>
+<h3 id="spark"><a name="user-content-spark" href="#spark" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Spark</h3>
+<ul>
+<li><a href="https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o">Tools for Troubleshooting, Installation and Setup of Apache Spark Environments</a></li>
+<li><a href="http://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/">Spark Streaming: What Is It and Who’s Using It?</a></li>
+<li><a href="https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python">Getting Started with Spark (in Python)</a></li>
+</ul>
+<h2 id="sql"><a name="user-content-sql" href="#sql" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>SQL</h2>
+<ul>
+<li><a href="http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database">18 Best Online Resources For Learning SQL and Database Concepts</a></li>
+<li><a href="https://www.reddit.com/r/sqlporn">New subreddit about SQL</a></li>
+<li><a href="http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/">essentialsql.com: Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English</a><ul>
+<li><a href="http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/">essentialsql.com: What is the Difference Between Cast and Convert?</a></li>
+<li><a href="https://twitter.com/sqlkris">essentialsql.com&rsquo;s twitter</a></li>
+</ul>
+</li>
+<li><a href="http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes">SQL in ten minutes</a></li>
+<li><a href="http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database">10 sql tips to speed up your database</a></li>
+<li><a href="http://use-the-index-luke.com/">Use-the-index-luke.com: SQL Indexing and Tuning e-Book</a></li>
+<li><a href="http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood">How do you handle the ORM problem? When do you say YES or NO to using ORM?</a></li>
+<li><a href="http://tsqltidy.com/">T-SQL Tidy: Online T-SQL Statement Parser and Formatter</a></li>
+<li><a href="http://sql-joins.leopard.in.ua/">SQL Joins Visualizer. SQL Joins Visualizer help to you build SQL JOIN between two tables by using of Venn diagrams</a></li>
+<li><a href="http://javarevisited.blogspot.com.es/2012/10/sql-query-to-find-all-table-on-database-mysql-sqlserver.html">SQL Query to find all table names on database in MySQL and SQL Server Examples</a></li>
+<li><a href="https://www.youtube.com/watch?v=_kIWDzZUdA8">Curso SQL. Referencias cruzadas. Vídeo 15</a></li>
+<li><a href="http://java67.blogspot.com.es/2015/12/difference-between-primary-and-foreign.html">Difference between Primary and Foreign key in table</a></li>
+<li><a href="http://www.vertabelo.com/blog/technical-articles/naming-conventions-in-database-modeling">Naming Conventions in Database Modeling</a></li>
+<li><a href="https://sysadmincasts.com/episodes/38-crash-course-on-mysql">Syadmincasts: Crash Course on MySQL</a><ul>
+<li><a href="http://joshualande.com/data-science-sql/">What Every Data Scientist Needs to Know about SQL</a></li>
+<li><a href="http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855">Top 20+ MySQL Best Practices</a></li>
+<li><a href="http://www.highperfmysql.com/">highperfmysql.com - High Performance MySQL. Learn to Build Fast, Reliable, Scalable Systems with MySQL</a></li>
+<li><a href="http://www.corrspt.com/blog/2015/07/01/mysql-very-high-cpu-usage/">MySQL very high CPU usage (and other processes)</a></li>
+<li><a href="http://jasonralph.org/?p=291">Python Mysql Connector</a></li>
+<li><a href="http://www.tutorialspoint.com/mysql/index.htm">Tutorialspoint.com - MySQL Tutorial</a></li>
+<li><a href="http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor">Anemometer: MySQL Slow Query Monitor</a></li>
+<li><a href="http://insidemysql.com/mysql-for-excel-1-3-5-has-been-released/">MySQL for Excel 1.3.5</a></li>
+<li><a href="http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855">Top 20+ MySQL Best Practices</a></li>
+<li><a href="https://www.percona.com/blog/2012/06/20/find-and-remove-duplicate-indexes/">Find and remove duplicate indexes</a></li>
+<li><a href="https://blog.viaduct.io/mysql-indexes-primer/">MySQL Indexing Explained</a></li>
+<li><a href="http://it-ebooks.info/book/676/">High Performance MySQL, 3rd Edition</a></li>
+<li><a href="https://www.reddit.com/r/Python/comments/2qm448/terrible_choices_mysql_for_django">Terrible choices: MySQL (for Django)</a></li>
+<li><a href="http://mysqlserverteam.com/mysql-5-7-improved-performance-of-queries-with-derived-tables/">MySQL 5.7: Improved Performance of Queries with Derived Tables</a></li>
+</ul>
+</li>
+<li><a href="http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/">SQL Monitoring in PostgreSQL. Identify long running queries</a></li>
+</ul>
+<h3 id="sql-replication"><a name="user-content-sql-replication" href="#sql-replication" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>SQL replication</h3>
+<ul>
+<li><a href="https://serversforhackers.com/amazon-rds">Amazon RDS</a></li>
+<li><a href="https://github.com/vmware/tungsten-replicator">Tungsten Replicator is an open source replication engine supporting a variety of different extractor and applier modules</a></li>
+<li><a href="https://www.percona.com/blog/2015/07/29/multi-source-replication-in-mysql-5-7-vs-tungsten-replicator/">Multi-source replication in MySQL 5.7 vs Tungsten Replicator</a></li>
+<li><a href="https://dev.mysql.com/doc/refman/5.7/en/replication-multi-source.html">MySQL Multi-Source Replication</a></li>
+<li><a href="https://blog.mariadb.org/mariadb-galera-cluster-10-0-21-and-5-5-45-now-available/">MariaDB Galera Cluster 10.0.21 and 5.5.45 now available</a></li>
+<li><a href="https://mariadb.com/kb/en/mariadb/what-is-mariadb-galera-cluster/">What is MariaDB Galera Cluster?</a></li>
+<li><a href="http://repmgr.org/">Replication Manager for PostgreSQL Clusters</a></li>
+</ul>
+<h3 id="nosql"><a name="user-content-nosql" href="#nosql" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>NoSQL</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=qI_g07C_Q5I">Introduction to NoSQL by Martin Fowler, video tutorial</a></li>
+<li><a href="http://www.javacodegeeks.com/2015/10/nosql-vs-sql.html">NoSQL vs. SQL: Choosing a Data Management Solution</a></li>
+<li><a href="http://martinfowler.com/nosql.html">NoSQL Guide, by Martin Fowler</a></li>
+<li><a href="https://www.thoughtworks.com/insights/blog/nosql-databases-overview">thoughtworks.com: NoSQL Databases, an overview</a></li>
+<li><a href="http://www.facilcloud.com/noticias/?p=1294&amp;lang=es_ES">Diferencias entre SQL y NoSQL ¿Sabes cuál usar?</a></li>
+</ul>
+<h3 id="newsql"><a name="user-content-newsql" href="#newsql" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>NewSQL</h3>
+<ul>
+<li><a href="http://www.nuodb.com/">NuoDB, elastically scalable database. A revolution compared to traditional monolithic 1-box databases. NuoDB is ACID,SQL, distributed/scalable and support flexible schemas</a></li>
+<li><a href="http://www.nuodb.com/blog/replication-is-it-easy">Traditional database replication drawbacks</a></li>
+</ul>
+<p><img alt="sql-join-clauses" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/sql-join-clauses.png" /><br />
+<img alt="Visual_SQL_JOINS" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/Visual_SQL_JOINS_orig.jpg" /></p>
+<h1 id="networking"><a name="user-content-networking" href="#networking" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Networking</h1>
+<h2 id="next-generation-firewalls"><a name="user-content-next-generation-firewalls" href="#next-generation-firewalls" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Next Generation Firewalls</h2>
+<ul>
+<li><a href="http://www.storagereview.com/dell_sonicwall_tz500_firewall_review">Dell SonicWALL TZ500 Firewall Review</a></li>
+<li><a href="http://livedemo.sonicwall.com">Dell Security Live Demo</a></li>
+<li><a href="http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-sonic-wall-tz-series">Disponible la 6ª generación de Dell SonicWALL TZ Series Firewalls con SonicOS 6.2. A tener en cuenta por Pymes interesadas en las nuevas conexiones de Internet para empresa (300 y 500Mbs)</a></li>
+<li><a href="http://www.firewalls.com/sonicwall_vs_fortigate">SonicWALL Firewall vs. Fortinet Fortigate</a></li>
+<li><a href="http://www.crn.com/news/channel-programs/300077951/dell-security-adds-50-percent-rebate-on-sonicwall-tz-and-nsa-appliances.htm">Dell Security Adds 50 Percent Rebate On SonicWall TZ And NSA Appliances</a></li>
+</ul>
+<h2 id="network-virtualization"><a name="user-content-network-virtualization" href="#network-virtualization" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Network virtualization</h2>
+<ul>
+<li><a href="https://www.opnfv.org">FOSS Network Functions Virtualization</a> </li>
+</ul>
+<h2 id="network-forensics"><a name="user-content-network-forensics" href="#network-forensics" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Network forensics</h2>
+<ul>
+<li><a href="http://www.digitalattackmap.com/#anim=1&amp;color=2&amp;country=ALL&amp;list=0&amp;time=16064&amp;view=map">Digital Attack Map. Top daily DDoS attacks worldwide</a></li>
+<li><a href="https://wireedit.com/">WireEdit. First-Of-A-Kind and The Only Full Stack WYSIWYG Packet Editor Edit L2 - L7 with just a few clicks</a></li>
+<li><a href="https://www.youtube.com/watch?v=F4l3CedRlJc">Optimal Wireshark Setup | Enhance Your Wireshark Experience</a><ul>
+<li><a href="http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html">Switches And Tool Placement (by Tony Fortunato). Ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=iX44XIZafiw">Wireshark 101: Transmission Control Protocol, video tutorial</a></li>
+<li><a href="http://www.networkcomputing.com/applications/http-basic-authentication-primer/d/d-id/1323331">HTTP Basic Authentication with wireshark</a></li>
+<li><a href="http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/">How Can the Packet Size Be Greater than the MTU?</a></li>
+<li><a href="https://youtu.be/qsUaB36CVDw">INE.com training videos: Analyzing Packet Lengths</a></li>
+<li><a href="https://blog.cloudflare.com/the-story-of-one-latency-spike/">blog.cloudflare.com - The story of one latency spike</a><ul>
+<li><a href="http://www.thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/">Calculate HTTP response time in wireshark</a></li>
+<li><a href="http://theitjuggler.com/how-to/diagnose-slow-connections-wireshark/">Diagnose slow connections with Wireshark</a></li>
+<li><a href="http://youtu.be/5k16DWEnEGA">Toubleshooting with Wireshark: Detect HTTP Delays</a></li>
+<li><a href="https://www.youtube.com/watch?v=YJRmh6L2Hls">Troubleshooting with Wireshark: Detect TCP Delays (full video)</a></li>
+<li><a href="http://www.lovemytool.com/blog/2014/09/documenting-why-its-slow-by-tony-fortunato.html">Packet timing and Average IO Graph with Wireshark</a></li>
+<li><a href="http://thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/">Calculate HTTP response time in wireshark</a></li>
+<li><a href="http://apmblog.dynatrace.com/2014/08/12/understanding-application-performance-network-part-tcp-window-size/">Understanding Application Performance on the Network – Part VII: TCP Window Size</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=bu6kpneLlFc">Troubleshooting with Wireshark: Identifying SIP Errors</a><ul>
+<li><a href="https://www.youtube.com/watch?v=OFpQLyQxt84">How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/user/thebitgirl/videos">Laura Chappell&rsquo;s Top Videos</a><ul>
+<li><a href="https://www.youtube.com/watch?v=0dFndZwkDGY">Wireshark Tip 10: Identify Separate TCP Conversations with TCP Stream Index (Laura Chappell)</a></li>
+<li><a href="https://www.youtube.com/watch?v=pxxcuR7fwXM">Wireshark profiles</a></li>
+<li><a href="http://packetlife.net/">PacketLife.net</a></li>
+<li><a href="https://www.youtube.com/watch?v=UXAHvwouk6Q">Sharkfest 2013 - Wireshark Network Forensics (Laura Chappell). Seguridad con Wireshark: ejemplos de ataques de seguridad DDoS (macof, DNS), filtros, perfiles, coloreado de frames y tshark para trazas largas</a></li>
+<li><a href="http://bit.ly/nmapcolors">wireshark&rsquo;s colors, by Laura Chappell</a></li>
+</ul>
+</li>
+<li><a href="http://sharkfest.wireshark.org/sharkfest.14/">Sharkfest &lsquo;14 Retrospective</a><ul>
+<li><a href="http://sharkfest.wireshark.org/sharkfest.13/presentations/PA-11_How-to-Use-Wireshark-to-Analyze-Video_Betty-DuBois.pdf">How to Use Wireshark to Analyze Video</a></li>
+<li><a href="http://sharkfest.wireshark.org/sharkfest.14/presentations/B6-Get%20Started%20with%20HTTP%20Analysis.pdf">Sharkfest &lsquo;14 presentation: Get started with HTTP Analysis</a></li>
+<li><a href="http://sharkfest.wireshark.org/sharkfest.12/presentations/A-3_A-10_Tuning_Win7_Using_Wireshark_TCP_Stream_Graph_a_Case_Study.pdf">Tuning Win7 Using Wireshark’s TCP Stream Graph</a></li>
+</ul>
+</li>
+<li>Una forma de evitar los ataques DDoS similares a macof es bloquear desde los firewalls las conexiones (SYN) con MSS=0 y WinSize=0.<ul>
+<li><a href="https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/">Flood network with random MAC addresses with macof tool</a></li>
+<li><a href="http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html">&lsquo;itsoknoproblembro&rsquo; Toolkit - The Beast that Beat Banks</a></li>
+<li><a href="https://www.htcia.org/">HTCIA | High Technology Crime Investigation Association</a></li>
+</ul>
+</li>
+<li><a href="http://www.telerik.com/fiddler">Fiddler complementa muy bien a las devtools de Firefox ó Chrome (F12 key) para capturar y analizar trazas de tráfico HTTP. Alternativa a Wireshark para HTTP Network Forensics.</a><ul>
+<li><a href="http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones">Fiddler, un proxy para depurar aplicaciones</a></li>
+</ul>
+</li>
+<li><a href="http://www.tribelabzero.com/temp/tl_resources.html">TRANSUM es un plugin dissector para Wireshark que añade información de tiempo de respuesta a los paquetes de petición de servicio para diferentes protocolos.</a><ul>
+<li><a href="http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html">Wireshark Transum Quickstart (by Tony Fortunato)</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="voip"><a name="user-content-voip" href="#voip" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>VoIP</h2>
+<ul>
+<li><a href="http://it.toolbox.com/blogs/voip-news/voip-planning-calculate-your-bandwidth-before-adding-sip-trunk-service-66093">VoIP Planning: Calculate Your Bandwidth Before Adding SIP Trunk Service</a></li>
+<li><a href="http://it.toolbox.com/blogs/voip-news/the-importance-of-voip-voice-quality-65970">The Importance of VoIP Voice Quality</a></li>
+<li><a href="http://it.toolbox.com/blogs/voip-news/10-key-voip-trends-to-track-in-2015-66121">10 Key VoIP Trends to Track in 2015</a></li>
+<li><a href="http://it.toolbox.com/blogs/voip-news/the-power-of-voip-in-disaster-recovery-66205">The Power of VoIP in Disaster Recovery</a></li>
+<li><a href="http://it.toolbox.com/blogs/voip-news/implementing-a-successful-voip-system-66450">Implementing A Successful VoIP System</a></li>
+<li><a href="http://it.toolbox.com/blogs/voip-news/hosted-vs-sip-and-pbx-which-is-best-for-your-business-66697">Hosted vs SIP and PBX: Which is best for your Business?</a><ul>
+<li><a href="http://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/">Reddit: Hosted VoIP/PBX Suggestions. Moving FreePBX/Asterisk/3CX to the Cloud</a></li>
+</ul>
+</li>
+<li><a href="https://www.edgewaternetworks.com/2015/05/understanding-the-key-differences-between-esbcs-and-firewalls/">Understanding the Key Differences between ESBCs and Firewalls?</a></li>
+</ul>
+<h2 id="wifi-security"><a name="user-content-wifi-security" href="#wifi-security" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>WiFi security</h2>
+<ul>
+<li><a href="https://ghostpath.com/blog/ssid-analyzing-the-1000-most-common-wi-fi-network-names/">Analyzing the 1000 Most Common Wi-Fi Network Names</a></li>
+<li><a href="https://www.ubnt.com">Ubiquiti Networks</a></li>
+<li><a href="http://www.arubanetworks.com">Aruba Networks</a></li>
+</ul>
+<h2 id="webperf-and-resilient-networking-planning-for-failure"><a name="user-content-webperf-and-resilient-networking-planning-for-failure" href="#webperf-and-resilient-networking-planning-for-failure" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>WebPerf and Resilient Networking: Planning for Failure</h2>
+<ul>
+<li><a href="https://www.igvita.com/2015/01/26/resilient-networking/">WebPerf &amp; Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization</a><ul>
+<li><a href="http://www.html5rocks.com/en/tutorials/service-worker/introduction/">HTML5: Introduction to Service Worker</a></li>
+</ul>
+</li>
+<li><a href="http://www.hackplayers.com/2015/10/10-emuladores-wan-para-que-pruebes.html">10 emuladores WAN para que pruebes distintas condiciones de red</a></li>
+<li><a href="https://newfly.wordpress.com/">NEWfly, Redes Cisco y Packet Tracker: Network, ejercicios Packet Tracer y simulación de vuelo</a></li>
+</ul>
+<h1 id="servers-storage-and-backup"><a name="user-content-servers-storage-and-backup" href="#servers-storage-and-backup" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Servers, Storage and Backup</h1>
+<h2 id="dell"><a name="user-content-dell" href="#dell" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Dell</h2>
+<ul>
+<li><a href="http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-r930-server">Nuevo PowerEdge R930: innovación y potencia x86 para migrar plataformas UNIX con software empresarial</a></li>
+<li><a href="http://www.dell.com/es/empresas/p/poweredge-r930/pd?~ck=anav">Dell PowerEdge R930</a></li>
+<li><a href="http://www.infotechlead.com/networking/dell-launches-entry-level-servers-for-smbs-36295">Dell launches PowerEdge entry-level servers for SMBs</a></li>
+</ul>
+<h2 id="hp"><a name="user-content-hp" href="#hp" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>HP</h2>
+<ul>
+<li><a href="http://www.itwire.com/business-it-news/hardware-and-storage/67312-hp-releases-new-servers-and-storage-for-smes">HP releases new servers and storage for SMEs</a></li>
+<li><a href="http://www.crn.com/news/storage/300077656/hp-intros-new-storevirtual-based-hyper-converged-infrastructure-appliance.htm">HP Intros New StoreVirtual-Based Hyper-Converged Infrastructure Appliance</a></li>
+<li><a href="http://www.bitcon.be/?p=3093">HP’s hyper-converged portfolio grows: meet the CS250-HC</a></li>
+</ul>
+<h2 id="raid-disks"><a name="user-content-raid-disks" href="#raid-disks" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>RAID disks</h2>
+<ul>
+<li><a href="http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/">Practical RAID Choices for Spindle Based Arrays</a></li>
+<li><a href="http://blog.seagate.com/business/can-i-use-a-desktop-hard-drive-in-my-storage-array/">Can I use a desktop hard drive in my storage array?</a></li>
+</ul>
+<h2 id="remote-pc-access"><a name="user-content-remote-pc-access" href="#remote-pc-access" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Remote PC Access</h2>
+<ul>
+<li><a href="http://www.storagecraft.com/blog/alternatives-logmein-remote-pc-access/">Alternatives to LogMeIn for Remote PC Access</a></li>
+<li><a href="http://guac-dev.org/">Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP</a></li>
+<li><a href="https://www.nomachine.com/">Nomachine</a></li>
+<li><a href="http://x2go.org">X2Go</a></li>
+</ul>
+<h2 id="storage"><a name="user-content-storage" href="#storage" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Storage</h2>
+<ul>
+<li><a href="http://qloudea.com/blog/evento-synology-2015-madrid/">Presentación Synology 2015 Evento Madrid</a><ul>
+<li><a href="http://forum.synology.com">Forum.synology.com</a></li>
+<li><a href="https://www.synology.com/en-uk/dsm/app_packages">Synology Add-on Packages</a></li>
+<li><a href="https://www.synology.com/en-uk/company/case_study/somersault">Synology Case Study: Somersault Productions</a></li>
+<li><a href="https://www.synology.com/en-uk/company/case_study/Bridges_Electrical">Synology Case Study: Bridges Electrical Engineers</a></li>
+<li><a href="http://qloudea.com/blog/synology-ds3615xs-lanzamiento/">Lanzamiento Synology DS3615xs</a></li>
+<li><a href="https://www.synology.com/en-uk/products/RS18016xs+">Synology RackStation RS18016xs+</a></li>
+<li><a href="https://www.synology.com/es-es/products/RS815+">Synology RS815+ NAS</a></li>
+<li><a href="http://qloudea.com/blog/review-synology-ds214play/">Synology DS214Play Revisión a fondo</a></li>
+<li><a href="http://www.itpro.co.uk/storage/23990/synology-diskstation-ds3615xs-review">Synology DiskStation DS3615xs review</a></li>
+</ul>
+</li>
+<li><a href="http://www.pcadvisor.co.uk/test-centre/pc-peripheral/12-best-nas-drives-2015-2016-uk-3217608/">12 best NAS drives 2015/2016 UK: What&rsquo;s the best network storage you can buy in the UK?</a></li>
+<li><a href="http://searchdatacenter.techtarget.com/feature/Rethinking-data-center-components-as-commodities">Soluciones de almacenamiento Flash Array basadas en Dell y en Supermicro</a></li>
+<li><a href="http://www.infostor.com/disk-arrays/all-flash-buying-guide.html">All Flash Buying Guide</a></li>
+</ul>
+<h2 id="backup"><a name="user-content-backup" href="#backup" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Backup</h2>
+<ul>
+<li><a href="https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd">6 Steps to Better Data Backup and Quicker Recovery</a><ul>
+<li><a href="http://www.vaultize.com/blog/3-ways-to-ensure-100-percent-secure-enterprise-file-sharing">3 Ways To Ensure 100 Percent Secure Enterprise File Sharing</a></li>
+</ul>
+</li>
+<li><a href="http://www.storagecraft.com/blog/best-practices-for-linux-backup-every-administrator-should-know/">Best Practices for Linux Backup Every Administrator Should Know</a></li>
+<li><a href="https://www.synology.com/en-us/dsm/data_backup">Synology Data Backup</a><ul>
+<li><a href="https://youtu.be/YeMoCDxZYDU?list=PLbeBr03sf2pUuYdoZCwJQ5oGvFhIMvAWM">Synology RC18015xs+ and Snapshot Manager at Computex 2015</a></li>
+<li><a href="http://qloudea.com/blog/automatiza-tus-backups-con-rsync-en-synology/">Automatiza tus backups con rsync en Synology NAS - Qloudea Blog</a></li>
+</ul>
+</li>
+<li><a href="http://bash.cyberciti.biz/backup/rsnapshot-remote-mysql-backup-shell-script/">rsnapshot Remote MySQL Backup Shell Script</a><ul>
+<li><a href="http://rsnapshot.org/">rsnapshot.org, filesystem snapshot</a></li>
+</ul>
+</li>
+<li><a href="http://www.datamation.com/data-center/moving-from-tape-to-disk-backup-with-data-deduplication.html">Moving from Tape to Disk Backup with Data Deduplication</a></li>
+<li><a href="http://www.virtualtothecore.com/en/you-need-deduplication-to-do-disk-backup-really/">You need deduplication to do disk backup! Really?</a></li>
+<li><a href="http://www.cwps.com/blog/top-5-benefits-of-online-backup">Top 5 Benefits of Online Backup</a></li>
+<li><a href="https://www.infrascale.com/">Infrascale: Cloud Disaster Recovery. Is it time to breakup with your backup?</a></li>
+<li><a href="http://storageswiss.com/2015/03/19/bacula-enterprise-changing-the-definition/">Bacula Enterprise is changing the definition of Open-source Backup Software</a></li>
+<li><a href="http://www.bareos.com/en/">Bareos open source data protection</a></li>
+<li><a href="http://community.netapp.com/t5/Technology/Metricon-Reduces-Backup-Time-by-80-with-NetApp-SteelStore/ba-p/102486">Metricon Reduces Backup Time by 80% with NetApp SteelStore</a></li>
+<li><a href="http://www.networksasia.net/article/dell-software-adds-encryption-rest-capabilities-updated-deduplication-appliances.1430791085/">Dell Software adds encryption at rest capabilities to updated deduplication appliances</a><ul>
+<li><a href="http://software.dell.com/solutions/deduplication-appliances/">Dell Deduplication Backup and Recovery Appliances</a></li>
+<li><a href="http://www.dell.com/us/business/p/dell-software-dr4100-disk-backup-appliance/pd">Dell DR4100 Disk Backup Appliance</a></li>
+</ul>
+</li>
+<li><a href="http://www.veeam.com/endpoint-backup-free.html">Veeam Endpoint Backup Free for desktops and laptops</a><ul>
+<li><a href="https://www.youtube.com/watch?v=05dkQnhY9qo">VMWare ESXi 5.1 (Free) Easily backup your Virtual Machines using Veeam Backup &amp; Replication (Free)</a></li>
+<li><a href="https://www.youtube.com/watch?v=8xiucXOinqw">Architecture and Deployment Deep Dive Veeam Backup &amp; Replication v7</a></li>
+<li><a href="https://www.linkedin.com/pulse/libro-sobre-veeam-backup-xavier-genestós-josep-ros">Libro sobre Veeam Backup, by Xavier Genestós</a></li>
+<li><a href="https://www.veeam.com/blog/announcing-linux-server-backup.html">Announcing: Veeam Backup for Linux</a></li>
+</ul>
+</li>
+<li><a href="https://www.vembu.com/blog/vembu-supports-amazon-glacier">Vembu Online Backup supports Amazon Glacier</a></li>
+</ul>
+<h1 id="cloud"><a name="user-content-cloud" href="#cloud" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Cloud</h1>
+<h2 id="development-environments-in-the-cloud"><a name="user-content-development-environments-in-the-cloud" href="#development-environments-in-the-cloud" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Development environments in the Cloud</h2>
+<ul>
+<li><a href="https://c9.io/">Cloud9</a></li>
+<li><a href="https://koding.com/">Koding</a></li>
+<li><a href="https://codio.com/">Codio</a></li>
+<li><a href="https://www.nitrous.io/">Nitrous</a></li>
+<li><a href="https://runnable.io/">Runnable</a></li>
+<li><a href="https://floobits.com/">Floobits</a></li>
+</ul>
+<h2 id="cloud-references"><a name="user-content-cloud-references" href="#cloud-references" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Cloud references</h2>
+<ul>
+<li><a href="http://www.businessinsider.com/why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10">The cloud wars explained: Why nobody can catch up with Amazon</a></li>
+<li><a href="https://sysadmincasts.com/episodes/29-introduction-to-amazon-web-services-aws">Sysadmincasts.com: Introduction to Amazon Web Services (AWS)</a></li>
+<li><a href="https://serversforhackers.com/amazon-rds">Amazon RDS</a></li>
+<li><a href="https://www.reddit.com/r/aws/comments/277zli/size_of_your_aws_infrastructure_and_who_manages/">reddit: Size of your AWS infrastructure and who manages it/how it&rsquo;s managed</a></li>
+<li><a href="http://cloudacademy.com/blog/disadvantages-of-cloud-computing/">Disadvantages of Cloud Computing</a></li>
+</ul>
+<h2 id="cloud-pricing"><a name="user-content-cloud-pricing" href="#cloud-pricing" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Cloud Pricing</h2>
+<ul>
+<li><a href="http://www.ec2instances.info/">EC2Instances.info Easy Amazon EC2 Instance Comparison</a><ul>
+<li><a href="http://calculator.s3.amazonaws.com/index.html">Amazon&rsquo;s AWS simple monthly calculator</a></li>
+</ul>
+</li>
+<li><a href="https://cloud.google.com/products/calculator/">Google Cloud Platform Pricing Calculator</a></li>
+<li><a href="http://azure.microsoft.com/en-us/pricing/calculator/">Azure Pricing Calculator</a></li>
+<li><a href="https://www.linode.com/pricing">Linode pricing calculator</a></li>
+</ul>
+<h2 id="aws-reinvent-2015"><a name="user-content-aws-reinvent-2015" href="#aws-reinvent-2015" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>AWS re:Invent 2015</h2>
+<ul>
+<li><a href="http://www.siliconweek.es/data-storage/business-intelligence/festin-de-novedades-en-reinvent-2015-89129">Festín de novedades en re:Invent 2015</a></li>
+<li><a href="https://aws.amazon.com/es/new/">What&rsquo;s New from Amazon Web Services</a></li>
+<li><a href="https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf">AWS Well Architected Framework</a></li>
+<li><a href="https://www.youtube.com/watch?v=y-0Wf2Zyi5Q">AWS re:Invent 2015 Keynote | Werner Vogels</a><ul>
+<li><a href="https://www.youtube.com/watch?v=D5-ifl7KJ00">AWS re:Invent 2015 Keynote | Andy Jassy</a></li>
+</ul>
+</li>
+<li><a href="http://www.zdnet.com/article/aws-reinvent-five-takeaways-on-new-services/">AWS re:Invent: Five takeaways on Amazon&rsquo;s new cloud services</a></li>
+<li><a href="http://www.zdnet.com/article/amazon-web-services-big-data-analytics-enterprise-datacenters/">Amazon Web Services gets serious about big data analytics with bevy of new services</a></li>
+<li><a href="https://aws.amazon.com/es/quicksight/">Amazon QuickSight: Fast, easy to use, in-memory, Cloud BI service for everyone in an organization (not only technical people). It is 1/10 the cost of traditional BI tools</a></li>
+<li><a href="http://oak.ctx.ly/r/3tfr7">Revealed at AWS re:Invent: Amazon Kinesis Firehose - easily load streaming data into Amazon S3 &amp; Amazon RedShift</a></li>
+<li><a href="https://aws.amazon.com/es/streaming-data/">What is Streaming Data?</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/amazon-rds-update-mariadb-is-now-available">Amazon RDS Update – MariaDB is Now Available</a></li>
+<li><a href="http://aws.amazon.com/es/dms/">AWS Database Migration Service with AWS Schema Conversion Tool</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/aws-importexport-snowball-transfer-1-petabyte-per-week-using-amazon-owned-storage-appliances/">AWS Import/Export Snowball – Transfer 1 Petabyte Per Week Using Amazon-Owned Storage Appliances</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/category/aws-web-application-firewall/">AWS Web Application Firewall</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/aws-config-rules-dynamic-compliance-checking-for-cloud-resources/">AWS Config Rules – Dynamic Compliance Checking for Cloud Resources</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/amazon-inspector-automated-security-assessment-service">Amazon Inspector – Automated Security Assessment Service</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/coming-soon-ec2-dedicated-hosts">Coming Soon – EC2 Dedicated Hosts</a></li>
+<li><a href="http://aws.amazon.com/es/device-farm">AWS Device Farm Pruebe su aplicación en dispositivos reales en la nube de AWS. Mejore la calidad de sus aplicaciones iOS, Android y Fire OS al probarlas en smartphones y tablets reales en la nube de AWS</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/ec2-instance-update-x1-sap-hana-t2-nano-websites">EC2 Instance Update – X1 (SAP HANA) &amp; T2.Nano (Websites)</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/ec2-container-service-update-container-registry-ecs-cli-az-aware-scheduling-and-more">EC2 Container Service Update – Container Registry, ECS CLI, AZ-Aware Scheduling, and More</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/cloudwatch-dashboards-create-use-customized-metrics-views">CloudWatch Dashboards – Create &amp; Use Customized Metrics Views</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more">AWS Lambda Update – Python, VPC, Increased Function Duration, Scheduling, and More</a></li>
+<li><a href="http://techcrunch.com/2015/10/08/amazon-launches-aws-mobile-hub-to-help-mobile-developers-build-back-end-processes/">Amazon Launches AWS Mobile Hub To Help Mobile Developers Build Back-End Processes</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/aws-iot-cloud-services-for-connected-devices">AWS IoT – Cloud Services for Connected Devices</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications">AWS Mobile Hub – Build, Test, and Monitor Mobile Applications</a></li>
+</ul>
+<h2 id="aws-official-blog-aws-labs-aws-quick-start"><a name="user-content-aws-official-blog-aws-labs-aws-quick-start" href="#aws-official-blog-aws-labs-aws-quick-start" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>AWS Official Blog, AWS Labs, AWS Quick Start</h2>
+<ul>
+<li><a href="http://blogs.aws.amazon.com/">AWS Official Blog</a></li>
+<li><a href="https://github.com/awslabs">AWS Labs GitHub</a></li>
+<li><a href="http://aws.amazon.com/es/quickstart/">AWS Quick Start Reference Deployments</a><ul>
+<li><a href="https://github.com/awslabs/aws-quickstart">AWS Quick Start - GitHub</a></li>
+</ul>
+</li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/">InfoWorld Review – Amazon Aurora Rocks MySQL</a></li>
+</ul>
+<h3 id="aws-new-features"><a name="user-content-aws-new-features" href="#aws-new-features" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>AWS New features</h3>
+<ul>
+<li><a href="https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/">Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2</a></li>
+<li><a href="https://aws.amazon.com/es/blogs/aws/new-encrypted-ebs-boot-volumes">New – Encrypted EBS Boot Volumes</a></li>
+</ul>
+<h3 id="aws-devops"><a name="user-content-aws-devops" href="#aws-devops" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>AWS DevOps</h3>
+<ul>
+<li><a href="https://blogs.aws.amazon.com/application-management/">AWS DevOps Blog</a></li>
+<li><a href="https://blogs.aws.amazon.com/application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy">Setting Up the Jenkins Plugin for AWS CodeDeploy</a></li>
+<li><a href="https://blogs.aws.amazon.com/application-management/post/TxYSRRBH57NP2P/Continuous-Delivery-for-a-PHP-Application-Using-AWS-CodePipeline-AWS-Elastic-Bea">Continuous Delivery for a PHP Application Using AWS CodePipeline, AWS Elastic Beanstalk, and Solano Labs</a></li>
+</ul>
+<h3 id="aws-security"><a name="user-content-aws-security" href="#aws-security" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>AWS Security</h3>
+<ul>
+<li><a href="http://blogs.aws.amazon.com/security">AWS Security Blog</a></li>
+<li><a href="http://blogs.aws.amazon.com/security/post/Tx1LPI2H6Q6S5KC/How-to-Automatically-Update-Your-Security-Groups-for-Amazon-CloudFront-and-AWS-W">How to Automatically Update Your Security Groups for Amazon CloudFront and AWS WAF by Using AWS Lambda (boto3 python)</a></li>
+</ul>
+<h2 id="aws-partner-network-apn"><a name="user-content-aws-partner-network-apn" href="#aws-partner-network-apn" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>AWS Partner Network (APN)</h2>
+<ul>
+<li><a href="https://aws.amazon.com/partners/">AWS Partner Network</a><ul>
+<li><a href="https://aws.amazon.com/partners/technology/">APN Technology Partners</a></li>
+<li><a href="https://aws.amazon.com/partners/consulting/">APN Consulting Partners</a></li>
+</ul>
+</li>
+<li><a href="https://aws.amazon.com/es/blogs/apn/">AWS Partner Network (APN) blog</a><ul>
+<li><a href="https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium">Active Directory Single Sign-On (SSO) on AWS with Bitium</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="aws-startup-collection-for-startups-building-on-aws"><a name="user-content-aws-startup-collection-for-startups-building-on-aws" href="#aws-startup-collection-for-startups-building-on-aws" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>AWS Startup Collection. For startups building on AWS</h2>
+<ul>
+<li><a href="https://medium.com/aws-activate-startup-blog/bitmovin-improving-video-quality-on-the-web-8670039c4334">bitmovin: Improving Video Quality on the Web</a></li>
+<li><a href="https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228">What Startups Should Know about Amazon VPC — Part 1</a></li>
+</ul>
+<p><img alt="Amazon's share price over the last 8 years" src="///C://Users/I%C3%B1aki/Documents/GitHub/awesome-tech/docs/images/amazon-nasdaq.jpeg" /></p>
+<h1 id="e-learning"><a name="user-content-e-learning" href="#e-learning" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>E-Learning</h1>
+<h2 id="udemy-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code"><a name="user-content-udemy-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code" href="#udemy-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code</h2>
+<ul>
+<li><a href="https://www.udemy.com/scrum-methodology/">Basics of Scrum, Agile and Project Delivery</a></li>
+<li><a href="https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/">Red Hat Certified System Administrator - Exam EX200 - RHCSA</a><ul>
+<li><a href="https://www.udemy.com/draft/19966/">Learn To Run Linux Servers From Scratch (LPI Level 1-101)</a></li>
+<li><a href="https://www.udemy.com/linuxacademy2/">Learn To Run Linux Servers Part 2 (LPI Level 1-102)</a></li>
+</ul>
+</li>
+<li><a href="https://www.udemy.com/learning-puppet/">Learning Puppet</a></li>
+<li><a href="https://www.udemy.com/git-complete">Git Complete: The definitive, step-by-step guide to Git</a><ul>
+<li><a href="https://www.udemy.com/git-bash/">Command Line Essentials: Git Bash for Windows (free)</a></li>
+<li><a href="https://www.udemy.com/git-going-fast/">Git Going Fast: One Hour Git Crash Course (free)</a></li>
+<li><a href="https://www.udemy.com/vagrant-up/">Vagrant Up! Comprehensive development system automation</a></li>
+</ul>
+</li>
+<li><a href="https://www.udemy.com/oracle-weblogic-12c-for-administrators/">Oracle WebLogic 12c for Administrators</a></li>
+<li><a href="https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20">Learn Database Design using PostgreSQL</a></li>
+<li><a href="https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&amp;dtcode=wmOZ6Dq2WrKO&amp;couponCode=qa10">Learn Software Testing from Scratch</a></li>
+<li><a href="https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/?couponCode=SPARK15">Taming Big Data with Apache Spark - Hands On!</a></li>
+<li><a href="https://www.udemy.com/zabbix-network-monitoring-essentials/">Zabbix Network Monitoring Essentials</a></li>
+<li><a href="https://www.udemy.com/sensu-introduction/">Sensu - Introduction (free, alternative to Zabbix, Icinga &amp; Nagios)</a></li>
+<li><a href="https://www.udemy.com/wireshark-crash-course/">Wireshark Crash Course</a><ul>
+<li><a href="https://www.udemy.com/penetration-testing/?couponCode=PA9">The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="alternatives"><a name="user-content-alternatives" href="#alternatives" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Alternatives</h2>
+<ul>
+<li><a href="https://acloud.guru">A Cloud Guru, AWS Certification Courses (available in Udemy)</a></li>
+<li><a href="https://databricks.com/blog/2014/12/02/announcing-two-spark-based-moocs.html">Databricks to run two massive online courses on Apache Spark</a><ul>
+<li><a href="https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs100-1x-introduction-big-6181">Introduction to Big Data with Apache Spark</a></li>
+<li><a href="https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs190-1x-scalable-machine-6066">Scalable Machine Learning</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/user/INEtraining/playlists">INE.com training videos (free): Wireshark, vSphere 6.0, CCNA, MPLS, BGP, etc</a></li>
+<li><a href="https://training.linuxfoundation.org/free-linux-training/download-training-materials">training.linuxfoundation.org: Free Linux Training Publications</a></li>
+<li><a href="http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/">Red Hat Training announces new way to train: Video Classroom</a></li>
+<li><a href="http://www.lynda.com/Databases-training-tutorials/">Lynda.com Databases</a></li>
+<li><a href="http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/">Typing, una web para que los programadores practiquen</a></li>
+</ul></article></body></html>
