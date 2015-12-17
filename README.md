@@ -1,10 +1,11 @@
 # Awesome Tech
-A curated list of awesome IT projects and resources collected between 2014 and 2015. Inspired by [awesome sysadmin](https://github.com/kahun/awesome-sysadmin).
+A curated list of awesome IT projects and resources collected between 2014 and 2015.
 
 - [Awesome Tech](/docs/index.md)
 - [Awesome Tech at readthedocs.org](http://awesome-tech.readthedocs.org)
 
 # Inspired by
+- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [awesome docker](https://github.com/veggiemonk/awesome-docker)
 - [awesome big data](https://github.com/onurakpolat/awesome-bigdata)
 - [awesome django](https://gitlab.com/rosarior/awesome-django)
