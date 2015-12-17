@@ -30,6 +30,8 @@
 	- [Apache and Tomcat](#apache-and-tomcat)
 	- [Nginx](#nginx)
 	- [WebLogic](#weblogic)
+		- [WebLogic and Oracle Blogs](#weblogic-and-oracle-blogs)
+		- [WebLogic Resources](#weblogic-resources)
 	- [JBoss (WildFly)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
 		- [JBoss Resources](#jboss-resources)
@@ -54,6 +56,8 @@
 	- [Docker](#docker)
 		- [Microservices](#microservices)
 		- [Docker references](#docker-references)
+		- [MySQL via Docker](#mysql-via-docker)
+		- [WebLogic via Docker](#weblogic-via-docker)
 - [DevOps](#devops)
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
@@ -337,8 +341,8 @@
 ## Apache and Tomcat
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
 - [How to set up a cluster with Tomcat 8, Apache and mod_jk.Tomcat Performance Monitoring and Tuning](http://blog.c2b2.co.uk/2014/05/tomcat-performance-monitoring-and-tuning.html)
-- [middlewaresnippets.blogspot.com.es - Working with Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/05/working-with-apache-http-server.html)
-	- [middlewaresnippets.blogspot.com.es - Working some more with Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/09/working-some-more-with-apache-http.html)
+- [middlewaresnippets.blogspot.com - Working with Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/05/working-with-apache-http-server.html)
+	- [middlewaresnippets.blogspot.com - Working some more with Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/09/working-some-more-with-apache-http.html)
 
 ## Nginx
 - [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
@@ -346,12 +350,20 @@
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
 ## WebLogic
+### WebLogic and Oracle Blogs
+- [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
+- [multikoop.blogspot.com - Practical experience on Oracle products. WebLogic, ADF, MAF, SOA, WebCenter, JDeveloper, Oracle Cloud](http://multikoop.blogspot.com)
+	- [multikoop.blogspot.com - WebLogic](http://multikoop.blogspot.com/search/label/weblogic)
+- [avanttic blog](http://blog.avanttic.com/)
+	- [avanttic blog - weblogic](http://blog.avanttic.com/tag/weblogic/)
+
+### WebLogic Resources
 - [SlideShare - 12 Things You Should Know About WebLogic Server 12.2.1](http://www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015)
-- [middlewaresnippets.blogspot.com.es - WebLogic Server on Linux 7](http://middlewaresnippets.blogspot.com.es/2015/04/weblogic-server-on-linux-7.html)
-	- [middlewaresnippets.blogspot.com.es - WebLogic Domain Partitioning](http://middlewaresnippets.blogspot.com.es/2015/11/weblogic-domain-partitioning.html)
-	- [middlewaresnippets.blogspot.com.es - Monitoring Domain Partitions](http://middlewaresnippets.blogspot.com.es/2015/11/monitoring-domain-partitions.html)
-	- [middlewaresnippets.blogspot.com.es - Deploying Applications to Domain Partitions](http://middlewaresnippets.blogspot.com.es/2015/11/deploying-applications-to-domain.html)
-	- [middlewaresnippets.blogspot.com.es - Security Recovery - LDAP server](http://middlewaresnippets.blogspot.com.es/2015/07/security-recovery.html)
+- [middlewaresnippets.blogspot.com - WebLogic Server on Linux 7](http://middlewaresnippets.blogspot.com/2015/04/weblogic-server-on-linux-7.html)
+	- [middlewaresnippets.blogspot.com - WebLogic Domain Partitioning](http://middlewaresnippets.blogspot.com/2015/11/weblogic-domain-partitioning.html)
+	- [middlewaresnippets.blogspot.com - Monitoring Domain Partitions](http://middlewaresnippets.blogspot.com/2015/11/monitoring-domain-partitions.html)
+	- [middlewaresnippets.blogspot.com - Deploying Applications to Domain Partitions](http://middlewaresnippets.blogspot.com/2015/11/deploying-applications-to-domain.html)
+	- [middlewaresnippets.blogspot.com - Security Recovery - LDAP server](http://middlewaresnippets.blogspot.com/2015/07/security-recovery.html)
 - [blogs.oracle.com - WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
 - [Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
 - [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
@@ -360,11 +372,11 @@
 ### JBoss Blogs
 - [JBoss Developer](https://developer.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
-- [middlewaresnippets.blogspot.com.es](http://middlewaresnippets.blogspot.com.es)
+- [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
 - [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)
 
 ### JBoss Resources
-- [middlewaresnippets.blogspot.com.es - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com.es/2014/07/wildflying-java-ee-7.html)
+- [middlewaresnippets.blogspot.com - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com/2014/07/wildflying-java-ee-7.html)
 - [developerblog.redhat.com - JBoss on Docker At a Glance](http://developerblog.redhat.com/2015/01/14/jboss-on-docker-at-a-glance/)
 - [C2B2Consulting - JBoss EAP 6: installation, configuration & clustering](http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar)
 - [dzone.com - Red Hat JBoss Fuse Workshop 101: Fuse in EAP](https://dzone.com/articles/red-hat-jboss-fuse-workshop-101-fuse-in-eap)
@@ -461,10 +473,10 @@
 - [slideshare.net: Debugging ansible modules](http://www.slideshare.net/aleonhardt/debugging-ansible-modules)
 
 ### Apache via Ansible
-- [middlewaresnippets.blogspot.com.es - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com.es/2015/08/ansible-apache-http-server.html)
+- [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
 
 ### WebLogic via Ansible
-- [middlewaresnippets.blogspot.com.es - set-up Oracle WebLogic Server environment with Ansible (3 hosts, one control node and two managed nodes)](http://middlewaresnippets.blogspot.com.es/2015/03/fun-with-ansible.html)
+- [middlewaresnippets.blogspot.com - set-up Oracle WebLogic Server environment with Ansible (3 hosts, one control node and two managed nodes)](http://middlewaresnippets.blogspot.com/2015/03/fun-with-ansible.html)
 - [blogs.oracle.com - Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7 by Christos Vezalis](https://blogs.oracle.com/emeapartnerweblogic/entry/ansible_playbook_to_provision_a)
 	- [Ansible Playbook: install and configure WebLogic server 12c with Oracle Fusion Middleware in RHEL7](https://github.com/cvezalis/weblogic-ansible)
 	- [Ansible playbook: deploy and create a WebLogic 12c R2 Domain with Oracle Fusion Middleware](https://github.com/cvezalis/ansible-weblogic-fmw-infra-12c-R2)
@@ -475,7 +487,7 @@
 - [Example Ansible playbook that uses the MySQL module](https://github.com/ansible/ansible-examples/blob/master/language_features/mysql.yml)
 - [Ansible and Loading MySQL Databases Part I](https://opensourcedba.wordpress.com/2015/07/14/ansible-and-loading-mysql-databases-part-i/)
 	- [Ansible and Loading MySQL Databases Part II](https://opensourcedba.wordpress.com/2015/07/29/ansible-and-loading-mysql-databases-part-ii/)
-- [middlewaresnippets.blogspot.com.es - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com.es/2015/06/more-fun-with-ansible.html)
+- [middlewaresnippets.blogspot.com - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com/2015/06/more-fun-with-ansible.html)
 
 ![Red Hat acquires Ansible](images/redhat-ansible.png)
 
@@ -497,7 +509,7 @@
 - [Setup WebLogic 12c environment with Vagrant and Puppet](http://multikoop.blogspot.com.br/2013/11/setup-weblogic-12c-environment-with.html)
 - [New Puppet 3 Weblogic provisioning module by Edwin Biemond](https://blogs.oracle.com/emeapartnerweblogic/entry/new_puppet_3_weblogic_provisioning)
 	- [puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module](https://forge.puppetlabs.com/biemond/wls)
-	- [middlewaresnippets.blogspot.com.es - Install and Configure a WebLogic Server Environment using Puppet](http://middlewaresnippets.blogspot.com.es/2015/03/install-and-configure-weblogic-server.html)
+	- [middlewaresnippets.blogspot.com - Install and Configure a WebLogic Server Environment using Puppet](http://middlewaresnippets.blogspot.com/2015/03/install-and-configure-weblogic-server.html)
 
 ## Red Hat Satellite, Katello and Foreman
 - [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
@@ -541,8 +553,13 @@
 - [Docker in Action - Fitter, Happier, More Productive](https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/)
 - [Docker for PHP Developers.Efficient Nginx, PHP, and MySQL development environments with Docker](http://www.newmediacampaigns.com/blog/docker-for-php-developers)
 - [DockerCon EU 2015 Videos: Use Cases](http://blog.docker.com/2015/12/dockercon-eu-2015-use-cases/)
-- [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
 - [Podcast: Docker & Puppet: Uniting Containers with Configuration Management](https://puppetlabs.com/podcasts/podcast-docker-puppet-combining-containers-configuration-management)
+
+### MySQL via Docker
+- [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
+
+### WebLogic via Docker
+- [multikoop.blogspot.com.es - WebLogic 12.2.1 on Docker](http://multikoop.blogspot.com.es/2015/12/weblogic-1221-on-docker.html)
 
 ![disruption cycle](images/disruption-cycle.png)
 
@@ -803,7 +820,7 @@
 - [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
 	- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
 	- [Análisis: cambios en la gestión de memoria de Java 8. Diferencias en distintas implementaciones de JVM](jvm-mem.md)
-- [middlewaresnippets.blogspot.com.es - Monitoring with JMX](http://middlewaresnippets.blogspot.com.es/2014/10/monitoring-with-jmx.html)
+- [middlewaresnippets.blogspot.com - Monitoring with JMX](http://middlewaresnippets.blogspot.com/2014/10/monitoring-with-jmx.html)
 
 ## Front-end: HTML5, javascript/node.js
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
