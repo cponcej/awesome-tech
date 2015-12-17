@@ -673,6 +673,8 @@
 	- [New Relic - Free Server Monitoring as a core feature of New Relic app management](https://blog.newrelic.com/2011/11/08/server-monitoring-is-here/)
 - [AppDynamics Application Intelligence Platform](http://www.appdynamics.com/product/)
 
+![newrelic apm](images/newrelic-apm.png)
+
 ### Centralized logging. Big Data Log Management Tools
 - [Devops and Log Management Tools Drive Agile IT](http://blog.xpolog.com/2014/04/17/devops-and-log-analysis-tools-drive-agile-it/)
 - [Splunk](http://www.splunk.com)
