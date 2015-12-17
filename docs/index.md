@@ -98,6 +98,7 @@
 	- [SQL](#sql)
 		- [SQL replication](#sql-replication)
 		- [NoSQL](#nosql)
+			- [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
 			- [Schema free SQL query on everything engines](#schema-free-sql-query-on-everything-engines)
 		- [NewSQL](#newsql)
 - [Networking](#networking)
@@ -942,6 +943,11 @@
 - [NoSQL Guide, by Martin Fowler](http://martinfowler.com/nosql.html)
 - [thoughtworks.com: NoSQL Databases, an overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 - [Diferencias entre SQL y NoSQL ¿Sabes cuál usar?](http://www.facilcloud.com/noticias/?p=1294&lang=es_ES)
+
+#### MongoDB Tools and MongoDB as a Service
+- [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
+	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
+- [MongoLab: Fully managed MongoDB-as-a-Service](https://mongolab.com/)
 
 #### Schema free SQL query on everything engines
 - [Apache Drill](https://drill.apache.org/)
