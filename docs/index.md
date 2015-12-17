@@ -1,4 +1,4 @@
-# Awesome Tech
+# Awesome Tech [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Table of Contents**  
 <!-- MarkdownTOC -->
@@ -502,6 +502,7 @@
 - [Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes](http://www.ansible.com/ansiblefest-videos-spark-central-sf15)
 
 ### Docker references
+- [Awesome Docker. A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
 - [Why Docker Could Revolutionize Enterprise Cloud Computing](https://www.linkedin.com/pulse/why-docker-could-revolutionize-enterprise-cloud-computing-andy-waroma)
 - [Adoption/popularity is the new king. The only constant is change! - puppet, chef, ansible, docker ](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
 - [DockerCon EU: Software Testing with Docker](http://thenewstack.io/software-testing-docker/)
@@ -731,7 +732,6 @@
 	- [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
 	- [LearnPython.org interactive Python tutorial](http://www.learnpython.org)
 	- [Awesome Python. A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python/)
-	- [Awesome PHP. A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
 	- [Awesome Django. A curated list of awesome Django apps, projects and resources](https://gitlab.com/rosarior/awesome-django)
 - [15 Essential Python Interview Questions](https://www.codementor.io/python/tutorial/essential-python-interview-questions)
 	- [Python mini-quiz](http://www.mypythonquiz.com/)
