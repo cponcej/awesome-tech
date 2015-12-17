@@ -234,6 +234,7 @@
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
 - [LinuxJournal](http://www.linuxjournal.com)
 - [Xmodulo - Linux FAQs, tips and tutorials](http://xmodulo.com)
+- [MyLinuxSoftware.com: A Linux Software Directory for GUI and Console Apps](http://www.mylinuxsoftware.com/)
 
 ## Linux Docs and Resources
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
@@ -244,6 +245,7 @@
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 - [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
 - [Linux: Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
+- [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
 - [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
@@ -306,9 +308,12 @@
 - [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
 
 ## Microsoft Monitoring and Management
-- [Spiceworks](http://www.spiceworks.com/app/)
+- [Spiceworks](http://www.spiceworks.com/)
 	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
 	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
+- [Unofficial Spiceworks. Spiceworks news and reviews from the underground...](http://www.unofficialspiceworks.com/)
+
+![spiceworks](images/spiceworks-logo.png)
 
 # WebApp
 ## HTTP/2
@@ -648,6 +653,8 @@
 - [pingdom.com webiste monitoring](https://www.pingdom.com/)
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
 
+![zabbix cookbook](images/zabbix-cookbook.jpg)
+
 ### APM: Application Performance Management
 - [APM Convergence: Monitoring vs. Management. APM is entering into a period of intense competition of technology and strategy with a multiplicity of vendors and viewpoints](http://apmdigest.com/apm-convergence-monitoring-vs-management)
 - [Performance management from the client's point of view](http://www.networkworld.com/article/2300639/data-center/performance-management-from-the-client-s-point-of-view.html)
@@ -689,6 +696,8 @@
 - [rsyslog, the rocket-fast system for logs processing](http://www.rsyslog.com/)
 - [Cloudlytics.com - Analytics for AWS Cloud Logs | CloudFront, CloudTrail, ELB & S3 Logs and Billing Analytics](https://www.cloudlytics.com/)
 - [Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools: Splunk Storm, Graylog, Sumlogic, Logentries, Papertrail](https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/)
+
+![logstash architecture](images/logstach-archi.png)
 
 # Software Development. Programming languages
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
@@ -933,6 +942,8 @@
 - [Disponible la 6ª generación de Dell SonicWALL TZ Series Firewalls con SonicOS 6.2. A tener en cuenta por Pymes interesadas en las nuevas conexiones de Internet para empresa (300 y 500Mbs)](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-sonic-wall-tz-series)
 - [SonicWALL Firewall vs. Fortinet Fortigate](http://www.firewalls.com/sonicwall_vs_fortigate)
 - [Dell Security Adds 50 Percent Rebate On SonicWall TZ And NSA Appliances](http://www.crn.com/news/channel-programs/300077951/dell-security-adds-50-percent-rebate-on-sonicwall-tz-and-nsa-appliances.htm)
+
+![Dell SonicWall TZ500 Management Monitor](images/Dell-SonicWall-TZ500-Management-Monitor.png)
 
 ## Network virtualization
 - [FOSS Network Functions Virtualization](https://www.opnfv.org)
