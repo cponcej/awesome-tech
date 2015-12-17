@@ -30,7 +30,7 @@
 	- [Apache and Tomcat](#apache-and-tomcat)
 	- [WebLogic](#weblogic)
 	- [Nginx](#nginx)
-	- [JBoss (WildFly)](#jboss-wildfly)
+	- [JBoss | WildFly](#jboss-|-wildfly)
 		- [Blogs](#blogs)
 		- [Resources](#resources)
 		- [Data Virtualization](#data-virtualization)
@@ -347,7 +347,7 @@
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
-## JBoss (WildFly)
+## JBoss | WildFly
 ### Blogs
 - [JBoss Developer](https://developer.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
