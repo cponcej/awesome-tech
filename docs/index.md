@@ -34,7 +34,7 @@
 		- [JBoss Blogs](#jboss-blogs)
 		- [JBoss Resources](#jboss-resources)
 		- [JBoss Data Virtualization](#jboss-data-virtualization)
-		- [Data Grid: Supercharge Your Applications with Intelligent, Distributed Caching](#data-grid-supercharge-your-applications-with-intelligent-distributed-caching)
+		- [JBoss Data Grid](#jboss-data-grid)
 	- [E-Mail](#e-mail)
 - [Security](#security)
 	- [Identity Management](#identity-management)
@@ -365,7 +365,7 @@
 ### JBoss Data Virtualization
 - [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
 
-### Data Grid: Supercharge Your Applications with Intelligent, Distributed Caching
+### JBoss Data Grid
 - [C2B2Consulting - JBoss Data Grid](http://www.c2b2.co.uk/jboss_data_grid)
 	- [C2B2Consulting - JBoss Data Grid: Webinar](http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1)
 	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
