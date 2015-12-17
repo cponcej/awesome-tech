@@ -66,7 +66,7 @@
 		- [Tools](#tools)
 		- [APM: Application Performance Management](#apm-application-performance-management)
 			- [APM Solutions](#apm-solutions)
-		- [Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)](#centralized-logging-big-data-log-management-tools-splunkxpolog-graylog2-etc)
+		- [Centralized logging. Big Data Log Management Tools](#centralized-logging-big-data-log-management-tools)
 - [Software Development. Programming languages](#software-development-programming-languages)
 	- [Domain driven design](#domain-driven-design)
 	- [API and Documentation Generators](#api-and-documentation-generators)
@@ -654,8 +654,11 @@
 	- [New Relic - Free Server Monitoring as a core feature of New Relic app management](https://blog.newrelic.com/2011/11/08/server-monitoring-is-here/)
 - [AppDynamics Application Intelligence Platform](http://www.appdynamics.com/product/)
 
-### Centralized logging. Big Data Log Management Tools (Splunk,XpoLog, GrayLog2, etc)
+### Centralized logging. Big Data Log Management Tools
 - [Devops and Log Management Tools Drive Agile IT](http://blog.xpolog.com/2014/04/17/devops-and-log-analysis-tools-drive-agile-it/)
+- [Splunk](http://www.splunk.com)
+- [XpoLog](http://www.xpolog.com/)
+- [GrayLog2 | Open Source Log Management](https://www.graylog.org/)
 - [Logstash | Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
 	- [Kibana | Explore & Visualize Your Data](https://www.elastic.co/products/kibana)
 	- [Nagios Log Server vs. Elasticsearch – Logstash – Kibana](http://labs.nagios.com/2014/10/19/nagios-log-server-vs-elasticsearch-logstash-kibana/)
