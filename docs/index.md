@@ -1074,6 +1074,8 @@
 	- [Announcing: Veeam Backup for Linux](https://www.veeam.com/blog/announcing-linux-server-backup.html)
 - [Vembu Online Backup supports Amazon Glacier](https://www.vembu.com/blog/vembu-supports-amazon-glacier)
 
+![veeam logo](images/veeam-logo.jpg)
+
 # Cloud
 
 ## Development environments in the Cloud
