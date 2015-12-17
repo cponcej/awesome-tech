@@ -659,6 +659,9 @@
 - [Splunk](http://www.splunk.com)
 - [XpoLog](http://www.xpolog.com/)
 - [GrayLog2 | Open Source Log Management](https://www.graylog.org/)
+- [Fluentd | Open Source Data Collector | Unified Logging Layer](http://www.fluentd.org/)
+	- [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
+	- [Fluentd and Graylog2 for End-to-End Log Analysis](http://www.fluentd.org/guides/recipes/graylog2)
 - [Logstash | Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
 	- [Kibana | Explore & Visualize Your Data](https://www.elastic.co/products/kibana)
 	- [Nagios Log Server vs. Elasticsearch – Logstash – Kibana](http://labs.nagios.com/2014/10/19/nagios-log-server-vs-elasticsearch-logstash-kibana/)
@@ -672,7 +675,6 @@
 	- [pyvideo.org - log everything with logstash and elasticsearch](http://pyvideo.org/video/3021/log-everything-with-logstash-and-elasticsearch)
 - [Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools: Splunk Storm, Graylog, Sumlogic, Logentries, Papertrail](https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/)
 - [rsyslog, the rocket-fast system for logs processing](http://www.rsyslog.com/)
-- [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
 - [Cloudlytics.com - Analytics for AWS Cloud Logs | CloudFront, CloudTrail, ELB & S3 Logs and Billing Analytics](https://www.cloudlytics.com/)
 - [Splunk feels the heat from stronger, cheaper open source rivals](http://www.infoworld.com/article/2610524/log-analysis/splunk-feels-the-heat-from-stronger--cheaper-open-source-rivals.html)
 
