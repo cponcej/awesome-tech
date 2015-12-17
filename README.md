@@ -13,5 +13,4 @@ A curated list of awesome IT projects and resources collected between 2014 and 2
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
 # Awesome Lists
-- [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [A curated list of awesome lists](https://github.com/sindresorhus/awesome)

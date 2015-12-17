@@ -11,6 +11,5 @@
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
 # Awesome Lists
-- [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
