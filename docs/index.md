@@ -30,10 +30,10 @@
 	- [Apache and Tomcat](#apache-and-tomcat)
 	- [WebLogic](#weblogic)
 	- [Nginx](#nginx)
-	- [JBoss. WildFly](#jboss-wildfly)
-		- [Blogs](#blogs)
-		- [Resources](#resources)
-		- [Data Virtualization](#data-virtualization)
+	- [JBoss (WildFly)](#jboss-wildfly)
+		- [JBoss Blogs](#jboss-blogs)
+		- [JBoss Resources](#jboss-resources)
+		- [JBoss Data Virtualization](#jboss-data-virtualization)
 		- [Data Grid: Supercharge Your Applications with Intelligent, Distributed Caching](#data-grid-supercharge-your-applications-with-intelligent-distributed-caching)
 	- [E-Mail](#e-mail)
 - [Security](#security)
@@ -347,14 +347,14 @@
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
-## JBoss. WildFly
-### Blogs
+## JBoss (WildFly)
+### JBoss Blogs
 - [JBoss Developer](https://developer.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
 - [middlewaresnippets.blogspot.com.es](http://middlewaresnippets.blogspot.com.es)
 - [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)
 
-### Resources
+### JBoss Resources
 - [middlewaresnippets.blogspot.com.es - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com.es/2014/07/wildflying-java-ee-7.html)
 - [developerblog.redhat.com - JBoss on Docker At a Glance](http://developerblog.redhat.com/2015/01/14/jboss-on-docker-at-a-glance/)
 - [C2B2Consulting - JBoss EAP 6: installation, configuration & clustering](http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar)
@@ -362,7 +362,7 @@
 - [youtube - 2014 Red Hat Summit: Red Hat JBoss Middleware keynote](https://youtu.be/XPK2RTqlBxk)
 - [youtube - Craig Muzilla delivers middleware keynote at 2015 Red Hat Summit](https://youtu.be/wWNVpFibayA)
 
-### Data Virtualization
+### JBoss Data Virtualization
 - [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
 
 ### Data Grid: Supercharge Your Applications with Intelligent, Distributed Caching
