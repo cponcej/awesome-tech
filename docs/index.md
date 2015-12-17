@@ -472,6 +472,8 @@
 	- [Ansible and Loading MySQL Databases Part II](https://opensourcedba.wordpress.com/2015/07/29/ansible-and-loading-mysql-databases-part-ii/)
 - [middlewaresnippets.blogspot.com.es - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com.es/2015/06/more-fun-with-ansible.html)
 
+![Red Hat acquires Ansible](images/redhat-ansible.png)
+
 ## Puppet
 - [sysadmincasts.com: Learning Puppet with Vagrant](http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant)
 	- [Sysadmincasts.com: Git to Puppet Deployment Workflow](https://sysadmincasts.com/episodes/33-git-to-puppet-deployment-workflow)
