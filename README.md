@@ -15,3 +15,5 @@ A curated list of awesome IT projects and resources collected between 2014 and 2
 
 # Awesome Lists
 - [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+:smiley:
