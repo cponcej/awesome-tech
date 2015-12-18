@@ -357,6 +357,9 @@
 
 ## WebLogic
 ### WebLogic and Oracle Blogs
+- [Oracle Middleware Blog](http://oraclemiddlewareblog.com/)
+- [Oracle Community](https://community.oracle.com)
+	- [Oracle Community - WebLogic](https://community.oracle.com/community/fusion_middleware/weblogic)
 - [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
 - [multikoop.blogspot.com - Practical experience on Oracle products. WebLogic, ADF, MAF, SOA, WebCenter, JDeveloper, Oracle Cloud](http://multikoop.blogspot.com)
 	- [multikoop.blogspot.com - WebLogic](http://multikoop.blogspot.com/search/label/weblogic)
@@ -364,6 +367,7 @@
 	- [avanttic blog - weblogic](http://blog.avanttic.com/tag/weblogic/)
 
 ### WebLogic Resources
+- [WebLogic 12c Enterprise Deployment Architecture in the Amazon Cloud](http://oraclemiddlewareblog.com/2015/10/13/weblogic12c-architecture-in-the-amazon-cloud/)
 - [SlideShare - 12 Things You Should Know About WebLogic Server 12.2.1](http://www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015)
 - [middlewaresnippets.blogspot.com - WebLogic Server on Linux 7](http://middlewaresnippets.blogspot.com/2015/04/weblogic-server-on-linux-7.html)
 	- [middlewaresnippets.blogspot.com - WebLogic Domain Partitioning](http://middlewaresnippets.blogspot.com/2015/11/weblogic-domain-partitioning.html)
@@ -566,6 +570,7 @@
 
 ### WebLogic via Docker
 - [multikoop.blogspot.com.es - WebLogic 12.2.1 on Docker](http://multikoop.blogspot.com.es/2015/12/weblogic-1221-on-docker.html)
+- [community.oracle.com: Creating Fast, Scalable and Portable WebLogic Development Environments with Docker](https://community.oracle.com/docs/DOC-919606)
 
 ![disruption cycle](images/disruption-cycle.png)
 
