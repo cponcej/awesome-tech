@@ -1107,6 +1107,8 @@
 	- [Automatiza tus backups con rsync en Synology NAS - Qloudea Blog](http://qloudea.com/blog/automatiza-tus-backups-con-rsync-en-synology/)
 - [rsnapshot Remote MySQL Backup Shell Script](http://bash.cyberciti.biz/backup/rsnapshot-remote-mysql-backup-shell-script/)
 	- [rsnapshot.org, filesystem snapshot](http://rsnapshot.org/)
+- [rsync.net Enterprise Cloud Storage](http://rsync.net)
+	- [rsync.net: ZFS Replication to the cloud is finally here—and it’s fast](http://arstechnica.com/information-technology/2015/12/rsync-net-zfs-replication-to-the-cloud-is-finally-here-and-its-fast/)
 - [Moving from Tape to Disk Backup with Data Deduplication](http://www.datamation.com/data-center/moving-from-tape-to-disk-backup-with-data-deduplication.html)
 - [You need deduplication to do disk backup! Really?](http://www.virtualtothecore.com/en/you-need-deduplication-to-do-disk-backup-really/)
 - [Top 5 Benefits of Online Backup](http://www.cwps.com/blog/top-5-benefits-of-online-backup)
