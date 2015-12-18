@@ -297,6 +297,7 @@
 	- [Red Hat OpenShift 3.1 Opens the Door for Both .NET and JBoss Middleware](http://thenewstack.io/openshift-3-1-opens-door-net-jboss-middleware/)
 	- [Red Hat quiere que su canal se vuelque en middleware y cloud](http://www.channelpartner.es/oportunidades-negocio/noticias/1079121002302/red-hat-quiere-canal-vuelque-middleware-cloud.1.html)
 - [Red Hat announces availability of containerized middleware capabilities on OpenShift](http://www.redhat.com/en/about/blog/red-hat-announces-availability-containerized-middleware-capabilities-openshift)
+	- [zdnet.com: Containers, OpenShift, and Middleware](http://www.zdnet.com/article/containers-openshift-and-middleware/)
 
 ## Red Hat Videos
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
@@ -718,6 +719,7 @@
 	- [New Relic - Developers: 30 minutes discovering how New Relic monitors your servers ](https://youtu.be/7Mg0UtzYql4)
 	- [New Relic - Free Server Monitoring as a core feature of New Relic app management](https://blog.newrelic.com/2011/11/08/server-monitoring-is-here/)
 - [AppDynamics Application Intelligence Platform](http://www.appdynamics.com/product/)
+- [Everything You Know About Latency Is Wrong](https://dzone.com/articles/everything-you-know-about-latency-is-wrong-brave-n)
 
 ![newrelic apm](images/newrelic-apm.png)
 
