@@ -62,6 +62,7 @@
 		- [WebLogic via Docker](#weblogic-via-docker)
 - [DevOps](#devops)
 	- [DevOps Blogs](#devops-blogs)
+	- [DevOps Tools 2016](#devops-tools-2016)
 	- [Description](#description)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
@@ -597,6 +598,19 @@
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
+
+## DevOps Tools 2016
+- [Top 10 DevOps Tools to look out for in 2016](https://www.linkedin.com/pulse/top-10-devops-tools-look-out-2016-matthew-smith)
+	1. [Packaging - FPM](https://github.com/jordansissel/fpm)
+	2. [Pipeline - GoCD](https://www.go.cd/)
+	3. [Logging - GrayLog](https://www.graylog.org/)
+	4. [Container Orchestration - Kubernetes](http://kubernetes.io/)
+	5. [Monitoring - Dataloop.IO](https://www.dataloop.io/)
+	6. [Alerting - PagerDuty](https://www.pagerduty.com/)
+	7. [Deployment - Atlas](https://atlas.hashicorp.com/)
+	8. [Cost Control - CloudHealth](https://www.cloudhealthtech.com/)
+	9. [PaaS - Drie.co](http://www.drie.co/)
+	10. [Configuration management - Ansible](http://www.ansible.com/)
 
 ## Description
 - [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
