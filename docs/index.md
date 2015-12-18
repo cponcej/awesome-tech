@@ -89,11 +89,13 @@
 	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
 	- [QA. Software Testing](#qa-software-testing)
 - [Data Science](#data-science)
+	- [Data collection and processing is growing in sports](#data-collection-and-processing-is-growing-in-sports)
 	- [Python analytics](#python-analytics)
 		- [Anaconda Analytics](#anaconda-analytics)
 			- [Anaconda Code examples](#anaconda-code-examples)
 		- [Apache Zeppelin](#apache-zeppelin)
 	- [Big Data](#big-data)
+		- [Big Data Blogs](#big-data-blogs)
 		- [Spark](#spark)
 	- [SQL](#sql)
 		- [SQL replication](#sql-replication)
@@ -123,9 +125,11 @@
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New features](#aws-new-features)
 		- [AWS DevOps](#aws-devops)
+			- [AWS Cloud Formation](#aws-cloud-formation)
 		- [AWS Security](#aws-security)
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
+- [Desktop Tools](#desktop-tools)
 - [E-Learning](#e-learning)
 	- [Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
 	- [Alternatives](#alternatives)
@@ -227,6 +231,7 @@
 - [OpenStack](http://www.openstack.org/)
 - [Apache Mesos](http://mesos.apache.org/)
 - [Kubernetes.io](http://kubernetes.io/)
+	- [Kubernetes repo analyzed with gitm. Top changeset contributors by employer](https://github.com/karlkfi/kubernetes-gitdm/wiki#top-changeset-contributors-by-employer)
 - [Univa Grid Engine](http://www.univa.com/)
 
 # Linux
@@ -846,14 +851,23 @@
 ![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)
 
 # Data Science
+- [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
+- [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
+
+### Data collection and processing is growing in sports
+- [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
+	- [nba_py - stats.nba.com API for python](https://github.com/seemethere/nba_py)
+	- [Pro Football Statistics](http://www.pro-football-reference.com/)
+	- [how data collection and processing is growing in sports. TED talk](https://www.youtube.com/watch?v=66ko_cWSHBU)
+
+![job trends analytics](images/job-trends-analytics.jpg)
+
 ## Python analytics
 - [PyData, a community for developers and users of Python data tools](http://pydata.org)
 - [Python for Data Science vs Python for Web Development](http://www.datasciencecentral.com/profiles/blogs/python-for-data-science-vs-python-for-web-development)
 - [Python for Social Scientists](http://www.pythonforsocialscientists.org/#welcome-to-python-for-social-scientists)
 - [Cheat Sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 - [Distributed Computing on your Cluster with Anaconda (modern open source analytics platform powered by Python) - Webinar 2015](http://www.slideshare.net/continuumio/distributed-computing-on-your-cluster-with-anaconda-webinar-2015)
-
-![job trends analytics](images/job-trends-analytics.jpg)
 
 ### Anaconda Analytics
 - [docs.continuum.io](http://docs.continuum.io/anaconda/index)
@@ -888,6 +902,10 @@
 - [stratebi - Apache Storm: Introduccion](http://es.slideshare.net/zanorte/apache-storm-introduccion)
 - [stratebi - Instalación de Storm](http://es.slideshare.net/zanorte/apache-storm-instalacin)
 - [HP Big Data Reference Architecture for Apache Spark based on RHEL](http://hpe.to/6019BO4TW)
+- [datanami.com: Top 33 Big Data Predictions for 2016](http://www.datanami.com/2015/12/15/industry-speaks-top-33-big-data-predictions-for-2016/)
+
+### Big Data Blogs
+- [datanami.com](http://www.datanami.com)
 
 ### Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
@@ -1169,6 +1187,9 @@
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)
 - [Setting Up the Jenkins Plugin for AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy)
 - [Continuous Delivery for a PHP Application Using AWS CodePipeline, AWS Elastic Beanstalk, and Solano Labs](https://blogs.aws.amazon.com/application-management/post/TxYSRRBH57NP2P/Continuous-Delivery-for-a-PHP-Application-Using-AWS-CodePipeline-AWS-Elastic-Bea)
+#### AWS Cloud Formation
+- [AWS Cloud Formation Release History](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)
+
 
 ### AWS Security
 - [AWS Security Blog](http://blogs.aws.amazon.com/security)
@@ -1186,6 +1207,10 @@
 - [What Startups Should Know about Amazon VPC — Part 1](https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228)
 
 ![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)
+
+# Desktop Tools
+- [How to avoid 'death by PowerPoint'](http://www.bbc.com/news/technology-35038429)
+	- These days, there are plenty of alternatives to PowerPoint - Keynote, Slides, Prezi, SlideRocket, Easel.ly, Emaze, Slidedog, to name but a few - many of which are freely available online.
 
 # E-Learning
 
