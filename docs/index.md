@@ -1033,9 +1033,9 @@
 	- [Flood network with random MAC addresses with macof tool](https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/)
 	- ['itsoknoproblembro' Toolkit - The Beast that Beat Banks](http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html)
 	- [HTCIA | High Technology Crime Investigation Association](https://www.htcia.org/)
-- [Fiddler complementa muy bien a las devtools de Firefox ó Chrome (F12 key) para capturar y analizar trazas de tráfico HTTP. Alternativa a Wireshark para HTTP Network Forensics.](http://www.telerik.com/fiddler)
+- [Fiddler is an HTTP debugging proxy server that complements Firefox or Chrome devtools (F12 key)](http://www.telerik.com/fiddler)
 	- [Fiddler, un proxy para depurar aplicaciones](http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones)
-- [TRANSUM es un plugin dissector para Wireshark que añade información de tiempo de respuesta a los paquetes de petición de servicio para diferentes protocolos.](http://www.tribelabzero.com/temp/tl_resources.html)
+- [TRANSUM Wireshark Plugin. Some Wireshark dissectors provide response time measurement values, but what gets measured is not ideal for performance analysis work](http://www.tribelabzero.com/transum)
 	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
 
 ## VoIP
