@@ -1029,7 +1029,7 @@
 	- [How to Use Wireshark to Analyze Video](http://sharkfest.wireshark.org/sharkfest.13/presentations/PA-11_How-to-Use-Wireshark-to-Analyze-Video_Betty-DuBois.pdf)
 	- [Sharkfest '14 presentation: Get started with HTTP Analysis](http://sharkfest.wireshark.org/sharkfest.14/presentations/B6-Get%20Started%20with%20HTTP%20Analysis.pdf)
 	- [Tuning Win7 Using Wireshark’s TCP Stream Graph](http://sharkfest.wireshark.org/sharkfest.12/presentations/A-3_A-10_Tuning_Win7_Using_Wireshark_TCP_Stream_Graph_a_Case_Study.pdf)
-- Una forma de evitar los ataques DDoS similares a macof es bloquear desde los firewalls las conexiones (SYN) con MSS=0 y WinSize=0.
+- **One way to prevent DDoS attacks similar to macof is by blocking connections (SYN) going through the firewall with MSS=0 and WinSize=0.**
 	- [Flood network with random MAC addresses with macof tool](https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/)
 	- ['itsoknoproblembro' Toolkit - The Beast that Beat Banks](http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html)
 	- [HTCIA | High Technology Crime Investigation Association](https://www.htcia.org/)
@@ -1062,7 +1062,7 @@
 # Servers, Storage and Backup
 
 ## Dell
-- [Nuevo PowerEdge R930: innovación y potencia x86 para migrar plataformas UNIX con software empresarial](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-r930-server)
+- [New PowerEdge R930: Powerful and reliable, ideal for customers migrating to more innovative x86 platforms from proprietary UNIX](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-r930-server)
 - [Dell PowerEdge R930](http://www.dell.com/es/empresas/p/poweredge-r930/pd?~ck=anav)
 - [Dell launches PowerEdge entry-level servers for SMBs](http://www.infotechlead.com/networking/dell-launches-entry-level-servers-for-smbs-36295)
 
