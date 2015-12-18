@@ -1148,6 +1148,7 @@
 ## Cloud Pricing
 - [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)
 	- [Amazon's AWS simple monthly calculator](http://calculator.s3.amazonaws.com/index.html)
+	- [AWS Blog - New – AWS Cost and Usage Reports for Comprehensive and Customizable Reporting](https://aws.amazon.com/es/blogs/aws/new-aws-cost-and-usage-reports-for-comprehensive-and-customizable-reporting/)
 - [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/)
 - [Azure Pricing Calculator](http://azure.microsoft.com/en-us/pricing/calculator/)
 - [Linode pricing calculator](https://www.linode.com/pricing)
