@@ -35,6 +35,7 @@
 	- [JBoss (WildFly)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
 		- [JBoss Resources](#jboss-resources)
+		- [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
 		- [JBoss Data Virtualization](#jboss-data-virtualization)
 		- [JBoss Data Grid](#jboss-data-grid)
 	- [E-Mail](#e-mail)
@@ -265,6 +266,7 @@
 - [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/)
 - [Red Hat Community](http://community.redhat.com)
 - [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
+- [OpenShift Blog](https://blog.openshift.com)
 - [ossmentor.com](http://www.ossmentor.com)
 - [Fedora Magazine](http://fedoramagazine.org/)
 - [Red Hat Developer Blog](http://developerblog.redhat.com)
@@ -293,6 +295,7 @@
 	- [OpenShift Dedicated](https://www.openshift.com/dedicated/)
 	- [Red Hat OpenShift 3.1 Opens the Door for Both .NET and JBoss Middleware](http://thenewstack.io/openshift-3-1-opens-door-net-jboss-middleware/)
 	- [Red Hat quiere que su canal se vuelque en middleware y cloud](http://www.channelpartner.es/oportunidades-negocio/noticias/1079121002302/red-hat-quiere-canal-vuelque-middleware-cloud.1.html)
+- [Red Hat announces availability of containerized middleware capabilities on OpenShift](http://www.redhat.com/en/about/blog/red-hat-announces-availability-containerized-middleware-capabilities-openshift)
 
 ## Red Hat Videos
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
@@ -384,19 +387,29 @@
 - [JBoss Issue Tracker](https://issues.jboss.org)
 - [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
 - [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)
+- [schabell.org - Eric D. Schabell's blog](http://www.schabell.org)
 
 ### JBoss Resources
 - [middlewaresnippets.blogspot.com - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com/2014/07/wildflying-java-ee-7.html)
 - [developerblog.redhat.com - JBoss on Docker At a Glance](http://developerblog.redhat.com/2015/01/14/jboss-on-docker-at-a-glance/)
+- [blog.openshift.com: A Java EE 7 Application on OpenShift 3 With JBoss Tools](https://blog.openshift.com/a-java-ee-7-application-on-openshift-3-with-jboss-tools/)
 - [C2B2Consulting - JBoss EAP 6: installation, configuration & clustering](http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar)
 - [dzone.com - Red Hat JBoss Fuse Workshop 101: Fuse in EAP](https://dzone.com/articles/red-hat-jboss-fuse-workshop-101-fuse-in-eap)
 - [youtube - 2014 Red Hat Summit: Red Hat JBoss Middleware keynote](https://youtu.be/XPK2RTqlBxk)
 - [youtube - Craig Muzilla delivers middleware keynote at 2015 Red Hat Summit](https://youtu.be/wWNVpFibayA)
 
+### JBoss BPM Suite and JBoss BRMS
+- [Red Hat Updates JBoss BPM Suite and JBoss BRMS Products](http://www.redhat.com/de/about/blog/red-hat-updates-jboss-bpm-suite-and-jboss-brms-products)
+- [schabell.org: The ultimate collection of JBoss BPM Suite demos](http://www.schabell.org/2015/12/ultimate-collection-jboss-bpmsuite-demos.html)
+- [schabell.org: Quick Tour #4 Start your first JBoss BRMS project (video)](http://www.schabell.org/2015/12/quick-tour-4-first-brms-project.html)
+
+
 ### JBoss Data Virtualization
 - [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
 
 ### JBoss Data Grid
+- [JBoss Data Grid description](http://www.jboss.org/products/datagrid/overview/)
+	- JBoss Data Grid is an in-memory, distributed, NoSQL data store that helps boost application performance and improve scalability and development flexibility.
 - [C2B2Consulting - JBoss Data Grid](http://www.c2b2.co.uk/jboss_data_grid)
 	- [C2B2Consulting - JBoss Data Grid: Webinar](http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1)
 	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
