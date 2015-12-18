@@ -36,6 +36,7 @@
 		- [JBoss Blogs](#jboss-blogs)
 		- [JBoss Resources](#jboss-resources)
 		- [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
+		- [JBoss Fuse - Enterprise Service Bus (ESB)](#jboss-fuse---enterprise-service-bus-esb)
 		- [JBoss Data Virtualization](#jboss-data-virtualization)
 		- [JBoss Data Grid](#jboss-data-grid)
 	- [E-Mail](#e-mail)
@@ -382,6 +383,8 @@
 - [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
 
 ## JBoss (WildFly)
+- [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
+
 ### JBoss Blogs
 - [JBoss Developer](https://developer.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
@@ -403,6 +406,8 @@
 - [schabell.org: The ultimate collection of JBoss BPM Suite demos](http://www.schabell.org/2015/12/ultimate-collection-jboss-bpmsuite-demos.html)
 - [schabell.org: Quick Tour #4 Start your first JBoss BRMS project (video)](http://www.schabell.org/2015/12/quick-tour-4-first-brms-project.html)
 
+### JBoss Fuse - Enterprise Service Bus (ESB)
+- [JBoss Fuse Description](http://www.jboss.org/products/fuse/overview/)
 
 ### JBoss Data Virtualization
 - [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
