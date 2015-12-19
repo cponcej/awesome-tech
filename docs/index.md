@@ -1256,8 +1256,7 @@
 ![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)
 
 # Desktop Tools
-- [How to avoid 'death by PowerPoint'](http://www.bbc.com/news/technology-35038429)
-	- These days, there are plenty of alternatives to PowerPoint - Keynote, Slides, Prezi, SlideRocket, Easel.ly, Emaze, Slidedog, to name but a few - many of which are freely available online.
+- [How to avoid 'death by PowerPoint'. ](http://www.bbc.com/news/technology-35038429)These days, th[ere are plenty of alternatives to PowerPoint - [Keynote](http://www.apple.com/mac/keynote/), [Slides](https://slides.com/), [Prezi](https://prezi.com), [SlideRocket](http://www.sliderocket.com/), [Easel.ly](http://easel.ly/), [Emaze](https://www.emaze.com), [Slidedog](http://slidedog.com/), to name but a few - many of which are freely available online.
 
 # E-Learning
 
