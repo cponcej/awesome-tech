@@ -14,7 +14,7 @@ A curated list of awesome IT projects and resources collected between 2014 and 2
 - [awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
-# Awesome Lists
+# Awesome List
 - [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
 :smiley:
