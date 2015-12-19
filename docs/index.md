@@ -51,6 +51,9 @@
 		- [Apache via Ansible](#apache-via-ansible)
 		- [WebLogic via Ansible](#weblogic-via-ansible)
 		- [Databases via Ansible](#databases-via-ansible)
+			- [MySQL via Ansible](#mysql-via-ansible)
+			- [PostgreSQL via Ansible](#postgresql-via-ansible)
+			- [Oracle via Ansible](#oracle-via-ansible)
 	- [Puppet](#puppet)
 		- [WebLogic via Puppet](#weblogic-via-puppet)
 	- [Red Hat Satellite, Katello and Foreman](#red-hat-satellite-katello-and-foreman)
@@ -514,9 +517,17 @@
 - [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)
 - [Ansible Role: MySQL](https://github.com/geerlingguy/ansible-role-mysql)
 - [Example Ansible playbook that uses the MySQL module](https://github.com/ansible/ansible-examples/blob/master/language_features/mysql.yml)
+
+#### MySQL via Ansible
 - [Ansible and Loading MySQL Databases Part I](https://opensourcedba.wordpress.com/2015/07/14/ansible-and-loading-mysql-databases-part-i/)
 	- [Ansible and Loading MySQL Databases Part II](https://opensourcedba.wordpress.com/2015/07/29/ansible-and-loading-mysql-databases-part-ii/)
-- [middlewaresnippets.blogspot.com - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com/2015/06/more-fun-with-ansible.html)
+
+#### PostgreSQL via Ansible
+- [Ansible Loves PostgreSQL](http://blog.2ndquadrant.com/ansible-loves-postgresql/)
+
+#### Oracle via Ansible
+- [Nodalpoint.com: Using Ansible to configure a CentOS 7.1 server with Oracle 12c R1 Enterprise Edition Database](http://www.nodalpoint.com/devops-ansible-oracle-database-oraclelinux-7-vagrant/)
+	- [middlewaresnippets.blogspot.com - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com/2015/06/more-fun-with-ansible.html)
 
 ![Red Hat acquires Ansible](images/redhat-ansible.png)
 
