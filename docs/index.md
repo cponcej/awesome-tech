@@ -43,6 +43,7 @@
 		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
 	- [E-Mail](#e-mail)
 - [Security](#security)
+	- [Security Blogs](#security-blogs)
 	- [Identity Management](#identity-management)
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls](#breaking-firewalls)
@@ -76,10 +77,13 @@
 			- [CI Maven and Gradle](#ci-maven-and-gradle)
 	- [Git](#git)
 		- [Git clients](#git-clients)
-	- [Load Testing](#load-testing)
+	- [Load Testing - Traffic injectors](#load-testing---traffic-injectors)
+		- [JMeter](#jmeter)
+		- [Alternatives](#alternatives)
 	- [Metric monitoring](#metric-monitoring)
 		- [Tools](#tools)
 		- [APM: Application Performance Management](#apm-application-performance-management)
+			- [APM Blogs](#apm-blogs)
 			- [APM Solutions](#apm-solutions)
 		- [Centralized logging. Big Data Log Management Tools](#centralized-logging-big-data-log-management-tools)
 - [ITIL](#itil)
@@ -95,7 +99,9 @@
 	- [Bash](#bash)
 	- [Python](#python)
 	- [Python and AWS](#python-and-aws)
+	- [Java](#java)
 	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
+		- [JSON](#json)
 	- [QA. Software Testing](#qa-software-testing)
 - [Data Science](#data-science)
 	- [Data collection and processing is growing in sports](#data-collection-and-processing-is-growing-in-sports)
@@ -115,7 +121,9 @@
 - [Networking](#networking)
 	- [Next Generation Firewalls](#next-generation-firewalls)
 	- [Network virtualization](#network-virtualization)
-	- [Network forensics](#network-forensics)
+	- [Network Forensics](#network-forensics)
+		- [Network Forensics Blogs](#network-forensics-blogs)
+		- [Network Forensics Docs](#network-forensics-docs)
 	- [VoIP](#voip)
 	- [WiFi security](#wifi-security)
 	- [WebPerf and Resilient Networking: Planning for Failure](#webperf-and-resilient-networking-planning-for-failure)
@@ -127,9 +135,11 @@
 	- [Storage](#storage)
 	- [Backup](#backup)
 - [Cloud](#cloud)
+	- [The Twelve-Factor App methodology for building apps in modern cloud environments](#the-twelve-factor-app-methodology-for-building-apps-in-modern-cloud-environments)
 	- [Development environments in the Cloud](#development-environments-in-the-cloud)
 	- [Cloud references](#cloud-references)
 	- [Cloud Pricing](#cloud-pricing)
+	- [Awesome AWS](#awesome-aws)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New features](#aws-new-features)
@@ -142,7 +152,7 @@
 - [E-Learning](#e-learning)
 	- [Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
 	- [Free E-learning](#free-e-learning)
-	- [Alternatives](#alternatives)
+	- [Alternatives](#alternatives-1)
 
 <!-- /MarkdownTOC -->
 
@@ -199,6 +209,7 @@
 
 ## Awesome Lists
 - [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
+- [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
@@ -376,6 +387,7 @@
 ### Oracle Blogs: Middleware and Java
 - [Oracle Middleware Blog](http://oraclemiddlewareblog.com/)
 - [oraclejavamagazine-digital.com - Java Magazine](http://www.oraclejavamagazine-digital.com)
+- [javacodegeeks.com](http://www.javacodegeeks.com/)
 - [Oracle Community](https://community.oracle.com)
 	- [Oracle Community - WebLogic](https://community.oracle.com/community/fusion_middleware/weblogic)
 - [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
@@ -454,6 +466,9 @@
 - [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
 
 # Security
+## Security Blogs
+- [ehacking.net](http://www.ehacking.net)
+
 ## Identity Management
 - [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
 - [redhat.com - Improvements to Identity Management (IdM) in RHEL 7.1](http://www.redhat.com/en/about/press-releases/red-hat-continues-platform-innovation-general-availability-first-minor-release-red-hat-enterprise-linux-7)
@@ -658,6 +673,7 @@
 	9. [PaaS - Drie.co](http://www.drie.co/)
 	10. [Configuration management - Ansible](http://www.ansible.com/)
 - [oraclejavamagazine-digital.com: 7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6)
+- [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 
 ## Agile planning: Scrum, Kanban, Lean
 - [Agilidad, por Javier Garzás](https://www.youtube.com/watch?v=oShXAC26rcs)
@@ -715,10 +731,15 @@
 
 ![git image](images/git.png)
 
-## Load Testing
-- [JMeter Tutorial for Load Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
-- [The Ultimate JMeter Resource List (july 2015)](https://blazemeter.com/blog/ultimate-jmeter-resource-list)
-- [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
+## Load Testing - Traffic injectors
+### JMeter
+- [javacodegeeks.com: JMeter Tutorial for Load Testing – The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
+- [blazemeter.com: The Ultimate JMeter Resource List (july 2015)](https://blazemeter.com/blog/ultimate-jmeter-resource-list)
+- [blazemeter.com: How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
+- [guru99.com: Free Jmeter Tutorials](http://www.guru99.com/jmeter-tutorials.html)
+
+### Alternatives
+- [Siege, a CLI tool ideal for a simple testing of AWS Auto Scaling](https://www.joedog.org/siege-home/)
 
 ## Metric monitoring
 ### Tools
@@ -754,6 +775,9 @@
 - [APMdigest: Where Application Performance Management, BSM, Virtualization, and Cloud Computing Meet](http://apmdigest.com/)
 - [4 Reasons to Use APM Tools](http://apmdigest.com/4-reasons-to-use-apm-tools)
 - [Application Performance Management and the Cloud](http://apmdigest.com/application-performance-management-and-the-cloud)
+
+#### APM Blogs
+- [apmblog.dynatrace.com](http://apmblog.dynatrace.com)
 
 #### APM Solutions
 - [RTI - Application Performance Management for Red Hat Middleware (JBoss, Fuse, Tomcat)](http://www.rtiperformance.com/)
@@ -850,6 +874,7 @@
 - [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
 
 ## Bash
+- [explainshell.com: write down a command-line to see the help text that matches each argument](http://explainshell.com/)
 - [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands](http://www.shellcheck.net/)
 - [Writing Robust Bash Shell Scripts](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
 - [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming)
@@ -895,6 +920,10 @@
 - [Boto](https://github.com/boto/boto)
 - [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
 
+## Java
+- [genbetadev.com: java-j2ee](http://www.genbetadev.com/categoria/java-j2ee)
+- [genbetadev.com: Herramientas imprescindibles para un desarrollador de Java (2011)](http://www.genbetadev.com/java-j2ee/herramientas-imprescindibles-para-un-desarrollador-de-java)
+
 ## Front-end: HTML5, javascript/node.js
 - [medium.com/javascript-scene: Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467)
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
@@ -905,6 +934,11 @@
 - [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
+
+### JSON
+- [json.org](http://json.org/)
+- [Json Parser Online](http://json.parser.online.fr/)
+- [BSON - Binary JSON](http://bsonspec.org/)
 
 ## QA. Software Testing
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
@@ -1065,16 +1099,28 @@
 ## Network virtualization
 - [FOSS Network Functions Virtualization](https://www.opnfv.org)
 
-## Network forensics
+## Network Forensics
+
+### Network Forensics Blogs
+- [packetbomb.com](http://packetbomb.com/)
+- [blog.packet-foo.com](https://blog.packet-foo.com)
+- [LoveMyTool - Building an Open Community for Network Management and Monitoring](http://www.lovemytool.com/blog)
+- [thevisiblenetwork.com](http://www.thevisiblenetwork.com)
+- [packetlife.net](http://packetlife.net/)
+- [sharkfest.wireshark.org](http://sharkfest.wireshark.org)
+
+### Network Forensics Docs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
 - [WireEdit. First-Of-A-Kind and The Only Full Stack WYSIWYG Packet Editor Edit L2 - L7 with just a few clicks](https://wireedit.com/)
 - [Optimal Wireshark Setup | Enhance Your Wireshark Experience](https://www.youtube.com/watch?v=F4l3CedRlJc)
 	- [Switches And Tool Placement (by Tony Fortunato). Ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs](http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html)
 - [Wireshark 101: Transmission Control Protocol, video tutorial](https://www.youtube.com/watch?v=iX44XIZafiw)
+- [Recomendación en Network Forensics: no capturar trazas en sistemas servidor/cliente/desktop sino en un switch con port mirroring.](https://blog.packet-foo.com/2014/05/the-drawbacks-of-local-packet-captures/) Es la única manera de ser rigurosos en los análisis cuando nos importan el tamaño de los paquetes, los tiempos medidos, checksums rotos, interferencias con otro software, etc.
 - [HTTP Basic Authentication with wireshark](http://www.networkcomputing.com/applications/http-basic-authentication-primer/d/d-id/1323331)
 - [How Can the Packet Size Be Greater than the MTU?](http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/)
 - [INE.com training videos: Analyzing Packet Lengths](https://youtu.be/qsUaB36CVDw)
 - [blog.cloudflare.com - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/)
+	- [packetbomb.com: Case Study: All Web Pages Load Slooooowly](http://packetbomb.com/case-study-all-web-pages-load-slooooowly/)
 	- [Calculate HTTP response time in wireshark](http://www.thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/)
 	- [Diagnose slow connections with Wireshark](http://theitjuggler.com/how-to/diagnose-slow-connections-wireshark/)
 	- [Toubleshooting with Wireshark: Detect HTTP Delays](http://youtu.be/5k16DWEnEGA)
@@ -1198,6 +1244,10 @@
 
 # Cloud
 
+## The Twelve-Factor App methodology for building apps in modern cloud environments
+- [The Twelve-Factor App](http://12factor.net/)
+- [blog.openshift.com: Optimizing Twelve (12) Factor app for OpenShift](https://blog.openshift.com/optimizing-twelve-12-factor-app-for-red-hat-openshift/)
+
 ## Development environments in the Cloud
 - [Cloud9](https://c9.io/)
 - [Koding](https://koding.com/)
@@ -1220,6 +1270,9 @@
 - [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/)
 - [Azure Pricing Calculator](http://azure.microsoft.com/en-us/pricing/calculator/)
 - [Linode pricing calculator](https://www.linode.com/pricing)
+
+## Awesome AWS
+- [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
 ## AWS re:Invent 2015
 - [Festín de novedades en re:Invent 2015](http://www.siliconweek.es/data-storage/business-intelligence/festin-de-novedades-en-reinvent-2015-89129)
@@ -1303,6 +1356,8 @@
 - [Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
 - [Learn Database Design using PostgreSQL](https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20)
 - [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
+- [The Complete Web Developer Course - Build 14 Websites](https://www.udemy.com/complete-web-developer-course/)
+- [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript)
 - [Taming Big Data with Apache Spark - Hands On!](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/?couponCode=SPARK15)
 - [Zabbix Network Monitoring Essentials](https://www.udemy.com/zabbix-network-monitoring-essentials/)
 - [Sensu - Introduction (free, alternative to Zabbix, Icinga & Nagios)](https://www.udemy.com/sensu-introduction/)
@@ -1311,16 +1366,19 @@
 
 ## Free E-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)
+- [Flo-Joe: THE place on the web for Cambridge exam preparation](http://www.flo-joe.co.uk/)
 - [Coursera](http://coursera.org)
+- [Guru99: Selenium,QTP,Java, SAP,Test Management, Linux,Ethical Hacking, Mobile Testing,Accounting, etc](http://www.guru99.com/)
 - [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
 - [Databricks to run two massive online courses on Apache Spark](https://databricks.com/blog/2014/12/02/announcing-two-spark-based-moocs.html)
 	- [edx.org - Introduction to Big Data with Apache Spark](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs100-1x-introduction-big-6181)
 	- [edx.org - Scalable Machine Learning](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs190-1x-scalable-machine-6066)
 - [INE.com training videos: Wireshark, vSphere 6.0, CCNA, MPLS, BGP, etc](https://www.youtube.com/user/INEtraining/playlists)
 - [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
+- [khanacademy.org](https://khanacademy.org/)
 
 ## Alternatives
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
-
+- [springboard.com - Learn Data Science & UX Design online](https://www.springboard.com)
