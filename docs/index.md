@@ -73,6 +73,7 @@
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 			- [CI Jenkins](#ci-jenkins)
+			- [CI Docker](#ci-docker)
 			- [CI RPM build](#ci-rpm-build)
 			- [CI Maven and Gradle](#ci-maven-and-gradle)
 	- [Git](#git)
@@ -709,6 +710,9 @@
 	- [Tutorial: Gestión de Configuración – Ansible + Vagrant + Jenkins](http://www.carlessanagustin.com/2015/08/20/tutorial-gestion-de-configuracion-ansible-vagrant-jenkins/)
 	- [Jenkins Docker Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin)
 	- [jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server](https://github.com/jhrcz/jenkins-rpm-builder)
+
+#### CI Docker
+- [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine
 
 #### CI RPM build
 - [Continuous integration + rpmbuild + Docker](https://access.redhat.com/discussions/1174853)
