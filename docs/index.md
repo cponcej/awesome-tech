@@ -30,7 +30,7 @@
 	- [Apache and Tomcat](#apache-and-tomcat)
 	- [Nginx](#nginx)
 	- [WebLogic](#weblogic)
-		- [WebLogic and Oracle Blogs](#weblogic-and-oracle-blogs)
+		- [Oracle Blogs: Middleware and Java](#oracle-blogs-middleware-and-java)
 		- [WebLogic Resources](#weblogic-resources)
 	- [JBoss (WildFly)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
@@ -373,7 +373,7 @@
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
 ## WebLogic
-### WebLogic and Oracle Blogs
+### Oracle Blogs: Middleware and Java
 - [Oracle Middleware Blog](http://oraclemiddlewareblog.com/)
 - [oraclejavamagazine-digital.com - Java Magazine](http://www.oraclejavamagazine-digital.com)
 - [Oracle Community](https://community.oracle.com)
