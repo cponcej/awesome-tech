@@ -140,6 +140,7 @@
 - [Desktop Tools](#desktop-tools)
 - [E-Learning](#e-learning)
 	- [Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
+	- [Free E-learning](#free-e-learning)
 	- [Alternatives](#alternatives)
 
 <!-- /MarkdownTOC -->
@@ -1303,13 +1304,18 @@
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
 	- [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 
+## Free E-learning
+- [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)
+- [Coursera](http://coursera.org)
+- [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
+- [Databricks to run two massive online courses on Apache Spark](https://databricks.com/blog/2014/12/02/announcing-two-spark-based-moocs.html)
+	- [edx.org - Introduction to Big Data with Apache Spark](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs100-1x-introduction-big-6181)
+	- [edx.org - Scalable Machine Learning](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs190-1x-scalable-machine-6066)
+- [INE.com training videos: Wireshark, vSphere 6.0, CCNA, MPLS, BGP, etc](https://www.youtube.com/user/INEtraining/playlists)
+- [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
+
 ## Alternatives
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
-- [Databricks to run two massive online courses on Apache Spark](https://databricks.com/blog/2014/12/02/announcing-two-spark-based-moocs.html)
-	- [Introduction to Big Data with Apache Spark](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs100-1x-introduction-big-6181)
-	- [Scalable Machine Learning](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs190-1x-scalable-machine-6066)
-- [INE.com training videos (free): Wireshark, vSphere 6.0, CCNA, MPLS, BGP, etc](https://www.youtube.com/user/INEtraining/playlists)
-- [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
-- [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
+
