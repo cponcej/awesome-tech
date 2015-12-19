@@ -5,7 +5,7 @@
 
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
-	- [Awesome Lists](#awesome-lists)
+	- [Awesome List. Awesome AWS](#awesome-list-awesome-aws)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
@@ -207,8 +207,8 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
-## Awesome Lists
-- [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
+## Awesome List. Awesome AWS
+- [Awesome List - A curated list of awesome lists](https://github.com/sindresorhus/awesome)
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
 ## stackshare.io: Discover and discuss the best software tools and services
