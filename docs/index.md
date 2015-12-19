@@ -150,7 +150,7 @@
 	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 - [Desktop Tools](#desktop-tools)
 - [E-Learning](#e-learning)
-	- [Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
+	- [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
 	- [Free E-learning](#free-e-learning)
 	- [Alternatives](#alternatives-1)
 
@@ -1342,7 +1342,7 @@
 
 # E-Learning
 
-## Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
+## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 - [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
