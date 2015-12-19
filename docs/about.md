@@ -12,5 +12,4 @@
 - [awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
-:smiley:
 
