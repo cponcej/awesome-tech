@@ -17,8 +17,8 @@
 	- [Linux Docs and Resources](#linux-docs-and-resources)
 - [Red Hat](#red-hat)
 	- [Red Hat Blogs](#red-hat-blogs)
-	- [Red Hat virtualization](#red-hat-virtualization)
 	- [Red Hat Docs](#red-hat-docs)
+	- [Red Hat virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
 	- [Red Hat Videos](#red-hat-videos)
 	- [Red Hat Development](#red-hat-development)
@@ -279,6 +279,13 @@
 - [Planet JBoss Developer](http://planet.jboss.org/)
 - [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
 
+## Red Hat Docs
+- [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
+	- [A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives](http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/)
+- [Product documentation](https://access.redhat.com/documentation/en/)
+- [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
+	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
+
 ## Red Hat virtualization
 - [How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 	- [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
@@ -287,13 +294,6 @@
 	- [Up and Running with oVirt 3.5, Part Two](http://community.redhat.com/blog/2014/11/up-and-running-with-ovirt-3-5-part-two/)
 - [GlusterFS scalable network filesystem](http://www.gluster.org/)
 	- [GlusterFS Documentation](http://gluster.readthedocs.org/en/latest/)
-
-## Red Hat Docs
-- [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
-	- [A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives](http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/)
-- [Product documentation](https://access.redhat.com/documentation/en/)
-- [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
-	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
 
 ## Red Hat OpenShift PaaS
 - [OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes](http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/)
