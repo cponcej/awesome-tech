@@ -367,6 +367,7 @@
 ## WebLogic
 ### WebLogic and Oracle Blogs
 - [Oracle Middleware Blog](http://oraclemiddlewareblog.com/)
+- [oraclejavamagazine-digital.com - Java Magazine](http://www.oraclejavamagazine-digital.com)
 - [Oracle Community](https://community.oracle.com)
 	- [Oracle Community - WebLogic](https://community.oracle.com/community/fusion_middleware/weblogic)
 - [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
@@ -478,7 +479,6 @@
 
 # Configuration Management
 ## Vagrant
-- [7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6)
 - [How Vagrant Eases the Software Research and Testing - The New Stack](http://thenewstack.io/vagrant-developers-researchers/)
 - [Improve your development environments with virtualization - Vagrant, Python ](http://pyvideo.org/video/3411/improve-your-development-environments-with-virtua)
 - [Why tools like Docker, Vagrant, and Ansible are hotter than ever](http://opensource.com/business/15/5/why-Docker-Vagrant-and-Ansible)
@@ -636,6 +636,8 @@
 	8. [Cost Control - CloudHealth](https://www.cloudhealthtech.com/)
 	9. [PaaS - Drie.co](http://www.drie.co/)
 	10. [Configuration management - Ansible](http://www.ansible.com/)
+- [oraclejavamagazine-digital.com: 7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6)
+
 
 ## Agile planning: Scrum, Kanban, Lean
 - [Agilidad, por Javier Garzás](https://www.youtube.com/watch?v=oShXAC26rcs)
