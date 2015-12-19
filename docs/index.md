@@ -39,6 +39,8 @@
 		- [JBoss Fuse - Enterprise Service Bus (ESB)](#jboss-fuse---enterprise-service-bus-esb)
 		- [JBoss Data Virtualization](#jboss-data-virtualization)
 		- [JBoss Data Grid](#jboss-data-grid)
+	- [JVM Latency: Caching, Off Heap, Data Grid](#jvm-latency-caching-off-heap-data-grid)
+		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
 	- [E-Mail](#e-mail)
 - [Security](#security)
 	- [Identity Management](#identity-management)
@@ -93,8 +95,6 @@
 	- [Bash](#bash)
 	- [Python](#python)
 	- [Python and AWS](#python-and-aws)
-	- [JVM Latency: Caching, Off Heap, Data Grid](#jvm-latency-caching-off-heap-data-grid)
-		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
 	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
 	- [QA. Software Testing](#qa-software-testing)
 - [Data Science](#data-science)
@@ -433,6 +433,21 @@
 	- [C2B2Consulting - JBoss Data Grid: Webinar](http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1)
 	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
 	- [C2B2Consulting - Youtube - Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](https://youtu.be/q52_C9WW70Q)
+
+## JVM Latency: Caching, Off Heap, Data Grid
+- [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
+- [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
+- [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
+- [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
+- [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
+- [What is a Data Grid?](http://www.c2b2.co.uk/what_is_data_grid_webinar)
+
+### Java Garbage Collection: Changes in Java 8. JMX monitoring
+- [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
+- [One important change in Memory Management in Java 8](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
+	- [PermGen removed](http://www.infoq.com/articles/Java-PERMGEN-Removed)
+	- [Mi análisis: cambios en la gestión de memoria de Java 8. Diferencias en distintas implementaciones de JVM](jvm-mem.md)
+- [middlewaresnippets.blogspot.com - Monitoring with JMX](http://middlewaresnippets.blogspot.com/2014/10/monitoring-with-jmx.html)
 
 ## E-Mail
 - [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
@@ -879,21 +894,6 @@
 - [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
 - [Boto](https://github.com/boto/boto)
 - [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
-
-## JVM Latency: Caching, Off Heap, Data Grid
-- [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
-- [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
-- [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
-- [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
-- [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
-- [What is a Data Grid?](http://www.c2b2.co.uk/what_is_data_grid_webinar)
-
-### Java Garbage Collection: Changes in Java 8. JMX monitoring
-- [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
-- [One important change in Memory Management in Java 8](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
-	- [PermGen removed](http://www.infoq.com/articles/Java-PERMGEN-Removed)
-	- [Mi análisis: cambios en la gestión de memoria de Java 8. Diferencias en distintas implementaciones de JVM](jvm-mem.md)
-- [middlewaresnippets.blogspot.com - Monitoring with JMX](http://middlewaresnippets.blogspot.com/2014/10/monitoring-with-jmx.html)
 
 ## Front-end: HTML5, javascript/node.js
 - [medium.com/javascript-scene: Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467)
