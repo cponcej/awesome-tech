@@ -80,6 +80,8 @@
 		- [APM: Application Performance Management](#apm-application-performance-management)
 			- [APM Solutions](#apm-solutions)
 		- [Centralized logging. Big Data Log Management Tools](#centralized-logging-big-data-log-management-tools)
+- [ITIL](#itil)
+	- [ITIL Tools](#itil-tools)
 - [Software Development. Programming languages](#software-development-programming-languages)
 	- [Domain driven design](#domain-driven-design)
 	- [API and Documentation Generators](#api-and-documentation-generators)
@@ -638,7 +640,6 @@
 	10. [Configuration management - Ansible](http://www.ansible.com/)
 - [oraclejavamagazine-digital.com: 7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6)
 
-
 ## Agile planning: Scrum, Kanban, Lean
 - [Agilidad, por Javier Garzás](https://www.youtube.com/watch?v=oShXAC26rcs)
 - [Un video imprescindible sobre la buena gestión de equipos software](http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html)
@@ -774,6 +775,11 @@
 - [Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools: Splunk Storm, Graylog, Sumlogic, Logentries, Papertrail](https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/)
 
 ![logstash architecture](images/logstach-archi.png)
+
+# ITIL
+- [slideshare.net: Is DevOps replacing ITIL? Busting the Five Biggest DevOps Myths](http://www.slideshare.net/CAinc/busting-the-five-biggest-devops-myths)
+## ITIL Tools
+- [itop - ITSM & CMDB OpenSource. A simple, web based IT Service Management tool ](http://sourceforge.net/projects/itop/)
 
 # Software Development. Programming languages
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
@@ -1274,6 +1280,7 @@
 # E-Learning
 
 ## Udemy. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
+- [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 - [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
 	- [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
