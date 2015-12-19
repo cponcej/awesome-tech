@@ -94,10 +94,16 @@
 	- [API and Documentation Generators](#api-and-documentation-generators)
 	- [Editors](#editors)
 		- [Sublime](#sublime)
+			- [Sublime Blogs](#sublime-blogs)
+			- [Setting up Sublime](#setting-up-sublime)
+			- [Sublime Git](#sublime-git)
 		- [Alternative editors](#alternative-editors)
+		- [Diff Tools](#diff-tools)
 	- [Regular expressions](#regular-expressions)
 	- [Bash](#bash)
 	- [Python](#python)
+		- [Python Blogs and Forums](#python-blogs-and-forums)
+		- [Python docs](#python-docs)
 	- [Python and AWS](#python-and-aws)
 	- [Java](#java)
 	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
@@ -113,6 +119,8 @@
 		- [Big Data Blogs](#big-data-blogs)
 		- [Spark](#spark)
 	- [SQL](#sql)
+		- [SQL Blogs and Forums](#sql-blogs-and-forums)
+		- [SQL Docs](#sql-docs)
 		- [SQL replication](#sql-replication)
 		- [NoSQL](#nosql)
 			- [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
@@ -513,6 +521,7 @@
 	- [Lynda.com: Protect Your System from the Shellshock Bash Exploit](http://www.lynda.com/articles/shellshock-bash-exploit)
 	- [Red Hat security blog: Frequently Asked Questions about the Shellshock Bash flaws](https://securityblog.redhat.com/2014/09/26/frequently-asked-questions-about-the-shellshock-bash-flaws/)
 - [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
+- [PuTTY vulnerability vuln-ech-overflow](http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-ech-overflow.html)
 
 ![intrusion response procedures](images/intrusion_response_procedures.png)
 
@@ -593,6 +602,7 @@
 ## Red Hat Satellite, Katello and Foreman
 - [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
 - [Foreman is a complete lifecycle management tool](http://www.theforeman.org/)
+- [Satellite 6 and Foreman re-provisioning](https://chruz.wordpress.com/2015/11/23/satellite-6-and-foreman-re-provisioning/)
 
 ## Chef and SAP
 - [docs.chef.io](https://docs.chef.io/)
@@ -672,12 +682,14 @@
 	8. [Cost Control - CloudHealth](https://www.cloudhealthtech.com/)
 	9. [PaaS - Drie.co](http://www.drie.co/)
 	10. [Configuration management - Ansible](http://www.ansible.com/)
+- [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/)
 - [oraclejavamagazine-digital.com: 7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6)
 - [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 
 ## Agile planning: Scrum, Kanban, Lean
-- [Agilidad, por Javier Garzás](https://www.youtube.com/watch?v=oShXAC26rcs)
-- [Un video imprescindible sobre la buena gestión de equipos software](http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html)
+- [Javier Garzás: Agilidad](https://www.youtube.com/watch?v=oShXAC26rcs)
+	- [Aléjate del concepto “Proyecto” si quieres usar bien Scrum: confundir “versión a entregar” al cliente con final de sprint](http://www.javiergarzas.com/2015/11/alejate-del-concepto-proyecto-si-quieres-usar-bien-scrum-12-confundir-version-a-entregar-al-cliente-con-final-de-sprint.html)
+	- [Un video imprescindible sobre la buena gestión de equipos software](http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html)
 - [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge](http://www.scrumguides.org/)
 - [Why estimates never work](http://www.brandonsavage.net/why-estimates-never-work/)
 - [You will not become agile by implementing scrum](https://www.linkedin.com/pulse/you-become-agile-implementing-scrum-jurriaan-kamer)
@@ -689,6 +701,7 @@
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
 - [Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
+- [Continuously Delivering SOA. Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
 
 #### CI Jenkins
 - [Jenkins User Conference West 2015 - Slides available](https://www.cloudbees.com/jenkins/juc-2015/us-west)
@@ -848,18 +861,24 @@
 
 ## Editors
 ### Sublime
+
+#### Sublime Blogs
 - [sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox](http://sublimetexttips.com/)
-- [Sublime Text Unofficial Documentation](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/)
-	- [Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
-	- [Welcome to SublimeLinter 3](http://www.sublimelinter.com/en/latest/)
-	- [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
-- [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
-	- [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
-	- [Create and Open GitHub Gists from Sublime Text](http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
-	- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
-	- [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
+- [Sublime Text Unofficial Documentation](http://sublime-text-unofficial-documentation.readthedocs.org)
+- [Welcome to SublimeLinter 3](http://www.sublimelinter.com)
+
+#### Setting up Sublime
+- [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 	- [An excellent free video course on Sublime Text 2 - Sublime Text 3 is still in beta](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
+
+#### Sublime Git
+- [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
+- [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
+- [Improve your git workflow with this new Sublime Text 3 feature](http://sublimetexttips.com/improve-your-git-workflow-with-this-new-sublime-text-3-feature/)
+- [Create and Open GitHub Gists from Sublime Text](http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
+- [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
+- [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
 
 ### Alternative editors
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
@@ -868,6 +887,9 @@
 	- [Android development is 30% more expensive than iOS. And we have the numbers to prove it!](https://infinum.co/the-capsized-eight/articles/android-development-is-30-percent-more-expensive-than-ios)
 	- [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
+
+### Diff Tools
+- [youtube: Diff tools on Windows - Compare It! and WinMerge](https://youtu.be/Pbqhg3FrKQ4)
 
 ## Regular expressions
 - [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
@@ -882,19 +904,27 @@
 ![goto-dinosaur](images/goto-dinosaur.jpeg)
 
 ## Python
-- [reddit: python cheat sheet](https://www.reddit.com/r/learnpython/comments/3r2hsq/python_cheat_sheet/)
+### Python Blogs and Forums
+- [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
+	- [reddit: python cheat sheet](https://www.reddit.com/r/learnpython/comments/3r2hsq/python_cheat_sheet/)
+- [Full Stack Python is an open book that explains each Python web application stack layer and provides the best web resources for those topics](http://www.fullstackpython.com/)
+	- [Full Stack Python: Best Python Resources](http://www.fullstackpython.com/best-python-resources.html)
+- [LearnPython.org interactive Python tutorial](http://www.learnpython.org)
+- [The docker-py repository: an API client for docker written in Python](http://docker-py.readthedocs.org)
+- [Awesome Python. A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python/)
+- [Awesome Django. A curated list of awesome Django apps, projects and resources](https://gitlab.com/rosarior/awesome-django)
+- [pyvideo.org](http://pyvideo.org)
+- [Talk Python To Me Podcast](http://talkpython.fm)
+
+### Python docs
 - [Python progression path - From apprentice to guru](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 - [Setting up Python on OSX: UPDATED](http://staticnat.com/setting-up-python-on-osx/)
 - [Python 3.4 Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-	- [Full Stack Python is an open book that explains each Python web application stack layer and provides the best web resources for those topics](http://www.fullstackpython.com/)
 	- [Python mini-course](http://ai.berkeley.edu/tutorial.html#PythonBasics)
 	- [Web Development using Python & Django](https://www.mysliderule.com/learning-paths/web-development-python-django/)
 	- [A beginner's guide to web development with Python 2.7 / Django 1.7](http://www.tangowithdjango.com/)
 	- [I wish I knew these things when I learned Python](http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)
 	- [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
-	- [LearnPython.org interactive Python tutorial](http://www.learnpython.org)
-	- [Awesome Python. A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python/)
-	- [Awesome Django. A curated list of awesome Django apps, projects and resources](https://gitlab.com/rosarior/awesome-django)
 - [15 Essential Python Interview Questions](https://www.codementor.io/python/tutorial/essential-python-interview-questions)
 	- [Python mini-quiz](http://www.mypythonquiz.com/)
 - [Testing Python](http://it-ebooks.info/book/3778/)
@@ -910,7 +940,6 @@
 - [The Flask Mega-Tutorial: Now with Python 3 Support](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
 - [How do you handle the ORM problem? When do you say YES or NO to using ORM?](http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood)
 - [Don't Make Us Say We Told You So: virtualenv for New Pythonistas](http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for)
-- [The docker-py repository: an API client for docker written in Python](http://docker-py.readthedocs.org/en/stable/api/)
 - [Java Vs. Python - Which Programming Language is More Productive? - Infographic](http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive)
 - [Talk Python To Me Podcast. Episode #36: Python IDEs with the PyCharm team](http://talkpython.fm/episodes/show/36/python-ides-with-the-pycharm-team)
 
@@ -939,6 +968,7 @@
 - [json.org](http://json.org/)
 - [Json Parser Online](http://json.parser.online.fr/)
 - [BSON - Binary JSON](http://bsonspec.org/)
+- [Stop Comparing JSON and XML](https://dzone.com/articles/stop-comparing-json-and-xml)
 
 ## QA. Software Testing
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
@@ -1015,17 +1045,22 @@
 - [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 
 ## SQL
-- [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
+### SQL Blogs and Forums
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
+- [essentialsql.com](http://www.essentialsql.com)
+- [Use-the-index-luke.com: SQL Indexing and Tuning e-Book](http://use-the-index-luke.com/)
+- [T-SQL Tidy: Online T-SQL Statement Parser and Formatter](http://tsqltidy.com/)
+- [SQL Joins Visualizer. SQL Joins Visualizer help to you build SQL JOIN between two tables by using of Venn diagrams](http://sql-joins.leopard.in.ua/)
+
+### SQL Docs
+- [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
 - [essentialsql.com: Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 	- [essentialsql.com: What is the Difference Between Cast and Convert?](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 	- [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [SQL in ten minutes](http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes)
 - [10 sql tips to speed up your database](http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database)
-- [Use-the-index-luke.com: SQL Indexing and Tuning e-Book](http://use-the-index-luke.com/)
+- [dzone.com: SQL GROUP BY and Functional Dependencies: a Very Useful Feature](https://dzone.com/articles/sql-group-by-and-functional-dependencies-a-very-us)
 - [How do you handle the ORM problem? When do you say YES or NO to using ORM?](http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood)
-- [T-SQL Tidy: Online T-SQL Statement Parser and Formatter](http://tsqltidy.com/)
-- [SQL Joins Visualizer. SQL Joins Visualizer help to you build SQL JOIN between two tables by using of Venn diagrams](http://sql-joins.leopard.in.ua/)
 - [SQL Query to find all table names on database in MySQL and SQL Server Examples](http://javarevisited.blogspot.com.es/2012/10/sql-query-to-find-all-table-on-database-mysql-sqlserver.html)
 - [Curso SQL. Referencias cruzadas. Vídeo 15](https://www.youtube.com/watch?v=_kIWDzZUdA8)
 - [Difference between Primary and Foreign key in table](http://java67.blogspot.com.es/2015/12/difference-between-primary-and-foreign.html)
@@ -1148,6 +1183,7 @@
 	- [Fiddler, un proxy para depurar aplicaciones](http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones)
 - [TRANSUM Wireshark Plugin. Some Wireshark dissectors provide response time measurement values, but what gets measured is not ideal for performance analysis work](http://www.tribelabzero.com/transum)
 	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
+- [Corvil.com Network Data Analsysis. Free eBook: Understanding Packet Loss](http://corvil.com/resources/white-papers/ebook-understanding-packet-loss)
 
 ## VoIP
 - [VoIP Planning: Calculate Your Bandwidth Before Adding SIP Trunk Service](http://it.toolbox.com/blogs/voip-news/voip-planning-calculate-your-bandwidth-before-adding-sip-trunk-service-66093)
@@ -1173,12 +1209,16 @@
 - [10 emuladores WAN para que pruebes distintas condiciones de red](http://www.hackplayers.com/2015/10/10-emuladores-wan-para-que-pruebes.html)
 - [NEWfly, Redes Cisco y Packet Tracker: Network, ejercicios Packet Tracer y simulación de vuelo](https://newfly.wordpress.com/)
 
+![cabling](images/cabling.jpg)
+
 # Servers, Storage and Backup
 
 ## Dell
+- [Dell Community](http://community.dell.com/)
 - [New PowerEdge R930: Powerful and reliable, ideal for customers migrating to more innovative x86 platforms from proprietary UNIX](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-r930-server)
 - [Dell PowerEdge R930](http://www.dell.com/es/empresas/p/poweredge-r930/pd?~ck=anav)
 - [Dell launches PowerEdge entry-level servers for SMBs](http://www.infotechlead.com/networking/dell-launches-entry-level-servers-for-smbs-36295)
+- [storagereview.com Dell PowerEdge 13G R730 Server Review](http://www.storagereview.com/dell_poweredge_13g_r730_server_review)
 
 ## HP
 - [HP releases new servers and storage for SMEs](http://www.itwire.com/business-it-news/hardware-and-storage/67312-hp-releases-new-servers-and-storage-for-smes)
@@ -1196,6 +1236,7 @@
 - [X2Go](http://x2go.org)
 
 ## Storage
+- [StorageReview.com](http://www.storagereview.com/)
 - [Presentación Synology 2015 Evento Madrid](http://qloudea.com/blog/evento-synology-2015-madrid/)
 	- [Forum.synology.com](http://forum.synology.com)
 	- [Synology Add-on Packages](https://www.synology.com/en-uk/dsm/app_packages)
@@ -1323,6 +1364,7 @@
 ### AWS Security
 - [AWS Security Blog](http://blogs.aws.amazon.com/security)
 - [How to Automatically Update Your Security Groups for Amazon CloudFront and AWS WAF by Using AWS Lambda (boto3 python)](http://blogs.aws.amazon.com/security/post/Tx1LPI2H6Q6S5KC/How-to-Automatically-Update-Your-Security-Groups-for-Amazon-CloudFront-and-AWS-W)
+- [Tutorial: Configure Apache Web Server on Amazon Linux to use SSL/TLS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-an-instance.html)
 
 ## AWS Partner Network (APN)
 - [AWS Partner Network](https://aws.amazon.com/partners/)
