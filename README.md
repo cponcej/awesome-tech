@@ -1,5 +1,5 @@
 # Awesome Tech
-A curated list of awesome IT projects and resources collected between 2014 and 2015. Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
+A curated list of awesome IT projects and resources collected between 2014 and 2015. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 - [Awesome Tech](/docs/index.md)
 - [Awesome Tech at readthedocs.org](http://awesome-tech.readthedocs.org)
