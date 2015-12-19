@@ -152,6 +152,7 @@
 - [agile.zeef.com](https://agile.zeef.com)
 - [sublime-text.zeef.com](https://sublime-text.zeef.com)
 - [git.zeef.com](https://git.zeef.com)
+- [web-tools.zeef.com](https://web-tools.zeef.com)
 - [wordpress.zeef.com](https://wordpress.zeef.com)
 - [web-publishing.zeef.com](https://web-publishing.zeef.com)
 - [security.zeef.com](https://security.zeef.com)
@@ -164,6 +165,7 @@
 - [docker.zeef.com](https://docker.zeef.com)
 - [linux.zeef.com](https://linux.zeef.com)
 - [linux-for-administrators.zeef.com](https://linux-for-administrators.zeef.com)
+- [open-source-networking.zeef.com](https://open-source-networking.zeef.com)
 - [virtualization.zeef.com](https://virtualization.zeef.com)
 - [devops.zeef.com](https://devops.zeef.com)
 - [dev-ops-tools.zeef.com](https://dev-ops-tools.zeef.com)
@@ -188,6 +190,7 @@
 - [online-collaboration-tools.zeef.com](https://online-collaboration-tools.zeef.com)
 - [digital-marketing.zeef.com](https://digital-marketing.zeef.com)
 - [email-marketing.zeef.com](https://email-marketing.zeef.com)
+- [bitcoin.zeef.com](https://bitcoin.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
