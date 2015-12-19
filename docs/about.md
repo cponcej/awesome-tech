@@ -12,6 +12,5 @@
 - [awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
-# Awesome List
-- [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
+:smiley:
 
