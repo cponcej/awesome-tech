@@ -21,9 +21,9 @@
 	- [Red Hat Docs](#red-hat-docs)
 	- [Red Hat virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
-	- [Red Hat Videos](#red-hat-videos)
+	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
 	- [Red Hat Development](#red-hat-development)
-		- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
+	- [Red Hat Videos](#red-hat-videos)
 - [Microsoft](#microsoft)
 	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [WebApp](#webapp)
@@ -352,12 +352,9 @@
 - [Red Hat announces availability of containerized middleware capabilities on OpenShift](http://www.redhat.com/en/about/blog/red-hat-announces-availability-containerized-middleware-capabilities-openshift)
 	- [zdnet.com: Containers, OpenShift, and Middleware](http://www.zdnet.com/article/containers-openshift-and-middleware/)
 
-## Red Hat Videos
-- [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
-- [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
-- [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
-	- [Flock 2014 Fedora Conference](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
-	- [Flock 2015 Fedora Conference](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
+## Red Hat Mobile Application Platform: Feed Henry
+- [Feed Henry](http://feedhenry.org/)
+- [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
 
 ## Red Hat Development
 - [developerblog.redhat.com: 2015 Year in Review – oh what a year](http://developerblog.redhat.com/2015/12/14/2015-year-in-review-oh-what-a-year/)
@@ -369,9 +366,12 @@
 	- [Reddit: Red Hat Software Collections (SCL) is not provided with RHEL Server/Workstation, Self Support](https://www.reddit.com/r/redhat/comments/39kk0s/red_hat_software_collections_scl_is_not_provided/)
 - [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 
-### Red Hat Mobile Application Platform: Feed Henry
-- [Feed Henry](http://feedhenry.org/)
-- [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
+## Red Hat Videos
+- [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
+- [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
+- [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
+	- [Flock 2014 Fedora Conference](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
+	- [Flock 2015 Fedora Conference](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
 
 # Microsoft
 - [SSH for Windows open sourced by Microsoft. Qué está pasando?](https://github.com/PowerShell/Win32-OpenSSH)
