@@ -514,6 +514,7 @@
 - [Sucuri Blog](https://blog.sucuri.net/)
 
 ## Security Toolkits
+- [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
 - [Network Security Toolkit](http://www.networksecuritytoolkit.org)
 
 ## Identity Management
