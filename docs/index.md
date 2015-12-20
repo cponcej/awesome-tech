@@ -12,6 +12,7 @@
 	- [Startup jobs](#startup-jobs)
 - [Scalability and Reliability](#scalability-and-reliability)
 	- [Scalability Solutions](#scalability-solutions)
+	- [Data Center Blogs](#data-center-blogs)
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
 	- [Linux Docs and Resources](#linux-docs-and-resources)
@@ -274,25 +275,27 @@
 	- [Kubernetes repo analyzed with gitm. Top changeset contributors by employer](https://github.com/karlkfi/kubernetes-gitdm/wiki#top-changeset-contributors-by-employer)
 - [Univa Grid Engine](http://www.univa.com/)
 
+## Data Center Blogs
+- [Data Center Knowledge](http://www.datacenterknowledge.com/)
+
 # Linux
 ## Linux Blogs and Forums
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
-- [systemadmin.es](http://systemadmin.es/)
-	- [muylinux.com](http://www.muylinux.com/)
 - [opensource.com](https://opensource.com/)
 - [Linux.com](http://www.linux.com/)
+- [The Linux Foundation](http://www.linuxfoundation.org/)
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
 - [LinuxJournal](http://www.linuxjournal.com)
 - [Xmodulo - Linux FAQs, tips and tutorials](http://xmodulo.com)
 - [MyLinuxSoftware.com: A Linux Software Directory for GUI and Console Apps](http://www.mylinuxsoftware.com/)
 - [unixetc.co.uk](http://unixetc.co.uk/)
 - [LWN.net](http://lwn.net/)
-- [Data Cener Knowledge](http://www.datacenterknowledge.com/)
-- [The Linux Foundation](http://www.linuxfoundation.org/)
-- [The Lone Sysadmin](https://lonesysadmin.net/)
 - [Linux-tutorial.info](http://www.linux-tutorial.info/)
+- [The Lone Sysadmin](https://lonesysadmin.net/)
+- [systemadmin.es](http://systemadmin.es/)
+	- [muylinux.com](http://www.muylinux.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 
 ## Linux Docs and Resources
@@ -1198,7 +1201,7 @@
 
 # Networking
 ## Next Generation Firewalls
-- Compliant with new Enterprise Internet Connections (300 & 500Mbps)
+- Compliant with new Enterprise Broadband Internet Connections (300 & 500Mbps)
 - [Dell SonicWALL PowerPoint Presentation](http://www.infinigate.dk/fileadmin/user_upload/CH/Events/ITSCR2015/DELL_SonicWALL1.pdf)
 - [Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
 - [Dell Security Live Demo](http://livedemo.sonicwall.com)
