@@ -34,6 +34,7 @@
 		- [WebLogic Resources](#weblogic-resources)
 	- [JBoss (WildFly)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
+		- [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-and-others)
 		- [JBoss Resources](#jboss-resources)
 		- [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
 		- [JBoss Fuse - Enterprise Service Bus (ESB)](#jboss-fuse---enterprise-service-bus-esb)
@@ -44,6 +45,7 @@
 	- [E-Mail](#e-mail)
 - [Security](#security)
 	- [Security Blogs](#security-blogs)
+	- [Security Toolkits](#security-toolkits)
 	- [Identity Management](#identity-management)
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls](#breaking-firewalls)
@@ -59,7 +61,7 @@
 			- [Oracle via Ansible](#oracle-via-ansible)
 	- [Puppet](#puppet)
 		- [WebLogic via Puppet](#weblogic-via-puppet)
-	- [Red Hat Satellite, Katello and Foreman](#red-hat-satellite-katello-and-foreman)
+	- [Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others](#provisioning-red-hat-satellite-katello-foreman-cobbler-and-others)
 	- [Chef and SAP](#chef-and-sap)
 	- [Docker](#docker)
 		- [Microservices](#microservices)
@@ -72,7 +74,7 @@
 	- [DevOps Tools 2016](#devops-tools-2016)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
-			- [CI Jenkins](#ci-jenkins)
+			- [CI Jenkins, Travis](#ci-jenkins-travis)
 			- [CI Docker](#ci-docker)
 			- [CI RPM build](#ci-rpm-build)
 			- [CI Maven and Gradle](#ci-maven-and-gradle)
@@ -83,6 +85,8 @@
 		- [Alternatives](#alternatives)
 	- [Metric monitoring](#metric-monitoring)
 		- [Tools](#tools)
+		- [Monitoring of JavaEE applications](#monitoring-of-javaee-applications)
+		- [Monitoring Network Bandwidth](#monitoring-network-bandwidth)
 		- [APM: Application Performance Management](#apm-application-performance-management)
 			- [APM Blogs](#apm-blogs)
 			- [APM Solutions](#apm-solutions)
@@ -125,6 +129,7 @@
 		- [SQL replication](#sql-replication)
 		- [NoSQL](#nosql)
 			- [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
+			- [Redis, Coudhdb, and others](#redis-coudhdb-and-others)
 			- [Schema free SQL query on everything engines](#schema-free-sql-query-on-everything-engines)
 		- [NewSQL](#newsql)
 - [Networking](#networking)
@@ -160,7 +165,7 @@
 - [Desktop Tools](#desktop-tools)
 - [E-Learning](#e-learning)
 	- [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
-	- [Free E-learning](#free-e-learning)
+	- [Free e-learning](#free-e-learning)
 	- [Alternatives](#alternatives-1)
 
 <!-- /MarkdownTOC -->
@@ -256,6 +261,7 @@
 	- ["Scalable Internet Architectures" book - Theo Schlossnagle](http://scalableinternetarchitectures.com/)
 	- [video: Scalable Internet Architectures - Theo Schlossnagle](https://www.youtube.com/watch?v=2WuT2rdLK5A)
 - [slides: Scalable Web Architectures: Common Patterns and Approaches](http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches)
+- [highscalability.com](http://highscalability.com/)
 - [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
 - [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
 - [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
@@ -273,12 +279,21 @@
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
+- [systemadmin.es](http://systemadmin.es/)
+	- [muylinux.com](http://www.muylinux.com/)
 - [opensource.com](https://opensource.com/)
 - [Linux.com](http://www.linux.com/)
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
 - [LinuxJournal](http://www.linuxjournal.com)
 - [Xmodulo - Linux FAQs, tips and tutorials](http://xmodulo.com)
 - [MyLinuxSoftware.com: A Linux Software Directory for GUI and Console Apps](http://www.mylinuxsoftware.com/)
+- [unixetc.co.uk](http://unixetc.co.uk/)
+- [LWN.net](http://lwn.net/)
+- [Data Cener Knowledge](http://www.datacenterknowledge.com/)
+- [The Linux Foundation](http://www.linuxfoundation.org/)
+- [The Lone Sysadmin](https://lonesysadmin.net/)
+- [Linux-tutorial.info](http://www.linux-tutorial.info/)
+- [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 
 ## Linux Docs and Resources
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
@@ -286,6 +301,7 @@
 - [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
 - [Linux and Unix Port Scanning With netcat 'nc' Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
 - [Sysadmincasts.com: LVM Linear vs Striped Logical Volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)
+- [unixetc.co.uk: Profiling and Tracing Processes in Linux](http://unixetc.co.uk/2012/10/28/profiling-and-tracing-processes-in-linux/)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 - [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
 - [Linux: Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
@@ -353,6 +369,9 @@
 - [SSH for Windows open sourced by Microsoft. Qué está pasando?](https://github.com/PowerShell/Win32-OpenSSH)
 - [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
 - [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
+- [Windows Migration Best Practices and Resources from Dell & Microsoft](http://www.migrationexpertzone.com/)
+- [PowerShell Magazine](http://www.powershellmagazine.com/)
+- [PowerShell.org](http://powershell.org)
 
 ## Microsoft Monitoring and Management
 - [Spiceworks](http://www.spiceworks.com/)
@@ -421,11 +440,22 @@
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
 
 ### JBoss Blogs
+- [docs.jboss.org](http://docs.jboss.org )
+- [community.jboss.org](https://community.jboss.org )
 - [JBoss Developer](https://developer.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
 - [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
 - [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)
 - [schabell.org - Eric D. Schabell's blog](http://www.schabell.org)
+- [JBoss Tutotials - JBoss training courses](http://www.mastertheboss.com/)
+
+### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others
+- [JBoss GateIn Portal](http://gatein.jboss.org/)
+- [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
+- [JBoss Forge to build Maven-based Java EE projects](http://forge.jboss.org/)
+- [JBoss Forums](http://jbossforums.jboss.org/)
+- [JBoss Developer Studio](https://www.jboss.org/products/devstudio/overview/)
+- [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
 
 ### JBoss Resources
 - [middlewaresnippets.blogspot.com - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com/2014/07/wildflying-java-ee-7.html)
@@ -459,6 +489,7 @@
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
 - [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
+- [vogella.com: Java Performance - Memory and Runtime Analysis - Tutorial](http://www.vogella.com/tutorials/JavaPerformance/article.html)
 - [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
 - [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
 - [What is a Data Grid?](http://www.c2b2.co.uk/what_is_data_grid_webinar)
@@ -477,6 +508,10 @@
 # Security
 ## Security Blogs
 - [ehacking.net](http://www.ehacking.net)
+- [Sucuri Blog](https://blog.sucuri.net/)
+
+## Security Toolkits
+- [Network Security Toolkit](http://www.networksecuritytoolkit.org)
 
 ## Identity Management
 - [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
@@ -600,10 +635,16 @@
 	- [puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module](https://forge.puppetlabs.com/biemond/wls)
 	- [middlewaresnippets.blogspot.com - Install and Configure a WebLogic Server Environment using Puppet](http://middlewaresnippets.blogspot.com/2015/03/install-and-configure-weblogic-server.html)
 
-## Red Hat Satellite, Katello and Foreman
-- [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
+## Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others
+- [Katello](http://www.katello.org/)
 - [Foreman is a complete lifecycle management tool](http://www.theforeman.org/)
+- [Cobbler](http://cobbler.github.io/)
+- [Candlepin](http://www.candlepinproject.org/)
+- [Pulp](http://www.pulpproject.org/)
+- [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
 - [Satellite 6 and Foreman re-provisioning](https://chruz.wordpress.com/2015/11/23/satellite-6-and-foreman-re-provisioning/)
+- [redhat.com: Product Documentation for Red Hat Network Satellite](https://access.redhat.com/documentation/en/red-hat-network-satellite/)
+- [community.dell.com: Red Hat Network Satellite administration tips](http://en.community.dell.com/techcenter/os-applications/w/wiki/red-hat-network-satellite-administration-tips)
 
 ## Chef and SAP
 - [docs.chef.io](https://docs.chef.io/)
@@ -701,15 +742,17 @@
 ### Continuous Integration and Delivery
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
+- [continuousdelivery.com](http://continuousdelivery.com/)
 - [Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
 - [Continuously Delivering SOA. Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
 
-#### CI Jenkins
+#### CI Jenkins, Travis
 - [Jenkins User Conference West 2015 - Slides available](https://www.cloudbees.com/jenkins/juc-2015/us-west)
 	- [Jenkins and Docker: Next Generation Continuous Delivery](https://www.linkedin.com/pulse/jenkins-docker-next-generation-continuous-delivery-khadija-kerissi)
 	- [Tutorial: Gestión de Configuración – Ansible + Vagrant + Jenkins](http://www.carlessanagustin.com/2015/08/20/tutorial-gestion-de-configuracion-ansible-vagrant-jenkins/)
 	- [Jenkins Docker Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin)
 	- [jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server](https://github.com/jhrcz/jenkins-rpm-builder)
+- [Travis CI](https://travis-ci.org/)
 
 #### CI Docker
 - [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine
@@ -722,6 +765,7 @@
 
 #### CI Maven and Gradle
 - [Java: Maven vs Gradle](https://dzone.com/articles/maven-vs-gradle-one-year-later)
+- [Gradle | Modern Open-Source Enterprise Build Automation](http://gradle.org/)
 
 ## Git
 - [One Million Downloads of GitLab](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
@@ -757,6 +801,7 @@
 
 ### Alternatives
 - [Siege, a CLI tool ideal for a simple testing of AWS Auto Scaling](https://www.joedog.org/siege-home/)
+- [Grinder](http://grinder.sourceforge.net/)
 
 ## Metric monitoring
 ### Tools
@@ -785,6 +830,15 @@
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
 
 ![zabbix cookbook](images/zabbix-cookbook.jpg)
+
+### Monitoring of JavaEE applications
+- [javamelody](https://github.com/javamelody)
+- [visualvm](http://visualvm.java.net/)
+- [Red Hat Subscription: How do I analyze a Java heap dump?](https://access.redhat.com/solutions/18301)
+
+### Monitoring Network Bandwidth
+- [Iperf.fr - The TCP,UDP and SCTP network bandwidth measurement tool](https://iperf.fr/)
+- [Red Hat Subscription: Using iperf to test network bandwidth throughput](https://access.redhat.com/solutions/33103)
 
 ### APM: Application Performance Management
 - [APM Convergence: Monitoring vs. Management. APM is entering into a period of intense competition of technology and strategy with a multiplicity of vendors and viewpoints](http://apmdigest.com/apm-convergence-monitoring-vs-management)
@@ -893,7 +947,11 @@
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
 
 ### Diff Tools
-- [youtube: Diff tools on Windows - Compare It! and WinMerge](https://youtu.be/Pbqhg3FrKQ4)
+- [Comparison of file comparison tools](https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools)
+- [winmerge.org](http://winmerge.org/)
+	- [youtube: Diff tools on Windows - Compare It! and WinMerge](https://youtu.be/Pbqhg3FrKQ4)
+- [meldmerge.org](http://meldmerge.org/)
+- [KDiff3](http://kdiff3.sourceforge.net/)
 
 ## Regular expressions
 - [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
@@ -915,6 +973,7 @@
 	- [Full Stack Python: Best Python Resources](http://www.fullstackpython.com/best-python-resources.html)
 - [realpython.com](http://realpython.com)
 - [LearnPython.org interactive Python tutorial](http://www.learnpython.org)
+- [Dough Hellmann - Python, OpenStack and Open Source](https://doughellmann.com)
 - [The docker-py repository: an API client for docker written in Python](http://docker-py.readthedocs.org)
 - [Awesome Python. A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python/)
 - [Awesome Django. A curated list of awesome Django apps, projects and resources](https://gitlab.com/rosarior/awesome-django)
@@ -1078,6 +1137,7 @@
 	- [Top 20+ MySQL Best Practices](http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)
 	- [highperfmysql.com - High Performance MySQL. Learn to Build Fast, Reliable, Scalable Systems with MySQL](http://www.highperfmysql.com/)
 	- [MySQL very high CPU usage (and other processes)](http://www.corrspt.com/blog/2015/07/01/mysql-very-high-cpu-usage/)
+	- [It’s the Hardware, idiot! Increasing MySQL Performance](http://www.monitis.com/blog/2012/09/04/hardware-solutions-for-increasing-mysql-performance/)
 	- [Python Mysql Connector](http://jasonralph.org/?p=291)
 	- [Tutorialspoint.com - MySQL Tutorial](http://www.tutorialspoint.com/mysql/index.htm)
 	- [Anemometer: MySQL Slow Query Monitor](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
@@ -1116,6 +1176,14 @@
 - [Orchestrate: DBaaS|NoSQL with One REST API](https://orchestrate.io/)
 - [mongodirector: MongoDB Hosting](http://mongodirector.com)
 
+#### Redis, Coudhdb, and others
+- [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
+- [Redis](http://redis.io/)
+- [Couchdb.apache.org](http://couchdb.apache.org)
+- [Cassandra.apache.org](http://cassandra.apache.org/)
+- [HBase.apache.org](http://hbase.apache.org/)
+- [Hive.apache.org](https://hive.apache.org/)
+
 #### Schema free SQL query on everything engines
 - [Apache Drill](https://drill.apache.org/)
 - [dzone: SQL Syntax for Apache Drill](https://dzone.com/refcardz/sql-syntax-for-apache-drill)
@@ -1145,11 +1213,15 @@
 ## Network Forensics
 
 ### Network Forensics Blogs
+- [seguridadyredes.wordpress.com](https://seguridadyredes.wordpress.com/)
 - [packetbomb.com](http://packetbomb.com/)
 - [blog.packet-foo.com](https://blog.packet-foo.com)
 - [LoveMyTool - Building an Open Community for Network Management and Monitoring](http://www.lovemytool.com/blog)
 - [thevisiblenetwork.com](http://www.thevisiblenetwork.com)
 - [packetlife.net](http://packetlife.net/)
+- [Packet Pushers](http://packetpushers.net/)
+- [The Networking Nerd](http://networkingnerd.net/)
+
 - [sharkfest.wireshark.org](http://sharkfest.wireshark.org)
 
 ### Network Forensics Docs
@@ -1160,6 +1232,7 @@
 - [Wireshark 101: Transmission Control Protocol, video tutorial](https://www.youtube.com/watch?v=iX44XIZafiw)
 - [Recomendación en Network Forensics: no capturar trazas en sistemas servidor/cliente/desktop sino en un switch con port mirroring.](https://blog.packet-foo.com/2014/05/the-drawbacks-of-local-packet-captures/) Es la única manera de ser rigurosos en los análisis cuando nos importan el tamaño de los paquetes, los tiempos medidos, checksums rotos, interferencias con otro software, etc.
 - [HTTP Basic Authentication with wireshark](http://www.networkcomputing.com/applications/http-basic-authentication-primer/d/d-id/1323331)
+- [youtube: TCP Window Performance Analysis](https://youtu.be/N-n1n6WKmRs)
 - [How Can the Packet Size Be Greater than the MTU?](http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/)
 - [INE.com training videos: Analyzing Packet Lengths](https://youtu.be/qsUaB36CVDw)
 - [blog.cloudflare.com - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/)
@@ -1414,11 +1487,13 @@
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
 	- [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 
-## Free E-learning
+## Free e-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)
 - [Flo-Joe: THE place on the web for Cambridge exam preparation](http://www.flo-joe.co.uk/)
 - [Coursera](http://coursera.org)
+- [Codecademy](https://www.codecademy.com)
 - [Guru99: Selenium,QTP,Java, SAP,Test Management, Linux,Ethical Hacking, Mobile Testing,Accounting, etc](http://www.guru99.com/)
+- [Vogella tutorials](http://www.vogella.com/tutorials/)
 - [Typing, una web para que los programadores practiquen](http://wwwhatsnew.com/2015/06/19/typing-una-web-para-que-los-programadores-practiquen/)
 - [Databricks to run two massive online courses on Apache Spark](https://databricks.com/blog/2014/12/02/announcing-two-spark-based-moocs.html)
 	- [edx.org - Introduction to Big Data with Apache Spark](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs100-1x-introduction-big-6181)
