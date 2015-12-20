@@ -23,7 +23,7 @@
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
 	- [Red Hat Videos](#red-hat-videos)
 	- [Red Hat Development](#red-hat-development)
-		- [Red Hat Mobile Application Platform - Feed Henry](#red-hat-mobile-application-platform---feed-henry)
+		- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
 - [Microsoft](#microsoft)
 	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [WebApp](#webapp)
@@ -369,7 +369,7 @@
 	- [Reddit: Red Hat Software Collections (SCL) is not provided with RHEL Server/Workstation, Self Support](https://www.reddit.com/r/redhat/comments/39kk0s/red_hat_software_collections_scl_is_not_provided/)
 - [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 
-### Red Hat Mobile Application Platform - Feed Henry
+### Red Hat Mobile Application Platform: Feed Henry
 - [Feed Henry](http://feedhenry.org/)
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
 
