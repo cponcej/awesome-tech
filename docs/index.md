@@ -636,6 +636,7 @@
 	- [middlewaresnippets.blogspot.com - Install and Configure a WebLogic Server Environment using Puppet](http://middlewaresnippets.blogspot.com/2015/03/install-and-configure-weblogic-server.html)
 
 ## Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others
+- [Red Hat Satellite](https://access.redhat.com/products/red-hat-satellite)
 - [Katello](http://www.katello.org/)
 - [Foreman is a complete lifecycle management tool](http://www.theforeman.org/)
 - [Cobbler](http://cobbler.github.io/)
