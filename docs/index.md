@@ -22,6 +22,14 @@
 	- [Red Hat virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
 	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
+	- [JBoss (WildFly)](#jboss-wildfly)
+		- [JBoss Blogs](#jboss-blogs)
+		- [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-and-others)
+		- [JBoss Resources](#jboss-resources)
+		- [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
+		- [JBoss Fuse - Enterprise Service Bus (ESB)](#jboss-fuse---enterprise-service-bus-esb)
+		- [JBoss Data Virtualization](#jboss-data-virtualization)
+		- [JBoss Data Grid](#jboss-data-grid)
 	- [Red Hat Development](#red-hat-development)
 	- [Red Hat Videos](#red-hat-videos)
 - [Microsoft](#microsoft)
@@ -34,14 +42,6 @@
 	- [WebLogic](#weblogic)
 		- [Oracle Blogs: Middleware and Java](#oracle-blogs-middleware-and-java)
 		- [WebLogic Resources](#weblogic-resources)
-	- [JBoss (WildFly)](#jboss-wildfly)
-		- [JBoss Blogs](#jboss-blogs)
-		- [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-and-others)
-		- [JBoss Resources](#jboss-resources)
-		- [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
-		- [JBoss Fuse - Enterprise Service Bus (ESB)](#jboss-fuse---enterprise-service-bus-esb)
-		- [JBoss Data Virtualization](#jboss-data-virtualization)
-		- [JBoss Data Grid](#jboss-data-grid)
 	- [JVM Latency: Caching, Off Heap, Data Grid](#jvm-latency-caching-off-heap-data-grid)
 		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
 	- [E-Mail](#e-mail)
@@ -356,6 +356,55 @@
 - [Feed Henry](http://feedhenry.org/)
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
 
+## JBoss (WildFly)
+- [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
+
+### JBoss Blogs
+- [docs.jboss.org](http://docs.jboss.org )
+- [community.jboss.org](https://community.jboss.org )
+- [JBoss Developer](https://developer.jboss.org/)
+- [JBoss Issue Tracker](https://issues.jboss.org)
+- [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
+- [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)
+- [schabell.org - Eric D. Schabell's blog](http://www.schabell.org)
+- [JBoss Tutotials - JBoss training courses](http://www.mastertheboss.com/)
+
+### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others
+- [JBoss GateIn Portal](http://gatein.jboss.org/)
+- [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
+- [JBoss Forge to build Maven-based Java EE projects](http://forge.jboss.org/)
+- [JBoss Forums](http://jbossforums.jboss.org/)
+- [JBoss Developer Studio](https://www.jboss.org/products/devstudio/overview/)
+- [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
+
+### JBoss Resources
+- [middlewaresnippets.blogspot.com - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com/2014/07/wildflying-java-ee-7.html)
+- [developerblog.redhat.com - JBoss on Docker At a Glance](http://developerblog.redhat.com/2015/01/14/jboss-on-docker-at-a-glance/)
+- [blog.openshift.com: A Java EE 7 Application on OpenShift 3 With JBoss Tools](https://blog.openshift.com/a-java-ee-7-application-on-openshift-3-with-jboss-tools/)
+- [C2B2Consulting - JBoss EAP 6: installation, configuration & clustering](http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar)
+- [dzone.com - Red Hat JBoss Fuse Workshop 101: Fuse in EAP](https://dzone.com/articles/red-hat-jboss-fuse-workshop-101-fuse-in-eap)
+- [youtube - 2014 Red Hat Summit: Red Hat JBoss Middleware keynote](https://youtu.be/XPK2RTqlBxk)
+- [youtube - Craig Muzilla delivers middleware keynote at 2015 Red Hat Summit](https://youtu.be/wWNVpFibayA)
+
+### JBoss BPM Suite and JBoss BRMS
+- [Red Hat Updates JBoss BPM Suite and JBoss BRMS Products](http://www.redhat.com/de/about/blog/red-hat-updates-jboss-bpm-suite-and-jboss-brms-products)
+- [schabell.org: The ultimate collection of JBoss BPM Suite demos](http://www.schabell.org/2015/12/ultimate-collection-jboss-bpmsuite-demos.html)
+- [schabell.org: Quick Tour #4 Start your first JBoss BRMS project (video)](http://www.schabell.org/2015/12/quick-tour-4-first-brms-project.html)
+
+### JBoss Fuse - Enterprise Service Bus (ESB)
+- [JBoss Fuse Description](http://www.jboss.org/products/fuse/overview/)
+- [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
+
+### JBoss Data Virtualization
+- [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
+
+### JBoss Data Grid
+- [JBoss Data Grid description. ](http://www.jboss.org/products/datagrid/overview/)JBoss Data Grid is an in-memory, distributed, NoSQL data store that helps boost application performance and improve scalability and development flexibility.
+- [C2B2Consulting - JBoss Data Grid](http://www.c2b2.co.uk/jboss_data_grid)
+	- [C2B2Consulting - JBoss Data Grid: Webinar](http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1)
+	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
+	- [C2B2Consulting - Youtube - Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](https://youtu.be/q52_C9WW70Q)
+
 ## Red Hat Development
 - [developerblog.redhat.com: 2015 Year in Review – oh what a year](http://developerblog.redhat.com/2015/12/14/2015-year-in-review-oh-what-a-year/)
 	- [Our 5 most popular developer posts in 2014](http://developerblog.redhat.com/2014/12/31/5-most-popular-posts-2014/)
@@ -443,55 +492,6 @@
 - [blogs.oracle.com - WLST Scripting to Get WebLogic Libraries and Deployed Applications](https://blogs.oracle.com/practicalbpm/entry/wlst_scripting_to_get_weblogic)
 - [Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
 - [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
-
-## JBoss (WildFly)
-- [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
-
-### JBoss Blogs
-- [docs.jboss.org](http://docs.jboss.org )
-- [community.jboss.org](https://community.jboss.org )
-- [JBoss Developer](https://developer.jboss.org/)
-- [JBoss Issue Tracker](https://issues.jboss.org)
-- [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
-- [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)
-- [schabell.org - Eric D. Schabell's blog](http://www.schabell.org)
-- [JBoss Tutotials - JBoss training courses](http://www.mastertheboss.com/)
-
-### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others
-- [JBoss GateIn Portal](http://gatein.jboss.org/)
-- [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
-- [JBoss Forge to build Maven-based Java EE projects](http://forge.jboss.org/)
-- [JBoss Forums](http://jbossforums.jboss.org/)
-- [JBoss Developer Studio](https://www.jboss.org/products/devstudio/overview/)
-- [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
-
-### JBoss Resources
-- [middlewaresnippets.blogspot.com - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com/2014/07/wildflying-java-ee-7.html)
-- [developerblog.redhat.com - JBoss on Docker At a Glance](http://developerblog.redhat.com/2015/01/14/jboss-on-docker-at-a-glance/)
-- [blog.openshift.com: A Java EE 7 Application on OpenShift 3 With JBoss Tools](https://blog.openshift.com/a-java-ee-7-application-on-openshift-3-with-jboss-tools/)
-- [C2B2Consulting - JBoss EAP 6: installation, configuration & clustering](http://www.c2b2.co.uk/introduction_to_jboss_eap_6_webinar)
-- [dzone.com - Red Hat JBoss Fuse Workshop 101: Fuse in EAP](https://dzone.com/articles/red-hat-jboss-fuse-workshop-101-fuse-in-eap)
-- [youtube - 2014 Red Hat Summit: Red Hat JBoss Middleware keynote](https://youtu.be/XPK2RTqlBxk)
-- [youtube - Craig Muzilla delivers middleware keynote at 2015 Red Hat Summit](https://youtu.be/wWNVpFibayA)
-
-### JBoss BPM Suite and JBoss BRMS
-- [Red Hat Updates JBoss BPM Suite and JBoss BRMS Products](http://www.redhat.com/de/about/blog/red-hat-updates-jboss-bpm-suite-and-jboss-brms-products)
-- [schabell.org: The ultimate collection of JBoss BPM Suite demos](http://www.schabell.org/2015/12/ultimate-collection-jboss-bpmsuite-demos.html)
-- [schabell.org: Quick Tour #4 Start your first JBoss BRMS project (video)](http://www.schabell.org/2015/12/quick-tour-4-first-brms-project.html)
-
-### JBoss Fuse - Enterprise Service Bus (ESB)
-- [JBoss Fuse Description](http://www.jboss.org/products/fuse/overview/)
-- [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
-
-### JBoss Data Virtualization
-- [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
-
-### JBoss Data Grid
-- [JBoss Data Grid description. ](http://www.jboss.org/products/datagrid/overview/)JBoss Data Grid is an in-memory, distributed, NoSQL data store that helps boost application performance and improve scalability and development flexibility.
-- [C2B2Consulting - JBoss Data Grid](http://www.c2b2.co.uk/jboss_data_grid)
-	- [C2B2Consulting - JBoss Data Grid: Webinar](http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1)
-	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
-	- [C2B2Consulting - Youtube - Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](https://youtu.be/q52_C9WW70Q)
 
 ## JVM Latency: Caching, Off Heap, Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
