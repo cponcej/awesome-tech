@@ -513,6 +513,8 @@
 - [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
 - [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
 
+![dilbert](images/dilbert.jpg)
+
 # Security
 ## Security Blogs
 - [ehacking.net](http://www.ehacking.net)
@@ -910,8 +912,6 @@
 
 ## ITIL Tools
 - [itop - ITSM & CMDB OpenSource. A simple, web based IT Service Management tool ](http://sourceforge.net/projects/itop/)
-
-![dilbert](images/dilbert.jpg)
 
 # Software Development. Programming languages
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
