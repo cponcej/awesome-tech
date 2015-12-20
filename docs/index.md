@@ -640,15 +640,15 @@
 
 ## Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others
 - [Red Hat Satellite](https://access.redhat.com/products/red-hat-satellite)
+	- [redhat.com: Product Documentation for Red Hat Network Satellite](https://access.redhat.com/documentation/en/red-hat-network-satellite/)
+	- [community.dell.com: Red Hat Network Satellite administration tips](http://en.community.dell.com/techcenter/os-applications/w/wiki/red-hat-network-satellite-administration-tips)
+	- [Satellite 6 and Foreman re-provisioning](https://chruz.wordpress.com/2015/11/23/satellite-6-and-foreman-re-provisioning/)
 - [Katello](http://www.katello.org/)
+	- [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
 - [Foreman is a complete lifecycle management tool](http://www.theforeman.org/)
 - [Cobbler](http://cobbler.github.io/)
 - [Candlepin](http://www.candlepinproject.org/)
 - [Pulp](http://www.pulpproject.org/)
-- [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
-- [Satellite 6 and Foreman re-provisioning](https://chruz.wordpress.com/2015/11/23/satellite-6-and-foreman-re-provisioning/)
-- [redhat.com: Product Documentation for Red Hat Network Satellite](https://access.redhat.com/documentation/en/red-hat-network-satellite/)
-- [community.dell.com: Red Hat Network Satellite administration tips](http://en.community.dell.com/techcenter/os-applications/w/wiki/red-hat-network-satellite-administration-tips)
 
 ## Chef and SAP
 - [docs.chef.io](https://docs.chef.io/)
