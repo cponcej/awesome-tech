@@ -1189,11 +1189,7 @@
 - [Orchestrate: DBaaS|NoSQL with One REST API](https://orchestrate.io/)
 - [mongodirector: MongoDB Hosting](http://mongodirector.com)
 
-<video autoplay="" loop="" muted="">
-	<source type="video/mp4" src="http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4">
-</video>
-
-[![mongochef](http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4/0.jpg)](http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4)
+[![Effortless CSV import into MongoDB with MongoChef 3.2](images/mongochef_csv.png)](http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4)
 
 #### Redis, Coudhdb, and others
 - [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
