@@ -923,7 +923,7 @@
 # Software Development. Programming languages
 ## Blogs and Forums
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
-- [Web Vode Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
+- [Web Code Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
 
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
