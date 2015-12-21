@@ -359,6 +359,8 @@
 
 ## JBoss (WildFly)
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
+- [Product Documentation for JBoss Enterprise Application Platform](https://access.redhat.com/documentation/en/jboss-enterprise-application-platform/)
+- [WildFly 10 ebook - Francesco Marchioni](http://www.itbuzzpress.com/ebooks/wildfly-10-ebook.html)
 
 ### JBoss Blogs
 - [docs.jboss.org](http://docs.jboss.org )
