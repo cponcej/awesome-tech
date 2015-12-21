@@ -1188,7 +1188,7 @@
 - [mongodirector: MongoDB Hosting](http://mongodirector.com)
 - [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
 	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
-	- Effortless CSV import into MongoDB with MongoChef 3.2 (video). You can export your collections to CSV:
+	- Effortless CSV import into MongoDB with MongoChef 3.2 (click to see the video). You can export your collections to CSV:
 [![Effortless CSV import into MongoDB with MongoChef 3.2](images/mongochef_csv.png)](http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4)
 
 #### Redis, Coudhdb, and others
