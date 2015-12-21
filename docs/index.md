@@ -52,9 +52,10 @@
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls](#breaking-firewalls)
 	- [Major security issues and blogs](#major-security-issues-and-blogs)
-- [Configuration Management and orchestration](#configuration-management-and-orchestration)
+- [Configuration Management and Orchestration](#configuration-management-and-orchestration)
 	- [Vagrant](#vagrant)
 	- [Ansible](#ansible)
+		- [Ansible Support and Forums](#ansible-support-and-forums)
 		- [Is ansible replacing puppet?](#is-ansible-replacing-puppet)
 		- [Apache via Ansible](#apache-via-ansible)
 		- [WebLogic via Ansible](#weblogic-via-ansible)
@@ -303,6 +304,7 @@
 
 ## Linux Docs and Resources
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
+- [A curl cheat sheet](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
 - [Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
 - [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
 - [Linux and Unix Port Scanning With netcat 'nc' Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
@@ -445,6 +447,9 @@
 # WebApp
 ## HTTP/2
 - [SPDY & HTTP 2 with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=WkLBrHW4NhQ)
+	- [http2 explained](http://http2-explained.haxx.se/)
+			- [cURL mantainer: curl and HTTP/2 by default](http://daniel.haxx.se/blog/2015/12/14/curl-and-http2-by-default/)
+			- [cURL mantainer: A 2015 retrosprective](http://daniel.haxx.se/blog/2015/12/20/a-2015-retrospective/)
 	- [http2.github.io HTTP/2](https://http2.github.io)
 	- [http2.github.io HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/)
 	- [HTTP/2 resources](https://pinboard.in/u:rmurphey/t:http2/)
@@ -576,7 +581,7 @@
 
 ![intrusion response procedures](images/intrusion_response_procedures.png)
 
-# Configuration Management and orchestration
+# Configuration Management and Orchestration
 ## Vagrant
 - [How Vagrant Eases the Software Research and Testing - The New Stack](http://thenewstack.io/vagrant-developers-researchers/)
 - [Improve your development environments with virtualization - Vagrant, Python ](http://pyvideo.org/video/3411/improve-your-development-environments-with-virtua)
@@ -599,6 +604,11 @@
 	- [Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes](http://www.ansible.com/ansiblefest-videos-spark-central-sf15)
 	- [Lessons Automating the Deployment of J.Crew’s Website](http://www.ansible.com/ansiblefest-videos-jcrew-sf15)+
 - [slideshare.net: Debugging ansible modules](http://www.slideshare.net/aleonhardt/debugging-ansible-modules)
+- [Asset and lifecycle management using APIC-EM and Ansible.](https://communities.cisco.com/community/developer/blog/2015/12/17/asset-and-lifecycle-management-using-apic-em-and-ansible) Automate the collection of output from a series of 'show' commands from routers and switches
+
+### Ansible Support and Forums
+- [Ansible Support](https://support.ansible.com)
+- [Ansible subreddit](https://www.reddit.com/r/ansible/)
 
 ### Is ansible replacing puppet?
 - [redhat subreddit: Is ansible replacing puppet?](https://www.reddit.com/r/redhat/comments/3xj6ja/is_ansible_replacing_puppet/)
@@ -1489,6 +1499,7 @@
 - [How to avoid 'death by PowerPoint'](http://www.bbc.com/news/technology-35038429) These days, there are plenty of alternatives to PowerPoint - [Keynote](http://www.apple.com/mac/keynote/), [Slides](https://slides.com/), [Prezi](https://prezi.com), [SlideRocket](http://www.sliderocket.com/), [Easel.ly](http://easel.ly/), [Emaze](https://www.emaze.com), [Slidedog](http://slidedog.com/), to name but a few - many of which are freely available online.
 
 # E-Learning
+- [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
 
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)
@@ -1497,6 +1508,7 @@
 	- [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
 	- [Learn To Run Linux Servers Part 2 (LPI Level 1-102)](https://www.udemy.com/linuxacademy2/)
 - [Learning Puppet](https://www.udemy.com/learning-puppet/)
+- [Mastering Ansible - November 2015](https://www.udemy.com/mastering-ansible/?couponCode=REDDIT15)
 - [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete)
 	- [Command Line Essentials: Git Bash for Windows (free)](https://www.udemy.com/git-bash/)
 	- [Git Going Fast: One Hour Git Crash Course (free)](https://www.udemy.com/git-going-fast/)
