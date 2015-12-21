@@ -52,7 +52,7 @@
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls](#breaking-firewalls)
 	- [Major security issues and blogs](#major-security-issues-and-blogs)
-- [Configuration Management](#configuration-management)
+- [Configuration Management and orchestration](#configuration-management-and-orchestration)
 	- [Vagrant](#vagrant)
 	- [Ansible](#ansible)
 		- [Is ansible replacing puppet?](#is-ansible-replacing-puppet)
@@ -573,7 +573,7 @@
 
 ![intrusion response procedures](images/intrusion_response_procedures.png)
 
-# Configuration Management
+# Configuration Management and orchestration
 ## Vagrant
 - [How Vagrant Eases the Software Research and Testing - The New Stack](http://thenewstack.io/vagrant-developers-researchers/)
 - [Improve your development environments with virtualization - Vagrant, Python ](http://pyvideo.org/video/3411/improve-your-development-environments-with-virtua)
