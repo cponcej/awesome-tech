@@ -1182,13 +1182,13 @@
 
 #### MongoDB Tools and MongoDB as a Service
 - [MongoDB Tools - Admin GUIs, Monitoring and Other Good Stuff](http://mongodb-tools.com/)
-- [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
-	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
 - [blog.mongodirector.com: Which is the best MongoDB GUI?](http://blog.mongodirector.com/which-is-the-best-mongodb-gui/)
 - [MongoLab: Fully managed MongoDB-as-a-Service](https://mongolab.com/)
 - [Orchestrate: DBaaS|NoSQL with One REST API](https://orchestrate.io/)
 - [mongodirector: MongoDB Hosting](http://mongodirector.com)
-
+- [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
+	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
+	- Effortless CSV import into MongoDB with MongoChef 3.2:
 [![Effortless CSV import into MongoDB with MongoChef 3.2](images/mongochef_csv.png)](http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4)
 
 #### Redis, Coudhdb, and others
