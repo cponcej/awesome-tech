@@ -1193,6 +1193,8 @@
 	<source type="video/mp4" src="http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4">
 </video>
 
+[![mongochef](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4)
+
 #### Redis, Coudhdb, and others
 - [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
 - [Redis](http://redis.io/)
