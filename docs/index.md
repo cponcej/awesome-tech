@@ -98,6 +98,7 @@
 	- [Is DevOps replacing ITIL?](#is-devops-replacing-itil)
 	- [ITIL Tools](#itil-tools)
 - [Software Development. Programming languages](#software-development-programming-languages)
+	- [Blogs and Forums](#blogs-and-forums)
 	- [Domain driven design](#domain-driven-design)
 	- [API and Documentation Generators](#api-and-documentation-generators)
 	- [Editors](#editors)
@@ -920,7 +921,9 @@
 - [itop - ITSM & CMDB OpenSource. A simple, web based IT Service Management tool ](http://sourceforge.net/projects/itop/)
 
 # Software Development. Programming languages
+## Blogs and Forums
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+- [Web Vode Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
 
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
@@ -1105,6 +1108,7 @@
 - [Introduction to Python for data mining](http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Python_For_Data_Mining.ipynb)
 - [Jeff Reback's pandas tutorial at PyDataNYC2015, notebooks included](https://github.com/jreback/pydatanyc2015)
 - [Nginx log analysis with pandas and matplotlib](https://github.com/grokcode/ipython-notebooks/blob/master/nginx-log-analysis.ipynb)
+- [Exploring U.S. Traffic Fatality Data](http://blog.yhathq.com/posts/traffic-fatalities-in-us.html)
 - [Data mining with Anaconda proof of concept](https://github.com/inafev/anacondalearning)
 
 ![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)
