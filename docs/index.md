@@ -1190,7 +1190,7 @@
 - [mongodirector: MongoDB Hosting](http://mongodirector.com)
 
 <video autoplay="" loop="" muted="">
-	<source type="video/mp4" src="images/mongochef_csv.mp4">
+	<source type="video/mp4" src="https://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4">
 </video>
 
 #### Redis, Coudhdb, and others
