@@ -1499,8 +1499,6 @@
 - [How to avoid 'death by PowerPoint'](http://www.bbc.com/news/technology-35038429) These days, there are plenty of alternatives to PowerPoint - [Keynote](http://www.apple.com/mac/keynote/), [Slides](https://slides.com/), [Prezi](https://prezi.com), [SlideRocket](http://www.sliderocket.com/), [Easel.ly](http://easel.ly/), [Emaze](https://www.emaze.com), [Slidedog](http://slidedog.com/), to name but a few - many of which are freely available online.
 
 # E-Learning
-- [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
-
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
@@ -1515,6 +1513,8 @@
 	- [Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
 - [Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
 - [Learn Database Design using PostgreSQL](https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20)
+- [Learning MongoDB](https://www.udemy.com/learning-mongodb2/)
+- [VMware ESXi and vSphere Admin Tutorial](https://www.udemy.com/vmware-esxi-and-vsphere-admin-tutorial/)
 - [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
 - [The Complete Web Developer Course - Build 14 Websites](https://www.udemy.com/complete-web-developer-course/)
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript)
@@ -1540,6 +1540,7 @@
 - [khanacademy.org](https://khanacademy.org/)
 
 ## Alternatives
+- [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
