@@ -17,7 +17,7 @@
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
 	- [Linux Docs and Resources](#linux-docs-and-resources)
 - [Red Hat](#red-hat)
-	- [Red Hat Blogs](#red-hat-blogs)
+	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
 	- [Red Hat Virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
@@ -315,7 +315,8 @@
 - [awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
 
 # Red Hat
-## Red Hat Blogs
+## Red Hat Blogs and Forums
+- [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
 - [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/)
 - [Red Hat Community](http://community.redhat.com)
 - [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
@@ -326,7 +327,6 @@
 - [Red Hat Developer Blog](http://developerblog.redhat.com)
 - [Red Hat Developers](http://developers.redhat.com)
 - [Planet JBoss Developer](http://planet.jboss.org/)
-- [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
 
 ## Red Hat Docs
 - [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
