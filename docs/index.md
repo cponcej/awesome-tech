@@ -15,7 +15,9 @@
 	- [Data Center Blogs](#data-center-blogs)
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
-	- [Linux Docs and Resources](#linux-docs-and-resources)
+		- [Linux Commands](#linux-commands)
+		- [Linux Performance](#linux-performance)
+		- [Linux Networking](#linux-networking)
 - [Red Hat](#red-hat)
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
@@ -284,6 +286,9 @@
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 
 # Linux
+- [awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
+- [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
+
 ## Linux Blogs and Forums
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
@@ -303,21 +308,43 @@
 	- [muylinux.com](http://www.muylinux.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 
-## Linux Docs and Resources
-- [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
+### Linux Commands
+- [GoAccess real time web log analyzer](http://goaccess.io/)
 - [A curl cheat sheet](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
 - [Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
-- [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
+- [tecmint.com: A Guide to Kill, Pkill and Killall Commands to Terminate a Process in Linux](http://www.tecmint.com/how-to-kill-a-process-in-linux/)
 - [Linux and Unix Port Scanning With netcat 'nc' Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
 - [Sysadmincasts.com: LVM Linear vs Striped Logical Volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)
 - [unixetc.co.uk: Profiling and Tracing Processes in Linux](http://unixetc.co.uk/2012/10/28/profiling-and-tracing-processes-in-linux/)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
-- [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
+
+### Linux Performance
 - [Linux: Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
+- [tecmint.com: Sysstat – All-in-One System Performance and Usage Activity Monitoring Tool For Linux](http://www.tecmint.com/install-sysstat-in-linux/)
+- [tecmint.com: How to Produce and Deliver System Activity Reports Using Linux Toolsets](http://www.tecmint.com/linux-performance-monitoring-and-file-system-statistics-reports/)
+- [tecmint.com: Linux Performance Monitoring with Vmstat and Iostat Commands](http://www.tecmint.com/linux-performance-monitoring-with-vmstat-and-iostat-commands/)
+- [tecmint.com: 20 Useful Commands of ‘Sysstat’ Utilities (mpstat, pidstat, iostat and sar) for Linux Performance Monitoring](http://www.tecmint.com/sysstat-commands-to-monitor-linux/)
+- [tecmint.com: 10 ‘free’ Commands to Check Memory Usage in Linux](http://www.tecmint.com/check-memory-usage-in-linux/)
+- [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
+- [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
+- [system activity reporter (SAR)](http://www.ibm.com/developerworks/aix/library/au-unix-perfmonsar.html)
+- [byte-unixbench: BYTE UNIX benchmark suite](https://github.com/kdlucas/byte-unixbench)
+- [mbw: Memory Bandwidth Benchmark](https://github.com/raas/mbw/)
+- [tiobench: portable, fully-threaded I/O benchmark program](http://sourceforge.net/projects/tiobench/)
+- [IOzone Filesystem Benchmark](http://www.iozone.org/)
+- [Dstat, a versatile replacement for vmstat, iostat, netstat and ifstat](http://dag.wiee.rs/home-made/dstat/)
+- [pgbench -- run a benchmark test on PostgreSQL](http://www.postgresql.org/docs/devel/static/pgbench.html)
+- [seeker: measuring disk performance in virtual machines](http://www.linuxinsight.com/how_fast_is_your_disk.html)
+- [dropwatch: a monitoring utility that monitors packets dropped by the kernel](http://prefetch.net/blog/index.php/2011/07/11/using-netstat-and-dropwatch-to-observe-packet-loss-on-linux-servers/)
+
+### Linux Networking
 - [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
-- [GoAccess real time web log analyzer](http://goaccess.io/)
-- [awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
+- [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
+- [tc command: adds latency to NIC for testing purposes](http://bencane.com/2012/07/16/tc-adding-simulated-network-latency-to-your-linux-server/)
+- ['traceroute' in Linux is like 'route get' in Solaris](http://www.cyberciti.biz/faq/traceroute-tracepath-unix-linux-command/)
+- [tracepath: What's the difference between traceroute and tracepath?](https://www.quora.com/Whats-the-difference-between-traceroute-and-tracepath)
+- [Using MTR To Detect Network Congestion](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting)
 
 # Red Hat
 ## Red Hat Blogs and Forums
@@ -348,6 +375,7 @@
 	- [Up and Running with oVirt 3.5, Part Two](http://community.redhat.com/blog/2014/11/up-and-running-with-ovirt-3-5-part-two/)
 - [GlusterFS scalable network filesystem](http://www.gluster.org/)
 	- [GlusterFS Documentation](http://gluster.readthedocs.org/en/latest/)
+	- [tecmint.com: Introduction to GlusterFS (File System) and Installation on RHEL/CentOS and Fedora](http://www.tecmint.com/introduction-to-glusterfs-file-system-and-installation-on-rhelcentos-and-fedora/)
 
 ## Red Hat OpenShift PaaS
 - [OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes](http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/)
@@ -385,6 +413,7 @@
 - [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
 
 ### JBoss Resources
+- [tecmint.com: WildFly (JBoss AS) – How to Access and Manage CLI Using GUI](http://www.tecmint.com/wildfly-jboss-as-how-to-access-and-manage-cli-using-gui/)
 - [middlewaresnippets.blogspot.com - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com/2014/07/wildflying-java-ee-7.html)
 - [developerblog.redhat.com - JBoss on Docker At a Glance](http://developerblog.redhat.com/2015/01/14/jboss-on-docker-at-a-glance/)
 - [blog.openshift.com: A Java EE 7 Application on OpenShift 3 With JBoss Tools](https://blog.openshift.com/a-java-ee-7-application-on-openshift-3-with-jboss-tools/)
@@ -845,7 +874,9 @@
 - [StatsD: Simple daemon for easy stats aggregation](https://github.com/etsy/statsd/)
 - [munin monitoring](http://munin-monitoring.org/)
 - [OMD - The Open Monitoring Distribution](http://omdistro.org/)
-- [All the slides of Zabbix Conference 2015](http://www.zabbix.com/conf2015_agenda.php)
+- Zabbix:
+	- [tecmint.com: Installing and Configuring Zabbix 2.4.5 on Debian 8 and RHEL/CentOS 7](http://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/)
+	- [All the slides of Zabbix Conference 2015](http://www.zabbix.com/conf2015_agenda.php)
 	- [Zabbix for Beginners webinar](https://www.youtube.com/watch?v=uqFaz2HyxVM)
 	- [Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?](https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/)
 - [Anemometer: MySQL Slow Query Monitor](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
@@ -1403,6 +1434,7 @@
 	- [Libro sobre Veeam Backup, by Xavier Genestós](https://www.linkedin.com/pulse/libro-sobre-veeam-backup-xavier-genestós-josep-ros)
 	- [Announcing: Veeam Backup for Linux](https://www.veeam.com/blog/announcing-linux-server-backup.html)
 - [Vembu Online Backup supports Amazon Glacier](https://www.vembu.com/blog/vembu-supports-amazon-glacier)
+- [tecmint.com: Amanda – An Advanced Automatic Network Backup Tool For Linux](http://www.tecmint.com/amanda-an-advanced-automatic-network-backup-tool-for-linux/)
 
 ![veeam logo](images/veeam-logo.jpg)
 
