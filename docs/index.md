@@ -13,9 +13,9 @@
 - [Scalability and Reliability](#scalability-and-reliability)
 	- [Scalability Solutions](#scalability-solutions)
 	- [Data Center Blogs](#data-center-blogs)
+- [IT Infrastructure Bloggers in Spain](#it-infrastructure-bloggers-in-spain)
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
-	- [IT infrastructure Bloggers in Spain](#it-infrastructure-bloggers-in-spain)
 	- [Linux Commands](#linux-commands)
 	- [Linux Performance](#linux-performance)
 	- [Linux Networking](#linux-networking)
@@ -295,6 +295,12 @@
 ## Data Center Blogs
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 
+# IT Infrastructure Bloggers in Spain
+- [jreypo.wordpress.com](https://jreypo.wordpress.com/)
+- [dbigcloud.com](http://www.dbigcloud.com/)
+- [systemadmin.es](http://systemadmin.es/)
+- [muylinux.com](http://www.muylinux.com/)
+
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 
@@ -317,12 +323,6 @@
 - [Linux 101 Hacks](http://linux.101hacks.com/)
 - [Linoxide.com](http://linoxide.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
-
-## IT infrastructure Bloggers in Spain
-- [jreypo.wordpress.com - blogger](https://jreypo.wordpress.com/)
-- [dbigcloud.com](http://www.dbigcloud.com/)
-- [systemadmin.es](http://systemadmin.es/)
-- [muylinux.com](http://www.muylinux.com/)
 
 ## Linux Commands
 - [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
