@@ -424,6 +424,7 @@
 ### JBoss Blogs
 - [docs.jboss.org](http://docs.jboss.org )
 - [community.jboss.org](https://community.jboss.org )
+- [blog.eisele.net: Enterprise Software Development with Java](http://blog.eisele.net/)
 - [JBoss Developer](https://developer.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
 - [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
@@ -644,6 +645,7 @@
 - [Improve your development environments with virtualization - Vagrant, Python ](http://pyvideo.org/video/3411/improve-your-development-environments-with-virtua)
 - [Why tools like Docker, Vagrant, and Ansible are hotter than ever](http://opensource.com/business/15/5/why-Docker-Vagrant-and-Ansible)
 - [Crash course on Vagrant, video tutorial at sysadmincasts.com](https://sysadmincasts.com/episodes/42-crash-course-on-vagrant-revised)
+- [developerblog.redhat.com: Using Vagrant Tooling in Eclipse](http://developerblog.redhat.com/2015/12/22/using-vagrant-tooling-in-eclipse/)
 
 ## Ansible
 - [Ansible, Just Use It - slide](https://speakerdeck.com/vranac/ansible-just-use-it)
@@ -1577,6 +1579,8 @@
 - [How to avoid 'death by PowerPoint'](http://www.bbc.com/news/technology-35038429) These days, there are plenty of alternatives to PowerPoint - [Keynote](http://www.apple.com/mac/keynote/), [Slides](https://slides.com/), [Prezi](https://prezi.com), [SlideRocket](http://www.sliderocket.com/), [Easel.ly](http://easel.ly/), [Emaze](https://www.emaze.com), [Slidedog](http://slidedog.com/), to name but a few - many of which are freely available online.
 
 # E-Learning
+- [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
+
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
