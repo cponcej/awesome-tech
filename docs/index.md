@@ -1128,8 +1128,8 @@
 
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
-- [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
 - [datasciencecentral.com: 24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
+- [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
 
 ### Data collection and processing is growing in sports
 - [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
