@@ -791,6 +791,7 @@
 - [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
 - [Software Development in the 21st century](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
 - [New Relic eBook: What is DevOps and Why it Can Help Your Business?](http://newrelic.com/devops-101)
+- [slideshare: Jelastic - DevOps for Java with Docker Containers - Madrid 2015](http://www.slideshare.net/jelastic/jelastic-devops-for-java-with-docker-containers-madrid-2015-55033859)
 - [ebook: IBM DevOps for Dummies (free)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [New Relic: Glossary of DevOps Tools. Get a glimpse into some of New Relic's favorite DevOps tools](http://newrelic.com/devops/toolset)
 - [What to Expect From a DevOps Interview](https://dzone.com/articles/what-to-expect-from-a-devops-interview)
@@ -1477,6 +1478,7 @@
 
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
 - [The Twelve-Factor App](http://12factor.net/)
+- [slideshare: 12 Factor (Cloud Native) Apps for Spring Developers](http://www.slideshare.net/SpringCentral/12-factor-cloud-native-apps-for-spring-developers)
 - [blog.openshift.com: Optimizing Twelve (12) Factor app for OpenShift](https://blog.openshift.com/optimizing-twelve-12-factor-app-for-red-hat-openshift/)
 
 ## Development environments in the Cloud
