@@ -336,7 +336,6 @@
 - [Dstat, a versatile replacement for vmstat, iostat, netstat and ifstat](http://dag.wiee.rs/home-made/dstat/)
 - [pgbench -- run a benchmark test on PostgreSQL](http://www.postgresql.org/docs/devel/static/pgbench.html)
 - [seeker: measuring disk performance in virtual machines](http://www.linuxinsight.com/how_fast_is_your_disk.html)
-- [dropwatch: a monitoring utility that monitors packets dropped by the kernel](http://prefetch.net/blog/index.php/2011/07/11/using-netstat-and-dropwatch-to-observe-packet-loss-on-linux-servers/)
 
 ## Linux Networking
 - [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
@@ -345,6 +344,7 @@
 - ['traceroute' in Linux is like 'route get' in Solaris](http://www.cyberciti.biz/faq/traceroute-tracepath-unix-linux-command/)
 - [tracepath: What's the difference between traceroute and tracepath?](https://www.quora.com/Whats-the-difference-between-traceroute-and-tracepath)
 - [Using MTR To Detect Network Congestion](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting)
+- [dropwatch: a monitoring utility that monitors packets dropped by the kernel](http://prefetch.net/blog/index.php/2011/07/11/using-netstat-and-dropwatch-to-observe-packet-loss-on-linux-servers/)
 
 # Red Hat
 ## Red Hat Blogs and Forums
