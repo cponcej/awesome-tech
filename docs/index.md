@@ -304,18 +304,24 @@
 - [LWN.net](http://lwn.net/)
 - [Linux-tutorial.info](http://www.linux-tutorial.info/)
 - [The Lone Sysadmin](https://lonesysadmin.net/)
+- [Linux 101 Hacks](http://linux.101hacks.com/)
+- [Linoxide.com](http://linoxide.com/)
 - [systemadmin.es](http://systemadmin.es/)
 	- [muylinux.com](http://www.muylinux.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 
 ## Linux Commands
+- [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
+- [Rsync](https://en.wikipedia.org/wiki/Rsync)
+	- [How to exclude directories while using rsync](http://supportex.net/2011/07/exceptions-copying-directory-rsync/)
 - [A curl cheat sheet](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
 - [Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
 - [tecmint.com: A Guide to Kill, Pkill and Killall Commands to Terminate a Process in Linux](http://www.tecmint.com/how-to-kill-a-process-in-linux/)
 - [Linux and Unix Port Scanning With netcat 'nc' Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
 - [Sysadmincasts.com: LVM Linear vs Striped Logical Volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)
 - [unixetc.co.uk: Profiling and Tracing Processes in Linux](http://unixetc.co.uk/2012/10/28/profiling-and-tracing-processes-in-linux/)
+- [ibm.com: Use the /proc filesystem to get a handle on your system](http://www.ibm.com/developerworks/linux/library/l-adfly/index.html)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 
 ## Linux Performance
@@ -336,6 +342,8 @@
 - [Dstat, a versatile replacement for vmstat, iostat, netstat and ifstat](http://dag.wiee.rs/home-made/dstat/)
 - [pgbench -- run a benchmark test on PostgreSQL](http://www.postgresql.org/docs/devel/static/pgbench.html)
 - [seeker: measuring disk performance in virtual machines](http://www.linuxinsight.com/how_fast_is_your_disk.html)
+- [Linux.101hacks.com: lsof Command Examples](http://linux.101hacks.com/monitoring-performance/lsof-command-examples/)
+- [nixCraft: Linux Increase The Maximum Number Of Open Files / File Descriptors (FD)](http://www.cyberciti.biz/faq/linux-increase-the-maximum-number-of-open-files/)
 
 ## Linux Networking
 - [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
