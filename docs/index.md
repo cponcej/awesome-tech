@@ -919,7 +919,9 @@
 - [Application Performance Management and the Cloud](http://apmdigest.com/application-performance-management-and-the-cloud)
 
 #### APM Blogs
+- [applicationperformancemanagement.org: APM, ALM and Performance Monitoring](http://www.applicationperformancemanagement.org/)
 - [apmblog.dynatrace.com](http://apmblog.dynatrace.com)
+- [AppDynamics Blog](https://blog.appdynamics.com/apm/)
 
 #### APM Solutions
 - [RTI - Application Performance Management for Red Hat Middleware (JBoss, Fuse, Tomcat)](http://www.rtiperformance.com/)
