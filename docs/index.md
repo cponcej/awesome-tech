@@ -118,6 +118,7 @@
 		- [Python docs](#python-docs)
 	- [Python and AWS](#python-and-aws)
 	- [Java](#java)
+	- [Ruby on Rails](#ruby-on-rails)
 	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
 		- [JSON](#json)
 	- [QA. Software Testing](#qa-software-testing)
@@ -1100,6 +1101,9 @@
 ## Java
 - [genbetadev.com: java-j2ee](http://www.genbetadev.com/categoria/java-j2ee)
 - [genbetadev.com: Herramientas imprescindibles para un desarrollador de Java (2011)](http://www.genbetadev.com/java-j2ee/herramientas-imprescindibles-para-un-desarrollador-de-java)
+
+## Ruby on Rails
+- [Get your free copy of "Learn Ruby On Rails" from the Amazon bookstore](http://www.amazon.com/dp/B00QK2T1SY)
 
 ## Front-end: HTML5, javascript/node.js
 - [medium.com/javascript-scene: Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467)
