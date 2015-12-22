@@ -1583,6 +1583,8 @@
 - [The Complete Web Developer Course - Build 14 Websites](https://www.udemy.com/complete-web-developer-course/)
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript)
 - [Taming Big Data with Apache Spark - Hands On!](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/?couponCode=SPARK15)
+- [Taming Big Data with MapReduce and Hadoop - Hands On!](https://www.udemy.com/taming-big-data-with-mapreduce-and-hadoop/)
+- [Data visualization: Tableau](https://www.udemy.com/tableau/)
 - [Zabbix Network Monitoring Essentials](https://www.udemy.com/zabbix-network-monitoring-essentials/)
 - [Sensu - Introduction (free, alternative to Zabbix, Icinga & Nagios)](https://www.udemy.com/sensu-introduction/)
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
