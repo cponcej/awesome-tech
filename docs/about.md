@@ -10,6 +10,7 @@
 - [awesome django](https://gitlab.com/rosarior/awesome-django)
 - [awesome python](https://github.com/vinta/awesome-python/)
 - [awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
 
