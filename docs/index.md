@@ -486,9 +486,9 @@
 # WebApp
 ## HTTP/2
 - [SPDY & HTTP 2 with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=WkLBrHW4NhQ)
-	- [http2 explained](http://http2-explained.haxx.se/)
-			- [cURL mantainer: curl and HTTP/2 by default](http://daniel.haxx.se/blog/2015/12/14/curl-and-http2-by-default/)
-			- [cURL mantainer: A 2015 retrosprective](http://daniel.haxx.se/blog/2015/12/20/a-2015-retrospective/)
+	- [cURL mantainer: http2 explained](http://http2-explained.haxx.se/)
+	- [cURL mantainer: curl and HTTP/2 by default](http://daniel.haxx.se/blog/2015/12/14/curl-and-http2-by-default/)
+	- [cURL mantainer: A 2015 retrosprective](http://daniel.haxx.se/blog/2015/12/20/a-2015-retrospective/)
 	- [http2.github.io HTTP/2](https://http2.github.io)
 	- [http2.github.io HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/)
 	- [HTTP/2 resources](https://pinboard.in/u:rmurphey/t:http2/)
