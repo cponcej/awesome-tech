@@ -300,6 +300,7 @@
 - [dbigcloud.com](http://www.dbigcloud.com/)
 - [systemadmin.es](http://systemadmin.es/)
 - [muylinux.com](http://www.muylinux.com/)
+- [unpocodejava.wordpress.com](https://unpocodejava.wordpress.com/)
 
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
@@ -884,6 +885,7 @@
 - [blazemeter.com: The Ultimate JMeter Resource List (july 2015)](https://blazemeter.com/blog/ultimate-jmeter-resource-list)
 - [blazemeter.com: How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
 - [guru99.com: Free Jmeter Tutorials](http://www.guru99.com/jmeter-tutorials.html)
+- [unpocodejava.wordpress.com: ¿Cómo hacer pruebas de carga de una clase Java con JMeter?](https://unpocodejava.wordpress.com/2015/12/21/como-hacer-pruebas-de-carga-de-una-clase-java-con-jmeter-2/)
 
 ### Alternatives
 - [Siege, a CLI tool ideal for a simple testing of AWS Auto Scaling](https://www.joedog.org/siege-home/)
