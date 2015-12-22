@@ -15,9 +15,9 @@
 	- [Data Center Blogs](#data-center-blogs)
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
-		- [Linux Commands](#linux-commands)
-		- [Linux Performance](#linux-performance)
-		- [Linux Networking](#linux-networking)
+	- [Linux Commands](#linux-commands)
+	- [Linux Performance](#linux-performance)
+	- [Linux Networking](#linux-networking)
 - [Red Hat](#red-hat)
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
@@ -308,7 +308,7 @@
 	- [muylinux.com](http://www.muylinux.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 
-### Linux Commands
+## Linux Commands
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [A curl cheat sheet](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
 - [Linux / Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
@@ -318,7 +318,7 @@
 - [unixetc.co.uk: Profiling and Tracing Processes in Linux](http://unixetc.co.uk/2012/10/28/profiling-and-tracing-processes-in-linux/)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 
-### Linux Performance
+## Linux Performance
 - [Linux: Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
 - [tecmint.com: Sysstat – All-in-One System Performance and Usage Activity Monitoring Tool For Linux](http://www.tecmint.com/install-sysstat-in-linux/)
@@ -338,7 +338,7 @@
 - [seeker: measuring disk performance in virtual machines](http://www.linuxinsight.com/how_fast_is_your_disk.html)
 - [dropwatch: a monitoring utility that monitors packets dropped by the kernel](http://prefetch.net/blog/index.php/2011/07/11/using-netstat-and-dropwatch-to-observe-packet-loss-on-linux-servers/)
 
-### Linux Networking
+## Linux Networking
 - [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
 - [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
 - [tc command: adds latency to NIC for testing purposes](http://bencane.com/2012/07/16/tc-adding-simulated-network-latency-to-your-linux-server/)
