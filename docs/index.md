@@ -1578,7 +1578,6 @@
 ## Free e-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)
 - [Flo-Joe: THE place on the web for Cambridge exam preparation](http://www.flo-joe.co.uk/)
-- [Aba English](http://www.abaenglish.com)
 - [Coursera](http://coursera.org)
 - [Codecademy](https://www.codecademy.com)
 - [Guru99: Selenium,QTP,Java, SAP,Test Management, Linux,Ethical Hacking, Mobile Testing,Accounting, etc](http://www.guru99.com/)
@@ -1594,6 +1593,7 @@
 ## Alternatives
 - [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
+- [Aba English](http://www.abaenglish.com)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
 - [springboard.com - Learn Data Science & UX Design online](https://www.springboard.com)
