@@ -13,7 +13,7 @@
 - [Scalability and Reliability](#scalability-and-reliability)
 	- [Scalability Solutions](#scalability-solutions)
 	- [Data Center Blogs](#data-center-blogs)
-- [IT Infrastructure Spain Blogs](#it-infrastructure-spain-blogs)
+- [IT Spain Blogs](#it-spain-blogs)
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
 	- [Linux Commands](#linux-commands)
@@ -295,7 +295,7 @@
 ## Data Center Blogs
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 
-# IT Infrastructure Spain Blogs
+# IT Spain Blogs
 - [jreypo.wordpress.com](https://jreypo.wordpress.com/)
 - [dbigcloud.com](http://www.dbigcloud.com/)
 - [systemadmin.es](http://systemadmin.es/)
