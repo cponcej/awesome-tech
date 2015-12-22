@@ -5,7 +5,7 @@
 
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
-	- [Awesome List. Awesome AWS](#awesome-list-awesome-aws)
+	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
@@ -229,9 +229,16 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
-## Awesome List. Awesome AWS
+## Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc
 - [Awesome List - A curated list of awesome lists](https://github.com/sindresorhus/awesome)
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [awesome docker](https://github.com/veggiemonk/awesome-docker)
+- [awesome big data](https://github.com/onurakpolat/awesome-bigdata)
+- [awesome django](https://gitlab.com/rosarior/awesome-django)
+- [awesome python](https://github.com/vinta/awesome-python/)
+- [awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome php](https://github.com/ziadoz/awesome-php)
 
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
@@ -286,7 +293,6 @@
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 
 # Linux
-- [awesome-sysadmin - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 
 ## Linux Blogs and Forums
