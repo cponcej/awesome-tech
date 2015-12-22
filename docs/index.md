@@ -15,6 +15,7 @@
 	- [Data Center Blogs](#data-center-blogs)
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
+	- [IT infrastructure Bloggers in Spain](#it-infrastructure-bloggers-in-spain)
 	- [Linux Commands](#linux-commands)
 	- [Linux Performance](#linux-performance)
 	- [Linux Networking](#linux-networking)
@@ -315,9 +316,13 @@
 - [The Lone Sysadmin](https://lonesysadmin.net/)
 - [Linux 101 Hacks](http://linux.101hacks.com/)
 - [Linoxide.com](http://linoxide.com/)
-- [systemadmin.es](http://systemadmin.es/)
-	- [muylinux.com](http://www.muylinux.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
+
+## IT infrastructure Bloggers in Spain
+- [jreypo.wordpress.com - blogger](https://jreypo.wordpress.com/)
+- [dbigcloud.com](http://www.dbigcloud.com/)
+- [systemadmin.es](http://systemadmin.es/)
+- [muylinux.com](http://www.muylinux.com/)
 
 ## Linux Commands
 - [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
@@ -979,6 +984,7 @@
 # ITIL
 ## Is DevOps replacing ITIL?
 - [slideshare.net: Is DevOps replacing ITIL? Busting the Five Biggest DevOps Myths](http://www.slideshare.net/CAinc/busting-the-five-biggest-devops-myths)
+- [Is DevOps Killing Some Types of Jobs?](https://developer.ibm.com/urbancode/2014/10/28/devops-killing-types-jobs/)
 - [IT managers: we're hurting for more cloud and DevOps skills. Despite years of cloud and DevOps adoption, IT departments are still mired in backlogs of user demands, survey shows](http://www.zdnet.com/article/it-managers-were-hurting-for-more-cloud-and-devops-skills/)
 - [Why everyone hates DevOps](http://www.networkworld.com/article/2915893/software/why-everyone-hates-devops.html)
 	- [8 Reasons IT Pros Hate The Cloud](http://www.informationweek.com/cloud/8-reasons-it-pros-hate-the-cloud/d/d-id/1320531)
@@ -1479,6 +1485,7 @@
 
 ## Cloud references
 - [The cloud wars explained: Why nobody can catch up with Amazon](http://www.businessinsider.com/why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10)
+	- ["If HP and Dell can't make a public cloud how will they provide private clouds to enterprises?"](http://www.nextplatform.com/2015/10/22/how-many-other-public-clouds-will-be-vaporized/)
 - [Sysadmincasts.com: Introduction to Amazon Web Services (AWS)](https://sysadmincasts.com/episodes/29-introduction-to-amazon-web-services-aws)
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
 - [reddit: Size of your AWS infrastructure and who manages it/how it's managed](https://www.reddit.com/r/aws/comments/277zli/size_of_your_aws_infrastructure_and_who_manages/)
