@@ -813,6 +813,7 @@
 	10. [Configuration management - Ansible](http://www.ansible.com/)
 - [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/)
 - [oraclejavamagazine-digital.com: 7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6)
+- [oraclejavamagazine-digital.com: Using Docker in Java Applications](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20151112?pg=52#pg52)
 - [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 
 ## Agile planning: Scrum, Kanban, Lean
