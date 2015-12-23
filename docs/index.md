@@ -1220,6 +1220,7 @@
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
 - [Spark Streaming: What Is It and Who’s Using It?](http://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/)
 - [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
+- [Apache Spark Interview Questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 
 ## SQL
 ### SQL Blogs and Forums
