@@ -3,179 +3,111 @@
 **Table of Contents**  
 <!-- MarkdownTOC -->
 
-- [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
-	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
-	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
-	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
-- [Startups](#startups)
-	- [Startup related links](#startup-related-links)
-	- [Startup jobs](#startup-jobs)
-- [Scalability and Reliability](#scalability-and-reliability)
-	- [Scalability Solutions](#scalability-solutions)
-	- [Data Center Blogs](#data-center-blogs)
-- [IT Spain Blogs](#it-spain-blogs)
-- [Linux](#linux)
-	- [Linux Blogs and Forums](#linux-blogs-and-forums)
-	- [Linux Commands](#linux-commands)
-	- [Linux Performance](#linux-performance)
-	- [Linux Networking](#linux-networking)
-- [Red Hat](#red-hat)
-	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
-	- [Red Hat Docs](#red-hat-docs)
-	- [Red Hat Virtualization](#red-hat-virtualization)
-	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
-	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
-	- [JBoss (WildFly)](#jboss-wildfly)
-		- [JBoss Blogs](#jboss-blogs)
-		- [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-and-others)
-		- [JBoss Resources](#jboss-resources)
-		- [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
-		- [JBoss Fuse - Enterprise Service Bus (ESB)](#jboss-fuse---enterprise-service-bus-esb)
-		- [JBoss Data Virtualization](#jboss-data-virtualization)
-		- [JBoss Data Grid](#jboss-data-grid)
-	- [Red Hat Development](#red-hat-development)
-	- [Red Hat Videos](#red-hat-videos)
-- [Microsoft](#microsoft)
-	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
-- [WebApp](#webapp)
-	- [HTTP/2](#http2)
-	- [Enterprise Search Platforms](#enterprise-search-platforms)
-	- [Apache and Tomcat](#apache-and-tomcat)
-	- [Nginx](#nginx)
-	- [WebLogic](#weblogic)
-		- [Oracle Blogs: Middleware and Java](#oracle-blogs-middleware-and-java)
-		- [WebLogic Resources](#weblogic-resources)
-	- [JVM Latency: Caching, Off Heap, Data Grid](#jvm-latency-caching-off-heap-data-grid)
-		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
-	- [E-Mail](#e-mail)
-- [Security](#security)
-	- [Security Blogs](#security-blogs)
-	- [Security Toolkits](#security-toolkits)
-	- [Identity Management](#identity-management)
-	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
-	- [Breaking Firewalls](#breaking-firewalls)
-	- [Major security issues and blogs](#major-security-issues-and-blogs)
-- [Configuration Management and Orchestration](#configuration-management-and-orchestration)
-	- [Vagrant](#vagrant)
-	- [Ansible](#ansible)
-		- [Ansible Support and Forums](#ansible-support-and-forums)
-		- [Is ansible replacing puppet?](#is-ansible-replacing-puppet)
-		- [Apache via Ansible](#apache-via-ansible)
-		- [WebLogic via Ansible](#weblogic-via-ansible)
-		- [Databases via Ansible](#databases-via-ansible)
-			- [MySQL via Ansible](#mysql-via-ansible)
-			- [PostgreSQL via Ansible](#postgresql-via-ansible)
-			- [Oracle via Ansible](#oracle-via-ansible)
-	- [Puppet](#puppet)
-		- [WebLogic via Puppet](#weblogic-via-puppet)
-	- [Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others](#provisioning-red-hat-satellite-katello-foreman-cobbler-and-others)
-	- [Chef and SAP](#chef-and-sap)
-	- [Docker](#docker)
-		- [Microservices](#microservices)
-		- [Docker references](#docker-references)
-		- [MySQL via Docker](#mysql-via-docker)
-		- [WebLogic via Docker](#weblogic-via-docker)
-- [DevOps](#devops)
-	- [DevOps Blogs](#devops-blogs)
-	- [Description](#description)
-	- [DevOps Tools 2016](#devops-tools-2016)
-	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
-		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
-			- [CI Jenkins, Travis](#ci-jenkins-travis)
-			- [CI Docker](#ci-docker)
-			- [CI RPM build](#ci-rpm-build)
-			- [CI Maven and Gradle](#ci-maven-and-gradle)
-	- [Git](#git)
-		- [Git clients](#git-clients)
-	- [Load Testing - Traffic injectors](#load-testing---traffic-injectors)
-		- [JMeter](#jmeter)
-		- [Alternatives](#alternatives)
-	- [Metric monitoring](#metric-monitoring)
-		- [Tools](#tools)
-		- [Monitoring of JavaEE applications](#monitoring-of-javaee-applications)
-		- [Monitoring Network Bandwidth](#monitoring-network-bandwidth)
-		- [APM: Application Performance Management](#apm-application-performance-management)
-			- [APM Blogs](#apm-blogs)
-			- [APM Solutions](#apm-solutions)
-		- [Centralized logging. Big Data Log Management Tools](#centralized-logging-big-data-log-management-tools)
-- [ITIL](#itil)
-	- [Is DevOps replacing ITIL?](#is-devops-replacing-itil)
-	- [ITIL Tools](#itil-tools)
-- [Software Development. Programming languages](#software-development-programming-languages)
-	- [Blogs and Forums](#blogs-and-forums)
-	- [Domain driven design](#domain-driven-design)
-	- [API and Documentation Generators](#api-and-documentation-generators)
-	- [Editors](#editors)
-		- [Sublime](#sublime)
-			- [Sublime Blogs](#sublime-blogs)
-			- [Setting up Sublime](#setting-up-sublime)
-			- [Sublime Git](#sublime-git)
-		- [Alternative editors](#alternative-editors)
-		- [Diff Tools](#diff-tools)
-	- [Regular expressions](#regular-expressions)
-	- [Bash](#bash)
-	- [Python](#python)
-		- [Python Blogs and Forums](#python-blogs-and-forums)
-		- [Python docs](#python-docs)
-	- [Python and AWS](#python-and-aws)
-	- [Java](#java)
-	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
-		- [JSON](#json)
-	- [QA. Software Testing](#qa-software-testing)
-- [Data Science and Big Data](#data-science-and-big-data)
-	- [Data collection and processing is growing in sports](#data-collection-and-processing-is-growing-in-sports)
-	- [Python analytics](#python-analytics)
-		- [Anaconda Analytics](#anaconda-analytics)
-			- [Anaconda Code examples](#anaconda-code-examples)
-		- [Apache Zeppelin](#apache-zeppelin)
-	- [Big Data](#big-data)
-		- [Big Data Blogs](#big-data-blogs)
-		- [Data visualization: Tableau](#data-visualization-tableau)
-		- [Spark](#spark)
-	- [SQL](#sql)
-		- [SQL Blogs and Forums](#sql-blogs-and-forums)
-		- [SQL Docs](#sql-docs)
-		- [SQL replication](#sql-replication)
-		- [NoSQL](#nosql)
-			- [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
-			- [Redis, Coudhdb, and others](#redis-coudhdb-and-others)
-			- [Schema free SQL query on everything engines](#schema-free-sql-query-on-everything-engines)
-		- [NewSQL](#newsql)
-- [Networking](#networking)
-	- [Next Generation Firewalls](#next-generation-firewalls)
-	- [Network virtualization](#network-virtualization)
-	- [Network Forensics](#network-forensics)
-		- [Network Forensics Blogs](#network-forensics-blogs)
-		- [Network Forensics Docs](#network-forensics-docs)
-	- [VoIP](#voip)
-	- [WiFi security](#wifi-security)
-	- [WebPerf and Resilient Networking: Planning for Failure](#webperf-and-resilient-networking-planning-for-failure)
-- [Servers, Storage and Backup](#servers-storage-and-backup)
-	- [Dell](#dell)
-	- [HP](#hp)
-	- [RAID disks](#raid-disks)
-	- [Remote PC Access](#remote-pc-access)
-	- [Storage](#storage)
-	- [Backup](#backup)
-- [Cloud](#cloud)
-	- [The Twelve-Factor App methodology for building apps in modern cloud environments](#the-twelve-factor-app-methodology-for-building-apps-in-modern-cloud-environments)
-	- [Development environments in the Cloud](#development-environments-in-the-cloud)
-	- [Cloud references](#cloud-references)
-	- [Cloud Pricing](#cloud-pricing)
-	- [Awesome AWS](#awesome-aws)
-	- [AWS re:Invent 2015](#aws-reinvent-2015)
-	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
-		- [AWS New features](#aws-new-features)
-		- [AWS DevOps](#aws-devops)
-			- [AWS Cloud Formation](#aws-cloud-formation)
-		- [AWS Security](#aws-security)
-	- [AWS Partner Network (APN)](#aws-partner-network-apn)
-	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
-- [Desktop Tools](#desktop-tools)
-- [E-Learning](#e-learning)
-	- [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
-	- [Free e-learning](#free-e-learning)
-	- [Alternatives](#alternatives-1)
+- High quality tech resources and search engines
+	- Zeef.com: Find and share quality development/tech resources
+	- Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc
+	- stackshare.io: Discover and discuss the best software tools and services
+- Startups
+	- Startup related links
+	- Startup jobs
+- Scalability and Reliability
+	- Scalability Solutions
+	- Data Center Blogs
+- IT Spain Blogs
+- Linux
+	- Linux Blogs and Forums
+	- Linux Commands
+	- Linux Performance
+	- Linux Networking
+- Red Hat
+	- Red Hat Blogs and Forums
+	- Red Hat Docs
+	- Red Hat Virtualization
+	- Red Hat OpenShift PaaS
+	- Red Hat Mobile Application Platform: Feed Henry
+	- JBoss (WildFly)
+	- Red Hat Development
+	- Red Hat Videos
+- Microsoft
+	- Microsoft Monitoring and Management
+- WebApp
+	- HTTP/2
+	- Enterprise Search Platforms
+	- Apache and Tomcat
+	- Nginx
+	- WebLogic
+	- JVM Latency: Caching, Off Heap, Data Grid
+	- E-Mail
+- Security
+	- Security Blogs
+	- Security Toolkits
+	- Identity Management
+	- Application Security: Web App Firewall. Blocking bots
+	- Breaking Firewalls
+	- Major security issues and blogs
+- Configuration Management and Orchestration
+	- Vagrant
+	- Ansible
+	- Puppet
+	- Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others
+	- Chef and SAP
+	- Docker
+- DevOps
+	- DevOps Blogs
+	- Description
+	- DevOps Tools 2016
+	- Agile planning: Scrum, Kanban, Lean
+	- Git
+	- Load Testing - Traffic injectors
+	- Metric monitoring
+- ITIL
+	- Is DevOps replacing ITIL?
+	- ITIL Tools
+- Software Development. Programming languages
+	- Blogs and Forums
+	- Domain driven design
+	- API and Documentation Generators
+	- Editors
+	- Regular expressions
+	- Bash
+	- Python
+	- Python and AWS
+	- Java
+	- Front-end: HTML5, javascript/node.js
+	- QA. Software Testing
+- Data Science and Big Data
+	- Python analytics
+	- Big Data
+	- SQL
+- Networking
+	- Next Generation Firewalls
+	- Network virtualization
+	- Network Forensics
+	- VoIP
+	- WiFi security
+	- WebPerf and Resilient Networking: Planning for Failure
+- Servers, Storage and Backup
+	- Dell
+	- HP
+	- RAID disks
+	- Remote PC Access
+	- Storage
+	- Backup
+- Cloud
+	- The Twelve-Factor App methodology for building apps in modern cloud environments
+	- Development environments in the Cloud
+	- Cloud references
+	- Cloud Pricing
+	- Awesome AWS
+	- AWS re:Invent 2015
+	- AWS Official Blog, AWS Labs, AWS Quick Start
+	- AWS Partner Network (APN)
+	- AWS Startup Collection. For startups building on AWS
+- Desktop Tools
+- E-Learning
+	- Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
+	- Free e-learning
+	- Alternatives
 
 <!-- /MarkdownTOC -->
 
@@ -1035,11 +967,15 @@
 
 #### Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
+- [Package Control](https://packagecontrol.io)
+- [Anaconda Python IDE](http://damnwidget.github.io/anaconda/)
 - [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
 - [Improve your git workflow with this new Sublime Text 3 feature](http://sublimetexttips.com/improve-your-git-workflow-with-this-new-sublime-text-3-feature/)
 - [Create and Open GitHub Gists from Sublime Text](http://sublimetexttips.com/create-and-open-github-gists-from-sublime-text/)
 - [Associating text editors with Git](https://help.github.com/articles/associating-text-editors-with-git/)
 - [Git for Windows tip: opening Sublime Text from bash](https://danlimerick.wordpress.com/2014/01/07/git-for-windows-tip-opening-sublime-text-from-bash/)
+- [plaintext-productivity.net: How to Set Up Git and Sublime Text for Version Control](http://plaintext-productivity.net/2-08-how-to-set-up-git-and-sublime-text-for-version-control.html)
+- [Git Gutter](https://github.com/jisaacks/GitGutter)
 
 ### Alternative editors
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
