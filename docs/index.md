@@ -3,118 +3,188 @@
 **Table of Contents**  
 <!-- MarkdownTOC -->
 
-- High quality tech resources and search engines
-	- Zeef.com: Find and share quality development/tech resources
-	- Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc
-	- stackshare.io: Discover and discuss the best software tools and services
-- Startups
-	- Startup related links
-	- Startup jobs
-- Scalability and Reliability
-	- Scalability Solutions
-	- Data Center Blogs
-- IT Spain Blogs
-- Linux
-	- Linux Blogs and Forums
-	- Linux Commands
-	- Linux Performance
-	- Linux Networking
-- Red Hat
-	- Red Hat Blogs and Forums
-	- Red Hat Docs
-	- Red Hat Virtualization
-	- Red Hat OpenShift PaaS
-	- Red Hat Mobile Application Platform: Feed Henry
-	- JBoss (WildFly)
-	- Red Hat Development
-	- Red Hat Videos
-- Microsoft
-	- Microsoft Monitoring and Management
-- WebApp
-	- HTTP/2
-	- Enterprise Search Platforms
-	- Apache and Tomcat
-	- Nginx
-	- WebLogic
-	- JVM Latency: Caching, Off Heap, Data Grid
-	- E-Mail
-- Security
-	- Security Blogs
-	- Security Toolkits
-	- Identity Management
-	- Application Security: Web App Firewall. Blocking bots
-	- Breaking Firewalls
-	- Major security issues and blogs
-- Configuration Management and Orchestration
-	- Vagrant
-	- Ansible
-	- Puppet
-	- Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others
-	- Chef and SAP
-	- Docker
-- DevOps
-	- DevOps Blogs
-	- Description
-	- DevOps Tools 2016
-	- Agile planning: Scrum, Kanban, Lean
-	- Git
-	- Load Testing - Traffic injectors
-	- Metric monitoring
-- ITIL
-	- Is DevOps replacing ITIL?
-	- ITIL Tools
-- Software Development. Programming languages
-	- Blogs and Forums
-	- Domain driven design
-	- API and Documentation Generators
-	- Editors
-	- Regular expressions
-	- Bash
-	- Python
-	- Python and AWS
-	- Java
-	- Front-end: HTML5, javascript/node.js
-	- QA. Software Testing
-- Data Science and Big Data
-	- Python analytics
-	- Big Data
-	- SQL
-- Networking
-	- Next Generation Firewalls
-	- Network virtualization
-	- Network Forensics
-	- VoIP
-	- WiFi security
-	- WebPerf and Resilient Networking: Planning for Failure
-- Servers, Storage and Backup
-	- Dell
-	- HP
-	- RAID disks
-	- Remote PC Access
-	- Storage
-	- Backup
-- Cloud
-	- Cloud Bogs
-	- The Twelve-Factor App methodology for building apps in modern cloud environments
-	- Development environments in the Cloud
-	- Cloud references
-	- Cloud Pricing
-	- Awesome AWS
-	- AWS re:Invent 2015
-	- AWS Official Blog, AWS Labs, AWS Quick Start
-	- AWS Partner Network (APN)
-	- AWS Startup Collection. For startups building on AWS
-- Desktop Tools
-- E-Learning
-	- Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
-	- Free e-learning
-	- Alternatives
+1. [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
+	1. [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
+	2. [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
+	3. [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
+2. [Startups](#startups)
+	1. [Startup related links](#startup-related-links)
+	2. [Startup jobs](#startup-jobs)
+3. [Scalability and Reliability](#scalability-and-reliability)
+	1. [Scalability Solutions](#scalability-solutions)
+	2. [Data Center Blogs](#data-center-blogs)
+4. [IT Spain Blogs](#it-spain-blogs)
+5. [Linux](#linux)
+	1. [Linux Blogs and Forums](#linux-blogs-and-forums)
+	2. [Linux Commands](#linux-commands)
+	3. [Linux Performance](#linux-performance)
+	4. [Linux Networking](#linux-networking)
+6. [Red Hat](#red-hat)
+	1. [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
+	2. [Red Hat Docs](#red-hat-docs)
+	3. [Red Hat Virtualization](#red-hat-virtualization)
+	4. [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
+	5. [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
+	6. [JBoss (WildFly)](#jboss-wildfly)
+		1. [JBoss Blogs](#jboss-blogs)
+		2. [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-and-others)
+		3. [JBoss Resources](#jboss-resources)
+		4. [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
+		5. [JBoss Fuse - Enterprise Service Bus (ESB)](#jboss-fuse---enterprise-service-bus-esb)
+		6. [JBoss Data Virtualization](#jboss-data-virtualization)
+		7. [JBoss Data Grid](#jboss-data-grid)
+	7. [Red Hat Development](#red-hat-development)
+	8. [Red Hat Videos](#red-hat-videos)
+7. [Microsoft](#microsoft)
+	1. [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
+8. [WebApp](#webapp)
+	1. [HTTP/2](#http2)
+	2. [Enterprise Search Platforms](#enterprise-search-platforms)
+	3. [Apache and Tomcat](#apache-and-tomcat)
+	4. [Nginx](#nginx)
+	5. [WebLogic](#weblogic)
+		1. [Oracle Blogs: Middleware and Java](#oracle-blogs-middleware-and-java)
+		2. [WebLogic Resources](#weblogic-resources)
+	6. [JVM Latency: Caching, Off Heap, Data Grid](#jvm-latency-caching-off-heap-data-grid)
+		1. [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
+	7. [E-Mail](#e-mail)
+9. [Security](#security)
+	1. [Security Blogs](#security-blogs)
+	2. [Security Toolkits](#security-toolkits)
+	3. [Identity Management](#identity-management)
+	4. [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
+	5. [Breaking Firewalls](#breaking-firewalls)
+	6. [Major security issues and blogs](#major-security-issues-and-blogs)
+10. [Configuration Management and Orchestration](#configuration-management-and-orchestration)
+	1. [Vagrant](#vagrant)
+	2. [Ansible](#ansible)
+		1. [Ansible Support and Forums](#ansible-support-and-forums)
+		2. [Is ansible replacing puppet?](#is-ansible-replacing-puppet)
+		3. [Apache via Ansible](#apache-via-ansible)
+		4. [WebLogic via Ansible](#weblogic-via-ansible)
+		5. [Databases via Ansible](#databases-via-ansible)
+			1. [MySQL via Ansible](#mysql-via-ansible)
+			2. [PostgreSQL via Ansible](#postgresql-via-ansible)
+			3. [Oracle via Ansible](#oracle-via-ansible)
+	6. [Puppet](#puppet)
+		7. [WebLogic via Puppet](#weblogic-via-puppet)
+	3. [Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others](#provisioning-red-hat-satellite-katello-foreman-cobbler-and-others)
+	4. [Chef and SAP](#chef-and-sap)
+	5. [Docker](#docker)
+		1. [Microservices](#microservices)
+		2. [Docker references](#docker-references)
+		3. [MySQL via Docker](#mysql-via-docker)
+		4. [WebLogic via Docker](#weblogic-via-docker)
+6. [DevOps](#devops)
+	7. [DevOps Blogs](#devops-blogs)
+	8. [Description](#description)
+	9. [DevOps Tools 2016](#devops-tools-2016)
+	10. [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
+		1. [Continuous Integration and Delivery](#continuous-integration-and-delivery)
+			1. [CI Jenkins, Travis](#ci-jenkins-travis)
+			2. [CI Docker](#ci-docker)
+			3. [CI RPM build](#ci-rpm-build)
+			4. [CI Maven and Gradle](#ci-maven-and-gradle)
+	2. [Git](#git)
+		3. [Git clients](#git-clients)
+	11. [Load Testing - Traffic injectors](#load-testing---traffic-injectors)
+		1. [JMeter](#jmeter)
+		2. [Alternatives](#alternatives)
+	12. [Metric monitoring](#metric-monitoring)
+		1. [Tools](#tools)
+		2. [Monitoring of JavaEE applications](#monitoring-of-javaee-applications)
+		3. [Monitoring Network Bandwidth](#monitoring-network-bandwidth)
+		4. [APM: Application Performance Management](#apm-application-performance-management)
+			1. [APM Blogs](#apm-blogs)
+			2. [APM Solutions](#apm-solutions)
+		5. [Centralized logging. Big Data Log Management Tools (Data Analytics Platforms)](#centralized-logging-big-data-log-management-tools-data-analytics-platforms)
+13. [ITIL](#itil)
+	14. [Is DevOps replacing ITIL?](#is-devops-replacing-itil)
+	15. [ITIL Tools](#itil-tools)
+11. [Software Development. Programming languages](#software-development-programming-languages)
+	1. [Blogs and Forums](#blogs-and-forums)
+	2. [Domain driven design](#domain-driven-design)
+	3. [API and Documentation Generators](#api-and-documentation-generators)
+	4. [Editors](#editors)
+		1. [Sublime](#sublime)
+			1. [Sublime Blogs](#sublime-blogs)
+			2. [Setting up Sublime](#setting-up-sublime)
+			3. [Sublime Git](#sublime-git)
+		2. [Alternative editors](#alternative-editors)
+		3. [Diff Tools](#diff-tools)
+	5. [Regular expressions](#regular-expressions)
+	6. [Bash](#bash)
+	7. [Python](#python)
+		1. [Python Blogs and Forums](#python-blogs-and-forums)
+		2. [Python docs](#python-docs)
+	8. [Python and AWS](#python-and-aws)
+	9. [Java](#java)
+	10. [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
+		1. [JSON](#json)
+	11. [QA. Software Testing](#qa-software-testing)
+12. [Data Science and Big Data](#data-science-and-big-data)
+	1. [Data collection and processing is growing in sports](#data-collection-and-processing-is-growing-in-sports)
+	2. [Python analytics](#python-analytics)
+		1. [Anaconda Analytics](#anaconda-analytics)
+			1. [Anaconda Code examples](#anaconda-code-examples)
+		2. [Apache Zeppelin](#apache-zeppelin)
+	3. [Big Data](#big-data)
+		1. [Big Data Blogs](#big-data-blogs)
+		2. [Data visualization: Tableau](#data-visualization-tableau)
+		3. [Spark](#spark)
+	4. [SQL](#sql)
+		1. [SQL Blogs and Forums](#sql-blogs-and-forums)
+		2. [SQL Docs](#sql-docs)
+		3. [SQL replication](#sql-replication)
+		4. [NoSQL](#nosql)
+			1. [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
+			2. [Redis, Coudhdb, and others](#redis-coudhdb-and-others)
+			3. [Schema free SQL query on everything engines](#schema-free-sql-query-on-everything-engines)
+		5. [NewSQL](#newsql)
+5. [Networking](#networking)
+	6. [Next Generation Firewalls](#next-generation-firewalls)
+	7. [Network virtualization](#network-virtualization)
+	8. [Network Forensics](#network-forensics)
+		1. [Network Forensics Blogs](#network-forensics-blogs)
+		2. [Network Forensics Docs](#network-forensics-docs)
+	9. [VoIP](#voip)
+	10. [WiFi security](#wifi-security)
+	11. [WebPerf and Resilient Networking: Planning for Failure](#webperf-and-resilient-networking-planning-for-failure)
+13. [Servers, Storage and Backup](#servers-storage-and-backup)
+	1. [Dell](#dell)
+	2. [HP](#hp)
+	3. [RAID disks](#raid-disks)
+	4. [Remote PC Access](#remote-pc-access)
+	5. [Storage](#storage)
+	6. [Backup](#backup)
+14. [Cloud](#cloud)
+	1. [Cloud Bogs](#cloud-bogs)
+	2. [The Twelve-Factor App methodology for building apps in modern cloud environments](#the-twelve-factor-app-methodology-for-building-apps-in-modern-cloud-environments)
+	3. [Development environments in the Cloud](#development-environments-in-the-cloud)
+	4. [Cloud references](#cloud-references)
+	5. [Cloud Pricing](#cloud-pricing)
+	6. [Awesome AWS](#awesome-aws)
+	7. [AWS re:Invent 2015](#aws-reinvent-2015)
+	8. [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
+		1. [AWS New features](#aws-new-features)
+		2. [AWS DevOps](#aws-devops)
+			1. [AWS Cloud Formation](#aws-cloud-formation)
+		3. [AWS Security](#aws-security)
+	9. [AWS Partner Network (APN)](#aws-partner-network-apn)
+	10. [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
+15. [Desktop Tools](#desktop-tools)
+16. [E-Learning](#e-learning)
+	1. [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
+	2. [Free e-learning](#free-e-learning)
+	3. [Alternatives](#alternatives-1)
 
 <!-- /MarkdownTOC -->
 
 
+<a name="high-quality-tech-resources-and-search-engines"></a>
 # High quality tech resources and search engines
 
+<a name="zeefcom-find-and-share-quality-developmenttech-resources"></a>
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com](https://zeef.com)
 - [agile.zeef.com](https://agile.zeef.com)
@@ -163,6 +233,7 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
+<a name="awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc"></a>
 ## Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc
 - [Awesome List - A curated list of awesome lists](https://github.com/sindresorhus/awesome)
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
@@ -176,6 +247,7 @@
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
+<a name="stackshareio-discover-and-discuss-the-best-software-tools-and-services"></a>
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
 	- [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
@@ -185,9 +257,11 @@
 
 ![internet users](images/internet-users.jpeg)
 
+<a name="startups"></a>
 # Startups
 [La economía crece](mkeiser.md)
 
+<a name="startup-related-links"></a>
 ## Startup related links
 - [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
 - [European Startup Initiative](http://www.startupheatmap.eu/)
@@ -195,6 +269,7 @@
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [startup.zeef.com](https://startup.zeef.com/)
 
+<a name="startup-jobs"></a>
 ## Startup jobs
 - [AngelList jobs](https://angel.co)
 	- [AngelList jobs Barcelona](https://angel.co/barcelona)
@@ -207,6 +282,7 @@
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
 
+<a name="scalability-and-reliability"></a>
 # Scalability and Reliability
 - [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
 	- ["Scalable Internet Architectures" book - Theo Schlossnagle](http://scalableinternetarchitectures.com/)
@@ -217,6 +293,7 @@
 - [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
 - [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
 
+<a name="scalability-solutions"></a>
 ## Scalability Solutions
 - [OpenShift Dedicated](https://www.openshift.com/dedicated/)
 - [OpenStack](http://www.openstack.org/)
@@ -225,9 +302,11 @@
 	- [Kubernetes repo analyzed with gitm. Top changeset contributors by employer](https://github.com/karlkfi/kubernetes-gitdm/wiki#top-changeset-contributors-by-employer)
 - [Univa Grid Engine](http://www.univa.com/)
 
+<a name="data-center-blogs"></a>
 ## Data Center Blogs
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 
+<a name="it-spain-blogs"></a>
 # IT Spain Blogs
 - [jreypo.wordpress.com](https://jreypo.wordpress.com/)
 - [dbigcloud.com](http://www.dbigcloud.com/)
@@ -235,9 +314,11 @@
 - [muylinux.com](http://www.muylinux.com/)
 - [unpocodejava.wordpress.com](https://unpocodejava.wordpress.com/)
 
+<a name="linux"></a>
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 
+<a name="linux-blogs-and-forums"></a>
 ## Linux Blogs and Forums
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
@@ -258,6 +339,7 @@
 - [Linoxide.com](http://linoxide.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 
+<a name="linux-commands"></a>
 ## Linux Commands
 - [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
@@ -272,6 +354,7 @@
 - [ibm.com: Use the /proc filesystem to get a handle on your system](http://www.ibm.com/developerworks/linux/library/l-adfly/index.html)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 
+<a name="linux-performance"></a>
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
 - [Linux: Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
@@ -293,6 +376,7 @@
 - [Linux.101hacks.com: lsof Command Examples](http://linux.101hacks.com/monitoring-performance/lsof-command-examples/)
 - [nixCraft: Linux Increase The Maximum Number Of Open Files / File Descriptors (FD)](http://www.cyberciti.biz/faq/linux-increase-the-maximum-number-of-open-files/)
 
+<a name="linux-networking"></a>
 ## Linux Networking
 - [ntop](http://www.ntop.org/)
 - [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
@@ -306,7 +390,9 @@
 	- [Quick HOWTO : Ch04 : Simple Network Troubleshooting : Using MTR To Detect Network Congestion](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting#Using_MTR_To_Detect_Network_Congestion)
 - [dropwatch: a monitoring utility that monitors packets dropped by the kernel](http://prefetch.net/blog/index.php/2011/07/11/using-netstat-and-dropwatch-to-observe-packet-loss-on-linux-servers/)
 
+<a name="red-hat"></a>
 # Red Hat
+<a name="red-hat-blogs-and-forums"></a>
 ## Red Hat Blogs and Forums
 - [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
 - [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/)
@@ -320,6 +406,7 @@
 - [Red Hat Developers](http://developers.redhat.com)
 - [Planet JBoss Developer](http://planet.jboss.org/)
 
+<a name="red-hat-docs"></a>
 ## Red Hat Docs
 - [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
 	- [A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives](http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/)
@@ -327,6 +414,7 @@
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
 
+<a name="red-hat-virtualization"></a>
 ## Red Hat Virtualization
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 	- [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
@@ -337,6 +425,7 @@
 	- [GlusterFS Documentation](http://gluster.readthedocs.org/en/latest/)
 	- [tecmint.com: Introduction to GlusterFS (File System) and Installation on RHEL/CentOS and Fedora](http://www.tecmint.com/introduction-to-glusterfs-file-system-and-installation-on-rhelcentos-and-fedora/)
 
+<a name="red-hat-openshift-paas"></a>
 ## Red Hat OpenShift PaaS
 - [OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes](http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/)
 	- [OpenShift Dedicated](https://www.openshift.com/dedicated/)
@@ -345,15 +434,18 @@
 - [Red Hat announces availability of containerized middleware capabilities on OpenShift](http://www.redhat.com/en/about/blog/red-hat-announces-availability-containerized-middleware-capabilities-openshift)
 	- [zdnet.com: Containers, OpenShift, and Middleware](http://www.zdnet.com/article/containers-openshift-and-middleware/)
 
+<a name="red-hat-mobile-application-platform-feed-henry"></a>
 ## Red Hat Mobile Application Platform: Feed Henry
 - [Feed Henry](http://feedhenry.org/)
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
 
+<a name="jboss-wildfly"></a>
 ## JBoss (WildFly)
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
 - [Product Documentation for JBoss Enterprise Application Platform](https://access.redhat.com/documentation/en/jboss-enterprise-application-platform/)
 - [WildFly 10 ebook - Francesco Marchioni](http://www.itbuzzpress.com/ebooks/wildfly-10-ebook.html)
 
+<a name="jboss-blogs"></a>
 ### JBoss Blogs
 - [docs.jboss.org](http://docs.jboss.org )
 - [community.jboss.org](https://community.jboss.org )
@@ -365,6 +457,7 @@
 - [schabell.org - Eric D. Schabell's blog](http://www.schabell.org)
 - [JBoss Tutotials - JBoss training courses](http://www.mastertheboss.com/)
 
+<a name="jboss-gatein-exo-forge-forums-developer-studio-arquillian-and-others"></a>
 ### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others
 - [JBoss GateIn Portal](http://gatein.jboss.org/)
 - [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
@@ -373,6 +466,7 @@
 - [JBoss Developer Studio](https://www.jboss.org/products/devstudio/overview/)
 - [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
 
+<a name="jboss-resources"></a>
 ### JBoss Resources
 - [tecmint.com: WildFly (JBoss AS) – How to Access and Manage CLI Using GUI](http://www.tecmint.com/wildfly-jboss-as-how-to-access-and-manage-cli-using-gui/)
 - [middlewaresnippets.blogspot.com - WildFlying Java EE 7](http://middlewaresnippets.blogspot.com/2014/07/wildflying-java-ee-7.html)
@@ -383,19 +477,23 @@
 - [youtube - 2014 Red Hat Summit: Red Hat JBoss Middleware keynote](https://youtu.be/XPK2RTqlBxk)
 - [youtube - Craig Muzilla delivers middleware keynote at 2015 Red Hat Summit](https://youtu.be/wWNVpFibayA)
 
+<a name="jboss-bpm-suite-and-jboss-brms"></a>
 ### JBoss BPM Suite and JBoss BRMS
 - [Red Hat Updates JBoss BPM Suite and JBoss BRMS Products](http://www.redhat.com/de/about/blog/red-hat-updates-jboss-bpm-suite-and-jboss-brms-products)
 - [schabell.org: The ultimate collection of JBoss BPM Suite demos](http://www.schabell.org/2015/12/ultimate-collection-jboss-bpmsuite-demos.html)
 - [schabell.org: Quick Tour #4 Start your first JBoss BRMS project (video)](http://www.schabell.org/2015/12/quick-tour-4-first-brms-project.html)
 - [Clustering and session failover with WildFly9](http://blog.eisele.net/2015/01/developer-interview-di-11-stuart-douglas-about-wildfly9-undertow.html)
 
+<a name="jboss-fuse---enterprise-service-bus-esb"></a>
 ### JBoss Fuse - Enterprise Service Bus (ESB)
 - [JBoss Fuse Description](http://www.jboss.org/products/fuse/overview/)
 - [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
 
+<a name="jboss-data-virtualization"></a>
 ### JBoss Data Virtualization
 - [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)
 
+<a name="jboss-data-grid"></a>
 ### JBoss Data Grid
 - [JBoss Data Grid description. ](http://www.jboss.org/products/datagrid/overview/)JBoss Data Grid is an in-memory, distributed, NoSQL data store that helps boost application performance and improve scalability and development flexibility.
 - [C2B2Consulting - JBoss Data Grid](http://www.c2b2.co.uk/jboss_data_grid)
@@ -403,6 +501,7 @@
 	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
 	- [C2B2Consulting - Youtube - Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](https://youtu.be/q52_C9WW70Q)
 
+<a name="red-hat-development"></a>
 ## Red Hat Development
 - [developerblog.redhat.com: 2015 Year in Review – oh what a year](http://developerblog.redhat.com/2015/12/14/2015-year-in-review-oh-what-a-year/)
 	- [Our 5 most popular developer posts in 2014](http://developerblog.redhat.com/2014/12/31/5-most-popular-posts-2014/)
@@ -413,6 +512,7 @@
 	- [Reddit: Red Hat Software Collections (SCL) is not provided with RHEL Server/Workstation, Self Support](https://www.reddit.com/r/redhat/comments/39kk0s/red_hat_software_collections_scl_is_not_provided/)
 - [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 
+<a name="red-hat-videos"></a>
 ## Red Hat Videos
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
 - [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
@@ -420,6 +520,7 @@
 	- [Flock 2014 Fedora Conference](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
 	- [Flock 2015 Fedora Conference](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
 
+<a name="microsoft"></a>
 # Microsoft
 - [SSH for Windows open sourced by Microsoft. Qué está pasando?](https://github.com/PowerShell/Win32-OpenSSH)
 - [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
@@ -428,6 +529,7 @@
 - [PowerShell Magazine](http://www.powershellmagazine.com/)
 - [PowerShell.org](http://powershell.org)
 
+<a name="microsoft-monitoring-and-management"></a>
 ## Microsoft Monitoring and Management
 - [Spiceworks](http://www.spiceworks.com/)
 	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
@@ -436,7 +538,9 @@
 
 ![spiceworks](images/spiceworks-logo.png)
 
+<a name="webapp"></a>
 # WebApp
+<a name="http2"></a>
 ## HTTP/2
 - [SPDY & HTTP 2 with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=WkLBrHW4NhQ)
 	- [cURL mantainer: http2 explained](http://http2-explained.haxx.se/)
@@ -455,21 +559,26 @@
 	- [As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet](http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/)
 	- [Microsoft may block SHA1 certificates sooner than expected](http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/)
 
+<a name="enterprise-search-platforms"></a>
 ## Enterprise Search Platforms
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 
+<a name="apache-and-tomcat"></a>
 ## Apache and Tomcat
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
 - [How to set up a cluster with Tomcat 8, Apache and mod_jk.Tomcat Performance Monitoring and Tuning](http://blog.c2b2.co.uk/2014/05/tomcat-performance-monitoring-and-tuning.html)
 - [middlewaresnippets.blogspot.com - Working with Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/05/working-with-apache-http-server.html)
 	- [middlewaresnippets.blogspot.com - Working some more with Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/09/working-some-more-with-apache-http.html)
 
+<a name="nginx"></a>
 ## Nginx
 - [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
 
+<a name="weblogic"></a>
 ## WebLogic
+<a name="oracle-blogs-middleware-and-java"></a>
 ### Oracle Blogs: Middleware and Java
 - [Oracle Middleware Blog](http://oraclemiddlewareblog.com/)
 - [oraclejavamagazine-digital.com - Java Magazine](http://www.oraclejavamagazine-digital.com)
@@ -482,6 +591,7 @@
 - [avanttic blog](http://blog.avanttic.com/)
 	- [avanttic blog - weblogic](http://blog.avanttic.com/tag/weblogic/)
 
+<a name="weblogic-resources"></a>
 ### WebLogic Resources
 - [WebLogic 12c Enterprise Deployment Architecture in the Amazon Cloud](http://oraclemiddlewareblog.com/2015/10/13/weblogic12c-architecture-in-the-amazon-cloud/)
 - [SlideShare - 12 Things You Should Know About WebLogic Server 12.2.1](http://www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015)
@@ -495,6 +605,7 @@
 - [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
 - [Oracle's docker images. A real WebLogic cluster on a swarm of Docker containers](https://github.com/oracle/docker-images/commit/ad34abf5f5b1186ea119ec4586fd158c0631182b)
 
+<a name="jvm-latency-caching-off-heap-data-grid"></a>
 ## JVM Latency: Caching, Off Heap, Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
@@ -504,6 +615,7 @@
 - [Dr. Low Latency or: How I Learned to Stop Worrying about Pauses and Love the Memory](http://www.c2b2.co.uk/javazone-2013-low-latency)
 - [What is a Data Grid?](http://www.c2b2.co.uk/what_is_data_grid_webinar)
 
+<a name="java-garbage-collection-changes-in-java-8-jmx-monitoring"></a>
 ### Java Garbage Collection: Changes in Java 8. JMX monitoring
 - [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
 - [One important change in Memory Management in Java 8](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
@@ -511,22 +623,27 @@
 	- [Mi análisis: cambios en la gestión de memoria de Java 8. Diferencias en distintas implementaciones de JVM](jvm-mem.md)
 - [middlewaresnippets.blogspot.com - Monitoring with JMX](http://middlewaresnippets.blogspot.com/2014/10/monitoring-with-jmx.html)
 
+<a name="e-mail"></a>
 ## E-Mail
 - [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
 - [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
 
 ![dilbert](images/dilbert.jpg)
 
+<a name="security"></a>
 # Security
+<a name="security-blogs"></a>
 ## Security Blogs
 - [ehacking.net](http://www.ehacking.net)
 - [Sucuri Blog](https://blog.sucuri.net/)
 
+<a name="security-toolkits"></a>
 ## Security Toolkits
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
 - [Network Security Toolkit](http://www.networksecuritytoolkit.org)
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
 
+<a name="identity-management"></a>
 ## Identity Management
 - [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
 - [redhat.com - Improvements to Identity Management (IdM) in RHEL 7.1](http://www.redhat.com/en/about/press-releases/red-hat-continues-platform-innovation-general-availability-first-minor-release-red-hat-enterprise-linux-7)
@@ -540,6 +657,7 @@
 - [Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management](http://shiro.apache.org/)
 - [Open source identity management 20121106 - apache con eu](http://www.slideshare.net/ilgrosso/open-source-identity-management-20121106-apache-con-eu)
 
+<a name="application-security-web-app-firewall-blocking-bots"></a>
 ## Application Security: Web App Firewall. Blocking bots
 - [dzone.com - The 2015 DZone Guide to Application Security](http://bit.ly/1RksReA)
 - [JBossDeveloper - Theft-Proof Java EE - Securing Your Java EE Enterprise Applications](http://planet.jboss.org/post/theft_proof_java_ee_securing_your_java_ee_enterprise_applications)
@@ -548,11 +666,13 @@
 - [Estándar de exclusión de robots](https://es.wikipedia.org/wiki/Est%C3%A1ndar_de_exclusi%C3%B3n_de_robots)
 - [Robots Database](http://www.robotstxt.org/db.html)
 
+<a name="breaking-firewalls"></a>
 ## Breaking Firewalls
 - [Breaking Firewalls with OpenSSH and PuTTY](http://souptonuts.sourceforge.net/sshtips.htm)
 	- [PuTTY: 10 consejos útiles para conexiones SSH](http://www.emezeta.com/articulos/putty-10-consejos-utiles-para-conexiones-ssh)
 - [Punching holes into firewalls. Why firewalls shouldn't be considered a ultimate weapon for network security. Secure TCP-into-HTTP tunnelling guide](http://sebsauvage.net/punching/)
 
+<a name="major-security-issues-and-blogs"></a>
 ## Major security issues and blogs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
 - [dzone.com - Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
@@ -577,7 +697,9 @@
 
 ![intrusion response procedures](images/intrusion_response_procedures.png)
 
+<a name="configuration-management-and-orchestration"></a>
 # Configuration Management and Orchestration
+<a name="vagrant"></a>
 ## Vagrant
 - [How Vagrant Eases the Software Research and Testing - The New Stack](http://thenewstack.io/vagrant-developers-researchers/)
 - [Improve your development environments with virtualization - Vagrant, Python ](http://pyvideo.org/video/3411/improve-your-development-environments-with-virtua)
@@ -585,6 +707,7 @@
 - [Crash course on Vagrant, video tutorial at sysadmincasts.com](https://sysadmincasts.com/episodes/42-crash-course-on-vagrant-revised)
 - [developerblog.redhat.com: Using Vagrant Tooling in Eclipse](http://developerblog.redhat.com/2015/12/22/using-vagrant-tooling-in-eclipse/)
 
+<a name="ansible"></a>
 ## Ansible
 - [Ansible, Just Use It - slide](https://speakerdeck.com/vranac/ansible-just-use-it)
 - [Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7](http://unversioned.blogspot.gr/2015/10/ansible-playbook-provision-weblogic-fusion-middleware-12.1.3-centos-7.html)
@@ -603,43 +726,52 @@
 - [slideshare.net: Debugging ansible modules](http://www.slideshare.net/aleonhardt/debugging-ansible-modules)
 - [Asset and lifecycle management using APIC-EM and Ansible.](https://communities.cisco.com/community/developer/blog/2015/12/17/asset-and-lifecycle-management-using-apic-em-and-ansible) Automate the collection of output from a series of 'show' commands from routers and switches
 
+<a name="ansible-support-and-forums"></a>
 ### Ansible Support and Forums
 - [Ansible Support](https://support.ansible.com)
 - [Ansible subreddit](https://www.reddit.com/r/ansible/)
 
+<a name="is-ansible-replacing-puppet"></a>
 ### Is ansible replacing puppet?
 - [redhat subreddit: Is ansible replacing puppet?](https://www.reddit.com/r/redhat/comments/3xj6ja/is_ansible_replacing_puppet/)
 - [Demo: Chef vs Puppet vs Ansible](https://www.youtube.com/watch?v=miO00M4vPok)
 - [Are Docker Users Migrating to Ansible and Away from Puppet and Chef?](http://thenewstack.io/are-docker-users-migrating-to-ansible-and-away-from-puppet-and-chef/)
 - [Twitter's transition from Puppet to Ansible](https://www.youtube.com/watch?v=fwGrKXzocg4)
 
+<a name="apache-via-ansible"></a>
 ### Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
 
+<a name="weblogic-via-ansible"></a>
 ### WebLogic via Ansible
 - [middlewaresnippets.blogspot.com - set-up Oracle WebLogic Server environment with Ansible (3 hosts, one control node and two managed nodes)](http://middlewaresnippets.blogspot.com/2015/03/fun-with-ansible.html)
 - [blogs.oracle.com - Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7 by Christos Vezalis](https://blogs.oracle.com/emeapartnerweblogic/entry/ansible_playbook_to_provision_a)
 	- [Ansible Playbook: install and configure WebLogic server 12c with Oracle Fusion Middleware in RHEL7](https://github.com/cvezalis/weblogic-ansible)
 	- [Ansible playbook: deploy and create a WebLogic 12c R2 Domain with Oracle Fusion Middleware](https://github.com/cvezalis/ansible-weblogic-fmw-infra-12c-R2)
 
+<a name="databases-via-ansible"></a>
 ### Databases via Ansible
 - [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)
 - [Ansible Role: MySQL](https://github.com/geerlingguy/ansible-role-mysql)
 - [Example Ansible playbook that uses the MySQL module](https://github.com/ansible/ansible-examples/blob/master/language_features/mysql.yml)
 
+<a name="mysql-via-ansible"></a>
 #### MySQL via Ansible
 - [Ansible and Loading MySQL Databases Part I](https://opensourcedba.wordpress.com/2015/07/14/ansible-and-loading-mysql-databases-part-i/)
 	- [Ansible and Loading MySQL Databases Part II](https://opensourcedba.wordpress.com/2015/07/29/ansible-and-loading-mysql-databases-part-ii/)
 
+<a name="postgresql-via-ansible"></a>
 #### PostgreSQL via Ansible
 - [Ansible Loves PostgreSQL](http://blog.2ndquadrant.com/ansible-loves-postgresql/)
 
+<a name="oracle-via-ansible"></a>
 #### Oracle via Ansible
 - [Nodalpoint.com: Using Ansible to configure a CentOS 7.1 server with Oracle 12c R1 Enterprise Edition Database](http://www.nodalpoint.com/devops-ansible-oracle-database-oraclelinux-7-vagrant/)
 	- [middlewaresnippets.blogspot.com - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com/2015/06/more-fun-with-ansible.html)
 
 ![Red Hat acquires Ansible](images/redhat-ansible.png)
 
+<a name="puppet"></a>
 ## Puppet
 - [sysadmincasts.com: Learning Puppet with Vagrant](http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant)
 	- [Sysadmincasts.com: Git to Puppet Deployment Workflow](https://sysadmincasts.com/episodes/33-git-to-puppet-deployment-workflow)
@@ -654,12 +786,14 @@
 - [Puppet Modules: Apps for Ops](http://pyvideo.org/video/2589/puppet-modules-apps-for-ops)
 - [Geppetto, eclipse plugin for puppet](https://puppetlabs.com/blog-tags/geppetto)
 
+<a name="weblogic-via-puppet"></a>
 ### WebLogic via Puppet
 - [Setup WebLogic 12c environment with Vagrant and Puppet](http://multikoop.blogspot.com.br/2013/11/setup-weblogic-12c-environment-with.html)
 - [New Puppet 3 Weblogic provisioning module by Edwin Biemond](https://blogs.oracle.com/emeapartnerweblogic/entry/new_puppet_3_weblogic_provisioning)
 	- [puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module](https://forge.puppetlabs.com/biemond/wls)
 	- [middlewaresnippets.blogspot.com - Install and Configure a WebLogic Server Environment using Puppet](http://middlewaresnippets.blogspot.com/2015/03/install-and-configure-weblogic-server.html)
 
+<a name="provisioning-red-hat-satellite-katello-foreman-cobbler-and-others"></a>
 ## Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others
 - [Red Hat Satellite](https://access.redhat.com/products/red-hat-satellite)
 	- [redhat.com: Product Documentation for Red Hat Network Satellite](https://access.redhat.com/documentation/en/red-hat-network-satellite/)
@@ -672,12 +806,15 @@
 - [Candlepin](http://www.candlepinproject.org/)
 - [Pulp](http://www.pulpproject.org/)
 
+<a name="chef-and-sap"></a>
 ## Chef and SAP
 - [docs.chef.io](https://docs.chef.io/)
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
 - [Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps](http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction)
 
+<a name="docker"></a>
 ## Docker
+<a name="microservices"></a>
 ### Microservices
 - [Introduction to Microservices | NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
 - [Microservices, Martin Fowler](http://martinfowler.com/articles/microservices.html)
@@ -688,6 +825,7 @@
 - [capgemini.github.io: Is REST best in a Microservices architecture](https://capgemini.github.io/architecture/is-rest-best-microservices/)
 - [javaadvent.com: Microservices and Java EE](http://www.javaadvent.com/2015/12/microservices-and-java-ee.html)
 
+<a name="docker-references"></a>
 ### Docker references
 - [DZone Refcard: Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
 - [Awesome Docker. A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
@@ -716,20 +854,25 @@
 - [Podcast: Docker & Puppet: Uniting Containers with Configuration Management](https://puppetlabs.com/podcasts/podcast-docker-puppet-combining-containers-configuration-management)
 - [dchq.io via webcodegeeks.com: Advanced Platform for Automation of Container based Apps on any Cloud](http://www.webcodegeeks.com/web-development/step-step-guide-deploying-managing-php-application-docker-lamp-lapp-laop-stacks/)
 
+<a name="mysql-via-docker"></a>
 ### MySQL via Docker
 - [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
 
+<a name="weblogic-via-docker"></a>
 ### WebLogic via Docker
 - [multikoop.blogspot.com.es - WebLogic 12.2.1 on Docker](http://multikoop.blogspot.com.es/2015/12/weblogic-1221-on-docker.html)
 - [community.oracle.com: Creating Fast, Scalable and Portable WebLogic Development Environments with Docker](https://community.oracle.com/docs/DOC-919606)
 
 ![disruption cycle](images/disruption-cycle.png)
 
+<a name="devops"></a>
 # DevOps
+<a name="devops-blogs"></a>
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
 
+<a name="description"></a>
 ## Description
 - [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
 - [Software Development in the 21st century](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
@@ -745,6 +888,7 @@
 - [DevOps does not negate ITIL or ITSM; they can be leveraged for greater agility](http://www.itworldcanada.com/article/devops-does-not-negate-itil-or-itsm-they-can-be-leveraged-for-greater-agility/379603)
 - [thoughtsoncloud.com: Why are we racing to DevOps?](http://www.thoughtsoncloud.com/2015/12/why-are-we-racing-to-devops/)
 
+<a name="devops-tools-2016"></a>
 ## DevOps Tools 2016
 - [Top 10 DevOps Tools to look out for in 2016](https://www.linkedin.com/pulse/top-10-devops-tools-look-out-2016-matthew-smith)
 	1. [Packaging - FPM](https://github.com/jordansissel/fpm)
@@ -762,6 +906,7 @@
 - [oraclejavamagazine-digital.com: Using Docker in Java Applications](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20151112?pg=52#pg52)
 - [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 
+<a name="agile-planning-scrum-kanban-lean"></a>
 ## Agile planning: Scrum, Kanban, Lean
 - [Javier Garzás: Agilidad](https://www.youtube.com/watch?v=oShXAC26rcs)
 	- [Aléjate del concepto “Proyecto” si quieres usar bien Scrum: confundir “versión a entregar” al cliente con final de sprint](http://www.javiergarzas.com/2015/11/alejate-del-concepto-proyecto-si-quieres-usar-bien-scrum-12-confundir-version-a-entregar-al-cliente-con-final-de-sprint.html)
@@ -773,6 +918,7 @@
 - [Lean vs Agile Programming](http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/)
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 
+<a name="continuous-integration-and-delivery"></a>
 ### Continuous Integration and Delivery
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
@@ -780,6 +926,7 @@
 - [Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
 - [Continuously Delivering SOA. Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
 
+<a name="ci-jenkins-travis"></a>
 #### CI Jenkins, Travis
 - [Jenkins User Conference West 2015 - Slides available](https://www.cloudbees.com/jenkins/juc-2015/us-west)
 	- [Jenkins and Docker: Next Generation Continuous Delivery](https://www.linkedin.com/pulse/jenkins-docker-next-generation-continuous-delivery-khadija-kerissi)
@@ -788,19 +935,23 @@
 	- [jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server](https://github.com/jhrcz/jenkins-rpm-builder)
 - [Travis CI](https://travis-ci.org/)
 
+<a name="ci-docker"></a>
 #### CI Docker
 - [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine
 
+<a name="ci-rpm-build"></a>
 #### CI RPM build
 - [Continuous integration + rpmbuild + Docker](https://access.redhat.com/discussions/1174853)
 	- [Build native RPM packages by leveraging docker capabilities](https://github.com/alanfranz/docker-rpm-builder)
 	- [Building RPM with Docker images](http://blog.chmouel.com/2014/12/31/building-rpm-with-docker-images/)
 	- [Reddit: Creating internal RPM build environment?](https://www.reddit.com/r/linuxadmin/comments/2ke2vs/creating_internal_rpm_build_environment/)
 
+<a name="ci-maven-and-gradle"></a>
 #### CI Maven and Gradle
 - [Java: Maven vs Gradle](https://dzone.com/articles/maven-vs-gradle-one-year-later)
 - [Gradle | Modern Open-Source Enterprise Build Automation](http://gradle.org/)
 
+<a name="git"></a>
 ## Git
 - [One Million Downloads of GitLab](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
 - [git.training](http://git.training/)
@@ -821,6 +972,7 @@
 - [Git Pocket Guide](http://it-ebooks.info/book/2517/)
 - [Git Pandas. A wrapper around gitpython to produce pandas dataframes for analysis](https://github.com/wdm0006/git-pandas)
 
+<a name="git-clients"></a>
 ### Git clients
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [git-scm clients](http://git-scm.com/downloads)
@@ -828,7 +980,9 @@
 
 ![git image](images/git.png)
 
+<a name="load-testing---traffic-injectors"></a>
 ## Load Testing - Traffic injectors
+<a name="jmeter"></a>
 ### JMeter
 - [javacodegeeks.com: JMeter Tutorial for Load Testing – The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [blazemeter.com: The Ultimate JMeter Resource List (july 2015)](https://blazemeter.com/blog/ultimate-jmeter-resource-list)
@@ -836,11 +990,14 @@
 - [guru99.com: Free Jmeter Tutorials](http://www.guru99.com/jmeter-tutorials.html)
 - [unpocodejava.wordpress.com: ¿Cómo hacer pruebas de carga de una clase Java con JMeter?](https://unpocodejava.wordpress.com/2015/12/21/como-hacer-pruebas-de-carga-de-una-clase-java-con-jmeter-2/)
 
+<a name="alternatives"></a>
 ### Alternatives
 - [Siege, a CLI tool ideal for a simple testing of AWS Auto Scaling](https://www.joedog.org/siege-home/)
 - [Grinder](http://grinder.sourceforge.net/)
 
+<a name="metric-monitoring"></a>
 ## Metric monitoring
+<a name="tools"></a>
 ### Tools
 - [Stop using Nagios (so it can die peacefully)](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
 	- [nagiosql.org](http://www.nagiosql.org/)
@@ -870,16 +1027,19 @@
 
 ![zabbix cookbook](images/zabbix-cookbook.jpg)
 
+<a name="monitoring-of-javaee-applications"></a>
 ### Monitoring of JavaEE applications
 - [javamelody](https://github.com/javamelody)
 - [visualvm](http://visualvm.java.net/)
 - [Red Hat Subscription: How do I analyze a Java heap dump?](https://access.redhat.com/solutions/18301)
 
+<a name="monitoring-network-bandwidth"></a>
 ### Monitoring Network Bandwidth
 - [ntop](http://www.ntop.org/)
 - [Iperf.fr - The TCP,UDP and SCTP network bandwidth measurement tool](https://iperf.fr/)
 - [Red Hat Subscription: Using iperf to test network bandwidth throughput](https://access.redhat.com/solutions/33103)
 
+<a name="apm-application-performance-management"></a>
 ### APM: Application Performance Management
 - [APM Convergence: Monitoring vs. Management. APM is entering into a period of intense competition of technology and strategy with a multiplicity of vendors and viewpoints](http://apmdigest.com/apm-convergence-monitoring-vs-management)
 - [Performance management from the client's point of view](http://www.networkworld.com/article/2300639/data-center/performance-management-from-the-client-s-point-of-view.html)
@@ -887,11 +1047,13 @@
 - [4 Reasons to Use APM Tools](http://apmdigest.com/4-reasons-to-use-apm-tools)
 - [Application Performance Management and the Cloud](http://apmdigest.com/application-performance-management-and-the-cloud)
 
+<a name="apm-blogs"></a>
 #### APM Blogs
 - [applicationperformancemanagement.org: APM, ALM and Performance Monitoring](http://www.applicationperformancemanagement.org/)
 - [apmblog.dynatrace.com](http://apmblog.dynatrace.com)
 - [AppDynamics Blog](https://blog.appdynamics.com/apm/)
 
+<a name="apm-solutions"></a>
 #### APM Solutions
 - [RTI - Application Performance Management for Red Hat Middleware (JBoss, Fuse, Tomcat)](http://www.rtiperformance.com/)
 - [MoSKito.org APM. Monitoring for Java applications. Complete ecosystem for DevOps. Free & open source](http://www.moskito.org/)
@@ -906,6 +1068,7 @@
 
 ![newrelic apm](images/newrelic-apm.png)
 
+<a name="centralized-logging-big-data-log-management-tools-data-analytics-platforms"></a>
 ### Centralized logging. Big Data Log Management Tools (Data Analytics Platforms)
 - [Devops and Log Management Tools Drive Agile IT](http://blog.xpolog.com/2014/04/17/devops-and-log-analysis-tools-drive-agile-it/)
 - [Splunk](http://www.splunk.com)
@@ -934,7 +1097,9 @@
 
 ![logstash architecture](images/logstach-archi.png)
 
+<a name="itil"></a>
 # ITIL
+<a name="is-devops-replacing-itil"></a>
 ## Is DevOps replacing ITIL?
 - [slideshare.net: Is DevOps replacing ITIL? Busting the Five Biggest DevOps Myths](http://www.slideshare.net/CAinc/busting-the-five-biggest-devops-myths)
 - [Is DevOps Killing Some Types of Jobs?](https://developer.ibm.com/urbancode/2014/10/28/devops-killing-types-jobs/)
@@ -943,15 +1108,19 @@
 	- [8 Reasons IT Pros Hate The Cloud](http://www.informationweek.com/cloud/8-reasons-it-pros-hate-the-cloud/d/d-id/1320531)
 	- [The IT Culture War: The Struggle to Adopt DevOps | WIRED](http://www.wired.com/2015/03/culture-war-struggle-adopt-devops/)
 
+<a name="itil-tools"></a>
 ## ITIL Tools
 - [itop - ITSM & CMDB OpenSource. A simple, web based IT Service Management tool ](http://sourceforge.net/projects/itop/)
 
+<a name="software-development-programming-languages"></a>
 # Software Development. Programming languages
+<a name="blogs-and-forums"></a>
 ## Blogs and Forums
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 - [DZone](http://dzone.com)
 - [Web Code Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
 
+<a name="domain-driven-design"></a>
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
 - [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)
@@ -961,24 +1130,30 @@
 
 ![system testing](images/system_testing_cartoon.png)
 
+<a name="api-and-documentation-generators"></a>
 ## API and Documentation Generators
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
+<a name="editors"></a>
 ## Editors
+<a name="sublime"></a>
 ### Sublime
 
+<a name="sublime-blogs"></a>
 #### Sublime Blogs
 - [sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox](http://sublimetexttips.com/)
 - [Sublime Text Unofficial Documentation](http://sublime-text-unofficial-documentation.readthedocs.org)
 - [Welcome to SublimeLinter 3](http://www.sublimelinter.com)
 
+<a name="setting-up-sublime"></a>
 #### Setting up Sublime
 - [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 	- [An excellent free video course on Sublime Text 2 - Sublime Text 3 is still in beta](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 - [Regex mode and debugging PHP](http://sublimetexttips.com/sublime-text-power-user-tricks-plus-how-to-debug-your-php-like-a-boss/)
 
+<a name="sublime-git"></a>
 #### Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
 - [Package Control](https://packagecontrol.io)
@@ -991,6 +1166,7 @@
 - [plaintext-productivity.net: How to Set Up Git and Sublime Text for Version Control](http://plaintext-productivity.net/2-08-how-to-set-up-git-and-sublime-text-for-version-control.html)
 - [Git Gutter](https://github.com/jisaacks/GitGutter)
 
+<a name="alternative-editors"></a>
 ### Alternative editors
 - [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
 - [Android Studio 2.0](http://developer.android.com/sdk/index.html)
@@ -999,6 +1175,7 @@
 	- [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
 
+<a name="diff-tools"></a>
 ### Diff Tools
 - [Comparison of file comparison tools](https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools)
 - [winmerge.org](http://winmerge.org/)
@@ -1006,10 +1183,12 @@
 - [meldmerge.org](http://meldmerge.org/)
 - [KDiff3](http://kdiff3.sourceforge.net/)
 
+<a name="regular-expressions"></a>
 ## Regular expressions
 - [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
 - [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
 
+<a name="bash"></a>
 ## Bash
 - [explainshell.com: write down a command-line to see the help text that matches each argument](http://explainshell.com/)
 - [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands](http://www.shellcheck.net/)
@@ -1018,7 +1197,9 @@
 
 ![goto-dinosaur](images/goto-dinosaur.jpeg)
 
+<a name="python"></a>
 ## Python
+<a name="python-blogs-and-forums"></a>
 ### Python Blogs and Forums
 - [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
 	- [reddit: python cheat sheet](https://www.reddit.com/r/learnpython/comments/3r2hsq/python_cheat_sheet/)
@@ -1033,6 +1214,7 @@
 - [pyvideo.org](http://pyvideo.org)
 - [Talk Python To Me Podcast](http://talkpython.fm)
 
+<a name="python-docs"></a>
 ### Python docs
 - [Python progression path - From apprentice to guru](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 - [Python Anti-Patterns. The Little Book of Python Anti-Patterns and Worst Practice](http://docs.quantifiedcode.com/python-code-patterns/)
@@ -1065,18 +1247,21 @@
 - [My top 5 ‘new’ Python modules of 2015](http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/)
 - [stackoverflow: Create dictionary from splitted strings from list of strings](http://stackoverflow.com/questions/34319156/create-dictionary-from-splitted-strings-from-list-of-strings)
 
+<a name="python-and-aws"></a>
 ## Python and AWS
 - [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
 - [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
 - [Boto](https://github.com/boto/boto)
 - [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
 
+<a name="java"></a>
 ## Java
 - [genbetadev.com: java-j2ee](http://www.genbetadev.com/categoria/java-j2ee)
 - [genbetadev.com: Herramientas imprescindibles para un desarrollador de Java (2011)](http://www.genbetadev.com/java-j2ee/herramientas-imprescindibles-para-un-desarrollador-de-java)
 - [JavaOne 2015](https://www.youtube.com/playlist?list=PLPIzp-E1msrZz6RNdbDiK0nKuxAUZPs77)
 - [Java Advent Blog](http://www.javaadvent.com/)
 
+<a name="front-end-html5-javascriptnodejs"></a>
 ## Front-end: HTML5, javascript/node.js
 - [medium.com/javascript-scene: Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467)
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
@@ -1088,12 +1273,14 @@
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
 
+<a name="json"></a>
 ### JSON
 - [json.org](http://json.org/)
 - [Json Parser Online](http://json.parser.online.fr/)
 - [BSON - Binary JSON](http://bsonspec.org/)
 - [Stop Comparing JSON and XML](https://dzone.com/articles/stop-comparing-json-and-xml)
 
+<a name="qa-software-testing"></a>
 ## QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
@@ -1108,6 +1295,7 @@
 
 ![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)
 
+<a name="data-science-and-big-data"></a>
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
 - [datasciencecentral.com: 24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
@@ -1115,6 +1303,7 @@
 - [civisanalytics.com: Machine Learning. Workflows in Python: Getting data ready to build models](https://civisanalytics.com/blog/data-science/2015/12/17/workflows-in-python-getting-data-ready-to-build-models/)
 	- [civisanalytics.com: Machine Learning. Workflows in Python: Curating Features and Thinking Scientifically about Algorithms](https://civisanalytics.com/blog/data-science/2015/12/23/workflows-in-python-curating-features-and-thinking-scientifically-about-algorithms/)
 
+<a name="data-collection-and-processing-is-growing-in-sports"></a>
 ### Data collection and processing is growing in sports
 - [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
 	- [nba_py - stats.nba.com API for python](https://github.com/seemethere/nba_py)
@@ -1123,6 +1312,7 @@
 
 ![job trends analytics](images/job-trends-analytics.jpg)
 
+<a name="python-analytics"></a>
 ## Python analytics
 - [PyData, a community for developers and users of Python data tools](http://pydata.org)
 - [Python for Data Science vs Python for Web Development](http://www.datasciencecentral.com/profiles/blogs/python-for-data-science-vs-python-for-web-development)
@@ -1130,6 +1320,7 @@
 - [Cheat Sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 - [Distributed Computing on your Cluster with Anaconda (modern open source analytics platform powered by Python) - Webinar 2015](http://www.slideshare.net/continuumio/distributed-computing-on-your-cluster-with-anaconda-webinar-2015)
 
+<a name="anaconda-analytics"></a>
 ### Anaconda Analytics
 - [docs.continuum.io](http://docs.continuum.io/anaconda/index)
 - [Python: The Next Big Thing in Big Data](https://dzone.com/articles/python-the-next-big-thing-in-big-data)
@@ -1144,6 +1335,7 @@
 
 ![anaconda is](images/anaconda-is.jpg)
 
+<a name="anaconda-code-examples"></a>
 #### Anaconda Code examples
 - [Introduction to Python for data mining](http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Python_For_Data_Mining.ipynb)
 - [Jeff Reback's pandas tutorial at PyDataNYC2015, notebooks included](https://github.com/jreback/pydatanyc2015)
@@ -1153,9 +1345,11 @@
 
 ![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)
 
+<a name="apache-zeppelin"></a>
 ### Apache Zeppelin
 - [Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science](https://zeppelin.incubator.apache.org/)
 
+<a name="big-data"></a>
 ## Big Data
 - [Big data is simply another name for complicated business intelligence: New visualization tools like Tableau, Clearstory, and Domo aims to unlock enterprise data for a broader audience than before](http://www.infoworld.com/article/2868007/big-data/big-data-is-just-another-name-for-complicated-business-intelligence.html)
 - [dzone.com The DZone Guide to Big Data, Business Intelligence and Analytics, 2015 Edition](http://bit.ly/1MHcFT4)
@@ -1166,20 +1360,25 @@
 - [HP Big Data Reference Architecture for Apache Spark based on RHEL](http://hpe.to/6019BO4TW)
 - [datanami.com: Top 33 Big Data Predictions for 2016](http://www.datanami.com/2015/12/15/industry-speaks-top-33-big-data-predictions-for-2016/)
 
+<a name="big-data-blogs"></a>
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)
 - [Data Science Central - the online resource for big data practitioners](http://www.datasciencecentral.com)
 
+<a name="data-visualization-tableau"></a>
 ### Data visualization: Tableau
 - [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
 
+<a name="spark"></a>
 ### Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
 - [Spark Streaming: What Is It and Who’s Using It?](http://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/)
 - [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 - [Apache Spark Interview Questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 
+<a name="sql"></a>
 ## SQL
+<a name="sql-blogs-and-forums"></a>
 ### SQL Blogs and Forums
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [essentialsql.com](http://www.essentialsql.com)
@@ -1189,6 +1388,7 @@
 - [SQLFormat: Online SQL formatting service](http://sqlformat.org)
 - [SQL Joins Visualizer. SQL Joins Visualizer help to you build SQL JOIN between two tables by using of Venn diagrams](http://sql-joins.leopard.in.ua/)
 
+<a name="sql-docs"></a>
 ### SQL Docs
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
 - [essentialsql.com: Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
@@ -1223,6 +1423,7 @@
 	- [generatedata.com via percona.com: Generating test data for MySQL tables](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
 
+<a name="sql-replication"></a>
 ### SQL replication
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
@@ -1233,6 +1434,7 @@
 - [What is MariaDB Galera Cluster?](https://mariadb.com/kb/en/mariadb/what-is-mariadb-galera-cluster/)
 - [Replication Manager for PostgreSQL Clusters](http://repmgr.org/)
 
+<a name="nosql"></a>
 ### NoSQL
 - [Introduction to NoSQL by Martin Fowler, video tutorial](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [NoSQL vs. SQL: Choosing a Data Management Solution](http://www.javacodegeeks.com/2015/10/nosql-vs-sql.html)
@@ -1240,6 +1442,7 @@
 - [thoughtworks.com: NoSQL Databases, an overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 - [Diferencias entre SQL y NoSQL ¿Sabes cuál usar?](http://www.facilcloud.com/noticias/?p=1294&lang=es_ES)
 
+<a name="mongodb-tools-and-mongodb-as-a-service"></a>
 #### MongoDB Tools and MongoDB as a Service
 - [MongoDB Tools - Admin GUIs, Monitoring and Other Good Stuff](http://mongodb-tools.com/)
 - [blog.mongodirector.com: Which is the best MongoDB GUI?](http://blog.mongodirector.com/which-is-the-best-mongodb-gui/)
@@ -1251,6 +1454,7 @@
 	- Effortless CSV import into MongoDB with MongoChef 3.2 (click to see the video). You can export your collections to CSV:
 [![Effortless CSV import into MongoDB with MongoChef 3.2](images/mongochef_csv.png)](http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4)
 
+<a name="redis-coudhdb-and-others"></a>
 #### Redis, Coudhdb, and others
 - [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
 - [Redis](http://redis.io/)
@@ -1259,10 +1463,12 @@
 - [HBase.apache.org](http://hbase.apache.org/)
 - [Hive.apache.org](https://hive.apache.org/)
 
+<a name="schema-free-sql-query-on-everything-engines"></a>
 #### Schema free SQL query on everything engines
 - [Apache Drill](https://drill.apache.org/)
 - [dzone: SQL Syntax for Apache Drill](https://dzone.com/refcardz/sql-syntax-for-apache-drill)
 
+<a name="newsql"></a>
 ### NewSQL
 - [NuoDB, elastically scalable database. A revolution compared to traditional monolithic 1-box databases. NuoDB is ACID,SQL, distributed/scalable and support flexible schemas](http://www.nuodb.com/)
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
@@ -1270,7 +1476,9 @@
 ![sql-join-clauses](images/sql-join-clauses.png)
 ![Visual_SQL_JOINS](images/Visual_SQL_JOINS_orig.jpg)
 
+<a name="networking"></a>
 # Networking
+<a name="next-generation-firewalls"></a>
 ## Next Generation Firewalls
 - Compliant with new Enterprise Broadband Internet Connections (300 & 500Mbps)
 - [Dell SonicWALL PowerPoint Presentation](http://www.infinigate.dk/fileadmin/user_upload/CH/Events/ITSCR2015/DELL_SonicWALL1.pdf)
@@ -1282,11 +1490,14 @@
 
 ![Dell SonicWall TZ500 Management Monitor](images/Dell-SonicWall-TZ500-Management-Monitor.png)
 
+<a name="network-virtualization"></a>
 ## Network virtualization
 - [FOSS Network Functions Virtualization](https://www.opnfv.org)
 
+<a name="network-forensics"></a>
 ## Network Forensics
 
+<a name="network-forensics-blogs"></a>
 ### Network Forensics Blogs
 - [seguridadyredes.wordpress.com](https://seguridadyredes.wordpress.com/)
 - [packetbomb.com](http://packetbomb.com/)
@@ -1299,6 +1510,7 @@
 
 - [sharkfest.wireshark.org](http://sharkfest.wireshark.org)
 
+<a name="network-forensics-docs"></a>
 ### Network Forensics Docs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
 - [WireEdit. First-Of-A-Kind and The Only Full Stack WYSIWYG Packet Editor Edit L2 - L7 with just a few clicks](https://wireedit.com/)
@@ -1341,6 +1553,7 @@
 	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
 - [Corvil.com Network Data Analsysis. Free eBook: Understanding Packet Loss](http://corvil.com/resources/white-papers/ebook-understanding-packet-loss)
 
+<a name="voip"></a>
 ## VoIP
 - [VoIP Planning: Calculate Your Bandwidth Before Adding SIP Trunk Service](http://it.toolbox.com/blogs/voip-news/voip-planning-calculate-your-bandwidth-before-adding-sip-trunk-service-66093)
 - [The Importance of VoIP Voice Quality](http://it.toolbox.com/blogs/voip-news/the-importance-of-voip-voice-quality-65970)
@@ -1351,6 +1564,7 @@
 	- [Reddit: Hosted VoIP/PBX Suggestions. Moving FreePBX/Asterisk/3CX to the Cloud](http://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/)
 - [Understanding the Key Differences between ESBCs and Firewalls?](https://www.edgewaternetworks.com/2015/05/understanding-the-key-differences-between-esbcs-and-firewalls/)
 
+<a name="wifi-security"></a>
 ## WiFi security
 - [Analyzing the 1000 Most Common Wi-Fi Network Names](https://ghostpath.com/blog/ssid-analyzing-the-1000-most-common-wi-fi-network-names/)
 	- [Recommend Length for Wi-FI PSK?](http://security.stackexchange.com/questions/15653/recommend-length-for-wi-fi-psk)
@@ -1359,6 +1573,7 @@
 - [Ubiquiti Networks](https://www.ubnt.com)
 - [Aruba Networks](http://www.arubanetworks.com)
 
+<a name="webperf-and-resilient-networking-planning-for-failure"></a>
 ## WebPerf and Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
 	- [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
@@ -1367,8 +1582,10 @@
 
 ![cabling](images/cabling.jpg)
 
+<a name="servers-storage-and-backup"></a>
 # Servers, Storage and Backup
 
+<a name="dell"></a>
 ## Dell
 - [Dell Community](http://community.dell.com/)
 - [New PowerEdge R930: Powerful and reliable, ideal for customers migrating to more innovative x86 platforms from proprietary UNIX](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-r930-server)
@@ -1376,21 +1593,25 @@
 - [Dell launches PowerEdge entry-level servers for SMBs](http://www.infotechlead.com/networking/dell-launches-entry-level-servers-for-smbs-36295)
 - [storagereview.com Dell PowerEdge 13G R730 Server Review](http://www.storagereview.com/dell_poweredge_13g_r730_server_review)
 
+<a name="hp"></a>
 ## HP
 - [HP releases new servers and storage for SMEs](http://www.itwire.com/business-it-news/hardware-and-storage/67312-hp-releases-new-servers-and-storage-for-smes)
 - [HP Intros New StoreVirtual-Based Hyper-Converged Infrastructure Appliance](http://www.crn.com/news/storage/300077656/hp-intros-new-storevirtual-based-hyper-converged-infrastructure-appliance.htm)
 - [HP’s hyper-converged portfolio grows: meet the CS250-HC](http://www.bitcon.be/?p=3093)
 
+<a name="raid-disks"></a>
 ## RAID disks
 - [Practical RAID Choices for Spindle Based Arrays](http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)
 - [Can I use a desktop hard drive in my storage array?](http://blog.seagate.com/business/can-i-use-a-desktop-hard-drive-in-my-storage-array/)
 
+<a name="remote-pc-access"></a>
 ## Remote PC Access
 - [Alternatives to LogMeIn for Remote PC Access](http://www.storagecraft.com/blog/alternatives-logmein-remote-pc-access/)
 - [Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP](http://guac-dev.org/)
 - [Nomachine](https://www.nomachine.com/)
 - [X2Go](http://x2go.org)
 
+<a name="storage"></a>
 ## Storage
 - [StorageReview.com](http://www.storagereview.com/)
 - [Presentación Synology 2015 Evento Madrid](http://qloudea.com/blog/evento-synology-2015-madrid/)
@@ -1409,6 +1630,7 @@
 
 ![synology logo](images/synology_logo.jpg)
 
+<a name="backup"></a>
 ## Backup
 - [6 Steps to Better Data Backup and Quicker Recovery](https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd)
 	- [3 Ways To Ensure 100 Percent Secure Enterprise File Sharing](http://www.vaultize.com/blog/3-ways-to-ensure-100-percent-secure-enterprise-file-sharing)
@@ -1440,15 +1662,19 @@
 
 ![veeam logo](images/veeam-logo.jpg)
 
+<a name="cloud"></a>
 # Cloud
+<a name="cloud-bogs"></a>
 ## Cloud Bogs
 - [Thoughts On Cloud](http://www.thoughtsoncloud.com/)
 
+<a name="the-twelve-factor-app-methodology-for-building-apps-in-modern-cloud-environments"></a>
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
 - [The Twelve-Factor App](http://12factor.net/)
 - [slideshare: 12 Factor (Cloud Native) Apps for Spring Developers](http://www.slideshare.net/SpringCentral/12-factor-cloud-native-apps-for-spring-developers)
 - [blog.openshift.com: Optimizing Twelve (12) Factor app for OpenShift](https://blog.openshift.com/optimizing-twelve-12-factor-app-for-red-hat-openshift/)
 
+<a name="development-environments-in-the-cloud"></a>
 ## Development environments in the Cloud
 - [Cloud9](https://c9.io/)
 - [Koding](https://koding.com/)
@@ -1457,6 +1683,7 @@
 - [Runnable](https://runnable.io/)
 - [Floobits](https://floobits.com/)
 
+<a name="cloud-references"></a>
 ## Cloud references
 - [The cloud wars explained: Why nobody can catch up with Amazon](http://www.businessinsider.com/why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10)
 	- ["If HP and Dell can't make a public cloud how will they provide private clouds to enterprises?"](http://www.nextplatform.com/2015/10/22/how-many-other-public-clouds-will-be-vaporized/)
@@ -1465,6 +1692,7 @@
 - [reddit: Size of your AWS infrastructure and who manages it/how it's managed](https://www.reddit.com/r/aws/comments/277zli/size_of_your_aws_infrastructure_and_who_manages/)
 - [Disadvantages of Cloud Computing](http://cloudacademy.com/blog/disadvantages-of-cloud-computing/)
 
+<a name="cloud-pricing"></a>
 ## Cloud Pricing
 - [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)
 	- [Amazon's AWS simple monthly calculator](http://calculator.s3.amazonaws.com/index.html)
@@ -1473,9 +1701,11 @@
 - [Azure Pricing Calculator](http://azure.microsoft.com/en-us/pricing/calculator/)
 - [Linode pricing calculator](https://www.linode.com/pricing)
 
+<a name="awesome-aws"></a>
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
+<a name="aws-reinvent-2015"></a>
 ## AWS re:Invent 2015
 - [Festín de novedades en re:Invent 2015](http://www.siliconweek.es/data-storage/business-intelligence/festin-de-novedades-en-reinvent-2015-89129)
 - [What's New from Amazon Web Services](https://aws.amazon.com/es/new/)
@@ -1503,6 +1733,7 @@
 - [AWS IoT – Cloud Services for Connected Devices](https://aws.amazon.com/es/blogs/aws/aws-iot-cloud-services-for-connected-devices)
 - [AWS Mobile Hub – Build, Test, and Monitor Mobile Applications](https://aws.amazon.com/es/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications)
 
+<a name="aws-official-blog-aws-labs-aws-quick-start"></a>
 ## AWS Official Blog, AWS Labs, AWS Quick Start
 - [AWS Official Blog](http://blogs.aws.amazon.com/)
 - [AWS Labs GitHub](https://github.com/awslabs)
@@ -1510,24 +1741,29 @@
 	- [AWS Quick Start - GitHub](https://github.com/awslabs/aws-quickstart)
 - [InfoWorld Review – Amazon Aurora Rocks MySQL](https://aws.amazon.com/es/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/)
 
+<a name="aws-new-features"></a>
 ### AWS New features
 - [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
 - [New – Encrypted EBS Boot Volumes](https://aws.amazon.com/es/blogs/aws/new-encrypted-ebs-boot-volumes)
 
+<a name="aws-devops"></a>
 ### AWS DevOps
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)
 - [Setting Up the Jenkins Plugin for AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy)
 - [Continuous Delivery for a PHP Application Using AWS CodePipeline, AWS Elastic Beanstalk, and Solano Labs](https://blogs.aws.amazon.com/application-management/post/TxYSRRBH57NP2P/Continuous-Delivery-for-a-PHP-Application-Using-AWS-CodePipeline-AWS-Elastic-Bea)
 - [Building Continuous Deployment on AWS with AWS CodePipeline, Jenkins and AWS Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx34AXRMYLXG5OT/Building-Continuous-Deployment-on-AWS-with-AWS-CodePipeline-Jenkins-and-AWS-Elas)
 
+<a name="aws-cloud-formation"></a>
 #### AWS Cloud Formation
 - [AWS Cloud Formation Release History](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)
 
+<a name="aws-security"></a>
 ### AWS Security
 - [AWS Security Blog](http://blogs.aws.amazon.com/security)
 - [How to Automatically Update Your Security Groups for Amazon CloudFront and AWS WAF by Using AWS Lambda (boto3 python)](http://blogs.aws.amazon.com/security/post/Tx1LPI2H6Q6S5KC/How-to-Automatically-Update-Your-Security-Groups-for-Amazon-CloudFront-and-AWS-W)
 - [Tutorial: Configure Apache Web Server on Amazon Linux to use SSL/TLS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-an-instance.html)
 
+<a name="aws-partner-network-apn"></a>
 ## AWS Partner Network (APN)
 - [AWS Partner Network](https://aws.amazon.com/partners/)
 	- [APN Technology Partners](https://aws.amazon.com/partners/technology/)
@@ -1535,18 +1771,22 @@
 - [AWS Partner Network (APN) blog](https://aws.amazon.com/es/blogs/apn/)
 	- [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
 
+<a name="aws-startup-collection-for-startups-building-on-aws"></a>
 ## AWS Startup Collection. For startups building on AWS
 - [bitmovin: Improving Video Quality on the Web](https://medium.com/aws-activate-startup-blog/bitmovin-improving-video-quality-on-the-web-8670039c4334)
 - [What Startups Should Know about Amazon VPC — Part 1](https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228)
 
 ![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)
 
+<a name="desktop-tools"></a>
 # Desktop Tools
 - [How to avoid 'death by PowerPoint'](http://www.bbc.com/news/technology-35038429) These days, there are plenty of alternatives to PowerPoint - [Keynote](http://www.apple.com/mac/keynote/), [Slides](https://slides.com/), [Prezi](https://prezi.com), [SlideRocket](http://www.sliderocket.com/), [Easel.ly](http://easel.ly/), [Emaze](https://www.emaze.com), [Slidedog](http://slidedog.com/), to name but a few - many of which are freely available online.
 
+<a name="e-learning"></a>
 # E-Learning
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
 
+<a name="udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code"></a>
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
@@ -1581,6 +1821,7 @@
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
 - [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 
+<a name="free-e-learning"></a>
 ## Free e-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)
 - [Flo-Joe: THE place on the web for Cambridge exam preparation](http://www.flo-joe.co.uk/)
@@ -1597,6 +1838,7 @@
 - [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
 - [khanacademy.org](https://khanacademy.org/)
 
+<a name="alternatives-1"></a>
 ## Alternatives
 - [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
