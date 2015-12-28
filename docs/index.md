@@ -1129,7 +1129,6 @@
 	- [Transcript for Episode #39: Getting your first dev job as a Python developer (part 1)](http://talkpython.fm/episodes/transcript/39/getting-your-first-dev-job-as-a-python-developer-part-1)
 
 ### Python docs
-- ["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
 - [Python progression path - From apprentice to guru](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 - [Python Anti-Patterns. The Little Book of Python Anti-Patterns and Worst Practice](http://docs.quantifiedcode.com/python-code-patterns/)
 - [Setting up Python on OSX: UPDATED](http://staticnat.com/setting-up-python-on-osx/)
@@ -1174,6 +1173,7 @@
 - [Java Advent Blog](http://www.javaadvent.com/)
 - [javacodegeeks.com: Top 10 Books For Advanced Level Java Developers](http://www.javacodegeeks.com/2013/09/top-10-books-for-advanced-level-java-developers.html)
 - [javacodegeeks.com: What’s new in Java 8](http://www.javacodegeeks.com/2013/09/whats-new-in-java-8-part-i-javafx.html)
+- ["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
 ![Learn java python](images/learn-java-python.png)
 
