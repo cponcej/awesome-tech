@@ -249,6 +249,7 @@
 
 ## Awesome and Interesting Talks concerning Programming 
 - [Programming talks](https://github.com/hellerve/programming-talks)
+- [Talk Python To Me](http://talkpython.fm/)
 
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
