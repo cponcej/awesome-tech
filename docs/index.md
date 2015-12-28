@@ -631,7 +631,7 @@
 - [Breaking Firewalls with OpenSSH and PuTTY](http://souptonuts.sourceforge.net/sshtips.htm)
 	- [PuTTY: 10 consejos útiles para conexiones SSH](http://www.emezeta.com/articulos/putty-10-consejos-utiles-para-conexiones-ssh)
 - [Punching holes into firewalls. Why firewalls shouldn't be considered a ultimate weapon for network security. Secure TCP-into-HTTP tunnelling guide](http://sebsauvage.net/punching/)
-- [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/)
+- [Shellcode Injection: Think twice before granting a shell access](https://dhavalkapil.com/blogs/Shellcode-Injection/)
 - [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
 - [Bind variables are the best way to prevent SQL injection](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
 
