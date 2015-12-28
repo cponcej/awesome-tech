@@ -1334,6 +1334,8 @@
 	- [generatedata.com via percona.com: Generating test data for MySQL tables](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
 
+![generatedata.com](images/generatedata.jpg)
+
 ### SQL replication
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
