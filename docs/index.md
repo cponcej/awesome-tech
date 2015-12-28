@@ -6,7 +6,7 @@
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
-	- [Awesome and Interesting Talks concerning Programming](#awesome-and-interesting-talks-concerning-programming)
+	- [Podcasts](#podcasts)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
@@ -247,9 +247,10 @@
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
-## Awesome and Interesting Talks concerning Programming 
-- [Programming talks](https://github.com/hellerve/programming-talks)
+## Podcasts 
+- [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
 - [Talk Python To Me](http://talkpython.fm/)
+- [Puppet Labs Podcasts](https://puppetlabs.com/conversations-puppet-labs-podcast)
 
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
