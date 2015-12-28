@@ -6,6 +6,7 @@
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
+	- [Awesome & Interesting Talks concerning Programming](#awesome--interesting-talks-concerning-programming)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
@@ -53,7 +54,7 @@
 	- [Security Toolkits](#security-toolkits)
 	- [Identity Management](#identity-management)
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
-	- [Breaking Firewalls](#breaking-firewalls)
+	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
 	- [Major security issues and blogs](#major-security-issues-and-blogs)
 - [Configuration Management and Orchestration](#configuration-management-and-orchestration)
 	- [Vagrant](#vagrant)
@@ -70,6 +71,7 @@
 		- [WebLogic via Puppet](#weblogic-via-puppet)
 	- [Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others](#provisioning-red-hat-satellite-katello-foreman-cobbler-and-others)
 	- [Chef and SAP](#chef-and-sap)
+	- [SaltStack](#saltstack)
 	- [Docker](#docker)
 		- [Microservices](#microservices)
 		- [Docker references](#docker-references)
@@ -124,6 +126,7 @@
 	- [QA. Software Testing](#qa-software-testing)
 - [Data Science and Big Data](#data-science-and-big-data)
 	- [Data collection and processing is growing in sports](#data-collection-and-processing-is-growing-in-sports)
+	- [Google Analytics](#google-analytics)
 	- [Python analytics](#python-analytics)
 		- [Anaconda Analytics](#anaconda-analytics)
 			- [Anaconda Code examples](#anaconda-code-examples)
@@ -244,6 +247,9 @@
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
+## Awesome & Interesting Talks concerning Programming 
+- [Programming talks](https://github.com/hellerve/programming-talks)
+
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
 	- [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
@@ -338,7 +344,10 @@
 - [Sysadmincasts.com: LVM Linear vs Striped Logical Volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)
 - [unixetc.co.uk: Profiling and Tracing Processes in Linux](http://unixetc.co.uk/2012/10/28/profiling-and-tracing-processes-in-linux/)
 - [ibm.com: Use the /proc filesystem to get a handle on your system](http://www.ibm.com/developerworks/linux/library/l-adfly/index.html)
+- [cyberciti.biz: Linux Find Out Last System Reboot Time and Date Command](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+
+![last command](images/last_command.jpg)
 
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
@@ -539,6 +548,7 @@
 
 ## WebLogic
 ### Oracle Blogs: Middleware and Java
+- [WebLogic Community](http://weblogiccommunity.com)
 - [Oracle Middleware Blog](http://oraclemiddlewareblog.com/)
 - [oraclejavamagazine-digital.com - Java Magazine](http://www.oraclejavamagazine-digital.com)
 - [javacodegeeks.com](http://www.javacodegeeks.com/)
@@ -562,6 +572,7 @@
 - [Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
 - [Oracle WebLogic Server 12c Advanced Administration Cookbook](http://it-ebooks.info/book/3020/)
 - [Oracle's docker images. A real WebLogic cluster on a swarm of Docker containers](https://github.com/oracle/docker-images/commit/ad34abf5f5b1186ea119ec4586fd158c0631182b)
+- [weblogiccommunity.com: WLS 12.2.1 Oracle Universal Connection Pool (UCP) Datasource](http://weblogiccommunity.com/2015/12/26/wls-ucp-datasource-by-steve-felts/)
 
 ## JVM Latency: Caching, Off Heap, Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
@@ -616,10 +627,15 @@
 - [Estándar de exclusión de robots](https://es.wikipedia.org/wiki/Est%C3%A1ndar_de_exclusi%C3%B3n_de_robots)
 - [Robots Database](http://www.robotstxt.org/db.html)
 
-## Breaking Firewalls
+## Breaking Firewalls, Shellcode Injection, SQL Injection 
 - [Breaking Firewalls with OpenSSH and PuTTY](http://souptonuts.sourceforge.net/sshtips.htm)
 	- [PuTTY: 10 consejos útiles para conexiones SSH](http://www.emezeta.com/articulos/putty-10-consejos-utiles-para-conexiones-ssh)
 - [Punching holes into firewalls. Why firewalls shouldn't be considered a ultimate weapon for network security. Secure TCP-into-HTTP tunnelling guide](http://sebsauvage.net/punching/)
+- [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/)
+- [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
+- [Bind variables are the best way to prevent SQL injection](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
+
+![Shellcode Injection](images/shell_access_exploit.png)
 
 ## Major security issues and blogs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
@@ -745,6 +761,9 @@
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
 - [Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps](http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction)
 
+## SaltStack
+- [devopslibrary.com: Mastering SaltStack](http://devopslibrary.com/courses/mastering-saltstack/)
+
 ## Docker
 ### Microservices
 - [Introduction to Microservices | NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
@@ -755,6 +774,7 @@
 - [Microservices via Ansible. Deploying services with rollback and error handling, truncating releases, and restarting processes](http://www.ansible.com/ansiblefest-videos-spark-central-sf15)
 - [capgemini.github.io: Is REST best in a Microservices architecture](https://capgemini.github.io/architecture/is-rest-best-microservices/)
 - [javaadvent.com: Microservices and Java EE](http://www.javaadvent.com/2015/12/microservices-and-java-ee.html)
+- [ibm.com: Microservices in action, Part 2: Containers and microservices — a perfect pair](http://www.ibm.com/developerworks/cloud/library/cl-bluemix-microservices-in-action-part-2-trs/)
 
 ### Docker references
 - [DZone Refcard: Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
@@ -1015,10 +1035,13 @@
 - [itop - ITSM & CMDB OpenSource. A simple, web based IT Service Management tool ](http://sourceforge.net/projects/itop/)
 
 # Software Development. Programming languages
+- [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
+
 ## Blogs and Forums
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 - [DZone](http://dzone.com)
 - [Web Code Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
+- [Yacoset.com: Software Engineering Tips](http://www.yacoset.com/)
 
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
@@ -1034,6 +1057,8 @@
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
 ## Editors
+- [tecmint.com: 12 Best Open Source Text Editors (GUI + CLI) I Found in 2015](http://www.tecmint.com/best-open-source-linux-text-editors/)
+
 ### Sublime
 
 #### Sublime Blogs
@@ -1066,6 +1091,7 @@
 	- [Android development is 30% more expensive than iOS. And we have the numbers to prove it!](https://infinum.co/the-capsized-eight/articles/android-development-is-30-percent-more-expensive-than-ios)
 	- [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
+- [thimble.mozilla.org: Thimble is an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/)
 
 ### Diff Tools
 - [Comparison of file comparison tools](https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools)
@@ -1100,8 +1126,10 @@
 - [Awesome Django. A curated list of awesome Django apps, projects and resources](https://gitlab.com/rosarior/awesome-django)
 - [pyvideo.org](http://pyvideo.org)
 - [Talk Python To Me Podcast](http://talkpython.fm)
+	- [Transcript for Episode #39: Getting your first dev job as a Python developer (part 1)](http://talkpython.fm/episodes/transcript/39/getting-your-first-dev-job-as-a-python-developer-part-1)
 
 ### Python docs
+- ["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
 - [Python progression path - From apprentice to guru](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 - [Python Anti-Patterns. The Little Book of Python Anti-Patterns and Worst Practice](http://docs.quantifiedcode.com/python-code-patterns/)
 - [Setting up Python on OSX: UPDATED](http://staticnat.com/setting-up-python-on-osx/)
@@ -1144,6 +1172,10 @@
 - [genbetadev.com: Herramientas imprescindibles para un desarrollador de Java (2011)](http://www.genbetadev.com/java-j2ee/herramientas-imprescindibles-para-un-desarrollador-de-java)
 - [JavaOne 2015](https://www.youtube.com/playlist?list=PLPIzp-E1msrZz6RNdbDiK0nKuxAUZPs77)
 - [Java Advent Blog](http://www.javaadvent.com/)
+- [javacodegeeks.com: Top 10 Books For Advanced Level Java Developers](http://www.javacodegeeks.com/2013/09/top-10-books-for-advanced-level-java-developers.html)
+- [javacodegeeks.com: What’s new in Java 8](http://www.javacodegeeks.com/2013/09/whats-new-in-java-8-part-i-javafx.html)
+
+![Learn java python](images/learn-java-python.png)
 
 ## Front-end: HTML5, javascript/node.js
 - [medium.com/javascript-scene: Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467)
@@ -1155,6 +1187,8 @@
 - [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
+- [webcodegeeks.com: Node.js Tutorial: Building web apps](http://www.webcodegeeks.com/javascript/node-js/building-web-apps-with-node-js/)
+- [webcodegeeks.com: Simple JavaScript OOP for C++, Java and C# Developers](http://www.webcodegeeks.com/javascript/simple-javascript-oop-for-c-java-and-c-developers/)
 
 ### JSON
 - [json.org](http://json.org/)
@@ -1173,6 +1207,8 @@
 - [pyvideo.org: TDD with Django, from scratch: a beginner's intro to testing and web development](http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
 - [Declarative HTTP Testing. Gabbi is a tool for running HTTP tests where requests and responses are represented in a declarative YAML-based form](http://gabbi.readthedocs.org/)
 - [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
+- [obeythetestinggoat.com: TDD for the Web, with Python, Selenium, Django, JavaScript and pals](http://www.obeythetestinggoat.com/)
+	- [Testing, async, asyncio, and performance](http://www.obeythetestinggoat.com/testing-async-asyncio-and-performance.html)
 
 ![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)
 
@@ -1190,6 +1226,9 @@
 	- [how data collection and processing is growing in sports. TED talk](https://www.youtube.com/watch?v=66ko_cWSHBU)
 
 ![job trends analytics](images/job-trends-analytics.jpg)
+
+## Google Analytics
+- [Google Analytics para principiantes](http://www.contunegocio.es/tecnologia/google-analytics-para-principiantes-i/)
 
 ## Python analytics
 - [PyData, a community for developers and users of Python data tools](http://pydata.org)
@@ -1231,6 +1270,7 @@
 - [OpenRefine, a power tool for working with messy data](http://openrefine.org/)
 - [stratebi - Apache Storm: Introduccion](http://es.slideshare.net/zanorte/apache-storm-introduccion)
 - [stratebi - Instalación de Storm](http://es.slideshare.net/zanorte/apache-storm-instalacin)
+- [stratebi - youtube- Introducción al Big Data Open Source: Map reduce, Hive, Pentaho..](https://www.youtube.com/watch?v=2YHenimvFEs)
 - [HP Big Data Reference Architecture for Apache Spark based on RHEL](http://hpe.to/6019BO4TW)
 - [datanami.com: Top 33 Big Data Predictions for 2016](http://www.datanami.com/2015/12/15/industry-speaks-top-33-big-data-predictions-for-2016/)
 
@@ -1262,6 +1302,9 @@
 - [essentialsql.com: Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 	- [essentialsql.com: What are the Major Parts of a Database?](http://www.essentialsql.com/what-are-the-major-parts-of-a-database)
 	- [essentialsql.com: What is the Difference Between Cast and Convert?](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+	- [essentialsql.com: How to Write Queries – Introduction to Three Simple Steps to Writing SQL](http://www.essentialsql.com/how-to-write-queries-introduction-to-three-simple-steps-to-writing-sql)
+	- [essentialsql.com: Get Ready to Learn SQL Server 21: Using Subqueries in the WHERE Clause](http://www.essentialsql.com/get-ready-to-learn-sql-server-21-using-subqueries-in-the-where-clause/)
+	- [essentialsql.com: How Do I combine results from more than one table?](http://www.essentialsql.com/how-do-i-combine-results-from-more-than-one-table)
 	- [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [SQL in ten minutes](http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes)
 - [10 sql tips to speed up your database](http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database)
@@ -1364,11 +1407,11 @@
 - [packetlife.net](http://packetlife.net/)
 - [Packet Pushers](http://packetpushers.net/)
 - [The Networking Nerd](http://networkingnerd.net/)
-
 - [sharkfest.wireshark.org](http://sharkfest.wireshark.org)
 
 ### Network Forensics Docs
-- [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
+- [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/)
+	- [radware.com: DDoS Handbook](https://www.radware.com/social/ddoshandbook/)
 - [WireEdit. First-Of-A-Kind and The Only Full Stack WYSIWYG Packet Editor Edit L2 - L7 with just a few clicks](https://wireedit.com/)
 - [Optimal Wireshark Setup | Enhance Your Wireshark Experience](https://www.youtube.com/watch?v=F4l3CedRlJc)
 	- [Switches And Tool Placement (by Tony Fortunato). Ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs](http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html)
@@ -1669,6 +1712,7 @@
 - [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
 - [Aba English](http://www.abaenglish.com)
+- [Pearson English](http://www.english.com/)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
 - [springboard.com - Learn Data Science & UX Design online](https://www.springboard.com)
