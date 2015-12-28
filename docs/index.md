@@ -1097,6 +1097,7 @@
 - [Comparison of file comparison tools](https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools)
 - [winmerge.org](http://winmerge.org/)
 	- [youtube: Diff tools on Windows - Compare It! and WinMerge](https://youtu.be/Pbqhg3FrKQ4)
+	- [WinMerge plugin for SublimeText](https://github.com/SublimeText/WinMerge)
 - [meldmerge.org](http://meldmerge.org/)
 - [KDiff3](http://kdiff3.sourceforge.net/)
 
