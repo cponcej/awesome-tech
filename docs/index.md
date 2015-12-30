@@ -454,6 +454,8 @@
 - [Feed Henry](http://feedhenry.org/)
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
 
+![dilbert](images/hp_mini.jpg)
+
 ## JBoss (WildFly)
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
 - [Product Documentation for JBoss Enterprise Application Platform](https://access.redhat.com/documentation/en/jboss-enterprise-application-platform/)
