@@ -6,8 +6,8 @@
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
-	- [Podcasts](#podcasts)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
+	- [Podcasts](#podcasts)
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
 	- [Startup jobs](#startup-jobs)
@@ -256,17 +256,18 @@
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
-## Podcasts 
-- [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
-- [Talk Python To Me](http://talkpython.fm/)
-- [Puppet Labs Podcasts](https://puppetlabs.com/conversations-puppet-labs-podcast)
-
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
 	- [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
 - [Amazon ECS vs Joyent Triton Elastic Container Infrastructure](http://stackshare.io/convox/amazon-ecs-vs-joyent-triton)
 	- [Joyent Triton Elastic Container Infrastructure](https://www.joyent.com/)
 	- [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
+
+## Podcasts 
+- [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
+- [Talk Python To Me](http://talkpython.fm/)
+- [Puppet Labs Podcasts](https://puppetlabs.com/conversations-puppet-labs-podcast)
+- [AWS Podcasts](https://aws.amazon.com/es/podcasts/aws-podcast/)
 
 ![internet users](images/internet-users.jpeg)
 
