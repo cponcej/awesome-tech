@@ -1646,6 +1646,7 @@
 - [HP releases new servers and storage for SMEs](http://www.itwire.com/business-it-news/hardware-and-storage/67312-hp-releases-new-servers-and-storage-for-smes)
 - [HP Intros New StoreVirtual-Based Hyper-Converged Infrastructure Appliance](http://www.crn.com/news/storage/300077656/hp-intros-new-storevirtual-based-hyper-converged-infrastructure-appliance.htm)
 - [HP’s hyper-converged portfolio grows: meet the CS250-HC](http://www.bitcon.be/?p=3093)
+- [HP Pavilion Mini PC](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
 
 ![hp mini pc](images/hp_mini.jpg)
 
