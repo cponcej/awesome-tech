@@ -26,6 +26,7 @@
 	- [Git Going Fast: One Hour Git Crash Course (free)](https://www.udemy.com/git-going-fast/)
 	- [Vagrant Up! Comprehensive development system automation](https://www.udemy.com/vagrant-up/)
 - [Oracle WebLogic 12c for Administrators](https://www.udemy.com/oracle-weblogic-12c-for-administrators/)
+	- [learnweblogiconline.com: free weblogic webinar](http://www.learnweblogiconline.com/free-weblogic-webinar/)
 - [Oracle Database 12c Lenguaje de programación PL/SQL](https://www.udemy.com/oracle-database-12c-lenguaje-de-programacion-plsql)
 - [Learn Database Design using PostgreSQL](https://www.udemy.com/learn-database-design-using-postgresql/?couponCode=POSTGREs20)
 - [MySQL for Beginners ](https://www.udemy.com/mysql-db-for-beginners)

@@ -4,11 +4,10 @@ pages:
 - High quality tech resources and search engines: high-quality-tech-resources.md
 - Startups: startups.md
 - Scalability and Reliability: scalability.md
-- IT Spain Blogs: it-spain-blogs.md
-- Support: support.md
-- Linux and Microsoft: linux-microsoft.md
+- IT Blogs and Support: it-blogs.md
+- Linux, Red Hat and Microsoft: linux-microsoft.md
 - WebApps: webapp.md
-- Java 8 changes: jvm-mem.md
+- Cambios en Java 8: jvm-mem.md
 - Security: security.md
 - DevOps and ITIL: devops-itil.md
 - Software Development: sw-devel.md
@@ -16,7 +15,7 @@ pages:
 - Networking: networking.md
 - Servers, Storage and Backup: servers-storage-backup.md
 - Cloud: cloud.md
-- Desktop Tools: desktop-tools.md
+- Desktop Tools and Presentations: desktop-tools.md
 - E-Learning: e-learning.md
 - Quote: mkeiser.md
 - About: about.md

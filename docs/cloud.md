@@ -7,11 +7,13 @@
 	- [Development environments in the Cloud](#development-environments-in-the-cloud)
 	- [Cloud references](#cloud-references)
 	- [Cloud Pricing](#cloud-pricing)
+	- [OpenStack private cloud](#openstack-private-cloud)
 	- [Awesome AWS](#awesome-aws)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New Features](#aws-new-features)
 		- [AWS DevOps](#aws-devops)
+			- [AWS Developer Blog](#aws-developer-blog)
 			- [AWS Cloud Formation](#aws-cloud-formation)
 		- [AWS Security](#aws-security)
 		- [AWS IoT](#aws-iot)
@@ -24,6 +26,7 @@
 # Cloud
 ## Cloud Bogs
 - [Thoughts On Cloud](http://www.thoughtsoncloud.com/)
+- [Cloud Expo](http://cloudcomputing.sys-con.com/)
 
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
 - [The Twelve-Factor App](http://12factor.net/)
@@ -54,6 +57,22 @@
 - [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/)
 - [Azure Pricing Calculator](http://azure.microsoft.com/en-us/pricing/calculator/)
 - [Linode pricing calculator](https://www.linode.com/pricing)
+
+## OpenStack private cloud
+- [openstack.org](http://openstack.org)
+- [OpenStack Architecture Design Guide](http://docs.openstack.org/arch/)
+- [The Guardian goes all-in on AWS public cloud after OpenStack 'disaster’](http://www.computerworlduk.com/cloud-computing/guardian-goes-all-in-on-aws-public-cloud-after-openstack-disaster-3629790/)
+- [opensource.com: A 2016 to do list for the OpenStack board](https://opensource.com/business/15/12/2016-do-list-openstack-board)
+- [ZeroStack – A Better Way to do OpenStack](http://blog.architecting.it/2015/12/29/zerostack-a-better-way-to-do-openstack/) Today the main issue aimed at OpenStack is that of complexity.  The most successful deployments we hear about are implemented by large corporations like eBay, AT&T and PayPal.  These companies have the resources to deploy armies of programmers and talented sysadmins to understand, manage and curate the code, which seems to be the biggest consumer of effort for the project.
+- [OpenStack on Ansible with Vagrant (unofficial)](https://github.com/openstack-ansible/openstack-ansible)
+- [OpenStack Ansible (official)](https://github.com/openstack/openstack-ansible)
+- [Building HA Clusters with Ansible and Openstack](https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html)
+- [OpenStack in Production at CERN. Hints and tips from the CERN OpenStack cloud team](http://openstack-in-production.blogspot.com.es/)
+- [openstack.org: Five Days + Twelve Writers + One Book Sprint = One Excellent Book on OpenStack Architecture](http://www.openstack.org/blog/2014/07/five-days-twelve-writers-one-book-sprint-one-excellent-book-on-openstack-architecture/)
+- [Why OpenStack matters](http://www.anchor.com.au/blog/2014/07/openstack-matters/)
+- [BBVA Bank on OpenStack](https://www.youtube.com/watch?v=PESWFDPbexs)
+
+openstack-cluster.png
 
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
@@ -105,6 +124,9 @@
 - [Building Continuous Deployment on AWS with AWS CodePipeline, Jenkins and AWS Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx34AXRMYLXG5OT/Building-Continuous-Deployment-on-AWS-with-AWS-CodePipeline-Jenkins-and-AWS-Elas)
 - [AWS CodeDeploy: Deploying from a Development Account to a Production Account](http://blogs.aws.amazon.com/application-management/post/Tx3PE3JTSVJSFI7/AWS-CodeDeploy-Deploying-from-a-Development-Account-to-a-Production-Account)
 
+#### AWS Developer Blog
+- [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)
+
 #### AWS Cloud Formation
 - [AWS Cloud Formation Release History](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)
 
@@ -129,5 +151,6 @@
 - [bitmovin: Improving Video Quality on the Web](https://medium.com/aws-activate-startup-blog/bitmovin-improving-video-quality-on-the-web-8670039c4334)
 - [What Startups Should Know about Amazon VPC — Part 1](https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228)
 - [Scaling on AWS (Part 3): >500K Users](https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-3-500k-users-3750b227b761)
+- [medium.com: Building a Serverless Dynamic DNS System with AWS](https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8#.qq54pucbd)
 
 ![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)

@@ -4,6 +4,7 @@
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
 	- [Linux Commands](#linux-commands)
+	- [Apple OS X](#apple-os-x)
 	- [Linux Performance](#linux-performance)
 	- [Linux Networking](#linux-networking)
 - [Red Hat](#red-hat)
@@ -73,9 +74,15 @@
 	- [Bro pages](http://bropages.org/)
 - [cyberciti.biz: HowTo: Speedup ping and traceroute Command Responses under Linux / Unix](http://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-speedup-ping-traceroute-command-probs/)
 - [cyberciti.biz: List All Environment Variables Command](http://www.cyberciti.biz/faq/linux-list-all-environment-variables-env-command/)
+- [cyberciti.biz: Backup & restore a partition table (including GPT) on Linux in case table get corrupted/modified/deleted by mistake](http://www.cyberciti.biz/faq/linux-backup-restore-a-partition-table-with-sfdisk-command/)
+- [ibm.com: Learn Linux, 101: Customize and use the shell environment](http://www.ibm.com/developerworks/linux/library/l-lpic1-105-1/index.html)
+- [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 
 ![last command](images/last_command.jpg)
+
+## Apple OS X
+- [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
 
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
@@ -151,10 +158,11 @@
 	- [zdnet.com: Containers, OpenShift, and Middleware](http://www.zdnet.com/article/containers-openshift-and-middleware/)
 
 ## Red Hat OpenStack
+- [RDO Project](https://www.rdoproject.org/)
+- [redhatstackblog.redhat.com: Can’t we just install and manage OpenStack ourselves?](http://redhatstackblog.redhat.com/2015/03/26/an-openstack-cloud-that-frees-you-to-pursue-your-business/)
 - [Red Hat Whitepaper: Preparing for Private Cloud and Hybrid IT with Red Hat Cloud Infrastructure](http://www.redhat.com/en/resources/managing-hybrid-cloud-diversified-workloads-and-unified-cloud-infrastructure-administration)
-- [The Guardian goes all-in on AWS public cloud after OpenStack 'disaster’](http://www.computerworlduk.com/cloud-computing/guardian-goes-all-in-on-aws-public-cloud-after-openstack-disaster-3629790/)
-- [opensource.com: A 2016 to do list for the OpenStack board](https://opensource.com/business/15/12/2016-do-list-openstack-board)
-- [ZeroStack – A Better Way to do OpenStack](http://blog.architecting.it/2015/12/29/zerostack-a-better-way-to-do-openstack/) Today the main issue aimed at OpenStack is that of complexity.  The most successful deployments we hear about are implemented by large corporations like eBay, AT&T and PayPal.  These companies have the resources to deploy armies of programmers and talented sysadmins to understand, manage and curate the code, which seems to be the biggest consumer of effort for the project.
+- [slideshare.net: Transforming to OpenStack: a sample roadmap to DevOps](http://www.slideshare.net/NicolasBarcet/os-summit-transformingtoopenstack)
+- [enterprisetech.com: Red Hat Seeks To Ease OpenStack Deployments](http://www.enterprisetech.com/2014/08/27/red-hat-seeks-ease-openstack-deployments/)
 
 ## Red Hat Mobile Application Platform: Feed Henry
 - [Feed Henry](http://feedhenry.org/)
