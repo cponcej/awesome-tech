@@ -2,9 +2,9 @@
 
 **Table of Contents**
 
-1. [High quality tech resources and search engines](/docs/high-quality-tech-resources.md)
-2. [Startups](/docs/startups.md)
-3. [Scalability and Reliability](/docs/scalability.md)
+1. [High quality tech resources and search engines](high-quality-tech-resources.md)
+2. [Startups](startups.md)
+3. [Scalability and Reliability](scalability.md)
 4. [IT Spain Blogs](/docs/it-spain-blogs.md)
 5. [Support](/docs/support.md)
 6. [Linux and Microsoft](/docs/linux-microsoft.md)
