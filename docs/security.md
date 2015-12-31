@@ -1,0 +1,81 @@
+<!-- MarkdownTOC -->
+
+- [Security](#security)
+	- [Security Blogs](#security-blogs)
+	- [Security Toolkits](#security-toolkits)
+	- [Identity Management](#identity-management)
+	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
+	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
+	- [Major security issues and blogs](#major-security-issues-and-blogs)
+
+<!-- /MarkdownTOC -->
+
+
+# Security
+## Security Blogs
+- [ehacking.net](http://www.ehacking.net)
+- [Sucuri Blog](https://blog.sucuri.net/)
+- [Blackmoreops.com](http://blackmoreops.com)
+- [Dark Reading](http://www.darkreading.com/)
+
+## Security Toolkits
+- [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
+	- [blackmoreops.com: Crack passwords in Kali Linux with Hydra](http://www.blackmoreops.com/2015/12/23/crack-passwords-in-kali-linux-with-hydra/)
+	- [blackmoreops.com: Man in the Middle Attack using Kali Linux – MITM attack](http://www.blackmoreops.com/2015/12/22/man-in-the-middle-attack-using-kali-linux/)
+- [Network Security Toolkit](http://www.networksecuritytoolkit.org)
+- [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
+
+## Identity Management
+- [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
+- [redhat.com - Improvements to Identity Management (IdM) in RHEL 7.1](http://www.redhat.com/en/about/press-releases/red-hat-continues-platform-innovation-general-availability-first-minor-release-red-hat-enterprise-linux-7)
+- [Dell Authentication Services](http://software.dell.com/products/authentication-services/)
+- [Centrify](https://www.centrify.com/)
+- [Employees have no qualms in selling corporate passwords](http://www.csoonline.com/article/2905682/data-breach/employees-have-no-qualms-in-selling-corporate-passwords.html)
+- [Are their any valid Active Directory Alternatives?](http://community.spiceworks.com/topic/689453-are-their-any-valid-active-directory-alternatives)
+- [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
+- [Announcing Managed Microsoft Active Directory in the AWS Cloud](https://aws.amazon.com/es/about-aws/whats-new/2015/12/announcing-managed-microsoft-active-directory-in-the-aws-cloud/)
+- [Apache Syncope, Open Source Identity Management software](http://syncope.apache.org/)
+- [Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management](http://shiro.apache.org/)
+- [Open source identity management 20121106 - apache con eu](http://www.slideshare.net/ilgrosso/open-source-identity-management-20121106-apache-con-eu)
+
+## Application Security: Web App Firewall. Blocking bots
+- [dzone.com - The 2015 DZone Guide to Application Security](http://bit.ly/1RksReA)
+- [JBossDeveloper - Theft-Proof Java EE - Securing Your Java EE Enterprise Applications](http://planet.jboss.org/post/theft_proof_java_ee_securing_your_java_ee_enterprise_applications)
+- [pyvideo.org: Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities](http://www.pyvideo.org/video/3512/shiny-lets-be-bad-guys-exploiting-and-mitigati-3)
+- [What is Baiduspider?](https://chineseseoshifu.com/blog/what-is-baiduspider.html)
+- [Estándar de exclusión de robots](https://es.wikipedia.org/wiki/Est%C3%A1ndar_de_exclusi%C3%B3n_de_robots)
+- [Robots Database](http://www.robotstxt.org/db.html)
+
+## Breaking Firewalls, Shellcode Injection, SQL Injection 
+- [Breaking Firewalls with OpenSSH and PuTTY](http://souptonuts.sourceforge.net/sshtips.htm)
+	- [PuTTY: 10 consejos útiles para conexiones SSH](http://www.emezeta.com/articulos/putty-10-consejos-utiles-para-conexiones-ssh)
+- [Punching holes into firewalls. Why firewalls shouldn't be considered a ultimate weapon for network security. Secure TCP-into-HTTP tunnelling guide](http://sebsauvage.net/punching/)
+- [Shellcode Injection: Think twice before granting a shell access](https://dhavalkapil.com/blogs/Shellcode-Injection/)
+- [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
+- [Bind variables are the best way to prevent SQL injection](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
+
+![Shellcode Injection](images/shell_access_exploit.png)
+
+## Major security issues and blogs
+- [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
+- [dzone.com - Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
+	- [zdnet.com: Oracle ordered to blitz users with Java security warnings](http://www.zdnet.com/article/oracle-ordered-to-blitz-users-with-java-security-warnings/)
+	- [dzone.com - This Java Vulnerability Makes Heartbleed Look Tame.Find out what the big deal is with the Java serialization security flaw that the community is buzzing about](https://dzone.com/articles/point-of-viewwhy-the-java-serialization-vulnerabil)
+- [keychain: Set Up Secure Passwordless SSH Access For Backup Scripts](http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
+- [New High Severity OpenSSL Vulnerabilities Announced: CVE-2015-0291 & CVE-2015-0204](http://www.tripwire.com/state-of-security/vulnerability-management/new-high-severity-openssl-vulnerabilities-announced-cve-2015-0291-cve-2015-0204/)
+- [Red Hat security blog: Heartbleed](https://securityblog.redhat.com/tag/heartbleed/)
+	- [Fixing Heartbleed with Ansible](http://www.ansible.com/blog/fixing-heartbleed-with-ansible)
+- [Patching the GHOST glibc gethostbyname CVE-2015-0235 bug](https://sysadmincasts.com/episodes/44-patching-the-ghost-glibc-gethostbyname-cve-2015-0235-bug)
+- [Shellshock: Bash bug 'bigger than Heartbleed' could undermine security of millions of websites – and there's nothing you can do to protect yourself](http://www.independent.co.uk/life-style/gadgets-and-tech/shell-shock-bash-bug-bigger-than-heartbleed-could-undermine-security-of-millions-of-websites-9754720.html)
+	- [Ansible.com shellshock](http://www.ansible.com/blog/shellshock)
+	- [Patch Shellshock with Ansible](https://raymii.org/s/articles/Patch_CVE-2014-6271_Shellshock_with_Ansible.html)
+	- [servercheck.in: Secure your servers from Shellshock Bash vulnerability using Ansible](https://servercheck.in/blog/secure-your-servers-shellshock-bash-vulnerability)
+	- [aroundthecode.org: Ansible - massively fix bash shellshock](http://aroundthecode.org/2014/09/26/fix_bash_shellshock/)
+	- [shellshock CVE-2014-6271 fix for ubuntu bash](https://gist.github.com/kacy/2b9408af04c71fab686e)
+	- [community.redhat.com: Critical Bash Security Vulnerability: Update Your Systems Today](http://community.redhat.com/blog/2014/09/critical-bash-security-vulnerability-update-your-systems-today/)
+	- [Lynda.com: Protect Your System from the Shellshock Bash Exploit](http://www.lynda.com/articles/shellshock-bash-exploit)
+	- [Red Hat security blog: Frequently Asked Questions about the Shellshock Bash flaws](https://securityblog.redhat.com/2014/09/26/frequently-asked-questions-about-the-shellshock-bash-flaws/)
+- [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
+- [PuTTY vulnerability vuln-ech-overflow](http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-ech-overflow.html)
+
+![intrusion response procedures](images/intrusion_response_procedures.png)
