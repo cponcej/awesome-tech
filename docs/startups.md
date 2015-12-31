@@ -13,6 +13,7 @@
 
 ## Startup related links
 - [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
+	- [El inversor de éxito que lucha contra la "burbuja" de las startups](http://startupxplore.com/blog/es/bill-gurley-burbuja-startup/)
 - [European Startup Initiative](http://www.startupheatmap.eu/)
 - [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
