@@ -1,3 +1,7 @@
+# Awesome Tech [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+**Table of Contents**
+
 1. [High quality tech resources and search engines](/docs/high-quality-tech-resources.md)
 2. [Startups](/docs/startups.md)
 3. [Scalability and Reliability](/docs/scalability.md)

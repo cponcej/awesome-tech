@@ -1,3 +1,4 @@
+**Table of Contents**
 <!-- MarkdownTOC -->
 
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)

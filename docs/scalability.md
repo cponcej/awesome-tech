@@ -1,3 +1,4 @@
+**Table of Contents**
 <!-- MarkdownTOC -->
 
 - [Scalability and Reliability](#scalability-and-reliability)
