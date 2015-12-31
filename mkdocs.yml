@@ -1,6 +1,22 @@
 site_name: Awesome Tech
 pages:
 - Home: index.md
+- High quality tech resources and search engines: high-quality-tech-resources.md
+- Startups: startups.md
+- Scalability and Reliability: scalability.md
+- IT Spain Blogs: it-spain-blogs.md
+- Support: support.md
+- Linux and Microsoft: linux-microsoft.md
+- WebApps: webapp.md
 - Java 8 changes: jvm-mem.md
+- Security: security.md
+- DevOps and ITIL: devops-itil.md
+- Software Development: sw-devel.md
+- Data Science and Big Data: data-science.md
+- Networking: networking.md
+- Servers, Storage and Backup: servers-storage-backup.md
+- Cloud: cloud.md
+- Desktop Tools: desktop-tools.md
+- E-Learning: e-learning.md
 - Quote: mkeiser.md
 - About: about.md
