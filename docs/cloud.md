@@ -72,7 +72,7 @@
 - [Why OpenStack matters](http://www.anchor.com.au/blog/2014/07/openstack-matters/)
 - [BBVA Bank on OpenStack](https://www.youtube.com/watch?v=PESWFDPbexs)
 
-openstack-cluster.png
+![openstack cluster](images/openstack-cluster.png)
 
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
