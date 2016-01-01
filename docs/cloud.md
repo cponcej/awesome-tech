@@ -61,6 +61,7 @@
 ## OpenStack private cloud
 - [openstack.org](http://openstack.org)
 - [OpenStack Architecture Design Guide](http://docs.openstack.org/arch/)
+- [OpenStack Foundation Youtube Channel](https://www.youtube.com/user/OpenStackFoundation)
 - [The Guardian goes all-in on AWS public cloud after OpenStack 'disaster’](http://www.computerworlduk.com/cloud-computing/guardian-goes-all-in-on-aws-public-cloud-after-openstack-disaster-3629790/)
 - [opensource.com: A 2016 to do list for the OpenStack board](https://opensource.com/business/15/12/2016-do-list-openstack-board)
 - [ZeroStack – A Better Way to do OpenStack](http://blog.architecting.it/2015/12/29/zerostack-a-better-way-to-do-openstack/) Today the main issue aimed at OpenStack is that of complexity.  The most successful deployments we hear about are implemented by large corporations like eBay, AT&T and PayPal.  These companies have the resources to deploy armies of programmers and talented sysadmins to understand, manage and curate the code, which seems to be the biggest consumer of effort for the project.
@@ -71,6 +72,7 @@
 - [openstack.org: Five Days + Twelve Writers + One Book Sprint = One Excellent Book on OpenStack Architecture](http://www.openstack.org/blog/2014/07/five-days-twelve-writers-one-book-sprint-one-excellent-book-on-openstack-architecture/)
 - [Why OpenStack matters](http://www.anchor.com.au/blog/2014/07/openstack-matters/)
 - [BBVA Bank on OpenStack](https://www.youtube.com/watch?v=PESWFDPbexs)
+- [fortune.com: Red Hat and Mirantis, once an OpenStack couple, have split](http://fortune.com/2015/07/01/red-hat-and-mirantis-split/)
 
 ![openstack cluster](images/openstack-cluster.png)
 
