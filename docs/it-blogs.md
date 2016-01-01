@@ -12,6 +12,7 @@
 - [enterprisetech.com](http://www.enterprisetech.com/)
 
 # IT Spain Blogs
+- [javiergarzas.com](http://www.javiergarzas.com/)
 - [jreypo.wordpress.com](https://jreypo.wordpress.com/)
 - [dbigcloud.com](http://www.dbigcloud.com/)
 - [systemadmin.es](http://systemadmin.es/)
