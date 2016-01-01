@@ -38,6 +38,7 @@
 - [DZone](http://dzone.com)
 - [Web Code Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
 - [Yacoset.com: Software Engineering Tips](http://www.yacoset.com/)
+- [Genbeta dev](http://www.genbetadev.com/)
 
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
