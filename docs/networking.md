@@ -27,6 +27,8 @@
 - [darkreading.com: 5 Tips For Getting The Most Out Of Your Firewall](http://www.darkreading.com/perimeter/5-tips-for-getting-the-most-out-of-your-firewall/d/d-id/1323634) Role-based Access Control is a must for getting the most out of your firewall
 - [11 cool things your firewall should do](http://www.sonicwall.com/documents/11-cool-things-your-firewall-should-do-ebook-24538.pdf) Extend beyond blocking network threats to protect, manage and control application traffic 
 - [Demand more from your wireless network. SonicWALL wireless network security combines high speed 802.11ac & next-gen firewalls](http://www.sonicwall.com/documents/demand-more-from-your-wireless-network-datasheet-75796.pdf)
+- [mysonicwall.com: Dell SonicWALL Security Center](https://www.mysonicwall.com/sonicalert/SonicALERT.aspx)
+	- [Data stealing trojan described as a JPG file (December 31, 2015)](https://www.mysonicwall.com/sonicalert/searchresults.aspx?ev=article&id=886)
 
 ![Dell SonicWall TZ500 Management Monitor](images/Dell-SonicWall-TZ500-Management-Monitor.png)
 
