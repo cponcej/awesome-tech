@@ -9,6 +9,7 @@
 
 # IT Blogs
 - [ZDNet](http://www.zdnet.com/)
+- [DZone](https://dzone.com)
 - [enterprisetech.com](http://www.enterprisetech.com/)
 
 # IT Spain Blogs
