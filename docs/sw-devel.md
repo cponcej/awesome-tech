@@ -30,7 +30,8 @@
 - [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [Maintain the Habit of Learning Coding Skills](https://dzone.com/articles/maintain-the-habit-of-learning-coding-skills)
 - [Latency Numbers Every Programmer Should Know](http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
-- [The Real Cost of Change in Software Development](http://www.javacodegeeks.com/2013/09/the-real-cost-of-change-in-software-development.html)
+- [blog.udacity.com: The Real Cost of Change in Software Development](http://www.javacodegeeks.com/2013/09/the-real-cost-of-change-in-software-development.html)
+- [blog.udacity.com: How You Can Stand Out in Your Next Web Developer Interview](http://blog.udacity.com/2015/01/how-to-stand-out-in-your-web-developer-interview.html)
 
 ## Blogs and Forums
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
@@ -68,6 +69,7 @@
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 	- [An excellent free video course on Sublime Text 2 - Sublime Text 3 is still in beta](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 - [Regex mode and debugging PHP](http://sublimetexttips.com/sublime-text-power-user-tricks-plus-how-to-debug-your-php-like-a-boss/)
+- [Switch projects without browsing in Sublime Text](http://sublimetexttips.com/switch-projects-without-browsing-in-sublime-text/)
 
 #### Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)

@@ -9,6 +9,7 @@ pages:
 - WebApps: webapp.md
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
+- Configuration Management: config-mgmt.md
 - DevOps and ITIL: devops-itil.md
 - Software Development: sw-devel.md
 - Data Science and Big Data: data-science.md

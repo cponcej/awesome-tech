@@ -138,6 +138,7 @@
 	- [essentialsql.com: Get Ready to Learn SQL Server 21: Using Subqueries in the WHERE Clause](http://www.essentialsql.com/get-ready-to-learn-sql-server-21-using-subqueries-in-the-where-clause/)
 	- [essentialsql.com: Get Ready to Learn SQL Server 23: Using Subqueries in the HAVING Clause](http://www.essentialsql.com/get-ready-to-learn-sql-server-23-using-subqueries-in-the-having-clause)
 	- [essentialsql.com: What are Ten Things a Junior DBA should know?](http://www.essentialsql.com/what-are-ten-things-a-junior-dba-should-know/)
+	- [essentialsql.com: What is a Data Dictionary?](http://www.essentialsql.com/what-is-a-data-dictionary)
 	- [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [SQL in ten minutes](http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes)
 - [10 sql tips to speed up your database](http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database)
