@@ -6,7 +6,7 @@ pages:
 - Scalability and Reliability. Datacenters: scalability.md
 - IT Blogs and Support: it-blogs.md
 - Linux, Red Hat and Microsoft: linux-microsoft.md
-- WebApps: webapp.md
+- WebApp, Middleware, JVM: webapp.md
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
 - Configuration Management and Orchestration: config-mgmt.md
