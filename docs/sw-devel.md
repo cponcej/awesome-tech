@@ -72,6 +72,11 @@
 - [Regex mode and debugging PHP](http://sublimetexttips.com/sublime-text-power-user-tricks-plus-how-to-debug-your-php-like-a-boss/)
 - [Switch projects without browsing in Sublime Text](http://sublimetexttips.com/switch-projects-without-browsing-in-sublime-text/)
 - [Show your current file in the Sublime Text side bar](http://sublimetexttips.com/sublime-text-show-file-in-sidebar/)
+- [Best plugins for Sublime Text 2](http://sublimetexttips.com/best-plugins-for-sublime-text-2/)
+- [18 Essential Plugins to Get More Out Of Sublime Text](http://www.hongkiat.com/blog/sublime-text-plugins/)
+- [Best of Sublime Text 3: Features, Plugins, and Settings ](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
+- [The best Sublime Text 3 extensions](https://bufferwall.com/blogs/2015-04-03-the-best-sublime-text-3-extensions/)
+- [10 Essential Sublime Text Plugins for Full-Stack Developers](http://www.sitepoint.com/10-essential-sublime-text-plugins-full-stack-developer/)
 
 #### Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
