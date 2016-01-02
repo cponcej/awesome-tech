@@ -11,6 +11,7 @@
 - [ZDNet](http://www.zdnet.com/)
 - [DZone](https://dzone.com)
 - [enterprisetech.com](http://www.enterprisetech.com/)
+- [medium.com](https://medium.com)
 
 # IT Spain Blogs
 - [javiergarzas.com](http://www.javiergarzas.com/)
