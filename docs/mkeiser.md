@@ -6,7 +6,7 @@
 
 >Lo salarios ya no están encima de la mesa a la hora de establecer las políticas económicas. Ni en el Reino Unido, ni en EEUU ni en ningún otro lugar del mundo. Los salarios ya no forman parte del debate. ¿Y eso por qué? Porque antes si uno quería hacerse rico tenía que contratar personal. Eso fue lo que paso en la revolución industrial, en la que hizo falta mucho personal en las fábricas, lo que convirtió a los empresarios en dueños de los medios de producción. Mucha gente se dedicó a fabricar automóviles y si uno hacía como Henry Ford se volvía inmensamente rico. El problema es que los medios de producción han cambiado. Los trabajadores y la mano de obra ya no hacen falta, ni tampoco los salarios. Lo único que hay que hacer es darle a un botón y emitir moneda. Y la única forma de que esa política tenga éxito para los que aprietan el botón, es que el dinero que fabrican esas máquinas de emitir moneda vaya a parar a los que antes vivían de su salario. Esa gente está siendo denigrada y condenada a una serie de políticas inmobiliarias orquestadas por el complejo penitenciario industrial para crear una mano de obra esclava. Steven Roach tiene razón cuando dice que los salarios ya no se tienen en cuenta.
 
-Max Keiser
+Max Keiser.
 Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![global house prices economist](images/global-house-prices-economist.png)
