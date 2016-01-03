@@ -27,6 +27,7 @@
 	- [Red Hat Videos](#red-hat-videos)
 - [Microsoft](#microsoft)
 	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
+- [VMware](#vmware)
 
 <!-- /MarkdownTOC -->
 
@@ -266,3 +267,7 @@
 - [Unofficial Spiceworks. Spiceworks news and reviews from the underground...](http://www.unofficialspiceworks.com/)
 
 ![spiceworks](images/spiceworks-logo.png)
+
+# VMware
+- [VMware Front Experience](http://www.v-front.de/)
+	- [VMware launches vSphere 6 - What's in ESXi 6.0 for free license and white box users?](http://www.v-front.de/2015/02/whats-in-esxi-60-for-free-license-and.html)

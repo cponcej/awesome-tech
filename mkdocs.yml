@@ -3,9 +3,9 @@ pages:
 - Home: index.md
 - High quality tech resources and search engines: high-quality-tech-resources.md
 - Startups: startups.md
-- Scalability and Reliability. Datacenters: scalability.md
-- IT Blogs and Support: it-blogs.md
-- Linux, Red Hat and Microsoft: linux-microsoft.md
+- Scalability and Reliability, Datacenters: scalability.md
+- IT Blogs, Support: it-blogs.md
+- Linux, Red Hat, Microsoft, VMware: linux-microsoft.md
 - WebApp, Middleware, JVM: webapp.md
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md

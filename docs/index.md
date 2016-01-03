@@ -4,9 +4,9 @@
 
 1. [High quality tech resources and search engines](high-quality-tech-resources.md)
 2. [Startups](startups.md)
-3. [Scalability and Reliability. Datacenters](scalability.md)
-4. [IT Blogs and Support](it-blogs.md)
-5. [Linux, Red Hat and Microsoft](linux-microsoft.md)
+3. [Scalability and Reliability, Datacenters](scalability.md)
+4. [IT Blogs, Support](it-blogs.md)
+5. [Linux, Red Hat, Microsoft, VMware](linux-microsoft.md)
 6. [WebApp, Middleware, JVM](webapp.md)
 7. [Cambios en Java 8](jvm-mem.md)
 8. [Security](security.md)
