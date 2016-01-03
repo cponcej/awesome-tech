@@ -4,7 +4,7 @@
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
-	- [Stack Exchange](#stack-exchange)
+	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 	- [Podcasts](#podcasts)
 
@@ -75,10 +75,11 @@
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
-## Stack Exchange
+## Stack Exchange family of Q&A websites
 - [stackoverflow.com](http://stackoverflow.com/)
 - [Stack Overflow en español es un sitio de preguntas y respuestas para programadores y profesionales de la informática](http://es.stackoverflow.com/)
 - [Startups Stack Exchange](http://startups.stackexchange.com/)
+- [Freelancing Stack Exchange](http://freelancing.stackexchange.com/)
 - [Unix & Linux Stack Exchange](http://unix.stackexchange.com/)
 - [networkengineering.stackexchange.com](http://networkengineering.stackexchange.com/)
 - [Server Fault is a question and answer site for system and network administrators](http://serverfault.com/)
@@ -106,8 +107,10 @@
 - [joomla.stackexchange.com](http://joomla.stackexchange.com/)
 - [webmasters.stackexchange.com](http://webmasters.stackexchange.com/)
 - [graphicdesign.stackexchange.com](http://graphicdesign.stackexchange.com/)
+- [TeX - LaTeX Stack Exchange](http://tex.stackexchange.com/)
 - [Magento Stack Exchange](http://magento.stackexchange.com/)
 - [android.stackexchange.com](http://android.stackexchange.com/)
+- [windowsphone.stackexchange.com](http://windowsphone.stackexchange.com/)
 - [Raspberry Pi Stack Exchange](http://raspberrypi.stackexchange.com/)
 - [arduino.stackexchange.com](http://arduino.stackexchange.com/)
 - [Video Production Stack Exchange is a question and answer site for engineers, producers, editors, and enthusiasts spanning the fields of video, and media creation](http://video.stackexchange.com/)
@@ -118,6 +121,10 @@
 - [french.stackexchange.com](http://french.stackexchange.com/)
 - [german.stackexchange.com](http://german.stackexchange.com/)
 - [Expatriates Stack Exchange](http://expatriates.stackexchange.com/)
+- [History Stack Exchange](http://history.stackexchange.com/)
+- [Mathematics Stack Exchange](http://math.stackexchange.com/)
+- [engineering.stackexchange.com](http://engineering.stackexchange.com/)
+- [Electrical Engineering Stack Exchange](http://electronics.stackexchange.com/)
 - [economics.stackexchange.com](http://economics.stackexchange.com/)
 - [Law Stack Exchange](http://law.stackexchange.com/)
 
