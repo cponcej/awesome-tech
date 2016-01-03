@@ -4,6 +4,7 @@
 - [Linux](#linux)
 	- [Linux Blogs and Forums](#linux-blogs-and-forums)
 	- [Linux Commands](#linux-commands)
+	- [Vim and Emacs](#vim-and-emacs)
 	- [Apple OS X](#apple-os-x)
 	- [Linux Performance](#linux-performance)
 	- [Linux Networking](#linux-networking)
@@ -43,6 +44,7 @@
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
 - [Linux Home Networking | Tutorials and Forums](http://www.linuxhomenetworking.com/)
 - [LinuxJournal](http://www.linuxjournal.com)
+- [linuxtoday.com](http://www.linuxtoday.com/)
 - [Xmodulo - Linux FAQs, tips and tutorials](http://xmodulo.com)
 - [MyLinuxSoftware.com: A Linux Software Directory for GUI and Console Apps](http://www.mylinuxsoftware.com/)
 - [unixetc.co.uk](http://unixetc.co.uk/)
@@ -77,7 +79,12 @@
 - [cyberciti.biz: Backup & restore a partition table (including GPT) on Linux in case table get corrupted/modified/deleted by mistake](http://www.cyberciti.biz/faq/linux-backup-restore-a-partition-table-with-sfdisk-command/)
 - [ibm.com: Learn Linux, 101: Customize and use the shell environment](http://www.ibm.com/developerworks/linux/library/l-lpic1-105-1/index.html)
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
+- [How to delete a single command from history on a Linux, OS X and Unix Bash shell](http://www.cyberciti.biz/faq/delete-command-from-history-linux-unix-osx-bash-shell/)
+- [tecmint.com: 29 Practical Examples of Nmap Commands for Linux System/Network Administrators](http://www.tecmint.com/nmap-command-examples/)
+
+## Vim and Emacs
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+- [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 
 ![last command](images/last_command.jpg)
 

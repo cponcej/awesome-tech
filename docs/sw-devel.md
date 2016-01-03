@@ -69,6 +69,7 @@
 - [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 	- [An excellent free video course on Sublime Text 2 - Sublime Text 3 is still in beta](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
+	- [Improve your git workflow with this new Sublime Text 3 feature](http://sublimetexttips.com/improve-your-git-workflow-with-this-new-sublime-text-3-feature/)
 - [Regex mode and debugging PHP](http://sublimetexttips.com/sublime-text-power-user-tricks-plus-how-to-debug-your-php-like-a-boss/)
 - [Switch projects without browsing in Sublime Text](http://sublimetexttips.com/switch-projects-without-browsing-in-sublime-text/)
 - [Show your current file in the Sublime Text side bar](http://sublimetexttips.com/sublime-text-show-file-in-sidebar/)
@@ -77,6 +78,7 @@
 - [Best of Sublime Text 3: Features, Plugins, and Settings ](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 - [The best Sublime Text 3 extensions](https://bufferwall.com/blogs/2015-04-03-the-best-sublime-text-3-extensions/)
 - [10 Essential Sublime Text Plugins for Full-Stack Developers](http://www.sitepoint.com/10-essential-sublime-text-plugins-full-stack-developer/)
+- [Where should you keep your Sublime Text projects?](http://sublimetexttips.com/where-should-you-keep-your-sublime-text-projects/)
 
 #### Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)

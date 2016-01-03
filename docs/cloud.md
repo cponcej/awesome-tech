@@ -13,6 +13,7 @@
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New Features](#aws-new-features)
 		- [AWS DevOps](#aws-devops)
+			- [AWS CLI](#aws-cli)
 			- [AWS Developer Blog](#aws-developer-blog)
 			- [AWS Cloud Formation](#aws-cloud-formation)
 		- [AWS Security](#aws-security)
@@ -125,6 +126,10 @@
 - [Continuous Delivery for a PHP Application Using AWS CodePipeline, AWS Elastic Beanstalk, and Solano Labs](https://blogs.aws.amazon.com/application-management/post/TxYSRRBH57NP2P/Continuous-Delivery-for-a-PHP-Application-Using-AWS-CodePipeline-AWS-Elastic-Bea)
 - [Building Continuous Deployment on AWS with AWS CodePipeline, Jenkins and AWS Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx34AXRMYLXG5OT/Building-Continuous-Deployment-on-AWS-with-AWS-CodePipeline-Jenkins-and-AWS-Elas)
 - [AWS CodeDeploy: Deploying from a Development Account to a Production Account](http://blogs.aws.amazon.com/application-management/post/Tx3PE3JTSVJSFI7/AWS-CodeDeploy-Deploying-from-a-Development-Account-to-a-Production-Account)
+
+#### AWS CLI
+- [AWS CLI Command Reference](http://docs.aws.amazon.com/cli/latest/index.html)
+- [New usage examples have been added to the CLI for CodePipeline API Reference](http://docs.aws.amazon.com/cli/latest/reference/codepipeline/index.html)
 
 #### AWS Developer Blog
 - [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)
