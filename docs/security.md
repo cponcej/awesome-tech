@@ -38,6 +38,7 @@
 
 ## Database encryption
 - [Wikipedia: Database encryption](https://en.wikipedia.org/wiki/Database_encryption)
+- [dba.stackexchange.com - encryption tag](http://dba.stackexchange.com/questions/tagged/encryption)
 
 ## Identity Management
 - [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)

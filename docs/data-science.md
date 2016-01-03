@@ -125,6 +125,8 @@
 - [SQL Joins Visualizer. SQL Joins Visualizer help to you build SQL JOIN between two tables by using of Venn diagrams](http://sql-joins.leopard.in.ua/)
 - [blog.jooq.org: Java, SQL and jOOQ](http://blog.jooq.org/)
 - [The Database Programmer. All things related to database applications, both desktop and web](http://database-programmer.blogspot.co.at/)
+- [stackoverflow.com](http://stackoverflow.com/)
+- [dba.stackexchange.com](http://dba.stackexchange.com/)
 
 ### SQL Docs
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
