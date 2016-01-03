@@ -13,7 +13,7 @@
 			- [CI Maven and Gradle](#ci-maven-and-gradle)
 	- [Git](#git)
 		- [Git clients](#git-clients)
-	- [Performance Testing - Traffic injectors](#performance-testing---traffic-injectors)
+	- [Performance Testing. Traffic injectors](#performance-testing-traffic-injectors)
 		- [JMeter](#jmeter)
 		- [Alternatives](#alternatives)
 	- [Metric monitoring](#metric-monitoring)
@@ -146,19 +146,19 @@
 
 ![git image](images/git.png)
 
-## Performance Testing - Traffic injectors
+## Performance Testing. Traffic injectors
 ### JMeter
 - [javacodegeeks.com: JMeter Tutorial for Load Testing – The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [blazemeter.com: The Ultimate JMeter Resource List (july 2015)](https://blazemeter.com/blog/ultimate-jmeter-resource-list)
 - [blazemeter.com: How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
 - [guru99.com: Free Jmeter Tutorials](http://www.guru99.com/jmeter-tutorials.html)
 - [unpocodejava.wordpress.com: ¿Cómo hacer pruebas de carga de una clase Java con JMeter?](https://unpocodejava.wordpress.com/2015/12/21/como-hacer-pruebas-de-carga-de-una-clase-java-con-jmeter-2/)
-- [xmodulo.com: What are good web server benchmarking tools for Linux](http://xmodulo.com/web-server-benchmarking-tools-linux.html)
-- [Performance Testing With Real Browsers: using Selenium WebDriver with BlazeMeter and/or JMeter on its own](https://blazemeter.com/blog/view-webcast-performance-testing-real-browsers)
 
 ### Alternatives
 - [Siege, a CLI tool ideal for a simple testing of AWS Auto Scaling](https://www.joedog.org/siege-home/)
 - [Grinder](http://grinder.sourceforge.net/)
+- [xmodulo.com: What are good web server benchmarking tools for Linux](http://xmodulo.com/web-server-benchmarking-tools-linux.html)
+- [Performance Testing With Real Browsers: using Selenium WebDriver with BlazeMeter and/or JMeter on its own](https://blazemeter.com/blog/view-webcast-performance-testing-real-browsers)
 
 ## Metric monitoring
 ### Tools

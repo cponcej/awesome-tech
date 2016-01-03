@@ -12,6 +12,7 @@
 - [DZone](https://dzone.com)
 - [enterprisetech.com](http://www.enterprisetech.com/)
 - [medium.com](https://medium.com)
+- [Tom's Guide: tech products reviews, top picks and How To](http://www.tomsguide.com/)
 
 # IT Spain Blogs
 - [javiergarzas.com](http://www.javiergarzas.com/)

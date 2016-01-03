@@ -4,6 +4,7 @@
 - [Security](#security)
 	- [Security Blogs](#security-blogs)
 	- [Security Toolkits](#security-toolkits)
+	- [Antivirus](#antivirus)
 	- [Identity Management](#identity-management)
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
@@ -25,6 +26,14 @@
 	- [blackmoreops.com: Man in the Middle Attack using Kali Linux – MITM attack](http://www.blackmoreops.com/2015/12/22/man-in-the-middle-attack-using-kali-linux/)
 - [Network Security Toolkit](http://www.networksecuritytoolkit.org)
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
+
+## Antivirus
+- [Bitdefender](http://www.bitdefender.com)
+- [GData](https://www.gdatasoftware.com/)
+- [Avast](https://www.avast.com)
+- [Independent Tests of Antivirus Software](http://www.av-comparatives.org/)
+- [wikipedia: Comparison of antivirus software](https://en.wikipedia.org/wiki/Comparison_of_antivirus_software)
+- [tomsguide.com: Best Antivirus Software and Apps 2016](http://www.tomsguide.com/us/best-antivirus,review-2588.html)
 
 ## Identity Management
 - [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
