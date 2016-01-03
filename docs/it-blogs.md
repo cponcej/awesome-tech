@@ -23,4 +23,5 @@
 - [muylinux.com](http://www.muylinux.com/)
 
 # Support
+- [Stack Exchange](high-quality-tech-resources.md#stack-exchange)
 - [roguewave.com: 2015 Open Source Support Report](http://www.roguewave.com/programs/open-source-support-report)
