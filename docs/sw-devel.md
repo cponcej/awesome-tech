@@ -191,7 +191,6 @@
 - [Java Advent Blog](http://www.javaadvent.com/)
 - [javacodegeeks.com: Top 10 Books For Advanced Level Java Developers](http://www.javacodegeeks.com/2013/09/top-10-books-for-advanced-level-java-developers.html)
 - [javacodegeeks.com: What’s new in Java 8](http://www.javacodegeeks.com/2013/09/whats-new-in-java-8-part-i-javafx.html)
-- ["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
 - [Java EE 6 Cookbook for Securing, Tuning, and Extending Enterprise Applications--Free 60 Page Excerpt](http://javacodegeeks.tradepub.com/free/w_pack28/)
 - [javacodegeeks.com: 15 Java Socket Programming, Networking Interview Questions and Answers](http://www.javacodegeeks.com/2014/08/15-java-socket-programming-networking-interview-questions-and-answers.html)
 - [Multithreading and Concurrency Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html)
@@ -201,6 +200,7 @@
 - [Dzone: A Simpler Way to Secure a Java Application](https://dzone.com/articles/a-simpler-way-to-secure-your-java-application-with)
 - [javacodegeeks.com: Java 8 Features Tutorial – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/05/java-8-features-tutorial.html)
 - [Profile of successful Java developer in 2016](http://www.javacodegeeks.com/2015/12/profile-successful-java-developer-2016.html)
+- ["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
 ![Learn java python](images/learn-java-python.png)
 
