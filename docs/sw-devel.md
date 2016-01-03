@@ -79,6 +79,7 @@
 - [The best Sublime Text 3 extensions](https://bufferwall.com/blogs/2015-04-03-the-best-sublime-text-3-extensions/)
 - [10 Essential Sublime Text Plugins for Full-Stack Developers](http://www.sitepoint.com/10-essential-sublime-text-plugins-full-stack-developer/)
 - [Where should you keep your Sublime Text projects?](http://sublimetexttips.com/where-should-you-keep-your-sublime-text-projects/)
+- [How to quickly test URLs embedded in your code and text files](http://sublimetexttips.com/how-to-quickly-test-urls-embedded-in-your-code-and-text-files/)
 
 #### Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
@@ -223,6 +224,7 @@
 - [javacodegeeks.com: How to integrate AJAX into a Spring MVC application](http://www.javacodegeeks.com/2013/09/spring-mvc-ajax-jquery.html)
 - [Node.js Version Chaos Management](http://www.linuxjournal.com/content/nodejs-version-chaos-management)
 - [github: Javascript Tips – A JavaScript Tip per Day](https://github.com/loverajoel/jstips)
+- [webcodegeeks.com: JavaScript Sort Array Example](http://www.webcodegeeks.com/javascript/javascript-sort-array-example)
 
 ### JSON
 - [json.org](http://json.org/)

@@ -19,6 +19,7 @@
 - [unpocodejava.wordpress.com](https://unpocodejava.wordpress.com/)
 - [jreypo.wordpress.com](https://jreypo.wordpress.com/)
 - [dbigcloud.com](http://www.dbigcloud.com/)
+- [A un clic de las TIC](http://www.aunclicdelastic.com/)
 - [systemadmin.es](http://systemadmin.es/)
 - [muylinux.com](http://www.muylinux.com/)
 

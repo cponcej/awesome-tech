@@ -107,6 +107,7 @@
 - [Understanding the Key Differences between ESBCs and Firewalls?](https://www.edgewaternetworks.com/2015/05/understanding-the-key-differences-between-esbcs-and-firewalls/)
 - [In 2015 Lync became Skype for Business](https://products.office.com/en-US/skype-for-business)
 - [voipmonitoringzone.com: Enterprise VoIP is Growing Up and Meeting More Companies' Needs](http://www.voipmonitoringzone.com/articles/415200-enterprise-voip-growing-up-meeting-more-companies-needs.htm)
+- [El 86% de las empresas utiliza herramientas de Comunicaciones Unificadas y colaboración. La colaboración móvil, el nuevo frente de batalla](http://www.aunclicdelastic.com/la-colaboracion-movil-el-nuevo-frente-de-batalla/)
 
 ## WiFi security
 - [Analyzing the 1000 Most Common Wi-Fi Network Names](https://ghostpath.com/blog/ssid-analyzing-the-1000-most-common-wi-fi-network-names/)
