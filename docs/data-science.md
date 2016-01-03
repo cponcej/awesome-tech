@@ -185,6 +185,8 @@
 	- [MySQL 5.7: Improved Performance of Queries with Derived Tables](http://mysqlserverteam.com/mysql-5-7-improved-performance-of-queries-with-derived-tables/)
 	- [generatedata.com via percona.com: Generating test data for MySQL tables](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 
+![generatedata.com](images/generatedata.jpg)
+
 #### PostgreSQL
 - [PostgreSQL docs](http://www.postgresql.org/docs/)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
@@ -209,8 +211,6 @@
 
 #### TinyDB
 - [TinyDB:](http://tinydb.readthedocs.org) a pure Python document (i.e., JSON) database for simple local storage
-
-![generatedata.com](images/generatedata.jpg)
 
 ### SQL replication
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
