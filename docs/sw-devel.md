@@ -203,6 +203,7 @@
 - ["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
 ![Learn java python](images/learn-java-python.png)
+
 ![developer python java](images/developer-python-java.png)
 
 ## Front-end: HTML5, javascript/node.js
