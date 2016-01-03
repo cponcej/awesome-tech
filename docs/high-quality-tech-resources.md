@@ -4,7 +4,7 @@
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
-	- [stackexchange.com and stackoverflow.com](#stackexchangecom-and-stackoverflowcom)
+	- [Stack Exchange](#stack-exchange)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 	- [Podcasts](#podcasts)
 
@@ -74,7 +74,7 @@
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
-## stackexchange.com and stackoverflow.com
+## Stack Exchange
 - [stackoverflow.com](http://stackoverflow.com/)
 - [Stack Overflow en español es un sitio de preguntas y respuestas para programadores y profesionales de la informática](http://es.stackoverflow.com/)
 - [Startups Stack Exchange](http://startups.stackexchange.com/)
@@ -103,12 +103,18 @@
 - [drupal.stackexchange.com](http://drupal.stackexchange.com/)
 - [joomla.stackexchange.com](http://joomla.stackexchange.com/)
 - [webmasters.stackexchange.com](http://webmasters.stackexchange.com/)
+- [graphicdesign.stackexchange.com](http://graphicdesign.stackexchange.com/)
 - [Magento Stack Exchange is a question and answer site for users of the Magento e-Commerce platform](http://magento.stackexchange.com/)
 - [Raspberry Pi Stack Exchange](http://raspberrypi.stackexchange.com/)
 - [arduino.stackexchange.com](http://arduino.stackexchange.com/)
 - [Video Production Stack Exchange is a question and answer site for engineers, producers, editors, and enthusiasts spanning the fields of video, and media creation](http://video.stackexchange.com/)
 - [Super User is a question and answer site for computer enthusiasts and power users](http://superuser.com/)
+- [Geographic Information Systems Stack Exchange](http://gis.stackexchange.com/)
 - [english.stackexchange.com](http://english.stackexchange.com/)
+- [italian.stackexchange.com](http://italian.stackexchange.com/)
+- [french.stackexchange.com](http://french.stackexchange.com/)
+- [german.stackexchange.com](http://german.stackexchange.com/)
+- [Expatriates Stack Exchange](http://expatriates.stackexchange.com/)
 - [economics.stackexchange.com](http://economics.stackexchange.com/)
 - [Law Stack Exchange is a question and answer site for legal professionals, students, and others with experience or interest in law](http://law.stackexchange.com/)
 
