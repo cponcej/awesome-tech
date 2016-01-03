@@ -68,6 +68,7 @@
 - [awesome docker](https://github.com/veggiemonk/awesome-docker)
 - [awesome big data](https://github.com/onurakpolat/awesome-bigdata)
 - [awesome openstack](http://ramitsurana.github.io/awesome-openstack/)
+- [awesome java](https://github.com/akullpp/awesome-java)
 - [awesome django](https://gitlab.com/rosarior/awesome-django)
 - [awesome python](https://github.com/vinta/awesome-python/)
 - [awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
