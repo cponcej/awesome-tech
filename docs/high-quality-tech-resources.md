@@ -88,7 +88,7 @@
 - [datascience.stackexchange.com](http://datascience.stackexchange.com/)
 - [codereview.stackexchange.com](http://codereview.stackexchange.com/)
 - [Open Data Stack Exchange is a question and answer site for developers and researchers interested in open data](http://opendata.stackexchange.com/)
-- [Project Management Stack Exchange is a question and answer site for project managers](http://pm.stackexchange.com/)
+- [Project Management Stack Exchange](http://pm.stackexchange.com/)
 - [programmers.stackexchange.com](http://programmers.stackexchange.com/)
 - [opensource.stackexchange.com](http://opensource.stackexchange.com/)
 - [Software Quality Assurance & Testing Stack Exchange](http://sqa.stackexchange.com/)
@@ -104,7 +104,7 @@
 - [joomla.stackexchange.com](http://joomla.stackexchange.com/)
 - [webmasters.stackexchange.com](http://webmasters.stackexchange.com/)
 - [graphicdesign.stackexchange.com](http://graphicdesign.stackexchange.com/)
-- [Magento Stack Exchange is a question and answer site for users of the Magento e-Commerce platform](http://magento.stackexchange.com/)
+- [Magento Stack Exchange](http://magento.stackexchange.com/)
 - [Raspberry Pi Stack Exchange](http://raspberrypi.stackexchange.com/)
 - [arduino.stackexchange.com](http://arduino.stackexchange.com/)
 - [Video Production Stack Exchange is a question and answer site for engineers, producers, editors, and enthusiasts spanning the fields of video, and media creation](http://video.stackexchange.com/)
@@ -116,7 +116,7 @@
 - [german.stackexchange.com](http://german.stackexchange.com/)
 - [Expatriates Stack Exchange](http://expatriates.stackexchange.com/)
 - [economics.stackexchange.com](http://economics.stackexchange.com/)
-- [Law Stack Exchange is a question and answer site for legal professionals, students, and others with experience or interest in law](http://law.stackexchange.com/)
+- [Law Stack Exchange](http://law.stackexchange.com/)
 
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
