@@ -5,6 +5,7 @@
 	- [Security Blogs](#security-blogs)
 	- [Security Toolkits](#security-toolkits)
 	- [Antivirus](#antivirus)
+	- [Database encryption](#database-encryption)
 	- [Identity Management](#identity-management)
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
@@ -34,6 +35,9 @@
 - [Independent Tests of Antivirus Software](http://www.av-comparatives.org/)
 - [wikipedia: Comparison of antivirus software](https://en.wikipedia.org/wiki/Comparison_of_antivirus_software)
 - [tomsguide.com: Best Antivirus Software and Apps 2016](http://www.tomsguide.com/us/best-antivirus,review-2588.html)
+
+## Database encryption
+- [Wikipedia: Database encryption](https://en.wikipedia.org/wiki/Database_encryption)
 
 ## Identity Management
 - [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
