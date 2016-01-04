@@ -115,6 +115,8 @@
 - [Linux.101hacks.com: lsof Command Examples](http://linux.101hacks.com/monitoring-performance/lsof-command-examples/)
 - [nixCraft: Linux Increase The Maximum Number Of Open Files / File Descriptors (FD)](http://www.cyberciti.biz/faq/linux-increase-the-maximum-number-of-open-files/)
 
+![glances ubuntu output](images/glances-ubuntu-output.png)
+
 ## Linux Networking
 - [ntop](http://www.ntop.org/)
 - [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
