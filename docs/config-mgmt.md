@@ -23,6 +23,7 @@
 		- [MySQL via Docker](#mysql-via-docker)
 		- [PostgreSQL via Docker](#postgresql-via-docker)
 		- [WebLogic via Docker](#weblogic-via-docker)
+		- [Swift via Docker](#swift-via-docker)
 
 <!-- /MarkdownTOC -->
 
@@ -191,5 +192,8 @@
 ### WebLogic via Docker
 - [multikoop.blogspot.com.es - WebLogic 12.2.1 on Docker](http://multikoop.blogspot.com.es/2015/12/weblogic-1221-on-docker.html)
 - [community.oracle.com: Creating Fast, Scalable and Portable WebLogic Development Environments with Docker](https://community.oracle.com/docs/DOC-919606)
+
+### Swift via Docker
+- [developer.ibm.com: running swift within docker](https://developer.ibm.com/swift/2015/12/15/running-swift-within-docker/)
 
 ![disruption cycle](images/disruption-cycle.png)

@@ -10,6 +10,7 @@
 # IT Blogs and Forums
 - [ZDNet](http://www.zdnet.com/)
 - [DZone](https://dzone.com)
+- [The enterprisers project](https://enterprisersproject.com/)
 - [enterprisetech.com](http://www.enterprisetech.com/)
 - [medium.com](https://medium.com)
 - [Tom's Guide: tech products reviews, top picks and How To](http://www.tomsguide.com/)

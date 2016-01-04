@@ -32,11 +32,13 @@
 - [Latency Numbers Every Programmer Should Know](http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - [blog.udacity.com: The Real Cost of Change in Software Development](http://www.javacodegeeks.com/2013/09/the-real-cost-of-change-in-software-development.html)
 - [blog.udacity.com: How You Can Stand Out in Your Next Web Developer Interview](http://blog.udacity.com/2015/01/how-to-stand-out-in-your-web-developer-interview.html)
+- [20 Java and Programming Quotes to Motivate Yourself](http://www.javacodegeeks.com/2015/12/20-java-programming-quotes-motivate.html)
 
 ## Blogs and Forums
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 - [DZone](http://dzone.com)
 - [Web Code Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
+- [developer.ibm.com](http://www.ibm.com/developerworks/)
 - [Yacoset.com: Software Engineering Tips](http://www.yacoset.com/)
 - [Genbeta dev](http://www.genbetadev.com/)
 
@@ -178,6 +180,7 @@
 - [stackoverflow: Create dictionary from splitted strings from list of strings](http://stackoverflow.com/questions/34319156/create-dictionary-from-splitted-strings-from-list-of-strings)
 - [Yagmail: Python e-mail library](https://github.com/kootenpv/yagmail)
 - [How To Deadlock Your Python With getaddrinfo()](https://emptysqua.re/blog/getaddrinfo-deadlock/)
+- [New String Formatting in Python 3.6](https://zerokspot.com/weblog/2015/12/31/new-string-formatting-in-python/)
 
 ## Python and AWS
 - [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
@@ -225,6 +228,7 @@
 - [Node.js Version Chaos Management](http://www.linuxjournal.com/content/nodejs-version-chaos-management)
 - [github: Javascript Tips – A JavaScript Tip per Day](https://github.com/loverajoel/jstips)
 - [webcodegeeks.com: JavaScript Sort Array Example](http://www.webcodegeeks.com/javascript/javascript-sort-array-example)
+- [Exploring Async Techniques in JavaScript](https://github.com/thalesmello/exploring-async/blob/master/exploring_async.md)
 
 ### JSON
 - [json.org](http://json.org/)

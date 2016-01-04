@@ -4,6 +4,7 @@
 - [Networking](#networking)
 	- [Next Generation Firewalls. Dell SonicWall](#next-generation-firewalls-dell-sonicwall)
 	- [Network virtualization](#network-virtualization)
+	- [IPv6](#ipv6)
 	- [Network Forensics](#network-forensics)
 		- [Network Forensics Blogs](#network-forensics-blogs)
 		- [Network Forensics Docs](#network-forensics-docs)
@@ -34,6 +35,9 @@
 
 ## Network virtualization
 - [FOSS Network Functions Virtualization](https://www.opnfv.org)
+
+## IPv6
+- [arstechnica.com: IPv6 celebrates its 20th birthday by reaching 10 percent deployment](http://arstechnica.com/business/2016/01/ipv6-celebrates-its-20th-birthday-by-reaching-10-percent-deployment/)
 
 ## Network Forensics
 
