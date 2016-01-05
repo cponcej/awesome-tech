@@ -87,6 +87,8 @@
 - [How to delete a single command from history on a Linux, OS X and Unix Bash shell](http://www.cyberciti.biz/faq/delete-command-from-history-linux-unix-osx-bash-shell/)
 - [tecmint.com: 29 Practical Examples of Nmap Commands for Linux System/Network Administrators](http://www.tecmint.com/nmap-command-examples/)
 - [How to change system’s hostname on HP-UX Unix system](http://www.cyberciti.biz/faq/hp-ux-change-systems-hostname-command/)
+- Want to increments all numbers in input.txt? 
+		perl -pe 's/(\d+)/ 1 + $1 /ge' input.txt
 
 ## Vim and Emacs
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
