@@ -225,6 +225,7 @@
 - Command to start PostgreSQL database cluster manually
 
 		sudo pg_ctlcluster 9.4 main start
+
 - [dba.stackexchange.com: Restore PostgreSQL database (or db names) to new version, from files?](http://dba.stackexchange.com/questions/124093/restore-postgresql-database-or-db-names-to-new-version-from-files)
 - [Node, Postgres, MassiveJS - a Better Database Experience](http://www.craigkerstiens.com/2015/11/30/massive-node-postgres-an-overview-and-intro/)
 - [Postgres full-text search](http://blog.garage-coding.com/2015/12/18/postgres-fulltext-search.html)
