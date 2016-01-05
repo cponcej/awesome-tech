@@ -1,13 +1,15 @@
 **Table of Contents**
 <!-- MarkdownTOC -->
 
-- [IT Blogs and Forums](#it-blogs-and-forums)
-- [IT Spain Blogs](#it-spain-blogs)
-- [Support](#support)
+- [Miscellaneous](#miscellaneous)
+	- [IT Blogs and Forums](#it-blogs-and-forums)
+	- [IT Spain Blogs](#it-spain-blogs)
+	- [Support](#support)
 
 <!-- /MarkdownTOC -->
 
-# IT Blogs and Forums
+# Miscellaneous
+## IT Blogs and Forums
 - [ZDNet](http://www.zdnet.com/)
 - [DZone](https://dzone.com)
 - [The enterprisers project](https://enterprisersproject.com/)
@@ -16,7 +18,7 @@
 - [medium.com](https://medium.com)
 - [Tom's Guide: tech products reviews, top picks and How To](http://www.tomsguide.com/)
 
-# IT Spain Blogs
+## IT Spain Blogs
 - [javiergarzas.com](http://www.javiergarzas.com/)
 - [unpocodejava.wordpress.com](https://unpocodejava.wordpress.com/)
 - [jreypo.wordpress.com](https://jreypo.wordpress.com/)
@@ -27,6 +29,6 @@
 - [systemadmin.es](http://systemadmin.es/)
 - [muylinux.com](http://www.muylinux.com/)
 
-# Support
+## Support
 - [Stack Exchange](high-quality-tech-resources.md#stack-exchange-family-of-qa-websites)
 - [roguewave.com: 2015 Open Source Support Report](http://www.roguewave.com/programs/open-source-support-report)
