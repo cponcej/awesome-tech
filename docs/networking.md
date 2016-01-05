@@ -36,8 +36,8 @@
 
 >Desde Marzo 2013 existen dos categorías de SonicWALL 5th Generation firewall:
 
->a) TZ Series (gama baja) 
->b) NSA (gama media alta)
+>1. TZ Series (gama baja) 
+2. NSA (gama media alta)
 
 >Oferta de NSA 220 hasta finales de Abril 2015 con el mismo precio del TZ-215, a excepción del coste de renovación de licencias Level-7 firewall anuales (no tiene sentido adquirir un NGFW sin estas licencias). NSA 220 es la solución más económica dentro de su categoría, pero también una solución mucho más potente que el TZ-215 5th Generation.
 
