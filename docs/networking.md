@@ -2,7 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Networking](#networking)
-	- [Next Generation Firewalls](#next-generation-firewalls)
+	- [Next Generation Firewalls (NGFW)](#next-generation-firewalls-ngfw)
 		- [Dell SonicWall TZ Series 5th Generation. Spring 2014](#dell-sonicwall-tz-series-5th-generation-spring-2014)
 		- [Dell SonicWall TotalSecure and CGSS Bundles](#dell-sonicwall-totalsecure-and-cgss-bundles)
 		- [Dell SonicWall TZ Series 6th Generation](#dell-sonicwall-tz-series-6th-generation)
@@ -21,7 +21,7 @@
 
 
 # Networking
-## Next Generation Firewalls 
+## Next Generation Firewalls (NGFW)
 - [Firewalls.com](http://www.firewalls.com/)
 	- [youtube channel: Firewalls.com](https://www.youtube.com/user/firewallsDotCom)
 - [sonicwallonline.co.uk TZ Series](http://www.sonicwallonline.co.uk/ranges/TZ-Series/)
