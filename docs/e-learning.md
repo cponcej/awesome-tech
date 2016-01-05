@@ -50,7 +50,9 @@
 ## Free e-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)
 - [Flo-Joe: THE place on the web for Cambridge exam preparation](http://www.flo-joe.co.uk/)
+- [edx.org](https://www.edx.org)
 - [edX.org: English Grammar and Essay Writing, Berkeley](https://www.edx.org/course/english-grammar-essay-writing-uc-berkeleyx-colwri2-2x)
+- [edx.org: Implementing DHCP in Microsoft Windows Server](https://www.edx.org/course/implementing-dhcp-microsoft-windows-microsoft-inf201-31x)
 - [Coursera](http://coursera.org)
 - [Codecademy](https://www.codecademy.com)
 - [Udacity](https://www.udacity.com/)
