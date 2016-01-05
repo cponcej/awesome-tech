@@ -11,3 +11,6 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 ![global house prices economist](images/global-house-prices-economist.png)
 
 ![Should the Fed raise rates?](images/should-the-fed-raise-rates.png)
+
+![The Fed has at last raised rates. What happens next?](images/interest_rates.png)
+
