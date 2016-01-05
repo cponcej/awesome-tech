@@ -11,7 +11,9 @@
 	- [Big Data](#big-data)
 		- [Big Data Blogs](#big-data-blogs)
 		- [Data visualization: Tableau](#data-visualization-tableau)
-		- [Spark](#spark)
+		- [Apache Spark](#apache-spark)
+		- [Apache Storm distributed streaming processing engine. Kite SDK Morphlines configurable ETL engine](#apache-storm-distributed-streaming-processing-engine-kite-sdk-morphlines-configurable-etl-engine)
+		- [Pentaho Data Integration and Business Analytics Platforms](#pentaho-data-integration-and-business-analytics-platforms)
 	- [SQL](#sql)
 		- [SQL Blogs and Forums](#sql-blogs-and-forums)
 		- [SQL Docs](#sql-docs)
@@ -112,13 +114,19 @@
 ### Data visualization: Tableau
 - [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
 
-### Spark
+### Apache Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
 - [mapr.com: Getting Started with Apache Spark – free interactive Spark ebook ](https://www.mapr.com/ebooks/spark/)
 - [Spark Streaming: What Is It and Who’s Using It?](http://www.datanami.com/2015/11/30/spark-streaming-what-is-it-and-whos-using-it/)
 - [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 - [Apache Spark Interview Questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 - [PyData Seattle 2015 - youtube: Holden Karau: A brief introduction to Distributed Computing with PySpark](https://www.youtube.com/watch?v=bJouNc1REno)
+
+### Apache Storm distributed streaming processing engine. Kite SDK Morphlines configurable ETL engine
+- [javacodegeeks.com: Apache Storm and Kite SDK Morphlines. Building a configurable ETL distributed application](http://www.javacodegeeks.com/2016/01/configurable-etl-processing-using-apache-storm-kite-sdk-morphlines.html)
+
+### Pentaho Data Integration and Business Analytics Platforms
+- [Pentaho](http://www.pentaho.com/)
 
 ## SQL
 ### SQL Blogs and Forums

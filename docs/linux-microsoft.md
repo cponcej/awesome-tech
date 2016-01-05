@@ -60,8 +60,9 @@
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 
 ## Linux Commands
-- [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
+- [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
+- [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)
 	- [How to exclude directories while using rsync](http://supportex.net/2011/07/exceptions-copying-directory-rsync/)
 - [A curl cheat sheet](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
@@ -78,7 +79,7 @@
 - man pages on steroids with examples:
 	- [TLDR pages](http://tldr-pages.github.io/)
 	- [Bro pages](http://bropages.org/)
-- [cyberciti.biz: HowTo: Speedup ping and traceroute Command Responses under Linux / Unix](http://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-speedup-ping-traceroute-command-probs/)
+- [cyberciti.biz: HowTo: Speedup ping and traceroute Command Responses under Linux/Unix](http://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-speedup-ping-traceroute-command-probs/)
 - [cyberciti.biz: List All Environment Variables Command](http://www.cyberciti.biz/faq/linux-list-all-environment-variables-env-command/)
 - [cyberciti.biz: Backup & restore a partition table (including GPT) on Linux in case table get corrupted/modified/deleted by mistake](http://www.cyberciti.biz/faq/linux-backup-restore-a-partition-table-with-sfdisk-command/)
 - [ibm.com: Learn Linux, 101: Customize and use the shell environment](http://www.ibm.com/developerworks/linux/library/l-lpic1-105-1/index.html)
