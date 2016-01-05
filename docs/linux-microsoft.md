@@ -292,3 +292,4 @@
 # VMware
 - [VMware Front Experience](http://www.v-front.de/)
 	- [VMware launches vSphere 6 - What's in ESXi 6.0 for free license and white box users?](http://www.v-front.de/2015/02/whats-in-esxi-60-for-free-license-and.html)
+- [blogvmware.com](http://www.blogvmware.com/)
