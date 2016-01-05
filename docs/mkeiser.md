@@ -16,6 +16,10 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![An example of poor economics journalism](images/debt_britain.png)
 
-![OECD Data: Household disposable income](images/oecd_household_debt.png)
+![OECD Data: Household debt](images/oecd_household_debt.png)
+
+![OECD Data: Household disposable income](images/oecd_household_disposable_income.png)
+
+![OECD Data: Household spending](images/oecd_household_spending.png)
 
 [data.oecd.org](https://data.oecd.org)
