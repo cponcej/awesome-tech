@@ -91,6 +91,8 @@
 
 		perl -pe 's/(\d+)/ 1 + $1 /ge' input.txt
 
+- cp - u will only copy files that don't exist, or are newer than their existing counterparts, in the destination directory.
+
 ## Vim and Emacs
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 - [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
@@ -145,6 +147,8 @@
 - [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
 - [OpenShift Blog](https://blog.openshift.com)
 - [Red Hat Stack | An OpenStack Blog](http://redhatstackblog.redhat.com/)
+- [Open Studio](http://openstudio.redhat.com/)
+	- [Open Source stories. Telling stories about the open source way](http://www.redhat.com/en/open-source/stories)
 - [ossmentor.com](http://www.ossmentor.com)
 - [Fedora Magazine](http://fedoramagazine.org/)
 - [Red Hat Developer Blog](http://developerblog.redhat.com)

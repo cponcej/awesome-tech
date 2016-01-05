@@ -25,7 +25,7 @@
 		- [NoSQL](#nosql)
 			- [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
 			- [Redis, Coudhdb, and others](#redis-coudhdb-and-others)
-			- [Schema free SQL query on everything engines](#schema-free-sql-query-on-everything-engines)
+			- [Apache Drill. Schema free SQL query on everything engines](#apache-drill-schema-free-sql-query-on-everything-engines)
 		- [NewSQL](#newsql)
 
 <!-- /MarkdownTOC -->
@@ -121,6 +121,8 @@
 - [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 - [Apache Spark Interview Questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 - [PyData Seattle 2015 - youtube: Holden Karau: A brief introduction to Distributed Computing with PySpark](https://www.youtube.com/watch?v=bJouNc1REno)
+- [medium.com: How MapR improves our productivity and simplifies our design](https://medium.com/@anicolaspp/how-mapr-improves-our-productivity-and-simplify-our-design-2d777ab53120)
+- [svds.com Spark 1.6.0: Pivoting Data with DataFrames in SparkSQL](http://www.svds.com/pivoting-data-in-sparksql/)
 
 ### Apache Storm and Kite SDK Morphlines
 - Apache Storm is a distributed streaming processing engine
@@ -277,7 +279,7 @@
 - [HBase.apache.org](http://hbase.apache.org/)
 - [Hive.apache.org](https://hive.apache.org/)
 
-#### Schema free SQL query on everything engines
+#### Apache Drill. Schema free SQL query on everything engines
 - [Apache Drill](https://drill.apache.org/)
 - [dzone: SQL Syntax for Apache Drill](https://dzone.com/refcardz/sql-syntax-for-apache-drill)
 

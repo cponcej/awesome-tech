@@ -51,6 +51,7 @@
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
 - [reddit: Size of your AWS infrastructure and who manages it/how it's managed](https://www.reddit.com/r/aws/comments/277zli/size_of_your_aws_infrastructure_and_who_manages/)
 - [Disadvantages of Cloud Computing](http://cloudacademy.com/blog/disadvantages-of-cloud-computing/)
+- [forbes.com: The Unstoppable Rise Of Enterprise Data Clouds](http://www.forbes.com/sites/ciocentral/2015/12/17/the-unstoppable-rise-of-enterprise-data-clouds/)
 
 ## Cloud Pricing
 - [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)

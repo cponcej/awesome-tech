@@ -54,6 +54,9 @@
 - [slideshare.net: Debugging ansible modules](http://www.slideshare.net/aleonhardt/debugging-ansible-modules)
 - [Asset and lifecycle management using APIC-EM and Ansible.](https://communities.cisco.com/community/developer/blog/2015/12/17/asset-and-lifecycle-management-using-apic-em-and-ansible) Automate the collection of output from a series of 'show' commands from routers and switches
 - [Ansible: Top posts of 2015](http://www.ansible.com/blog/top-ansible-posts-of-2015)
+- [dzone: Introduction to Ansible Setup in Ubuntu 14.04 ](https://dzone.com/articles/ansible-setup-in-ubuntu-14o4-using-docker-with-ans)
+- [dzone: Ansible Introduction](https://dzone.com/articles/ansible-introduction)
+- [dzone: Environment Variables with Vagrant and Ansible.](https://dzone.com/articles/environment-variable-with-vagrant-and-ansible) How to configure Ansible and Vagrant to use a web proxy server.
 
 ### Ansible Support and Forums
 - [Ansible Support](https://support.ansible.com)
@@ -131,6 +134,7 @@
 
 ## SaltStack
 - [devopslibrary.com: Mastering SaltStack](http://devopslibrary.com/courses/mastering-saltstack/)
+- [Salt vs. Ansible](http://jensrantil.github.io/salt-vs-ansible.html)
 
 ## Docker
 ### Microservices
