@@ -168,8 +168,6 @@ En cuestión de semanas DELL actualizará los TZ series con la sexta generación
 - [Aruba Networks](http://www.arubanetworks.com)
 - [HP Acquires Aruba Networks to Create an Industry Leader in Enterprise Mobility](http://www8.hp.com/hpnext/posts/hp-announcement-march-2015)
 
-![passwords](images/passwords.jpg)
-
 ## WebPerf and Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
 	- [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
