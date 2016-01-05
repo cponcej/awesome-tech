@@ -147,8 +147,9 @@
 - [ibm.com: Microservices in action, Part 2: Containers and microservices — a perfect pair](http://www.ibm.com/developerworks/cloud/library/cl-bluemix-microservices-in-action-part-2-trs/index.html)
 
 ### Docker references
-- [Docker Official Images](https://github.com/docker-library/official-images)
-- [Docker Library](https://github.com/docker-library/)
+- [github.com: Docker Official Images](https://github.com/docker-library/official-images)
+- [docs.docker.com: Official Repositories on Docker Hub](https://docs.docker.com/docker-hub/official_repos/)
+- [github.com: Docker Library](https://github.com/docker-library/)
 - [Awesome Docker. A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
 - [medium.com: Review of @nigelpoulton's course on @Docker and #Containers](https://medium.com/@vinrandazzo/docker-and-containers-do-you-want-to-design-beautiful-apps-99ad61d82168#.yfeaa5iiu)
 - [DZone Refcard: Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
