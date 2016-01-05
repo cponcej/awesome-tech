@@ -22,4 +22,6 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![OECD Data: Household spending](images/oecd_household_spending.png)
 
+![OECD Data: Unemployment rate](images/oecd_unemployment_rate.png)
+
 [data.oecd.org](https://data.oecd.org)
