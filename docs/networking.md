@@ -3,7 +3,7 @@
 
 - [Networking](#networking)
 	- [Next Generation Firewalls (NGFW)](#next-generation-firewalls-ngfw)
-		- [Dell SonicWall TZ Series 5th Generation. Spring 2014](#dell-sonicwall-tz-series-5th-generation-spring-2014)
+		- [Dell SonicWall TZ Series 5th Generation. Escrito en primavera 2015](#dell-sonicwall-tz-series-5th-generation-escrito-en-primavera-2015)
 		- [Dell SonicWall TotalSecure and CGSS Bundles](#dell-sonicwall-totalsecure-and-cgss-bundles)
 		- [Dell SonicWall TZ Series 6th Generation](#dell-sonicwall-tz-series-6th-generation)
 	- [Switches](#switches)
@@ -29,17 +29,17 @@
 - [Cisco ASA 5500-X Series Firewalls](http://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/index.html)
 - [PaloAlto Firewall Platforms](https://paloaltonetworks.com/products/platforms/firewalls.html)
 
-### Dell SonicWall TZ Series 5th Generation. Spring 2014
+### Dell SonicWall TZ Series 5th Generation. Escrito en primavera 2015
 Una característica muy conveniente de los NGFW es la de "3G/4G Modem Failover", que junto al balanceo de varias conexiones simultáneas WAN nos garantiza una conexión permanente a Internet de alta disponibilidad. No olvidemos el punto crítico para nuestro negocio que supone la conexión a Internet con el auge de VoIP IP-PBX (en la nube ó alojado en nuestra infraestructura), donde una caída de Internet puede suponer la incomunicación telefónica del negocio. En cualquier caso existen en el mercados productos balanceadores WAN/ADSL expécíficos con 3G/4G failover, como por ejemplo los balanceadores "Peplink Balance" (http://www.wifisafe.com/balanceadores-adsl.html)
 
 Del mismo modo, SonicWALL integra otras interesantes funcionalidades: proporciona el antivirus de escritorio mediante un enlace de descarga además del incluído en el mismo Gateway, evitando así la compra de un antivirus comercial de escritorio.
 
-Existen dos categoría de SonicWALL 5th Generation firewall (Marzo 2013):
+Desde Marzo 2013 existen dos categorías de SonicWALL 5th Generation firewall:
 
 a) TZ Series (gama baja) 
 b) NSA (gama media alta)
 
-Oferta de NSA 220 hasta finales de Abril 2014 con el mismo precio del TZ-215, a excepción del coste de renovación de licencias Level-7 firewall anuales (no tiene sentido adquirir un NGFW sin estas licencias). NSA 220 es la solución más económica dentro de su categoría, pero también una solución mucho más potente que el TZ-215 5th Generation.
+Oferta de NSA 220 hasta finales de Abril 2015 con el mismo precio del TZ-215, a excepción del coste de renovación de licencias Level-7 firewall anuales (no tiene sentido adquirir un NGFW sin estas licencias). NSA 220 es la solución más económica dentro de su categoría, pero también una solución mucho más potente que el TZ-215 5th Generation.
 
 Dentro de la categoría TZ series, los dos más pequeños TZ-105 y TZ-205 serían apropiados para empresas de no más de 25 empleados. El TZ-215 5th Generation actual resulta conveniente para empresas de hasta 50 empleados siempre y cuando sus 60Mbps Full DPI throughput sean suficientes para nuestra planificación a cuatro años vista. Otra ventaja de los TZ Series es que incluyen Wifi-N, lo cual puede ser de interés para algunas pymes. En cambio nos puede interesar un NSA 220 no sólo por su mayor DPI throughput (muchas amenazas de seguridad actuales vienen encriptadas en el tráfico SSL), sino también por buscar una solución NGFW sin Wifi a ubicar dentro de nuestro Server Room. Mi último cliente tenía el Server Room junto al comedor con sus dos microondas -> interferencias. Un Wifi AP podemos colocarlo donde mejor nos convenga dentro de la oficina. Las soluciones WIFI AP de Dell SonicPoint no parece ser las más populares entre los expertos, existiendo productos WIFI AP más reconocidos como los de Aruba Networks ó Ubiquiti Networks.
 
@@ -52,7 +52,7 @@ En cuestión de semanas DELL actualizará los TZ series con la sexta generación
 - [SonicWALL Comprehensive Gateway Security Suite bundle](http://www.sonicwall.com/es/es/products/Network-Security-Comprehensive-Gateway-Security-Suite.html)
 
 ### Dell SonicWall TZ Series 6th Generation
-- Compliant with new Enterprise Broadband Internet Connections (300 & 500Mbps)
+- Available since April 2015. Compliant with new Enterprise Broadband Internet Connections (300 & 500Mbps)
 - [infinigate.dk: Dell SonicWALL PowerPoint Presentation](http://www.infinigate.dk/fileadmin/user_upload/CH/Events/ITSCR2015/DELL_SonicWALL1.pdf)
 - [storagereview.com: Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
 - [itpro.co.uk: Dell combines WiFi and firewall to fend off SMB cyber attacks](http://www.itpro.co.uk/firewalls/25042/dell-combines-wifi-and-firewall-to-fend-off-smb-cyber-attacks)
