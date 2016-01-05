@@ -260,6 +260,7 @@
 - [Red Hat Developer Blog. Tag: Varnish](https://developerblog.redhat.com/tag/varnish/)
 - [Red Hat Enterprise Linux Blog. Tag: Varnish](http://rhelblog.redhat.com/tag/varnish/)
 - [varnish-cache.org: Installation on RedHat](https://www.varnish-cache.org/installation/redhat)
+- [Hitch - scalable TLS proxy. Hitch is a libev-based high performance SSL/TLS proxy by Varnish Software](https://hitch-tls.org/)
 
 ## Red Hat Videos
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
