@@ -23,6 +23,7 @@
 # Networking
 ## Next Generation Firewalls 
 - [Firewalls.com](http://www.firewalls.com/)
+- [sonicwallonline.co.uk TZ Series](http://www.sonicwallonline.co.uk/ranges/TZ-Series/)
 - [Fortinet Fortigate](http://www.fortinet.com/products/fortigate/)
 - [Cisco ASA 5500-X Series Firewalls](http://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/index.html)
 - [PaloAlto Firewall Platforms](https://paloaltonetworks.com/products/platforms/firewalls.html)
@@ -50,7 +51,6 @@ En cuestión de semanas DELL actualizará los TZ series con la sexta generación
 - [SonicWALL Comprehensive Gateway Security Suite bundle](http://www.sonicwall.com/es/es/products/Network-Security-Comprehensive-Gateway-Security-Suite.html)
 
 ### Dell SonicWall 6th Generation
-- [sonicwallonline.co.uk TZ Series](http://www.sonicwallonline.co.uk/ranges/TZ-Series/)
 - Compliant with new Enterprise Broadband Internet Connections (300 & 500Mbps)
 - [infinigate.dk: Dell SonicWALL PowerPoint Presentation](http://www.infinigate.dk/fileadmin/user_upload/CH/Events/ITSCR2015/DELL_SonicWALL1.pdf)
 - [storagereview.com: Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
