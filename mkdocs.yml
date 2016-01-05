@@ -13,7 +13,7 @@ pages:
 - DevOps and ITIL: devops-itil.md
 - Software Development: sw-devel.md
 - Data Science and Big Data: data-science.md
-- Networking: networking.md
+- Networking. Firewalls, Network Forensics: networking.md
 - Servers, Storage and Backup: servers-storage-backup.md
 - Cloud: cloud.md
 - Desktop Tools and Presentations: desktop-tools.md
