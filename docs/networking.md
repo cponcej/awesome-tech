@@ -4,6 +4,7 @@
 - [Networking](#networking)
 	- [Next Generation Firewalls](#next-generation-firewalls)
 		- [Dell SonicWall 5th Generation. Spring 2014](#dell-sonicwall-5th-generation-spring-2014)
+		- [Dell SonicWall TotalSecure and CGSS Bundles](#dell-sonicwall-totalsecure-and-cgss-bundles)
 		- [Dell SonicWall 6th Generation](#dell-sonicwall-6th-generation)
 	- [Switches](#switches)
 	- [Network virtualization](#network-virtualization)
@@ -30,7 +31,7 @@ Una característica muy conveniente de los NGFW es la de "3G/4G Modem Failover",
 
 Del mismo modo, SonicWALL integra otras interesantes funcionalidades: proporciona el antivirus de escritorio mediante un enlace de descarga además del incluído en el mismo Gateway, evitando así la compra de un antivirus comercial de escritorio.
 
-Existen dos categoría de SonicWALL 5th Generation firewall (año 2013):
+Existen dos categoría de SonicWALL 5th Generation firewall (Marzo 2013):
 
 a) TZ Series (gama baja) 
 b) NSA (gama media alta)
@@ -43,6 +44,7 @@ Del NSA 220 con respecto al TZ 215 también nos puede interesar su mayor número
 
 En cuestión de semanas DELL actualizará los TZ series con la sexta generación de firewalls con mayor CPU, memoria, DPI throughput y SonicOS 6.2 (basado en CentOS). A tener en cuenta con las últimas novedades de fibra existente en el mercado con ofertas de 300Mbs y 500Mbs. Si disponemos de una conexión de fibra de 100Mbs ó superior, conviene un NSA220 en lugar del actual TZ-215 para hacer un mejor uso del ancho de banda y evitar cuellos de botella (mayor DPI throughput del primero: 110Mbps full throughput). Coste alrededor de 900€ primer año con TotalSecure Bundle + renovación de CGSS Bundle a partir del segundo año por ~300€ anuales según el minorista correspondiente. Renovación de equipo NGFW cada 4 años.
 
+### Dell SonicWall TotalSecure and CGSS Bundles
 - [SonicWALL TotalSecure bundle](http://www.sonicwall.com/es/es/products/Network-Security-TotalSecure.html)
 - [SonicWALL Comprehensive Gateway Security Suite bundle](http://www.sonicwall.com/es/es/products/Network-Security-Comprehensive-Gateway-Security-Suite.html)
 
