@@ -43,12 +43,11 @@ Del NSA 220 con respecto al TZ 215 también nos puede interesar su mayor número
 
 En cuestión de semanas DELL actualizará los TZ series con la sexta generación de firewalls con mayor CPU, memoria, DPI throughput y SonicOS 6.2 (basado en CentOS). A tener en cuenta con las últimas novedades de fibra existente en el mercado con ofertas de 300Mbs y 500Mbs. Si disponemos de una conexión de fibra de 100Mbs ó superior, conviene un NSA220 en lugar del actual TZ-215 para hacer un mejor uso del ancho de banda y evitar cuellos de botella (mayor DPI throughput del primero: 110Mbps full throughput). Coste alrededor de 900€ primer año con TotalSecure Bundle + renovación de CGSS Bundle a partir del segundo año por ~300€ anuales según el minorista correspondiente. Renovación de equipo NGFW cada 4 años.
 
-- http://www.sonicwall.com/es/es/products/Network-Security-TotalSecure.html 
-- http://www.sonicwall.com/es/es/products/Network-Security-Comprehensive-Gateway-Security-Suite.html
-- http://www.sonicwallonline.co.uk/ranges/TZ-Series/
-
+- [SonicWALL TotalSecure bundle](http://www.sonicwall.com/es/es/products/Network-Security-TotalSecure.html)
+- [SonicWALL Comprehensive Gateway Security Suite bundle](http://www.sonicwall.com/es/es/products/Network-Security-Comprehensive-Gateway-Security-Suite.html)
 
 ### Dell SonicWall 6th Generation
+- [sonicwallonline.co.uk TZ Series](http://www.sonicwallonline.co.uk/ranges/TZ-Series/)
 - Compliant with new Enterprise Broadband Internet Connections (300 & 500Mbps)
 - [infinigate.dk: Dell SonicWALL PowerPoint Presentation](http://www.infinigate.dk/fileadmin/user_upload/CH/Events/ITSCR2015/DELL_SonicWALL1.pdf)
 - [storagereview.com: Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
