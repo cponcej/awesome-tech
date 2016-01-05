@@ -24,4 +24,6 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![OECD Data: Unemployment rate](images/oecd_unemployment_rate.png)
 
+![OECD Data: Labour compensation per hour worked](images/oecd_labour_compensation_per_hour_worked.png)
+
 [data.oecd.org](https://data.oecd.org)
