@@ -14,3 +14,4 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![The Fed has at last raised rates. What happens next?](images/interest_rates.png)
 
+![An example of poor economics journalism](images/debt_britain.png)
