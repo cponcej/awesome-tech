@@ -3,9 +3,9 @@
 
 - [Networking](#networking)
 	- [Next Generation Firewalls](#next-generation-firewalls)
-		- [Dell SonicWall 5th Generation. Spring 2014](#dell-sonicwall-5th-generation-spring-2014)
+		- [Dell SonicWall TZ Series 5th Generation. Spring 2014](#dell-sonicwall-tz-series-5th-generation-spring-2014)
 		- [Dell SonicWall TotalSecure and CGSS Bundles](#dell-sonicwall-totalsecure-and-cgss-bundles)
-		- [Dell SonicWall 6th Generation](#dell-sonicwall-6th-generation)
+		- [Dell SonicWall TZ Series 6th Generation](#dell-sonicwall-tz-series-6th-generation)
 	- [Switches](#switches)
 	- [Network virtualization](#network-virtualization)
 	- [IPv6](#ipv6)
@@ -29,7 +29,7 @@
 - [Cisco ASA 5500-X Series Firewalls](http://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/index.html)
 - [PaloAlto Firewall Platforms](https://paloaltonetworks.com/products/platforms/firewalls.html)
 
-### Dell SonicWall 5th Generation. Spring 2014
+### Dell SonicWall TZ Series 5th Generation. Spring 2014
 Una característica muy conveniente de los NGFW es la de "3G/4G Modem Failover", que junto al balanceo de varias conexiones simultáneas WAN nos garantiza una conexión permanente a Internet de alta disponibilidad. No olvidemos el punto crítico para nuestro negocio que supone la conexión a Internet con el auge de VoIP IP-PBX (en la nube ó alojado en nuestra infraestructura), donde una caída de Internet puede suponer la incomunicación telefónica del negocio. En cualquier caso existen en el mercados productos balanceadores WAN/ADSL expécíficos con 3G/4G failover, como por ejemplo los balanceadores "Peplink Balance" (http://www.wifisafe.com/balanceadores-adsl.html)
 
 Del mismo modo, SonicWALL integra otras interesantes funcionalidades: proporciona el antivirus de escritorio mediante un enlace de descarga además del incluído en el mismo Gateway, evitando así la compra de un antivirus comercial de escritorio.
@@ -51,7 +51,7 @@ En cuestión de semanas DELL actualizará los TZ series con la sexta generación
 - [SonicWALL TotalSecure bundle](http://www.sonicwall.com/es/es/products/Network-Security-TotalSecure.html)
 - [SonicWALL Comprehensive Gateway Security Suite bundle](http://www.sonicwall.com/es/es/products/Network-Security-Comprehensive-Gateway-Security-Suite.html)
 
-### Dell SonicWall 6th Generation
+### Dell SonicWall TZ Series 6th Generation
 - Compliant with new Enterprise Broadband Internet Connections (300 & 500Mbps)
 - [infinigate.dk: Dell SonicWALL PowerPoint Presentation](http://www.infinigate.dk/fileadmin/user_upload/CH/Events/ITSCR2015/DELL_SonicWALL1.pdf)
 - [storagereview.com: Dell SonicWALL TZ500 Firewall Review](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
