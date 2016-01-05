@@ -2,7 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Linux](#linux)
-	- [Linux Blogs and Forums](#linux-blogs-and-forums)
+	- [Linux and FOSS Blogs and Forums](#linux-and-foss-blogs-and-forums)
 	- [Linux Commands](#linux-commands)
 	- [Vim and Emacs](#vim-and-emacs)
 	- [Apple OS X](#apple-os-x)
@@ -24,6 +24,7 @@
 		- [JBoss Data Virtualization](#jboss-data-virtualization)
 		- [JBoss Data Grid](#jboss-data-grid)
 	- [Red Hat Development](#red-hat-development)
+	- [Red Hat Varnish](#red-hat-varnish)
 	- [Red Hat Videos](#red-hat-videos)
 - [Microsoft](#microsoft)
 	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
@@ -34,8 +35,10 @@
 
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
+- [medium.com: I Moved to Linux and It’s Even Better Than I Expected](https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj)
 
-## Linux Blogs and Forums
+## Linux and FOSS Blogs and Forums
+- [FOSS Force](http://fossforce.com/)
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
@@ -163,12 +166,14 @@
 - [Apple Dumps VMware Licensing Agreement, Will Step Up Deployment Of Open-Source KVM Virtualization](http://www.crn.com/news/data-center/300078323/sources-apple-dumps-vmware-licensing-agreement-will-step-up-deployment-of-open-source-kvm-virtualization.htm)
 
 ## Red Hat OpenShift PaaS
+- [Enterprise OpenShift](https://enterprise.openshift.com/)
 - [OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes](http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/)
 	- [OpenShift Dedicated](https://www.openshift.com/dedicated/)
 	- [Red Hat OpenShift 3.1 Opens the Door for Both .NET and JBoss Middleware](http://thenewstack.io/openshift-3-1-opens-door-net-jboss-middleware/)
 	- [Red Hat quiere que su canal se vuelque en middleware y cloud](http://www.channelpartner.es/oportunidades-negocio/noticias/1079121002302/red-hat-quiere-canal-vuelque-middleware-cloud.1.html)
 - [Red Hat announces availability of containerized middleware capabilities on OpenShift](http://www.redhat.com/en/about/blog/red-hat-announces-availability-containerized-middleware-capabilities-openshift)
 	- [zdnet.com: Containers, OpenShift, and Middleware](http://www.zdnet.com/article/containers-openshift-and-middleware/)
+- [OpenShift 3.1 Log files for Pods](https://blog.openshift.com/openshift-3-1-log-files-for-pods/)
 
 ## Red Hat OpenStack
 - [RDO Project](https://www.rdoproject.org/)
@@ -249,6 +254,13 @@
 - [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 - [dzone.com: Red Hat Explores Node.js and Java Integration Options and Partners With Azure](https://dzone.com/articles/red-hat-explores-nodejs-and-java-integration-optio)
 
+## Red Hat Varnish
+- [Varnish Cache](https://www.varnish-cache.org/)
+- [fedoramagazine.org: Varnish: Your site faster and more stable](https://fedoramagazine.org/varnish-site-faster-stable/)
+- [Red Hat Developer Blog. Tag: Varnish](https://developerblog.redhat.com/tag/varnish/)
+- [Red Hat Enterprise Linux Blog. Tag: Varnish](http://rhelblog.redhat.com/tag/varnish/)
+- [varnish-cache.org: Installation on RedHat](https://www.varnish-cache.org/installation/redhat)
+
 ## Red Hat Videos
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
 - [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
@@ -264,6 +276,10 @@
 - [Windows Migration Best Practices and Resources from Dell & Microsoft](http://www.migrationexpertzone.com/)
 - [PowerShell Magazine](http://www.powershellmagazine.com/)
 - [PowerShell.org](http://powershell.org)
+- [deals.slashdot.org: Microsoft Certified Solutions Engineer: Server Infrastructure Bundle](https://deals.slashdot.org/sales/microsoft-certified-solutions-engineer-server-infrastructure-bundle)
+- [computerworld.com: Microsoft's new tally for Windows 10: 200M](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
+
+![number of running windows dec 2015](images/number_of_win10.jpg)
 
 ## Microsoft Monitoring and Management
 - [Spiceworks](http://www.spiceworks.com/)

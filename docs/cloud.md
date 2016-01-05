@@ -44,6 +44,7 @@
 - [Free online IDE and terminal:](http://www.tutorialspoint.com/codingground.htm) Languages and IDEs you can try online without installing anything
 
 ## Cloud references
+- [To Cloud Or Not To Cloud: That Is The Compliance Question](http://www.digitalistmag.com/resource-optimization/2016/01/04/cloud-or-not-cloud-compliance-03909159)
 - [The cloud wars explained: Why nobody can catch up with Amazon](http://www.businessinsider.com/why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10)
 	- ["If HP and Dell can't make a public cloud how will they provide private clouds to enterprises?"](http://www.nextplatform.com/2015/10/22/how-many-other-public-clouds-will-be-vaporized/)
 - [Sysadmincasts.com: Introduction to Amazon Web Services (AWS)](https://sysadmincasts.com/episodes/29-introduction-to-amazon-web-services-aws)
@@ -119,6 +120,7 @@
 - [New – Encrypted EBS Boot Volumes](https://aws.amazon.com/es/blogs/aws/new-encrypted-ebs-boot-volumes)
 - [Now Add or Modify Request Headers Forwarded From Amazon CloudFront to Origin](https://aws.amazon.com/about-aws/whats-new/2015/12/now-add-or-modify-request-headers-forwarded-from-amazon-cloudfront-to-origin/)
 - [AWS CloudFormation Adds Support for AWS WAF and AWS Directory Service for Microsoft Active Directory](https://aws.amazon.com/es/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-waf-and-aws-directory-service-for-microsoft-active-directory/)
+- [Amazon WorkMail – Now Generally Available](https://aws.amazon.com/es/blogs/aws/amazon-workmail-now-generally-available/)
 
 ### AWS DevOps
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)

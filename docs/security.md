@@ -20,6 +20,7 @@
 - [Sucuri Blog](https://blog.sucuri.net/)
 - [Blackmoreops.com](http://blackmoreops.com)
 - [Dark Reading](http://www.darkreading.com/)
+- [Guido Vranken](https://guidovranken.wordpress.com/)
 
 ## Security Toolkits
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
@@ -52,6 +53,7 @@
 - [Apache Syncope, Open Source Identity Management software](http://syncope.apache.org/)
 - [Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management](http://shiro.apache.org/)
 - [Open source identity management 20121106 - apache con eu](http://www.slideshare.net/ilgrosso/open-source-identity-management-20121106-apache-con-eu)
+- [community.dell.com: Is there anything that is a bigger waste of IT time than password resets?](http://en.community.dell.com/techcenter/iam/b/weblog/archive/2015/07/06/when-it-comes-to-iam-the-simple-things-can-ruin-your-day)
 
 ## Application Security: Web App Firewall. Blocking bots
 - [dzone.com - The 2015 DZone Guide to Application Security](http://bit.ly/1RksReA)
@@ -92,5 +94,6 @@
 	- [Red Hat security blog: Frequently Asked Questions about the Shellshock Bash flaws](https://securityblog.redhat.com/2014/09/26/frequently-asked-questions-about-the-shellshock-bash-flaws/)
 - [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
 - [PuTTY vulnerability vuln-ech-overflow](http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-ech-overflow.html)
+- [guidovranken.wordpress.com: HTTPS Bicycle Attack](https://guidovranken.wordpress.com/2015/12/30/https-bicycle-attack/)
 
 ![intrusion response procedures](images/intrusion_response_procedures.png)

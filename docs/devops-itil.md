@@ -171,6 +171,7 @@
 - [Why use Sensu?](http://www.rampmeupscotty.com/blog/2013/01/20/why-use-sensu/)
 	- [Sensu monitoring](https://sensuapp.org/)
 - [StatsD: Simple daemon for easy stats aggregation](https://github.com/etsy/statsd/)
+	- [github.com: An addon for Eve. Eve-Statsd automatically monitors active domains/resources, sending "Hit Counters" and "Timers" to your statsd instance](https://github.com/tarzan0820/eve-statsd)
 - [munin monitoring](http://munin-monitoring.org/)
 - [OMD - The Open Monitoring Distribution](http://omdistro.org/)
 - Zabbix:

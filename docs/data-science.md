@@ -62,6 +62,10 @@
 - [Python: The Next Big Thing in Big Data](https://dzone.com/articles/python-the-next-big-thing-in-big-data)
 - [The State of Python for Data Science, PySS 2015](https://speakerdeck.com/chdoig/the-state-of-python-for-data-science-pyss-2015)
 - [Continuum analytics videos](https://www.continuum.io/content/videos)
+- [Continuum analytics youtube channel](https://www.youtube.com/channel/UCND4vKhJssAtK8p1Blfj14Q)
+- [Continuum analytics youtube channel conference talks 2015](https://www.youtube.com/channel/UCND4vKhJssAtK8p1Blfj14Q/playlists)
+- [PyData youtube channel](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
+- [PyCon 2015 youtube channel](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ)
 - [PyData NYC 2015. See talks on Anaconda, Bokeh, pandas, and more. Travis Oliphant & Peter Wang (Keynote): Python as the Zen of Data Science](https://youtu.be/mNvPiV37F7Q?list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
 	- [Slide: Python as the Zen of Data Science](http://www.slideshare.net/teoliphant/python-as-the-zen-of-data-science)
 	- [Continuum Analytics' Peter Wang on the State of Analytics](https://youtu.be/Xb5r_495_-k)
@@ -85,6 +89,7 @@
 - [Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science](https://zeppelin.incubator.apache.org/)
 
 ## Big Data
+- [whatsthebigdata.com: History of Databases (Infographic)](http://whatsthebigdata.com/2016/01/04/history-of-databases-infographic/)
 - [Big data is simply another name for complicated business intelligence: New visualization tools like Tableau, Clearstory, and Domo aims to unlock enterprise data for a broader audience than before](http://www.infoworld.com/article/2868007/big-data/big-data-is-just-another-name-for-complicated-business-intelligence.html)
 - [dzone.com The DZone Guide to Big Data, Business Intelligence and Analytics, 2015 Edition](http://bit.ly/1MHcFT4)
 - [Don't use Hadoop - your data isn't that big](https://www.reddit.com/r/programming/comments/1mkvhs/dont_use_hadoop_your_data_isnt_that_big/)
@@ -101,6 +106,7 @@
 
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)
+- [What's The Big Data?](http://whatsthebigdata.com/)
 - [Data Science Central - the online resource for big data practitioners](http://www.datasciencecentral.com)
 
 ### Data visualization: Tableau
@@ -146,6 +152,7 @@
 	- [essentialsql.com: How can I find Duplicate Values in SQL Server?](http://www.essentialsql.com/how-can-i-find-duplicate-values-in-sql-server/)
 	- [essentialsql.com: Commonly used SQL Server Data Types](http://www.essentialsql.com/commonly-used-sql-server-data-types/)
 	- [essentialsql.com: Using Conditional Logic in SQL with CASE Expression](http://www.essentialsql.com/using-conditional-logic-in-sql-with-case-expression/)
+	- [essentialsql.com: Get Ready to Learn SQL: 11. Database Third Normal Form Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-11-database-third-normal-form-explained-in-simple-english/)
 	- [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [SQL in ten minutes](http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes)
 - [10 sql tips to speed up your database](http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database)

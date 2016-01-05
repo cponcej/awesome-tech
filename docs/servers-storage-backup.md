@@ -82,5 +82,6 @@
 	- [Announcing: Veeam Backup for Linux](https://www.veeam.com/blog/announcing-linux-server-backup.html)
 - [Vembu Online Backup supports Amazon Glacier](https://www.vembu.com/blog/vembu-supports-amazon-glacier)
 - [tecmint.com: Amanda – An Advanced Automatic Network Backup Tool For Linux](http://www.tecmint.com/amanda-an-advanced-automatic-network-backup-tool-for-linux/)
+- [sqlbackupandftp.com: Sql Backup and FTP. SQL Server backups. Efforless](http://sqlbackupandftp.com)
 
 ![veeam logo](images/veeam-logo.jpg)

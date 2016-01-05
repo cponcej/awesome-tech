@@ -12,6 +12,7 @@
 - [DZone](https://dzone.com)
 - [The enterprisers project](https://enterprisersproject.com/)
 - [enterprisetech.com](http://www.enterprisetech.com/)
+- [Digitalist magazine](http://www.digitalistmag.com/)
 - [medium.com](https://medium.com)
 - [Tom's Guide: tech products reviews, top picks and How To](http://www.tomsguide.com/)
 
@@ -20,6 +21,7 @@
 - [unpocodejava.wordpress.com](https://unpocodejava.wordpress.com/)
 - [jreypo.wordpress.com](https://jreypo.wordpress.com/)
 - [dbigcloud.com](http://www.dbigcloud.com/)
+- [Aprendiendo a virtualizar](http://aprendiendoavirtualizar.com/)
 - [A un clic de las TIC](http://www.aunclicdelastic.com/)
 - [systemadmin.es](http://systemadmin.es/)
 - [muylinux.com](http://www.muylinux.com/)

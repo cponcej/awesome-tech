@@ -19,6 +19,7 @@
 		- [Python docs](#python-docs)
 	- [Python and AWS](#python-and-aws)
 	- [Java](#java)
+	- [Swift](#swift)
 	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
 		- [JSON](#json)
 	- [QA. Software Testing](#qa-software-testing)
@@ -33,6 +34,8 @@
 - [blog.udacity.com: The Real Cost of Change in Software Development](http://www.javacodegeeks.com/2013/09/the-real-cost-of-change-in-software-development.html)
 - [blog.udacity.com: How You Can Stand Out in Your Next Web Developer Interview](http://blog.udacity.com/2015/01/how-to-stand-out-in-your-web-developer-interview.html)
 - [20 Java and Programming Quotes to Motivate Yourself](http://www.javacodegeeks.com/2015/12/20-java-programming-quotes-motivate.html)
+- [javacodegeeks.com: Significant Software Development Developments of 2015](http://www.javacodegeeks.com/2016/01/significant-software-development-developments-2015.html)
+- [12 Most Influential Books Every Software Engineer Needs to Read](http://jasonroell.com/2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/)
 
 ## Blogs and Forums
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
@@ -212,6 +215,9 @@
 
 ![developer python java](images/developer-python-java.png)
 
+## Swift
+- [medium.com: 100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.2onig73ur)
+
 ## Front-end: HTML5, javascript/node.js
 - [medium.com/javascript-scene: Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467)
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
@@ -229,6 +235,7 @@
 - [github: Javascript Tips – A JavaScript Tip per Day](https://github.com/loverajoel/jstips)
 - [webcodegeeks.com: JavaScript Sort Array Example](http://www.webcodegeeks.com/javascript/javascript-sort-array-example)
 - [Exploring Async Techniques in JavaScript](https://github.com/thalesmello/exploring-async/blob/master/exploring_async.md)
+- [webcodegeeks.com: Top 10 Major Advantages of HTML5](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
 
 ### JSON
 - [json.org](http://json.org/)
