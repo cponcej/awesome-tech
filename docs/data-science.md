@@ -12,7 +12,7 @@
 		- [Big Data Blogs](#big-data-blogs)
 		- [Data visualization: Tableau](#data-visualization-tableau)
 		- [Apache Spark](#apache-spark)
-		- [Apache Storm distributed streaming processing engine. Kite SDK Morphlines configurable ETL engine](#apache-storm-distributed-streaming-processing-engine-kite-sdk-morphlines-configurable-etl-engine)
+		- [Apache Storm and Kite SDK Morphlines configurable ETL](#apache-storm-and-kite-sdk-morphlines-configurable-etl)
 		- [Pentaho Data Integration and Business Analytics Platforms](#pentaho-data-integration-and-business-analytics-platforms)
 	- [SQL](#sql)
 		- [SQL Blogs and Forums](#sql-blogs-and-forums)
@@ -122,7 +122,9 @@
 - [Apache Spark Interview Questions](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 - [PyData Seattle 2015 - youtube: Holden Karau: A brief introduction to Distributed Computing with PySpark](https://www.youtube.com/watch?v=bJouNc1REno)
 
-### Apache Storm distributed streaming processing engine. Kite SDK Morphlines configurable ETL engine
+### Apache Storm and Kite SDK Morphlines configurable ETL
+- Apache Storm is a distributed streaming processing engine
+- Kite SDK Morphlines is a configurable ETL engine
 - [javacodegeeks.com: Apache Storm and Kite SDK Morphlines. Building a configurable ETL distributed application](http://www.javacodegeeks.com/2016/01/configurable-etl-processing-using-apache-storm-kite-sdk-morphlines.html)
 
 ### Pentaho Data Integration and Business Analytics Platforms
