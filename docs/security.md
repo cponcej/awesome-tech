@@ -21,6 +21,7 @@
 - [Blackmoreops.com](http://blackmoreops.com)
 - [Dark Reading](http://www.darkreading.com/)
 - [Guido Vranken](https://guidovranken.wordpress.com/)
+- [youtube playlist: Dell Security](https://www.youtube.com/playlist?list=PLtVMPnH0I8TSLxGad4D9UGr12S1SH3kcM)
 
 ## Security Toolkits
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
