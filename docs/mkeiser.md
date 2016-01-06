@@ -26,9 +26,13 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![OECD Data: Labour compensation per hour worked](images/oecd_labour_compensation_per_hour_worked.png)
 
-![OECD Data: OECD Long-term interest rates](images/oecd_long_term_interest_rates.png)
+![OECD Data: Long-term interest rates](images/oecd_long_term_interest_rates.png)
 
-![OECD Data: OECD Short-term interest rates](images/oecd_short_term_interest_rates.png)
+![OECD Data: hort-term interest rates](images/oecd_short_term_interest_rates.png)
+
+![OECD Data: Gross domestic spending on R&D](images/oecd_gross_domestic_spending_R&D.png)
+
+![OECD Data: Researchers](images/oecd_researchers.png)
 
 - [data.oecd.org](https://data.oecd.org)
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
