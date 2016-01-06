@@ -115,6 +115,7 @@
 - [en.wikibooks.org: Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
 - [Bash For Loop Examples](http://www.cyberciti.biz/faq/bash-for-loop/)
 - [My 10 UNIX Command Line Mistakes](http://www.cyberciti.biz/tips/my-10-unix-command-line-mistakes.html)
+- [CVE-2015-7755: Juniper ScreenOS Authentication Backdoor](https://community.rapid7.com/community/infosec/blog/2015/12/20/cve-2015-7755-juniper-screenos-authentication-backdoor)
 - [On the Juniper backdoor](http://blog.cryptographyengineering.com/2015/12/on-juniper-backdoor.html)
 - [Linux: 25 PHP Security Best Practices For Sys Admins](http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html)
 - [Linux: Use smartctl To Check Disk Behind Adaptec RAID Controllers](http://www.cyberciti.biz/faq/linux-checking-sas-sata-disks-behind-adaptec-raid-controllers/)
@@ -129,6 +130,7 @@
 - [howtoforge.com: How to install ProFTPd with TLS support on Ubuntu 15.10](https://www.howtoforge.com/tutorial/install-proftpd-with-tls-on-ubuntu-15-10/)
 - [Understanding Linux/UNIX tr command](http://www.cyberciti.biz/faq/how-to-use-linux-unix-tr-command/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
+- [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
 
 ### Linux Commands Examples
 - Want to increments all numbers in input.txt? 
@@ -194,6 +196,10 @@
 - Is my HTTPD using Gzip?
 
 		curl -sILH 'Accept-Encoding: gzip,deflate' http://cyberciti.biz | grep Content-Encoding
+
+- [Want to list all iptables rules with line numbers? Try](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
+
+		iptables -L -n -v --line-numbers
 
 ![largest open files](images/largest_open_files.png)
 
