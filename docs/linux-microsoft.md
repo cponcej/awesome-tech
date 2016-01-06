@@ -271,7 +271,7 @@
 	- [Quick HOWTO : Ch04 : Simple Network Troubleshooting](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting)
 	- [Quick HOWTO : Ch04 : Simple Network Troubleshooting : Using MTR To Detect Network Congestion](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting#Using_MTR_To_Detect_Network_Congestion)
 - [dropwatch: a monitoring utility that monitors packets dropped by the kernel](http://prefetch.net/blog/index.php/2011/07/11/using-netstat-and-dropwatch-to-observe-packet-loss-on-linux-servers/)
-- [Angry IP Scanner (or simply ipscan)](http://angryip.org/)
+- [Angry IP Scanner (or simply ipscan)](http://angryip.org/) Alternative to Nmap and cross-platform
 - [observium.org: Network monitoring with intuition](http://www.observium.org/)
 
 # Red Hat
