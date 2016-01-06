@@ -17,10 +17,11 @@
 	- [Python](#python)
 		- [Python Blogs and Forums](#python-blogs-and-forums)
 		- [Python docs](#python-docs)
-		- [Python pip's wheel](#python-pips-wheel)
+		- [Python Django](#python-django)
+		- [Python Flask](#python-flask)
+		- [Python pip and pip's wheel](#python-pip-and-pips-wheel)
 		- [Python Feature Flags](#python-feature-flags)
-		- [Python unit testing](#python-unit-testing)
-		- [Python Flask two factor authentication](#python-flask-two-factor-authentication)
+		- [Python testing](#python-testing)
 		- [Python Pandas and pivot tables](#python-pandas-and-pivot-tables)
 	- [Python and AWS](#python-and-aws)
 	- [Java](#java)
@@ -168,23 +169,6 @@
 	- [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
 - [15 Essential Python Interview Questions](https://www.codementor.io/python/tutorial/essential-python-interview-questions)
 	- [Python mini-quiz](http://www.mypythonquiz.com/)
-- [Testing Python](http://it-ebooks.info/book/3778/)
-	- [Profiling Python using cProfile: a concrete case](https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara)
-	- [nylas.com: Profiling Python in Production](https://nylas.com/blog/performance) How We Reduced CPU Usage by 80% through Python Profiling 
-	- [gabbi - Declarative HTTP testing library pypi](http://pypi.python.org/pypi/gabbi/)
-- [Learn Python Django in 4 Hours](https://dzone.com/articles/learn-python-django-in-4-hours)
-	- [realpython.com: Django Development With Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
-	- [realpython.com: Fun With Django's New Postgres Features](https://realpython.com/blog/python/fun-with-djangos-new-postgres-features/)
-	- [realpython.com: Deploying a Django App to AWS Elastic Beanstalk](https://realpython.com/blog/python/deploying-a-django-app-to-aws-elastic-beanstalk/)
-	- [TaskBuster Django Tutorial, made with Django 1.8 and Python 3](http://www.marinamele.com/taskbuster-django-tutorial)
-	- [TDD with Django, from scratch: a beginner's intro to testing and web development](http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
-	- [Cómo crear un servicio REST en 30 líneas de código de Django y Python](http://www.genbetadev.com/desarrolloparastartups/como-crear-un-servicio-rest-en-30-lineas-de-codigo-de-django-y-python)
-	- [Django Development With Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
-	- [Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian](http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/)
-	- [realpython.com: Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/blog/python/development-and-deployment-of-cookiecutter-django-via-docker/) A Cookiecutter template for creating production-ready Django projects quickly.
-	- [github.com: Django app + RESTful API for automatic billing](https://github.com/presslabs/silver/)
-- [The Flask Mega-Tutorial: Now with Python 3 Support](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
-- [realpython.com: Discover Flask, Part 1 - Setting Up a Static Site ](https://realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site/)
 - [How do you handle the ORM problem? When do you say YES or NO to using ORM?](http://www.vertabelo.com/blog/technical-articles/orms-under-the-hood)
 - [Don't Make Us Say We Told You So: virtualenv for New Pythonistas](http://pyvideo.org/video/3460/dont-make-us-say-we-told-you-so-virtualenv-for)
 - [Java Vs. Python - Which Programming Language is More Productive? - Infographic](http://blogs.perceptionsystem.com/infographic/java-vs-python-programming-language-productive)
@@ -198,7 +182,25 @@
 - [How To Deadlock Your Python With getaddrinfo()](https://emptysqua.re/blog/getaddrinfo-deadlock/)
 - [New String Formatting in Python 3.6](https://zerokspot.com/weblog/2015/12/31/new-string-formatting-in-python/)
 
-### Python pip's wheel
+### Python Django
+- [Learn Python Django in 4 Hours](https://dzone.com/articles/learn-python-django-in-4-hours)
+- [realpython.com: Django Development With Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+- [realpython.com: Fun With Django's New Postgres Features](https://realpython.com/blog/python/fun-with-djangos-new-postgres-features/)
+- [realpython.com: Deploying a Django App to AWS Elastic Beanstalk](https://realpython.com/blog/python/deploying-a-django-app-to-aws-elastic-beanstalk/)
+- [TaskBuster Django Tutorial, made with Django 1.8 and Python 3](http://www.marinamele.com/taskbuster-django-tutorial)
+- [TDD with Django, from scratch: a beginner's intro to testing and web development](http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
+- [Cómo crear un servicio REST en 30 líneas de código de Django y Python](http://www.genbetadev.com/desarrolloparastartups/como-crear-un-servicio-rest-en-30-lineas-de-codigo-de-django-y-python)
+- [Django Development With Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+- [Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian](http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/)
+- [realpython.com: Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/blog/python/development-and-deployment-of-cookiecutter-django-via-docker/) A Cookiecutter template for creating production-ready Django projects quickly.
+- [github.com: Django app + RESTful API for automatic billing](https://github.com/presslabs/silver/)
+
+### Python Flask 
+- [The Flask Mega-Tutorial: Now with Python 3 Support](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
+- [realpython.com: Discover Flask, Part 1 - Setting Up a Static Site ](https://realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site/)
+- [Two-Factor Authentication with Authy](https://www.twilio.com/docs/tutorials/walkthrough/two-factor-authentication/python/flask)
+
+### Python pip and pip's wheel
 - [wheel replaces Python's eggs](https://wheel.readthedocs.org)
 - [Speed up pip install](http://blog.ionelmc.ro/2015/01/02/speedup-pip-install/)
 
@@ -206,11 +208,12 @@
 - [Python Feature Flag Resources/Solutions](http://featureflags.io/python-feature-flags/)
 - [reddit: Ship Better Python Using Feature Flags](https://www.reddit.com/r/Python/comments/3zl3g4/ship_better_python_using_feature_flags/)
 
-### Python unit testing
+### Python testing
 - [reddit: Real examples of unit testing](https://www.reddit.com/r/learnpython/comments/3zl0p6/real_examples_of_unit_testing/)
-
-### Python Flask two factor authentication
-- [Two-Factor Authentication with Authy](https://www.twilio.com/docs/tutorials/walkthrough/two-factor-authentication/python/flask)
+- [Testing Python](http://it-ebooks.info/book/3778/)
+- [Profiling Python using cProfile: a concrete case](https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara)
+- [nylas.com: Profiling Python in Production](https://nylas.com/blog/performance) How We Reduced CPU Usage by 80% through Python Profiling 
+- [gabbi - Declarative HTTP testing library pypi](http://pypi.python.org/pypi/gabbi/)
 
 ### Python Pandas and pivot tables
 - [oreilly.com: how to use pivot tables in Pandas step-by-step](https://www.oreilly.com/learning/pivot-tables)
