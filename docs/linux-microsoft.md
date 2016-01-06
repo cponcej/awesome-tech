@@ -392,6 +392,7 @@
 - [PowerShell.org](http://powershell.org)
 - [deals.slashdot.org: Microsoft Certified Solutions Engineer: Server Infrastructure Bundle](https://deals.slashdot.org/sales/microsoft-certified-solutions-engineer-server-infrastructure-bundle)
 - [computerworld.com: Microsoft's new tally for Windows 10: 200M](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
+- [It's time to accept the reality of device diversity. 9 tips for mobilizing your Microsoft investment](https://media.good.com/documents/ts-9-tips-for-mobilizing.pdf)
 
 ![number of running windows dec 2015](images/number_of_win10.jpg)
 
@@ -400,7 +401,6 @@
 	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
 	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
 - [Unofficial Spiceworks. Spiceworks news and reviews from the underground...](http://www.unofficialspiceworks.com/)
-- [It's time to accept the reality of device diversity. 9 tips for mobilizing your Microsoft investment](https://media.good.com/documents/ts-9-tips-for-mobilizing.pdf)
 
 ![spiceworks](images/spiceworks-logo.png)
 
