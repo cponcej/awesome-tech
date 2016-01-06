@@ -22,6 +22,7 @@
 - [Dark Reading](http://www.darkreading.com/)
 - [Guido Vranken](https://guidovranken.wordpress.com/)
 - [youtube playlist: Dell Security](https://www.youtube.com/playlist?list=PLtVMPnH0I8TSLxGad4D9UGr12S1SH3kcM)
+- [blog.cryptographyengineering.com](http://blog.cryptographyengineering.com/)
 
 ## Security Toolkits
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
@@ -30,6 +31,8 @@
 - [Network Security Toolkit](http://www.networksecuritytoolkit.org)
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
 
+![firewalls](images/firewalls.png)
+
 ## Antivirus
 - [Bitdefender](http://www.bitdefender.com)
 - [GData](https://www.gdatasoftware.com/)
@@ -37,6 +40,9 @@
 - [Independent Tests of Antivirus Software](http://www.av-comparatives.org/)
 - [wikipedia: Comparison of antivirus software](https://en.wikipedia.org/wiki/Comparison_of_antivirus_software)
 - [tomsguide.com: Best Antivirus Software and Apps 2016](http://www.tomsguide.com/us/best-antivirus,review-2588.html)
+- [Here is the 2015 list of the top 50 software products in order of total distinct vulnerabilities](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
+
+![software with most vulnerabilities](images/software_with_most_vulnerabilities.png)
 
 ## Database encryption
 - [Wikipedia: Database encryption](https://en.wikipedia.org/wiki/Database_encryption)

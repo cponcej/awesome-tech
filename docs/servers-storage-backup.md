@@ -85,3 +85,5 @@
 - [sqlbackupandftp.com: Sql Backup and FTP. SQL Server backups. Efforless](http://sqlbackupandftp.com)
 
 ![veeam logo](images/veeam-logo.jpg)
+
+![backup condition](images/backup_condition.png)

@@ -188,6 +188,8 @@
 - [Datazenit Web-based database administration tool for MySQL and PostgreSQL](https://datazenit.com)
 - [javacodegeeks.com: The 10 Most Popular DB Engines (SQL and NoSQL)](http://www.javacodegeeks.com/2013/10/the-10-most-popular-db-engines-sql-and-nosql.html)
 
+![mixing indexes](images/mixing_indexes.jpg)
+
 #### Database Version Control
 - [dzone.com: The Definitive Guide to Database Version Control — Part 6](https://dzone.com/articles/the-definitive-guide-to-database-version-control-p-7)
 

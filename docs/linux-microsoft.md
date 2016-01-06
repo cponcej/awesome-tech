@@ -3,7 +3,8 @@
 
 - [Linux](#linux)
 	- [Linux and FOSS Blogs and Forums](#linux-and-foss-blogs-and-forums)
-	- [Linux Commands](#linux-commands)
+	- [Linux CLI References](#linux-cli-references)
+		- [Linux Commands Examples](#linux-commands-examples)
 	- [Vim and Emacs](#vim-and-emacs)
 	- [Apple OS X](#apple-os-x)
 	- [Linux Performance](#linux-performance)
@@ -36,6 +37,7 @@
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 - [medium.com: I Moved to Linux and It’s Even Better Than I Expected](https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj)
+- [Predictably, it is hard to make money from something that is free. That includes Linux](http://www.theworldin.com/article/12077/what-next-linux) Only one Linux company has made it big: Red Hat, which is expected to take about  $2 billion in its 2015 financial year, mostly by selling support services to users of the operating system and other open-source programs. The main beneficiaries of such software have been operators of huge data centres, such as Amazon, Facebook and Google, which wouldn’t be able to offer cheap cloud-computing services if they had to pay for the software.
 
 ## Linux and FOSS Blogs and Forums
 - [FOSS Force](http://fossforce.com/)
@@ -59,7 +61,7 @@
 - [Linoxide.com](http://linoxide.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 
-## Linux Commands
+## Linux CLI References
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
 - [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
@@ -87,11 +89,108 @@
 - [How to delete a single command from history on a Linux, OS X and Unix Bash shell](http://www.cyberciti.biz/faq/delete-command-from-history-linux-unix-osx-bash-shell/)
 - [tecmint.com: 29 Practical Examples of Nmap Commands for Linux System/Network Administrators](http://www.tecmint.com/nmap-command-examples/)
 - [How to change system’s hostname on HP-UX Unix system](http://www.cyberciti.biz/faq/hp-ux-change-systems-hostname-command/)
+- [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
+- [How To Install Speedtest-cli On a CentOS/RHEL/Scientific/Fedora Linux To Check Internet Speed](http://www.cyberciti.biz/faq/install-speedtest-cli-on-centos-redhat-fedoa-scientific-to-measure-internetspeed/)
+- [Linux/Unix Curl: Find Out If a Website Is Using Gzip/Deflate](http://www.cyberciti.biz/faq/linux-unix-curl-gzip-compression-test/)
+- [How Do I Block an IP Address on My Linux server?](http://www.cyberciti.biz/faq/how-do-i-block-an-ip-on-my-linux-server/)
+- [Rich’s sh (POSIX shell) tricks](http://www.etalabs.net/sh_tricks.html)
+- [bash.cyberciti.biz: Linux Shell Scripting Tutorial (LSST) v2.0](http://bash.cyberciti.biz/guide/Main_Page)
+- [Learning bash scripting for beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
+- [ss: Display Linux TCP / UDP Network and Socket Information](http://www.cyberciti.biz/tips/linux-investigate-sockets-network-connections.html)
+- [If you don't like exceptions, you don't like Python](http://stupidpythonideas.blogspot.com.es/2015/05/if-you-dont-like-exceptions-you-dont.html)
+- [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
+- [UNIX ping Command Examples](http://www.cyberciti.biz/faq/unix-ping-command-examples/)
+- [Linux / Unix: bg Command Examples](http://www.cyberciti.biz/faq/unix-linux-bg-command-examples-usage-syntax/)
+- [curl Command Resume Broken Download](http://www.cyberciti.biz/faq/curl-command-resume-broken-download/)
+- [Wget: Resume Broken Download](http://www.cyberciti.biz/tips/wget-resume-broken-download.html)
+- [Search Multiple Words / String Pattern Using grep Command](http://www.cyberciti.biz/faq/searching-multiple-words-string-using-grep/)
+- [Top 20 Nginx WebServer Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
+- [Much faster incremental apt updates](https://juliank.wordpress.com/2015/12/26/much-faster-incremental-apt-updates/)
+- [ownCloud 8.2.2, 8.1.5, 8.0.10 and 7.0.12 here with Sharing, LDAP fixes](https://owncloud.org/blog/owncloud-8-2-2-8-1-5-8-0-10-and-7-0-12-here-with-sharing-ldap-fixes/)
+- [30 Handy Bash Shell Aliases For Linux/Unix/Mac OS X](http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html)
+- [tqdm: Instantly make your python loops show a progress meter - just wrap any iterator with "tqdm(iterator)", and you're done!](https://github.com/noamraph/tqdm)
+- [Mitigating DDoS Attacks with NGINX and NGINX Plus](https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/)
+- [en.wikibooks.org: Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
+- [Bash For Loop Examples](http://www.cyberciti.biz/faq/bash-for-loop/)
+- [My 10 UNIX Command Line Mistakes](http://www.cyberciti.biz/tips/my-10-unix-command-line-mistakes.html)
+- [On the Juniper backdoor](http://blog.cryptographyengineering.com/2015/12/on-juniper-backdoor.html)
+- [Linux: 25 PHP Security Best Practices For Sys Admins](http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html)
+- [Linux: Use smartctl To Check Disk Behind Adaptec RAID Controllers](http://www.cyberciti.biz/faq/linux-checking-sas-sata-disks-behind-adaptec-raid-controllers/)
+- [Postfix Flush the Mail Queue](http://www.cyberciti.biz/tips/howto-postfix-flush-mail-queue.html)
+- [Linux: Find Out Which Process Is Listening Upon a Port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
+- [certsimple.com: You won't remember the options for OpenSSL, so here's bash shortcuts for everything](https://certsimple.com/blog/openssl-shortcuts)
+- [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)
+- [Pymux: A terminal multiplexer (like tmux) in Python](https://github.com/jonathanslenders/pymux)
+- [Book Review: Tarsnap Mastery Online Backup For the Truly Paranoid](http://www.cyberciti.biz/cloud-computing/book-review-tarsnap-mastery-online-backup-for-the-truly-paranoid/)
+- [Github: Bioinformatics one-liners. Useful bash one-liners useful for bioinformatics (and some, more generally useful)](https://github.com/stephenturner/oneliners)
+- [Software with the most vulnerabilities in 2015: Mac OS X, iOS, and Flash](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
+
+### Linux Commands Examples
 - Want to increments all numbers in input.txt? 
 
 		perl -pe 's/(\d+)/ 1 + $1 /ge' input.txt
 
 - cp - u will only copy files that don't exist, or are newer than their existing counterparts, in the destination directory.
+- Print server serial/product/manufacturer:
+		
+		for i in serial-number manufacturer product-name; do 
+		echo "$i $(dmidecode -s system-${i})"; 
+		done
+
+- Want to store log of your ssh session? Try:
+		
+		ssh -l user server1 | tee -a ~/myssh.log
+
+- Want to find out which file is the oldest in tar ball archive?
+
+		tar -tvf xkcd-tar-bomb.tar.gz | sort -k 4 -r | head
+
+- Add ssh key to remote host. Wrong: 
+
+		cat key | ssh usr@box 'cat >> .ssh/authorized_keys' 
+
+- Add ssh key to remote host. Correct: 
+
+		ssh-copy-id usr@box
+
+- List 10 largest open file on Unix:
+
+		lsof /|awk '{ if($7>1048576) print $7/1048576 "MB" " " $9 " " $1 }'|sort -nu|tail 
+
+- Want to extract files to another directory using tar command? Try 
+
+		tar xvf file.tar -C /path/to/dir
+
+- Want to see your FreeBSD server cpu temperature? Try:
+
+		sysctl -a |grep temper
+
+- Want to delete a single command from history on a Linux, OS X & Unix Bash shell? 
+
+		history -d N
+
+- Want to resume failed download on Linux/Unix/OSX/BSD?
+
+		curl -LOC - url 
+		wget -c url
+
+- Search (grep) for multiple error message on Linux/Unix:
+
+		egrep -w 'warning|error|critical' /var/log/messages
+
+- [The following is Juniper screenOS authentication backdoor - master ssh password:](https://t.co/IQOGT33oTC)
+
+		<<< %s(un='%s') = %u
+
+- traceroute xmas:
+
+		traceroute http://xmas.futile.net  -m 255|awk '{print $2}'|egrep '^([A-GI-Z]|H[oae]|our).*$'|sed -e 's/\./ /g'|espeak -p 60 -s 180
+
+- Is my HTTPD using Gzip?
+
+		curl -sILH 'Accept-Encoding: gzip,deflate' http://cyberciti.biz | grep Content-Encoding
+
+![largest open files](images/largest_open_files.png)
 
 ## Vim and Emacs
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
