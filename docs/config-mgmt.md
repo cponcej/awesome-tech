@@ -24,6 +24,7 @@
 		- [PostgreSQL via Docker](#postgresql-via-docker)
 		- [WebLogic via Docker](#weblogic-via-docker)
 		- [Swift via Docker](#swift-via-docker)
+	- [IBM Rational ClearCase](#ibm-rational-clearcase)
 
 <!-- /MarkdownTOC -->
 
@@ -189,6 +190,7 @@
 - [How to be Successful Running Docker in Production](http://www.infoq.com/news/2015/11/running-docker-production)
 - [Stop Being Lazy, and Test Your Software (with the Help of Docker)](http://www.infoq.com/news/2015/11/testing-software-docker)
 - [medium.com: Development environments with Docker](https://medium.com/on-docker/development-environments-with-docker-89657c7b4ea2#.paptr5pep)
+- [Securing Docker with TLS certificates](http://tech.paulcz.net/2016/01/secure-docker-with-tls/)
 
 ### MySQL via Docker
 - [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
@@ -202,5 +204,8 @@
 
 ### Swift via Docker
 - [developer.ibm.com: running swift within docker](https://developer.ibm.com/swift/2015/12/15/running-swift-within-docker/)
+
+## IBM Rational ClearCase 
+- [Deploying secure software configuration management](http://www.ibm.com/developerworks/rational/library/rational-deploy-secure-software-configuration-management-trs/index.html)
 
 ![disruption cycle](images/disruption-cycle.png)

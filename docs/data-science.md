@@ -105,6 +105,7 @@
 - [dzone.com: Learning Big Data Tools in 2016](https://dzone.com/articles/learning-big-data-tools-in-2016)
 - [dzone.com: Taming the Data Variety Beast](https://dzone.com/articles/taming-the-data-variety-beast)
 - [javacodegeeks.com: Top 10 Big Data Trends in 2016 for Financial Services](http://www.javacodegeeks.com/2015/12/top-10-big-data-trends-2016-financial-services.html)
+- [datanami.com: Is 2016 the Beginning of the End for Big Data?](http://www.datanami.com/2016/01/05/is-2016-the-beginning-of-the-end-for-big-data/)
 
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)
@@ -145,6 +146,7 @@
 - [The Database Programmer. All things related to database applications, both desktop and web](http://database-programmer.blogspot.co.at/)
 - [stackoverflow.com](http://stackoverflow.com/)
 - [dba.stackexchange.com](http://dba.stackexchange.com/)
+- [seniordba.wordpress.com](https://seniordba.wordpress.com/)
 
 ### SQL Docs
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
@@ -187,6 +189,7 @@
 - [database-programmer.blogspot.co.at: Database Performance: Pay Me Now or Pay Me Later](http://database-programmer.blogspot.co.at/2008/07/database-performance-pay-me-now-or-pay.html)
 - [Datazenit Web-based database administration tool for MySQL and PostgreSQL](https://datazenit.com)
 - [javacodegeeks.com: The 10 Most Popular DB Engines (SQL and NoSQL)](http://www.javacodegeeks.com/2013/10/the-10-most-popular-db-engines-sql-and-nosql.html)
+- [seniordba.wordpress.com: 15 SQL Server DBA Interview Questions](https://seniordba.wordpress.com/2014/06/25/11-sql-server-dba-interview-questions/)
 
 ![mixing indexes](images/mixing_indexes.jpg)
 

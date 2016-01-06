@@ -35,6 +35,7 @@
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
+- [DevOpsSummit Blog](http://devops.sys-con.com/)
 
 ## Description
 - [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
@@ -52,6 +53,8 @@
 - [DevOps isn’t just about engineering better processes. It’s also about cultural transformation](http://cloudcomputing.sys-con.com/node/3588052)
 - [How IBM Reduced Time to Development From 120 Days to 3.](https://dzone.com/articles/how-ibm-reduced-time-to-development-from-120-days) A case study on how even large, monolithic corporations can embrace DevOps and decrease their time to development.
 - [scriptrock.com free eBook - DevOps: A Cynics Guide](https://www.scriptrock.com/devops-for-cynics)
+- [devops.sys-con.com slides - A DevOps State of Mind By @RedHatNews|@DevOpsSummit #DevOps](http://devops.sys-con.com/node/3620720)
+	- [slide: A DevOps state of mind, by Chris Van Tuin, Chief Technologist at Red Hat](http://dw.connect.sys-con.com/session/2958/Chris_Van_Tuin.pdf)
 
 ## DevOps Tools 2016
 - [Top 10 DevOps Tools to look out for in 2016](https://www.linkedin.com/pulse/top-10-devops-tools-look-out-2016-matthew-smith)

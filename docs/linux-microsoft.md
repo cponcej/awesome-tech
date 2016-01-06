@@ -42,6 +42,7 @@
 ## Linux and FOSS Blogs and Forums
 - [FOSS Force](http://fossforce.com/)
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
+- [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
 - [opensource.com](https://opensource.com/)
@@ -60,6 +61,7 @@
 - [Linux 101 Hacks](http://linux.101hacks.com/)
 - [Linoxide.com](http://linoxide.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
+- [tech.paulcz.net](http://tech.paulcz.net/#blog)
 
 ## Linux CLI References
 - [GoAccess real time web log analyzer](http://goaccess.io/)
@@ -124,6 +126,8 @@
 - [Book Review: Tarsnap Mastery Online Backup For the Truly Paranoid](http://www.cyberciti.biz/cloud-computing/book-review-tarsnap-mastery-online-backup-for-the-truly-paranoid/)
 - [Github: Bioinformatics one-liners. Useful bash one-liners useful for bioinformatics (and some, more generally useful)](https://github.com/stephenturner/oneliners)
 - [Software with the most vulnerabilities in 2015: Mac OS X, iOS, and Flash](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
+- [howtoforge.com: How to install ProFTPd with TLS support on Ubuntu 15.10](https://www.howtoforge.com/tutorial/install-proftpd-with-tls-on-ubuntu-15-10/)
+- [Understanding Linux/UNIX tr command](http://www.cyberciti.biz/faq/how-to-use-linux-unix-tr-command/)
 
 ### Linux Commands Examples
 - Want to increments all numbers in input.txt? 
@@ -253,6 +257,7 @@
 - [Red Hat Developer Blog](http://developerblog.redhat.com)
 - [Red Hat Developers](http://developers.redhat.com)
 - [Planet JBoss Developer](http://planet.jboss.org/)
+- [opensourcerers.org](http://www.opensourcerers.org/)
 
 ## Red Hat Docs
 - [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
@@ -281,6 +286,7 @@
 - [Red Hat announces availability of containerized middleware capabilities on OpenShift](http://www.redhat.com/en/about/blog/red-hat-announces-availability-containerized-middleware-capabilities-openshift)
 	- [zdnet.com: Containers, OpenShift, and Middleware](http://www.zdnet.com/article/containers-openshift-and-middleware/)
 - [OpenShift 3.1 Log files for Pods](https://blog.openshift.com/openshift-3-1-log-files-for-pods/)
+- [opensourcerers.org: First Fuse application on OpenShift V3.1](http://www.opensourcerers.org/first-fuse-application-on-openshift-v3-1/)
 
 ## Red Hat OpenStack
 - [RDO Project](https://www.rdoproject.org/)
@@ -394,6 +400,7 @@
 	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
 	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
 - [Unofficial Spiceworks. Spiceworks news and reviews from the underground...](http://www.unofficialspiceworks.com/)
+- [It's time to accept the reality of device diversity. 9 tips for mobilizing your Microsoft investment](https://media.good.com/documents/ts-9-tips-for-mobilizing.pdf)
 
 ![spiceworks](images/spiceworks-logo.png)
 

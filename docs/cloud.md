@@ -28,6 +28,7 @@
 ## Cloud Bogs
 - [Thoughts On Cloud](http://www.thoughtsoncloud.com/)
 - [Cloud Expo](http://cloudcomputing.sys-con.com/)
+- [comparethecloud.net](http://www.comparethecloud.net/)
 
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
 - [The Twelve-Factor App](http://12factor.net/)
@@ -47,11 +48,18 @@
 - [To Cloud Or Not To Cloud: That Is The Compliance Question](http://www.digitalistmag.com/resource-optimization/2016/01/04/cloud-or-not-cloud-compliance-03909159)
 - [The cloud wars explained: Why nobody can catch up with Amazon](http://www.businessinsider.com/why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10)
 	- ["If HP and Dell can't make a public cloud how will they provide private clouds to enterprises?"](http://www.nextplatform.com/2015/10/22/how-many-other-public-clouds-will-be-vaporized/)
+- [comparethecloud.net: Open-source security: Can OpenStack really protect your cloud data?](http://www.comparethecloud.net/articles/open-source-security-can-openstack-really-protect-your-cloud-data/)
 - [Sysadmincasts.com: Introduction to Amazon Web Services (AWS)](https://sysadmincasts.com/episodes/29-introduction-to-amazon-web-services-aws)
 - [Amazon RDS](https://serversforhackers.com/amazon-rds)
 - [reddit: Size of your AWS infrastructure and who manages it/how it's managed](https://www.reddit.com/r/aws/comments/277zli/size_of_your_aws_infrastructure_and_who_manages/)
 - [Disadvantages of Cloud Computing](http://cloudacademy.com/blog/disadvantages-of-cloud-computing/)
 - [forbes.com: The Unstoppable Rise Of Enterprise Data Clouds](http://www.forbes.com/sites/ciocentral/2015/12/17/the-unstoppable-rise-of-enterprise-data-clouds/)
+- [2015’s top five cloud developments and what they mean for 2016](http://blogs.csc.com/2016/01/04/2015s-top-five-cloud-developments-and-what-they-mean-today/)
+- [dzone: This Year In Modern Software: Cloud, Mobile, Containers, DevOps, and More.](https://dzone.com/articles/this-year-in-modern-software-cloud-mobile-containe) Cloud has finally begun to dominate the software landscape, along with the mainstream arrival of containers and DevOps.
+- [blog.zachbjornson.com: AWS S3 vs Google Cloud vs Azure: Cloud Storage Performance](http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html)
+- [Linode Resets Passwords After Credentials Leak](http://it.slashdot.org/story/16/01/05/223219/linode-resets-passwords-after-credentials-leak)
+
+![cloud market share](images/cloud-market-share-3rd-qtr-2015.png)
 
 ## Cloud Pricing
 - [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)
@@ -115,6 +123,7 @@
 - [AWS Quick Start Reference Deployments](http://aws.amazon.com/es/quickstart/)
 	- [AWS Quick Start - GitHub](https://github.com/awslabs/aws-quickstart)
 - [InfoWorld Review – Amazon Aurora Rocks MySQL](https://aws.amazon.com/es/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/)
+- [AWS Cost Explorer Update – Access to EC2 Usage Data](https://aws.amazon.com/es/blogs/aws/aws-cost-explorer-update-access-to-ec2-usage-data/)
 
 ### AWS New Features
 - [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
