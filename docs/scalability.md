@@ -11,6 +11,7 @@
 - [highscalability.com](http://highscalability.com/)
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 - [Youtube: Iceland - A Growing Data Center Hub](https://www.youtube.com/watch?v=LH5lj4sARI0)
+- [RackTables.org - a datacenter asset management system](http://racktables.org/)
 
 # Scalability and Reliability
 - [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
