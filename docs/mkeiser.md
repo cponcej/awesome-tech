@@ -24,11 +24,17 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![OECD Data: Unemployment rate](images/oecd_unemployment_rate.png)
 
+![OECD Data: Employment rate Q3 2015](images/oecd_employment_rate_q3_2015.png)
+
 ![OECD Data: Labour compensation per hour worked](images/oecd_labour_compensation_per_hour_worked.png)
 
 ![OECD Data: Wage levels low pay](images/oecd_wage_levels_low_pay.png)
 
+![OECD Data: Wage levels low pay 2](images/oecd_wage_levels_low_pay2.png)
+
 ![OECD Data: Average wages](images/oecd_average_wages.png)
+
+![OECD Data: Average wages 2](images/oecd_average_wages2.png)
 
 ![OECD Data: Long-term interest rates](images/oecd_long_term_interest_rates.png)
 
