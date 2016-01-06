@@ -6,6 +6,7 @@
 	- [Description](#description)
 	- [DevOps Tools 2016](#devops-tools-2016)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
+		- [Product Owner](#product-owner)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 			- [CI Jenkins, Travis](#ci-jenkins-travis)
 			- [CI Docker](#ci-docker)
@@ -96,6 +97,11 @@
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 - [dzone.com: 5 Issues with Agile and What’s Next](https://dzone.com/articles/5-issues-with-agile-and-whats-next) Agile is increasingly popular, but it isn't perfect. Check out these 5 issues with Agile, and learn how the space will further evolve. Problems include lack of software architecture focus, and unclear definition of self-organization.
 - [enterprisersproject.com: A conversation with Gene Kim on DevOps, waterfall development, and containers ](https://enterprisersproject.com/article/2015/4/conversation-gene-kim-devops-waterfall-development-and-containers)
+
+### Product Owner
+- [medium.com: Product Owner Responsibilities in Agile (Scrum Methodologies)](https://medium.com/agile-project-management-scrum-lean-kanban/product-owner-responsibilities-in-agile-scrum-methodologies-dc7aeeb5ff71)
+- [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)
+- [¿Cuantos Product Owner puede tener un equipo?](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 
 ### Continuous Integration and Delivery
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
@@ -276,3 +282,4 @@
 
 ## ITIL Tools
 - [itop - ITSM & CMDB OpenSource. A simple, web based IT Service Management tool ](http://sourceforge.net/projects/itop/)
+- [RackTables.org - a datacenter asset management system](http://racktables.org/)
