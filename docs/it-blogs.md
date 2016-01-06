@@ -20,6 +20,8 @@
 - [gettopical.com. Search for a favorite topic](http://gettopical.com/)
 - [Tom's Guide: tech products reviews, top picks and How To](http://www.tomsguide.com/)
 - [techpageone.co.uk](http://www.techpageone.co.uk/)
+- [uk.businessinsider.com/tech](http://uk.businessinsider.com/tech)
+- [Tech Insider](http://www.techinsider.io/)
 
 ## IT Spain Blogs
 - [javiergarzas.com](http://www.javiergarzas.com/)
