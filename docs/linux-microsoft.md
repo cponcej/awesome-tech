@@ -148,8 +148,6 @@
 - [Linux Server See the Historical and Statistical Uptime of System With tuptime Utility](http://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/)
 - [Top 30 Nmap Command Examples For Sys/Network Admins](http://www.cyberciti.biz/networking/nmap-command-examples-tutorials/)
 - [30 Cool Open Source Software I Discovered in 2013](http://www.cyberciti.biz/open-source/30-cool-best-open-source-softwares-of-2013/)
-- [Angry IP Scanner (or simply ipscan)](http://angryip.org/)
-- [observium.org: Network monitoring with intuition](http://www.observium.org/)
 - [luckybackup.sourceforge.net: is an application for data back-up and synchronization powered by the rsync tool](http://luckybackup.sourceforge.net/)
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [ack-grep, un grep mejorado para programadores](https://ubuntulife.wordpress.com/2009/03/20/ack-grep-un-grep-mejorado-para-programadores/)
@@ -273,6 +271,8 @@
 	- [Quick HOWTO : Ch04 : Simple Network Troubleshooting](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting)
 	- [Quick HOWTO : Ch04 : Simple Network Troubleshooting : Using MTR To Detect Network Congestion](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting#Using_MTR_To_Detect_Network_Congestion)
 - [dropwatch: a monitoring utility that monitors packets dropped by the kernel](http://prefetch.net/blog/index.php/2011/07/11/using-netstat-and-dropwatch-to-observe-packet-loss-on-linux-servers/)
+- [Angry IP Scanner (or simply ipscan)](http://angryip.org/)
+- [observium.org: Network monitoring with intuition](http://www.observium.org/)
 
 # Red Hat
 ## Red Hat Blogs and Forums
