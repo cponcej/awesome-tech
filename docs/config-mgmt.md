@@ -159,6 +159,7 @@
 	- [Microservices in the Real World](https://www.youtube.com/watch?v=XG5sl_7Zi6k)
 
 ### Docker references
+- [gettopical.com: Docker Latest News](http://gettopical.com/docker)
 - [github.com: Docker Official Images](https://github.com/docker-library/official-images)
 - [docs.docker.com: Official Repositories on Docker Hub](https://docs.docker.com/docker-hub/official_repos/)
 - [github.com: Docker Library](https://github.com/docker-library/)

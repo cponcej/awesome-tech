@@ -93,6 +93,7 @@
 - [Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science](https://zeppelin.incubator.apache.org/)
 
 ## Big Data
+- [gettopical.com: Bit Data latest news](http://gettopical.com/bigdata)
 - [whatsthebigdata.com: History of Databases (Infographic)](http://whatsthebigdata.com/2016/01/04/history-of-databases-infographic/)
 - [Big data is simply another name for complicated business intelligence: New visualization tools like Tableau, Clearstory, and Domo aims to unlock enterprise data for a broader audience than before](http://www.infoworld.com/article/2868007/big-data/big-data-is-just-another-name-for-complicated-business-intelligence.html)
 - [dzone.com The DZone Guide to Big Data, Business Intelligence and Analytics, 2015 Edition](http://bit.ly/1MHcFT4)
@@ -226,6 +227,7 @@
 ![generatedata.com](images/generatedata.jpg)
 
 #### PostgreSQL
+- [gettopical.com: PostgreSQL latest news](http://gettopical.com/postgresql)
 - [PostgreSQL docs](http://www.postgresql.org/docs/)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
 - [PGCon](http://www.pgcon.org)

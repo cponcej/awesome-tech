@@ -11,6 +11,8 @@
 
 # Miscellaneous
 ## IT Blogs and Forums
+- [gettopical.com. Search for a favorite topic and get its latest news](http://gettopical.com/)
+	- [gettopical.com: Internet of Things latest news](http://gettopical.com/internetofthings)
 - [ZDNet](http://www.zdnet.com/)
 - [DZone](https://dzone.com)
 - [The enterprisers project](https://enterprisersproject.com/)
@@ -18,7 +20,6 @@
 - [Digitalist magazine](http://www.digitalistmag.com/)
 - [medium.com](https://medium.com)
 - [Triplebyte. Building a better hiring process for engineers](https://data.triplebyte.com/)
-- [gettopical.com. Search for a favorite topic](http://gettopical.com/)
 - [Tom's Guide: tech products reviews, top picks and How To](http://www.tomsguide.com/)
 - [techpageone.co.uk](http://www.techpageone.co.uk/)
 - [uk.businessinsider.com/tech](http://uk.businessinsider.com/tech)
