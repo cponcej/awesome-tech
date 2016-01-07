@@ -27,6 +27,7 @@
 - [JAXenter.com: News, Articles, Code](https://jaxenter.com/)
 - [TechSpective](http://techspective.net/)
 - [Tech.Co - Tech & Startup Events, News and Resources](http://tech.co/)
+- [Solutions Review. Buyer's guides and best practices](http://solutions-review.com/)
 
 ## IT Spain Blogs
 - [javiergarzas.com](http://www.javiergarzas.com/)

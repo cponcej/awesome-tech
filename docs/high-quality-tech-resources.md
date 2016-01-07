@@ -7,6 +7,8 @@
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 	- [Podcasts](#podcasts)
+		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
+			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
 
 <!-- /MarkdownTOC -->
 
@@ -154,6 +156,19 @@
 - [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
 - [Talk Python To Me](http://talkpython.fm/)
 - [Puppet Labs Podcasts](https://puppetlabs.com/conversations-puppet-labs-podcast)
-- [AWS Podcasts](https://aws.amazon.com/es/podcasts/aws-podcast/)
+
+### Cloud Computing Podcasts
+- [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
+	- [The Cloudcast](http://www.thecloudcast.net/)
+	- [Cloud Computing Podcast](http://www.cloudtp.com/insights/cloud-computing-weekly-podcast/)
+	- [Compare the Cloud](http://www.stitcher.com/podcast/compare-the-cloud-the-issues)
+	- [soundcloud: a16z podcast](https://soundcloud.com/a16z)
+- [WHIR Cloud Podcasts](http://www.thewhir.com/whir-podcast)
+	- [Top 5 The WHIR: Cloud Talks Podcasts for 2015](http://www.thewhir.com/blog/top-5-the-whir-cloud-talks-podcasts-for-2015)
+
+#### AWS Youtube channel and Podcasts
+- [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
+- [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
+- [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
 
 ![internet users](images/internet-users.jpeg)

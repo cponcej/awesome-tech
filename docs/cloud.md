@@ -10,6 +10,7 @@
 	- [OpenStack private cloud](#openstack-private-cloud)
 	- [IBM Bluemix](#ibm-bluemix)
 	- [Awesome AWS](#awesome-aws)
+	- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New Features](#aws-new-features)
@@ -94,6 +95,11 @@
 
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+
+## AWS Youtube channel and Podcasts
+- [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
+- [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
+- [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
 
 ## AWS re:Invent 2015
 - [Festín de novedades en re:Invent 2015](http://www.siliconweek.es/data-storage/business-intelligence/festin-de-novedades-en-reinvent-2015-89129)
