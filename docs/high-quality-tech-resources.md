@@ -9,6 +9,7 @@
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
 			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
+	- [Wikibooks](#wikibooks)
 
 <!-- /MarkdownTOC -->
 
@@ -170,5 +171,17 @@
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
 - [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
 - [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
+
+## Wikibooks 
+- [Computing](https://en.wikibooks.org/wiki/Subject:Computing)
+- [ITIL v3 (Information Technology Infrastructure Library)](https://en.wikibooks.org/wiki/ITIL_v3_%28Information_Technology_Infrastructure_Library%29)
+- [Python](https://en.wikibooks.org/wiki/Python)
+- [Python Programming](https://en.wikibooks.org/wiki/Python_Programming)
+	- [PDF version](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
+- [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer's_Tutorial_for_Python_2.6)
+	- [PDF version](https://upload.wikimedia.org/wikipedia/commons/6/69/Non-Programmer's_Tutorial_for_Python_2.6.pdf)
+- [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer's_Tutorial_for_Python_3)
+- [LPI](https://en.wikibooks.org/wiki/LPI_Linux_Certification)
+- [Linux Networking](https://en.wikibooks.org/wiki/Linux_Networking)
 
 ![internet users](images/internet-users.jpeg)
