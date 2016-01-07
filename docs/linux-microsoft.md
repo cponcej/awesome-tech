@@ -426,8 +426,6 @@
 - [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
 - [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
 - [Windows Migration Best Practices and Resources from Dell & Microsoft](http://www.migrationexpertzone.com/)
-- [PowerShell Magazine](http://www.powershellmagazine.com/)
-- [PowerShell.org](http://powershell.org)
 - [deals.slashdot.org: Microsoft Certified Solutions Engineer: Server Infrastructure Bundle](https://deals.slashdot.org/sales/microsoft-certified-solutions-engineer-server-infrastructure-bundle)
 - [computerworld.com: Microsoft's new tally for Windows 10: 200M](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
 - [It's time to accept the reality of device diversity. 9 tips for mobilizing your Microsoft investment](https://media.good.com/documents/ts-9-tips-for-mobilizing.pdf)
@@ -435,6 +433,10 @@
 ![number of running windows dec 2015](images/number_of_win10.jpg)
 
 ## Microsoft Monitoring and Management
+- [PowerShell Magazine](http://www.powershellmagazine.com/)
+- [PowerShell.org](http://powershell.org)
+- [Simple Talk](https://www.simple-talk.com)
+- [simple-talk.com/sysadmin](https://www.simple-talk.com/sysadmin/)
 - [Spiceworks](http://www.spiceworks.com/)
 	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
 	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
