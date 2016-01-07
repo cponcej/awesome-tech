@@ -26,7 +26,7 @@
 		- [Python testing](#python-testing)
 		- [Python Pandas and pivot tables](#python-pandas-and-pivot-tables)
 		- [Python code](#python-code)
-	- [Python and AWS](#python-and-aws)
+		- [Python and AWS](#python-and-aws)
 	- [Java](#java)
 	- [Swift](#swift)
 	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
@@ -239,7 +239,7 @@
 ### Python code
 - [Dead simple {for devs} python crawler (script) for extracting structured data from any website into CSV](http://blog.webhose.io/2015/08/16/dead-simple-for-devs-python-crawler-script-for-extracting-structured-data-from-any-almost-website-into-csv/)
 
-## Python and AWS
+### Python and AWS
 - [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
 - [Python and AWS Cookbook. Boto library](http://it-ebooks.info/book/542/)
 - [Boto](https://github.com/boto/boto)
