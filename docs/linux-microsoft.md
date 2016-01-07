@@ -222,10 +222,6 @@
 
 		<<< %s(un='%s') = %u
 
-- traceroute xmas:
-
-		traceroute http://xmas.futile.net  -m 255|awk '{print $2}'|egrep '^([A-GI-Z]|H[oae]|our).*$'|sed -e 's/\./ /g'|espeak -p 60 -s 180
-
 - Is my HTTPD using Gzip?
 
 		curl -sILH 'Accept-Encoding: gzip,deflate' http://cyberciti.biz | grep Content-Encoding
