@@ -56,6 +56,7 @@
 - [scriptrock.com free eBook - DevOps: A Cynics Guide](https://www.scriptrock.com/devops-for-cynics)
 - [devops.sys-con.com slides - A DevOps State of Mind By @RedHatNews|@DevOpsSummit #DevOps](http://devops.sys-con.com/node/3620720)
 	- [slide: A DevOps state of mind, by Chris Van Tuin, Chief Technologist at Red Hat](http://dw.connect.sys-con.com/session/2958/Chris_Van_Tuin.pdf)
+- [techspective.net: DevOps works best when everyone is running the same play](http://techspective.net/2016/01/05/devops-works-best-when-everyone-is-running-the-same-play/)
 
 ## DevOps Tools 2016
 - [Top 10 DevOps Tools to look out for in 2016](https://www.linkedin.com/pulse/top-10-devops-tools-look-out-2016-matthew-smith)
@@ -88,6 +89,7 @@
 	- [¿Tiene futuro que en tu empresa tengas un CPD? ¿Y que te dediques profesionalmente a mantenerlo?](http://www.javiergarzas.com/2015/11/tiene-futuro-que-en-tu-empresa-tengas-un-cpds-un-centro-de-proceso-de-datos-y-que-te-dediques-profesionalmente-a-ello.html)
 	- [Si pasamos de externalizar el Testing a integrarlo en los equipos… ¿Qué va a pasar con las testing factories?](http://www.javiergarzas.com/2015/10/si-pasamos-de-externalizar-el-testing-a-integrarlo-en-los-equipos-que-va-a-pasar-con-las-testing-factories.html)
 	- [Cómo y quién recuperó uno de los mayores desastres del desarrollo software: la web healthcare...](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
+	- [Next time you're stressing out about code bug, just be glad it's not one that causes a $440M loss in only 45 mins](https://en.wikipedia.org/wiki/Knight_Capital_Group#2012_stock_trading_disruption)
 	- [Web del senado, costó 448.819€, pero la del Ayuntamiento de Madrid 100.000€ ¿Nuevo caso de populismo tecnológico?](http://www.javiergarzas.com/2015/10/web-del-senado-costo-448-819e-pero-la-del-ayuntamiento-de-madrid-100-000e-nuevo-caso-de-populismo-tecnologico.html)
 - [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge](http://www.scrumguides.org/)
 - [Why estimates never work](http://www.brandonsavage.net/why-estimates-never-work/)
@@ -150,6 +152,7 @@
 - [Git Recipes. A Problem-Solution Approach](http://it-ebooks.info/book/3259/)
 - [Git Pocket Guide](http://it-ebooks.info/book/2517/)
 - [Git Pandas. A wrapper around gitpython to produce pandas dataframes for analysis](https://github.com/wdm0006/git-pandas)
+- [Neat new features in Git 2.7](https://developer.atlassian.com/blog/2016/01/git-2.7-release/)
 
 ### Git clients
 - [SourceTree](https://www.sourcetreeapp.com/)

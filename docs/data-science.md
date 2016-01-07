@@ -12,6 +12,7 @@
 		- [Big Data Blogs](#big-data-blogs)
 		- [Data visualization: Tableau](#data-visualization-tableau)
 		- [Apache Spark](#apache-spark)
+		- [Apache Hadoop](#apache-hadoop)
 		- [Apache Storm and Kite SDK Morphlines](#apache-storm-and-kite-sdk-morphlines)
 		- [Pentaho Data Integration and Business Analytics Platforms](#pentaho-data-integration-and-business-analytics-platforms)
 	- [SQL](#sql)
@@ -39,6 +40,7 @@
 	- [civisanalytics.com: Machine Learning. Workflows in Python: Curating Features and Thinking Scientifically about Algorithms](https://civisanalytics.com/blog/data-science/2015/12/23/workflows-in-python-curating-features-and-thinking-scientifically-about-algorithms/)
 - [redash.io Open Source Data Collaboration Platform](https://github.com/getredash/redash) Connect to any data source, visualize your data and share it with anyone!
 - [Beginner tips to becoming a data analyst](http://thenextweb.com/offers/2015/12/19/beginner-tips-becoming-data-analyst/)
+- [ZDNet Top 2016 Data Trends: 5 data-to-decisions trends to know for 2016.](http://www.zdnet.com/article/top-5-data-to-decisions-trends-to-know-for-2016/) Apache Spark, real-time, cloud BI & analytics, IoT, and self-service were the trends to watch in 2015, and they'll continue to make waves in 2016.
 
 ### Data collection and processing is growing in sports
 - [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
@@ -111,6 +113,7 @@
 - [datanami.com](http://www.datanami.com)
 - [What's The Big Data?](http://whatsthebigdata.com/)
 - [Data Science Central - the online resource for big data practitioners](http://www.datasciencecentral.com)
+- [BDAN: Big Data Analytics News](http://bigdataanalyticsnews.com/)
 
 ### Data visualization: Tableau
 - [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
@@ -124,6 +127,10 @@
 - [PyData Seattle 2015 - youtube: Holden Karau: A brief introduction to Distributed Computing with PySpark](https://www.youtube.com/watch?v=bJouNc1REno)
 - [medium.com: How MapR improves our productivity and simplifies our design](https://medium.com/@anicolaspp/how-mapr-improves-our-productivity-and-simplify-our-design-2d777ab53120)
 - [svds.com Spark 1.6.0: Pivoting Data with DataFrames in SparkSQL](http://www.svds.com/pivoting-data-in-sparksql/)
+- [DZone: Setting Up a Sample Application in HBase, Spark, and HDFS](https://dzone.com/articles/sample-app-hbase-spark-hdfs)
+
+### Apache Hadoop
+- [bigdataanalyticsnews.com: 6 Essential Steps to Successfully Implement Hadoop](http://bigdataanalyticsnews.com/6-essential-steps-to-successfully-implement-hadoop/)
 
 ### Apache Storm and Kite SDK Morphlines
 - Apache Storm is a distributed streaming processing engine

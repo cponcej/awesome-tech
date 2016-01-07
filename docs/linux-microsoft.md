@@ -154,6 +154,9 @@
 	- [ack-grep](http://beyondgrep.com/)
 - [Zentyal Exchange email on Linux](http://www.zentyal.org/)
 - [Top 10 Open Source Web-Based Project Management Software](http://www.cyberciti.biz/tips/open-source-project-management-software.html)
+- [Deptyr, or how I learned to love UNIX domain sockets](https://boinkor.net/2016/01/deptyr-or-how-i-learned-to-love-unix-domain-sockets/)
+	- [reptyr: Reparent a running program to a new terminal](https://github.com/nelhage/reptyr)
+	- [deptyr: Run your tty programs pseudo-headlessly under a process supervisor](https://github.com/antifuchs/deptyr)
 
 ### Linux Commands Examples
 - Want to increments all numbers in input.txt? 

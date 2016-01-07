@@ -8,6 +8,7 @@
 	- [Cloud references](#cloud-references)
 	- [Cloud Pricing](#cloud-pricing)
 	- [OpenStack private cloud](#openstack-private-cloud)
+	- [IBM Bluemix](#ibm-bluemix)
 	- [Awesome AWS](#awesome-aws)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
@@ -46,6 +47,7 @@
 
 ## Cloud references
 - [To Cloud Or Not To Cloud: That Is The Compliance Question](http://www.digitalistmag.com/resource-optimization/2016/01/04/cloud-or-not-cloud-compliance-03909159)
+- [Why the Cloud Is Taking Over Traditional IT Systems](http://tech.co/cloud-taking-over-traditional-it-systems-2016-01)
 - [The cloud wars explained: Why nobody can catch up with Amazon](http://www.businessinsider.com/why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10)
 	- ["If HP and Dell can't make a public cloud how will they provide private clouds to enterprises?"](http://www.nextplatform.com/2015/10/22/how-many-other-public-clouds-will-be-vaporized/)
 - [comparethecloud.net: Open-source security: Can OpenStack really protect your cloud data?](http://www.comparethecloud.net/articles/open-source-security-can-openstack-really-protect-your-cloud-data/)
@@ -86,6 +88,9 @@
 - [fortune.com: Red Hat and Mirantis, once an OpenStack couple, have split](http://fortune.com/2015/07/01/red-hat-and-mirantis-split/)
 
 ![openstack cluster](images/openstack-cluster.png)
+
+## IBM Bluemix
+- [IBM Cloud computing. Technical resources for developing in the cloud](https://www.ibm.com/developerworks/cloud/)
 
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
@@ -155,6 +160,7 @@
 - [Tutorial: Configure Apache Web Server on Amazon Linux to use SSL/TLS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-an-instance.html)
 - [The Most Popular AWS Security Blog Posts in 2015](http://blogs.aws.amazon.com/security/post/Tx4QX7W51NDSLO/The-Most-Popular-AWS-Security-Blog-Posts-in-2015)
 - [dzone: Private Subnets Are Broken on AWS](https://dzone.com/articles/private-subnets-are-broken-on-aws)
+- [AWS Identity and Access Management (IAM) best practices in 2016](http://blogs.aws.amazon.com/security/post/Tx2OB7YGHMB7WCM/Adhere-to-IAM-Best-Practices-in-2016)
 
 ### AWS IoT
 - [What Is AWS IoT?](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)

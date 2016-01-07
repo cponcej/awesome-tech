@@ -3,7 +3,9 @@
 
 - [Miscellaneous](#miscellaneous)
 	- [IT Blogs and Forums](#it-blogs-and-forums)
+	- [IT youtube channels](#it-youtube-channels)
 	- [IT Spain Blogs](#it-spain-blogs)
+	- [Blog Hosting](#blog-hosting)
 	- [Support](#support)
 
 <!-- /MarkdownTOC -->
@@ -22,6 +24,14 @@
 - [techpageone.co.uk](http://www.techpageone.co.uk/)
 - [uk.businessinsider.com/tech](http://uk.businessinsider.com/tech)
 - [Tech Insider](http://www.techinsider.io/)
+- [Simple talk: A technical journal and community hub from Redgate](https://www.simple-talk.com/)
+- [JAXenter.com: News, Articles, Code](https://jaxenter.com/)
+- [TechSpective](http://techspective.net/)
+- [Tech.Co - Tech & Startup Events, News and Resources](http://tech.co/)
+
+## IT youtube channels
+- [SourceForge](https://www.youtube.com/channel/UC4Y3JZq09X-xMYVbXH8xpZA)
+- [Red Hat Middleware](https://www.youtube.com/channel/UCj1LxybwM853cCvndtZmOkQ)
 
 ## IT Spain Blogs
 - [javiergarzas.com](http://www.javiergarzas.com/)
@@ -33,6 +43,9 @@
 - [A un clic de las TIC](http://www.aunclicdelastic.com/)
 - [systemadmin.es](http://systemadmin.es/)
 - [muylinux.com](http://www.muylinux.com/)
+
+## Blog Hosting
+- [How to Start a Blog with WordPress (Step by Step Guide for Blog Hosting)](http://www.webcodegeeks.com/wordpress/how-to-start-blog-wordpress-hosting/)
 
 ## Support
 - [Stack Exchange](high-quality-tech-resources.md#stack-exchange-family-of-qa-websites)

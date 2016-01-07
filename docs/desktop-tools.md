@@ -12,6 +12,7 @@
 - [HP Pavilion Mini PC](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
 - [forbes.com: Best 5 Future-Proof Laptops For 2016: 12-inch MacBook, Surface Book, Dell XPS 13, HP EliteBook](http://www.forbes.com/sites/brookecrothers/2015/12/31/best-5-future-proof-laptops-heading-into-2016-apple-microsoft-dell-hp/)
 - [This new Samsung laptop is shockingly thin and light](http://www.techinsider.io/samsung-notebook-9-2016-1)
+- [cyberciti.biz: 10 Places To Buy A Laptop With Linux Preloaded](http://www.cyberciti.biz/hardware/laptop-computers-with-linux-installed-or-preloaded/)
 
 # Presentations
 - [blog.slideshare.net: 6 Principles of Influence to Enhance Your Presentations](https://blog.slideshare.net/2015/12/14/6-principles-of-influence-to-enhance-your-presentations/)

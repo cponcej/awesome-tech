@@ -1,14 +1,15 @@
 **Table of Contents**
 <!-- MarkdownTOC -->
 
-- [Software Development. Programming languages](#software-development-programming-languages)
+- [Software Development](#software-development)
 	- [Blogs and Forums](#blogs-and-forums)
 	- [Domain driven design](#domain-driven-design)
 	- [API and Documentation Generators](#api-and-documentation-generators)
+	- [Patterns](#patterns)
 	- [Editors](#editors)
 		- [Sublime](#sublime)
 			- [Sublime Blogs](#sublime-blogs)
-			- [Setting up Sublime](#setting-up-sublime)
+			- [Setting up Sublime and Tips](#setting-up-sublime-and-tips)
 			- [Sublime Git](#sublime-git)
 		- [Alternative editors](#alternative-editors)
 		- [Diff Tools](#diff-tools)
@@ -23,6 +24,7 @@
 		- [Python Feature Flags](#python-feature-flags)
 		- [Python testing](#python-testing)
 		- [Python Pandas and pivot tables](#python-pandas-and-pivot-tables)
+		- [Python code](#python-code)
 	- [Python and AWS](#python-and-aws)
 	- [Java](#java)
 	- [Swift](#swift)
@@ -33,7 +35,7 @@
 <!-- /MarkdownTOC -->
 
 
-# Software Development. Programming languages
+# Software Development
 - [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)
 - [Maintain the Habit of Learning Coding Skills](https://dzone.com/articles/maintain-the-habit-of-learning-coding-skills)
@@ -68,11 +70,16 @@
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
+## Patterns
+- [DZone: The Model-View-ViewModel (MVVM) Pattern – Introduction](https://dzone.com/articles/the-mvvm-pattern-introduction)
+- [DZone: Model-View-Controller (MVC): The Basics](https://dzone.com/articles/model-view-controller-mvc-deep-dive)
+
 ## Editors
 - [tecmint.com: 12 Best Open Source Text Editors (GUI + CLI) I Found in 2015](http://www.tecmint.com/best-open-source-linux-text-editors/)
 - [javacodegeeks.com: Why we dropped Eclipse in favour of IntelliJ](http://www.javacodegeeks.com/2013/09/why-we-dropped-eclipse-in-favour-of-intellij.html)
 - [javacodegeeks.com: My Development Environment Setup on Linux](http://www.javacodegeeks.com/2015/12/development-environment-setup-linux.html)
 - [Gobby: A Collaborative Text Editor](https://gobby.github.io/)
+- [SourceForge youtube: How to Use JSONViewer Notepad++ plugin](https://www.youtube.com/watch?v=5TcXJEuA1z4)
 
 ### Sublime
 
@@ -81,7 +88,7 @@
 - [Sublime Text Unofficial Documentation](http://sublime-text-unofficial-documentation.readthedocs.org)
 - [Welcome to SublimeLinter 3](http://www.sublimelinter.com)
 
-#### Setting up Sublime
+#### Setting up Sublime and Tips
 - [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 	- [An excellent free video course on Sublime Text 2 - Sublime Text 3 is still in beta](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
@@ -98,6 +105,7 @@
 - [How to quickly test URLs embedded in your code and text files](http://sublimetexttips.com/how-to-quickly-test-urls-embedded-in-your-code-and-text-files/)
 - [SelectExact: A Sublime Text plugin for exact match selections](https://packagecontrol.io/packages/SelectExact)
 - [Google Dictionary: Sublime google dictionary plugin](https://packagecontrol.io/packages/Google%20Dictionary)
+- [Copy copy copy with this new Sublime feature](http://sublimetexttips.com/copy-copy-copy-with-this-new-sublime-feature/)
 
 #### Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
@@ -119,6 +127,7 @@
 	- [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
 - [thimble.mozilla.org: Thimble is an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/)
+- [Code::Blocks - A free C, C++ and Fortran IDE](http://sourceforge.net/projects/codeblocks/)
 
 ### Diff Tools
 - [Comparison of file comparison tools](https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools)
@@ -131,6 +140,7 @@
 ## Regular expressions
 - [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
 - [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
+- [Comparing regular expressions in Perl, Python, and Emacs](http://www.johndcook.com/blog/regex-perl-python-emacs/)
 
 ## Bash
 - [explainshell.com: write down a command-line to see the help text that matches each argument](http://explainshell.com/)
@@ -194,6 +204,8 @@
 - [Installing and Configuring Django Web Framework with Virtual Environments in CentOS/Debian](http://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/)
 - [realpython.com: Development and Deployment of Cookiecutter-Django via Docker](https://realpython.com/blog/python/development-and-deployment-of-cookiecutter-django-via-docker/) A Cookiecutter template for creating production-ready Django projects quickly.
 - [github.com: Django app + RESTful API for automatic billing](https://github.com/presslabs/silver/)
+- [CodingEntrepreneurs youtube channel](https://www.youtube.com/user/CodingEntrepreneurs)
+	- [Interested in Learn Django 1.9? Check out my free series on YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy)
 
 ### Python Flask 
 - [The Flask Mega-Tutorial: Now with Python 3 Support](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
@@ -217,6 +229,9 @@
 
 ### Python Pandas and pivot tables
 - [oreilly.com: how to use pivot tables in Pandas step-by-step](https://www.oreilly.com/learning/pivot-tables)
+
+### Python code
+- [Dead simple {for devs} python crawler (script) for extracting structured data from any website into CSV](http://blog.webhose.io/2015/08/16/dead-simple-for-devs-python-crawler-script-for-extracting-structured-data-from-any-almost-website-into-csv/)
 
 ## Python and AWS
 - [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
@@ -242,6 +257,7 @@
 - [Dzone: A Simpler Way to Secure a Java Application](https://dzone.com/articles/a-simpler-way-to-secure-your-java-application-with)
 - [javacodegeeks.com: Java 8 Features Tutorial – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/05/java-8-features-tutorial.html)
 - [Profile of successful Java developer in 2016](http://www.javacodegeeks.com/2015/12/profile-successful-java-developer-2016.html)
+- [Introduction to Docker for Java Developers – Getting started with Docker](http://examples.javacodegeeks.com/devops/introduction-docker-java-developers/)
 - ["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
 ![Learn java python](images/learn-java-python.png)
@@ -268,7 +284,13 @@
 - [github: Javascript Tips – A JavaScript Tip per Day](https://github.com/loverajoel/jstips)
 - [webcodegeeks.com: JavaScript Sort Array Example](http://www.webcodegeeks.com/javascript/javascript-sort-array-example)
 - [Exploring Async Techniques in JavaScript](https://github.com/thalesmello/exploring-async/blob/master/exploring_async.md)
+- [5 Awesome Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/11/5-awesome-tutorials-to-kick-start-your-web-programming-projects.html)
 - [webcodegeeks.com: Top 10 Major Advantages of HTML5](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
+- [simple-talk.com: Script Loading between HTTP/1.1 and HTTP/2](https://www.simple-talk.com/dotnet/asp.net/script-loading-between-http1.1-and-http2/)
+- [65 JavaScript Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.webcodegeeks.com/javascript/javascript-interview-questions-answers/)
+- [Real-time Applications with AngularJS and Java – Part 1](http://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-1/)
+	- [Real-time Applications with AngularJS and Java – Part 2](http://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-2/)
+	- [Real-time Applications with AngularJS and Java – Part 3](http://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-3/)
 
 ### JSON
 - [json.org](http://json.org/)
