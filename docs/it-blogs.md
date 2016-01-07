@@ -3,7 +3,6 @@
 
 - [Miscellaneous](#miscellaneous)
 	- [IT Blogs and Forums](#it-blogs-and-forums)
-	- [IT youtube channels](#it-youtube-channels)
 	- [IT Spain Blogs](#it-spain-blogs)
 	- [Blog Hosting](#blog-hosting)
 	- [Support](#support)
@@ -28,10 +27,6 @@
 - [JAXenter.com: News, Articles, Code](https://jaxenter.com/)
 - [TechSpective](http://techspective.net/)
 - [Tech.Co - Tech & Startup Events, News and Resources](http://tech.co/)
-
-## IT youtube channels
-- [SourceForge](https://www.youtube.com/channel/UC4Y3JZq09X-xMYVbXH8xpZA)
-- [Red Hat Middleware](https://www.youtube.com/channel/UCj1LxybwM853cCvndtZmOkQ)
 
 ## IT Spain Blogs
 - [javiergarzas.com](http://www.javiergarzas.com/)

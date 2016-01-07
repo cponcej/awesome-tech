@@ -3,6 +3,7 @@
 
 - [Linux](#linux)
 	- [Linux and FOSS Blogs and Forums](#linux-and-foss-blogs-and-forums)
+	- [FOSS youtube channels](#foss-youtube-channels)
 	- [Linux CLI References](#linux-cli-references)
 		- [Linux Commands Examples](#linux-commands-examples)
 	- [Vim and Emacs](#vim-and-emacs)
@@ -62,6 +63,12 @@
 - [Linoxide.com](http://linoxide.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 - [tech.paulcz.net](http://tech.paulcz.net/#blog)
+
+## FOSS youtube channels
+- [SourceForge](https://www.youtube.com/channel/UC4Y3JZq09X-xMYVbXH8xpZA)
+- [Red Hat Middleware](https://www.youtube.com/channel/UCj1LxybwM853cCvndtZmOkQ)
+- [Linux/Unix Video Tutorials - nixCraft](https://www.youtube.com/user/nixcraftcom)
+- [TecMint.com](https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ)
 
 ## Linux CLI References
 - [GoAccess real time web log analyzer](http://goaccess.io/)
