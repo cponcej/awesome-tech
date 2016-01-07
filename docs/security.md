@@ -28,6 +28,7 @@
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
 	- [blackmoreops.com: Crack passwords in Kali Linux with Hydra](http://www.blackmoreops.com/2015/12/23/crack-passwords-in-kali-linux-with-hydra/)
 	- [blackmoreops.com: Man in the Middle Attack using Kali Linux – MITM attack](http://www.blackmoreops.com/2015/12/22/man-in-the-middle-attack-using-kali-linux/)
+	- [Kali Linux NetHunter 3.0 Android Mobile Penetration Testing Platform Out Now](http://news.softpedia.com/news/kali-linux-nethunter-3-0-android-mobile-penetration-testing-platform-out-now-498555.shtml)
 - [Network Security Toolkit](http://www.networksecuritytoolkit.org)
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
 
