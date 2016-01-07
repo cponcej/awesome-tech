@@ -36,6 +36,10 @@
 - [Why tools like Docker, Vagrant, and Ansible are hotter than ever](http://opensource.com/business/15/5/why-Docker-Vagrant-and-Ansible)
 - [Crash course on Vagrant, video tutorial at sysadmincasts.com](https://sysadmincasts.com/episodes/42-crash-course-on-vagrant-revised)
 - [developerblog.redhat.com: Using Vagrant Tooling in Eclipse](http://developerblog.redhat.com/2015/12/22/using-vagrant-tooling-in-eclipse/)
+- [vagrantbox.es](http://www.vagrantbox.es/)
+- [Discover Vagrant Boxes](https://atlas.hashicorp.com/boxes/search)
+- [Synced Folders Basic Usage](http://docs.vagrantup.com/v2/synced-folders/basic_usage.html)
+> By default Vagrant will set up a share with your host machine automatically... /vagrant on the virtual box will be mapped to the folder containing your Vagrantfile this allows you to edit anything in this folder and the changes will be made instantly on the virtual box as well.
 
 ## Ansible
 - [Ansible, Just Use It - slide](https://speakerdeck.com/vranac/ansible-just-use-it)

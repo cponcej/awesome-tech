@@ -10,6 +10,7 @@
 		- [Sublime](#sublime)
 			- [Sublime Blogs](#sublime-blogs)
 			- [Setting up Sublime and Tips](#setting-up-sublime-and-tips)
+			- [Anaconda Python IDE](#anaconda-python-ide)
 			- [Sublime Git](#sublime-git)
 		- [Alternative editors](#alternative-editors)
 		- [Diff Tools](#diff-tools)
@@ -106,6 +107,10 @@
 - [SelectExact: A Sublime Text plugin for exact match selections](https://packagecontrol.io/packages/SelectExact)
 - [Google Dictionary: Sublime google dictionary plugin](https://packagecontrol.io/packages/Google%20Dictionary)
 - [Copy copy copy with this new Sublime feature](http://sublimetexttips.com/copy-copy-copy-with-this-new-sublime-feature/)
+
+#### Anaconda Python IDE
+- [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)
+- [Vagrant Environments](http://damnwidget.github.io/anaconda/vagrant/)
 
 #### Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
