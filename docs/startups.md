@@ -11,6 +11,7 @@
 [La economía crece](mkeiser.md)
 
 ## Startup related links
+- [Barcinno - Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
 - [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
 	- [El inversor de éxito que lucha contra la "burbuja" de las startups](http://startupxplore.com/blog/es/bill-gurley-burbuja-startup/)
 - [European Startup Initiative](http://www.startupheatmap.eu/)
@@ -28,6 +29,5 @@
 	- [AngelList Jobs Sevilla](https://angel.co/sevilla)
 	- [AngelList Jobs Malaga](https://angel.co/malaga)
 - [Jobs BCN, All Startup Jobs in Barcelona](http://www.jobsbcn.com/)
-- [Barcinno - Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
