@@ -161,6 +161,8 @@
 ### Cloud Computing Podcasts
 - [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
 	- [The Cloudcast](http://www.thecloudcast.net/)
+		- [The Cloudcast: Cloud Computing Whiteboard Videos](http://www.thecloudcast.net/2012/01/new-cloud-computing-whiteboard-videos.html)
+		- [The Cloudcast youtube channel](https://www.youtube.com/user/TheCloudcastNET)
 	- [Cloud Computing Podcast](http://www.cloudtp.com/insights/cloud-computing-weekly-podcast/)
 	- [Compare the Cloud](http://www.stitcher.com/podcast/compare-the-cloud-the-issues)
 	- [soundcloud: a16z podcast](https://soundcloud.com/a16z)
