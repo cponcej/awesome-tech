@@ -30,6 +30,7 @@
 - [Solutions Review. Buyer's guides and best practices](http://solutions-review.com/)
 
 ## IT Spain Blogs
+- [hipertextual.com](http://hipertextual.com/)
 - [javiergarzas.com](http://www.javiergarzas.com/)
 - [unpocodejava.wordpress.com](https://unpocodejava.wordpress.com/)
 - [jreypo.wordpress.com](https://jreypo.wordpress.com/)
