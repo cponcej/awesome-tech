@@ -105,6 +105,8 @@
 - [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)
 - [¿Cuantos Product Owner puede tener un equipo?](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 
+![not my job](images/not_my_job.jpg)
+
 ### Continuous Integration and Delivery
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
