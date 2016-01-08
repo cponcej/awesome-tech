@@ -15,6 +15,7 @@
 	- [gettopical.com: Internet of Things latest news](http://gettopical.com/internetofthings)
 - [ZDNet](http://www.zdnet.com/)
 - [DZone](https://dzone.com)
+- [Network World](http://www.networkworld.com/)
 - [The enterprisers project](https://enterprisersproject.com/)
 - [enterprisetech.com](http://www.enterprisetech.com/)
 - [Digitalist magazine](http://www.digitalistmag.com/)
@@ -29,6 +30,11 @@
 - [TechSpective](http://techspective.net/)
 - [Tech.Co - Tech & Startup Events, News and Resources](http://tech.co/)
 - [Solutions Review. Buyer's guides and best practices](http://solutions-review.com/)
+- [topdata.news: Big Data News](http://topdata.news/)
+- [Internet of Things News](http://internetofthings.posthaven.com/)
+- [AngularJS News](http://angularjs.posthaven.com/)
+- [ReactJS News](http://reactjs.posthaven.com/)
+- [Bitcoin News](http://btc.posthaven.com/)
 
 ## IT Spain Blogs
 - [hipertextual.com](http://hipertextual.com/)

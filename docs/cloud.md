@@ -61,6 +61,7 @@
 - [dzone: This Year In Modern Software: Cloud, Mobile, Containers, DevOps, and More.](https://dzone.com/articles/this-year-in-modern-software-cloud-mobile-containe) Cloud has finally begun to dominate the software landscape, along with the mainstream arrival of containers and DevOps.
 - [blog.zachbjornson.com: AWS S3 vs Google Cloud vs Azure: Cloud Storage Performance](http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html)
 - [Linode Resets Passwords After Credentials Leak](http://it.slashdot.org/story/16/01/05/223219/linode-resets-passwords-after-credentials-leak)
+- [networkworld.com: And the cloud provider with the best uptime in 2015 is…](http://www.networkworld.com/article/3020235/cloud-computing/and-the-cloud-provider-with-the-best-uptime-in-2015-is.html)
 
 ![cloud market share](images/cloud-market-share-3rd-qtr-2015.png)
 

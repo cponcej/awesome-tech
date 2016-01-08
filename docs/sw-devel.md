@@ -29,7 +29,10 @@
 		- [Python and AWS](#python-and-aws)
 	- [Java](#java)
 	- [Swift](#swift)
-	- [Front-end: HTML5, javascript/node.js](#front-end-html5-javascriptnodejs)
+	- [Front end development](#front-end-development)
+		- [javascript/node.js](#javascriptnodejs)
+		- [HTML5](#html5)
+		- [Oracle JET](#oracle-jet)
 		- [JSON](#json)
 	- [QA. Software Testing](#qa-software-testing)
 
@@ -74,6 +77,7 @@
 ## Patterns
 - [DZone: The Model-View-ViewModel (MVVM) Pattern – Introduction](https://dzone.com/articles/the-mvvm-pattern-introduction)
 - [DZone: Model-View-Controller (MVC): The Basics](https://dzone.com/articles/model-view-controller-mvc-deep-dive)
+- [developers.redhat.com: Modern Java EE design patterns](http://developers.redhat.com/promotions/distributed-javaee-architecture/) Building Scalable Architecture for Sustainable Enterprise Development
 
 ## Editors
 - [tecmint.com: 12 Best Open Source Text Editors (GUI + CLI) I Found in 2015](http://www.tecmint.com/best-open-source-linux-text-editors/)
@@ -107,6 +111,7 @@
 - [SelectExact: A Sublime Text plugin for exact match selections](https://packagecontrol.io/packages/SelectExact)
 - [Google Dictionary: Sublime google dictionary plugin](https://packagecontrol.io/packages/Google%20Dictionary)
 - [Copy copy copy with this new Sublime feature](http://sublimetexttips.com/copy-copy-copy-with-this-new-sublime-feature/)
+- [Prevent copy-and-paste rage with this quick Sublime Text tweak](http://sublimetexttips.com/prevent-copy-and-paste-rage-with-this-quick-sublime-text-tweak/)
 
 #### Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)
@@ -275,16 +280,16 @@
 ## Swift
 - [medium.com: 100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.2onig73ur)
 
-## Front-end: HTML5, javascript/node.js
-- [medium.com/javascript-scene: Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467)
-- [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
-	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
-- [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
-- [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
-- [wired.com - Google's Angular 2 release pushes javascript beyond the browser](http://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/)
+## Front end development
 - [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
+- [simple-talk.com: Script Loading between HTTP/1.1 and HTTP/2](https://www.simple-talk.com/dotnet/asp.net/script-loading-between-http1.1-and-http2/)
+
+### javascript/node.js
+- [5 Awesome Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/11/5-awesome-tutorials-to-kick-start-your-web-programming-projects.html)
+- [15 Reasons Why Developers Need to Learn AngularJS](http://www.javacodegeeks.com/2015/11/15-reasons-developers-need-learn-angularjs.html)
+- [medium.com/javascript-scene: Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467)
 - [webcodegeeks.com: Node.js Tutorial: Building web apps](http://www.webcodegeeks.com/javascript/node-js/building-web-apps-with-node-js/)
 - [webcodegeeks.com: Simple JavaScript OOP for C++, Java and C# Developers](http://www.webcodegeeks.com/javascript/simple-javascript-oop-for-c-java-and-c-developers/)
 - [javacodegeeks.com: How to integrate AJAX into a Spring MVC application](http://www.javacodegeeks.com/2013/09/spring-mvc-ajax-jquery.html)
@@ -292,13 +297,22 @@
 - [github: Javascript Tips – A JavaScript Tip per Day](https://github.com/loverajoel/jstips)
 - [webcodegeeks.com: JavaScript Sort Array Example](http://www.webcodegeeks.com/javascript/javascript-sort-array-example)
 - [Exploring Async Techniques in JavaScript](https://github.com/thalesmello/exploring-async/blob/master/exploring_async.md)
-- [5 Awesome Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/11/5-awesome-tutorials-to-kick-start-your-web-programming-projects.html)
-- [webcodegeeks.com: Top 10 Major Advantages of HTML5](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
-- [simple-talk.com: Script Loading between HTTP/1.1 and HTTP/2](https://www.simple-talk.com/dotnet/asp.net/script-loading-between-http1.1-and-http2/)
 - [65 JavaScript Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.webcodegeeks.com/javascript/javascript-interview-questions-answers/)
 - [Real-time Applications with AngularJS and Java – Part 1](http://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-1/)
 	- [Real-time Applications with AngularJS and Java – Part 2](http://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-2/)
 	- [Real-time Applications with AngularJS and Java – Part 3](http://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-3/)
+
+### HTML5
+- [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
+	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
+- [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
+- [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
+- [wired.com - Google's Angular 2 release pushes javascript beyond the browser](http://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/)
+- [webcodegeeks.com: Top 10 Major Advantages of HTML5](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
+
+### Oracle JET
+- [community.oracle.com - Oracle JET: Getting Started With Modern Web Development.](https://community.oracle.com/docs/DOC-984517) Oracle JET promises to be an enterprise-grade framework for end-to-end client-side web application development.
+- [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
 
 ### JSON
 - [json.org](http://json.org/)

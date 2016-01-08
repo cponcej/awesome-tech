@@ -4,6 +4,7 @@
 - [Linux](#linux)
 	- [Linux and FOSS Blogs and Forums](#linux-and-foss-blogs-and-forums)
 	- [FOSS youtube channels](#foss-youtube-channels)
+	- [Linux at Twitter](#linux-at-twitter)
 	- [Linux CLI References](#linux-cli-references)
 		- [Linux Commands Examples](#linux-commands-examples)
 	- [Vim and Emacs](#vim-and-emacs)
@@ -70,7 +71,15 @@
 - [Linux/Unix Video Tutorials - nixCraft](https://www.youtube.com/user/nixcraftcom)
 - [TecMint.com](https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ)
 
+## Linux at Twitter
+- [@nixcraft](https://twitter.com/nixcraft)
+- [UnixToolTip](https://twitter.com/UnixToolTip)
+- [Command Line Magic](https://twitter.com/climagic)
+- [Tecmint](https://twitter.com/tecmint)
+- [RegexTip](https://twitter.com/RegexTip)
+
 ## Linux CLI References
+- [commandlinefu.com](http://commandlinefu.com/)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
 - [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
@@ -235,6 +244,7 @@
 ## Vim and Emacs
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 - [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
+- [Emacs org-mode examples and cookbook](http://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html)
 
 ![last command](images/last_command.jpg)
 

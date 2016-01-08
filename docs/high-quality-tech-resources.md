@@ -134,6 +134,7 @@
 - [engineering.stackexchange.com](http://engineering.stackexchange.com/)
 - [Electrical Engineering Stack Exchange](http://electronics.stackexchange.com/)
 - [economics.stackexchange.com](http://economics.stackexchange.com/)
+- [Bitcoin Stack Exchange](http://bitcoin.stackexchange.com/)
 - [Law Stack Exchange](http://law.stackexchange.com/)
 - [Music Fans Stack Exchange](http://musicfans.stackexchange.com/)
 - [Music: Practice & Theory Stack Exchange](http://music.stackexchange.com/)

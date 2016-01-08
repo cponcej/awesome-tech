@@ -44,6 +44,8 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![OECD Data: Researchers](images/oecd_researchers.png)
 
+![Worst calendar year starts](images/worst_calendar_year_starts.png)
+
 - [data.oecd.org](https://data.oecd.org)
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
 - [Economy of Spain](https://en.wikipedia.org/wiki/Economy_of_Spain)

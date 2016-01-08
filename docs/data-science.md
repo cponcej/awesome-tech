@@ -20,6 +20,10 @@
 		- [SQL Docs](#sql-docs)
 			- [Database Version Control](#database-version-control)
 			- [MySQL](#mysql)
+				- [MySQL Blogs](#mysql-blogs)
+				- [MySQL Tutorials](#mysql-tutorials)
+				- [MySQL Books](#mysql-books)
+				- [MySQL Best Practices](#mysql-best-practices)
 			- [PostgreSQL](#postgresql)
 			- [TinyDB](#tinydb)
 		- [SQL replication](#sql-replication)
@@ -109,12 +113,14 @@
 - [dzone.com: Taming the Data Variety Beast](https://dzone.com/articles/taming-the-data-variety-beast)
 - [javacodegeeks.com: Top 10 Big Data Trends in 2016 for Financial Services](http://www.javacodegeeks.com/2015/12/top-10-big-data-trends-2016-financial-services.html)
 - [datanami.com: Is 2016 the Beginning of the End for Big Data?](http://www.datanami.com/2016/01/05/is-2016-the-beginning-of-the-end-for-big-data/)
+- [washingtonpost.com: FTC warns companies that ‘big data’ comes with the potential for big problems](https://www.washingtonpost.com/news/the-switch/wp/2016/01/07/ftc-warns-companies-that-big-data-comes-with-the-potential-for-big-problems/)
 
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)
 - [What's The Big Data?](http://whatsthebigdata.com/)
 - [Data Science Central - the online resource for big data practitioners](http://www.datasciencecentral.com)
 - [BDAN: Big Data Analytics News](http://bigdataanalyticsnews.com/)
+- [topdata.news: Big Data News](http://topdata.news/)
 
 ### Data visualization: Tableau
 - [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
@@ -129,6 +135,7 @@
 - [medium.com: How MapR improves our productivity and simplifies our design](https://medium.com/@anicolaspp/how-mapr-improves-our-productivity-and-simplify-our-design-2d777ab53120)
 - [svds.com Spark 1.6.0: Pivoting Data with DataFrames in SparkSQL](http://www.svds.com/pivoting-data-in-sparksql/)
 - [DZone: Setting Up a Sample Application in HBase, Spark, and HDFS](https://dzone.com/articles/sample-app-hbase-spark-hdfs)
+- [Setting Up a Sample Application in HBase, Spark, and HDFS.](https://dzone.com/articles/sample-app-hbase-spark-hdfs) Learn how to develop apps with the common Hadoop, HBase, Spark stack.
 
 ### Apache Hadoop
 - [bigdataanalyticsnews.com: 6 Essential Steps to Successfully Implement Hadoop](http://bigdataanalyticsnews.com/6-essential-steps-to-successfully-implement-hadoop/)
@@ -146,6 +153,7 @@
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [essentialsql.com](http://www.essentialsql.com)
 - [Use-the-index-luke.com: SQL Indexing and Tuning e-Book](http://use-the-index-luke.com/)
+- [InsideMySQL.com](http://insidemysql.com)
 - [T-SQL Tidy: Online T-SQL Statement Parser and Formatter](http://tsqltidy.com/)
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
 - [SQLFormat: Online SQL formatting service](http://sqlformat.org)
@@ -178,6 +186,7 @@
 	- [essentialsql.com: How can I find Duplicate Values in SQL Server?](http://www.essentialsql.com/how-can-i-find-duplicate-values-in-sql-server/)
 	- [essentialsql.com: Commonly used SQL Server Data Types](http://www.essentialsql.com/commonly-used-sql-server-data-types/)
 	- [essentialsql.com: Using Conditional Logic in SQL with CASE Expression](http://www.essentialsql.com/using-conditional-logic-in-sql-with-case-expression/)
+	- [essentialsql.com: Get Ready to Learn SQL: 2. How to Sort Your Query Results with SQLite](http://www.essentialsql.com/get-ready-to-learn-sql-how-to-sort-your-query-results/)
 - [SQL in ten minutes](http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes)
 - [10 sql tips to speed up your database](http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database)
 - [dzone.com: SQL GROUP BY and Functional Dependencies: a Very Useful Feature](https://dzone.com/articles/sql-group-by-and-functional-dependencies-a-very-us)
@@ -205,24 +214,34 @@
 - [dzone.com: The Definitive Guide to Database Version Control — Part 6](https://dzone.com/articles/the-definitive-guide-to-database-version-control-p-7)
 
 #### MySQL
+
+##### MySQL Blogs
+- [MySQL Server Team](http://mysqlserverteam.com/)
+- [InsideMySQL.com](http://insidemysql.com)
+
+##### MySQL Tutorials
 - [Syadmincasts: Crash Course on MySQL](https://sysadmincasts.com/episodes/38-crash-course-on-mysql)
-	- [What Every Data Scientist Needs to Know about SQL](http://joshualande.com/data-science-sql/)
-	- [Top 20+ MySQL Best Practices](http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)
-	- [highperfmysql.com - High Performance MySQL. Learn to Build Fast, Reliable, Scalable Systems with MySQL](http://www.highperfmysql.com/)
-	- [MySQL very high CPU usage (and other processes)](http://www.corrspt.com/blog/2015/07/01/mysql-very-high-cpu-usage/)
-	- [It’s the Hardware, idiot! Increasing MySQL Performance](http://www.monitis.com/blog/2012/09/04/hardware-solutions-for-increasing-mysql-performance/)
-	- [Python Mysql Connector](http://jasonralph.org/?p=291)
-	- [Tutorialspoint.com - MySQL Tutorial](http://www.tutorialspoint.com/mysql/index.htm)
-	- [Anemometer: MySQL Slow Query Monitor](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
-	- [MySQL for Excel 1.3.5](http://insidemysql.com/mysql-for-excel-1-3-5-has-been-released/)
-	- [Top 20+ MySQL Best Practices](http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)
-	- [Find and remove duplicate indexes](https://www.percona.com/blog/2012/06/20/find-and-remove-duplicate-indexes/)
-	- [MySQL Indexing Explained](https://blog.viaduct.io/mysql-indexes-primer/)
-	- [Use MySQL’s Strict Mode on all new Projects! get a better, more modern SQL experience](http://blog.jooq.org/2014/11/20/use-mysqls-strict-mode-on-all-new-projects/)
-	- [High Performance MySQL, 3rd Edition](http://it-ebooks.info/book/676/)
-	- [Terrible choices: MySQL (for Django)](https://www.reddit.com/r/Python/comments/2qm448/terrible_choices_mysql_for_django)
-	- [MySQL 5.7: Improved Performance of Queries with Derived Tables](http://mysqlserverteam.com/mysql-5-7-improved-performance-of-queries-with-derived-tables/)
-	- [generatedata.com via percona.com: Generating test data for MySQL tables](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
+- [Tutorialspoint.com - MySQL Tutorial](http://www.tutorialspoint.com/mysql/index.htm)
+
+##### MySQL Books
+- [highperfmysql.com - High Performance MySQL. Learn to Build Fast, Reliable, Scalable Systems with MySQL](http://www.highperfmysql.com/)
+- [High Performance MySQL, 3rd Edition](http://it-ebooks.info/book/676/)
+
+##### MySQL Best Practices
+- [Top 20+ MySQL Best Practices](http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)
+- [What Every Data Scientist Needs to Know about SQL](http://joshualande.com/data-science-sql/)
+- [MySQL very high CPU usage (and other processes)](http://www.corrspt.com/blog/2015/07/01/mysql-very-high-cpu-usage/)
+- [It’s the Hardware, idiot! Increasing MySQL Performance](http://www.monitis.com/blog/2012/09/04/hardware-solutions-for-increasing-mysql-performance/)
+- [Anemometer: MySQL Slow Query Monitor](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
+- [Find and remove duplicate indexes](https://www.percona.com/blog/2012/06/20/find-and-remove-duplicate-indexes/)
+- [generatedata.com via percona.com: Generating test data for MySQL tables](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
+- [MySQL Indexing Explained](https://blog.viaduct.io/mysql-indexes-primer/)
+- [Use MySQL’s Strict Mode on all new Projects! get a better, more modern SQL experience](http://blog.jooq.org/2014/11/20/use-mysqls-strict-mode-on-all-new-projects/)
+- [Terrible choices: MySQL (for Django)](https://www.reddit.com/r/Python/comments/2qm448/terrible_choices_mysql_for_django)
+- [MySQL 5.7: Improved Performance of Queries with Derived Tables](http://mysqlserverteam.com/mysql-5-7-improved-performance-of-queries-with-derived-tables/)
+- [MySQL for Excel 1.3.5](http://insidemysql.com/mysql-for-excel-1-3-5-has-been-released/)
+	- [MySQL for Visual Studio 1.2.6 has been released](http://insidemysql.com/mysql-for-visual-studio-1-2-6-has-been-released/)
+- [Python Mysql Connector](http://jasonralph.org/?p=291)
 
 ![generatedata.com](images/generatedata.jpg)
 
