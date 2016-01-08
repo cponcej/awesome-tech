@@ -24,7 +24,7 @@
 	- [Linux Security](#linux-security)
 	- [Vim and Emacs](#vim-and-emacs)
 	- [Apple OS X](#apple-os-x)
-		- [Linux Commands Examples](#linux-commands-examples)
+	- [Linux Commands Examples](#linux-commands-examples)
 - [Red Hat](#red-hat)
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
@@ -259,7 +259,7 @@
 ## Apple OS X
 - [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
 
-### Linux Commands Examples
+## Linux Commands Examples
 - Want to increments all numbers in input.txt? 
 
 		perl -pe 's/(\d+)/ 1 + $1 /ge' input.txt
