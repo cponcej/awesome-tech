@@ -144,6 +144,7 @@
 - [Gradle | Modern Open-Source Enterprise Build Automation](http://gradle.org/)
 
 ## Git
+- [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
 - [One Million Downloads of GitLab](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
 - [git.training](http://git.training/)
 - [training.github.com - GitHub Training](https://training.github.com/classes/developers/)
