@@ -3,9 +3,11 @@
 
 - [Linux](#linux)
 	- [Linux and FOSS Blogs and Forums](#linux-and-foss-blogs-and-forums)
+		- [Best Linux Blogs](#best-linux-blogs)
+		- [Alternatives](#alternatives)
 	- [FOSS youtube channels](#foss-youtube-channels)
 	- [Linux at Twitter](#linux-at-twitter)
-	- [Linux CLI References](#linux-cli-references)
+	- [Linux References](#linux-references)
 		- [Linux Commands Examples](#linux-commands-examples)
 	- [Vim and Emacs](#vim-and-emacs)
 	- [Apple OS X](#apple-os-x)
@@ -42,16 +44,21 @@
 - [Predictably, it is hard to make money from something that is free. That includes Linux](http://www.theworldin.com/article/12077/what-next-linux) Only one Linux company has made it big: Red Hat, which is expected to take about  $2 billion in its 2015 financial year, mostly by selling support services to users of the operating system and other open-source programs. The main beneficiaries of such software have been operators of huge data centres, such as Amazon, Facebook and Google, which wouldn’t be able to offer cheap cloud-computing services if they had to pay for the software.
 
 ## Linux and FOSS Blogs and Forums
-- [FOSS Force](http://fossforce.com/)
+
+### Best Linux Blogs
+- [commandlinefu.com](http://commandlinefu.com/)
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
-- [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
+- [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
+- [Linux Home Networking | Tutorials and Forums](http://www.linuxhomenetworking.com/)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
+- [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
+
+### Alternatives
+- [FOSS Force](http://fossforce.com/)
 - [opensource.com](https://opensource.com/)
 - [Linux.com](http://www.linux.com/)
 - [The Linux Foundation](http://www.linuxfoundation.org/)
-- [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
-- [Linux Home Networking | Tutorials and Forums](http://www.linuxhomenetworking.com/)
 - [LinuxJournal](http://www.linuxjournal.com)
 - [linuxtoday.com](http://www.linuxtoday.com/)
 - [Xmodulo - Linux FAQs, tips and tutorials](http://xmodulo.com)
@@ -78,8 +85,7 @@
 - [Tecmint](https://twitter.com/tecmint)
 - [RegexTip](https://twitter.com/RegexTip)
 
-## Linux CLI References
-- [commandlinefu.com](http://commandlinefu.com/)
+## Linux References
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
 - [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
