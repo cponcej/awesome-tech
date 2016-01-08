@@ -79,6 +79,8 @@
 - [DZone: Model-View-Controller (MVC): The Basics](https://dzone.com/articles/model-view-controller-mvc-deep-dive)
 - [developers.redhat.com: Modern Java EE design patterns](http://developers.redhat.com/promotions/distributed-javaee-architecture/) Building Scalable Architecture for Sustainable Enterprise Development
 
+![desirable developer skills](images/desirable_developer_skills.png)
+
 ## Editors
 - [tecmint.com: 12 Best Open Source Text Editors (GUI + CLI) I Found in 2015](http://www.tecmint.com/best-open-source-linux-text-editors/)
 - [javacodegeeks.com: Why we dropped Eclipse in favour of IntelliJ](http://www.javacodegeeks.com/2013/09/why-we-dropped-eclipse-in-favour-of-intellij.html)
