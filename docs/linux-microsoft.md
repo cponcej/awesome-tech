@@ -6,7 +6,7 @@
 		- [Best Linux Blogs](#best-linux-blogs)
 		- [Alternatives](#alternatives)
 	- [FOSS youtube channels](#foss-youtube-channels)
-	- [Linux at Twitter](#linux-at-twitter)
+	- [Linux on Twitter](#linux-on-twitter)
 	- [Linux References](#linux-references)
 		- [Linux Commands Examples](#linux-commands-examples)
 	- [Vim and Emacs](#vim-and-emacs)
@@ -78,7 +78,7 @@
 - [Linux/Unix Video Tutorials - nixCraft](https://www.youtube.com/user/nixcraftcom)
 - [TecMint.com](https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ)
 
-## Linux at Twitter
+## Linux on Twitter
 - [@nixcraft](https://twitter.com/nixcraft)
 - [UnixToolTip](https://twitter.com/UnixToolTip)
 - [Command Line Magic](https://twitter.com/climagic)
