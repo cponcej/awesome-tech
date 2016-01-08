@@ -50,6 +50,7 @@
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
+	- [Episode Guide](https://sysadmincasts.com/episode-guide)
 - [Linux Home Networking | Tutorials and Forums](http://www.linuxhomenetworking.com/)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
 - [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
@@ -73,6 +74,7 @@
 - [tech.paulcz.net](http://tech.paulcz.net/#blog)
 
 ## FOSS youtube channels
+- [Sysadmincasts.com - Episode Guide](https://sysadmincasts.com/episode-guide)
 - [SourceForge](https://www.youtube.com/channel/UC4Y3JZq09X-xMYVbXH8xpZA)
 - [Red Hat Middleware](https://www.youtube.com/channel/UCj1LxybwM853cCvndtZmOkQ)
 - [Linux/Unix Video Tutorials - nixCraft](https://www.youtube.com/user/nixcraftcom)
