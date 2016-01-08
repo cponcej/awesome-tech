@@ -17,13 +17,13 @@
 		- [Linux bash](#linux-bash)
 		- [Linux Terminals](#linux-terminals)
 		- [FOSS Software](#foss-software)
-	- [Vim and Emacs](#vim-and-emacs)
-	- [Apple OS X](#apple-os-x)
 	- [Linux Performance](#linux-performance)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
 		- [Networking CLI and settings](#networking-cli-and-settings)
 	- [Linux Security](#linux-security)
+	- [Vim and Emacs](#vim-and-emacs)
+	- [Apple OS X](#apple-os-x)
 		- [Linux Commands Examples](#linux-commands-examples)
 - [Red Hat](#red-hat)
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
@@ -173,16 +173,6 @@
 - [Zentyal Exchange email on Linux](http://www.zentyal.org/)
 - [Top 10 Open Source Web-Based Project Management Software](http://www.cyberciti.biz/tips/open-source-project-management-software.html)
 
-## Vim and Emacs
-- [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
-- [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
-- [Emacs org-mode examples and cookbook](http://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html)
-
-![last command](images/last_command.jpg)
-
-## Apple OS X
-- [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
-
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
 - [cyberciti.biz: Linux - Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
@@ -258,6 +248,16 @@
 - [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
+
+## Vim and Emacs
+- [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+- [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
+- [Emacs org-mode examples and cookbook](http://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html)
+
+![last command](images/last_command.jpg)
+
+## Apple OS X
+- [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
 
 ### Linux Commands Examples
 - Want to increments all numbers in input.txt? 
