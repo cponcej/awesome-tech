@@ -241,6 +241,11 @@
 
 ### Python Pandas and pivot tables
 - [oreilly.com: how to use pivot tables in Pandas step-by-step](https://www.oreilly.com/learning/pivot-tables)
+- [pbpython.com: Practical Business Python](http://pbpython.com/)
+	- [pbpython.com: Pandas Pivot Table Explained](http://pbpython.com/pandas-pivot-table-explained.html)
+	- [pbpython.com: Collecting Data with Google Forms and Pandas](http://pbpython.com/pandas-google-forms-part1.html)
+- [Reshaping in Pandas – Pivot, Pivot-Table, Stack and Unstack explained with Pictures](https://nikolaygrozev.wordpress.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/)
+- [pandas.pydata.org: Reshaping by pivoting DataFrame objects](http://pandas.pydata.org/pandas-docs/stable/reshaping.html)
 
 ### Python code
 - [Dead simple {for devs} python crawler (script) for extracting structured data from any website into CSV](http://blog.webhose.io/2015/08/16/dead-simple-for-devs-python-crawler-script-for-extracting-structured-data-from-any-almost-website-into-csv/)
