@@ -50,4 +50,5 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
 - [Economy of Spain](https://en.wikipedia.org/wiki/Economy_of_Spain)
 - [uk.businessinsider.com: Animated map shows the history of immigration to the US](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
+- [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 - [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)
