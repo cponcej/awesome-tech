@@ -190,3 +190,5 @@
 - [Linux Networking](https://en.wikibooks.org/wiki/Linux_Networking)
 
 ![internet users](images/internet-users.jpeg)
+
+- [Arthur C. Clarke describe internet en 1974](https://www.youtube.com/watch?v=E5G31VO1c0U)
