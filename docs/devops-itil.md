@@ -190,6 +190,7 @@
 ### Tools
 - [Stop using Nagios (so it can die peacefully)](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
 	- [nagiosql.org](http://www.nagiosql.org/)
+	- [Install NagiosQL - GUI interface to Configure Nagios Core](http://linoxide.com/monitoring-2/install-nagiosql-gui-interface-configure-nagios-core/)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [Linux cluster sysadmin — OS metric monitoring with colmux](http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/)
 - [Netflix and linux performance analysis in 60 seconds](http://www.itworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
