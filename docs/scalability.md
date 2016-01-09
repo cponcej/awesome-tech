@@ -28,7 +28,7 @@
 		Application code should be in version control.
 		Database schema should be in version control.
 		Everything you do should be in version control.
-
+		
 - [slides: Scalable Web Architectures: Common Patterns and Approaches](http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches)
 - [highscalability.com](http://highscalability.com/)
 - [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
