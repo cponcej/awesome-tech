@@ -28,6 +28,7 @@
 - [Red Hat](#red-hat)
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
+	- [Red Hat Insights. Modern infrastructure management](#red-hat-insights-modern-infrastructure-management)
 	- [Red Hat Virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
 	- [Red Hat OpenStack](#red-hat-openstack)
@@ -350,6 +351,9 @@
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
 
+## Red Hat Insights. Modern infrastructure management
+- [Red Hat Insights. Proactively manage your infrastructure with Red Hat® Insights](https://access.redhat.com/insights/info/)
+
 ## Red Hat Virtualization
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 	- [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
@@ -460,6 +464,7 @@
 - [Hitch - scalable TLS proxy. Hitch is a libev-based high performance SSL/TLS proxy by Varnish Software](https://hitch-tls.org/)
 
 ## Red Hat Videos
+- [Red Hat Videos - youtube channel](https://www.youtube.com/user/RedHatVideos)
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
 - [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
 - [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
