@@ -23,7 +23,7 @@
 - [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
 - [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)
 - [How Does The Use Of Docker effect latency on Linux?](http://highscalability.com/blog/2015/12/16/how-does-the-use-of-docker-effect-latency.html)
-- [Cloud Computing: What are the key characteristics of a robust, scalable and healthy cloud architecture?](https://www.quora.com/Cloud-Computing/What-are-the-key-characteristics-of-a-robust-scalable-and-healthy-cloud-architecture)
+- [Cloud Computing: What are the key characteristics of a robust, scalable and healthy cloud architecture?](https://www.quora.com/Cloud-Computing/What-are-the-key-characteristics-of-a-robust-scalable-and-healthy-cloud-architecture) The biggest benefit of moving to the cloud is unsurprisingly a financial one. The financial model associated with the cloud is healthy and economical.
 
 ## Scalability Solutions
 - [OpenShift Dedicated](https://www.openshift.com/dedicated/)
