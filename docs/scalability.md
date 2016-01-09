@@ -17,16 +17,16 @@
 - [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
 	- ["Scalable Internet Architectures" book - Theo Schlossnagle](http://scalableinternetarchitectures.com/)
 	- [video: Scalable Internet Architectures - Theo Schlossnagle](https://www.youtube.com/watch?v=2WuT2rdLK5A)
->Switch configurations should be in version control.
->Router configurations should be in version control.
->Firewall configurations should be in version control.
->System configurations should be in version control.
->Application configurations should be in version control.
->Monitoring configurations should be in version control.
->Documentation should be in version control.
->Application code should be in version control.
->Database schema should be in version control.
->Everything you do should be in version control.
+	> Switch configurations should be in version control.
+	>Router configurations should be in version control.
+	>Firewall configurations should be in version control.
+	>System configurations should be in version control.
+	>Application configurations should be in version control.
+	>Monitoring configurations should be in version control.
+	>Documentation should be in version control.
+	>Application code should be in version control.
+	>Database schema should be in version control.
+	>Everything you do should be in version control.
 
 - [slides: Scalable Web Architectures: Common Patterns and Approaches](http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches)
 - [highscalability.com](http://highscalability.com/)
