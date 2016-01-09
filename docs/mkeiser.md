@@ -51,6 +51,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [data.oecd.org](https://data.oecd.org)
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
 - [Economy of Spain](https://en.wikipedia.org/wiki/Economy_of_Spain)
+- [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
 - [Cost of living database](http://www.numbeo.com/cost-of-living/)
 - [Global house prices](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
 - [Property in San Francisco](http://www.economist.com/news/united-states/21677989-capital-disruption-fears-it-may-be-experiencing-too-much-golden-gates)
