@@ -286,8 +286,8 @@
 
 #### Jed
 - [Configuring Jed](http://www.faqs.org/docs/ldev/0130091154_56.htm)
-- [Jed Intrinsic Function Reference Manual](www.jedsoft.org/jed/doc/jedfuns.html)
-- [JED Editor Quick Reference](www.cs.cmu.edu/%7Ejeliza/work/jed-intro.html)
+- [Jed Intrinsic Function Reference Manual](http://www.jedsoft.org/jed/doc/jedfuns.html)
+- [JED Editor Quick Reference](http://www.cs.cmu.edu/%7Ejeliza/work/jed-intro.html)
 - [JED Modes Repository](http://jedmodes.sourceforge.net/)
 	- [Jedmodes - Modes](http://jedmodes.sourceforge.net/modes/)
 	- [Jedmodes - Modes - ffap : Find File At Point](http://jedmodes.sourceforge.net/mode/ffap/)
