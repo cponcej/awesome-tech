@@ -89,7 +89,6 @@
 ## FOSS youtube channels
 - [Sysadmincasts.com - Episode Guide](https://sysadmincasts.com/episode-guide)
 - [SourceForge](https://www.youtube.com/channel/UC4Y3JZq09X-xMYVbXH8xpZA)
-- [Red Hat Middleware](https://www.youtube.com/channel/UCj1LxybwM853cCvndtZmOkQ)
 - [Linux/Unix Video Tutorials - nixCraft](https://www.youtube.com/user/nixcraftcom)
 - [TecMint.com](https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ)
 
@@ -472,6 +471,7 @@
 ## Red Hat Videos
 - [redhat.com videos](http://www.redhat.com/en/about/videos)
 - [Red Hat Videos - youtube channel](https://www.youtube.com/user/RedHatVideos)
+- [Red Hat Middleware - youtube channel](https://www.youtube.com/channel/UCj1LxybwM853cCvndtZmOkQ)
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
 - [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)
 - [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
