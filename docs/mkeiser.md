@@ -56,6 +56,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [Global house prices](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
 - [Property in San Francisco](http://www.economist.com/news/united-states/21677989-capital-disruption-fears-it-may-be-experiencing-too-much-golden-gates)
 - [Why are house prices cheaper today than ever before?](https://contrarianstraighttalker.wordpress.com/2015/10/18/why-are-house-prices-cheaper-today-than-ever-before-2/)
+- [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
 - [uk.businessinsider.com: Animated map shows the history of immigration to the US](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 - [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 - [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)

@@ -11,6 +11,7 @@
 - [La economía crece](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
 - [Global Technology Adoption Index 2015](https://powermore.dell.com/2015-global-technology-adoption-index/)
+- [startupheatmap.eu: Where is the Europe's next Silicon Valley?](http://www.startupheatmap.eu/)
 
 ## Startup related links
 - [Barcinno - Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
@@ -30,6 +31,18 @@
 	- [AngelList Jobs Bilbao](https://angel.co/bilbao)
 	- [AngelList Jobs Sevilla](https://angel.co/sevilla)
 	- [AngelList Jobs Malaga](https://angel.co/malaga)
+	- [AngelList Jobs London](https://angel.co/london)
+	- [AngelList Jobs Dublin](https://angel.co/dublin)
+	- [AngelList Jobs Paris](https://angel.co/paris)
+	- [AngelList Jobs Berlin](https://angel.co/berlin)
+	- [AngelList Jobs Munich](https://angel.co/munich)
+	- [AngelList Jobs Vienna](https://angel.co/vienna)
+	- [AngelList Jobs Amsterdam](https://angel.co/amsterdam)
+	- [AngelList Jobs Stockholm](https://angel.co/stockholm)
+	- [AngelList Jobs Luxembourg](https://angel.co/luxembourg)
+	- [AngelList Jobs Zurich](https://angel.co/zurich)
 - [Jobs BCN, All Startup Jobs in Barcelona](http://www.jobsbcn.com/)
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
+
+![europe silicon valley](images/europe_silicon_valley.png)
