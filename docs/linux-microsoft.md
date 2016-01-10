@@ -280,7 +280,6 @@
 - [In Emacs, what does "M-x command" mean?](http://kb.iu.edu/data/acqm.html)
 - [Emacs goto line | Stylesen](http://www.stylesen.org/emacs_goto_line)
 - [Simple Emacs Configuration](http://homepages.inf.ed.ac.uk/s0243221/emacs/)
-- [How-to show current line number & column number in the Jed editor status bar « Harbinger's Hollow](https://travelingfrontiers.wordpress.com/2010/07/03/how-to-show-line-numbers-and-tab-python-style-in-the-jed-editor/)
 - [EmacsWiki.org: Mapa Del Sitio](http://www.emacswiki.org/)
 - [emacs quick reference card](http://www.unexpected-vortices.com/emacs/quick-ref.html)
 
@@ -288,6 +287,7 @@
 - [Configuring Jed](http://www.faqs.org/docs/ldev/0130091154_56.htm)
 - [Jed Intrinsic Function Reference Manual](http://www.jedsoft.org/jed/doc/jedfuns.html)
 - [JED Editor Quick Reference](http://www.cs.cmu.edu/%7Ejeliza/work/jed-intro.html)
+- [How-to show current line number & column number in the Jed editor status bar « Harbinger's Hollow](https://travelingfrontiers.wordpress.com/2010/07/03/how-to-show-line-numbers-and-tab-python-style-in-the-jed-editor/)
 - [JED Modes Repository](http://jedmodes.sourceforge.net/)
 	- [Jedmodes - Modes](http://jedmodes.sourceforge.net/modes/)
 	- [Jedmodes - Modes - ffap : Find File At Point](http://jedmodes.sourceforge.net/mode/ffap/)
