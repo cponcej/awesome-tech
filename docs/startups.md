@@ -34,6 +34,7 @@
 	- [AngelList Jobs Lisbon](https://angel.co/lisbon)
 	- [AngelList Jobs Rome](https://angel.co/rome)
 	- [AngelList Jobs Milan](https://angel.co/milan-1)
+	- [AngelList Jobs Malta](https://angel.co/malta)
 	- [AngelList Jobs London](https://angel.co/london)
 	- [AngelList Jobs Manchester](https://angel.co/manchester)
 	- [AngelList Jobs Birmingham](https://angel.co/birmingham)
