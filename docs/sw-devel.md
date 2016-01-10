@@ -53,6 +53,7 @@
 - [dzone: Employee Turnover is Good for the Maintainability of Your Code Base](https://dzone.com/articles/employee-turnover-is-good-for-the-maintainability)
 - [data.triplebyte.com: Three hundred programming interviews in thirty days](https://data.triplebyte.com/three-hundred-programming-interviews-in-thirty-days-12c23c26b5ba)
 - [dzone: Becoming a Senior Engineer](https://dzone.com/articles/becoming-a-senior-engineer)
+- [blog.cleancoder.com: I want to become a Software Architect](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html)
 
 ## Blogs and Forums
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
