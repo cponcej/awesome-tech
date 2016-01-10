@@ -8,7 +8,9 @@
 <!-- /MarkdownTOC -->
 
 # Startups
-[La economía crece](mkeiser.md)
+- [La economía crece](mkeiser.md)
+- [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
+- [Global Technology Adoption Index 2015](https://powermore.dell.com/2015-global-technology-adoption-index/)
 
 ## Startup related links
 - [Barcinno - Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)

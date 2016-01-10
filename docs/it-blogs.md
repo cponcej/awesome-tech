@@ -16,6 +16,7 @@
 - [ZDNet](http://www.zdnet.com/)
 - [DZone](https://dzone.com)
 - [CityAM Tech](http://www.cityam.com/news/tech)
+- [Forbes Tech](http://www.forbes.com/technology/)
 - [Network World](http://www.networkworld.com/)
 - [The enterprisers project](https://enterprisersproject.com/)
 - [enterprisetech.com](http://www.enterprisetech.com/)

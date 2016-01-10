@@ -71,6 +71,8 @@
 - [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
 - [eLearning at deals.slashdot.org](https://deals.slashdot.org/deals/elearning)
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
+- [CloudAcademy](https://cloudacademy.com/)
+	- [AWS Certification Books: free e-book downloads](http://cloudacademy.com/blog/aws-certification-book/)
 - [deals.slashdot.org: AWS Engineer Certification Bundle](https://deals.slashdot.org/sales/aws-associate-certification-bundle)
 - [Aba English - Barcelona](http://www.abaenglish.com)
 - [Pearson English](http://www.english.com/)

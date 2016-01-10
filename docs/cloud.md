@@ -63,6 +63,8 @@
 - [blog.zachbjornson.com: AWS S3 vs Google Cloud vs Azure: Cloud Storage Performance](http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html)
 - [Linode Resets Passwords After Credentials Leak](http://it.slashdot.org/story/16/01/05/223219/linode-resets-passwords-after-credentials-leak)
 - [networkworld.com: And the cloud provider with the best uptime in 2015 is…](http://www.networkworld.com/article/3020235/cloud-computing/and-the-cloud-provider-with-the-best-uptime-in-2015-is.html)
+- [cloudacademy.com: Cloud Computing Salary: where to get the most for your skills](http://cloudacademy.com/blog/cloud-computing-salary/)
+- [Forbes/Tech: AWS is the biggest disruptive force in tech history that happened by accident](http://www.forbes.com/sites/siliconangle/2015/01/28/andy-jassy-aws-trillion-dollar-cloud-ambition/)
 
 ![cloud market share](images/cloud-market-share-3rd-qtr-2015.png)
 
@@ -131,6 +133,8 @@
 - [AWS IoT – Cloud Services for Connected Devices](https://aws.amazon.com/es/blogs/aws/aws-iot-cloud-services-for-connected-devices)
 - [AWS Mobile Hub – Build, Test, and Monitor Mobile Applications](https://aws.amazon.com/es/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications)
 
+![cloud job market](images/cloud_job_market.png)
+
 ## AWS Official Blog, AWS Labs, AWS Quick Start
 - [AWS Official Blog](http://blogs.aws.amazon.com/)
 - [AWS Labs GitHub](https://github.com/awslabs)
@@ -145,6 +149,8 @@
 - [Now Add or Modify Request Headers Forwarded From Amazon CloudFront to Origin](https://aws.amazon.com/about-aws/whats-new/2015/12/now-add-or-modify-request-headers-forwarded-from-amazon-cloudfront-to-origin/)
 - [AWS CloudFormation Adds Support for AWS WAF and AWS Directory Service for Microsoft Active Directory](https://aws.amazon.com/es/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-waf-and-aws-directory-service-for-microsoft-active-directory/)
 - [Amazon WorkMail – Now Generally Available](https://aws.amazon.com/es/blogs/aws/amazon-workmail-now-generally-available/)
+- [London Calling! An AWS Region is coming to the UK!](http://www.allthingsdistributed.com/2015/11/aws-announces-uk-region.html)
+
 
 ### AWS DevOps
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)

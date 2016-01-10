@@ -9,6 +9,7 @@
 
 ## Scalability and Data Center Blogs
 - [highscalability.com](http://highscalability.com/)
+- [All Things Distributed. Werner Vogels' weblog on building scalable and robust distributed systems](http://www.allthingsdistributed.com/)
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 - [Youtube: Iceland - A Growing Data Center Hub](https://www.youtube.com/watch?v=LH5lj4sARI0)
 - [RackTables.org - a datacenter asset management system](http://racktables.org/)
