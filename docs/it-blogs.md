@@ -46,7 +46,8 @@
 - [Aprendiendo a virtualizar](http://aprendiendoavirtualizar.com/)
 - [blogvmware.com](http://www.blogvmware.com/)
 - [mundosql.es](http://www.mundosql.es)
-- [A un clic de las TIC](http://www.aunclicdelastic.com/)
+- [A un clic de las TIC. Telefónica Grandes Empresas](http://www.aunclicdelastic.com/)
+- [Con Tu Negocio. Los mejors contenidos para tu pyme](http://www.contunegocio.es/)
 - [systemadmin.es](http://systemadmin.es/)
 - [muylinux.com](http://www.muylinux.com/)
 

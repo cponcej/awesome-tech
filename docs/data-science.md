@@ -25,6 +25,7 @@
 				- [MySQL Books](#mysql-books)
 				- [MySQL Best Practices](#mysql-best-practices)
 			- [PostgreSQL](#postgresql)
+			- [SQLite](#sqlite)
 			- [TinyDB](#tinydb)
 		- [SQL replication](#sql-replication)
 		- [NoSQL](#nosql)
@@ -271,6 +272,9 @@
 - [Using Repository pattern to migrate Rails app from MongoDB to PostgreSQL](https://www.amberbit.com/blog/2015/11/30/using-repository-pattern-to-migrate-rails-app-from-mongodb-to-postgresql/)
 - [MongoDB 3.2: Now Powered by PostgreSQL](https://www.linkedin.com/pulse/mongodb-32-now-powered-postgresql-john-de-goes)
 - [PostgreSQL Studio, web based postgresql development](http://www.postgresqlstudio.org/)
+
+#### SQLite
+- [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)
 
 #### TinyDB
 - [TinyDB:](http://tinydb.readthedocs.org) a pure Python document (i.e., JSON) database for simple local storage

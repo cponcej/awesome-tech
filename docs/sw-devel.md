@@ -29,6 +29,7 @@
 		- [Python and AWS](#python-and-aws)
 	- [Java](#java)
 	- [Swift](#swift)
+	- [Lambda Expressions](#lambda-expressions)
 	- [Front end development](#front-end-development)
 		- [javascript/node.js](#javascriptnodejs)
 		- [HTML5](#html5)
@@ -51,10 +52,13 @@
 - [12 Most Influential Books Every Software Engineer Needs to Read](http://jasonroell.com/2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/)
 - [dzone: Employee Turnover is Good for the Maintainability of Your Code Base](https://dzone.com/articles/employee-turnover-is-good-for-the-maintainability)
 - [data.triplebyte.com: Three hundred programming interviews in thirty days](https://data.triplebyte.com/three-hundred-programming-interviews-in-thirty-days-12c23c26b5ba)
+- [dzone: Becoming a Senior Engineer](https://dzone.com/articles/becoming-a-senior-engineer)
 
 ## Blogs and Forums
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 - [DZone](http://dzone.com)
+- [javacodegeeks.com](http://javacodegeeks.com/)
+	- [examples.javacodegeeks.com](http://examples.javacodegeeks.com/)
 - [Web Code Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
 - [developer.ibm.com](http://www.ibm.com/developerworks/)
 - [Yacoset.com: Software Engineering Tips](http://www.yacoset.com/)
@@ -114,6 +118,9 @@
 - [Google Dictionary: Sublime google dictionary plugin](https://packagecontrol.io/packages/Google%20Dictionary)
 - [Copy copy copy with this new Sublime feature](http://sublimetexttips.com/copy-copy-copy-with-this-new-sublime-feature/)
 - [Prevent copy-and-paste rage with this quick Sublime Text tweak](http://sublimetexttips.com/prevent-copy-and-paste-rage-with-this-quick-sublime-text-tweak/)
+- [How one lazy programmer moves files around](http://sublimetexttips.com/how-one-lazy-programmer-moves-files-around/)
+- [Rousting the Vim mafia](http://sublimetexttips.com/rousting-the-vim-mafia/)
+- [How to bulk rename files without losing your sanity](http://sublimetexttips.com/how-to-bulk-rename-files-without-losing-your-sanity/)
 
 #### Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)
@@ -265,6 +272,8 @@
 
 ## Java
 - [blog.eisele.net: A Refresher - Top 10 Java EE 7 Backend Features](http://blog.eisele.net/2015/12/a-refresher-top-10-java-ee-7-backend.html)
+- [codejava.net](http://www.codejava.net/)
+	- [Spring Web MVC Security Basic Example Part 1 with XML Configuration](http://www.codejava.net/frameworks/spring/spring-web-mvc-security-basic-example-part-1-with-xml-configuration)
 - [genbetadev.com: java-j2ee](http://www.genbetadev.com/categoria/java-j2ee)
 - [genbetadev.com: Herramientas imprescindibles para un desarrollador de Java (2011)](http://www.genbetadev.com/java-j2ee/herramientas-imprescindibles-para-un-desarrollador-de-java)
 - [JavaOne 2015](https://www.youtube.com/playlist?list=PLPIzp-E1msrZz6RNdbDiK0nKuxAUZPs77)
@@ -282,6 +291,8 @@
 - [Profile of successful Java developer in 2016](http://www.javacodegeeks.com/2015/12/profile-successful-java-developer-2016.html)
 - [Introduction to Docker for Java Developers – Getting started with Docker](http://examples.javacodegeeks.com/devops/introduction-docker-java-developers/)
 - ["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
+- [dzone: High-Performance Immutable Business Objects](https://dzone.com/articles/high-performance-immutable-business-objects)
+- [dzone: Java Annotated Monthly – January 2016.](https://dzone.com/articles/java-annotated-monthly-january-2016) All the latest interesting news and blogs around Java and the JVM languages, including the OpenJDK Android news and some thoughts from Mark Reinhold.
 
 ![Learn java python](images/learn-java-python.png)
 
@@ -289,6 +300,10 @@
 
 ## Swift
 - [medium.com: 100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.2onig73ur)
+- [dzone: Using a C Library in Swift](https://dzone.com/articles/using-a-c-library-in-swift)
+
+## Lambda Expressions 
+- [dzone: Understanding Lambda Expressions](https://dzone.com/articles/understanding-lambda-expressions)
 
 ## Front end development
 - [Top front-ends blogs, videos, repos, accounts and articles. This all is about javascript/node.js, html5, css, mobile web and etc](https://frontend.zeef.com)
@@ -311,6 +326,11 @@
 - [Real-time Applications with AngularJS and Java – Part 1](http://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-1/)
 	- [Real-time Applications with AngularJS and Java – Part 2](http://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-2/)
 	- [Real-time Applications with AngularJS and Java – Part 3](http://examples.javacodegeeks.com/core-java/real-time-applications-angularjs-java-part-3/)
+- [dzone: Learning JavaScript with JS Bin](https://dzone.com/articles/learning-javascript-with-js-bin)
+- [dzone: Performing SEO on AngularJS Web Apps - Developer’s Guide](https://dzone.com/articles/performing-seo-on-angularjs-web-apps-developers-gu)
+- [dzone: Managing Users in Your AngularJS App](https://dzone.com/articles/managing-users-in-your-angularjs-app)
+- [webcodegeeks.com: 65 JavaScript Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.webcodegeeks.com/javascript/javascript-interview-questions-answers)
+- [ibm.com: Use Active Directory for authentication and authorization in your Node.js Bluemix application](http://www.ibm.com/developerworks/library/se-use-active-directory-authentication-authorization-node.js-bluemix-application/index.html)
 
 ### HTML5
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)

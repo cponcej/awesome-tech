@@ -196,6 +196,7 @@
 - [Linux.101hacks.com: lsof Command Examples](http://linux.101hacks.com/monitoring-performance/lsof-command-examples/)
 - [nixCraft: Linux Increase The Maximum Number Of Open Files / File Descriptors (FD)](http://www.cyberciti.biz/faq/linux-increase-the-maximum-number-of-open-files/)
 - [Collecting Ubuntu Linux System Information](http://www.cyberciti.biz/hardware/collecting-ubuntu-linux-system-information/)
+- [howtoforge.com: Server Monitoring with Munin and Monit on Ubuntu 14.04 LTS](https://www.howtoforge.com/tutorial/server-monitoring-with-munin-and-monit-on-ubuntu-14-04/)
 
 ![glances ubuntu output](images/glances-ubuntu-output.png)
 
@@ -229,6 +230,7 @@
 - [Deptyr, or how I learned to love UNIX domain sockets](https://boinkor.net/2016/01/deptyr-or-how-i-learned-to-love-unix-domain-sockets/)
 	- [reptyr: Reparent a running program to a new terminal](https://github.com/nelhage/reptyr)
 	- [deptyr: Run your tty programs pseudo-headlessly under a process supervisor](https://github.com/antifuchs/deptyr)
+- [HowTo: Compile And Run a C/C++ Code In Linux](http://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/)
 
 ## Linux Security
 - [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
@@ -250,12 +252,14 @@
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
 
+![last command](images/last_command.jpg)
+
 ## Vim and Emacs
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 - [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 - [Emacs org-mode examples and cookbook](http://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html)
 
-![last command](images/last_command.jpg)
+![vim,emacs,nano](images/vim_emacs.png)
 
 ## Apple OS X
 - [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
@@ -391,6 +395,7 @@
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
 - [Product Documentation for JBoss Enterprise Application Platform](https://access.redhat.com/documentation/en/jboss-enterprise-application-platform/)
 - [WildFly 10 ebook - Francesco Marchioni](http://www.itbuzzpress.com/ebooks/wildfly-10-ebook.html)
+- [javacodegeeks.com: WildFly Swarm – Deploying Java EE Applications As Standalone Jars](http://www.javacodegeeks.com/2016/01/wildfly-swarm-deploying-java-ee-applications-standalone-jars.html)
 
 ### JBoss Blogs
 - [docs.jboss.org](http://docs.jboss.org )
@@ -410,6 +415,7 @@
 - [JBoss Forums](http://jbossforums.jboss.org/)
 - [JBoss Developer Studio](https://www.jboss.org/products/devstudio/overview/)
 - [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
+- [Container Object pattern. A new pattern for your tests. Arquillian  community](http://www.javacodegeeks.com/2016/01/container-object-pattern-new-pattern-tests.html)
 
 ### JBoss Resources
 - [tecmint.com: WildFly (JBoss AS) – How to Access and Manage CLI Using GUI](http://www.tecmint.com/wildfly-jboss-as-how-to-access-and-manage-cli-using-gui/)
@@ -464,6 +470,7 @@
 - [Hitch - scalable TLS proxy. Hitch is a libev-based high performance SSL/TLS proxy by Varnish Software](https://hitch-tls.org/)
 
 ## Red Hat Videos
+- [redhat.com videos](http://www.redhat.com/en/about/videos)
 - [Red Hat Videos - youtube channel](https://www.youtube.com/user/RedHatVideos)
 - [Red Hat Developers at Devoxx 2015](http://developers.redhat.com/events/devoxx/2015/)
 - [youtube - Red Hat Summit](https://www.youtube.com/user/redhatsummit)

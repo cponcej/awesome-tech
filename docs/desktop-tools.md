@@ -15,6 +15,7 @@
 - [laptops.reviewed.com: The Editors' Choice winning @Dell XPS 15 could be the best Windows laptop yet](http://laptops.reviewed.com/content/dell-xps-15)
 - [This new Samsung laptop is shockingly thin and light](http://www.techinsider.io/samsung-notebook-9-2016-1)
 - [cyberciti.biz: 10 Places To Buy A Laptop With Linux Preloaded](http://www.cyberciti.biz/hardware/laptop-computers-with-linux-installed-or-preloaded/)
+- [zdnet: CES 2016: These are the best laptops, tablets, and portable PCs](http://www.zdnet.com/pictures/best-new-laptops-tablets-gadgets-ces-2016-pictures/)
 
 # Presentations
 - [blog.slideshare.net: 6 Principles of Influence to Enhance Your Presentations](https://blog.slideshare.net/2015/12/14/6-principles-of-influence-to-enhance-your-presentations/)

@@ -15,6 +15,7 @@
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New Features](#aws-new-features)
 		- [AWS DevOps](#aws-devops)
+		- [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
 			- [AWS CLI](#aws-cli)
 			- [AWS Developer Blog](#aws-developer-blog)
 			- [AWS Cloud Formation](#aws-cloud-formation)
@@ -88,6 +89,7 @@
 - [Why OpenStack matters](http://www.anchor.com.au/blog/2014/07/openstack-matters/)
 - [BBVA Bank on OpenStack](https://www.youtube.com/watch?v=PESWFDPbexs)
 - [fortune.com: Red Hat and Mirantis, once an OpenStack couple, have split](http://fortune.com/2015/07/01/red-hat-and-mirantis-split/)
+- [linux.com: Get an OpenStack sandbox environment up and running with minimal or zero cost](https://www.linux.com/learn/tutorials/866101-how-to-test-drive-openstack)
 
 ![openstack cluster](images/openstack-cluster.png)
 
@@ -151,6 +153,10 @@
 - [Building Continuous Deployment on AWS with AWS CodePipeline, Jenkins and AWS Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx34AXRMYLXG5OT/Building-Continuous-Deployment-on-AWS-with-AWS-CodePipeline-Jenkins-and-AWS-Elas)
 - [AWS CodeDeploy: Deploying from a Development Account to a Production Account](http://blogs.aws.amazon.com/application-management/post/Tx3PE3JTSVJSFI7/AWS-CodeDeploy-Deploying-from-a-Development-Account-to-a-Production-Account)
 
+### AWS EC2 Container Registry (Docker)
+- [Amazon EC2 Container Registry Documentation](http://aws.amazon.com/es/documentation/ecr/)
+- [Get started with Amazon EC2 Container Registry (Amazon ECR)](http://docs.aws.amazon.com/AmazonECR/latest/userguide/ECR_GetStarted.html)
+
 #### AWS CLI
 - [AWS CLI Command Reference](http://docs.aws.amazon.com/cli/latest/index.html)
 - [New usage examples have been added to the CLI for CodePipeline API Reference](http://docs.aws.amazon.com/cli/latest/reference/codepipeline/index.html)
@@ -158,6 +164,7 @@
 
 #### AWS Developer Blog
 - [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)
+- [Create an API Using the Swagger Specification and the API Gateway Extensions](http://docs.aws.amazon.com/apigateway/latest/developerguide/create-api-using-import-export-api.html)
 
 #### AWS Cloud Formation
 - [AWS Cloud Formation Release History](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)
