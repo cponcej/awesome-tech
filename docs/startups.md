@@ -37,6 +37,7 @@
 	- [AngelList Jobs London](https://angel.co/london)
 	- [AngelList Jobs Manchester](https://angel.co/manchester)
 	- [AngelList Jobs Birmingham](https://angel.co/birmingham)
+	- [AngelList Jobs Glasgow](https://angel.co/glasgow)
 	- [AngelList Jobs Dublin](https://angel.co/dublin)
 	- [AngelList Jobs Paris](https://angel.co/paris)
 	- [AngelList Jobs Berlin](https://angel.co/berlin)
