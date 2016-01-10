@@ -25,6 +25,7 @@
 				- [MySQL Books](#mysql-books)
 				- [MySQL Best Practices](#mysql-best-practices)
 			- [PostgreSQL](#postgresql)
+				- [UPSERT on Postgres 9.5](#upsert-on-postgres-95)
 			- [SQLite](#sqlite)
 			- [TinyDB](#tinydb)
 		- [SQL replication](#sql-replication)
@@ -256,10 +257,6 @@
 - [talks: NoSQL as Not Only SQL](https://github.com/sjstoelting/talks/blob/master/no-sql-as-not-only-sql/NoSQL-as-Not-Only-SQL.pdf)
 - [SQL Tabs: Rich SQL console for Postgresql](http://www.sqltabs.com/)
 - [Minicurso de PostgreSQL - Parte 4 - tuning](https://blog.infranetworking.com/tuning-de-postgresql/)
-- [Postgres 9.5 - the Feature Rundown: row level security policies, grouping sets and upsert](http://www.craigkerstiens.com/2015/12/27/postgres-9-5-feature-rundown/)
-- [UPSERT on Postgres 9.5](http://blog.andrebarbosa.co/upsert-on-postgres-9-5/)
-- [wiki.postgresql.org: UPSERT on Postgres 9.5](https://wiki.postgresql.org/wiki/What's_new_in_PostgreSQL_9.5#INSERT_..._ON_CONFLICT_DO_NOTHING.2FUPDATE_.28.22UPSERT.22.29)
-- [PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data](http://www.prnewswire.com/news-releases/postgresql-95-upsert-row-level-security-and-big-data-300200819.html)
 - [CrudGen 1.0 un generador de CRUD para Postgresql](http://skatox.com/blog/2014/12/25/crudgen-1-0-generador-de-crud-para-postgresql/)
 - Command to start PostgreSQL 9.4 database cluster manually
 
@@ -272,6 +269,13 @@
 - [Using Repository pattern to migrate Rails app from MongoDB to PostgreSQL](https://www.amberbit.com/blog/2015/11/30/using-repository-pattern-to-migrate-rails-app-from-mongodb-to-postgresql/)
 - [MongoDB 3.2: Now Powered by PostgreSQL](https://www.linkedin.com/pulse/mongodb-32-now-powered-postgresql-john-de-goes)
 - [PostgreSQL Studio, web based postgresql development](http://www.postgresqlstudio.org/)
+
+##### UPSERT on Postgres 9.5
+- [postgresql.org: PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data](http://www.postgresql.org/about/news/1636/)
+- [UPSERT on Postgres 9.5](http://blog.andrebarbosa.co/upsert-on-postgres-9-5/)
+- [wiki.postgresql.org: UPSERT on Postgres 9.5](https://wiki.postgresql.org/wiki/What's_new_in_PostgreSQL_9.5#INSERT_..._ON_CONFLICT_DO_NOTHING.2FUPDATE_.28.22UPSERT.22.29)
+- [PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data](http://www.prnewswire.com/news-releases/postgresql-95-upsert-row-level-security-and-big-data-300200819.html)
+- [Postgres 9.5 - the Feature Rundown: row level security policies, grouping sets and upsert](http://www.craigkerstiens.com/2015/12/27/postgres-9-5-feature-rundown/)
 
 #### SQLite
 - [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)
