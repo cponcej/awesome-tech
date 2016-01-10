@@ -277,7 +277,7 @@
 	- [blackhats.es: emacs refcard](http://www.blackhats.es/emacs/emacs-refcard.pdf)
 	- [supervivencia en emacs](http://www.blackhats.es/wordpress/?p=3)
 - [Emacs org-mode examples and cookbook](http://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html)
-- [In Emacs, what does "M-x command" mean?](kb.iu.edu/data/acqm.html)
+- [In Emacs, what does "M-x command" mean?](http://kb.iu.edu/data/acqm.html)
 - [Emacs goto line | Stylesen](http://www.stylesen.org/emacs_goto_line)
 - [Simple Emacs Configuration](http://homepages.inf.ed.ac.uk/s0243221/emacs/)
 - [How-to show current line number & column number in the Jed editor status bar « Harbinger's Hollow](https://travelingfrontiers.wordpress.com/2010/07/03/how-to-show-line-numbers-and-tab-python-style-in-the-jed-editor/)
