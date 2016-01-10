@@ -23,6 +23,9 @@
 		- [Networking CLI and settings](#networking-cli-and-settings)
 	- [Linux Security](#linux-security)
 	- [Vim and Emacs](#vim-and-emacs)
+		- [Vim](#vim)
+		- [Emacs](#emacs)
+			- [Jed](#jed)
 	- [Apple OS X](#apple-os-x)
 	- [Linux Commands Examples](#linux-commands-examples)
 - [Red Hat](#red-hat)
@@ -83,6 +86,7 @@
 - [The Lone Sysadmin](https://lonesysadmin.net/)
 - [Linux 101 Hacks](http://linux.101hacks.com/)
 - [Linoxide.com](http://linoxide.com/)
+- [The Geek Stuff | Linux | DB | Open Source | Web](http://www.thegeekstuff.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 - [tech.paulcz.net](http://tech.paulcz.net/#blog)
 
@@ -254,9 +258,39 @@
 ![last command](images/last_command.jpg)
 
 ## Vim and Emacs
+### Vim
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+- [Vim Essentials](http://www.semicomplete.com/presentations/vim/)
+- [8 Essential Vim Editor Navigation Fundamentals](http://www.thegeekstuff.com/2009/03/8-essential-vim-editor-navigation-fundamentals/)
+- [IBM: vi tips and tricks: Ten cool commands sure to impress your friends](http://www.ibm.com/developerworks/aix/library/au-vitips.html)
+- [Vim: carta de referencia rápida](http://tnerual.eriogerg.free.fr/vimqrc-es.html)
+- [.vimrc at master from matason's vimstuff - GitHub](https://github.com/matason/vimstuff/blob/master/.vimrc)
+- [drupal.org: Configuring vim](https://www.drupal.org/node/29325)
+- [cyberciti.biz: Turn On or Off Color Syntax Highlighting In vi or vim Editor](http://www.cyberciti.biz/faq/turn-on-or-off-color-syntax-highlighting-in-vi-or-vim/)
+- [Highlight all search pattern matches - Vim Tips Wiki](http://vim.wikia.com/wiki/Highlight_all_search_pattern_matches)
+- [Vim Commands Cheat Sheet](http://bullium.com/support/vim.html)
+- [gvim - Replace Tab with Spaces in VIM](http://stackoverflow.com/questions/426963/replace-tab-with-spaces-in-vim)
+
+### Emacs
 - [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
+- [Black Hats - GNU/Emacs](http://www.blackhats.es)
+	- [blackhats.es: emacs refcard](http://www.blackhats.es/emacs/emacs-refcard.pdf)
+	- [supervivencia en emacs](http://www.blackhats.es/wordpress/?p=3)
 - [Emacs org-mode examples and cookbook](http://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html)
+- [In Emacs, what does "M-x command" mean?](kb.iu.edu/data/acqm.html)
+- [Emacs goto line | Stylesen](http://www.stylesen.org/emacs_goto_line)
+- [Simple Emacs Configuration](http://homepages.inf.ed.ac.uk/s0243221/emacs/)
+- [How-to show current line number & column number in the Jed editor status bar « Harbinger's Hollow](https://travelingfrontiers.wordpress.com/2010/07/03/how-to-show-line-numbers-and-tab-python-style-in-the-jed-editor/)
+- [EmacsWiki.org: Mapa Del Sitio](http://www.emacswiki.org/)
+- [emacs quick reference card](http://www.unexpected-vortices.com/emacs/quick-ref.html)
+
+#### Jed
+- [Configuring Jed](http://www.faqs.org/docs/ldev/0130091154_56.htm)
+- [Jed Intrinsic Function Reference Manual](www.jedsoft.org/jed/doc/jedfuns.html)
+- [JED Editor Quick Reference](www.cs.cmu.edu/%7Ejeliza/work/jed-intro.html)
+- [JED Modes Repository](http://jedmodes.sourceforge.net/)
+	- [Jedmodes - Modes](http://jedmodes.sourceforge.net/modes/)
+	- [Jedmodes - Modes - ffap : Find File At Point](http://jedmodes.sourceforge.net/mode/ffap/)
 
 ![vim,emacs,nano](images/vim_emacs.png)
 
