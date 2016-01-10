@@ -15,7 +15,7 @@
 	- [gettopical.com: Internet of Things latest news](http://gettopical.com/internetofthings)
 - [ZDNet](http://www.zdnet.com/)
 - [DZone](https://dzone.com)
-- [CityAM Tech](www.cityam.com/news/tech)
+- [CityAM Tech](http://www.cityam.com/news/tech)
 - [Network World](http://www.networkworld.com/)
 - [The enterprisers project](https://enterprisersproject.com/)
 - [enterprisetech.com](http://www.enterprisetech.com/)
