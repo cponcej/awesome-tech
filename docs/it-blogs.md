@@ -6,6 +6,7 @@
 	- [IT Spain Blogs](#it-spain-blogs)
 	- [Blog Hosting](#blog-hosting)
 	- [Support](#support)
+	- [Non IT related Podcasts](#non-it-related-podcasts)
 
 <!-- /MarkdownTOC -->
 
@@ -59,3 +60,16 @@
 ## Support
 - [Stack Exchange](high-quality-tech-resources.md#stack-exchange-family-of-qa-websites)
 - [roguewave.com: 2015 Open Source Support Report](http://www.roguewave.com/programs/open-source-support-report)
+
+## Non IT related Podcasts
+- [theguardian.com: The 10 best lesser-known podcasts ](http://www.theguardian.com/culture/gallery/2014/jan/18/10-best-lesser-known-podcasts-miranda-sawyer)
+- [Welcome to Night Vale](https://soundcloud.com/nightvaleradio)
+- [James O’Brien’s Mystery Hour](http://www.lbc.co.uk/james-obriens-mystery-hour-podcast---free-54729)
+- [The Broad Experience](http://www.thebroadexperience.com/)
+- [Love + Radio](http://loveandradio.org/)
+- [Flop House](http://www.flophousepodcast.com/)
+- [Shift Run Stop](http://shiftrunstop.co.uk/)
+- [The Bugle](http://thebuglepodcast.com/)
+- [The Moth](http://themoth.org/)
+- [Savage Lovecast](http://www.savagelovecast.com/)
+- [Velo Club Don Logan](http://veloclubdonlogan.co.uk/category/podcast/)
