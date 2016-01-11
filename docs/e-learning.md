@@ -73,6 +73,7 @@
 - [A Cloud Guru, AWS Certification Courses (available in Udemy)](https://acloud.guru)
 - [CloudAcademy](https://cloudacademy.com/)
 	- [AWS Certification Books: free e-book downloads](http://cloudacademy.com/blog/aws-certification-book/)
+- [AWS Solutions Architect – Education options. Good blog on AWS certification options](http://nimbusarchitect.us/blog/?p=7)
 - [deals.slashdot.org: AWS Engineer Certification Bundle](https://deals.slashdot.org/sales/aws-associate-certification-bundle)
 - [Aba English - Barcelona](http://www.abaenglish.com)
 - [Pearson English](http://www.english.com/)

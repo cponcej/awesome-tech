@@ -116,6 +116,7 @@
 - [javacodegeeks.com: Top 10 Big Data Trends in 2016 for Financial Services](http://www.javacodegeeks.com/2015/12/top-10-big-data-trends-2016-financial-services.html)
 - [datanami.com: Is 2016 the Beginning of the End for Big Data?](http://www.datanami.com/2016/01/05/is-2016-the-beginning-of-the-end-for-big-data/)
 - [washingtonpost.com: FTC warns companies that ‘big data’ comes with the potential for big problems](https://www.washingtonpost.com/news/the-switch/wp/2016/01/07/ftc-warns-companies-that-big-data-comes-with-the-potential-for-big-problems/)
+- [crn.com: Tech 10: Big Developments in Big Data from 2015](http://www.crn.com/slide-shows/applications-os/300078534/tech-10-big-developments-in-big-data.htm)
 
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)
@@ -189,6 +190,7 @@
 	- [essentialsql.com: Commonly used SQL Server Data Types](http://www.essentialsql.com/commonly-used-sql-server-data-types/)
 	- [essentialsql.com: Using Conditional Logic in SQL with CASE Expression](http://www.essentialsql.com/using-conditional-logic-in-sql-with-case-expression/)
 	- [essentialsql.com: Get Ready to Learn SQL: 2. How to Sort Your Query Results with SQLite](http://www.essentialsql.com/get-ready-to-learn-sql-how-to-sort-your-query-results/)
+	- [essentialsql.com: ACID is the foundation of a database. Why so?](http://www.essentialsql.com/what-is-meant-by-acid/)
 - [SQL in ten minutes](http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes)
 - [10 sql tips to speed up your database](http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database)
 - [dzone.com: SQL GROUP BY and Functional Dependencies: a Very Useful Feature](https://dzone.com/articles/sql-group-by-and-functional-dependencies-a-very-us)
@@ -279,6 +281,7 @@
 
 #### SQLite
 - [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)
+- [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 
 #### TinyDB
 - [TinyDB:](http://tinydb.readthedocs.org) a pure Python document (i.e., JSON) database for simple local storage

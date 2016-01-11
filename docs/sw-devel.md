@@ -25,8 +25,10 @@
 		- [Python Feature Flags](#python-feature-flags)
 		- [Python testing](#python-testing)
 		- [Python Pandas and pivot tables](#python-pandas-and-pivot-tables)
+			- [PandasDatabase](#pandasdatabase)
 		- [Python code](#python-code)
 		- [Python and AWS](#python-and-aws)
+		- [Python Tools](#python-tools)
 	- [Java](#java)
 	- [Swift](#swift)
 	- [Lambda Expressions](#lambda-expressions)
@@ -35,6 +37,7 @@
 		- [HTML5](#html5)
 		- [Oracle JET](#oracle-jet)
 		- [JSON](#json)
+		- [Mozilla Tools](#mozilla-tools)
 	- [QA. Software Testing](#qa-software-testing)
 
 <!-- /MarkdownTOC -->
@@ -83,6 +86,7 @@
 - [DZone: The Model-View-ViewModel (MVVM) Pattern – Introduction](https://dzone.com/articles/the-mvvm-pattern-introduction)
 - [DZone: Model-View-Controller (MVC): The Basics](https://dzone.com/articles/model-view-controller-mvc-deep-dive)
 - [developers.redhat.com: Modern Java EE design patterns](http://developers.redhat.com/promotions/distributed-javaee-architecture/) Building Scalable Architecture for Sustainable Enterprise Development
+- [javacodegeeks.com: Java Design Patterns Tutorial](http://www.javacodegeeks.com/2015/09/java-design-patterns.html)
 
 ![desirable developer skills](images/desirable_developer_skills.png)
 
@@ -122,6 +126,7 @@
 - [How one lazy programmer moves files around](http://sublimetexttips.com/how-one-lazy-programmer-moves-files-around/)
 - [Rousting the Vim mafia](http://sublimetexttips.com/rousting-the-vim-mafia/)
 - [How to bulk rename files without losing your sanity](http://sublimetexttips.com/how-to-bulk-rename-files-without-losing-your-sanity/)
+- [Hey Rails Developers (And Web Developers): Here's an Awesome Sublime Text Cheat Sheet Just For You](http://sublimetexttips.com/attention-rails-developers-and-web-developers-heres-an-awesome-sublime-text-cheat-sheet-just-for-you/)
 
 #### Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)
@@ -215,6 +220,8 @@
 - [tqdm: Instantly make your python loops show a progress meter - just wrap any iterator with "tqdm(iterator)", and you're done!](https://github.com/noamraph/tqdm)
 - [If you don't like exceptions, you don't like Python](http://stupidpythonideas.blogspot.com.es/2015/05/if-you-dont-like-exceptions-you-dont.html)
 
+![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)
+
 ### Python Django
 - [gettopical.com: Get Django Latest News](http://gettopical.com/djangoframework)
 - [Learn Python Django in 4 Hours](https://dzone.com/articles/learn-python-django-in-4-hours)
@@ -260,6 +267,9 @@
 - [Reshaping in Pandas – Pivot, Pivot-Table, Stack and Unstack explained with Pictures](https://nikolaygrozev.wordpress.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/)
 - [pandas.pydata.org: Reshaping by pivoting DataFrame objects](http://pandas.pydata.org/pandas-docs/stable/reshaping.html)
 
+#### PandasDatabase
+- [PandasDatabase is a RESTful database engine application built on top of Pandas](https://pypi.python.org/pypi/pddb/)
+
 ### Python code
 - [Dead simple {for devs} python crawler (script) for extracting structured data from any website into CSV](http://blog.webhose.io/2015/08/16/dead-simple-for-devs-python-crawler-script-for-extracting-structured-data-from-any-almost-website-into-csv/)
 
@@ -270,6 +280,11 @@
 - [Migrating to Boto3](https://aws.amazon.com/es/blogs/developer/migrating-to-boto3/)
 - [Managing the Cloud with a Few Lines of Python (EuroPython 2014)](http://pyvideo.org/video/2987/managing-the-cloud-with-a-few-lines-of-python)
 - [ec2-ssh-yplan: A pair of command line utilities for finding and SSH-ing into your Amazon EC2 instances by tag (such as ‘Name’)](https://pypi.python.org/pypi/ec2-ssh-yplan/)
+
+### Python Tools
+- [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
+	- [PyInstaller official GIT repository](https://github.com/pyinstaller/pyinstaller/)
+- [ZipPy: Python3 on top of the JVM (faster than PyPy!)](https://bitbucket.org/ssllab/zippy)
 
 ## Java
 - [blog.eisele.net: A Refresher - Top 10 Java EE 7 Backend Features](http://blog.eisele.net/2015/12/a-refresher-top-10-java-ee-7-backend.html)
@@ -351,6 +366,11 @@
 - [BSON - Binary JSON](http://bsonspec.org/)
 - [Stop Comparing JSON and XML](https://dzone.com/articles/stop-comparing-json-and-xml)
 
+### Mozilla Tools
+- [developer.mozilla.org](https://developer.mozilla.org/)
+- [Mozilla Tools](https://teach.mozilla.org/tools/)
+- [Firefox developer edition](https://www.mozilla.org/firefox/developer/)
+
 ## QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
@@ -365,5 +385,6 @@
 - [The first tool that automatically refactors your Python code](https://www.quantifiedcode.com/how-it-works)
 - [obeythetestinggoat.com: TDD for the Web, with Python, Selenium, Django, JavaScript and pals](http://www.obeythetestinggoat.com/)
 	- [Testing, async, asyncio, and performance](http://www.obeythetestinggoat.com/testing-async-asyncio-and-performance.html)
+- [javacodegeeks.com: 10 Reasons why you should NOT write unit test cases!](http://www.javacodegeeks.com/2013/10/10-reasons-why-you-should-not-write-unit-test-cases.html)
 
 ![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)

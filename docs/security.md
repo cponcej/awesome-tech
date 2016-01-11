@@ -9,6 +9,7 @@
 	- [Identity Management](#identity-management)
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
+	- [Email security. Anti Spam protection](#email-security-anti-spam-protection)
 	- [Major security issues and blogs](#major-security-issues-and-blogs)
 
 <!-- /MarkdownTOC -->
@@ -82,6 +83,11 @@
 - [Bind variables are the best way to prevent SQL injection](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
 
 ![Shellcode Injection](images/shell_access_exploit.png)
+
+## Email security. Anti Spam protection
+- [spamhaus.org](http://www.spamhaus.org/)
+	- [Verizon Routing Millions of IP Addresses for Cybercrime Gangs](http://www.spamhaus.org/news/article/726/)
+- [The Enigmail project. OpenPGP security for mozilla applications](https://www.enigmail.net/)
 
 ## Major security issues and blogs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)

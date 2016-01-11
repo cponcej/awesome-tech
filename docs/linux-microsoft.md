@@ -137,6 +137,8 @@
 - [15 Useful Linux and Unix Tape Managements Commands For Sysadmins](http://www.cyberciti.biz/hardware/unix-linux-basic-tape-management-commands/)
 - [cyberciti.biz: Backup & restore a partition table (including GPT) on Linux in case table get corrupted/modified/deleted by mistake](http://www.cyberciti.biz/faq/linux-backup-restore-a-partition-table-with-sfdisk-command/)
 - [Book Review: Tarsnap Mastery Online Backup For the Truly Paranoid](http://www.cyberciti.biz/cloud-computing/book-review-tarsnap-mastery-online-backup-for-the-truly-paranoid/)
+- [Back In Time - A simple backup tool for Linux written in Python3](https://github.com/bit-team/backintime)
+	- [backintime.readthedocs.org](http://backintime.readthedocs.org)
 
 ### man pages on steroids with examples
 - [TLDR pages](http://tldr-pages.github.io/)
@@ -362,6 +364,10 @@
 
 		iptables -L -n -v --line-numbers
 
+- Want to see whether there was an error after executing a command but no error message was displayed? $? shows the exit status. Try 
+
+		echo $?
+
 ![largest open files](images/largest_open_files.png)
 
 # Red Hat
@@ -424,11 +430,14 @@
 - [Feed Henry](http://feedhenry.org/)
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
 
+![Linux is user friendly](images/tux_friendly.png)
+
 ## JBoss (WildFly)
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
 - [Product Documentation for JBoss Enterprise Application Platform](https://access.redhat.com/documentation/en/jboss-enterprise-application-platform/)
 - [WildFly 10 ebook - Francesco Marchioni](http://www.itbuzzpress.com/ebooks/wildfly-10-ebook.html)
 - [javacodegeeks.com: WildFly Swarm – Deploying Java EE Applications As Standalone Jars](http://www.javacodegeeks.com/2016/01/wildfly-swarm-deploying-java-ee-applications-standalone-jars.html)
+	- [wildfly-swarm.io](http://wildfly-swarm.io/)
 
 ### JBoss Blogs
 - [docs.jboss.org](http://docs.jboss.org )

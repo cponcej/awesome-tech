@@ -142,6 +142,7 @@
 #### CI Maven and Gradle
 - [Java: Maven vs Gradle](https://dzone.com/articles/maven-vs-gradle-one-year-later)
 - [Gradle | Modern Open-Source Enterprise Build Automation](http://gradle.org/)
+- [javacodegeeks.com: Setting up your application server with maven](http://www.javacodegeeks.com/2013/10/setting-up-your-application-server-with-maven.html)
 
 ## Git
 - [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
