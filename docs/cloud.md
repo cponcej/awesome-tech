@@ -14,6 +14,7 @@
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New Features](#aws-new-features)
+		- [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
 		- [AWS DevOps](#aws-devops)
 		- [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
 			- [AWS CLI](#aws-cli)
@@ -152,6 +153,8 @@
 - [Amazon WorkMail – Now Generally Available](https://aws.amazon.com/es/blogs/aws/amazon-workmail-now-generally-available/)
 - [London Calling! An AWS Region is coming to the UK!](http://www.allthingsdistributed.com/2015/11/aws-announces-uk-region.html)
 
+### AWS Schema Conversion Tool
+- [cloudacademy.com: Migrating Data to AWS Using the AWS Schema Conversion Tool: A Preview](http://cloudacademy.com/blog/migrating-data-to-aws/)
 
 ### AWS DevOps
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)
