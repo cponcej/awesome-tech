@@ -439,12 +439,14 @@
 - [WildFly 10 ebook - Francesco Marchioni](http://www.itbuzzpress.com/ebooks/wildfly-10-ebook.html)
 - [javacodegeeks.com: WildFly Swarm – Deploying Java EE Applications As Standalone Jars](http://www.javacodegeeks.com/2016/01/wildfly-swarm-deploying-java-ee-applications-standalone-jars.html)
 	- [wildfly-swarm.io](http://wildfly-swarm.io/)
+- [planet.jboss.org: This week in JBoss (11th January 2016): New Beginnings!](http://planet.jboss.org/post/this_week_in_jboss_11th_january_2016_new_beginnings)
 
 ### JBoss Blogs
 - [docs.jboss.org](http://docs.jboss.org )
 - [community.jboss.org](https://community.jboss.org )
 - [blog.eisele.net: Enterprise Software Development with Java](http://blog.eisele.net/)
 - [JBoss Developer](https://developer.jboss.org/)
+- [Planet JBoss](http://planet.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
 - [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
 - [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)

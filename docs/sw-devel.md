@@ -34,6 +34,7 @@
 	- [C programming](#c-programming)
 	- [Lambda Expressions](#lambda-expressions)
 	- [Front end development](#front-end-development)
+		- [Web developer tools](#web-developer-tools)
 		- [javascript/node.js](#javascriptnodejs)
 		- [HTML5](#html5)
 		- [Oracle JET](#oracle-jet)
@@ -67,6 +68,7 @@
 - [Web Code Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
 - [developer.ibm.com](http://www.ibm.com/developerworks/)
 - [Yacoset.com: Software Engineering Tips](http://www.yacoset.com/)
+- [DevX.com: The know-how behind application development](http://www.devx.com/)
 - [Genbeta dev](http://www.genbetadev.com/)
 
 ## Domain driven design
@@ -332,6 +334,9 @@
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
 - [simple-talk.com: Script Loading between HTTP/1.1 and HTTP/2](https://www.simple-talk.com/dotnet/asp.net/script-loading-between-http1.1-and-http2/)
+
+### Web developer tools
+- [13 web developer tools!](http://www.catonmat.net/blog/more-web-developer-tools/)
 
 ### javascript/node.js
 - [5 Awesome Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/11/5-awesome-tutorials-to-kick-start-your-web-programming-projects.html)

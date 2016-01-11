@@ -118,6 +118,8 @@
 - [datanami.com: Is 2016 the Beginning of the End for Big Data?](http://www.datanami.com/2016/01/05/is-2016-the-beginning-of-the-end-for-big-data/)
 - [washingtonpost.com: FTC warns companies that ‘big data’ comes with the potential for big problems](https://www.washingtonpost.com/news/the-switch/wp/2016/01/07/ftc-warns-companies-that-big-data-comes-with-the-potential-for-big-problems/)
 - [crn.com: Tech 10: Big Developments in Big Data from 2015](http://www.crn.com/slide-shows/applications-os/300078534/tech-10-big-developments-in-big-data.htm)
+- [devx.com: The Big Data Skills Employers Want Most in 2016](http://www.devx.com/DailyNews/the-big-data-skills-employers-want-most-in-2016.html)
+	- [What Are the Most-Wanted Data Science Skills for 2016?](https://adtmag.com/articles/2016/01/08/data-science-skills.aspx)
 
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)

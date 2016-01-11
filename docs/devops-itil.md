@@ -5,6 +5,7 @@
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
 	- [DevOps Tools 2016](#devops-tools-2016)
+	- [Deploying PHP Applications](#deploying-php-applications)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Product Owner](#product-owner)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
@@ -85,6 +86,11 @@
 - [Fabric8 is an integrated open source DevOps and Integration Platform](http://fabric8.io/)
 
 ![always that way](images/always_that_way.jpg)
+
+## Deploying PHP Applications
+- [deployingphpapplications.com](http://www.deployingphpapplications.com/)
+	- [github: book Deploying PHP applications](https://github.com/modess/deploying-php-applications)
+
 
 ## Agile planning: Scrum, Kanban, Lean
 - [Javier Garzás: Agilidad](https://www.youtube.com/watch?v=oShXAC26rcs)

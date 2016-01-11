@@ -67,6 +67,7 @@
 - [cloudacademy.com: Cloud Computing Salary: where to get the most for your skills](http://cloudacademy.com/blog/cloud-computing-salary/)
 - [Forbes/Tech: AWS is the biggest disruptive force in tech history that happened by accident](http://www.forbes.com/sites/siliconangle/2015/01/28/andy-jassy-aws-trillion-dollar-cloud-ambition/)
 - [aunclicdelastic.com: Etapas por las que pasa una empresa para "subirse a la nube"](http://www.aunclicdelastic.com/cloud-de-no-verle-utilidad-a-llevarlo-en-el-adn/)
+- [goparallel.sourceforge.net: Best Practices: First, Know Why You’re Moving to the Cloud](http://goparallel.sourceforge.net/best-practices-first-know-why-youre-moving-to-the-cloud/)
 
 ![cloud market share](images/cloud-market-share-3rd-qtr-2015.png)
 

@@ -16,6 +16,7 @@
 		- [WebLogic via Puppet](#weblogic-via-puppet)
 	- [Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others](#provisioning-red-hat-satellite-katello-foreman-cobbler-and-others)
 	- [Chef and SAP](#chef-and-sap)
+	- [Capistrano](#capistrano)
 	- [SaltStack](#saltstack)
 	- [Docker](#docker)
 		- [Microservices](#microservices)
@@ -140,6 +141,10 @@
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
 - [Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps](http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction)
 
+## Capistrano
+- [Capistrano](http://capistranorb.com)
+- [Capistrano GitHub](https://github.com/capistrano/capistrano)
+
 ## SaltStack
 - [devopslibrary.com: Mastering SaltStack](http://devopslibrary.com/courses/mastering-saltstack/)
 - [Salt vs. Ansible](http://jensrantil.github.io/salt-vs-ansible.html)
@@ -210,6 +215,7 @@
 - [javacodegeeks.com: 10 Awesome Docker Tutorials to Kick-Start your DevOps Projects](http://www.javacodegeeks.com/2015/11/10-awesome-docker-tutorials-to-kick-start-your-devops-projects.html)
 - [examples.javacodegeeks.com: Docker Compose example](http://examples.javacodegeeks.com/devops/docker-compose-example)
 - [youtube: Container security: Do containers actually contain? Should you care? - 2015 Red Hat Summit](https://youtu.be/a9lE9Urr6AQ)
+- [Spotify GitHub: Docker garbage collection of containers and images](https://github.com/spotify/docker-gc) If you’re using Docker for development, you should probably know about this.
 
 ### MySQL via Docker
 - [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
