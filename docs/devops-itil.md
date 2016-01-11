@@ -5,7 +5,6 @@
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
 	- [DevOps Tools 2016](#devops-tools-2016)
-	- [Deploying PHP Applications](#deploying-php-applications)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Product Owner](#product-owner)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
@@ -13,6 +12,7 @@
 			- [CI Docker](#ci-docker)
 			- [CI RPM build](#ci-rpm-build)
 			- [CI Maven and Gradle](#ci-maven-and-gradle)
+			- [Deploying PHP Applications](#deploying-php-applications)
 	- [Git](#git)
 		- [Git clients](#git-clients)
 	- [Performance Testing. Traffic injectors](#performance-testing-traffic-injectors)
@@ -87,11 +87,6 @@
 
 ![always that way](images/always_that_way.jpg)
 
-## Deploying PHP Applications
-- [deployingphpapplications.com](http://www.deployingphpapplications.com/)
-	- [github: book Deploying PHP applications](https://github.com/modess/deploying-php-applications)
-
-
 ## Agile planning: Scrum, Kanban, Lean
 - [Javier Garzás: Agilidad](https://www.youtube.com/watch?v=oShXAC26rcs)
 	- [Aléjate del concepto “Proyecto” si quieres usar bien Scrum: confundir “versión a entregar” al cliente con final de sprint](http://www.javiergarzas.com/2015/11/alejate-del-concepto-proyecto-si-quieres-usar-bien-scrum-12-confundir-version-a-entregar-al-cliente-con-final-de-sprint.html)
@@ -149,6 +144,10 @@
 - [Java: Maven vs Gradle](https://dzone.com/articles/maven-vs-gradle-one-year-later)
 - [Gradle | Modern Open-Source Enterprise Build Automation](http://gradle.org/)
 - [javacodegeeks.com: Setting up your application server with maven](http://www.javacodegeeks.com/2013/10/setting-up-your-application-server-with-maven.html)
+
+#### Deploying PHP Applications
+- [deployingphpapplications.com](http://www.deployingphpapplications.com/)
+	- [github: book Deploying PHP applications](https://github.com/modess/deploying-php-applications)
 
 ## Git
 - [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
