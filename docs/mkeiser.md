@@ -62,3 +62,4 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
+- [Thomas Piketty’s “Capital”, summarised in four paragraphs](http://www.economist.com/blogs/economist-explains/2014/05/economist-explains)
