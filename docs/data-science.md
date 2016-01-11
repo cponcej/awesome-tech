@@ -13,6 +13,7 @@
 		- [Data visualization: Tableau](#data-visualization-tableau)
 		- [Apache Spark](#apache-spark)
 		- [Apache Hadoop](#apache-hadoop)
+			- [Cloudera Docker image](#cloudera-docker-image)
 		- [Apache Storm and Kite SDK Morphlines](#apache-storm-and-kite-sdk-morphlines)
 		- [Pentaho Data Integration and Business Analytics Platforms](#pentaho-data-integration-and-business-analytics-platforms)
 	- [SQL](#sql)
@@ -142,6 +143,10 @@
 
 ### Apache Hadoop
 - [bigdataanalyticsnews.com: 6 Essential Steps to Successfully Implement Hadoop](http://bigdataanalyticsnews.com/6-essential-steps-to-successfully-implement-hadoop/)
+
+#### Cloudera Docker image
+- [pythian.com: how to deploy a cluster](http://www.pythian.com/blog/how-to-deploy-cluster/)
+- [Cloudera Docker Container](http://www.cloudera.com/content/www/en-us/documentation/enterprise/latest/topics/quickstart_docker_container.html)
 
 ### Apache Storm and Kite SDK Morphlines
 - Apache Storm is a distributed streaming processing engine

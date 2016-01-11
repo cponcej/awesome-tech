@@ -31,6 +31,7 @@
 		- [Python Tools](#python-tools)
 	- [Java](#java)
 	- [Swift](#swift)
+	- [C programming](#c-programming)
 	- [Lambda Expressions](#lambda-expressions)
 	- [Front end development](#front-end-development)
 		- [javascript/node.js](#javascriptnodejs)
@@ -317,6 +318,9 @@
 ## Swift
 - [medium.com: 100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.2onig73ur)
 - [dzone: Using a C Library in Swift](https://dzone.com/articles/using-a-c-library-in-swift)
+
+## C programming
+- [How to C in 2016](https://matt.sh/howto-c)
 
 ## Lambda Expressions 
 - [dzone: Understanding Lambda Expressions](https://dzone.com/articles/understanding-lambda-expressions)
