@@ -12,6 +12,7 @@
 
 # Miscellaneous
 ## IT Blogs and Forums
+- [medium.com](https://medium.com)
 - [gettopical.com. Search for a favorite topic and get its latest news](http://gettopical.com/)
 	- [gettopical.com: Internet of Things latest news](http://gettopical.com/internetofthings)
 - [ZDNet](http://www.zdnet.com/)
@@ -23,7 +24,7 @@
 - [The enterprisers project](https://enterprisersproject.com/)
 - [enterprisetech.com](http://www.enterprisetech.com/)
 - [Digitalist magazine](http://www.digitalistmag.com/)
-- [medium.com](https://medium.com)
+- [ars technica](http://arstechnica.com/)
 - [Triplebyte. Building a better hiring process for engineers](https://data.triplebyte.com/)
 - [Tom's Guide: tech products reviews, top picks and How To](http://www.tomsguide.com/)
 - [techpageone.co.uk](http://www.techpageone.co.uk/)

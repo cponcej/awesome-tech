@@ -33,6 +33,7 @@
 - [Thoughts On Cloud](http://www.thoughtsoncloud.com/)
 - [Cloud Expo](http://cloudcomputing.sys-con.com/)
 - [comparethecloud.net](http://www.comparethecloud.net/)
+- [sdxcentral cloud](https://www.sdxcentral.com/flow/cloud/)
 
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
 - [The Twelve-Factor App](http://12factor.net/)
