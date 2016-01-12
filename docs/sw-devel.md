@@ -126,6 +126,7 @@
 
 ### Sublime
 - [twitter.com/SublimeTxtTips](https://twitter.com/SublimeTxtTips)
+- [twitter.com/SublimePackages](https://twitter.com/SublimePackages)
 
 #### Sublime Blogs
 - [sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox](http://sublimetexttips.com/)
