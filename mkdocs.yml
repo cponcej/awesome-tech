@@ -2,7 +2,7 @@ site_name: Awesome Tech
 pages:
 - Home: index.md
 - High quality tech resources and search engines: high-quality-tech-resources.md
-- Miscellaneous. IT Blogs, Support: it-blogs.md
+- Miscellaneous. IT Blogs, Support, HR: it-blogs.md
 - Startups: startups.md
 - Scalability and Reliability, Datacenters: scalability.md
 - Linux, Red Hat, Microsoft, VMware: linux-microsoft.md
