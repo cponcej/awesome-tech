@@ -16,6 +16,7 @@
 		- [man pages on steroids with examples](#man-pages-on-steroids-with-examples)
 		- [Linux bash](#linux-bash)
 		- [Linux Terminals](#linux-terminals)
+		- [Linux Virtualization](#linux-virtualization)
 		- [FOSS Software](#foss-software)
 	- [Linux Performance](#linux-performance)
 	- [Linux Networking](#linux-networking)
@@ -118,6 +119,7 @@
 - [Linux: Use smartctl To Check Disk Behind Adaptec RAID Controllers](http://www.cyberciti.biz/faq/linux-checking-sas-sata-disks-behind-adaptec-raid-controllers/)
 - [Linux/Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
 - [agedu: Unix/Linux Command For Tracking Down Wasted Disk Space](http://www.cyberciti.biz/hardware/linux-find-and-recover-wasted-disk-space/)
+- [Linux lsscsi: See List Of All SCSI/SATA Hard Disks and CD/DVD Drives](http://www.cyberciti.biz/faq/debian-ubuntu-linux-list-scsi-devices-hosts-attributes-lsscsi-command/)
 
 ### Linux processes
 - [Linux: Find Out Which Process Is Listening Upon a Port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
@@ -171,6 +173,10 @@
 ### Linux Terminals
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)
 - [Pymux: A terminal multiplexer (like tmux) in Python](https://github.com/jonathanslenders/pymux)
+
+### Linux Virtualization
+- [Linux & Unix Virtualization Guides](http://www.cyberciti.biz/faq/category/virtualization/)
+- [Troubleshooting KVM Virtualization Problem With Log Files](http://www.cyberciti.biz/faq/troubleshooting-kvm-virtualization-problem-with-log-files/)
 
 ### FOSS Software
 - [30 Cool Open Source Software I Discovered in 2013](http://www.cyberciti.biz/open-source/30-cool-best-open-source-softwares-of-2013/)
@@ -253,8 +259,9 @@
 - [certsimple.com: You won't remember the options for OpenSSL, so here's bash shortcuts for everything](https://certsimple.com/blog/openssl-shortcuts)
 - [Software with the most vulnerabilities in 2015: Mac OS X, iOS, and Flash](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
 - [howtoforge.com: How to install ProFTPd with TLS support on Ubuntu 15.10](https://www.howtoforge.com/tutorial/install-proftpd-with-tls-on-ubuntu-15-10/)
-- [Linux: 20 Iptables Examples For New SysAdmins](http://www.cyberciti.biz/tips/linux-iptables-examples.html)
-- [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
+- [cyberciti.biz: Linux Netfilter Tutorials (iptables)](http://www.cyberciti.biz/faq/category/iptables/)
+	- [Linux: 20 Iptables Examples For New SysAdmins](http://www.cyberciti.biz/tips/linux-iptables-examples.html)
+	- [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
 
@@ -368,6 +375,10 @@
 - Want to see whether there was an error after executing a command but no error message was displayed? $? shows the exit status. Try 
 
 		echo $?
+
+- Want to see disks attached to Linux server? Try 
+
+		lsscsi
 
 ![largest open files](images/largest_open_files.png)
 
