@@ -71,7 +71,8 @@
 
 ## Download Free Legal eBooks
 - [wowebook.org: Download Free Legal eBooks](http://www.wowebook.org/)
-- [Amazon Web Services in Action](http://www.wowebook.org/amazon-web-services-in-action.html)
+	- [Amazon Web Services in Action](http://www.wowebook.org/amazon-web-services-in-action.html)
+- [it-ebooks.info](https://it-ebooks.info/)
 
 ## Alternatives
 - [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
