@@ -81,13 +81,13 @@
 	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
 - [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
 - [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
-- [Podcasts de programación web](http://montesjmm.es/2014/07/09/podcasts-de-programacion-web/)
-- [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
 - [We.Developers: El podcast para desarrolladores en castellano](http://wedevelopers.com/)
 	- [De cero a la App Store](http://wedevelopers.com/2013/03/01/we-developers-017-de-cero-a-la-app-store/)
     - [Metodologías de desarrollo ágil](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
     - [Diseño y desarrollo](http://wedevelopers.com/2012/11/23/we-developers-011-diseno-y-desarrollo/)
     - [Optimización web](http://wedevelopers.com/2012/08/10/we-developers-010-optimizacion-web/)
+- [Podcasts de programación web](http://montesjmm.es/2014/07/09/podcasts-de-programacion-web/)
+- [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
 - [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
 
 ## Domain driven design
