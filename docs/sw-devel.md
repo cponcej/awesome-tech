@@ -3,6 +3,7 @@
 
 - [Software Development](#software-development)
 	- [Blogs and Forums](#blogs-and-forums)
+	- [Podcasts](#podcasts)
 	- [Domain driven design](#domain-driven-design)
 	- [API and Documentation Generators](#api-and-documentation-generators)
 	- [Patterns](#patterns)
@@ -70,6 +71,9 @@
 - [Yacoset.com: Software Engineering Tips](http://www.yacoset.com/)
 - [DevX.com: The know-how behind application development](http://www.devx.com/)
 - [Genbeta dev](http://www.genbetadev.com/)
+
+## Podcasts
+- [Discussions on software development, by Bryan Hogan](http://nodogmapodcast.bryanhogan.net/)
 
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
