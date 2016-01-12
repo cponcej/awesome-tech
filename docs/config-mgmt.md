@@ -13,6 +13,7 @@
 			- [PostgreSQL via Ansible](#postgresql-via-ansible)
 			- [Oracle via Ansible](#oracle-via-ansible)
 	- [Puppet](#puppet)
+		- [Application Orchestration](#application-orchestration)
 		- [WebLogic via Puppet](#weblogic-via-puppet)
 	- [Provisioning: Red Hat Satellite, Katello, Foreman, Cobbler and others](#provisioning-red-hat-satellite-katello-foreman-cobbler-and-others)
 	- [Chef and SAP](#chef-and-sap)
@@ -118,6 +119,10 @@
 - [Puppet Modules: Apps for Ops](http://pyvideo.org/video/2589/puppet-modules-apps-for-ops)
 - [Geppetto, eclipse plugin for puppet](https://puppetlabs.com/blog-tags/geppetto)
 - [New Releases for AWS and vSphere Modules](https://puppetlabs.com/blog/new-releases-aws-and-vsphere-modules)
+
+### Application Orchestration
+- [Bringing application orchestration to the Learning VM](https://puppetlabs.com/blog/bringing-application-orchestration-to-learning-vm)
+- [Extending your Puppet language dictionary for application orchestration](https://puppetlabs.com/blog/extending-your-puppet-language-dictionary-application-orchestration)
 
 ### WebLogic via Puppet
 - [Setup WebLogic 12c environment with Vagrant and Puppet](http://multikoop.blogspot.com.br/2013/11/setup-weblogic-12c-environment-with.html)
