@@ -100,6 +100,8 @@
 - [Gobby: A Collaborative Text Editor](https://gobby.github.io/)
 - [SourceForge youtube: How to Use JSONViewer Notepad++ plugin](https://www.youtube.com/watch?v=5TcXJEuA1z4)
 
+![Be like Bill](images/be_like_bill.jpg)
+
 ### Sublime
 - [twitter.com/SublimeTxtTips](https://twitter.com/SublimeTxtTips)
 
