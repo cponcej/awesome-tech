@@ -206,3 +206,4 @@
 - [medium.com: Building a Serverless Dynamic DNS System with AWS](https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8#.qq54pucbd)
 
 ![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)
+

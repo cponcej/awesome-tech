@@ -72,6 +72,8 @@
 - [9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
 - [9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
 
+![Maslows-Hierarchy-of-Needs](images/Maslows-Hierarchy-of-Needs-resized1.png)
+
 ## Non IT related Podcasts
 - [theguardian.com: The 10 best lesser-known podcasts ](http://www.theguardian.com/culture/gallery/2014/jan/18/10-best-lesser-known-podcasts-miranda-sawyer)
 - [Welcome to Night Vale](https://soundcloud.com/nightvaleradio)

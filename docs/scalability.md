@@ -14,6 +14,8 @@
 - [Youtube: Iceland - A Growing Data Center Hub](https://www.youtube.com/watch?v=LH5lj4sARI0)
 - [RackTables.org - a datacenter asset management system](http://racktables.org/)
 
+![If you think it's expensive to hire a professional](images/If-you-think-its-expensive-to-hire-a-professional.jpg)
+
 # Scalability and Reliability. Distributed Systems
 - [Scalable Internet Architectures" slides - Theo Schlossnagle how to build scalable production Internet services and... how not to build them](http://lethargy.org/~jesus/misc/Scalable%20Ti.pdf)
 	- ["Scalable Internet Architectures" book - Theo Schlossnagle](http://scalableinternetarchitectures.com/)
