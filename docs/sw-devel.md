@@ -74,6 +74,7 @@
 
 ## Podcasts
 - [Discussions on software development, by Bryan Hogan](http://nodogmapodcast.bryanhogan.net/)
+	- [#41 Ken Finnegan, What Ireland Offers the Tech World](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
 
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
