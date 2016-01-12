@@ -33,7 +33,7 @@
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
 	- [Red Hat Insights. Modern infrastructure management](#red-hat-insights-modern-infrastructure-management)
-		- [Cockpit web based server manager](#cockpit-web-based-server-manager)
+	- [Cockpit web based server manager](#cockpit-web-based-server-manager)
 	- [Red Hat Virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
 	- [Red Hat OpenStack](#red-hat-openstack)
@@ -423,7 +423,7 @@
 ## Red Hat Insights. Modern infrastructure management
 - [Red Hat Insights. Proactively manage your infrastructure with Red Hat® Insights](https://access.redhat.com/insights/info/)
 
-### Cockpit web based server manager
+## Cockpit web based server manager
 - Cockpit was created by Red Hat to make server administration easier. With this web-based GUI you can tackle tasks like storage administration, journal inspection, starting/stopping services, and multiple server monitoring. Cockpit will run on Fedora Server, Arch Linux, CentOS Atomic, Fedora Atomic, and Red Hat Enterprise Linux.
 - [cockpit-project.org](http://cockpit-project.org/)
 - [tecmint.com: Installation of Fedora 23 Server and Administration with Cockpit Management Tool](http://www.tecmint.com/installation-of-fedora-23-server-and-administration-with-cockpit-tool/)
