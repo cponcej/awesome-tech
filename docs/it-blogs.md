@@ -66,6 +66,7 @@
 - [roguewave.com: 2015 Open Source Support Report](http://www.roguewave.com/programs/open-source-support-report)
 
 ## Human Resources
+- [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 - [equiposytalento.com](http://www.equiposytalento.com/)
 
 ### 9 Box Model for classifying people in organizations
