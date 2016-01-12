@@ -10,7 +10,7 @@
 		- [Apache Zeppelin](#apache-zeppelin)
 	- [Big Data](#big-data)
 		- [Big Data Blogs](#big-data-blogs)
-		- [Data visualization: Tableau](#data-visualization-tableau)
+		- [Data visualization. Tableau](#data-visualization-tableau)
 		- [Apache Spark](#apache-spark)
 		- [Apache Hadoop](#apache-hadoop)
 			- [Cloudera Docker image](#cloudera-docker-image)
@@ -128,9 +128,10 @@
 - [BDAN: Big Data Analytics News](http://bigdataanalyticsnews.com/)
 - [topdata.news: Big Data News](http://topdata.news/)
 
-### Data visualization: Tableau
+### Data visualization. Tableau
 - [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
 - [dbi.io: Visualización de Datos con Tableau de los resultados de una encuesta (4Q)](http://www.dbi.io/es/blog/visualizacion-de-datos-de-encuesta-con-tableau)
+- [flowingdata.com](http://flowingdata.com/)
 
 ### Apache Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)

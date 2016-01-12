@@ -8,6 +8,7 @@
 	- [FOSS youtube channels](#foss-youtube-channels)
 	- [Linux on Twitter](#linux-on-twitter)
 	- [Linux References](#linux-references)
+		- [Cockpit project, a web based server manager to administer Linux server](#cockpit-project-a-web-based-server-manager-to-administer-linux-server)
 		- [Linux web tools](#linux-web-tools)
 		- [Linux storage](#linux-storage)
 		- [Linux processes](#linux-processes)
@@ -109,6 +110,11 @@
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
 - [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)
 
+### Cockpit project, a web based server manager to administer Linux server
+- [cockpit-project.org](http://cockpit-project.org/)
+- [Managing your Fedora Server with Cockpit](http://blog.jreypo.io/devops/linux/red%20hat/sysadmin/managing-your-fedora-server-with-cockpit/)
+- [How to install Cockpit on CentOS 7](http://blog.jreypo.io/linux/red%20hat/sysadmin/how-to-install-cockpit-on-centos-7/)
+
 ### Linux web tools
 - [curl Command Resume Broken Download](http://www.cyberciti.biz/faq/curl-command-resume-broken-download/)
 - [Wget: Resume Broken Download](http://www.cyberciti.biz/tips/wget-resume-broken-download.html)
@@ -185,6 +191,7 @@
 - [ownCloud 8.2.2, 8.1.5, 8.0.10 and 7.0.12 here with Sharing, LDAP fixes](https://owncloud.org/blog/owncloud-8-2-2-8-1-5-8-0-10-and-7-0-12-here-with-sharing-ldap-fixes/)
 - [Zentyal Exchange email on Linux](http://www.zentyal.org/)
 - [Top 10 Open Source Web-Based Project Management Software](http://www.cyberciti.biz/tips/open-source-project-management-software.html)
+- [alternativeto.net: A way to find alternative software, filters let you show only open source](https://alternativeto.net/)
 
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
@@ -381,6 +388,11 @@
 
 		lsscsi
 
+- Want to delete existing SAN LUNs on Linux?
+
+		multipath -f map # Flush a multipath devicemap 
+		echo 1>/sys/block/sdc/device/delete # Delete sdc
+
 ![largest open files](images/largest_open_files.png)
 
 # Red Hat
@@ -568,3 +580,5 @@
 - [VMware Front Experience](http://www.v-front.de/)
 	- [VMware launches vSphere 6 - What's in ESXi 6.0 for free license and white box users?](http://www.v-front.de/2015/02/whats-in-esxi-60-for-free-license-and.html)
 - [blogvmware.com](http://www.blogvmware.com/)
+- [VMware Photon OS - Minimal Linux Container Host](https://vmware.github.io/photon/)
+- [You can run Cockpit in VMware Photon OS](http://blog.jreypo.io/cloud-native/devops/vmware/sysadmin/you-can-run-cockpit-in-photon-os/)
