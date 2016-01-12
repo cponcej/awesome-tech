@@ -4,6 +4,7 @@
 - [E-Learning](#e-learning)
 	- [Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code](#udemy-lifetime-access-with-no-subscription-drop-the-price-of-any-udemy-course-to-11-or-12-euro-with-a-coupon-code)
 	- [Free e-learning](#free-e-learning)
+	- [Download Free Legal eBooks](#download-free-legal-ebooks)
 	- [Alternatives](#alternatives)
 
 <!-- /MarkdownTOC -->
@@ -67,6 +68,10 @@
 - [INE.com training videos: Wireshark, vSphere 6.0, CCNA, MPLS, BGP, etc](https://www.youtube.com/user/INEtraining/playlists)
 - [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
 - [khanacademy.org](https://khanacademy.org/)
+
+## Download Free Legal eBooks
+- [wowebook.org: Download Free Legal eBooks](http://www.wowebook.org/)
+- [Amazon Web Services in Action](http://www.wowebook.org/amazon-web-services-in-action.html)
 
 ## Alternatives
 - [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
