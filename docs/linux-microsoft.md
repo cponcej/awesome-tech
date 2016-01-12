@@ -141,6 +141,7 @@
 - [Book Review: Tarsnap Mastery Online Backup For the Truly Paranoid](http://www.cyberciti.biz/cloud-computing/book-review-tarsnap-mastery-online-backup-for-the-truly-paranoid/)
 - [Back In Time - A simple backup tool for Linux written in Python3](https://github.com/bit-team/backintime)
 	- [backintime.readthedocs.org](http://backintime.readthedocs.org)
+- [Linux Get List of Installed Software for Reinstallation / Restore All the Software Programs](http://www.cyberciti.biz/tips/linux-get-list-installed-software-reinstallation-restore.html)
 
 ### man pages on steroids with examples
 - [TLDR pages](http://tldr-pages.github.io/)
