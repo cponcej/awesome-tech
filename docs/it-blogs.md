@@ -6,6 +6,7 @@
 	- [IT Spain Blogs](#it-spain-blogs)
 	- [Blog Hosting](#blog-hosting)
 	- [Support](#support)
+	- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
 	- [Non IT related Podcasts](#non-it-related-podcasts)
 
 <!-- /MarkdownTOC -->
@@ -61,6 +62,10 @@
 ## Support
 - [Stack Exchange](high-quality-tech-resources.md#stack-exchange-family-of-qa-websites)
 - [roguewave.com: 2015 Open Source Support Report](http://www.roguewave.com/programs/open-source-support-report)
+
+## 9 Box Model for classifying people in organizations
+- [9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
+- [9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
 
 ## Non IT related Podcasts
 - [theguardian.com: The 10 best lesser-known podcasts ](http://www.theguardian.com/culture/gallery/2014/jan/18/10-best-lesser-known-podcasts-miranda-sawyer)
