@@ -101,6 +101,7 @@
 - [SourceForge youtube: How to Use JSONViewer Notepad++ plugin](https://www.youtube.com/watch?v=5TcXJEuA1z4)
 
 ### Sublime
+- [twitter.com/SublimeTxtTips](https://twitter.com/SublimeTxtTips)
 
 #### Sublime Blogs
 - [sublimetexttips.com Free Sublime Text tips and tricks, delivered straight to your inbox](http://sublimetexttips.com/)
