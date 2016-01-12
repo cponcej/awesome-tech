@@ -91,6 +91,8 @@
 - [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
 - [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
 
+![we developers](images/we_developers.png)
+
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
 - [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)
