@@ -54,6 +54,7 @@
 - [mundosql.es](http://www.mundosql.es)
 - [A un clic de las TIC. Telefónica Grandes Empresas](http://www.aunclicdelastic.com/)
 - [Con Tu Negocio. Los mejors contenidos para tu pyme](http://www.contunegocio.es/)
+- [TICbeat](http://www.ticbeat.com/)
 - [systemadmin.es](http://systemadmin.es/)
 - [muylinux.com](http://www.muylinux.com/)
 
