@@ -8,7 +8,6 @@
 	- [FOSS youtube channels](#foss-youtube-channels)
 	- [Linux on Twitter](#linux-on-twitter)
 	- [Linux References](#linux-references)
-		- [Cockpit project, a web based server manager to administer Linux server](#cockpit-project-a-web-based-server-manager-to-administer-linux-server)
 		- [Linux web tools](#linux-web-tools)
 		- [Linux storage](#linux-storage)
 		- [Linux processes](#linux-processes)
@@ -34,6 +33,7 @@
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
 	- [Red Hat Insights. Modern infrastructure management](#red-hat-insights-modern-infrastructure-management)
+		- [Cockpit web based server manager](#cockpit-web-based-server-manager)
 	- [Red Hat Virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
 	- [Red Hat OpenStack](#red-hat-openstack)
@@ -72,6 +72,7 @@
 - [Linux Home Networking | Tutorials and Forums](http://www.linuxhomenetworking.com/)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
 - [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
+- [LinuxPitstop: Linux Tips, Techniques, HowTo's & Open Source News](http://linuxpitstop.com/)
 
 ### Alternatives
 - [FOSS Force](http://fossforce.com/)
@@ -109,11 +110,6 @@
 ## Linux References
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
 - [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)
-
-### Cockpit project, a web based server manager to administer Linux server
-- [cockpit-project.org](http://cockpit-project.org/)
-- [Managing your Fedora Server with Cockpit](http://blog.jreypo.io/devops/linux/red%20hat/sysadmin/managing-your-fedora-server-with-cockpit/)
-- [How to install Cockpit on CentOS 7](http://blog.jreypo.io/linux/red%20hat/sysadmin/how-to-install-cockpit-on-centos-7/)
 
 ### Linux web tools
 - [curl Command Resume Broken Download](http://www.cyberciti.biz/faq/curl-command-resume-broken-download/)
@@ -184,6 +180,7 @@
 ### Linux Virtualization
 - [Linux & Unix Virtualization Guides](http://www.cyberciti.biz/faq/category/virtualization/)
 - [Troubleshooting KVM Virtualization Problem With Log Files](http://www.cyberciti.biz/faq/troubleshooting-kvm-virtualization-problem-with-log-files/)
+- [linuxpitstop.com: Install and Configure KVM (Kernel Based Virtual Machine) On Ubuntu Linux 15.04](http://linuxpitstop.com/install-kvm-on-ubuntu-linux-15-04/)
 
 ### FOSS Software
 - [30 Cool Open Source Software I Discovered in 2013](http://www.cyberciti.biz/open-source/30-cool-best-open-source-softwares-of-2013/)
@@ -425,6 +422,13 @@
 
 ## Red Hat Insights. Modern infrastructure management
 - [Red Hat Insights. Proactively manage your infrastructure with Red Hat® Insights](https://access.redhat.com/insights/info/)
+
+### Cockpit web based server manager
+- Cockpit was created by Red Hat to make server administration easier. With this web-based GUI you can tackle tasks like storage administration, journal inspection, starting/stopping services, and multiple server monitoring. Cockpit will run on Fedora Server, Arch Linux, CentOS Atomic, Fedora Atomic, and Red Hat Enterprise Linux.
+- [cockpit-project.org](http://cockpit-project.org/)
+- [tecmint.com: Installation of Fedora 23 Server and Administration with Cockpit Management Tool](http://www.tecmint.com/installation-of-fedora-23-server-and-administration-with-cockpit-tool/)
+- [linuxpitstop.com: Install Cockpit on CentOS 7 – A Web Based System Monitoring Tool](http://linuxpitstop.com/install-cockpit-on-centos-7/)
+- [linoxide.com: How to Install Cockpit on Linux CentOS 7](http://linoxide.com/linux-how-to/install-cockpit-linux-centos-7/)
 
 ## Red Hat Virtualization
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
