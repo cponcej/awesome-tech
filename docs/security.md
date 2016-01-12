@@ -3,6 +3,7 @@
 
 - [Security](#security)
 	- [Security Blogs](#security-blogs)
+	- [Security Podcasts](#security-podcasts)
 	- [Security Toolkits](#security-toolkits)
 	- [Antivirus](#antivirus)
 	- [Database encryption](#database-encryption)
@@ -24,6 +25,9 @@
 - [Guido Vranken](https://guidovranken.wordpress.com/)
 - [youtube playlist: Dell Security](https://www.youtube.com/playlist?list=PLtVMPnH0I8TSLxGad4D9UGr12S1SH3kcM)
 - [blog.cryptographyengineering.com](http://blog.cryptographyengineering.com/)
+
+## Security Podcasts
+- [phoneboy.com](https://phoneboy.com/)
 
 ## Security Toolkits
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
