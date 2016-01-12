@@ -6,6 +6,7 @@
 		- [Dell SonicWall TZ Series 5th Generation. Escrito en primavera 2015](#dell-sonicwall-tz-series-5th-generation-escrito-en-primavera-2015)
 		- [Dell SonicWall TotalSecure and CGSS Bundles](#dell-sonicwall-totalsecure-and-cgss-bundles)
 		- [Dell SonicWall TZ Series 6th Generation](#dell-sonicwall-tz-series-6th-generation)
+		- [ Dell SonicWALL WAN Acceleration Appliance (WAN optimization)](#-dell-sonicwall-wan-acceleration-appliance-wan-optimization)
 	- [Switches](#switches)
 	- [Network virtualization. Software Defined Networking (SDN)](#network-virtualization-software-defined-networking-sdn)
 	- [IPv6](#ipv6)
@@ -76,6 +77,9 @@
 	- [youtube.com: Andrew Crouthamel Dell SonicWALL Failover and Load Balancing](https://www.youtube.com/watch?v=3wn9Q_v6MVU)
 
 ![Dell SonicWall TZ500 Management Monitor](images/Dell-SonicWall-TZ500-Management-Monitor.png)
+
+###  Dell SonicWALL WAN Acceleration Appliance (WAN optimization)
+- [community.dell.com: Accelerate Application Performance for a Better User Experience](http://en.community.dell.com/techcenter/security/network-mobile-email/b/weblog/archive/2016/01/11/accelerate-application-performance-for-a-better-user-experience)
 
 ## Switches
 - [youtube: Dell Networking Z9100-ON 100GbE Fabric Switch](https://www.youtube.com/watch?v=GiGqRy5zgCM&feature=youtu.be)
