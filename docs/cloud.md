@@ -174,8 +174,10 @@
 
 ### AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.
+
 1. Don't do just a single check, the first check will be a lot slower as DNS lookups will need to be done, etc.
 2. I'd recommend doing at least 3 checks getting an average.
+
 - Run 6 checks (with a random 3-10 second delay between each one), the first can be ignored, the highest one is also ignored (as a likely outlier), then for the next 4 show the minimum, maximum and average (mean).
 
 ### AWS EC2 Container Registry (Docker)
