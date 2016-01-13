@@ -65,6 +65,9 @@
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
 - [careers.stackoverflow.com](http://careers.stackoverflow.com/)
+- [trabajar-en.com](http://trabajar-en.com/)
+- [twitter.com/developerbcn](https://twitter.com/developerbcn)
+- [twitter.com/developermadrid](https://twitter.com/developermadrid)
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
 
 ![europe silicon valley](images/europe_silicon_valley.png)

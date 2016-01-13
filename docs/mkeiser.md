@@ -46,6 +46,8 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![Worst calendar year starts](images/worst_calendar_year_starts.png)
 
+![Years in which European countries took part in an international war](images/eu_countries_war.png)
+
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
 - [data.oecd.org](https://data.oecd.org)

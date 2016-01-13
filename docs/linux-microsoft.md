@@ -590,6 +590,8 @@
 - [deals.slashdot.org: Microsoft Certified Solutions Engineer: Server Infrastructure Bundle](https://deals.slashdot.org/sales/microsoft-certified-solutions-engineer-server-infrastructure-bundle)
 - [computerworld.com: Microsoft's new tally for Windows 10: 200M](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
 - [It's time to accept the reality of device diversity. 9 tips for mobilizing your Microsoft investment](https://media.good.com/documents/ts-9-tips-for-mobilizing.pdf)
+- [zdnet.com: Microsoft open sources Edge web browser's JavaScript engine, plans port to Linux](http://www.zdnet.com/article/microsoft-open-sources-its-edge-web-browser-javascript-engine-and-plans-to-port-it-to-linux/) Microsoft open sources ChakraCore, Windows 10's Edge web browser JavaScript engine. More amazing still, Microsoft will port it to Ubuntu Linux.
+	- [thenextweb.com: Microsoft’s speedy Chakra JavaScript engine is now open source](http://thenextweb.com/dd/2016/01/13/microsofts-speedy-chakra-javascript-engine-is-now-open-source/)
 
 ![number of running windows dec 2015](images/number_of_win10.jpg)
 

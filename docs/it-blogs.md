@@ -49,6 +49,7 @@
 - [ReactJS News](http://reactjs.posthaven.com/)
 - [Bitcoin News](http://btc.posthaven.com/)
 - [information-age.com](http://www.information-age.com/)
+- [The Next Web - International technology news, business & culture](http://thenextweb.com/)
 
 ## IT Spain Blogs
 - [hipertextual.com](http://hipertextual.com/)

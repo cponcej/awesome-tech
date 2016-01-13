@@ -437,4 +437,6 @@
 - [Test Anything Protocol (TAP)](https://testanything.org/)
 - [adictosaltrabajo.com: Tutorial ‘Docker Integration Test’](http://www.adictosaltrabajo.com/tutoriales/tutorial-docker-integration-test/)
 
+![fixing bugs time](images/fixing_bugs_time.png)
+
 ![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)
