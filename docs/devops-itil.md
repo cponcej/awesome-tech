@@ -37,8 +37,10 @@
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
+- [DZone/DevOps Zone](https://dzone.com/devops-tutorials-tools-news)
 - [DevOpsSummit Blog](http://devops.sys-con.com/)
 - [20 DevOps Leaders to Follow on Twitter](https://dzone.com/articles/20-devops-leaders-to-follow-on-twitter)
+- [redhat.com On-demand webinars about DevOps](http://www.redhat.com/en/about/events/devops-webinars)
 
 ## Description
 - [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
@@ -125,12 +127,14 @@
 - [Continuously Delivering SOA. Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
 
 #### CI Jenkins, Travis
+- [Latest Jenkins related links can be found on @reddit.com/r/jenkinsci](https://www.reddit.com/r/jenkinsci/)
 - [Jenkins User Conference West 2015 - Slides available](https://www.cloudbees.com/jenkins/juc-2015/us-west)
 	- [Jenkins and Docker: Next Generation Continuous Delivery](https://www.linkedin.com/pulse/jenkins-docker-next-generation-continuous-delivery-khadija-kerissi)
 	- [Tutorial: Gestión de Configuración – Ansible + Vagrant + Jenkins](http://www.carlessanagustin.com/2015/08/20/tutorial-gestion-de-configuracion-ansible-vagrant-jenkins/)
 	- [Jenkins Docker Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin)
 	- [jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server](https://github.com/jhrcz/jenkins-rpm-builder)
 - [Travis CI](https://travis-ci.org/)
+- [bencane.com: Using Travis CI to test Docker builds](http://bencane.com/2016/01/11/using-travis-ci-to-test-docker-builds/)
 
 #### CI Docker
 - [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine

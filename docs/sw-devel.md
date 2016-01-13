@@ -30,6 +30,7 @@
 		- [Python code](#python-code)
 		- [Python and AWS](#python-and-aws)
 		- [Python Tools](#python-tools)
+		- [Jython](#jython)
 	- [Java](#java)
 	- [Swift](#swift)
 	- [C programming](#c-programming)
@@ -60,8 +61,11 @@
 - [data.triplebyte.com: Three hundred programming interviews in thirty days](https://data.triplebyte.com/three-hundred-programming-interviews-in-thirty-days-12c23c26b5ba)
 - [dzone: Becoming a Senior Engineer](https://dzone.com/articles/becoming-a-senior-engineer)
 - [blog.cleancoder.com: I want to become a Software Architect](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html)
+- [techcrunch.com: Unlocking Trapped Engineers](http://techcrunch.com/2016/01/12/unlocking-trapped-engineers/) How can we base a talent shortage on CS degree production when 59.8 percent of those with software engineer, programmer or computer scientist titles in one study did not carry a CS degree; 36 percent of IT workers do not hold a college degree at all, according to the Economic Policy Institute; 40 percent of programmers on Stack Overflow, one of the largest developer websites, are self-taught; or 14 percent of the members of some teams at Google alone don’t have a college degrees?. One million programming jobs may go unfilled by 2020, but only if companies aren’t willing to pause and rethink the barriers that are locking out programmers who entered the field without a CS degree.
+- [DZone/DevOps Zone: 13 Experts Share Their 2016 Software Industry Predictions](https://dzone.com/articles/13-experts-share-their-2016-software-industry-pred)
 
 ## Blogs and Forums
+- [DZone/Integration Zone](https://dzone.com/enterprise-integration-training-tools-news)
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 - [DZone](http://dzone.com)
 - [javacodegeeks.com](http://javacodegeeks.com/)
@@ -73,6 +77,7 @@
 - [DevX.com: The know-how behind application development](http://www.devx.com/)
 - [Genbeta dev](http://www.genbetadev.com/)
 - [ivanprego.com](http://ivanprego.com/)
+- [boomphisto](http://boomphisto.blogspot.co.at/)
 
 ## Podcasts
 - [Discussions on software development, by Bryan Hogan](http://nodogmapodcast.bryanhogan.net/)
@@ -249,6 +254,7 @@
 - [en.wikibooks.org: Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
 - [tqdm: Instantly make your python loops show a progress meter - just wrap any iterator with "tqdm(iterator)", and you're done!](https://github.com/noamraph/tqdm)
 - [If you don't like exceptions, you don't like Python](http://stupidpythonideas.blogspot.com.es/2015/05/if-you-dont-like-exceptions-you-dont.html)
+- [Stop writing code that will break on Python 4!](http://astrofrog.github.io/blog/2016/01/12/stop-writing-python-4-incompatible-code/) With the end of support for Python 2 on the horizon (in 2020), many package developers have made their packages compatible with both Python 2 and Python 3. 
 
 ![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)
 
@@ -267,6 +273,9 @@
 - [github.com: Django app + RESTful API for automatic billing](https://github.com/presslabs/silver/)
 - [CodingEntrepreneurs youtube channel](https://www.youtube.com/user/CodingEntrepreneurs)
 	- [Interested in Learn Django 1.9? Check out my free series on YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy)
+- [Getting Started with Django REST Framework (DRF) and AngularJS (Part 1)](http://engineroom.trackmaven.com/blog/getting-started-drf-angularjs-part-1/)
+	- [Getting Started with Django REST Framework (DRF) and AngularJS (Part 2)](http://engineroom.trackmaven.com/blog/getting-started-drf-angularjs-part-2/)
+	- [Part 2 Supplementary Code](https://github.com/TrackMaven/getting-started-with-drf-angular/tree/part-2)
 
 ### Python Flask 
 - [The Flask Mega-Tutorial: Now with Python 3 Support](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
@@ -316,6 +325,9 @@
 	- [PyInstaller official GIT repository](https://github.com/pyinstaller/pyinstaller/)
 - [ZipPy: Python3 on top of the JVM (faster than PyPy!)](https://bitbucket.org/ssllab/zippy)
 
+### Jython 
+- [Jython is a language that makes it easy to create projects with libraries from Python and Java.](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20151112?pg=43#pg43)
+
 ## Java
 - [blog.eisele.net: A Refresher - Top 10 Java EE 7 Backend Features](http://blog.eisele.net/2015/12/a-refresher-top-10-java-ee-7-backend.html)
 - [codejava.net](http://www.codejava.net/)
@@ -341,6 +353,7 @@
 - [dzone: Java Annotated Monthly – January 2016.](https://dzone.com/articles/java-annotated-monthly-january-2016) All the latest interesting news and blogs around Java and the JVM languages, including the OpenJDK Android news and some thoughts from Mark Reinhold.
 - [javacodegeeks.com: 10 Examples of using ArrayList in Java – Tutorial](http://www.javacodegeeks.com/2016/01/10-examples-using-arraylist-java-tutorial.html)
 - [javacodegeeks.com: OutputStyleSheet Example with JSF 2.0](http://examples.javacodegeeks.com/enterprise-java/jsf/outputstylesheet-example-with-jsf-2-0)
+- [examples.javacodegeeks.com: Spring MVC Handler Mapping Example](http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-handler-mapping-example)
 
 ![Learn java python](images/learn-java-python.png)
 
@@ -385,6 +398,7 @@
 - [dzone: Managing Users in Your AngularJS App](https://dzone.com/articles/managing-users-in-your-angularjs-app)
 - [webcodegeeks.com: 65 JavaScript Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.webcodegeeks.com/javascript/javascript-interview-questions-answers)
 - [ibm.com: Use Active Directory for authentication and authorization in your Node.js Bluemix application](http://www.ibm.com/developerworks/library/se-use-active-directory-authentication-authorization-node.js-bluemix-application/index.html)
+- [Top 20 jQuery Interview Questions and Answers for JavaScript Programmers](http://www.webcodegeeks.com/javascript/jquery/jquery-interview-questions-answers-programmers)
 
 ### HTML5
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
@@ -424,5 +438,6 @@
 - [obeythetestinggoat.com: TDD for the Web, with Python, Selenium, Django, JavaScript and pals](http://www.obeythetestinggoat.com/)
 	- [Testing, async, asyncio, and performance](http://www.obeythetestinggoat.com/testing-async-asyncio-and-performance.html)
 - [javacodegeeks.com: 10 Reasons why you should NOT write unit test cases!](http://www.javacodegeeks.com/2013/10/10-reasons-why-you-should-not-write-unit-test-cases.html)
+- [DZone: Graybox Testing — Control Your Dependencies](https://dzone.com/articles/graybox-testing-control-your-dependencies) This post continues the story about functional testing which I referred to in Blackbox Testing Microservices. 
 
 ![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)

@@ -20,6 +20,7 @@
 - [European Startup Initiative](http://www.startupheatmap.eu/)
 - [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
+- [Y Combinator is a community of over 1,600 founders](http://www.ycombinator.com/)
 - [insideanalysis.com: 10 Companies and Technologies to Watch in 2016](http://insideanalysis.com/2016/01/20535/)
 - [startup.zeef.com](https://startup.zeef.com/)
 
@@ -63,5 +64,6 @@
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
 - [careers.stackoverflow.com](http://careers.stackoverflow.com/)
+- [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
 
 ![europe silicon valley](images/europe_silicon_valley.png)

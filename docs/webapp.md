@@ -13,6 +13,7 @@
 	- [JVM Latency: Caching, Off Heap, Data Grid](#jvm-latency-caching-off-heap-data-grid)
 		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
 	- [E-Mail](#e-mail)
+	- [Video](#video)
 
 <!-- /MarkdownTOC -->
 
@@ -116,3 +117,6 @@
 - [five.sentenc.es: email productivity](http://five.sentenc.es/)
 
 ![dilbert](images/dilbert.jpg)
+
+## Video
+- [BBC R&D: H.265/HEVC vs H.264/AVC: 50% bit rate savings verified](http://www.bbc.co.uk/rd/blog/2016/01/h-dot-265-slash-hevc-vs-h-dot-264-slash-avc-50-percent-bit-rate-savings-verified) A research team from the BBC has done a series of tests to confirm earlier computations showing a ~50% savings in bit rate for H.265/HEVC compared to video using H.264/AVC at comparable quality. 

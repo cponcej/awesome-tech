@@ -27,6 +27,7 @@
 		- [Vim](#vim)
 		- [Emacs](#emacs)
 			- [Jed](#jed)
+		- [Python Idle](#python-idle)
 	- [Apple OS X](#apple-os-x)
 	- [Linux Commands Examples](#linux-commands-examples)
 - [Red Hat](#red-hat)
@@ -59,6 +60,7 @@
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 - [medium.com: I Moved to Linux and It’s Even Better Than I Expected](https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj)
+- [Best Linux Distros For Newcomers](http://www.datamation.com/open-source/best-linux-distros-for-newcomers.html)
 - [Predictably, it is hard to make money from something that is free. That includes Linux](http://www.theworldin.com/article/12077/what-next-linux) Only one Linux company has made it big: Red Hat, which is expected to take about  $2 billion in its 2015 financial year, mostly by selling support services to users of the operating system and other open-source programs. The main beneficiaries of such software have been operators of huge data centres, such as Amazon, Facebook and Google, which wouldn’t be able to offer cheap cloud-computing services if they had to pay for the software.
 
 ## Linux and FOSS Blogs and Forums
@@ -89,9 +91,11 @@
 - [The Lone Sysadmin](https://lonesysadmin.net/)
 - [Linux 101 Hacks](http://linux.101hacks.com/)
 - [Linoxide.com](http://linoxide.com/)
+- [LinuxLinks.com](http://www.linuxlinks.com)
 - [The Geek Stuff | Linux | DB | Open Source | Web](http://www.thegeekstuff.com/)
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 - [tech.paulcz.net](http://tech.paulcz.net/#blog)
+- [Benjamin Cane](http://bencane.com/) A Systems Architect writing about Linux Systems Administration
 
 ## FOSS youtube channels
 - [Sysadmincasts.com - Episode Guide](https://sysadmincasts.com/episode-guide)
@@ -116,6 +120,7 @@
 - [Wget: Resume Broken Download](http://www.cyberciti.biz/tips/wget-resume-broken-download.html)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [A curl cheat sheet](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
+- [DZone: Quickly Share a Folder Using HTTP On a Linux Host](https://dzone.com/articles/quickly-share-a-folder-using-http-on-a-linux-host)
 
 ### Linux storage
 - [Linux: Use smartctl To Check Disk Behind Adaptec RAID Controllers](http://www.cyberciti.biz/faq/linux-checking-sas-sata-disks-behind-adaptec-raid-controllers/)
@@ -213,6 +218,7 @@
 - [nixCraft: Linux Increase The Maximum Number Of Open Files / File Descriptors (FD)](http://www.cyberciti.biz/faq/linux-increase-the-maximum-number-of-open-files/)
 - [Collecting Ubuntu Linux System Information](http://www.cyberciti.biz/hardware/collecting-ubuntu-linux-system-information/)
 - [howtoforge.com: Server Monitoring with Munin and Monit on Ubuntu 14.04 LTS](https://www.howtoforge.com/tutorial/server-monitoring-with-munin-and-monit-on-ubuntu-14-04/)
+- [github: Script for automating Linux memory capture and analysis](https://github.com/halpomeranz/lmg)
 
 ![glances ubuntu output](images/glances-ubuntu-output.png)
 
@@ -306,6 +312,9 @@
 - [JED Modes Repository](http://jedmodes.sourceforge.net/)
 	- [Jedmodes - Modes](http://jedmodes.sourceforge.net/modes/)
 	- [Jedmodes - Modes - ffap : Find File At Point](http://jedmodes.sourceforge.net/mode/ffap/)
+
+### Python Idle
+- [HowTo: Install Python idle IDE On Linux Operating System](http://www.cyberciti.biz/faq/rhel-centos-debian-ubuntu-python-idle-linux-installation/)
 
 ![vim,emacs,nano](images/vim_emacs.png)
 
@@ -451,6 +460,7 @@
 	- [zdnet.com: Containers, OpenShift, and Middleware](http://www.zdnet.com/article/containers-openshift-and-middleware/)
 - [OpenShift 3.1 Log files for Pods](https://blog.openshift.com/openshift-3-1-log-files-for-pods/)
 - [opensourcerers.org: First Fuse application on OpenShift V3.1](http://www.opensourcerers.org/first-fuse-application-on-openshift-v3-1/)
+- [DZone/Integration Zone: Red Hat Launches OpenShift v3.1, Full of Docker/Kubernetes Goodness](https://dzone.com/articles/red-hat-launches-openshift-v31-full-of-dockerkuber)
 
 ## Red Hat OpenStack
 - [RDO Project](https://www.rdoproject.org/)
@@ -504,6 +514,11 @@
 - [youtube - 2014 Red Hat Summit: Red Hat JBoss Middleware keynote](https://youtu.be/XPK2RTqlBxk)
 - [youtube - Craig Muzilla delivers middleware keynote at 2015 Red Hat Summit](https://youtu.be/wWNVpFibayA)
 - [dzone: JBoss EAP 7 and NoSQL Using Java EE and Docker](https://dzone.com/articles/jboss-eap-7-and-nosql-using-java-ee-and-docker)
+- [blog.eisele.net: A Refresher - Top 5 Java EE 7 Frontend. Resources to get you started with JBoss EAP 7 and WildFly](http://blog.eisele.net/2016/01/a-refresher-top-5-java-ee-7-frontend.html)
+	- [Getting Started With EAP 7 Alpha and Java EE 7](http://blog.eisele.net/2015/11/getting-started-with-eap-7-alpha-and.html)
+	- [A Java EE 7 Application on OpenShift 3 With JBoss Tools](http://blog.eisele.net/2015/12/a-java-ee-7-application-on-openshift-3.html)
+	- [Java EE 7 Samples on GitHub](https://github.com/javaee-samples/javaee7-samples)
+	- [Getting Started With The JBoss EAP 7 Quickstarts](http://blog.eisele.net/2015/12/getting-started-with-jboss-eap-7.html)
 
 ### JBoss BPM Suite and JBoss BRMS
 - [Red Hat Updates JBoss BPM Suite and JBoss BRMS Products](http://www.redhat.com/de/about/blog/red-hat-updates-jboss-bpm-suite-and-jboss-brms-products)
@@ -577,6 +592,7 @@
 	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
 	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
 - [Unofficial Spiceworks. Spiceworks news and reviews from the underground...](http://www.unofficialspiceworks.com/)
+- [Revolution R renamed Microsoft R, available free to developers and students](http://blog.revolutionanalytics.com/2016/01/microsoft-r-open.html)
 
 ![spiceworks](images/spiceworks-logo.png)
 

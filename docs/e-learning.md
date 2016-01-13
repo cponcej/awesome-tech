@@ -12,6 +12,7 @@
 
 # E-Learning
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
+- [ycombinator.com: What's the best way to train/onboard new programmers?](https://news.ycombinator.com/item?id=10890032)
 
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)
@@ -73,6 +74,9 @@
 - [wowebook.org: Download Free Legal eBooks](http://www.wowebook.org/)
 	- [Amazon Web Services in Action](http://www.wowebook.org/amazon-web-services-in-action.html)
 - [it-ebooks.info](https://it-ebooks.info/)
+- [webcodegeeks.tradepub.com](http://webcodegeeks.tradepub.com/)
+- [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
+
 
 ## Alternatives
 - [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)

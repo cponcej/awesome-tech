@@ -18,6 +18,7 @@
 
 # Security
 ## Security Blogs
+- [seclists.org](http://seclists.org/)
 - [ehacking.net](http://www.ehacking.net)
 - [Sucuri Blog](https://blog.sucuri.net/)
 - [Blackmoreops.com](http://blackmoreops.com)
@@ -25,6 +26,8 @@
 - [Guido Vranken](https://guidovranken.wordpress.com/)
 - [youtube playlist: Dell Security](https://www.youtube.com/playlist?list=PLtVMPnH0I8TSLxGad4D9UGr12S1SH3kcM)
 - [blog.cryptographyengineering.com](http://blog.cryptographyengineering.com/)
+- [eweek.com/security](http://www.eweek.com/security/)
+- [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)
 
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
@@ -36,6 +39,7 @@
 	- [Kali Linux NetHunter 3.0 Android Mobile Penetration Testing Platform Out Now](http://news.softpedia.com/news/kali-linux-nethunter-3-0-android-mobile-penetration-testing-platform-out-now-498555.shtml)
 - [Network Security Toolkit](http://www.networksecuritytoolkit.org)
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
+- [BlackArch Linux Provides Over 1330 Penetration Testing Tools, New ISOs Out Now](http://linux.softpedia.com/blog/blackarch-linux-provides-over-1330-penetration-testing-tools-new-isos-out-now-498758.shtml)
 
 ![firewalls](images/firewalls.png)
 
@@ -120,6 +124,8 @@
 - [techpageone.co.uk: The top 5 IT security threats for 2016](http://www.techpageone.co.uk/technology-uk-en/top-5-security-threats-2016)
 - [CVE-2015-7755: Juniper ScreenOS Authentication Backdoor](https://community.rapid7.com/community/infosec/blog/2015/12/20/cve-2015-7755-juniper-screenos-authentication-backdoor)
 - [On the Juniper backdoor](http://blog.cryptographyengineering.com/2015/12/on-juniper-backdoor.html)
-- [Juniper drops NSA-developed code following new backdoor revelations](http://arstechnica.com/security/2016/01/juniper-drops-nsa-developed-code-following-new-backdoor-revelations/)
+	- [Juniper drops NSA-developed code following new backdoor revelations](http://arstechnica.com/security/2016/01/juniper-drops-nsa-developed-code-following-new-backdoor-revelations/)
+	- [SSH Backdoor for FortiGate OS Version 4.x up to 5.0.7](http://seclists.org/fulldisclosure/2016/Jan/26)
+- [Drupal Hardens Its Security in Response to Criticism](http://www.eweek.com/security/drupal-hardens-its-security-in-response-to-criticism.html)
 
 ![intrusion response procedures](images/intrusion_response_procedures.png)

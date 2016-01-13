@@ -19,8 +19,13 @@
 	- [gettopical.com: Internet of Things latest news](http://gettopical.com/internetofthings)
 - [ZDNet](http://www.zdnet.com/)
 - [DZone](https://dzone.com)
+	- [twitter.com/DZone](https://twitter.com/DZone)
 - [CityAM Tech](http://www.cityam.com/news/tech)
 - [Forbes Tech](http://www.forbes.com/technology/)
+- [techcrunch.com](http://techcrunch.com/)
+- [eWeek.com](http://www.eweek.com)
+- [slashdot.org](http://slashdot.org)
+- [BBC Research & Development](http://www.bbc.co.uk/rd)
 - [Network World](http://www.networkworld.com/)
 - [GeekWire](http://www.geekwire.com/)
 - [The enterprisers project](https://enterprisersproject.com/)
@@ -42,6 +47,7 @@
 - [AngularJS News](http://angularjs.posthaven.com/)
 - [ReactJS News](http://reactjs.posthaven.com/)
 - [Bitcoin News](http://btc.posthaven.com/)
+- [information-age.com](http://www.information-age.com/)
 
 ## IT Spain Blogs
 - [hipertextual.com](http://hipertextual.com/)

@@ -179,6 +179,7 @@
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 
 
+- [The Linux Kernel Book - A Linux kernel API and internals Reference](https://en.wikibooks.org/wiki/The_Linux_Kernel)
 - [Computing](https://en.wikibooks.org/wiki/Subject:Computing)
 - [ITIL v3 (Information Technology Infrastructure Library)](https://en.wikibooks.org/wiki/ITIL_v3_%28Information_Technology_Infrastructure_Library%29)
 - [Python](https://en.wikibooks.org/wiki/Python)

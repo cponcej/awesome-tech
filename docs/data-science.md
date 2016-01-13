@@ -18,6 +18,7 @@
 		- [Pentaho Data Integration and Business Analytics Platforms](#pentaho-data-integration-and-business-analytics-platforms)
 	- [SQL](#sql)
 		- [SQL Blogs and Forums](#sql-blogs-and-forums)
+		- [SQL on Twitter](#sql-on-twitter)
 		- [SQL Docs](#sql-docs)
 			- [Database Version Control](#database-version-control)
 			- [MySQL](#mysql)
@@ -48,6 +49,8 @@
 - [redash.io Open Source Data Collaboration Platform](https://github.com/getredash/redash) Connect to any data source, visualize your data and share it with anyone!
 - [Beginner tips to becoming a data analyst](http://thenextweb.com/offers/2015/12/19/beginner-tips-becoming-data-analyst/)
 - [ZDNet Top 2016 Data Trends: 5 data-to-decisions trends to know for 2016.](http://www.zdnet.com/article/top-5-data-to-decisions-trends-to-know-for-2016/) Apache Spark, real-time, cloud BI & analytics, IoT, and self-service were the trends to watch in 2015, and they'll continue to make waves in 2016.
+
+![best datascience quote](images/jeff_hammerbacher.jpg)
 
 ### Data collection and processing is growing in sports
 - [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
@@ -82,6 +85,8 @@
 	- [Continuum Analytics' Peter Wang on the State of Analytics](https://youtu.be/Xb5r_495_-k)
 	- [Jessica Forde: Visualizing Wireless Router Timeseries Data with the Density API, Seaborn, and Pandas](https://www.youtube.com/watch?v=V85G5Q-Lj9o&feature=youtu.be&list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
 	- [Network data, also known as linked data, is the new frontier of data analysis](https://www.youtube.com/watch?v=wcrwASR5DCQ&index=42&list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
+- [youtube: bokeh 0.11 video demo](https://youtu.be/YAls_da1cF4)
+- [demo.bokehplots.com](http://demo.bokehplots.com/)
 - [Talk Python to Me Podcast. Episode #34: Continuum: Scientific Python and The Business of Open Source](http://talkpython.fm/episodes/show/34/continuum-scientific-python-and-the-business-of-open-source)
 - [data science IPython Notebooks under the Apache 2 license](https://github.com/donnemartin/data-science-ipython-notebooks)
 
@@ -124,8 +129,9 @@
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)
 - [What's The Big Data?](http://whatsthebigdata.com/)
+- [DZone Big Data Zone](https://dzone.com/big-data-analytics-tutorials-tools-news)
 - [Data Science Central - the online resource for big data practitioners](http://www.datasciencecentral.com)
-- [BDAN: Big Data Analytics News](http://bigdataanalyticsnews.com/)
+- [BDAhttp://examples.javacodegeeks.com/enterprise-java/apache-hadoop/apache-hadoop-cluster-setup-example-virtual-machines/N: Big Data Analytics News](http://bigdataanalyticsnews.com/)
 - [topdata.news: Big Data News](http://topdata.news/)
 
 ### Data visualization. Tableau
@@ -144,9 +150,14 @@
 - [svds.com Spark 1.6.0: Pivoting Data with DataFrames in SparkSQL](http://www.svds.com/pivoting-data-in-sparksql/)
 - [DZone: Setting Up a Sample Application in HBase, Spark, and HDFS](https://dzone.com/articles/sample-app-hbase-spark-hdfs)
 - [Setting Up a Sample Application in HBase, Spark, and HDFS.](https://dzone.com/articles/sample-app-hbase-spark-hdfs) Learn how to develop apps with the common Hadoop, HBase, Spark stack.
+- [Introducing Spark Datasets with Spark 1.6](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
+- [DZone: Get Started With Spark 1.6 Right Away](https://dzone.com/articles/apache-spark-friday) Here's a short reference to show you where to go and what resources to use setting up the newly released Apache Spark 1.6
+- [DZone: SMACK Stack Guide (Spark++) [slides]](https://dzone.com/articles/smack-stack-guide)
 
 ### Apache Hadoop
 - [bigdataanalyticsnews.com: 6 Essential Steps to Successfully Implement Hadoop](http://bigdataanalyticsnews.com/6-essential-steps-to-successfully-implement-hadoop/)
+- [examples.javacodegeeks.com: Apache Hadoop Cluster Setup Example (with Virtual Machines)](http://examples.javacodegeeks.com/enterprise-java/apache-hadoop/apache-hadoop-cluster-setup-example-virtual-machines/)
+- [information-age.com: 5 ways to get more out of Hadoop](http://www.information-age.com/technology/information-management/123460762/5-ways-get-more-out-hadoop)
 
 #### Cloudera Docker image
 - [pythian.com: how to deploy a cluster](http://www.pythian.com/blog/how-to-deploy-cluster/)
@@ -165,6 +176,7 @@
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [essentialsql.com](http://www.essentialsql.com)
 - [Use-the-index-luke.com: SQL Indexing and Tuning e-Book](http://use-the-index-luke.com/)
+- [DZone Database Zone](https://dzone.com/database-sql-nosql-tutorials-tools-news)
 - [InsideMySQL.com](http://insidemysql.com)
 - [T-SQL Tidy: Online T-SQL Statement Parser and Formatter](http://tsqltidy.com/)
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
@@ -175,6 +187,11 @@
 - [stackoverflow.com](http://stackoverflow.com/)
 - [dba.stackexchange.com](http://dba.stackexchange.com/)
 - [seniordba.wordpress.com](https://seniordba.wordpress.com/)
+- [sqlperformance.com](http://sqlperformance.com)
+
+### SQL on Twitter
+- [essentialsql.com's twitter](https://twitter.com/sqlkris)
+- [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
 
 ### SQL Docs
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
@@ -200,6 +217,9 @@
 	- [essentialsql.com: Using Conditional Logic in SQL with CASE Expression](http://www.essentialsql.com/using-conditional-logic-in-sql-with-case-expression/)
 	- [essentialsql.com: Get Ready to Learn SQL: 2. How to Sort Your Query Results with SQLite](http://www.essentialsql.com/get-ready-to-learn-sql-how-to-sort-your-query-results/)
 	- [essentialsql.com: ACID is the foundation of a database. Why so?](http://www.essentialsql.com/what-is-meant-by-acid/)
+	- [essentialsql.com: Built-In Functions (SQL Server)](http://www.essentialsql.com/introduction-to-sql-servers-built-in-functions)
+- [sqlperformance.com: Sneaky behaviours and isolation guarantees in the SNAPSHOT isolation level](http://sqlperformance.com/2014/06/sql-performance/the-snapshot-isolation-level)
+	- [sqlperformance.com: Tuning : A Good Place to Start](http://sqlperformance.com/2016/01/io-subsystem/tuning-a-good-place-to-start) Tim Radney of SQLskills gives an overview of his approach to SQL Server performance tuning, from system configuration, to I/O latency, to high cost queries.
 - [SQL in ten minutes](http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes)
 - [10 sql tips to speed up your database](http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database)
 - [dzone.com: SQL GROUP BY and Functional Dependencies: a Very Useful Feature](https://dzone.com/articles/sql-group-by-and-functional-dependencies-a-very-us)
@@ -215,11 +235,15 @@
 - [use-the-index-luke.com: NULL in the Oracle Database](http://use-the-index-luke.com/sql/where-clause/null)
 - [use-the-index-luke.com: Finding All the Red M&Ms: A sweet explanation how database optimization works](http://use-the-index-luke.com/blog/2014-07/finding-all-the-red-mms)
 - [use-the-index-luke.com: Clustered Indexes have major drawbacks you might not be aware of](http://use-the-index-luke.com/sql/clustering/index-organized-clustered-index)
+- [use-the-index-luke.com: Primary Keys. Reading the execution plan of a primary key lookup](http://use-the-index-luke.com/sql/where-clause/the-equals-operator/primary-keys)
 - [use-the-index-luke.com: SQL Server Distinguishing Access and Filter-Predicates](http://use-the-index-luke.com/sql/explain-plan/sql-server/filter-predicates)
 - [database-programmer.blogspot.co.at: Database Performance: Pay Me Now or Pay Me Later](http://database-programmer.blogspot.co.at/2008/07/database-performance-pay-me-now-or-pay.html)
 - [Datazenit Web-based database administration tool for MySQL and PostgreSQL](https://datazenit.com)
 - [javacodegeeks.com: The 10 Most Popular DB Engines (SQL and NoSQL)](http://www.javacodegeeks.com/2013/10/the-10-most-popular-db-engines-sql-and-nosql.html)
 - [seniordba.wordpress.com: 15 SQL Server DBA Interview Questions](https://seniordba.wordpress.com/2014/06/25/11-sql-server-dba-interview-questions/)
+- [18GB of JSON? How long do you think python would take to consume this file and insert to mysql?](https://www.reddit.com/r/Python/comments/40o2si/18gb_of_json/)
+- [quora.com: What are some interesting things to know about SQL which most people don't know/might not use?](https://www.quora.com/What-are-some-interesting-things-to-know-about-SQL-which-most-people-dont-know-might-not-use/answer/Lukas-Eder)
+- [boomphisto.blogspot.co.at: The Black Art Of Spatial Index Tuning In SQL Server](http://boomphisto.blogspot.co.at/2011/04/black-art-of-spatial-index-tuning-in.html)
 
 ![mixing indexes](images/mixing_indexes.jpg)
 
@@ -291,6 +315,7 @@
 #### SQLite
 - [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)
 - [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
+- [Books About SQLite](http://www.sqlite.org/books.html)
 
 #### TinyDB
 - [TinyDB:](http://tinydb.readthedocs.org) a pure Python document (i.e., JSON) database for simple local storage

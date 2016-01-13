@@ -19,8 +19,10 @@
 		- [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
 			- [AWS CLI](#aws-cli)
 			- [AWS Developer Blog](#aws-developer-blog)
+			- [AWS Lambda](#aws-lambda)
 			- [AWS Cloud Formation](#aws-cloud-formation)
 		- [AWS Security](#aws-security)
+		- [AWS Backup and Recovery](#aws-backup-and-recovery)
 		- [AWS IoT](#aws-iot)
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
@@ -34,6 +36,7 @@
 - [Cloud Expo](http://cloudcomputing.sys-con.com/)
 - [comparethecloud.net](http://www.comparethecloud.net/)
 - [sdxcentral cloud](https://www.sdxcentral.com/flow/cloud/)
+- [DZone / Cloud Zone](https://dzone.com/cloud-computing-tutorials-tools-news)
 
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
 - [The Twelve-Factor App](http://12factor.net/)
@@ -178,6 +181,9 @@
 - [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)
 - [Create an API Using the Swagger Specification and the API Gateway Extensions](http://docs.aws.amazon.com/apigateway/latest/developerguide/create-api-using-import-export-api.html)
 
+#### AWS Lambda
+- [you can use Python with AWS Lambda](http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
+
 #### AWS Cloud Formation
 - [AWS Cloud Formation Release History](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)
 
@@ -188,6 +194,9 @@
 - [The Most Popular AWS Security Blog Posts in 2015](http://blogs.aws.amazon.com/security/post/Tx4QX7W51NDSLO/The-Most-Popular-AWS-Security-Blog-Posts-in-2015)
 - [dzone: Private Subnets Are Broken on AWS](https://dzone.com/articles/private-subnets-are-broken-on-aws)
 - [AWS Identity and Access Management (IAM) best practices in 2016](http://blogs.aws.amazon.com/security/post/Tx2OB7YGHMB7WCM/Adhere-to-IAM-Best-Practices-in-2016)
+
+### AWS Backup and Recovery
+- [Quantum Taps AWS for Cloud-Powered Disaster Recovery](http://www.infostor.com/backup-and_recovery/quantum-taps-aws-for-cloud-powered-disaster-recovery.html)
 
 ### AWS IoT
 - [What Is AWS IoT?](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
