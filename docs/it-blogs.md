@@ -72,6 +72,7 @@
 ## Support
 - [Stack Exchange](high-quality-tech-resources.md#stack-exchange-family-of-qa-websites)
 - [roguewave.com: 2015 Open Source Support Report](http://www.roguewave.com/programs/open-source-support-report)
+- [IT Workers Share the Most Idiotic Things Non-Techies Have Told Them](https://upvoted.com/2015/12/15/it-workers-share-the-most-idiotic-things-non-techies-have-told-them/)
 
 ## Human Resources
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)

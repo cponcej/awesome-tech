@@ -15,7 +15,7 @@
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New Features](#aws-new-features)
 		- [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
-		- [AWS DevOps](#aws-devops)
+		- [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
 		- [AWS Latency](#aws-latency)
 		- [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
 			- [AWS CLI](#aws-cli)
@@ -87,6 +87,7 @@
 ## OpenStack private cloud
 - [openstack.org](http://openstack.org)
 - [OpenStack Architecture Design Guide](http://docs.openstack.org/arch/)
+- [opensource.com: What is OpenStack?](https://opensource.com/resources/what-is-openstack)
 - [OpenStack Foundation Youtube Channel](https://www.youtube.com/user/OpenStackFoundation)
 - [The Guardian goes all-in on AWS public cloud after OpenStack 'disaster’](http://www.computerworlduk.com/cloud-computing/guardian-goes-all-in-on-aws-public-cloud-after-openstack-disaster-3629790/)
 - [opensource.com: A 2016 to do list for the OpenStack board](https://opensource.com/business/15/12/2016-do-list-openstack-board)
@@ -100,6 +101,7 @@
 - [BBVA Bank on OpenStack](https://www.youtube.com/watch?v=PESWFDPbexs)
 - [fortune.com: Red Hat and Mirantis, once an OpenStack couple, have split](http://fortune.com/2015/07/01/red-hat-and-mirantis-split/)
 - [linux.com: Get an OpenStack sandbox environment up and running with minimal or zero cost](https://www.linux.com/learn/tutorials/866101-how-to-test-drive-openstack)
+- [opensource.com: OpenStack News January 2016. Landing a Summit talk, troubleshooting Neutron, and more OpenStack news](https://opensource.com/business/16/1/openstack-news-january-11)
 
 ![openstack cluster](images/openstack-cluster.png)
 
@@ -162,12 +164,13 @@
 ### AWS Schema Conversion Tool
 - [cloudacademy.com: Migrating Data to AWS Using the AWS Schema Conversion Tool: A Preview](http://cloudacademy.com/blog/migrating-data-to-aws/)
 
-### AWS DevOps
+### AWS DevOps. AWS CodePipeline
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)
 - [Setting Up the Jenkins Plugin for AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy)
 - [Continuous Delivery for a PHP Application Using AWS CodePipeline, AWS Elastic Beanstalk, and Solano Labs](https://blogs.aws.amazon.com/application-management/post/TxYSRRBH57NP2P/Continuous-Delivery-for-a-PHP-Application-Using-AWS-CodePipeline-AWS-Elastic-Bea)
 - [Building Continuous Deployment on AWS with AWS CodePipeline, Jenkins and AWS Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx34AXRMYLXG5OT/Building-Continuous-Deployment-on-AWS-with-AWS-CodePipeline-Jenkins-and-AWS-Elas)
 - [AWS CodeDeploy: Deploying from a Development Account to a Production Account](http://blogs.aws.amazon.com/application-management/post/Tx3PE3JTSVJSFI7/AWS-CodeDeploy-Deploying-from-a-Development-Account-to-a-Production-Account)
+- [blazemeter.com: Three Ways DevOps Benefit from AWS CodePipeline](https://blazemeter.com/blog/three-ways-devops-benefit-aws-codepipeline)
 
 ### AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.

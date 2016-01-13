@@ -347,6 +347,8 @@
 - [Orchestrate: DBaaS|NoSQL with One REST API](https://orchestrate.io/)
 - [mongodirector: MongoDB Hosting](http://mongodirector.com)
 - [MongoDB security tutorial](https://docs.mongodb.org/manual/administration/security)
+- [MongoDB Security Part 1 - Design and Configuration](http://blog.mongodb.org/post/86408399868/mongodb-security-part-1-design-and-configuration)
+- [MongoDB Security Part II: 10 mistakes that can compromise your database](http://blog.mongodb.org/post/87691901392/mongodb-security-part-ii-10-mistakes-that-can)
 - [Avoiding pitfalls running Mongo 3.2 in Docker on OSX](https://iainhunter.wordpress.com/2016/01/12/avoiding-pitfalls-running-mongo-3-2-in-docker-on-osx/)
 - [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
 	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)

@@ -11,6 +11,7 @@
 			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
 		- [Spanish podcasts](#spanish-podcasts)
 	- [Wikibooks](#wikibooks)
+	- [Webcomics](#webcomics)
 
 <!-- /MarkdownTOC -->
 
@@ -151,6 +152,8 @@
 - [The Great Outdoors Stack Exchange](http://outdoors.stackexchange.com/)
 - [Space Exploration Stack Exchange](http://space.stackexchange.com/)
 
+![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)
+
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
 	- [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
@@ -215,6 +218,10 @@
 - [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer's_Tutorial_for_Python_3)
 - [LPI](https://en.wikibooks.org/wiki/LPI_Linux_Certification)
 - [Linux Networking](https://en.wikibooks.org/wiki/Linux_Networking)
+
+## Webcomics
+- [commitstrip.com](http://www.commitstrip.com)
+- [dilbert.com](http://dilbert.com/)
 
 ![internet users](images/internet-users.jpeg)
 
