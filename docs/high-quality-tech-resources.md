@@ -65,6 +65,8 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
+![zeef](images/zeef.jpg)
+
 ## Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc
 - [Awesome List - A curated list of awesome lists](https://github.com/sindresorhus/awesome)
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
@@ -177,6 +179,8 @@
 	- [soundcloud: a16z podcast](https://soundcloud.com/a16z)
 - [WHIR Cloud Podcasts](http://www.thewhir.com/whir-podcast)
 	- [Top 5 The WHIR: Cloud Talks Podcasts for 2015](http://www.thewhir.com/blog/top-5-the-whir-cloud-talks-podcasts-for-2015)
+
+![the cloudcast](images/thecloudcast.png)
 
 #### AWS Youtube channel and Podcasts
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
