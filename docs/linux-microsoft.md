@@ -593,6 +593,7 @@
 	- [Spiceworks Profiles are Better Than a Resume for IT Geeks - Daily Blob - Dec 23, 2013](https://www.youtube.com/watch?v=BJ2mQpOZHPE)
 - [Unofficial Spiceworks. Spiceworks news and reviews from the underground...](http://www.unofficialspiceworks.com/)
 - [Revolution R renamed Microsoft R, available free to developers and students](http://blog.revolutionanalytics.com/2016/01/microsoft-r-open.html)
+- [BlackWasp](http://www.blackwasp.co.uk/) This site is dedicated to providing articles, tips and tricks and useful software related to Windows-based "Smart Client" and enterprise software development using Microsoft programming technologies. These include the .NET Framework, Visual Studio, C# and Microsoft SQL Server.
 
 ![spiceworks](images/spiceworks-logo.png)
 
