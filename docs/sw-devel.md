@@ -5,7 +5,7 @@
 	- [Blogs and Forums](#blogs-and-forums)
 	- [Domain driven design](#domain-driven-design)
 	- [API and Documentation Generators](#api-and-documentation-generators)
-	- [Patterns](#patterns)
+	- [Design Patterns](#design-patterns)
 	- [Editors](#editors)
 		- [Sublime](#sublime)
 			- [Sublime Blogs](#sublime-blogs)
@@ -92,7 +92,8 @@
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
-## Patterns
+## Design Patterns
+- [wikipedia: Design Patterns. Gang of Four (GoF)](https://en.wikipedia.org/wiki/Design_Patterns)
 - [DZone: The Model-View-ViewModel (MVVM) Pattern – Introduction](https://dzone.com/articles/the-mvvm-pattern-introduction)
 - [DZone: Model-View-Controller (MVC): The Basics](https://dzone.com/articles/model-view-controller-mvc-deep-dive)
 - [developers.redhat.com: Modern Java EE design patterns](http://developers.redhat.com/promotions/distributed-javaee-architecture/) Building Scalable Architecture for Sustainable Enterprise Development
