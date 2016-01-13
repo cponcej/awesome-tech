@@ -194,6 +194,7 @@
     - [Metodologías de desarrollo ágil](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
     - [Diseño y desarrollo](http://wedevelopers.com/2012/11/23/we-developers-011-diseno-y-desarrollo/)
     - [Optimización web](http://wedevelopers.com/2012/08/10/we-developers-010-optimizacion-web/)
+    - [Como ser desarrollador (y no morir en el intento)](http://wedevelopers.com/2015/09/03/we-developers-040-como-ser-desarrollador/)
 - [Podcasts de programación web](http://montesjmm.es/2014/07/09/podcasts-de-programacion-web/)
 - [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
 - [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
