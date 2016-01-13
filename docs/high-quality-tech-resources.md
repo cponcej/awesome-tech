@@ -9,6 +9,7 @@
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
 			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
+		- [Spanish podcasts](#spanish-podcasts)
 	- [Wikibooks](#wikibooks)
 
 <!-- /MarkdownTOC -->
@@ -165,17 +166,6 @@
 	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
 - [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
 - [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
-- [We.Developers: El podcast para desarrolladores en castellano](http://wedevelopers.com/)
-	- [Trabajo en Remoto](http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/)
-	- [De cero a la App Store](http://wedevelopers.com/2013/03/01/we-developers-017-de-cero-a-la-app-store/)
-    - [Metodologías de desarrollo ágil](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
-    - [Diseño y desarrollo](http://wedevelopers.com/2012/11/23/we-developers-011-diseno-y-desarrollo/)
-    - [Optimización web](http://wedevelopers.com/2012/08/10/we-developers-010-optimizacion-web/)
-- [Podcasts de programación web](http://montesjmm.es/2014/07/09/podcasts-de-programacion-web/)
-- [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
-- [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
-
-![we developers](images/we_developers.png)
 
 ### Cloud Computing Podcasts
 - [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
@@ -192,6 +182,19 @@
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
 - [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
 - [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
+
+### Spanish podcasts
+- [We.Developers: El podcast para desarrolladores en castellano](http://wedevelopers.com/)
+	- [Trabajo en Remoto](http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/)
+	- [De cero a la App Store](http://wedevelopers.com/2013/03/01/we-developers-017-de-cero-a-la-app-store/)
+    - [Metodologías de desarrollo ágil](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
+    - [Diseño y desarrollo](http://wedevelopers.com/2012/11/23/we-developers-011-diseno-y-desarrollo/)
+    - [Optimización web](http://wedevelopers.com/2012/08/10/we-developers-010-optimizacion-web/)
+- [Podcasts de programación web](http://montesjmm.es/2014/07/09/podcasts-de-programacion-web/)
+- [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
+- [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
+
+![we developers](images/we_developers.png)
 
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 
