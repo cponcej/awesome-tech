@@ -27,6 +27,7 @@
 		- [AWS IoT](#aws-iot)
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
+	- [AWS Gartner Report](#aws-gartner-report)
 
 <!-- /MarkdownTOC -->
 
@@ -223,6 +224,11 @@
 - [What Startups Should Know about Amazon VPC — Part 1](https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228)
 - [Scaling on AWS (Part 3): >500K Users](https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-3-500k-users-3750b227b761)
 - [medium.com: Building a Serverless Dynamic DNS System with AWS](https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8#.qq54pucbd)
+
+## AWS Gartner Report
+- [Gartner Critical Capabilities - Learn More ](https://aws.amazon.com/resources/gartner-cc-learn-more/)
+
+![Gartner Critical Capabilities](images/gartner_report.png)
 
 ![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)
 
