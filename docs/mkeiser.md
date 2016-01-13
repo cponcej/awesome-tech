@@ -51,6 +51,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
 - [data.oecd.org](https://data.oecd.org)
+- [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
 - [Economy of Spain](https://en.wikipedia.org/wiki/Economy_of_Spain)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
