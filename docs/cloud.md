@@ -16,6 +16,7 @@
 		- [AWS New Features](#aws-new-features)
 		- [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
 		- [AWS DevOps](#aws-devops)
+		- [AWS Latency](#aws-latency)
 		- [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
 			- [AWS CLI](#aws-cli)
 			- [AWS Developer Blog](#aws-developer-blog)
@@ -167,6 +168,9 @@
 - [Continuous Delivery for a PHP Application Using AWS CodePipeline, AWS Elastic Beanstalk, and Solano Labs](https://blogs.aws.amazon.com/application-management/post/TxYSRRBH57NP2P/Continuous-Delivery-for-a-PHP-Application-Using-AWS-CodePipeline-AWS-Elastic-Bea)
 - [Building Continuous Deployment on AWS with AWS CodePipeline, Jenkins and AWS Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx34AXRMYLXG5OT/Building-Continuous-Deployment-on-AWS-with-AWS-CodePipeline-Jenkins-and-AWS-Elas)
 - [AWS CodeDeploy: Deploying from a Development Account to a Production Account](http://blogs.aws.amazon.com/application-management/post/Tx3PE3JTSVJSFI7/AWS-CodeDeploy-Deploying-from-a-Development-Account-to-a-Production-Account)
+
+### AWS Latency
+- [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.
 
 ### AWS EC2 Container Registry (Docker)
 - [Amazon EC2 Container Registry Documentation](http://aws.amazon.com/es/documentation/ecr/)
