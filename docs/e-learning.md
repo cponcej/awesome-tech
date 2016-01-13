@@ -52,7 +52,7 @@
 
 ## Free e-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)
-- [Flo-Joe: THE place on the web for Cambridge exam preparation](http://www.flo-joe.co.uk/)
+- [Flo-Joe: THE place on the web for Cambridge exam preparation](http://www.flo-joe.co.uk/) 
 - [edx.org](https://www.edx.org)
 - [edX.org: English Grammar and Essay Writing, Berkeley](https://www.edx.org/course/english-grammar-essay-writing-uc-berkeleyx-colwri2-2x)
 - [edx.org: Implementing DHCP in Microsoft Windows Server](https://www.edx.org/course/implementing-dhcp-microsoft-windows-microsoft-inf201-31x)
@@ -69,6 +69,8 @@
 - [INE.com training videos: Wireshark, vSphere 6.0, CCNA, MPLS, BGP, etc](https://www.youtube.com/user/INEtraining/playlists)
 - [training.linuxfoundation.org: Free Linux Training Publications](https://training.linuxfoundation.org/free-linux-training/download-training-materials)
 - [khanacademy.org](https://khanacademy.org/)
+- [patreon.com/crashcourse](https://www.patreon.com/crashcourse) We provide entertaining high-quality education to the entire world for free... no big
+	- [CrashCourse - youtube](https://www.youtube.com/user/crashcourse)
 
 ## Download Free Legal eBooks
 - [wowebook.org: Download Free Legal eBooks](http://www.wowebook.org/)
