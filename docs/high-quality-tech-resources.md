@@ -82,6 +82,8 @@
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
+![awesome logo](images/awesome_logo.png)
+
 ## Stack Exchange family of Q&A websites
 - [stackoverflow.com](http://stackoverflow.com/)
 - [Stack Overflow en español es un sitio de preguntas y respuestas para programadores y profesionales de la informática](http://es.stackoverflow.com/)
