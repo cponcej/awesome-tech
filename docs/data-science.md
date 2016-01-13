@@ -133,6 +133,7 @@
 - [Data Science Central - the online resource for big data practitioners](http://www.datasciencecentral.com)
 - [BDAhttp://examples.javacodegeeks.com/enterprise-java/apache-hadoop/apache-hadoop-cluster-setup-example-virtual-machines/N: Big Data Analytics News](http://bigdataanalyticsnews.com/)
 - [topdata.news: Big Data News](http://topdata.news/)
+- [DataFloq](https://datafloq.com)
 
 ### Data visualization. Tableau
 - [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
@@ -158,6 +159,7 @@
 - [bigdataanalyticsnews.com: 6 Essential Steps to Successfully Implement Hadoop](http://bigdataanalyticsnews.com/6-essential-steps-to-successfully-implement-hadoop/)
 - [examples.javacodegeeks.com: Apache Hadoop Cluster Setup Example (with Virtual Machines)](http://examples.javacodegeeks.com/enterprise-java/apache-hadoop/apache-hadoop-cluster-setup-example-virtual-machines/)
 - [information-age.com: 5 ways to get more out of Hadoop](http://www.information-age.com/technology/information-management/123460762/5-ways-get-more-out-hadoop)
+- [datafloq.com: 10 Things to Consider Before Diving Into the Hadoop Data Lake](https://datafloq.com/read/10-things-consider-diving-into-hadoop-data-lake/1805)
 
 #### Cloudera Docker image
 - [pythian.com: how to deploy a cluster](http://www.pythian.com/blog/how-to-deploy-cluster/)
@@ -345,6 +347,7 @@
 - [Orchestrate: DBaaS|NoSQL with One REST API](https://orchestrate.io/)
 - [mongodirector: MongoDB Hosting](http://mongodirector.com)
 - [MongoDB security tutorial](https://docs.mongodb.org/manual/administration/security)
+- [Avoiding pitfalls running Mongo 3.2 in Docker on OSX](https://iainhunter.wordpress.com/2016/01/12/avoiding-pitfalls-running-mongo-3-2-in-docker-on-osx/)
 - [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
 	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
 	- Effortless CSV import into MongoDB with MongoChef 3.2 (click to see the video). You can export your collections to CSV:

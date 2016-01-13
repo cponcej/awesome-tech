@@ -41,6 +41,7 @@
 - [JAXenter.com: News, Articles, Code](https://jaxenter.com/)
 - [TechSpective](http://techspective.net/)
 - [Tech.Co - Tech & Startup Events, News and Resources](http://tech.co/)
+- [tech-faq.com](http://www.tech-faq.com/)
 - [Solutions Review. Buyer's guides and best practices](http://solutions-review.com/)
 - [topdata.news: Big Data News](http://topdata.news/)
 - [Internet of Things News](http://internetofthings.posthaven.com/)
@@ -61,6 +62,7 @@
 - [A un clic de las TIC. Telefónica Grandes Empresas](http://www.aunclicdelastic.com/)
 - [Con Tu Negocio. Los mejors contenidos para tu pyme](http://www.contunegocio.es/)
 - [TICbeat](http://www.ticbeat.com/)
+- [adictosaltrabajo.com](http://www.adictosaltrabajo.com/)
 - [systemadmin.es](http://systemadmin.es/)
 - [muylinux.com](http://www.muylinux.com/)
 

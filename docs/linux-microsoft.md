@@ -38,6 +38,7 @@
 	- [Red Hat Virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
 	- [Red Hat OpenStack](#red-hat-openstack)
+	- [Red Hat and IBM](#red-hat-and-ibm)
 	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
 	- [JBoss (WildFly)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
@@ -50,6 +51,7 @@
 	- [Red Hat Development](#red-hat-development)
 	- [Red Hat Varnish](#red-hat-varnish)
 	- [Red Hat Videos](#red-hat-videos)
+- [Ubuntu](#ubuntu)
 - [Microsoft](#microsoft)
 	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [VMware](#vmware)
@@ -194,6 +196,8 @@
 - [Zentyal Exchange email on Linux](http://www.zentyal.org/)
 - [Top 10 Open Source Web-Based Project Management Software](http://www.cyberciti.biz/tips/open-source-project-management-software.html)
 - [alternativeto.net: A way to find alternative software, filters let you show only open source](https://alternativeto.net/)
+- [Buku: cmdline bookmark manager... your mini web!](https://github.com/jarun/Buku) Buku (formerly markit) is a cmdline bookmark management utility written in Python3 and SQLite3. buku exists because of my monumental dependency on historious. I wanted the same database on my local system. However, I couldn't find an equally flexible cmdline solution. Hence, Buku! 
+	- [historious: bookmarking you can love](http://historio.us/) historious saves you time by helping you find webpages you saw before. Bookmark sites with a single click, then find them again by searching for any word in the content of the page! 
 
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
@@ -469,6 +473,9 @@
 - [slideshare.net: Transforming to OpenStack: a sample roadmap to DevOps](http://www.slideshare.net/NicolasBarcet/os-summit-transformingtoopenstack)
 - [enterprisetech.com: Red Hat Seeks To Ease OpenStack Deployments](http://www.enterprisetech.com/2014/08/27/red-hat-seeks-ease-openstack-deployments/)
 
+## Red Hat and IBM
+- [Installing Red Hat Enterprise Linux 7.2 on IBM POWER8 and x86 in bare metal mode: A comparison](http://www.ibm.com/developerworks/linux/library/l-installing-rhel-7-2-on-ibm-power8-and-x86/index.html)
+
 ## Red Hat Mobile Application Platform: Feed Henry
 - [Feed Henry](http://feedhenry.org/)
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
@@ -571,6 +578,9 @@
 	- [Flock 2014 Fedora Conference](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
 	- [Flock 2015 Fedora Conference](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
 
+# Ubuntu
+- [forbes: 10 Reasons Why Ubuntu Is Killing It In The Cloud](http://www.forbes.com/sites/janakirammsv/2016/01/12/10-reasons-why-ubuntu-is-killing-it-in-the-cloud/#2715e4857a0b19d6c8d819a2)
+
 # Microsoft
 - [zdnet: Linux and open source have won, get over it](http://www.zdnet.com/article/linux-and-open-source-have-won-get-over-it/) 2015 was the year Linux and open-source software took over the IT world, but many open-source and proprietary software fans still haven't figured it out.
 - [SSH for Windows open sourced by Microsoft. What's going on?](https://github.com/PowerShell/Win32-OpenSSH)
@@ -604,3 +614,4 @@
 - [aprendiendoavirtualizar.com](http://aprendiendoavirtualizar.com/)
 - [VMware Photon OS - Minimal Linux Container Host](https://vmware.github.io/photon/)
 - [You can run Cockpit in VMware Photon OS](http://blog.jreypo.io/cloud-native/devops/vmware/sysadmin/you-can-run-cockpit-in-photon-os/)
+- [Docker vs. VMWare: How Do They Stack Up?](https://www.scriptrock.com/articles/docker-vs.-vmware-how-do-they-stack-up)
