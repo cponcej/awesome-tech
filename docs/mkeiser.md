@@ -52,6 +52,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 - [data.oecd.org](https://data.oecd.org)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
+- [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
 - [Economy of Spain](https://en.wikipedia.org/wiki/Economy_of_Spain)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
@@ -67,5 +68,6 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
 - [Thomas Piketty’s “Capital”, summarised in four paragraphs](http://www.economist.com/blogs/economist-explains/2014/05/economist-explains)
+- [blogs.wsj.com: Six Years Later, 93% of U.S. Counties Haven’t Recovered From Recession, Study Finds](http://blogs.wsj.com/economics/2016/01/12/six-years-later-93-of-u-s-counties-havent-recovered-from-recession-study-finds/)
 - [The future of jobs. The onrushing wave.](http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less) Previous technological innovation has always delivered more long-run employment, not less. But things can change
 - [10 Questions Never to Ask in an Interview](http://www.mjms.net/blog/10-questions-never-to-ask-in-an-interview/)

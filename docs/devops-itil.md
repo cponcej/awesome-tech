@@ -7,6 +7,7 @@
 	- [DevOps Tools 2016](#devops-tools-2016)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Product Owner](#product-owner)
+		- [Scrum Master](#scrum-master)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 			- [CI Jenkins, Travis](#ci-jenkins-travis)
 			- [CI Docker](#ci-docker)
@@ -106,6 +107,7 @@
 	- [Cómo y quién recuperó uno de los mayores desastres del desarrollo software: la web healthcare...](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
 	- [Next time you're stressing out about code bug, just be glad it's not one that causes a $440M loss in only 45 mins](https://en.wikipedia.org/wiki/Knight_Capital_Group#2012_stock_trading_disruption)
 	- [Web del senado, costó 448.819€, pero la del Ayuntamiento de Madrid 100.000€ ¿Nuevo caso de populismo tecnológico?](http://www.javiergarzas.com/2015/10/web-del-senado-costo-448-819e-pero-la-del-ayuntamiento-de-madrid-100-000e-nuevo-caso-de-populismo-tecnologico.html)
+	- [Los decoradores no saben crear equipos de trabajo potentes](http://www.javiergarzas.com/2016/01/los-decoradores-no-saben-crear-equipos-de-trabajo-potentes.html)
 - [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge](http://www.scrumguides.org/)
 - [Why estimates never work](http://www.brandonsavage.net/why-estimates-never-work/)
 - [You will not become agile by implementing scrum](https://www.linkedin.com/pulse/you-become-agile-implementing-scrum-jurriaan-kamer)
@@ -120,6 +122,9 @@
 - [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)
 - [¿Cuantos Product Owner puede tener un equipo?](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 - [20 Product Owners anti patterns in scrum](http://lmsgoncalves.com/2014/09/29/product-owner-anti-patterns/)
+
+### Scrum Master
+- [DZone/Agile Zone. Hiring: 38 Scrum Master Interview Questions To Avoid Imposters](https://dzone.com/articles/hiring-38-scrum-master-interview-questions-to-avoi) A free pdf from DZone user Stefan Wolpers for those looking to hire Scrum Masters or agile professionals.
 
 ![not my job](images/not_my_job.jpg)
 

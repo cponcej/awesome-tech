@@ -10,6 +10,7 @@
 		- [Apache Zeppelin](#apache-zeppelin)
 	- [Big Data](#big-data)
 		- [Big Data Blogs](#big-data-blogs)
+		- [Internet of things](#internet-of-things)
 		- [Data visualization. Tableau](#data-visualization-tableau)
 		- [Apache Spark](#apache-spark)
 		- [Apache Hadoop](#apache-hadoop)
@@ -18,7 +19,7 @@
 		- [Pentaho Data Integration and Business Analytics Platforms](#pentaho-data-integration-and-business-analytics-platforms)
 	- [SQL](#sql)
 		- [SQL Blogs and Forums](#sql-blogs-and-forums)
-		- [SQL on Twitter](#sql-on-twitter)
+		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 		- [SQL Docs](#sql-docs)
 			- [Database Version Control](#database-version-control)
 			- [MySQL](#mysql)
@@ -89,6 +90,7 @@
 - [demo.bokehplots.com](http://demo.bokehplots.com/)
 - [Talk Python to Me Podcast. Episode #34: Continuum: Scientific Python and The Business of Open Source](http://talkpython.fm/episodes/show/34/continuum-scientific-python-and-the-business-of-open-source)
 - [data science IPython Notebooks under the Apache 2 license](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [reddit: What is the difference between coding in Sublime versus an Jupyter IPython notebook?](https://www.reddit.com/r/Python/comments/40u59r/what_is_the_difference_between_coding_in_sublime/)
 
 ![anaconda is](images/anaconda-is.jpg)
 
@@ -125,6 +127,7 @@
 - [crn.com: Tech 10: Big Developments in Big Data from 2015](http://www.crn.com/slide-shows/applications-os/300078534/tech-10-big-developments-in-big-data.htm)
 - [devx.com: The Big Data Skills Employers Want Most in 2016](http://www.devx.com/DailyNews/the-big-data-skills-employers-want-most-in-2016.html)
 	- [What Are the Most-Wanted Data Science Skills for 2016?](https://adtmag.com/articles/2016/01/08/data-science-skills.aspx)
+- [talend.com: How To Turn Any Big Data Project Into a Success (And Key Pitfalls To Avoid)](http://www.talend.com/blog/2016/01/07/how-to-turn-any-big-data-project-into-a-success-and-key-pitfalls-to-avoid)
 
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)
@@ -134,6 +137,11 @@
 - [BDAhttp://examples.javacodegeeks.com/enterprise-java/apache-hadoop/apache-hadoop-cluster-setup-example-virtual-machines/N: Big Data Analytics News](http://bigdataanalyticsnews.com/)
 - [topdata.news: Big Data News](http://topdata.news/)
 - [DataFloq](https://datafloq.com)
+- [KDnuggets: Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
+- [smartdatacollective.com](http://www.smartdatacollective.com/)
+
+### Internet of things
+- [techrepublic.com: Survey: Harnessing the power of big data and IoT](http://www.techrepublic.com/article/survey-harnessing-the-power-of-big-data-and-iot/)
 
 ### Data visualization. Tableau
 - [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
@@ -178,6 +186,7 @@
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [essentialsql.com](http://www.essentialsql.com)
 - [Use-the-index-luke.com: SQL Indexing and Tuning e-Book](http://use-the-index-luke.com/)
+- [craigkerstiens.com](http://www.craigkerstiens.com/)
 - [DZone Database Zone](https://dzone.com/database-sql-nosql-tutorials-tools-news)
 - [InsideMySQL.com](http://insidemysql.com)
 - [T-SQL Tidy: Online T-SQL Statement Parser and Formatter](http://tsqltidy.com/)
@@ -191,9 +200,11 @@
 - [seniordba.wordpress.com](https://seniordba.wordpress.com/)
 - [sqlperformance.com](http://sqlperformance.com)
 
-### SQL on Twitter
+### SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
+- [twitter.com/BigDataBlogs](https://twitter.com/BigDataBlogs)
+- [InformationWeek Top Data Science, Analytics, and BI experts on Twitter](http://www.kdnuggets.com/2016/01/informationweek-top-data-science-analytics-bi-experts-twitter.html)
 
 ### SQL Docs
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
@@ -239,6 +250,8 @@
 - [use-the-index-luke.com: Clustered Indexes have major drawbacks you might not be aware of](http://use-the-index-luke.com/sql/clustering/index-organized-clustered-index)
 - [use-the-index-luke.com: Primary Keys. Reading the execution plan of a primary key lookup](http://use-the-index-luke.com/sql/where-clause/the-equals-operator/primary-keys)
 - [use-the-index-luke.com: SQL Server Distinguishing Access and Filter-Predicates](http://use-the-index-luke.com/sql/explain-plan/sql-server/filter-predicates)
+- [use-the-index-luke.com: Pagination done the PostgreSQL Way. Works also in other DBs, but not that simple](http://use-the-index-luke.com/blog/2013-07/pagination-done-the-postgresql-way)
+- [use-the-index-luke.com: What’s left of NoSQL?](http://use-the-index-luke.com/blog/2013-04/whats-left-of-nosql)
 - [database-programmer.blogspot.co.at: Database Performance: Pay Me Now or Pay Me Later](http://database-programmer.blogspot.co.at/2008/07/database-performance-pay-me-now-or-pay.html)
 - [Datazenit Web-based database administration tool for MySQL and PostgreSQL](https://datazenit.com)
 - [javacodegeeks.com: The 10 Most Popular DB Engines (SQL and NoSQL)](http://www.javacodegeeks.com/2013/10/the-10-most-popular-db-engines-sql-and-nosql.html)
@@ -246,6 +259,9 @@
 - [18GB of JSON? How long do you think python would take to consume this file and insert to mysql?](https://www.reddit.com/r/Python/comments/40o2si/18gb_of_json/)
 - [quora.com: What are some interesting things to know about SQL which most people don't know/might not use?](https://www.quora.com/What-are-some-interesting-things-to-know-about-SQL-which-most-people-dont-know-might-not-use/answer/Lukas-Eder)
 - [boomphisto.blogspot.co.at: The Black Art Of Spatial Index Tuning In SQL Server](http://boomphisto.blogspot.co.at/2011/04/black-art-of-spatial-index-tuning-in.html)
+- [SQL Server Management Studio: “Include Client Statistics” Button](http://www.brentozar.com/archive/2012/12/sql-server-management-studio-include-client-statistics-button/)
+- [craigkerstiens.com: Writing More Legible SQL](http://www.craigkerstiens.com/2016/01/08/writing-better-sql/)
+- [Oracle’s OPT_ESTIMATE hint: Usage Guide](http://www.pythian.com/blog/oracles-opt_estimate-hint-usage-guide/)
 
 ![mixing indexes](images/mixing_indexes.jpg)
 
@@ -339,6 +355,7 @@
 - [thoughtworks.com: NoSQL Databases, an overview](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 - [Diferencias entre SQL y NoSQL ¿Sabes cuál usar?](http://www.facilcloud.com/noticias/?p=1294&lang=es_ES)
 - [zdnet.com: SQL, NoSQL? What's the difference these days?](http://www.zdnet.com/article/sql-nosql-whats-the-difference-these-days/)
+- [NoSQL Databases: 4 Game-Changing Use Cases](http://www.smartdatacollective.com/kingmesal/373466/nosql-databases-4-game-changing-use-cases)
 
 #### MongoDB Tools and MongoDB as a Service
 - [MongoDB Tools - Admin GUIs, Monitoring and Other Good Stuff](http://mongodb-tools.com/)

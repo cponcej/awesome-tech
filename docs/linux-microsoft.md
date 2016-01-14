@@ -38,6 +38,7 @@
 	- [Red Hat Virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
 	- [Red Hat OpenStack](#red-hat-openstack)
+	- [Red Hat Storage](#red-hat-storage)
 	- [Red Hat and IBM](#red-hat-and-ibm)
 	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
 	- [JBoss (WildFly)](#jboss-wildfly)
@@ -179,6 +180,7 @@
 - [Linux Run Command As Another User](http://www.cyberciti.biz/open-source/command-line-hacks/linux-run-command-as-different-user/)
 - [Much faster incremental apt updates](https://juliank.wordpress.com/2015/12/26/much-faster-incremental-apt-updates/)
 - [Linux/UNIX: Convert Hexadecimal to Decimal Number](http://www.cyberciti.biz/faq/linux-unix-convert-hex-to-decimal-number/)
+- [A Shell Primer: Master Your Linux, OS X, Unix Shell Environment](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/)
 
 ### Linux Terminals
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)
@@ -233,6 +235,7 @@
 - [observium.org: Network monitoring with intuition](http://www.observium.org/)
 
 ### Networking CLI and settings
+- [Linux ip Command Examples](http://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/)
 - [What are useful command-line network monitors on Linux](http://xmodulo.com/useful-command-line-network-monitors-linux.html)
 - [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
 - [tc command: adds latency to NIC for testing purposes](http://bencane.com/2012/07/16/tc-adding-simulated-network-latency-to-your-linux-server/)
@@ -472,6 +475,11 @@
 - [Red Hat Whitepaper: Preparing for Private Cloud and Hybrid IT with Red Hat Cloud Infrastructure](http://www.redhat.com/en/resources/managing-hybrid-cloud-diversified-workloads-and-unified-cloud-infrastructure-administration)
 - [slideshare.net: Transforming to OpenStack: a sample roadmap to DevOps](http://www.slideshare.net/NicolasBarcet/os-summit-transformingtoopenstack)
 - [enterprisetech.com: Red Hat Seeks To Ease OpenStack Deployments](http://www.enterprisetech.com/2014/08/27/red-hat-seeks-ease-openstack-deployments/)
+- [redhat.com: Looking for a new way to integrate your OpenStack deployment with Active Directory?](https://access.redhat.com/documentation/en/red-hat-enterprise-linux-openstack-platform/version-7/integrate-with-identity-service/)
+
+## Red Hat Storage
+- [redhat.com/storage](http://redhat.com/storage)
+- [redhat.lookbookhq.com: Is Open, Software-defined Storage Right for Your Organization?](http://redhat.lookbookhq.com/sds/asset1)
 
 ## Red Hat and IBM
 - [Installing Red Hat Enterprise Linux 7.2 on IBM POWER8 and x86 in bare metal mode: A comparison](http://www.ibm.com/developerworks/linux/library/l-installing-rhel-7-2-on-ibm-power8-and-x86/index.html)
@@ -590,7 +598,7 @@
 - [deals.slashdot.org: Microsoft Certified Solutions Engineer: Server Infrastructure Bundle](https://deals.slashdot.org/sales/microsoft-certified-solutions-engineer-server-infrastructure-bundle)
 - [computerworld.com: Microsoft's new tally for Windows 10: 200M](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
 - [It's time to accept the reality of device diversity. 9 tips for mobilizing your Microsoft investment](https://media.good.com/documents/ts-9-tips-for-mobilizing.pdf)
-- [zdnet.com: Microsoft open sources Edge web browser's JavaScript engine, plans port to Linux](http://www.zdnet.com/article/microsoft-open-sources-its-edge-web-browser-javascript-engine-and-plans-to-port-it-to-linux/) Microsoft open sources ChakraCore, Windows 10's Edge web browser JavaScript engine. More amazing still, Microsoft will port it to Ubuntu Linux.
+- [zdnet.com: Microsoft open sources Edge web browser's JavaScript engine, plans port to Linux](http://www.zdnet.com/article/microsoft-open-sources-its-edge-web-browser-javascript-engine-and-plans-to-port-it-to-linux/) Microsoft open sources ChakraCore, Windows 10's Edge web browser JavaScript engine. More amazing still, Microsoft will port it to Ubuntu Linux.https://blogs.vmware.com/teamfusion/2016/01/workaround-of-nat-port-forwarding-issue-in-fusion-8-1.html
 	- [thenextweb.com: Microsoft’s speedy Chakra JavaScript engine is now open source](http://thenextweb.com/dd/2016/01/13/microsofts-speedy-chakra-javascript-engine-is-now-open-source/)
 
 ![number of running windows dec 2015](images/number_of_win10.jpg)
@@ -617,3 +625,5 @@
 - [VMware Photon OS - Minimal Linux Container Host](https://vmware.github.io/photon/)
 - [You can run Cockpit in VMware Photon OS](http://blog.jreypo.io/cloud-native/devops/vmware/sysadmin/you-can-run-cockpit-in-photon-os/)
 - [Docker vs. VMWare: How Do They Stack Up?](https://www.scriptrock.com/articles/docker-vs.-vmware-how-do-they-stack-up)
+- [blogs.vmware.com](http://blogs.vmware.com/)
+	- [Workaround for the NAT port forwarding issue in Fusion 8.1](https://blogs.vmware.com/teamfusion/2016/01/workaround-of-nat-port-forwarding-issue-in-fusion-8-1.html)

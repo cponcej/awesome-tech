@@ -74,6 +74,7 @@
 - [Forbes/Tech: AWS is the biggest disruptive force in tech history that happened by accident](http://www.forbes.com/sites/siliconangle/2015/01/28/andy-jassy-aws-trillion-dollar-cloud-ambition/)
 - [aunclicdelastic.com: Etapas por las que pasa una empresa para "subirse a la nube"](http://www.aunclicdelastic.com/cloud-de-no-verle-utilidad-a-llevarlo-en-el-adn/)
 - [goparallel.sourceforge.net: Best Practices: First, Know Why You’re Moving to the Cloud](http://goparallel.sourceforge.net/best-practices-first-know-why-youre-moving-to-the-cloud/)
+- [The Economy of Cloud Computing 2016 (Infographic)](http://whatsthebigdata.com/2016/01/13/the-economy-of-cloud-computing-infographic/)
 
 ![cloud market share](images/cloud-market-share-3rd-qtr-2015.png)
 
@@ -161,6 +162,7 @@
 - [AWS CloudFormation Adds Support for AWS WAF and AWS Directory Service for Microsoft Active Directory](https://aws.amazon.com/es/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-waf-and-aws-directory-service-for-microsoft-active-directory/)
 - [Amazon WorkMail – Now Generally Available](https://aws.amazon.com/es/blogs/aws/amazon-workmail-now-generally-available/)
 - [London Calling! An AWS Region is coming to the UK!](http://www.allthingsdistributed.com/2015/11/aws-announces-uk-region.html)
+- [New – Scheduled Reserved Instances](https://aws.amazon.com/es/blogs/aws/new-scheduled-reserved-instances/)
 
 ### AWS Schema Conversion Tool
 - [cloudacademy.com: Migrating Data to AWS Using the AWS Schema Conversion Tool: A Preview](http://cloudacademy.com/blog/migrating-data-to-aws/)

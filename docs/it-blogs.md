@@ -23,6 +23,7 @@
 - [CityAM Tech](http://www.cityam.com/news/tech)
 - [Forbes Tech](http://www.forbes.com/technology/)
 - [techcrunch.com](http://techcrunch.com/)
+- [techrepublic.com](http://www.techrepublic.com/)
 - [eWeek.com](http://www.eweek.com)
 - [slashdot.org](http://slashdot.org)
 - [BBC Research & Development](http://www.bbc.co.uk/rd)

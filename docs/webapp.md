@@ -14,6 +14,7 @@
 		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
 	- [E-Mail](#e-mail)
 	- [Video](#video)
+	- [Distributed Messaging System. Message oriented middleware](#distributed-messaging-system-message-oriented-middleware)
 
 <!-- /MarkdownTOC -->
 
@@ -119,5 +120,10 @@
 
 ## Video
 - [BBC R&D: H.265/HEVC vs H.264/AVC: 50% bit rate savings verified](http://www.bbc.co.uk/rd/blog/2016/01/h-dot-265-slash-hevc-vs-h-dot-264-slash-avc-50-percent-bit-rate-savings-verified) A research team from the BBC has done a series of tests to confirm earlier computations showing a ~50% savings in bit rate for H.265/HEVC compared to video using H.264/AVC at comparable quality. 
+
+## Distributed Messaging System. Message oriented middleware 
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [Apache Kafka](http://kafka.apache.org/)
+- [Lose the Lock While Embracing Concurrency](https://dzone.com/articles/lose-the-lock-while-embracing-concurrency-brave-ne) Adopting concurrency? You may want to lose the lock. Here's a look at basics with message routing, such as concurrent timelines, linearizability​, and more!
 
 ![dilbert](images/dilbert.jpg)

@@ -69,5 +69,7 @@
 - [twitter.com/developerbcn](https://twitter.com/developerbcn)
 - [twitter.com/developermadrid](https://twitter.com/developermadrid)
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
+- [Interview Preparation Guide](https://github.com/ride/interview-prep)
+- [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
 
 ![europe silicon valley](images/europe_silicon_valley.png)

@@ -46,5 +46,7 @@
 - [Kubernetes.io](http://kubernetes.io/)
 	- [Kubernetes repo analyzed with gitm. Top changeset contributors by employer](https://github.com/karlkfi/kubernetes-gitdm/wiki#top-changeset-contributors-by-employer)
 - [Univa Grid Engine](http://www.univa.com/)
+- [Apache ZooKeeper](http://zookeeper.apache.org/)
+	- [Coordination and service discovery with Apache Zookeeper](http://www.javacodegeeks.com/2013/11/coordination-and-service-discovery-with-apache-zookeeper.html)
 
 ![get healthier](images/Get_Healthier.png)

@@ -27,6 +27,8 @@
 - [youtube playlist: Dell Security](https://www.youtube.com/playlist?list=PLtVMPnH0I8TSLxGad4D9UGr12S1SH3kcM)
 - [blog.cryptographyengineering.com](http://blog.cryptographyengineering.com/)
 - [eweek.com/security](http://www.eweek.com/security/)
+- [CSO: Security news, features and analysis about prevention, protection and business innovation](http://www.csoonline.com/)
+- [peerlyst](https://www.peerlyst.com/) Professional Community platform for Information Security
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)
 
 ## Security Podcasts

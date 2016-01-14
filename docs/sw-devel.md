@@ -150,6 +150,7 @@
 - [Rousting the Vim mafia](http://sublimetexttips.com/rousting-the-vim-mafia/)
 - [How to bulk rename files without losing your sanity](http://sublimetexttips.com/how-to-bulk-rename-files-without-losing-your-sanity/)
 - [Hey Rails Developers (And Web Developers): Here's an Awesome Sublime Text Cheat Sheet Just For You](http://sublimetexttips.com/attention-rails-developers-and-web-developers-heres-an-awesome-sublime-text-cheat-sheet-just-for-you/)
+- [Sublime Text 3: Worth the upgrade?](http://sublimetexttips.com/sublime-text-3-worth-the-upgrade/)
 
 #### Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)
@@ -246,6 +247,7 @@
 - [Stop writing code that will break on Python 4!](http://astrofrog.github.io/blog/2016/01/12/stop-writing-python-4-incompatible-code/) With the end of support for Python 2 on the horizon (in 2020), many package developers have made their packages compatible with both Python 2 and Python 3. 
 - [github: Python3 in one pic](https://github.com/coodict/python3-in-one-pic)
 - [reddit.com: Functions vs. Classes](https://www.reddit.com/r/learnpython/comments/40rieo/functions_vs_classes/)
+- [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 
 ![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)
 
@@ -302,6 +304,7 @@
 
 ### Python code
 - [Dead simple {for devs} python crawler (script) for extracting structured data from any website into CSV](http://blog.webhose.io/2015/08/16/dead-simple-for-devs-python-crawler-script-for-extracting-structured-data-from-any-almost-website-into-csv/)
+- [Python Multi-Process Execution Pool](https://github.com/XI-lab/PyExPool)
 
 ### Python and AWS
 - [Ansible and AWS: cloud IT automation management](http://cloudacademy.com/blog/ansible-aws/)
@@ -346,6 +349,7 @@
 - [javacodegeeks.com: OutputStyleSheet Example with JSF 2.0](http://examples.javacodegeeks.com/enterprise-java/jsf/outputstylesheet-example-with-jsf-2-0)
 - [examples.javacodegeeks.com: Spring MVC Handler Mapping Example](http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-handler-mapping-example)
 - [DZone: String Concatenation's Effect on Performance](https://dzone.com/articles/string-concatentions-effect-on-performance) Don’t use the string concatenation operator to combine more than a few strings unless performance is irrelevant. Use StringBuilder’s append method instead. 
+- [Coordination and service discovery with Apache Zookeeper](http://www.javacodegeeks.com/2013/11/coordination-and-service-discovery-with-apache-zookeeper.html)
 
 ![Learn java python](images/learn-java-python.png)
 
@@ -357,6 +361,8 @@
 
 ## C programming
 - [How to C in 2016](https://matt.sh/howto-c)
+
+![two kinds of programming languages](images/two_kinds_programming_languages.png)
 
 ## Lambda Expressions 
 - [dzone: Understanding Lambda Expressions](https://dzone.com/articles/understanding-lambda-expressions)
@@ -392,6 +398,8 @@
 - [ibm.com: Use Active Directory for authentication and authorization in your Node.js Bluemix application](http://www.ibm.com/developerworks/library/se-use-active-directory-authentication-authorization-node.js-bluemix-application/index.html)
 - [Top 20 jQuery Interview Questions and Answers for JavaScript Programmers](http://www.webcodegeeks.com/javascript/jquery/jquery-interview-questions-answers-programmers)
 - [webcodegeeks.com: jQuery dialog example](http://www.webcodegeeks.com/javascript/jquery/jquery-dialog-example) jQuery UI is a collection of jQuery plugins used to enhance the web application user interface. Inside this library we find many reusable components for interactions, effects, widgets and more.
+- [10 Awesome AngularJS Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/12/10-awesome-angularjs-tutorials-to-kick-start-your-web-programming-projects.html)
+- [Multithreading and Concurrency Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html)
 
 ### HTML5
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
@@ -421,6 +429,7 @@
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
+- [selenium 2.49.0 released: Python bindings for Selenium](https://pypi.python.org/pypi/selenium/2.49.0)
 - [TestNG: Run tests sequentially with @DataProvider inside one test class](http://www.javacodegeeks.com/2014/01/testng-run-tests-sequentially-with-dataprovider-inside-one-test-class.html)
 - [thenewstack.io: How Vagrant Eases Software Research and Testing](http://thenewstack.io/vagrant-developers-researchers/)
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
