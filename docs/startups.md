@@ -44,7 +44,7 @@
 - [Tetuan Valley Madrid](http://tetuanvalley.com/)
 - [Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
 
-![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)
+[![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
 
 ## Startup jobs. Job Search
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
@@ -120,7 +120,7 @@
 - [9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
 - [9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
 
-![Maslows-Hierarchy-of-Needs](images/Maslows-Hierarchy-of-Needs-resized1.png)
+[![Maslows-Hierarchy-of-Needs](images/Maslows-Hierarchy-of-Needs-resized1.png)](www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 
 ### Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
@@ -137,4 +137,4 @@
 - [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
 - [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
 
-![europe silicon valley](images/europe_silicon_valley.png)
+[![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
