@@ -67,7 +67,7 @@
 - [bitcoin.zeef.com](https://bitcoin.zeef.com)
 - etc
 
-![zeef](images/zeef.jpg)
+[![zeef](images/zeef.jpg)](https://zeef.com)
 
 ## Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc
 - [Awesome List - A curated list of awesome lists](https://github.com/sindresorhus/awesome)
@@ -83,7 +83,7 @@
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
 
-![awesome logo](images/awesome_logo.png)
+[![awesome logo](images/awesome_logo.png)](https://github.com/sindresorhus/awesome)
 
 ## Stack Exchange family of Q&A websites
 - [stackoverflow.com](http://stackoverflow.com/)
@@ -184,7 +184,7 @@
 - [WHIR Cloud Podcasts](http://www.thewhir.com/whir-podcast)
 	- [Top 5 The WHIR: Cloud Talks Podcasts for 2015](http://www.thewhir.com/blog/top-5-the-whir-cloud-talks-podcasts-for-2015)
 
-![the cloudcast](images/thecloudcast.png)
+[![The Cloudcast](images/thecloudcast.png)](http://www.thecloudcast.net)
 
 #### AWS Youtube channel and Podcasts
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
@@ -203,7 +203,7 @@
 - [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
 - [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
 
-![we developers](images/we_developers.png)
+[![we developers](images/we_developers.png)](http://wedevelopers.com)
 
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 
