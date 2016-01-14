@@ -226,7 +226,7 @@
 - [howtoforge.com: Server Monitoring with Munin and Monit on Ubuntu 14.04 LTS](https://www.howtoforge.com/tutorial/server-monitoring-with-munin-and-monit-on-ubuntu-14-04/)
 - [github: Script for automating Linux memory capture and analysis](https://github.com/halpomeranz/lmg)
 
-![glances ubuntu output](images/glances-ubuntu-output.png)
+[![glances ubuntu output](images/glances-ubuntu-output.png)](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
 
 ## Linux Networking
 ### Networking FOSS Tools
@@ -601,7 +601,7 @@
 - [zdnet.com: Microsoft open sources Edge web browser's JavaScript engine, plans port to Linux](http://www.zdnet.com/article/microsoft-open-sources-its-edge-web-browser-javascript-engine-and-plans-to-port-it-to-linux/) Microsoft open sources ChakraCore, Windows 10's Edge web browser JavaScript engine. More amazing still, Microsoft will port it to Ubuntu Linux.https://blogs.vmware.com/teamfusion/2016/01/workaround-of-nat-port-forwarding-issue-in-fusion-8-1.html
 	- [thenextweb.com: Microsoft’s speedy Chakra JavaScript engine is now open source](http://thenextweb.com/dd/2016/01/13/microsofts-speedy-chakra-javascript-engine-is-now-open-source/)
 
-![number of running windows dec 2015](images/number_of_win10.jpg)
+[![number of running windows dec 2015](images/number_of_win10.jpg)](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
 
 ## Microsoft Monitoring and Management
 - [PowerShell Magazine](http://www.powershellmagazine.com/)
@@ -615,7 +615,7 @@
 - [Revolution R renamed Microsoft R, available free to developers and students](http://blog.revolutionanalytics.com/2016/01/microsoft-r-open.html)
 - [BlackWasp](http://www.blackwasp.co.uk/) This site is dedicated to providing articles, tips and tricks and useful software related to Windows-based "Smart Client" and enterprise software development using Microsoft programming technologies. These include the .NET Framework, Visual Studio, C# and Microsoft SQL Server.
 
-![spiceworks](images/spiceworks-logo.png)
+[![spiceworks](images/spiceworks-logo.png)](http://www.spiceworks.com/)
 
 # VMware
 - [VMware Front Experience](http://www.v-front.de/)
