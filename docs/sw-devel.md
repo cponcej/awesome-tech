@@ -352,9 +352,9 @@
 - [DZone: String Concatenation's Effect on Performance](https://dzone.com/articles/string-concatentions-effect-on-performance) Don’t use the string concatenation operator to combine more than a few strings unless performance is irrelevant. Use StringBuilder’s append method instead. 
 - [Coordination and service discovery with Apache Zookeeper](http://www.javacodegeeks.com/2013/11/coordination-and-service-discovery-with-apache-zookeeper.html)
 
-![Learn java python](images/learn-java-python.png)
+[![Learn java python](images/learn-java-python.png)](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
-![developer python java](images/developer-python-java.png)
+[![developer python java](images/developer-python-java.png)](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
 ## Swift
 - [medium.com: 100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.2onig73ur)
@@ -451,4 +451,4 @@
 
 ![fixing bugs time](images/fixing_bugs_time.png)
 
-![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)
+[![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
