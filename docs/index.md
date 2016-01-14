@@ -3,8 +3,8 @@
 **Table of Contents**
 
 1. [High quality tech resources and search engines](high-quality-tech-resources.md)
-2. [Miscellaneous. IT Blogs, Support, HR](it-blogs.md)
-3. [Startups, Jobs, In-Demand Skills, Interviews](startups.md)
+2. [Miscellaneous. IT Blogs, Support](it-blogs.md)
+3. [Startups, Jobs, In-Demand Skills, HR, Interviews](startups.md)
 4. [Scalability and Reliability, Datacenters](scalability.md)
 5. [Linux, Red Hat, Microsoft, VMware](linux-microsoft.md)
 6. [WebApp, Middleware, JVM](webapp.md)
