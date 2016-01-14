@@ -232,10 +232,10 @@
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
 
 ### Zabbix
-	- [tecmint.com: Installing and Configuring Zabbix 2.4.5 on Debian 8 and RHEL/CentOS 7](http://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/)
-	- [All the slides of Zabbix Conference 2015](http://www.zabbix.com/conf2015_agenda.php)
-	- [Zabbix for Beginners webinar](https://www.youtube.com/watch?v=uqFaz2HyxVM)
-	- [Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?](https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/)
+- [tecmint.com: Installing and Configuring Zabbix 2.4.5 on Debian 8 and RHEL/CentOS 7](http://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/)
+- [All the slides of Zabbix Conference 2015](http://www.zabbix.com/conf2015_agenda.php)
+- [Zabbix for Beginners webinar](https://www.youtube.com/watch?v=uqFaz2HyxVM)
+- [Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?](https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/)
 
 ### Prometheus
 - [prometheus.io](http://prometheus.io/) An open-source service monitoring system and time series database
