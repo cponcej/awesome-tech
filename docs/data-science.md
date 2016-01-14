@@ -265,7 +265,7 @@
 - [SQL Server Management Studio: “Include Client Statistics” Button](http://www.brentozar.com/archive/2012/12/sql-server-management-studio-include-client-statistics-button/)
 - [craigkerstiens.com: Writing More Legible SQL](http://www.craigkerstiens.com/2016/01/08/writing-better-sql/)
 
-![mixing indexes](images/mixing_indexes.jpg)
+[![use the index luke](images/use_the_index_luke.png)](http://use-the-index-luke.com/)
 
 #### Database Version Control
 - [dzone.com: The Definitive Guide to Database Version Control — Part 6](https://dzone.com/articles/the-definitive-guide-to-database-version-control-p-7)
@@ -333,6 +333,8 @@
 - [PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data](http://www.prnewswire.com/news-releases/postgresql-95-upsert-row-level-security-and-big-data-300200819.html)
 - [Postgres 9.5 - the Feature Rundown: row level security policies, grouping sets and upsert](http://www.craigkerstiens.com/2015/12/27/postgres-9-5-feature-rundown/)
 
+![mixing indexes](images/mixing_indexes.jpg)
+
 #### SQLite
 - [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)
 - [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
@@ -343,6 +345,8 @@
 
 #### Oracle
 - [Oracle’s OPT_ESTIMATE hint: Usage Guide](http://www.pythian.com/blog/oracles-opt_estimate-hint-usage-guide/)
+
+[![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
 
 ### SQL replication
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
@@ -393,7 +397,5 @@
 ### NewSQL
 - [NuoDB, elastically scalable database. A revolution compared to traditional monolithic 1-box databases. NuoDB is ACID,SQL, distributed/scalable and support flexible schemas](http://www.nuodb.com/)
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
-
-[![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
 
 [![Visual_SQL_JOINS](images/Visual_SQL_JOINS_orig.jpg)](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
