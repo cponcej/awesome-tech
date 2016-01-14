@@ -71,7 +71,7 @@
 - [zdnet.com: DevOps: Still a big difference between expectation and reality](http://www.zdnet.com/article/devops-still-a-big-difference-between-expectation-and-reality/) While most IT managers believe that DevOps and agility are important, only around a third believe they have the right infrastructure to implement it, according to a survey.
 - [Linkedin: The DevOps Coding Dilemma](https://www.linkedin.com/pulse/devops-coding-dilemma-jason-dumars) Developers don't like being tech support for automation, even if they have 'Ops' as part of their title. 
 
-![automation](images/automation.png)
+[![automation](images/automation.png)](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1)
 
 ## DevOps Tools 2016
 - [Top 10 DevOps Tools to look out for in 2016](https://www.linkedin.com/pulse/top-10-devops-tools-look-out-2016-matthew-smith)
@@ -191,7 +191,7 @@
 - [git-scm clients](http://git-scm.com/downloads)
 - [TortoiseGit](https://tortoisegit.org/)
 
-![git image](images/git.png)
+[![git image](images/git.png)](http://www.cyberciti.biz/)
 
 ## Performance Testing. Traffic injectors
 ### JMeter
@@ -242,7 +242,7 @@
 - [prometheus.io](http://prometheus.io/) An open-source service monitoring system and time series database
 - [How To Install Prometheus using Docker on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-ubuntu-14-04)
 
-![zabbix cookbook](images/zabbix-cookbook.jpg)
+[![zabbix cookbook](images/zabbix-cookbook.jpg)](https://www.zabbix.com/documentation/3.0/)
 
 ### Monitoring of JavaEE applications
 - [javamelody](https://github.com/javamelody)
@@ -282,7 +282,7 @@
 - [AppDynamics ebook - Top 10 Java Performance Problems](https://www.appdynamics.com/lp/ebook-top-10-java-performance-problems/)
 - [Everything You Know About Latency Is Wrong](https://dzone.com/articles/everything-you-know-about-latency-is-wrong-brave-n)
 
-![newrelic apm](images/newrelic-apm.png)
+[![newrelic apm](images/newrelic-apm.png)](https://youtu.be/J5tzI-8k__Q)
 
 ### Centralized logging. Big Data Log Management Tools (Data Analytics Platforms)
 - [Devops and Log Management Tools Drive Agile IT](http://blog.xpolog.com/2014/04/17/devops-and-log-analysis-tools-drive-agile-it/)
@@ -311,7 +311,7 @@
 - [Cloudlytics.com - Analytics for AWS Cloud Logs | CloudFront, CloudTrail, ELB & S3 Logs and Billing Analytics](https://www.cloudlytics.com/)
 - [Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools: Splunk Storm, Graylog, Sumlogic, Logentries, Papertrail](https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/)
 
-![logstash architecture](images/logstach-archi.png)
+[![logstash architecture](images/logstach-archi.png)](https://www.elastic.co/products/logstash)
 
 # ITIL
 ## Is DevOps replacing ITIL?
