@@ -30,10 +30,10 @@
 
 ### Barcelona
 - [Barcinno - Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
-- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
-- [Barcelona Supercomputing Center](http://www.bsc.es/)
 - [Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
 - [BCN Analytics.com](http://bcnanalytics.com/)
+- [Barcelona Supercomputing Center](http://www.bsc.es/)
+	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
 - [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
 
 ### Madrid
