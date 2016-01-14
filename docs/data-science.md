@@ -298,7 +298,7 @@
 	- [MySQL for Visual Studio 1.2.6 has been released](http://insidemysql.com/mysql-for-visual-studio-1-2-6-has-been-released/)
 - [Python Mysql Connector](http://jasonralph.org/?p=291)
 
-![generatedata.com](images/generatedata.jpg)
+[![generatedata.com](images/generatedata.jpg)](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 
 #### PostgreSQL
 - [gettopical.com: PostgreSQL latest news](http://gettopical.com/postgresql)

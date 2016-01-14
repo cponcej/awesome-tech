@@ -76,7 +76,7 @@
 - [goparallel.sourceforge.net: Best Practices: First, Know Why You’re Moving to the Cloud](http://goparallel.sourceforge.net/best-practices-first-know-why-youre-moving-to-the-cloud/)
 - [The Economy of Cloud Computing 2016 (Infographic)](http://whatsthebigdata.com/2016/01/13/the-economy-of-cloud-computing-infographic/)
 
-![cloud market share](images/cloud-market-share-3rd-qtr-2015.png)
+[![cloud market share](images/cloud-market-share-3rd-qtr-2015.png)](http://blogs.csc.com/2016/01/04/2015s-top-five-cloud-developments-and-what-they-mean-today/)
 
 ## Cloud Pricing
 - [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)
@@ -105,7 +105,7 @@
 - [linux.com: Get an OpenStack sandbox environment up and running with minimal or zero cost](https://www.linux.com/learn/tutorials/866101-how-to-test-drive-openstack)
 - [opensource.com: OpenStack News January 2016. Landing a Summit talk, troubleshooting Neutron, and more OpenStack news](https://opensource.com/business/16/1/openstack-news-january-11)
 
-![openstack cluster](images/openstack-cluster.png)
+[![openstack cluster](images/openstack-cluster.png)](https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html)
 
 ## IBM Bluemix
 - [IBM Cloud computing. Technical resources for developing in the cloud](https://www.ibm.com/developerworks/cloud/)
@@ -145,7 +145,7 @@
 - [AWS IoT – Cloud Services for Connected Devices](https://aws.amazon.com/es/blogs/aws/aws-iot-cloud-services-for-connected-devices)
 - [AWS Mobile Hub – Build, Test, and Monitor Mobile Applications](https://aws.amazon.com/es/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications)
 
-![cloud job market](images/cloud_job_market.png)
+[![cloud job market](images/cloud_job_market.png)](http://cloudacademy.com/blog/cloud-computing-salary/)
 
 ## AWS Official Blog, AWS Labs, AWS Quick Start
 - [AWS Official Blog](http://blogs.aws.amazon.com/)
@@ -230,7 +230,7 @@
 ## AWS Gartner Report
 - [Gartner Critical Capabilities - Learn More ](https://aws.amazon.com/resources/gartner-cc-learn-more/)
 
-![Gartner Critical Capabilities](images/gartner_report.png)
+[![Gartner Critical Capabilities](images/gartner_report.png)](https://aws.amazon.com/es/resources/gartner-cc-learn-more/)
 
 ![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)
 
