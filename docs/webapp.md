@@ -126,4 +126,4 @@
 - [Apache Kafka](http://kafka.apache.org/)
 - [Lose the Lock While Embracing Concurrency](https://dzone.com/articles/lose-the-lock-while-embracing-concurrency-brave-ne) Adopting concurrency? You may want to lose the lock. Here's a look at basics with message routing, such as concurrent timelines, linearizability​, and more!
 
-![dilbert](images/dilbert.jpg)
+[![dilbert](images/dilbert.jpg)](http://dilbert.com/)

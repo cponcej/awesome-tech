@@ -341,7 +341,7 @@
 - [PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data](http://www.prnewswire.com/news-releases/postgresql-95-upsert-row-level-security-and-big-data-300200819.html)
 - [Postgres 9.5 - the Feature Rundown: row level security policies, grouping sets and upsert](http://www.craigkerstiens.com/2015/12/27/postgres-9-5-feature-rundown/)
 
-![mixing indexes](images/mixing_indexes.jpg)
+[![mixing indexes](images/mixing_indexes.jpg)](http://www.commitstrip.com)
 
 #### SQLite
 - [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)
