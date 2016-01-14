@@ -52,7 +52,7 @@
 - [Soluciones de almacenamiento Flash Array basadas en Dell y en Supermicro](http://searchdatacenter.techtarget.com/feature/Rethinking-data-center-components-as-commodities)
 - [All Flash Buying Guide](http://www.infostor.com/disk-arrays/all-flash-buying-guide.html)
 
-![synology logo](images/synology_logo.jpg)
+[![synology logo](images/synology_logo.jpg)](https://www.synology.com)
 
 ## Backup
 - [6 Steps to Better Data Backup and Quicker Recovery](https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd)
@@ -85,6 +85,6 @@
 - [sqlbackupandftp.com: Sql Backup and FTP. SQL Server backups. Efforless](http://sqlbackupandftp.com)
 - [simple-talk.com: SQL Server 2014 Backup Basics](https://www.simple-talk.com/sql/backup-and-recovery/sql-server-2014-backup-basics/)
 
-![veeam logo](images/veeam-logo.jpg)
+[![veeam logo](images/veeam-logo.jpg)](https://www.veeam.com)
 
-![backup condition](images/backup_condition.png)
+[![backup condition](images/backup_condition.png)](http://www.cyberciti.biz/)
