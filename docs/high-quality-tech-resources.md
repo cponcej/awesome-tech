@@ -31,7 +31,7 @@
 - [security.zeef.com](https://security.zeef.com)
 - [selinux.zeef.com](https://selinux.zeef.com)
 - [malware.zeef.com](https://malware.zeef.com)
-- [penetration-testing.zeef.com)](https://penetration-testing.zeef.com)
+- [penetration-testing.zeef.com](https://penetration-testing.zeef.com)
 - [mobile-app-testing.zeef.com](https://mobile-app-testing.zeef.com)
 - [ab-testing.zeef.com](https://ab-testing.zeef.com)
 - [databases.zeef.com](https://databases.zeef.com)
