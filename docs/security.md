@@ -132,4 +132,4 @@
 - [Drupal Hardens Its Security in Response to Criticism](http://www.eweek.com/security/drupal-hardens-its-security-in-response-to-criticism.html)
 - [scriptrock.com: Fixing The New OpenSSH Roaming Bug](https://www.scriptrock.com/blog/fixing-the-new-openssh-roaming-bug) A bug in a test feature of the OpenSSH client was found to be highly vulnerable to exploitation today, potentially leaking cryptographic keys to malicious attackers. First discovered and announced by the Qualys Security Team, the vulnerability affects OpenSSH versions 5.4 through 7.1.
 
-![intrusion response procedures](images/intrusion_response_procedures.png)
+[![intrusion response procedures](images/intrusion_response_procedures.png)](https://twitter.com/nixcraft)
