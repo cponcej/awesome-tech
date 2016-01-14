@@ -78,7 +78,12 @@
 - [IT Workers Share the Most Idiotic Things Non-Techies Have Told Them](https://upvoted.com/2015/12/15/it-workers-share-the-most-idiotic-things-non-techies-have-told-them/)
 
 ## Human Resources
+- [careerealism.com](http://www.careerealism.com/)
+- [Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
+- [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
+- [elblogderrhh.com](http://www.elblogderrhh.com/)
+	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [equiposytalento.com](http://www.equiposytalento.com/)
 
 ### 9 Box Model for classifying people in organizations

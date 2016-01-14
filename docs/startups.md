@@ -5,7 +5,8 @@
 	- [Startup related links](#startup-related-links)
 		- [Barcelona](#barcelona)
 		- [Madrid](#madrid)
-	- [Startup jobs](#startup-jobs)
+	- [Startup jobs. Job Search](#startup-jobs-job-search)
+	- [Freelance jobs](#freelance-jobs)
 	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 	- [Interview Preparation Guide](#interview-preparation-guide)
 
@@ -42,8 +43,14 @@
 
 ![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)
 
-## Startup jobs
+## Startup jobs. Job Search
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
+- [Eures Job Search](https://ec.europa.eu/eures/)
+- [make-it-in-germany.com](http://www.make-it-in-germany.com/)
+- [prospects.ac.uk](http://www.prospects.ac.uk/)
+- [gumtree.com/computing-it-jobs](https://www.gumtree.com/computing-it-jobs)
+- [indeed.co.uk](http://www.indeed.co.uk/)
+- [monster.co.uk](http://www.monster.co.uk/)
 - [AngelList jobs](https://angel.co)
 	- [AngelList jobs Barcelona](https://angel.co/barcelona)
 	- [AngelList Jobs Madrid](https://angel.co/barcelona)
@@ -83,10 +90,16 @@
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba startup jobs](http://tyba.com/)
 - [careers.stackoverflow.com](http://careers.stackoverflow.com/)
+- [jobandtalent.com](http://www.jobandtalent.com)
 - [trabajar-en.com](http://trabajar-en.com/)
 - [twitter.com/developerbcn](https://twitter.com/developerbcn)
 - [twitter.com/developermadrid](https://twitter.com/developermadrid)
+- [portalparados.es](http://www.portalparados.es/)
 - [¿Cuáles son los países que más están contratando?](http://www.expansion.com/emprendedores-empleo/empleo/2016/01/04/568ac17b22601d123b8b4635.html)
+- [Ofertas laborales para informáticos en Dubái](http://www.consejosgratis.es/ofertas-laborales-para-informaticos-en-dubai/)
+
+## Freelance jobs
+- [upwork.com](https://www.upwork.com/)
 
 ## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
@@ -98,5 +111,12 @@
 - [7 Lies Employers Use To Trick You Into Working For Them](https://www.linkedin.com/pulse/7-lies-employers-use-trick-you-working-them-j-t-o-donnell)
 - [10 Questions Never to Ask in an Interview](http://www.mjms.net/blog/10-questions-never-to-ask-in-an-interview/)
 - [Sorry, Recruiters! My Salary History Is None of Your Business](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
+- [Los sueldos informáticos en Europa](http://www.think-progress.com/es/blog/posts/los-sueldos-informaticos-en-europa/)
+	- [Mapping the European ICT Poles of Excellence: The Atlas of ICT Activity in Europe](http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=7140)
+	- [robertwalters.co.uk Salary Survey](https://www.robertwalters.co.uk/salarysurvey.html)
+- [¿Os habéis arrepentido en alguna ocasión de no preguntar determinadas cosas en la entrevista de trabajo?](http://www.elblogderrhh.com/2011/02/%C2%BFos-habeis-arrepentido-en-alguna-ocasion-de-no-preguntar-determinadas-cosas-en-la-entrevista-de-trabajo.html)
+- [Resume Dilemma: Employment Gaps and Job-Hopping](http://career-advice.monster.com/resumes-cover-letters/resume-writing-tips/resume-dilemma-employment-gaps/article.aspx)
+- [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
+- [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
 
 ![europe silicon valley](images/europe_silicon_valley.png)
