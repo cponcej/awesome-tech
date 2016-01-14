@@ -8,7 +8,7 @@
 
 Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
-![global house prices economist](images/global-house-prices-economist.png)
+[![global house prices economist](images/global-house-prices-economist.png)](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
 
 ![Should the Fed raise rates?](images/should-the-fed-raise-rates.png)
 
@@ -16,7 +16,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![An example of poor economics journalism](images/debt_britain.png)
 
-![OECD Data: Household debt](images/oecd_household_debt.png)
+[![OECD Data: Household debt](images/oecd_household_debt.png)](https://data.oecd.org)
 
 ![OECD Data: Household disposable income](images/oecd_household_disposable_income.png)
 
@@ -44,9 +44,9 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![OECD Data: Researchers](images/oecd_researchers.png)
 
-![Worst calendar year starts](images/worst_calendar_year_starts.png)
+[![Worst calendar year starts](images/worst_calendar_year_starts.png)](https://pensionpartners.com/the-worst-start-in-history/)
 
-![Years in which European countries took part in an international war](images/eu_countries_war.png)
+[![Years in which European countries took part in an international war](images/eu_countries_war.png)](http://ourworldindata.org/data/war-peace/war-and-peace-before-1945/)
 
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
