@@ -17,6 +17,7 @@
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
+- [The Enterprise Lean Startup Survival Guide (Free)](https://www.udemy.com/the-enterprise-lean-startup-survival-guide/) Learn how to identify and address common organizational traps when introducing Lean Startup to large organizations
 - [Project Management For Entrepreneurs: 10X Results Today](https://www.udemy.com/project-management-hacks-to-less-stress-and-bigger-paychecks)
 - [Red Hat Certified System Administrator - Exam EX200 - RHCSA](https://www.udemy.com/red-hat-certified-system-administrator-exam-ex200-rhcsa/)
 	- [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)

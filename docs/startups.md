@@ -3,6 +3,8 @@
 
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
+		- [Barcelona](#barcelona)
+		- [Madrid](#madrid)
 	- [Startup jobs](#startup-jobs)
 	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 	- [Interview Preparation Guide](#interview-preparation-guide)
@@ -16,15 +18,27 @@
 - [startupheatmap.eu: Where is the Europe's next Silicon Valley?](http://www.startupheatmap.eu/)
 
 ## Startup related links
-- [Barcinno - Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
+- [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
+- [webcapitalriesgo.com: Startup Financing in Spain. 2015](https://www.webcapitalriesgo.com/descargas/4714_07_15_353136675.pdf)
 - [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
 	- [El inversor de éxito que lucha contra la "burbuja" de las startups](http://startupxplore.com/blog/es/bill-gurley-burbuja-startup/)
 - [European Startup Initiative](http://www.startupheatmap.eu/)
-- [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [Y Combinator is a community of over 1,600 founders](http://www.ycombinator.com/)
 - [insideanalysis.com: 10 Companies and Technologies to Watch in 2016](http://insideanalysis.com/2016/01/20535/)
 - [startup.zeef.com](https://startup.zeef.com/)
+
+### Barcelona
+- [Barcinno - Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
+- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
+- [Barcelona Supercomputing Center](http://www.bsc.es/)
+- [Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
+- [BCN Analytics.com](http://bcnanalytics.com/)
+- [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
+
+### Madrid
+- [Tetuan Valley Madrid](http://tetuanvalley.com/)
+- [Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
 
 ## Startup jobs
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
