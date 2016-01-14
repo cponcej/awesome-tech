@@ -80,6 +80,7 @@
 - [Genbeta dev](http://www.genbetadev.com/)
 - [ivanprego.com](http://ivanprego.com/)
 - [boomphisto](http://boomphisto.blogspot.co.at/)
+- [rachbelaid.com](http://rachbelaid.com/)
 
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)

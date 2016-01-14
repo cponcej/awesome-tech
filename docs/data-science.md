@@ -31,6 +31,7 @@
 				- [UPSERT on Postgres 9.5](#upsert-on-postgres-95)
 			- [SQLite](#sqlite)
 			- [TinyDB](#tinydb)
+			- [Oracle](#oracle)
 		- [SQL replication](#sql-replication)
 		- [NoSQL](#nosql)
 			- [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
@@ -261,7 +262,6 @@
 - [boomphisto.blogspot.co.at: The Black Art Of Spatial Index Tuning In SQL Server](http://boomphisto.blogspot.co.at/2011/04/black-art-of-spatial-index-tuning-in.html)
 - [SQL Server Management Studio: “Include Client Statistics” Button](http://www.brentozar.com/archive/2012/12/sql-server-management-studio-include-client-statistics-button/)
 - [craigkerstiens.com: Writing More Legible SQL](http://www.craigkerstiens.com/2016/01/08/writing-better-sql/)
-- [Oracle’s OPT_ESTIMATE hint: Usage Guide](http://www.pythian.com/blog/oracles-opt_estimate-hint-usage-guide/)
 
 ![mixing indexes](images/mixing_indexes.jpg)
 
@@ -322,6 +322,7 @@
 - [Using Repository pattern to migrate Rails app from MongoDB to PostgreSQL](https://www.amberbit.com/blog/2015/11/30/using-repository-pattern-to-migrate-rails-app-from-mongodb-to-postgresql/)
 - [MongoDB 3.2: Now Powered by PostgreSQL](https://www.linkedin.com/pulse/mongodb-32-now-powered-postgresql-john-de-goes)
 - [PostgreSQL Studio, web based postgresql development](http://www.postgresqlstudio.org/)
+- [Introduction to PostgreSQL physical storage](http://rachbelaid.com/introduction-to-postgres-physical-storage/)
 
 ##### UPSERT on Postgres 9.5
 - [postgresql.org: PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data](http://www.postgresql.org/about/news/1636/)
@@ -337,6 +338,9 @@
 
 #### TinyDB
 - [TinyDB:](http://tinydb.readthedocs.org) a pure Python document (i.e., JSON) database for simple local storage
+
+#### Oracle
+- [Oracle’s OPT_ESTIMATE hint: Usage Guide](http://www.pythian.com/blog/oracles-opt_estimate-hint-usage-guide/)
 
 ### SQL replication
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
