@@ -8,6 +8,7 @@
 	- [Support](#support)
 	- [Human Resources](#human-resources)
 		- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
+	- [Non IT related Blogs](#non-it-related-blogs)
 	- [Non IT related Podcasts](#non-it-related-podcasts)
 
 <!-- /MarkdownTOC -->
@@ -85,6 +86,9 @@
 - [9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
 
 ![Maslows-Hierarchy-of-Needs](images/Maslows-Hierarchy-of-Needs-resized1.png)
+
+## Non IT related Blogs
+- [Upvoted - A Redditorial Publication](https://upvoted.com/)
 
 ## Non IT related Podcasts
 - [theguardian.com: The 10 best lesser-known podcasts ](http://www.theguardian.com/culture/gallery/2014/jan/18/10-best-lesser-known-podcasts-miranda-sawyer)
