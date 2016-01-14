@@ -20,6 +20,8 @@
 
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com](https://zeef.com)
+- [startup-resources.zeef.com](https://startup-resources.zeef.com)
+- [startup.zeef.com](https://startup.zeef.com/)
 - [agile.zeef.com](https://agile.zeef.com)
 - [sublime-text.zeef.com](https://sublime-text.zeef.com)
 - [git.zeef.com](https://git.zeef.com)
@@ -63,7 +65,6 @@
 - [digital-marketing.zeef.com](https://digital-marketing.zeef.com)
 - [email-marketing.zeef.com](https://email-marketing.zeef.com)
 - [bitcoin.zeef.com](https://bitcoin.zeef.com)
-- [startup.zeef.com](https://startup.zeef.com/)
 - etc
 
 ![zeef](images/zeef.jpg)

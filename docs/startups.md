@@ -29,6 +29,7 @@
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [Y Combinator is a community of over 1,600 founders](http://www.ycombinator.com/)
 - [insideanalysis.com: 10 Companies and Technologies to Watch in 2016](http://insideanalysis.com/2016/01/20535/)
+- [startup-resources.zeef.com](https://startup-resources.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 
 ### Barcelona
