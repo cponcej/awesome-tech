@@ -21,29 +21,29 @@
 - [startupheatmap.eu: Where is the Europe's next Silicon Valley?](http://www.startupheatmap.eu/)
 
 ## Startup related links
-- [Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
+- [ZDnet: Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [webcapitalriesgo.com: Startup Financing in Spain. 2015](https://www.webcapitalriesgo.com/descargas/4714_07_15_353136675.pdf)
-- [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
+- [Startupxplore.com: map with all the IT startups and investors](https://startupxplore.com/)
 	- [El inversor de éxito que lucha contra la "burbuja" de las startups](http://startupxplore.com/blog/es/bill-gurley-burbuja-startup/)
-- [European Startup Initiative](http://www.startupheatmap.eu/)
+- [StartupHeatMap.eu: European Startup Initiative](http://www.startupheatmap.eu/)
 - [StartupBlink: Global Startup Industry Map](http://www.startupblink.com/)
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
-- [Y Combinator is a community of over 1,600 founders](http://www.ycombinator.com/)
+- [ycombinator.com: Y Combinator is a community of over 1,600 founders](http://www.ycombinator.com/)
 - [insideanalysis.com: 10 Companies and Technologies to Watch in 2016](http://insideanalysis.com/2016/01/20535/)
 - [startup-resources.zeef.com](https://startup-resources.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 
 ### Barcelona
-- [Barcinno - Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
-- [Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
-- [BCN Analytics.com](http://bcnanalytics.com/)
-- [Barcelona Supercomputing Center](http://www.bsc.es/)
+- [Barcinno.com: Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
+- [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
+- [BCNanalytics.com](http://bcnanalytics.com/)
+- [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
 - [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
 
 ### Madrid
-- [Tetuan Valley Madrid](http://tetuanvalley.com/)
-- [Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
+- [tetuanvalley.com: Tetuan Valley Madrid](http://tetuanvalley.com/)
+- [campus.co/madrid: Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
 
 [![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
 
@@ -90,9 +90,9 @@
 	- [AngelList Jobs Budapest](https://angel.co/budapest)
 	- [AngelList Jobs Bucharest](https://angel.co/bucharest)
 	- [AngelList Jobs Athens](https://angel.co/athens)
-- [Jobs BCN, All Startup Jobs in Barcelona](http://www.jobsbcn.com/)
+- [JobsBCN.com: All Startup Jobs in Barcelona](http://www.jobsbcn.com/)
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
-- [tyba startup jobs](http://tyba.com/)
+- [tyba.com startup jobs](http://tyba.com/)
 - [careers.stackoverflow.com](http://careers.stackoverflow.com/)
 - [jobandtalent.com](http://www.jobandtalent.com)
 - [trabajar-en.com](http://trabajar-en.com/)
@@ -110,7 +110,7 @@
 
 ## Human Resources
 - [careerealism.com](http://www.careerealism.com/)
-- [Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
+- [hbr.org: Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
 - [elblogderrhh.com](http://www.elblogderrhh.com/)
@@ -118,8 +118,8 @@
 - [equiposytalento.com](http://www.equiposytalento.com/)
 
 ### 9 Box Model for classifying people in organizations
-- [9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
-- [9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
+- [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
+- [slideshare.net: 9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
 
 [![Maslows-Hierarchy-of-Needs](images/Maslows-Hierarchy-of-Needs-resized1.png)](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 
