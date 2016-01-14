@@ -232,5 +232,5 @@
 
 [![Gartner Critical Capabilities](images/gartner_report.png)](https://aws.amazon.com/resources/gartner-cc-learn-more/)
 
-![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)
+[![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)](https://www.google.com/search?q=AMZN+Nasdaq)
 
