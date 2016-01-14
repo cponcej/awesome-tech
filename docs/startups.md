@@ -78,6 +78,8 @@
 ## Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
+- [7 Questions Only the Smartest Job Candidates Ask](http://www.inc.com/jeff-haden/7-insightful-questions-only-the-best-job-candidates-think-to-ask.html)
+- [7 Lies Employers Use To Trick You Into Working For Them](https://www.linkedin.com/pulse/7-lies-employers-use-trick-you-working-them-j-t-o-donnell)
 - [10 Questions Never to Ask in an Interview](http://www.mjms.net/blog/10-questions-never-to-ask-in-an-interview/)
 - [Sorry, Recruiters! My Salary History Is None of Your Business](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
 
