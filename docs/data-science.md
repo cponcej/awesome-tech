@@ -208,6 +208,17 @@
 - [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
 - [twitter.com/BigDataBlogs](https://twitter.com/BigDataBlogs)
 - [InformationWeek Top Data Science, Analytics, and BI experts on Twitter](http://www.kdnuggets.com/2016/01/informationweek-top-data-science-analytics-bi-experts-twitter.html)
+	1. [https://twitter.com/mrogati](https://twitter.com/mrogati)
+	2. [https://twitter.com/scientistBob](https://twitter.com/scientistBob)
+	3. [https://twitter.com/schmarzo](https://twitter.com/schmarzo)
+	4. [https://twitter.com/mdraugelis](https://twitter.com/mdraugelis)
+	5. [https://twitter.com/hmason](https://twitter.com/hmason)
+	6. [https://twitter.com/Kart_Lisa](https://twitter.com/Kart_Lisa)
+	7. [https://twitter.com/merv](https://twitter.com/merv)
+	8. [https://twitter.com/kdnuggets](https://twitter.com/kdnuggets)
+	9. [https://twitter.com/data_nerd](https://twitter.com/data_nerd)
+	10. [https://twitter.com/jenbelissent](https://twitter.com/jenbelissent)
+	11. [https://twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
 ### SQL Docs
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
