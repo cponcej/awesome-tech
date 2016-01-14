@@ -6,8 +6,6 @@
 	- [IT Spain Blogs](#it-spain-blogs)
 	- [Blog Hosting](#blog-hosting)
 	- [Support](#support)
-	- [Human Resources](#human-resources)
-		- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
 	- [Non IT related Blogs](#non-it-related-blogs)
 	- [Non IT related Podcasts](#non-it-related-podcasts)
 
@@ -76,21 +74,6 @@
 - [Stack Exchange](high-quality-tech-resources.md#stack-exchange-family-of-qa-websites)
 - [roguewave.com: 2015 Open Source Support Report](http://www.roguewave.com/programs/open-source-support-report)
 - [IT Workers Share the Most Idiotic Things Non-Techies Have Told Them](https://upvoted.com/2015/12/15/it-workers-share-the-most-idiotic-things-non-techies-have-told-them/)
-
-## Human Resources
-- [careerealism.com](http://www.careerealism.com/)
-- [Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
-- [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
-- [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
-- [elblogderrhh.com](http://www.elblogderrhh.com/)
-	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
-- [equiposytalento.com](http://www.equiposytalento.com/)
-
-### 9 Box Model for classifying people in organizations
-- [9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
-- [9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
-
-![Maslows-Hierarchy-of-Needs](images/Maslows-Hierarchy-of-Needs-resized1.png)
 
 ## Non IT related Blogs
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)

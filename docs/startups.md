@@ -8,7 +8,9 @@
 	- [Startup jobs. Job Search](#startup-jobs-job-search)
 	- [Freelance jobs](#freelance-jobs)
 	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
-	- [Interview Preparation Guide](#interview-preparation-guide)
+	- [Human Resources](#human-resources)
+		- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
+		- [Interview Preparation Guide](#interview-preparation-guide)
 
 <!-- /MarkdownTOC -->
 
@@ -104,7 +106,22 @@
 ## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
 
-## Interview Preparation Guide
+## Human Resources
+- [careerealism.com](http://www.careerealism.com/)
+- [Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
+- [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
+- [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
+- [elblogderrhh.com](http://www.elblogderrhh.com/)
+	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
+- [equiposytalento.com](http://www.equiposytalento.com/)
+
+### 9 Box Model for classifying people in organizations
+- [9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
+- [9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
+
+![Maslows-Hierarchy-of-Needs](images/Maslows-Hierarchy-of-Needs-resized1.png)
+
+### Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
 - [7 Questions Only the Smartest Job Candidates Ask](http://www.inc.com/jeff-haden/7-insightful-questions-only-the-best-job-candidates-think-to-ask.html)
