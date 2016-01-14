@@ -253,4 +253,4 @@
 ## IBM Rational ClearCase 
 - [Deploying secure software configuration management](http://www.ibm.com/developerworks/rational/library/rational-deploy-secure-software-configuration-management-trs/index.html)
 
-![disruption cycle](images/disruption-cycle.png)
+[![disruption cycle](images/disruption-cycle.png)](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
