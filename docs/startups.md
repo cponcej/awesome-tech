@@ -70,6 +70,7 @@
 - [trabajar-en.com](http://trabajar-en.com/)
 - [twitter.com/developerbcn](https://twitter.com/developerbcn)
 - [twitter.com/developermadrid](https://twitter.com/developermadrid)
+- [¿Cuáles son los países que más están contratando?](http://www.expansion.com/emprendedores-empleo/empleo/2016/01/04/568ac17b22601d123b8b4635.html)
 
 ## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
