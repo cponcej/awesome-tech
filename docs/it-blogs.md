@@ -75,6 +75,8 @@
 - [roguewave.com: 2015 Open Source Support Report](http://www.roguewave.com/programs/open-source-support-report)
 - [IT Workers Share the Most Idiotic Things Non-Techies Have Told Them](https://upvoted.com/2015/12/15/it-workers-share-the-most-idiotic-things-non-techies-have-told-them/)
 
+[![why indeed](images/why_indeed.png)](https://upvoted.com/2015/12/15/it-workers-share-the-most-idiotic-things-non-techies-have-told-them/)
+
 ## Non IT related Blogs
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)
 
