@@ -108,7 +108,7 @@
 - [developers.redhat.com: Modern Java EE design patterns](http://developers.redhat.com/promotions/distributed-javaee-architecture/) Building Scalable Architecture for Sustainable Enterprise Development
 - [javacodegeeks.com: Java Design Patterns Tutorial](http://www.javacodegeeks.com/2015/09/java-design-patterns.html)
 
-![desirable developer skills](images/desirable_developer_skills.png)
+[![desirable developer skills](images/desirable_developer_skills.png)](http://www.commandlinefu.com/)
 
 ## Editors
 - [tecmint.com: 12 Best Open Source Text Editors (GUI + CLI) I Found in 2015](http://www.tecmint.com/best-open-source-linux-text-editors/)
@@ -178,7 +178,7 @@
 - [thimble.mozilla.org: Thimble is an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/)
 - [Code::Blocks - A free C, C++ and Fortran IDE](http://sourceforge.net/projects/codeblocks/)
 
-![Be like Bill](images/be_like_bill.jpg)
+[![Be like Bill](images/be_like_bill.jpg)](https://twitter.com/nixcraft)
 
 ### Diff Tools
 - [Comparison of file comparison tools](https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools)
@@ -199,7 +199,7 @@
 - [Writing Robust Bash Shell Scripts](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
 - [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming)
 
-![goto-dinosaur](images/goto-dinosaur.jpeg)
+[![goto-dinosaur](images/goto-dinosaur.jpeg)](https://twitter.com/nixcraft)
 
 ## Python
 ### Python Blogs and Forums
@@ -250,7 +250,7 @@
 - [reddit.com: Functions vs. Classes](https://www.reddit.com/r/learnpython/comments/40rieo/functions_vs_classes/)
 - [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 
-![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)
+[![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
 
 ### Python Django
 - [gettopical.com: Get Django Latest News](http://gettopical.com/djangoframework)
@@ -363,7 +363,7 @@
 ## C programming
 - [How to C in 2016](https://matt.sh/howto-c)
 
-![two kinds of programming languages](images/two_kinds_programming_languages.png)
+[![two kinds of programming languages](images/two_kinds_programming_languages.png)](https://twitter.com/tech_faq)
 
 ## Lambda Expressions 
 - [dzone: Understanding Lambda Expressions](https://dzone.com/articles/understanding-lambda-expressions)
@@ -402,7 +402,7 @@
 - [10 Awesome AngularJS Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/12/10-awesome-angularjs-tutorials-to-kick-start-your-web-programming-projects.html)
 - [Multithreading and Concurrency Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html)
 
-![Hello World](images/hello_world.png)
+[![Hello World](images/hello_world.png)](https://twitter.com/nixcraft)
 
 ### HTML5
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
@@ -449,7 +449,7 @@
 - [Test Anything Protocol (TAP)](https://testanything.org/)
 - [adictosaltrabajo.com: Tutorial ‘Docker Integration Test’](http://www.adictosaltrabajo.com/tutoriales/tutorial-docker-integration-test/)
 
-![fixing bugs time](images/fixing_bugs_time.png)
+[![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
 
 [![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
 
