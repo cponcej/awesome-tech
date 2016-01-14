@@ -26,6 +26,7 @@
 - [Startupxplore, map with all the IT startups and investors](https://startupxplore.com/)
 	- [El inversor de éxito que lucha contra la "burbuja" de las startups](http://startupxplore.com/blog/es/bill-gurley-burbuja-startup/)
 - [European Startup Initiative](http://www.startupheatmap.eu/)
+- [StartupBlink: Global Startup Industry Map](http://www.startupblink.com/)
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [Y Combinator is a community of over 1,600 founders](http://www.ycombinator.com/)
 - [insideanalysis.com: 10 Companies and Technologies to Watch in 2016](http://insideanalysis.com/2016/01/20535/)
