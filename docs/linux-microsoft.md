@@ -246,6 +246,7 @@
 	- [Quick HOWTO : Ch04 : Simple Network Troubleshooting](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting)
 	- [Quick HOWTO : Ch04 : Simple Network Troubleshooting : Using MTR To Detect Network Congestion](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting#Using_MTR_To_Detect_Network_Congestion)
 - [Linux and Unix nload App: Monitor Network Traffic and Bandwidth Usage In Real Time](http://www.cyberciti.biz/networking/nload-linux-command-to-monitor-network-traffic-bandwidth-usage/)
+- [Linux: Find Out What Is Using TCP Port 80](http://www.cyberciti.biz/faq/find-linux-what-running-on-port-80-command/)
 - [dropwatch: a monitoring utility that monitors packets dropped by the kernel](http://prefetch.net/blog/index.php/2011/07/11/using-netstat-and-dropwatch-to-observe-packet-loss-on-linux-servers/)
 - [Linux and Unix Port Scanning With netcat 'nc' Command](http://www.cyberciti.biz/faq/linux-port-scanning/)
 - [tecmint.com: 29 Practical Examples of Nmap Commands for Linux System/Network Administrators](http://www.tecmint.com/nmap-command-examples/)
@@ -283,7 +284,7 @@
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
 
-![last command](images/last_command.jpg)
+[![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
 
 ## Vim and Emacs
 ### Vim
