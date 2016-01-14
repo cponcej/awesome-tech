@@ -324,7 +324,7 @@
 ### Python Idle
 - [HowTo: Install Python idle IDE On Linux Operating System](http://www.cyberciti.biz/faq/rhel-centos-debian-ubuntu-python-idle-linux-installation/)
 
-![vim,emacs,nano](images/vim_emacs.png)
+[![vim,emacs,nano](images/vim_emacs.png)](https://twitter.com/nixcraft)
 
 ## Apple OS X
 - [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
@@ -407,7 +407,7 @@
 		multipath -f map # Flush a multipath devicemap 
 		echo 1>/sys/block/sdc/device/delete # Delete sdc
 
-![largest open files](images/largest_open_files.png)
+[![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 # Red Hat
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
@@ -489,7 +489,7 @@
 - [Feed Henry](http://feedhenry.org/)
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
 
-![Linux is user friendly](images/tux_friendly.png)
+[![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
 
 ## JBoss (WildFly)
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
