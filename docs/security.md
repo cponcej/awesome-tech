@@ -43,7 +43,7 @@
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
 - [BlackArch Linux Provides Over 1330 Penetration Testing Tools, New ISOs Out Now](http://linux.softpedia.com/blog/blackarch-linux-provides-over-1330-penetration-testing-tools-new-isos-out-now-498758.shtml)
 
-![firewalls](images/firewalls.png)
+[![firewalls](images/firewalls.png)](http://securityzap.com/juniper-backdoor-what-did-really-happen/)
 
 ## Antivirus
 - [Bitdefender](http://www.bitdefender.com)
@@ -54,7 +54,7 @@
 - [tomsguide.com: Best Antivirus Software and Apps 2016](http://www.tomsguide.com/us/best-antivirus,review-2588.html)
 - [Here is the 2015 list of the top 50 software products in order of total distinct vulnerabilities](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
 
-![software with most vulnerabilities](images/software_with_most_vulnerabilities.png)
+[![software with most vulnerabilities](images/software_with_most_vulnerabilities.png)](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
 
 ## Database encryption
 - [Wikipedia: Database encryption](https://en.wikipedia.org/wiki/Database_encryption)
@@ -92,7 +92,7 @@
 - [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
 - [Bind variables are the best way to prevent SQL injection](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
 
-![Shellcode Injection](images/shell_access_exploit.png)
+[![Shellcode Injection](images/shell_access_exploit.png)](https://dhavalkapil.com/blogs/Shellcode-Injection/)
 
 ## Email security. Anti Spam protection
 - [spamhaus.org](http://www.spamhaus.org/)
