@@ -224,6 +224,6 @@
 - [commitstrip.com](http://www.commitstrip.com)
 - [dilbert.com](http://dilbert.com/)
 
-![internet users](images/internet-users.jpeg)
+[![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
 [![Arthur C. Clarke describe internet en 1974](images/arthur_c_clarke.png)](https://www.youtube.com/watch?v=E5G31VO1c0U)
