@@ -60,7 +60,7 @@
 	- [Pro Football Statistics](http://www.pro-football-reference.com/)
 	- [how data collection and processing is growing in sports. TED talk](https://www.youtube.com/watch?v=66ko_cWSHBU)
 
-![job trends analytics](images/job-trends-analytics.jpg)
+[![job trends analytics](images/job-trends-analytics.jpg)](http://www.indeed.com/jobtrends/BI%2C+analytics%2C+data+mining.html)
 
 ## Google Analytics
 - [Google Analytics para principiantes](http://www.contunegocio.es/tecnologia/google-analytics-para-principiantes-i/)
@@ -392,5 +392,6 @@
 - [NuoDB, elastically scalable database. A revolution compared to traditional monolithic 1-box databases. NuoDB is ACID,SQL, distributed/scalable and support flexible schemas](http://www.nuodb.com/)
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
 
-![sql-join-clauses](images/sql-join-clauses.png)
-![Visual_SQL_JOINS](images/Visual_SQL_JOINS_orig.jpg)
+[![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
+
+[![Visual_SQL_JOINS](images/Visual_SQL_JOINS_orig.jpg)](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
