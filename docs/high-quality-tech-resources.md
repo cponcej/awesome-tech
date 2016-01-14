@@ -154,8 +154,6 @@
 - [The Great Outdoors Stack Exchange](http://outdoors.stackexchange.com/)
 - [Space Exploration Stack Exchange](http://space.stackexchange.com/)
 
-![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)
-
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
 	- [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)

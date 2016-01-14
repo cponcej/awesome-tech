@@ -40,6 +40,8 @@
 - [Tetuan Valley Madrid](http://tetuanvalley.com/)
 - [Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
 
+![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)
+
 ## Startup jobs
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [AngelList jobs](https://angel.co)
