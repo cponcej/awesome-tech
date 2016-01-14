@@ -4,6 +4,8 @@
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
 	- [Startup jobs](#startup-jobs)
+	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
+	- [Interview Preparation Guide](#interview-preparation-guide)
 
 <!-- /MarkdownTOC -->
 
@@ -68,8 +70,14 @@
 - [trabajar-en.com](http://trabajar-en.com/)
 - [twitter.com/developerbcn](https://twitter.com/developerbcn)
 - [twitter.com/developermadrid](https://twitter.com/developermadrid)
+
+## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
+
+## Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
+- [10 Questions Never to Ask in an Interview](http://www.mjms.net/blog/10-questions-never-to-ask-in-an-interview/)
+- [Sorry, Recruiters! My Salary History Is None of Your Business](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
 
 ![europe silicon valley](images/europe_silicon_valley.png)
