@@ -95,7 +95,7 @@
 - [data science IPython Notebooks under the Apache 2 license](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [reddit: What is the difference between coding in Sublime versus an Jupyter IPython notebook?](https://www.reddit.com/r/Python/comments/40u59r/what_is_the_difference_between_coding_in_sublime/)
 
-![anaconda is](images/anaconda-is.jpg)
+[![anaconda is](images/anaconda-is.jpg)](https://www.continuum.io/why-anaconda)
 
 #### Anaconda Code examples
 - [Introduction to Python for data mining](http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Python_For_Data_Mining.ipynb)
@@ -104,7 +104,7 @@
 - [Exploring U.S. Traffic Fatality Data](http://blog.yhathq.com/posts/traffic-fatalities-in-us.html)
 - [Data mining with Anaconda proof of concept](https://github.com/inafev/anacondalearning)
 
-![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)
+[![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)](https://www.continuum.io/why-anaconda)
 
 ### Apache Zeppelin
 - [Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science](https://zeppelin.incubator.apache.org/)
