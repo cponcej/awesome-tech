@@ -3,9 +3,9 @@
 
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
-		- [Barcelona](#barcelona)
-		- [Madrid](#madrid)
-	- [Startup jobs. Job Search](#startup-jobs-job-search)
+		- [Barcelona startups](#barcelona-startups)
+		- [Madrid startups](#madrid-startups)
+	- [Job Search](#job-search)
 	- [Freelance jobs](#freelance-jobs)
 	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 	- [Human Resources](#human-resources)
@@ -33,7 +33,7 @@
 - [startup-resources.zeef.com](https://startup-resources.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 
-### Barcelona
+### Barcelona startups
 - [Barcinno.com: Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
 - [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
 - [BCNanalytics.com](http://bcnanalytics.com/)
@@ -41,13 +41,13 @@
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
 - [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
 
-### Madrid
+### Madrid startups
 - [tetuanvalley.com: Tetuan Valley Madrid](http://tetuanvalley.com/)
 - [campus.co/madrid: Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
 
 [![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
 
-## Startup jobs. Job Search
+## Job Search
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [Eures Job Search](https://ec.europa.eu/eures/)
 - [make-it-in-germany.com](http://www.make-it-in-germany.com/)
