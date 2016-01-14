@@ -117,8 +117,6 @@
 - [Gobby: A Collaborative Text Editor](https://gobby.github.io/)
 - [SourceForge youtube: How to Use JSONViewer Notepad++ plugin](https://www.youtube.com/watch?v=5TcXJEuA1z4)
 
-![Be like Bill](images/be_like_bill.jpg)
-
 ### Sublime
 - [twitter.com/SublimeTxtTips](https://twitter.com/SublimeTxtTips)
 - [twitter.com/SublimePackages](https://twitter.com/SublimePackages)
@@ -179,6 +177,8 @@
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
 - [thimble.mozilla.org: Thimble is an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/)
 - [Code::Blocks - A free C, C++ and Fortran IDE](http://sourceforge.net/projects/codeblocks/)
+
+![Be like Bill](images/be_like_bill.jpg)
 
 ### Diff Tools
 - [Comparison of file comparison tools](https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools)
