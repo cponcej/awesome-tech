@@ -230,7 +230,7 @@
 ## AWS Gartner Report
 - [Gartner Critical Capabilities - Learn More ](https://aws.amazon.com/resources/gartner-cc-learn-more/)
 
-[![Gartner Critical Capabilities](images/gartner_report.png)](https://aws.amazon.com/es/resources/gartner-cc-learn-more/)
+[![Gartner Critical Capabilities](images/gartner_report.png)](https://aws.amazon.com/resources/gartner-cc-learn-more/)
 
 ![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)
 
