@@ -104,7 +104,7 @@
 - [Nodalpoint.com: Using Ansible to configure a CentOS 7.1 server with Oracle 12c R1 Enterprise Edition Database](http://www.nodalpoint.com/devops-ansible-oracle-database-oraclelinux-7-vagrant/)
 	- [middlewaresnippets.blogspot.com - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com/2015/06/more-fun-with-ansible.html)
 
-![Red Hat acquires Ansible](images/redhat-ansible.png)
+[![Red Hat acquires Ansible](images/redhat-ansible.png)](https://www.redhat.com/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
 
 ## Puppet
 - [sysadmincasts.com: Learning Puppet with Vagrant](http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant)
