@@ -62,7 +62,8 @@
 	- [Pro Football Statistics](http://www.pro-football-reference.com/)
 	- [how data collection and processing is growing in sports. TED talk](https://www.youtube.com/watch?v=66ko_cWSHBU)
 
-[![job trends analytics](images/job-trends-analytics.jpg)](http://www.indeed.com/jobtrends/BI%2C+analytics%2C+data+mining.html)
+[![worlds most valuable sports teams](images/worlds-most-valuable-sports-teams.png)](http://dadaviz.com/i/4595)
+
 
 ## Google Analytics
 - [Google Analytics para principiantes](http://www.contunegocio.es/tecnologia/google-analytics-para-principiantes-i/)
@@ -142,6 +143,8 @@
 - [DataFloq](https://datafloq.com)
 - [KDnuggets: Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
 - [smartdatacollective.com](http://www.smartdatacollective.com/)
+
+[![job trends analytics](images/job-trends-analytics.jpg)](http://www.indeed.com/jobtrends/BI%2C+analytics%2C+data+mining.html)
 
 ### Internet of things
 - [techrepublic.com: Survey: Harnessing the power of big data and IoT](http://www.techrepublic.com/article/survey-harnessing-the-power-of-big-data-and-iot/)
