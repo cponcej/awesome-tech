@@ -136,6 +136,8 @@
 - [Drupal Hardens Its Security in Response to Criticism](http://www.eweek.com/security/drupal-hardens-its-security-in-response-to-criticism.html)
 - [scriptrock.com: Fixing The New OpenSSH Roaming Bug](https://www.scriptrock.com/blog/fixing-the-new-openssh-roaming-bug) A bug in a test feature of the OpenSSH client was found to be highly vulnerable to exploitation today, potentially leaking cryptographic keys to malicious attackers. First discovered and announced by the Qualys Security Team, the vulnerability affects OpenSSH versions 5.4 through 7.1.
 	- [OpenSSH: client bugs CVE-2016-0777 and CVE-2016-0778](http://undeadly.org/cgi?action=article&sid=20160114142733)
+	- [redhat.com: OpenSSH: Information-leak vulnerability (CVE-2016-0777)](https://access.redhat.com/articles/2123781)
+	- [Using Puppet to address the new SSH client vulnerability](https://puppetlabs.com/blog/using-puppet-address-new-ssh-client-vulnerability)
 - [seguridadapple.com: Las apps bancarias en iOS siguen teniendo debilidades respecto a 2013](http://www.seguridadapple.com/2015/12/las-apps-bancarias-en-ios-siguen.html)
 
 [![intrusion response procedures](images/intrusion_response_procedures.png)](https://twitter.com/nixcraft)
