@@ -10,6 +10,8 @@
 		- [Scrum Master. Scrum Cheat Sheet](#scrum-master-scrum-cheat-sheet)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 			- [CI Jenkins, Travis](#ci-jenkins-travis)
+				- [Jenkins on Twitter](#jenkins-on-twitter)
+				- [Travis on Twitter](#travis-on-twitter)
 			- [CI Docker](#ci-docker)
 			- [CI RPM build](#ci-rpm-build)
 			- [CI Maven and Gradle](#ci-maven-and-gradle)
@@ -150,6 +152,13 @@
 - [Travis CI](https://travis-ci.org/)
 - [bencane.com: Using Travis CI to test Docker builds](http://bencane.com/2016/01/11/using-travis-ci-to-test-docker-builds/)
 
+##### Jenkins on Twitter
+- [https://twitter.com/jenkinsci](https://twitter.com/jenkinsci)
+
+##### Travis on Twitter
+- [twitter.com/travisci](https://twitter.com/travisci)
+- [twitter.com/traviscistatus](https://twitter.com/traviscistatus)
+
 #### CI Docker
 - [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine
 
@@ -192,6 +201,7 @@
 
 ### Git on Twitter
 - [twitter.com/github](https://twitter.com/github)
+- [twitter.com/githubstatus](https://twitter.com/githubstatus)
 - [twitter.com/BestGit](https://twitter.com/BestGit)
 - [twitter.com/GitHubJobs](https://twitter.com/GitHubJobs)
 - [twitter.com/GitHubCommunity](https://twitter.com/GitHubCommunity)

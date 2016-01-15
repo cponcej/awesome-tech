@@ -46,6 +46,7 @@
 		- [JSON](#json)
 		- [Mozilla Tools](#mozilla-tools)
 	- [QA. Software Testing](#qa-software-testing)
+		- [Selenium on Twitter](#selenium-on-twitter)
 		- [Arquillian Testing Platform](#arquillian-testing-platform)
 
 <!-- /MarkdownTOC -->
@@ -478,6 +479,12 @@
 - [adictosaltrabajo.com: Tutorial ‘Docker Integration Test’](http://www.adictosaltrabajo.com/tutoriales/tutorial-docker-integration-test/)
 - [DZone/Integration Zone: API Testing With Runscope](https://dzone.com/articles/api-testing-with-runscope) If you're using APIs, you need to test well. Here's a guide to testing APIs with Runscope, with a breakdown of creating a bucket and making a test.
 	- [runscope.com](https://www.runscope.com/)
+
+#### Selenium on Twitter
+- [twitter.com/SeleniumHQ](https://twitter.com/SeleniumHQ)
+- [twitter.com/saucelabs](https://twitter.com/saucelabs)
+- [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
+- [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
 
 #### Arquillian Testing Platform
 - [Arquillian references in this blog](linux-microsoft.md#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)

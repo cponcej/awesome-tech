@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Desktop Tools](#desktop-tools)
+	- [Evernote on Twitter](#evernote-on-twitter)
 - [Presentations](#presentations)
 
 <!-- /MarkdownTOC -->
@@ -18,6 +19,21 @@
 - [zdnet: CES 2016: These are the best laptops, tablets, and portable PCs](http://www.zdnet.com/pictures/best-new-laptops-tablets-gadgets-ces-2016-pictures/)
 
 ![bill gates](images/bill_gates.jpg)
+
+## Evernote on Twitter
+- [twitter.com/evernote](https://twitter.com/evernote)
+- [twitter.com/evernotehelps](https://twitter.com/evernotehelps)
+- [twitter.com/evernews](https://twitter.com/evernews)
+- [twitter.com/Evernote_latam](https://twitter.com/Evernote_latam)
+- [twitter.com/evernotelife](https://twitter.com/evernotelife)
+- [twitter.com/evernote_es](https://twitter.com/evernote_es)
+- [twitter.com/EvernoteStatus](https://twitter.com/EvernoteStatus)
+- [twitter.com/evernoteteacher](https://twitter.com/evernoteteacher)
+- [twitter.com/evernote_dev](https://twitter.com/evernote_dev)
+- [twitter.com/evernote_de](https://twitter.com/evernote_de)
+- [twitter.com/evernote_br](https://twitter.com/evernote_br)
+- [twitter.com/evernote_fr](https://twitter.com/evernote_fr)
+- [https://twitter.com/Evernote_IN](https://twitter.com/Evernote_IN)
 
 # Presentations
 - [blog.slideshare.net: 6 Principles of Influence to Enhance Your Presentations](https://blog.slideshare.net/2015/12/14/6-principles-of-influence-to-enhance-your-presentations/)

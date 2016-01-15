@@ -12,6 +12,7 @@
 	- [IPv6](#ipv6)
 	- [Network Forensics](#network-forensics)
 		- [Network Forensics Blogs](#network-forensics-blogs)
+		- [Wireshark on Twitter](#wireshark-on-twitter)
 		- [Network Forensics Docs](#network-forensics-docs)
 		- [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
 	- [VoIP](#voip)
@@ -112,6 +113,13 @@
 - [Packet Pushers](http://packetpushers.net/)
 - [The Networking Nerd](http://networkingnerd.net/)
 - [sharkfest.wireshark.org](http://sharkfest.wireshark.org)
+
+### Wireshark on Twitter
+- [twitter.com/LauraChappell](https://twitter.com/LauraChappell)
+- [twitter.com/WiresharkNews](https://twitter.com/WiresharkNews)
+- [twitter.com/wiresharktweets](https://twitter.com/wiresharktweets)
+- [twitter.com/wiresharku](https://twitter.com/wiresharku)
+- [twitter.com/seguridadyredes](https://twitter.com/seguridadyredes)
 
 ### Network Forensics Docs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/)
