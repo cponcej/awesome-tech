@@ -41,11 +41,13 @@
 - [Cloud Expo](http://cloudcomputing.sys-con.com/)
 - [comparethecloud.net](http://www.comparethecloud.net/)
 - [sdxcentral cloud](https://www.sdxcentral.com/flow/cloud/)
-- [DZone / Cloud Zone](https://dzone.com/cloud-computing-tutorials-tools-news)
+- [DZone/Cloud Zone](https://dzone.com/cloud-computing-tutorials-tools-news)
 
 ## Non AWS Clouds on Twitter
 - [twitter.com/googlecloud](https://twitter.com/googlecloud)
 - [twitter.com/Azure](https://twitter.com/Azure)
+- [twitter.com/OpenStack](https://twitter.com/OpenStack)
+- [twitter.com/Rackspace](https://twitter.com/Rackspace)
 
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
 - [The Twelve-Factor App](http://12factor.net/)
@@ -122,7 +124,10 @@
 
 ## AWS on Twitter
 - [twitter.com/awscloud](https://twitter.com/awscloud)
+- [twitter.com/AWSreInvent](https://twitter.com/AWSreInvent)
+- [twitter.com/jeffbarr](https://twitter.com/jeffbarr)
 - [twitter.com/AWSstartups](https://twitter.com/AWSstartups)
+- [twitter.com/AWS_Partners](https://twitter.com/AWS_Partners)
 
 ## AWS Youtube channel and Podcasts
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)

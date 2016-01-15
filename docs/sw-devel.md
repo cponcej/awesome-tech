@@ -16,6 +16,7 @@
 		- [Diff Tools](#diff-tools)
 	- [Regular expressions](#regular-expressions)
 	- [Bash](#bash)
+	- [PHP on Twitter](#php-on-twitter)
 	- [Python](#python)
 		- [Python Blogs and Forums](#python-blogs-and-forums)
 		- [Python docs](#python-docs)
@@ -31,11 +32,14 @@
 		- [Python Tools](#python-tools)
 		- [Jython](#jython)
 	- [Java](#java)
+		- [Java on Twitter](#java-on-twitter)
+		- [Java refs](#java-refs)
 	- [Swift](#swift)
 	- [C programming](#c-programming)
 	- [Lambda Expressions](#lambda-expressions)
 	- [Front end development](#front-end-development)
 		- [Web developer tools](#web-developer-tools)
+		- [Frontend on Twitter](#frontend-on-twitter)
 		- [javascript/node.js](#javascriptnodejs)
 		- [HTML5](#html5)
 		- [Oracle JET](#oracle-jet)
@@ -203,6 +207,12 @@
 
 [![goto-dinosaur](images/goto-dinosaur.jpeg)](https://twitter.com/nixcraft)
 
+## PHP on Twitter
+- [twitter.com/php_net](https://twitter.com/php_net)
+- [twitter.com/planetphp](https://twitter.com/planetphp)
+- [twitter.com/phpc](https://twitter.com/phpc)
+- [twitter.com/phpizer](https://twitter.com/phpizer)
+
 ## Python
 ### Python Blogs and Forums
 - [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
@@ -326,6 +336,13 @@
 - [Jython is a language that makes it easy to create projects with libraries from Python and Java.](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20151112?pg=43#pg43)
 
 ## Java
+### Java on Twitter
+- [twitter.com/java](https://twitter.com/java)
+- [twitter.com/Oraclejavamag](https://twitter.com/Oraclejavamag)
+- [twitter.com/JavaOneConf](https://twitter.com/JavaOneConf)
+- [twitter.com/javacodegeeks](https://twitter.com/javacodegeeks)
+
+### Java refs
 - [blog.eisele.net: A Refresher - Top 10 Java EE 7 Backend Features](http://blog.eisele.net/2015/12/a-refresher-top-10-java-ee-7-backend.html)
 - [codejava.net](http://www.codejava.net/)
 	- [Spring Web MVC Security Basic Example Part 1 with XML Configuration](http://www.codejava.net/frameworks/spring/spring-web-mvc-security-basic-example-part-1-with-xml-configuration)
@@ -380,6 +397,11 @@
 
 ### Web developer tools
 - [13 web developer tools!](http://www.catonmat.net/blog/more-web-developer-tools/)
+
+### Frontend on Twitter
+- [twitter.com/getbootstrap](https://twitter.com/getbootstrap)
+- [twitter.com/nodejs](https://twitter.com/nodejs)
+- [https://twitter.com/angularjs](https://twitter.com/angularjs)
 
 ### javascript/node.js
 - [5 Awesome Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/11/5-awesome-tutorials-to-kick-start-your-web-programming-projects.html)

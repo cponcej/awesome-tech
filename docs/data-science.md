@@ -26,17 +26,21 @@
 			- [Use The Index, Luke](#use-the-index-luke)
 			- [Database Version Control](#database-version-control)
 			- [MySQL](#mysql)
+				- [MySQL on Twitter](#mysql-on-twitter)
 				- [MySQL Blogs](#mysql-blogs)
 				- [MySQL Tutorials](#mysql-tutorials)
 				- [MySQL Books](#mysql-books)
 				- [MySQL Best Practices](#mysql-best-practices)
 			- [PostgreSQL](#postgresql)
+				- [PostgreSQL on Twitter](#postgresql-on-twitter)
+				- [PostgreSQL refs](#postgresql-refs)
 				- [UPSERT on Postgres 9.5](#upsert-on-postgres-95)
 			- [SQLite](#sqlite)
 			- [TinyDB](#tinydb)
 			- [Oracle](#oracle)
 		- [SQL replication](#sql-replication)
 		- [NoSQL](#nosql)
+			- [MongoDB on Twitter](#mongodb-on-twitter)
 			- [MongoDB Tools and MongoDB as a Service](#mongodb-tools-and-mongodb-as-a-service)
 			- [Redis, Coudhdb, and others](#redis-coudhdb-and-others)
 			- [Apache Drill. Schema free SQL query on everything engines](#apache-drill-schema-free-sql-query-on-everything-engines)
@@ -300,6 +304,8 @@
 - [dzone.com: The Definitive Guide to Database Version Control — Part 6](https://dzone.com/articles/the-definitive-guide-to-database-version-control-p-7)
 
 #### MySQL
+##### MySQL on Twitter
+- [https://twitter.com/MySQL](https://twitter.com/MySQL)
 
 ##### MySQL Blogs
 - [MySQL Server Team](http://mysqlserverteam.com/)
@@ -333,6 +339,10 @@
 [![generatedata.com](images/generatedata.jpg)](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 
 #### PostgreSQL
+##### PostgreSQL on Twitter
+- [twitter.com/postgresql](https://twitter.com/postgresql)
+
+##### PostgreSQL refs
 - [gettopical.com: PostgreSQL latest news](http://gettopical.com/postgresql)
 - [PostgreSQL docs](http://www.postgresql.org/docs/)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
@@ -397,6 +407,9 @@
 - [NoSQL Databases: 4 Game-Changing Use Cases](http://www.smartdatacollective.com/kingmesal/373466/nosql-databases-4-game-changing-use-cases)
 
 ![but why](images/but_why.gif)
+
+#### MongoDB on Twitter
+- [twitter.com/MongoDB)](https://twitter.com/MongoDB)
 
 #### MongoDB Tools and MongoDB as a Service
 - [MongoDB Tools - Admin GUIs, Monitoring and Other Good Stuff](http://mongodb-tools.com/)
