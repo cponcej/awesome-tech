@@ -7,7 +7,7 @@
 	- [DevOps Tools 2016](#devops-tools-2016)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Product Owner](#product-owner)
-		- [Scrum Master](#scrum-master)
+		- [Scrum Master. Scrum Cheat Sheet](#scrum-master-scrum-cheat-sheet)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 			- [CI Jenkins, Travis](#ci-jenkins-travis)
 			- [CI Docker](#ci-docker)
@@ -126,8 +126,9 @@
 - [¿Cuantos Product Owner puede tener un equipo?](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 - [20 Product Owners anti patterns in scrum](http://lmsgoncalves.com/2014/09/29/product-owner-anti-patterns/)
 
-### Scrum Master
+### Scrum Master. Scrum Cheat Sheet
 - [DZone/Agile Zone. Hiring: 38 Scrum Master Interview Questions To Avoid Imposters](https://dzone.com/articles/hiring-38-scrum-master-interview-questions-to-avoi) A free pdf from DZone user Stefan Wolpers for those looking to hire Scrum Masters or agile professionals.
+- [The shortest and greatest SCRUM cheat sheet that I've seen so far](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
 ![not my job](images/not_my_job.jpg)
 
