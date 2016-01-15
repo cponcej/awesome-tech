@@ -8,6 +8,7 @@
 	- [Job Search](#job-search)
 		- [Portales de empleo](#portales-de-empleo)
 	- [Freelance jobs](#freelance-jobs)
+		- [Trabajos Freelance](#trabajos-freelance)
 	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 	- [Human Resources](#human-resources)
 		- [Recursos Humanos](#recursos-humanos)
@@ -125,6 +126,9 @@
 	- [guru.com](http://www.guru.com/)
 	- [craigslist.com](http://craigslist.com)
 - [huffingtonpost.com: 10 Best Freelance Sites To Find Jobs](http://www.huffingtonpost.com/larry-alton/10-best-freelance-sites-t_b_7445126.html)
+
+### Trabajos Freelance
+- [computerhoy.com: Las 10 mejores webs donde conseguir trabajo como freelance](http://computerhoy.com/listas/internet/8-mejores-webs-donde-conseguir-trabajo-como-freelance-8742)
 
 ## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
