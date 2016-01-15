@@ -102,6 +102,8 @@
 - [¿Cuáles son los países que más están contratando?](http://www.expansion.com/emprendedores-empleo/empleo/2016/01/04/568ac17b22601d123b8b4635.html)
 - [Ofertas laborales para informáticos en Dubái](http://www.consejosgratis.es/ofertas-laborales-para-informaticos-en-dubai/)
 
+[![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
+
 ## Freelance jobs
 - [upwork.com](https://www.upwork.com/)
 
