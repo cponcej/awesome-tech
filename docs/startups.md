@@ -6,6 +6,7 @@
 		- [Barcelona startups](#barcelona-startups)
 		- [Madrid startups](#madrid-startups)
 	- [Job Search](#job-search)
+		- [Portales de empleo](#portales-de-empleo)
 	- [Freelance jobs](#freelance-jobs)
 	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 	- [Human Resources](#human-resources)
@@ -96,6 +97,9 @@
 - [tyba.com startup jobs](http://tyba.com/)
 - [careers.stackoverflow.com](http://careers.stackoverflow.com/)
 - [jobandtalent.com](http://www.jobandtalent.com)
+
+### Portales de empleo
+- [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
 - [twitter.com/developerbcn](https://twitter.com/developerbcn)
 - [twitter.com/developermadrid](https://twitter.com/developermadrid)
@@ -106,7 +110,21 @@
 ![fight club](images/fight_club.gif)
 
 ## Freelance jobs
-- [upwork.com](https://www.upwork.com/)
+- [reddit.com/r/freelance](https://www.reddit.com/r/freelance)
+- [crunch.co.uk: The very best freelance job sites](https://www.crunch.co.uk/blog/freelancer-advice/2015/07/24/best-freelance-job-boards-to-find-work/)
+	- [upwork.com](https://www.upwork.com/)
+	- [onsite.io](http://onsite.io/)
+	- [yunojuno.com](https://www.yunojuno.com/)
+- [crunch.co.uk: Five freelance job sites that actually pay well](https://www.crunch.co.uk/blog/freelancer-advice/2013/04/15/five-freelance-work-from-home-job-sites-that-actually-pay-well/)
+	- [www.3desk.com](http://www.3desk.com)
+	- [crew.co](https://crew.co/)
+- [entrepreneur.com: The 15 Best Freelance Websites to Find Jobs](http://www.entrepreneur.com/article/245953)
+	- [toptal.com](http://www.toptal.com/)
+	- [elance.com](https://www.elance.com/)
+	- [freelancers.net](http://www.freelancers.net/)
+	- [guru.com](http://www.guru.com/)
+	- [craigslist.com](http://craigslist.com)
+- [huffingtonpost.com: 10 Best Freelance Sites To Find Jobs](http://www.huffingtonpost.com/larry-alton/10-best-freelance-sites-t_b_7445126.html)
 
 ## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
