@@ -237,6 +237,11 @@
 - [ntop](http://www.ntop.org/)
 - [Angry IP Scanner (or simply ipscan)](http://angryip.org/) Alternative to Nmap and cross-platform
 - [observium.org: Network monitoring with intuition](http://www.observium.org/)
+- [zmap.io](https://zmap.io/)
+- [Masscan](https://github.com/robertdavidgraham/masscan) TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes
+	- [Masscan: the entire Internet in 3 minutes](http://blog.erratasec.com/2013/09/masscan-entire-internet-in-3-minutes.html)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ### Networking CLI and settings
 - [Linux ip Command Examples](http://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/)
