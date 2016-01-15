@@ -8,6 +8,7 @@
 		- [Is ansible replacing puppet?](#is-ansible-replacing-puppet)
 		- [Apache via Ansible](#apache-via-ansible)
 		- [WebLogic via Ansible](#weblogic-via-ansible)
+		- [Drupal via Ansible](#drupal-via-ansible)
 		- [Databases via Ansible](#databases-via-ansible)
 			- [MySQL via Ansible](#mysql-via-ansible)
 			- [PostgreSQL via Ansible](#postgresql-via-ansible)
@@ -44,6 +45,7 @@
 > By default Vagrant will set up a share with your host machine automatically... /vagrant on the virtual box will be mapped to the folder containing your Vagrantfile this allows you to edit anything in this folder and the changes will be made instantly on the virtual box as well.
 
 ## Ansible
+- [releases.ansible.com](http://releases.ansible.com)
 - [Ansible, Just Use It - slide](https://speakerdeck.com/vranac/ansible-just-use-it)
 - [Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7](http://unversioned.blogspot.gr/2015/10/ansible-playbook-provision-weblogic-fusion-middleware-12.1.3-centos-7.html)
 - [Ansible vs Puppet – Hands-On with Ansible](https://dantehranian.wordpress.com/2015/01/20/ansible-vs-puppet-hands-on-with-ansible/)
@@ -51,6 +53,7 @@
 - [Ansible for DevOps, a book on Ansible by Jeff Geerling](http://www.ansiblefordevops.com/)
 	- [Ansible by Jeff Geerling - youtube playlist](https://www.youtube.com/playlist?list=PL2_OBreMn7FplshFCWYlaN2uS8et9RjNG)
 	- [Leanpub Podcast Interview #25: Jeff Geerling](http://blog.leanpub.com/2016/01/jeff-geerling.html)
+	- [drupalvm.com](http://www.drupalvm.com/)
 - [Ansible examples from Ansible for DevOps - github code](https://github.com/geerlingguy/ansible-for-devops)
 - [How to Install and Configure ‘Ansible’ Automation Tool for IT Management](http://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/)
 - [Ansible video tutorial at sysadmincasts.com](https://sysadmincasts.com/episodes/43-19-minutes-with-ansible-part-1-4)
@@ -87,6 +90,9 @@
 - [blogs.oracle.com - Ansible playbook to provision a WebLogic Fusion Middleware Domain on RHEL/CentOS 7 by Christos Vezalis](https://blogs.oracle.com/emeapartnerweblogic/entry/ansible_playbook_to_provision_a)
 	- [Ansible Playbook: install and configure WebLogic server 12c with Oracle Fusion Middleware in RHEL7](https://github.com/cvezalis/weblogic-ansible)
 	- [Ansible playbook: deploy and create a WebLogic 12c R2 Domain with Oracle Fusion Middleware](https://github.com/cvezalis/ansible-weblogic-fmw-infra-12c-R2)
+
+### Drupal via Ansible
+- [drupalvm.com](http://www.drupalvm.com/)
 
 ### Databases via Ansible
 - [List of Database Modules](http://docs.ansible.com/ansible/list_of_database_modules.html)

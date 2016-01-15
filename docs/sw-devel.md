@@ -142,6 +142,7 @@
 - [Where should you keep your Sublime Text projects?](http://sublimetexttips.com/where-should-you-keep-your-sublime-text-projects/)
 - [How to quickly test URLs embedded in your code and text files](http://sublimetexttips.com/how-to-quickly-test-urls-embedded-in-your-code-and-text-files/)
 - [SelectExact: A Sublime Text plugin for exact match selections](https://packagecontrol.io/packages/SelectExact)
+- [3 Tips to Make Sublime’s Find and Replace Your Best Friend](http://sublimetexttips.com/3-tips-to-make-sublimes-find-and-replace-your-best-friend/)
 - [Google Dictionary: Sublime google dictionary plugin](https://packagecontrol.io/packages/Google%20Dictionary)
 - [Copy copy copy with this new Sublime feature](http://sublimetexttips.com/copy-copy-copy-with-this-new-sublime-feature/)
 - [Prevent copy-and-paste rage with this quick Sublime Text tweak](http://sublimetexttips.com/prevent-copy-and-paste-rage-with-this-quick-sublime-text-tweak/)
@@ -351,6 +352,8 @@
 - [examples.javacodegeeks.com: Spring MVC Handler Mapping Example](http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-handler-mapping-example)
 - [DZone: String Concatenation's Effect on Performance](https://dzone.com/articles/string-concatentions-effect-on-performance) Don’t use the string concatenation operator to combine more than a few strings unless performance is irrelevant. Use StringBuilder’s append method instead. 
 - [Coordination and service discovery with Apache Zookeeper](http://www.javacodegeeks.com/2013/11/coordination-and-service-discovery-with-apache-zookeeper.html)
+- [Multithreading and Concurrency Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html)
+- [DZone: Spring Data Mongodb and Spring Boot](https://dzone.com/articles/spring-data-mongodb-spring-boot) You really can quickly develop a microservice to access MongoDB from Java 8 with little coding. Give it a try... easy like Sunday morning.
 
 [![Learn java python](images/learn-java-python.png)](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
@@ -400,7 +403,7 @@
 - [Top 20 jQuery Interview Questions and Answers for JavaScript Programmers](http://www.webcodegeeks.com/javascript/jquery/jquery-interview-questions-answers-programmers)
 - [webcodegeeks.com: jQuery dialog example](http://www.webcodegeeks.com/javascript/jquery/jquery-dialog-example) jQuery UI is a collection of jQuery plugins used to enhance the web application user interface. Inside this library we find many reusable components for interactions, effects, widgets and more.
 - [10 Awesome AngularJS Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/12/10-awesome-angularjs-tutorials-to-kick-start-your-web-programming-projects.html)
-- [Multithreading and Concurrency Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html)
+- [Secrets of the JavaScript Ninja – Debugging JavaScript](http://www.webcodegeeks.com/javascript/secrets-of-the-javascript-ninja-debugging-javascript/)
 
 [![Hello World](images/hello_world.png)](https://twitter.com/nixcraft)
 
@@ -422,6 +425,7 @@
 - [BSON - Binary JSON](http://bsonspec.org/)
 - [Stop Comparing JSON and XML](https://dzone.com/articles/stop-comparing-json-and-xml)
 - [Query JSON using SQL with Couchbase Query Workbench](http://www.javacodegeeks.com/2016/01/query-json-using-sql-couchbase-query-workbench.html)
+- [DZone: The Importance of a Data Format: Part 1 — Current State Problems](https://dzone.com/articles/the-importance-of-a-data-format-part-i-current-sta) JSON is a really simple format. It's very easy to work with it, interchange it, read it, etc. However, JSON also has a few major issues.
 
 ### Mozilla Tools
 - [developer.mozilla.org](https://developer.mozilla.org/)
@@ -447,6 +451,7 @@
 - [DZone: Graybox Testing — Control Your Dependencies](https://dzone.com/articles/graybox-testing-control-your-dependencies) This post continues the story about functional testing which I referred to in Blackbox Testing Microservices. 
 - [Testing: Appetite Comes With Eating](http://www.javacodegeeks.com/2016/01/testing-appetite-comes-eating.html) Why are tests needed should be obvious by now. It’s not all about finding bugs (because then you can use an excuse like “QAs will find them anyway”), it’s about having a codebase that can remain stable with changes. And it’s about writing better code, because testable code is cleaner.
 - [Test Anything Protocol (TAP)](https://testanything.org/)
+- [Dzone/DevOps Zone: Four Ways Testers Can Eliminate Risks in Test Automation](https://dzone.com/articles/4-ways-testers-can-eliminate-risks-in-test-automat)
 - [adictosaltrabajo.com: Tutorial ‘Docker Integration Test’](http://www.adictosaltrabajo.com/tutoriales/tutorial-docker-integration-test/)
 
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)

@@ -176,11 +176,13 @@
 - [How to delete a single command from history on a Linux, OS X and Unix Bash shell](http://www.cyberciti.biz/faq/delete-command-from-history-linux-unix-osx-bash-shell/)
 - [How to change system’s hostname on HP-UX Unix system](http://www.cyberciti.biz/faq/hp-ux-change-systems-hostname-command/)
 - [Linux/Unix: bg Command Examples](http://www.cyberciti.biz/faq/unix-linux-bg-command-examples-usage-syntax/)
+- [Linux / Unix: jobs Command Examples](http://www.cyberciti.biz/faq/unix-linux-jobs-command-examples-usage-syntax/)
 - [diff Command: Colorize Output On The Unix/Linux Command Line](http://www.cyberciti.biz/programming/color-terminal-highlighter-for-diff-files/)
 - [Linux Run Command As Another User](http://www.cyberciti.biz/open-source/command-line-hacks/linux-run-command-as-different-user/)
 - [Much faster incremental apt updates](https://juliank.wordpress.com/2015/12/26/much-faster-incremental-apt-updates/)
 - [Linux/UNIX: Convert Hexadecimal to Decimal Number](http://www.cyberciti.biz/faq/linux-unix-convert-hex-to-decimal-number/)
 - [A Shell Primer: Master Your Linux, OS X, Unix Shell Environment](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/)
+- [Monkeying around on the bash command line in 2016](http://www.computerworld.com/article/3018637/open-source-tools/monkeying-around-on-the-bash-command-line-in-2016.html)
 
 ### Linux Terminals
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)
@@ -212,6 +214,7 @@
 - [tecmint.com: 10 ‘free’ Commands to Check Memory Usage in Linux](http://www.tecmint.com/check-memory-usage-in-linux/)
 - [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
+	- [Manage your Linux Box with htop](http://freedompenguin.com/articles/how-to/manage-your-linux-box-with-htop/)
 - [system activity reporter (SAR)](http://www.ibm.com/developerworks/aix/library/au-unix-perfmonsar.html)
 - [byte-unixbench: BYTE UNIX benchmark suite](https://github.com/kdlucas/byte-unixbench)
 - [mbw: Memory Bandwidth Benchmark](https://github.com/raas/mbw/)
@@ -377,6 +380,11 @@
 
 		curl -LOC - url 
 		wget -c url
+
+- You can use the text-based web browser to browse the Internet in console
+
+		w3m cyberciti.biz
+		lynx cyberciti.biz 
 
 - Search (grep) for multiple error message on Linux/Unix:
 

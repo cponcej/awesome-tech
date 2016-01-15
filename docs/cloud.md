@@ -24,7 +24,8 @@
 			- [AWS Cloud Formation](#aws-cloud-formation)
 		- [AWS Security](#aws-security)
 		- [AWS Backup and Recovery](#aws-backup-and-recovery)
-		- [AWS IoT](#aws-iot)
+		- [AWS BigData](#aws-bigdata)
+			- [AWS IoT](#aws-iot)
 	- [AWS Partner Network (APN)](#aws-partner-network-apn)
 	- [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 	- [AWS Gartner Report](#aws-gartner-report)
@@ -81,7 +82,7 @@
 ## Cloud Pricing
 - [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)
 	- [Amazon's AWS simple monthly calculator](http://calculator.s3.amazonaws.com/index.html)
-	- [AWS Blog - New – AWS Cost and Usage Reports for Comprehensive and Customizable Reporting](https://aws.amazon.com/es/blogs/aws/new-aws-cost-and-usage-reports-for-comprehensive-and-customizable-reporting/)
+	- [AWS Blog - New – AWS Cost and Usage Reports for Comprehensive and Customizable Reporting](https://aws.amazon.com/blogs/aws/new-aws-cost-and-usage-reports-for-comprehensive-and-customizable-reporting/)
 - [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/)
 - [Azure Pricing Calculator](http://azure.microsoft.com/en-us/pricing/calculator/)
 - [Linode pricing calculator](https://www.linode.com/pricing)
@@ -129,21 +130,21 @@
 - [Amazon QuickSight: Fast, easy to use, in-memory, Cloud BI service for everyone in an organization (not only technical people). It is 1/10 the cost of traditional BI tools](https://aws.amazon.com/es/quicksight/)
 - [Revealed at AWS re:Invent: Amazon Kinesis Firehose - easily load streaming data into Amazon S3 & Amazon RedShift](http://oak.ctx.ly/r/3tfr7)
 - [What is Streaming Data?](https://aws.amazon.com/es/streaming-data/)
-- [Amazon RDS Update – MariaDB is Now Available](https://aws.amazon.com/es/blogs/aws/amazon-rds-update-mariadb-is-now-available)
+- [Amazon RDS Update – MariaDB is Now Available](https://aws.amazon.com/blogs/aws/amazon-rds-update-mariadb-is-now-available)
 - [AWS Database Migration Service with AWS Schema Conversion Tool](http://aws.amazon.com/es/dms/)
-- [AWS Import/Export Snowball – Transfer 1 Petabyte Per Week Using Amazon-Owned Storage Appliances](https://aws.amazon.com/es/blogs/aws/aws-importexport-snowball-transfer-1-petabyte-per-week-using-amazon-owned-storage-appliances/)
-- [AWS Web Application Firewall](https://aws.amazon.com/es/blogs/aws/category/aws-web-application-firewall/)
-- [AWS Config Rules – Dynamic Compliance Checking for Cloud Resources](https://aws.amazon.com/es/blogs/aws/aws-config-rules-dynamic-compliance-checking-for-cloud-resources/)
-- [Amazon Inspector – Automated Security Assessment Service](https://aws.amazon.com/es/blogs/aws/amazon-inspector-automated-security-assessment-service)
-- [Coming Soon – EC2 Dedicated Hosts](https://aws.amazon.com/es/blogs/aws/coming-soon-ec2-dedicated-hosts)
+- [AWS Import/Export Snowball – Transfer 1 Petabyte Per Week Using Amazon-Owned Storage Appliances](https://aws.amazon.com/blogs/aws/aws-importexport-snowball-transfer-1-petabyte-per-week-using-amazon-owned-storage-appliances/)
+- [AWS Web Application Firewall](https://aws.amazon.com/blogs/aws/category/aws-web-application-firewall/)
+- [AWS Config Rules – Dynamic Compliance Checking for Cloud Resources](https://aws.amazon.com/blogs/aws/aws-config-rules-dynamic-compliance-checking-for-cloud-resources/)
+- [Amazon Inspector – Automated Security Assessment Service](https://aws.amazon.com/blogs/aws/amazon-inspector-automated-security-assessment-service)
+- [Coming Soon – EC2 Dedicated Hosts](https://aws.amazon.com/blogs/aws/coming-soon-ec2-dedicated-hosts)
 - [AWS Device Farm Pruebe su aplicación en dispositivos reales en la nube de AWS. Mejore la calidad de sus aplicaciones iOS, Android y Fire OS al probarlas en smartphones y tablets reales en la nube de AWS](http://aws.amazon.com/es/device-farm)
-- [EC2 Instance Update – X1 (SAP HANA) & T2.Nano (Websites)](https://aws.amazon.com/es/blogs/aws/ec2-instance-update-x1-sap-hana-t2-nano-websites)
-- [EC2 Container Service Update – Container Registry, ECS CLI, AZ-Aware Scheduling, and More](https://aws.amazon.com/es/blogs/aws/ec2-container-service-update-container-registry-ecs-cli-az-aware-scheduling-and-more)
-- [CloudWatch Dashboards – Create & Use Customized Metrics Views](https://aws.amazon.com/es/blogs/aws/cloudwatch-dashboards-create-use-customized-metrics-views)
-- [AWS Lambda Update – Python, VPC, Increased Function Duration, Scheduling, and More](https://aws.amazon.com/es/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more)
+- [EC2 Instance Update – X1 (SAP HANA) & T2.Nano (Websites)](https://aws.amazon.com/blogs/aws/ec2-instance-update-x1-sap-hana-t2-nano-websites)
+- [EC2 Container Service Update – Container Registry, ECS CLI, AZ-Aware Scheduling, and More](https://aws.amazon.com/blogs/aws/ec2-container-service-update-container-registry-ecs-cli-az-aware-scheduling-and-more)
+- [CloudWatch Dashboards – Create & Use Customized Metrics Views](https://aws.amazon.com/blogs/aws/cloudwatch-dashboards-create-use-customized-metrics-views)
+- [AWS Lambda Update – Python, VPC, Increased Function Duration, Scheduling, and More](https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more)
 - [Amazon Launches AWS Mobile Hub To Help Mobile Developers Build Back-End Processes](http://techcrunch.com/2015/10/08/amazon-launches-aws-mobile-hub-to-help-mobile-developers-build-back-end-processes/)
-- [AWS IoT – Cloud Services for Connected Devices](https://aws.amazon.com/es/blogs/aws/aws-iot-cloud-services-for-connected-devices)
-- [AWS Mobile Hub – Build, Test, and Monitor Mobile Applications](https://aws.amazon.com/es/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications)
+- [AWS IoT – Cloud Services for Connected Devices](https://aws.amazon.com/blogs/aws/aws-iot-cloud-services-for-connected-devices)
+- [AWS Mobile Hub – Build, Test, and Monitor Mobile Applications](https://aws.amazon.com/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications)
 
 [![cloud job market](images/cloud_job_market.png)](http://cloudacademy.com/blog/cloud-computing-salary/)
 
@@ -152,17 +153,18 @@
 - [AWS Labs GitHub](https://github.com/awslabs)
 - [AWS Quick Start Reference Deployments](http://aws.amazon.com/es/quickstart/)
 	- [AWS Quick Start - GitHub](https://github.com/awslabs/aws-quickstart)
-- [InfoWorld Review – Amazon Aurora Rocks MySQL](https://aws.amazon.com/es/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/)
-- [AWS Cost Explorer Update – Access to EC2 Usage Data](https://aws.amazon.com/es/blogs/aws/aws-cost-explorer-update-access-to-ec2-usage-data/)
+- [InfoWorld Review – Amazon Aurora Rocks MySQL](https://aws.amazon.com/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/)
+- [AWS Cost Explorer Update – Access to EC2 Usage Data](https://aws.amazon.com/blogs/aws/aws-cost-explorer-update-access-to-ec2-usage-data/)
 
 ### AWS New Features
-- [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
-- [New – Encrypted EBS Boot Volumes](https://aws.amazon.com/es/blogs/aws/new-encrypted-ebs-boot-volumes)
+- [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
+- [New – Encrypted EBS Boot Volumes](https://aws.amazon.com/blogs/aws/new-encrypted-ebs-boot-volumes)
+	- [Amazon EBS Encryption](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html)
 - [Now Add or Modify Request Headers Forwarded From Amazon CloudFront to Origin](https://aws.amazon.com/about-aws/whats-new/2015/12/now-add-or-modify-request-headers-forwarded-from-amazon-cloudfront-to-origin/)
 - [AWS CloudFormation Adds Support for AWS WAF and AWS Directory Service for Microsoft Active Directory](https://aws.amazon.com/es/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-waf-and-aws-directory-service-for-microsoft-active-directory/)
-- [Amazon WorkMail – Now Generally Available](https://aws.amazon.com/es/blogs/aws/amazon-workmail-now-generally-available/)
+- [Amazon WorkMail – Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-workmail-now-generally-available/)
 - [London Calling! An AWS Region is coming to the UK!](http://www.allthingsdistributed.com/2015/11/aws-announces-uk-region.html)
-- [New – Scheduled Reserved Instances](https://aws.amazon.com/es/blogs/aws/new-scheduled-reserved-instances/)
+- [New – Scheduled Reserved Instances](https://aws.amazon.com/blogs/aws/new-scheduled-reserved-instances/)
 
 ### AWS Schema Conversion Tool
 - [cloudacademy.com: Migrating Data to AWS Using the AWS Schema Conversion Tool: A Preview](http://cloudacademy.com/blog/migrating-data-to-aws/)
@@ -174,6 +176,7 @@
 - [Building Continuous Deployment on AWS with AWS CodePipeline, Jenkins and AWS Elastic Beanstalk](https://blogs.aws.amazon.com/application-management/post/Tx34AXRMYLXG5OT/Building-Continuous-Deployment-on-AWS-with-AWS-CodePipeline-Jenkins-and-AWS-Elas)
 - [AWS CodeDeploy: Deploying from a Development Account to a Production Account](http://blogs.aws.amazon.com/application-management/post/Tx3PE3JTSVJSFI7/AWS-CodeDeploy-Deploying-from-a-Development-Account-to-a-Production-Account)
 - [blazemeter.com: Three Ways DevOps Benefit from AWS CodePipeline](https://blazemeter.com/blog/three-ways-devops-benefit-aws-codepipeline)
+- [AWS Partner Network - CodePipeline Integrations](https://aws.amazon.com/es/codepipeline/product-integrations/)
 
 ### AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.
@@ -211,15 +214,19 @@
 ### AWS Backup and Recovery
 - [Quantum Taps AWS for Cloud-Powered Disaster Recovery](http://www.infostor.com/backup-and_recovery/quantum-taps-aws-for-cloud-powered-disaster-recovery.html)
 
-### AWS IoT
+### AWS BigData 
+- [blogs.aws.amazon.com/bigdata](http://blogs.aws.amazon.com/bigdata/)
+- [Querying Amazon Kinesis Streams Directly with SQL and Spark Streaming](http://blogs.aws.amazon.com/bigdata/post/Tx3916WCIUPVA3T/Querying-Amazon-Kinesis-Streams-Directly-with-SQL-and-Spark-Streaming)
+
+#### AWS IoT
 - [What Is AWS IoT?](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 
 ## AWS Partner Network (APN)
 - [AWS Partner Network](https://aws.amazon.com/partners/)
 	- [APN Technology Partners](https://aws.amazon.com/partners/technology/)
 	- [APN Consulting Partners](https://aws.amazon.com/partners/consulting/)
-- [AWS Partner Network (APN) blog](https://aws.amazon.com/es/blogs/apn/)
-	- [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/es/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
+- [AWS Partner Network (APN) blog](https://aws.amazon.com/blogs/apn/)
+	- [Active Directory Single Sign-On (SSO) on AWS with Bitium](https://aws.amazon.com/blogs/apn/active-directory-single-sign-on-sso-on-aws-with-bitium)
 
 ## AWS Startup Collection. For startups building on AWS
 - [bitmovin: Improving Video Quality on the Web](https://medium.com/aws-activate-startup-blog/bitmovin-improving-video-quality-on-the-web-8670039c4334)

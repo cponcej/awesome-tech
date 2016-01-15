@@ -11,7 +11,7 @@
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
 	- [Email security. Anti Spam protection](#email-security-anti-spam-protection)
-	- [Major security issues and blogs](#major-security-issues-and-blogs)
+	- [Major security issues](#major-security-issues)
 
 <!-- /MarkdownTOC -->
 
@@ -31,6 +31,8 @@
 - [CSO: Security news, features and analysis about prevention, protection and business innovation](http://www.csoonline.com/)
 - [peerlyst](https://www.peerlyst.com/) Professional Community platform for Information Security
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)
+	- [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
+- [seguridadapple.com](http://www.seguridadapple.com)
 
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
@@ -100,7 +102,7 @@
 	- [Verizon Routing Millions of IP Addresses for Cybercrime Gangs](http://www.spamhaus.org/news/article/726/)
 - [The Enigmail project. OpenPGP security for mozilla applications](https://www.enigmail.net/)
 
-## Major security issues and blogs
+## Major security issues
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
 - [dzone.com - Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
 	- [zdnet.com: Oracle ordered to blitz users with Java security warnings](http://www.zdnet.com/article/oracle-ordered-to-blitz-users-with-java-security-warnings/)
@@ -131,5 +133,7 @@
 	- [SSH Backdoor for FortiGate OS Version 4.x up to 5.0.7](http://seclists.org/fulldisclosure/2016/Jan/26)
 - [Drupal Hardens Its Security in Response to Criticism](http://www.eweek.com/security/drupal-hardens-its-security-in-response-to-criticism.html)
 - [scriptrock.com: Fixing The New OpenSSH Roaming Bug](https://www.scriptrock.com/blog/fixing-the-new-openssh-roaming-bug) A bug in a test feature of the OpenSSH client was found to be highly vulnerable to exploitation today, potentially leaking cryptographic keys to malicious attackers. First discovered and announced by the Qualys Security Team, the vulnerability affects OpenSSH versions 5.4 through 7.1.
+	- [OpenSSH: client bugs CVE-2016-0777 and CVE-2016-0778](http://undeadly.org/cgi?action=article&sid=20160114142733)
+- [seguridadapple.com: Las apps bancarias en iOS siguen teniendo debilidades respecto a 2013](http://www.seguridadapple.com/2015/12/las-apps-bancarias-en-ios-siguen.html)
 
 [![intrusion response procedures](images/intrusion_response_procedures.png)](https://twitter.com/nixcraft)

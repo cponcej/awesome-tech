@@ -90,9 +90,11 @@
 	- [AWS Certified Developer Fundamentals](https://cloudacademy.com/learning-paths/aws-certified-developer-fundamentals/)
 - [AWS Solutions Architect – Education options. Good blog on AWS certification options](http://nimbusarchitect.us/blog/?p=7)
 - [deals.slashdot.org: AWS Engineer Certification Bundle](https://deals.slashdot.org/sales/aws-associate-certification-bundle)
+- [slashdot.org: Project Management Certification Bundle](https://deals.slashdot.org/sales/pmp-certification-bundle) 6 Foolproof Training Courses: Ace the Globally-Recognized Project Management Professional Exam
 - [Aba English - Barcelona](http://www.abaenglish.com)
 - [Pearson English](http://www.english.com/)
 	- [Pearson English Business Solutions](http://www.globalenglish.com)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
 - [springboard.com - Learn Data Science & UX Design online](https://www.springboard.com)
+

@@ -20,7 +20,8 @@
 	- [SQL](#sql)
 		- [SQL Blogs and Forums](#sql-blogs-and-forums)
 		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
-		- [SQL Docs](#sql-docs)
+		- [SQL and Database Docs](#sql-and-database-docs)
+			- [Database Performance](#database-performance)
 			- [EssentialSQL](#essentialsql)
 			- [Use The Index, Luke](#use-the-index-luke)
 			- [Database Version Control](#database-version-control)
@@ -61,6 +62,7 @@
 	- [nba_py - stats.nba.com API for python](https://github.com/seemethere/nba_py)
 	- [Pro Football Statistics](http://www.pro-football-reference.com/)
 	- [how data collection and processing is growing in sports. TED talk](https://www.youtube.com/watch?v=66ko_cWSHBU)
+- [football-data.co.uk](http://football-data.co.uk)
 
 [![worlds most valuable sports teams](images/worlds-most-valuable-sports-teams.png)](http://dadaviz.com/i/4595)
 
@@ -132,6 +134,7 @@
 - [devx.com: The Big Data Skills Employers Want Most in 2016](http://www.devx.com/DailyNews/the-big-data-skills-employers-want-most-in-2016.html)
 	- [What Are the Most-Wanted Data Science Skills for 2016?](https://adtmag.com/articles/2016/01/08/data-science-skills.aspx)
 - [talend.com: How To Turn Any Big Data Project Into a Success (And Key Pitfalls To Avoid)](http://www.talend.com/blog/2016/01/07/how-to-turn-any-big-data-project-into-a-success-and-key-pitfalls-to-avoid)
+- [Forbes: Big Data Facts: How Many Companies Are Really Making Money From Their Data?](Big Data Facts: How Many Companies Are Really Making Money From Their Data?)
 
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)
@@ -223,10 +226,8 @@
 	10. [https://twitter.com/jenbelissent](https://twitter.com/jenbelissent)
 	11. [https://twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
-### SQL Docs
+### SQL and Database Docs
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
-- [sqlperformance.com: Sneaky behaviours and isolation guarantees in the SNAPSHOT isolation level](http://sqlperformance.com/2014/06/sql-performance/the-snapshot-isolation-level)
-	- [sqlperformance.com: Tuning : A Good Place to Start](http://sqlperformance.com/2016/01/io-subsystem/tuning-a-good-place-to-start) Tim Radney of SQLskills gives an overview of his approach to SQL Server performance tuning, from system configuration, to I/O latency, to high cost queries.
 - [SQL in ten minutes](http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes)
 - [10 sql tips to speed up your database](http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database)
 - [dzone.com: SQL GROUP BY and Functional Dependencies: a Very Useful Feature](https://dzone.com/articles/sql-group-by-and-functional-dependencies-a-very-us)
@@ -236,7 +237,6 @@
 - [Difference between Primary and Foreign key in table](http://java67.blogspot.com.es/2015/12/difference-between-primary-and-foreign.html)
 - [Naming Conventions in Database Modeling](http://www.vertabelo.com/blog/technical-articles/naming-conventions-in-database-modeling)
 - [Database design: Did You Know You Could Index SUM() and COUNT()? SQL Server Indexed Views, Part 3](http://explainextended.com/2013/08/26/did-you-know-you-could-index-sum-and-count-sql-server-indexed-views-part-3/)
-- [database-programmer.blogspot.co.at: Database Performance: Pay Me Now or Pay Me Later](http://database-programmer.blogspot.co.at/2008/07/database-performance-pay-me-now-or-pay.html)
 - [Datazenit Web-based database administration tool for MySQL and PostgreSQL](https://datazenit.com)
 - [javacodegeeks.com: The 10 Most Popular DB Engines (SQL and NoSQL)](http://www.javacodegeeks.com/2013/10/the-10-most-popular-db-engines-sql-and-nosql.html)
 - [seniordba.wordpress.com: 15 SQL Server DBA Interview Questions](https://seniordba.wordpress.com/2014/06/25/11-sql-server-dba-interview-questions/)
@@ -247,6 +247,12 @@
 - [craigkerstiens.com: Writing More Legible SQL](http://www.craigkerstiens.com/2016/01/08/writing-better-sql/)
 
 [![SQL Joins Visualizer](images/sql_joins_visualizer.png)](http://sql-joins.leopard.in.ua/)
+
+#### Database Performance
+- [database-programmer.blogspot.co.at: Database Performance: Pay Me Now or Pay Me Later](http://database-programmer.blogspot.co.at/2008/07/database-performance-pay-me-now-or-pay.html)
+- [DZone/Database Zone: Top 6 Database Performance Metrics to Monitor in Enterprise Applications](https://dzone.com/articles/top-6-database-performance-metrics-to-monitor-in-e) This article reviews six of the top performance metrics to assess the health of your database in your enterprise application
+- [sqlperformance.com: Sneaky behaviours and isolation guarantees in the SNAPSHOT isolation level](http://sqlperformance.com/2014/06/sql-performance/the-snapshot-isolation-level)
+	- [sqlperformance.com: Tuning : A Good Place to Start](http://sqlperformance.com/2016/01/io-subsystem/tuning-a-good-place-to-start) Tim Radney of SQLskills gives an overview of his approach to SQL Server performance tuning, from system configuration, to I/O latency, to high cost queries.
 
 #### EssentialSQL 
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
@@ -286,6 +292,7 @@
 - [use-the-index-luke.com: SQL Server Distinguishing Access and Filter-Predicates](http://use-the-index-luke.com/sql/explain-plan/sql-server/filter-predicates)
 - [use-the-index-luke.com: Pagination done the PostgreSQL Way. Works also in other DBs, but not that simple](http://use-the-index-luke.com/blog/2013-07/pagination-done-the-postgresql-way)
 - [use-the-index-luke.com: What’s left of NoSQL?](http://use-the-index-luke.com/blog/2013-04/whats-left-of-nosql)
+- [use-the-index-luke.com: bind parameters and execution plan caching](http://use-the-index-luke.com/blog/2011-07-16/planning-for-reuse)
 
 [![use the index luke](images/use_the_index_luke.png)](http://use-the-index-luke.com/)
 
@@ -311,13 +318,13 @@
 - [What Every Data Scientist Needs to Know about SQL](http://joshualande.com/data-science-sql/)
 - [MySQL very high CPU usage (and other processes)](http://www.corrspt.com/blog/2015/07/01/mysql-very-high-cpu-usage/)
 - [It’s the Hardware, idiot! Increasing MySQL Performance](http://www.monitis.com/blog/2012/09/04/hardware-solutions-for-increasing-mysql-performance/)
+- [MySQL 5.7: Improved Performance of Queries with Derived Tables](http://mysqlserverteam.com/mysql-5-7-improved-performance-of-queries-with-derived-tables/)
 - [Anemometer: MySQL Slow Query Monitor](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
 - [Find and remove duplicate indexes](https://www.percona.com/blog/2012/06/20/find-and-remove-duplicate-indexes/)
 - [generatedata.com via percona.com: Generating test data for MySQL tables](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 - [MySQL Indexing Explained](https://blog.viaduct.io/mysql-indexes-primer/)
 - [Use MySQL’s Strict Mode on all new Projects! get a better, more modern SQL experience](http://blog.jooq.org/2014/11/20/use-mysqls-strict-mode-on-all-new-projects/)
 - [Terrible choices: MySQL (for Django)](https://www.reddit.com/r/Python/comments/2qm448/terrible_choices_mysql_for_django)
-- [MySQL 5.7: Improved Performance of Queries with Derived Tables](http://mysqlserverteam.com/mysql-5-7-improved-performance-of-queries-with-derived-tables/)
 - [MySQL for Excel 1.3.5](http://insidemysql.com/mysql-for-excel-1-3-5-has-been-released/)
 	- [MySQL for Visual Studio 1.2.6 has been released](http://insidemysql.com/mysql-for-visual-studio-1-2-6-has-been-released/)
 - [Python Mysql Connector](http://jasonralph.org/?p=291)
