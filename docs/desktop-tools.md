@@ -34,6 +34,7 @@
 - [twitter.com/evernote_br](https://twitter.com/evernote_br)
 - [twitter.com/evernote_fr](https://twitter.com/evernote_fr)
 - [https://twitter.com/Evernote_IN](https://twitter.com/Evernote_IN)
+- [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
 
 # Presentations
 - [blog.slideshare.net: 6 Principles of Influence to Enhance Your Presentations](https://blog.slideshare.net/2015/12/14/6-principles-of-influence-to-enhance-your-presentations/)
