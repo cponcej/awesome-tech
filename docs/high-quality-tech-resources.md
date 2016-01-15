@@ -231,6 +231,7 @@
 - [Infosec Reactions](http://securityreactions.tumblr.com/)
 	- [twitter.com/sec_reactions](https://twitter.com/sec_reactions)
 - [DevOps Reactions](http://devopsreactions.tumblr.com/)
+	- [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
