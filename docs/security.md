@@ -3,6 +3,8 @@
 
 - [Security](#security)
 	- [Security Blogs](#security-blogs)
+	- [Security on Twitter](#security-on-twitter)
+		- [Seguridad en Twitter](#seguridad-en-twitter)
 	- [Security Podcasts](#security-podcasts)
 	- [Security Toolkits](#security-toolkits)
 	- [Antivirus](#antivirus)
@@ -31,8 +33,15 @@
 - [CSO: Security news, features and analysis about prevention, protection and business innovation](http://www.csoonline.com/)
 - [peerlyst](https://www.peerlyst.com/) Professional Community platform for Information Security
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)
-	- [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
 - [seguridadapple.com](http://www.seguridadapple.com)
+
+## Security on Twitter
+- [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
+- [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
+
+### Seguridad en Twitter
+- [https://twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
+- [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
 
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
