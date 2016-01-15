@@ -271,6 +271,8 @@
 	- [deptyr: Run your tty programs pseudo-headlessly under a process supervisor](https://github.com/antifuchs/deptyr)
 - [HowTo: Compile And Run a C/C++ Code In Linux](http://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135651440303" data-did="71388c85aaa3dbabd324ee9a8d32e830cc3a9972"><a href="http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay">http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
 ## Linux Security
 - [tecmint.com: 25 Hardening Security Tips for Linux Servers](http://www.tecmint.com/linux-server-hardening-security-tips/)
 - [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
