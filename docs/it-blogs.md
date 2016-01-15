@@ -51,6 +51,8 @@
 - [information-age.com](http://www.information-age.com/)
 - [The Next Web - International technology news, business & culture](http://thenextweb.com/)
 
+[![dilbert sales](images/dilbert_sales.jpg)](http://dilbert.com/)
+
 ## IT Spain Blogs
 - [hipertextual.com](http://hipertextual.com/)
 - [javiergarzas.com](http://www.javiergarzas.com/)

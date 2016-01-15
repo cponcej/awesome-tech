@@ -17,6 +17,8 @@
 - [cyberciti.biz: 10 Places To Buy A Laptop With Linux Preloaded](http://www.cyberciti.biz/hardware/laptop-computers-with-linux-installed-or-preloaded/)
 - [zdnet: CES 2016: These are the best laptops, tablets, and portable PCs](http://www.zdnet.com/pictures/best-new-laptops-tablets-gadgets-ces-2016-pictures/)
 
+![bill gates chooses lazy person](images/bill_gates_lazy.jpg)
+
 # Presentations
 - [blog.slideshare.net: 6 Principles of Influence to Enhance Your Presentations](https://blog.slideshare.net/2015/12/14/6-principles-of-influence-to-enhance-your-presentations/)
 - [5 Must-Know Public Speaking Tips for Introverts](http://www.entrepreneur.com/article/229925)
