@@ -9,6 +9,7 @@
 	- [Freelance jobs](#freelance-jobs)
 	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 	- [Human Resources](#human-resources)
+		- [Recursos Humanos](#recursos-humanos)
 		- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
 		- [Interview Preparation Guide](#interview-preparation-guide)
 
@@ -115,9 +116,12 @@
 - [hbr.org: Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
+
+### Recursos Humanos
 - [elblogderrhh.com](http://www.elblogderrhh.com/)
 	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [equiposytalento.com](http://www.equiposytalento.com/)
+- [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
 
 [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
 
