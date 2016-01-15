@@ -639,3 +639,5 @@
 - [blogs.vmware.com](http://blogs.vmware.com/)
 	- [Workaround for the NAT port forwarding issue in Fusion 8.1](https://blogs.vmware.com/teamfusion/2016/01/workaround-of-nat-port-forwarding-issue-in-fusion-8-1.html)
 - [Upgrade de host VMware vSphere ESXi 5.5 a 6.0](http://www.tundra-it.com/upgrade-de-host-vmware-vsphere-esxi-5-5-6-0/) En este documento veremos una forma sencilla de actualizar un host de VMware ESXi a la nueva versión 6
+
+![bill gates](images/bill_gates.jpg)
