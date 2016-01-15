@@ -102,7 +102,7 @@
 - [¿Cuáles son los países que más están contratando?](http://www.expansion.com/emprendedores-empleo/empleo/2016/01/04/568ac17b22601d123b8b4635.html)
 - [Ofertas laborales para informáticos en Dubái](http://www.consejosgratis.es/ofertas-laborales-para-informaticos-en-dubai/)
 
-[![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
+![fight club](images/fight_club.gif)
 
 ## Freelance jobs
 - [upwork.com](https://www.upwork.com/)
@@ -118,6 +118,8 @@
 - [elblogderrhh.com](http://www.elblogderrhh.com/)
 	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [equiposytalento.com](http://www.equiposytalento.com/)
+
+[![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
 
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
