@@ -43,7 +43,7 @@
 	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
 	- [JBoss (WildFly)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
-		- [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-and-others)
+		- [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
 		- [JBoss Resources](#jboss-resources)
 		- [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
 		- [JBoss Fuse - Enterprise Service Bus (ESB)](#jboss-fuse---enterprise-service-bus-esb)
@@ -525,7 +525,7 @@
 - [schabell.org - Eric D. Schabell's blog](http://www.schabell.org)
 - [JBoss Tutotials - JBoss training courses](http://www.mastertheboss.com/)
 
-### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian, and others
+### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others
 - [JBoss GateIn Portal](http://gatein.jboss.org/)
 - [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
 - [JBoss Forge to build Maven-based Java EE projects](http://forge.jboss.org/)
@@ -533,6 +533,7 @@
 - [JBoss Developer Studio](https://www.jboss.org/products/devstudio/overview/)
 - [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
 - [Container Object pattern. A new pattern for your tests. Arquillian  community](http://www.javacodegeeks.com/2016/01/container-object-pattern-new-pattern-tests.html)
+- [Excellent step by step introduction tutorial on persistence unit testing](http://www.tomitribe.com/blog/2016/01/testing-persistence-with-arquillian-on-tomee/)
 
 ### JBoss Resources
 - [tecmint.com: WildFly (JBoss AS) – How to Access and Manage CLI Using GUI](http://www.tecmint.com/wildfly-jboss-as-how-to-access-and-manage-cli-using-gui/)
