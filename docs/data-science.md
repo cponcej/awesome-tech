@@ -355,6 +355,7 @@
 - [MongoDB 3.2: Now Powered by PostgreSQL](https://www.linkedin.com/pulse/mongodb-32-now-powered-postgresql-john-de-goes)
 - [PostgreSQL Studio, web based postgresql development](http://www.postgresqlstudio.org/)
 - [Introduction to PostgreSQL physical storage](http://rachbelaid.com/introduction-to-postgres-physical-storage/)
+- [Differences between PostgreSQL & MySQL Server](http://www.articlesbase.com/databases-articles/differences-between-postgresql-mysql-server-7377764.html)
 
 ##### UPSERT on Postgres 9.5
 - [postgresql.org: PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data](http://www.postgresql.org/about/news/1636/)
