@@ -151,6 +151,8 @@
 - [Candlepin](http://www.candlepinproject.org/)
 - [Pulp](http://www.pulpproject.org/)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134927085230" data-did="bb1e1b59231f5382026568844e915c19da08f253"><a href="http://securityreactions.tumblr.com/post/134927085230/when-client-confidently-references-sneakernet">http://securityreactions.tumblr.com/post/134927085230/when-client-confidently-references-sneakernet</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
 ## Chef and SAP
 - [docs.chef.io](https://docs.chef.io/)
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
