@@ -152,6 +152,7 @@
 - [Back In Time - A simple backup tool for Linux written in Python3](https://github.com/bit-team/backintime)
 	- [backintime.readthedocs.org](http://backintime.readthedocs.org)
 - [Linux Get List of Installed Software for Reinstallation / Restore All the Software Programs](http://www.cyberciti.biz/tips/linux-get-list-installed-software-reinstallation-restore.html)
+	- [How to find out when Debian or Ubuntu package installed or updated](http://www.cyberciti.biz/faq/debian-ubuntu-linux-find-package-installed-updated-date/)
 
 ### man pages on steroids with examples
 - [TLDR pages](http://tldr-pages.github.io/)
@@ -549,6 +550,7 @@
 - [schabell.org: The ultimate collection of JBoss BPM Suite demos](http://www.schabell.org/2015/12/ultimate-collection-jboss-bpmsuite-demos.html)
 - [schabell.org: Quick Tour #4 Start your first JBoss BRMS project (video)](http://www.schabell.org/2015/12/quick-tour-4-first-brms-project.html)
 - [Clustering and session failover with WildFly9](http://blog.eisele.net/2015/01/developer-interview-di-11-stuart-douglas-about-wildfly9-undertow.html)
+- [dzone: Using jBPM's RESTful API as a Black Box Workflow Server](https://dzone.com/articles/using-jbpms-restful-api-as-a-black-box-workflow-se) Here's how to properly employee JBoss jBPM for RESTful APIs.
 
 ### JBoss Fuse - Enterprise Service Bus (ESB)
 - [JBoss Fuse Description](http://www.jboss.org/products/fuse/overview/)

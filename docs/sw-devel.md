@@ -453,6 +453,8 @@
 - [Test Anything Protocol (TAP)](https://testanything.org/)
 - [Dzone/DevOps Zone: Four Ways Testers Can Eliminate Risks in Test Automation](https://dzone.com/articles/4-ways-testers-can-eliminate-risks-in-test-automat)
 - [adictosaltrabajo.com: Tutorial ‘Docker Integration Test’](http://www.adictosaltrabajo.com/tutoriales/tutorial-docker-integration-test/)
+- [DZone/Integration Zone: API Testing With Runscope](https://dzone.com/articles/api-testing-with-runscope) If you're using APIs, you need to test well. Here's a guide to testing APIs with Runscope, with a breakdown of creating a bucket and making a test.
+	- [runscope.com](https://www.runscope.com/)
 
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
 

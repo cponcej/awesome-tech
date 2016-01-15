@@ -46,6 +46,8 @@
 - [redhat.com On-demand webinars about DevOps](http://www.redhat.com/en/about/events/devops-webinars)
 - [github: DevopsWiki](https://github.com/Leo-G/DevopsWiki) A wiki of Guides, Scripts, Tutorials related to devops
 
+[![find a debug during the deploy](images/find_debug_during_deploy.gif)](http://devopsreactions.tumblr.com/)
+
 ## Description
 - [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
 - [Software Development in the 21st century](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
