@@ -12,6 +12,7 @@
 		- [Spanish podcasts](#spanish-podcasts)
 	- [Wikibooks](#wikibooks)
 	- [Webcomics](#webcomics)
+	- [Reactions. When words aren't enough, say it with animations](#reactions-when-words-arent-enough-say-it-with-animations)
 
 <!-- /MarkdownTOC -->
 
@@ -225,6 +226,11 @@
 ## Webcomics
 - [commitstrip.com](http://www.commitstrip.com)
 - [dilbert.com](http://dilbert.com/)
+
+## Reactions. When words aren't enough, say it with animations
+- [Infosec Reactions](http://securityreactions.tumblr.com/)
+	- [twitter.com/sec_reactions](https://twitter.com/sec_reactions)
+- [DevOps Reactions](http://devopsreactions.tumblr.com/)
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
