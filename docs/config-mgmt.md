@@ -4,6 +4,7 @@
 - [Configuration Management and Orchestration](#configuration-management-and-orchestration)
 	- [Vagrant](#vagrant)
 	- [Ansible](#ansible)
+		- [Ansible on Twitter](#ansible-on-twitter)
 		- [Ansible Support and Forums](#ansible-support-and-forums)
 		- [Is ansible replacing puppet?](#is-ansible-replacing-puppet)
 		- [Apache via Ansible](#apache-via-ansible)
@@ -21,6 +22,7 @@
 	- [Capistrano](#capistrano)
 	- [SaltStack](#saltstack)
 	- [Docker](#docker)
+		- [Docker on Twitter](#docker-on-twitter)
 		- [Microservices](#microservices)
 		- [Docker references](#docker-references)
 		- [MySQL via Docker](#mysql-via-docker)
@@ -71,6 +73,15 @@
 - [dzone: Environment Variables with Vagrant and Ansible.](https://dzone.com/articles/environment-variable-with-vagrant-and-ansible) How to configure Ansible and Vagrant to use a web proxy server.
 - [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 - [Ansible 2.0 Has Arrived and includes over 200 new modules](http://www.ansible.com/blog/ansible-2.0-launch)
+
+### Ansible on Twitter
+- [twitter.com/ansible](https://twitter.com/ansible)
+- [twitter.com/ansible4devops](https://twitter.com/ansible4devops)
+	- [twitter.com/geerlingguy](https://twitter.com/geerlingguy)
+- [twitter.com/ansiblebook](https://twitter.com/ansiblebook)
+- [twitter.com/AnsibleBenelux](https://twitter.com/AnsibleBenelux)
+- [twitter.com/ansible_berlin](https://twitter.com/ansible_berlin)
+- [twitter.com/AnsibleBCN](https://twitter.com/AnsibleBCN)
 
 ### Ansible Support and Forums
 - [Ansible Support](https://support.ansible.com)
@@ -168,6 +179,19 @@
 - [Salt vs. Ansible](http://jensrantil.github.io/salt-vs-ansible.html)
 
 ## Docker
+### Docker on Twitter
+- [twitter.com/docker](https://twitter.com/docker)
+- [twitter.com/solomonstre](https://twitter.com/solomonstre)
+- [twitter.com/DockerCon](https://twitter.com/DockerCon)
+- [twitter.com/jpetazzo](https://twitter.com/jpetazzo)
+- [twitter.com/frazelledazzell](https://twitter.com/frazelledazzell)
+- [twitter.com/golubbe](https://twitter.com/golubbe)
+- [twitter.com/coreoslinux](https://twitter.com/coreoslinux)
+- [twitter.com/docker_fr](https://twitter.com/docker_fr)
+- [twitter.com/DockerParis](https://twitter.com/DockerParis)
+- [twitter.com/SecureDocker](https://twitter.com/SecureDocker)
+- [twitter.com/DockerSwarm](https://twitter.com/DockerSwarm)
+
 ### Microservices
 - [Introduction to Microservices | NGINX](https://www.nginx.com/blog/introduction-to-microservices/)
 - [Microservices, Martin Fowler](http://martinfowler.com/articles/microservices.html)

@@ -15,6 +15,7 @@
 			- [CI Maven and Gradle](#ci-maven-and-gradle)
 			- [Deploying PHP Applications](#deploying-php-applications)
 	- [Git](#git)
+		- [Git on Twitter](#git-on-twitter)
 		- [Git clients](#git-clients)
 	- [Performance Testing. Traffic injectors](#performance-testing-traffic-injectors)
 		- [JMeter](#jmeter)
@@ -188,6 +189,19 @@
 - [Git Pocket Guide](http://it-ebooks.info/book/2517/)
 - [Git Pandas. A wrapper around gitpython to produce pandas dataframes for analysis](https://github.com/wdm0006/git-pandas)
 - [Neat new features in Git 2.7](https://developer.atlassian.com/blog/2016/01/git-2.7-release/)
+
+### Git on Twitter
+- [twitter.com/github](https://twitter.com/github)
+- [twitter.com/BestGit](https://twitter.com/BestGit)
+- [twitter.com/GitHubJobs](https://twitter.com/GitHubJobs)
+- [twitter.com/GitHubCommunity](https://twitter.com/GitHubCommunity)
+- [GitHubHelp](https://twitter.com/GitHubHelp)
+- [twitter.com/GitHubEducation](https://twitter.com/GitHubEducation)
+- [twitter.com/planetgit](https://twitter.com/planetgit)
+- [twitter.com/git_tricks](https://twitter.com/git_tricks)
+- [twitter.com/GitForWindows](https://twitter.com/GitForWindows)
+- [twitter.com/progitbook](https://twitter.com/progitbook)
+- [twitter.com/gitready](https://twitter.com/gitready)
 
 ### Git clients
 - [SourceTree](https://www.sourcetreeapp.com/)

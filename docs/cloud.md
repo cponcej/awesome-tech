@@ -3,6 +3,7 @@
 
 - [Cloud](#cloud)
 	- [Cloud Bogs](#cloud-bogs)
+	- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
 	- [The Twelve-Factor App methodology for building apps in modern cloud environments](#the-twelve-factor-app-methodology-for-building-apps-in-modern-cloud-environments)
 	- [Development environments in the Cloud](#development-environments-in-the-cloud)
 	- [Cloud references](#cloud-references)
@@ -10,6 +11,7 @@
 	- [OpenStack private cloud](#openstack-private-cloud)
 	- [IBM Bluemix](#ibm-bluemix)
 	- [Awesome AWS](#awesome-aws)
+	- [AWS on Twitter](#aws-on-twitter)
 	- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
@@ -40,6 +42,10 @@
 - [comparethecloud.net](http://www.comparethecloud.net/)
 - [sdxcentral cloud](https://www.sdxcentral.com/flow/cloud/)
 - [DZone / Cloud Zone](https://dzone.com/cloud-computing-tutorials-tools-news)
+
+## Non AWS Clouds on Twitter
+- [twitter.com/googlecloud](https://twitter.com/googlecloud)
+- [twitter.com/Azure](https://twitter.com/Azure)
 
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
 - [The Twelve-Factor App](http://12factor.net/)
@@ -113,6 +119,10 @@
 
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+
+## AWS on Twitter
+- [twitter.com/awscloud](https://twitter.com/awscloud)
+- [twitter.com/AWSstartups](https://twitter.com/AWSstartups)
 
 ## AWS Youtube channel and Podcasts
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
@@ -233,6 +243,7 @@
 - [What Startups Should Know about Amazon VPC — Part 1](https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228)
 - [Scaling on AWS (Part 3): >500K Users](https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-3-500k-users-3750b227b761)
 - [medium.com: Building a Serverless Dynamic DNS System with AWS](https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8#.qq54pucbd)
+- [medium.com: The Top 10 AWS Startup Blog Posts of 2015](https://medium.com/aws-activate-startup-blog/the-top-10-aws-startup-blog-posts-of-2015-d2975e3778bb)
 
 ## AWS Gartner Report
 - [Gartner Critical Capabilities - Learn More ](https://aws.amazon.com/resources/gartner-cc-learn-more/)
