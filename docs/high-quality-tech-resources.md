@@ -273,6 +273,7 @@
 - [twitter.com/ZDNet](https://twitter.com/ZDNet)
 - [twitter.com/TechCrunch](https://twitter.com/TechCrunch)
 - [twitter.com/tech_faq](https://twitter.com/tech_faq)
+- [twitter.com/eWEEKNews](https://twitter.com/eWEEKNews)
 - [twitter.com/medium](https://twitter.com/medium)
 
 ## DevOps on Twitter
@@ -389,6 +390,15 @@
 ## Security on Twitter
 - [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
 - [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
+- [twitter.com/seclists](https://twitter.com/seclists)
+- [twitter.com/ehackingdotnet](https://twitter.com/ehackingdotnet)
+- [twitter.com/sucurisecurity](https://twitter.com/sucurisecurity)
+- [twitter.com/csoonline](https://twitter.com/csoonline)
+- [twitter.com/blackMOREOps](https://twitter.com/blackMOREOps)
+- [twitter.com/SecurityZap](https://twitter.com/SecurityZap)
+- [twitter.com/DarkReading](https://twitter.com/DarkReading)
+- [twitter.com/guidovranken](https://twitter.com/guidovranken)
+- [twitter.com/matthew_d_green](https://twitter.com/matthew_d_green)
 - [twitter.com/ITSecNews](https://twitter.com/ITSecNews)
 - [twitter.com/IT_securitynews](https://twitter.com/IT_securitynews)
 - [twitter.com/ITSecurity_News](https://twitter.com/ITSecurity_News)
