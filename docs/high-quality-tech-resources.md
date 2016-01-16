@@ -33,7 +33,7 @@
 			- [EssentialSQL](#essentialsql)
 			- [MySQL on Twitter](#mysql-on-twitter)
 			- [PostgreSQL on Twitter](#postgresql-on-twitter)
-		- [MongoDB on Twitter](#mongodb-on-twitter)
+			- [MongoDB on Twitter](#mongodb-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Selenium on Twitter](#selenium-on-twitter)
 		- [Evernote on Twitter](#evernote-on-twitter)
@@ -350,7 +350,7 @@
 #### PostgreSQL on Twitter
 - [twitter.com/postgresql](https://twitter.com/postgresql)
 
-### MongoDB on Twitter
+#### MongoDB on Twitter
 - [twitter.com/MongoDB)](https://twitter.com/MongoDB)
 
 ### Frontend on Twitter
