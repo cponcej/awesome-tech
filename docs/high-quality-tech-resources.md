@@ -10,6 +10,7 @@
 		- [IT Jobs on Twitter](#it-jobs-on-twitter)
 		- [Tech on Twitter](#tech-on-twitter)
 		- [DevOps on Twitter](#devops-on-twitter)
+		- [Scrum](#scrum)
 		- [Git on Twitter](#git-on-twitter)
 		- [Ansible on Twitter](#ansible-on-twitter)
 		- [Puppet](#puppet)
@@ -232,6 +233,10 @@
 - [twitter.com/devops](https://twitter.com/devops)
 - [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 - [twitter.com/DEVOPS_BORAT](https://twitter.com/DEVOPS_BORAT)
+
+### Scrum
+- [twitter.com/f0g](https://twitter.com/f0g)
+- [twitter.com/mglacey](https://twitter.com/mglacey)
 
 ### Git on Twitter
 - [twitter.com/github](https://twitter.com/github)
