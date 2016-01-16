@@ -273,6 +273,7 @@
 - [twitter.com/ZDNet](https://twitter.com/ZDNet)
 - [twitter.com/TechCrunch](https://twitter.com/TechCrunch)
 - [twitter.com/tech_faq](https://twitter.com/tech_faq)
+- [twitter.com/medium](https://twitter.com/medium)
 
 ## DevOps on Twitter
 - [twitter.com/devopsdotcom](https://twitter.com/devopsdotcom)
