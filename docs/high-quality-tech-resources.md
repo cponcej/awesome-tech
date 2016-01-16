@@ -371,6 +371,8 @@
 - [twitter.com/RedHatNL](https://twitter.com/RedHatNL)
 - [twitter.com/RedHat_France](https://twitter.com/RedHat_France)
 
+[![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
+
 #### Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
 
@@ -586,7 +588,5 @@
 - [DevOps Reactions](http://devopsreactions.tumblr.com/)
 	- [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 - [9gag.com](http://9gag.com)
-
-[![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
 [![Arthur C. Clarke describe internet en 1974](images/arthur_c_clarke.png)](https://www.youtube.com/watch?v=E5G31VO1c0U)
