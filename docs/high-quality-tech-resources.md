@@ -374,11 +374,11 @@
 	11. [twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
 ### Python on Twitter
-- [twitter.com/pythonhub](https://twitter.com/pythonhub)
 - [Python - The PSF](https://twitter.com/ThePSF)
 - [Python StackOverflow](https://twitter.com/PythonStack)
 - [Python Package Index](https://twitter.com/pypi)
 - [Guido van Rossum](https://twitter.com/gvanrossum)
+- [Python Hub](https://twitter.com/pythonhub)
 - [twitter.com/pythoncoders](https://twitter.com/pythoncoders)
 - [twitter.com/SciPyTip](https://twitter.com/SciPyTip)
 - [twitter.com/PythonWeekly](https://twitter.com/PythonWeekly)
