@@ -279,6 +279,7 @@
 	- [reptyr: Reparent a running program to a new terminal](https://github.com/nelhage/reptyr)
 	- [deptyr: Run your tty programs pseudo-headlessly under a process supervisor](https://github.com/antifuchs/deptyr)
 - [HowTo: Compile And Run a C/C++ Code In Linux](http://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/)
+- [Using strace to track system calls in Linux](https://opensource.com/business/16/1/scale-14x-interview-alex-juarez-rackspace)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135651440303" data-did="71388c85aaa3dbabd324ee9a8d32e830cc3a9972"><a href="http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay">http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
@@ -500,6 +501,7 @@
 
 ## Red Hat OpenStack
 - [RDO Project](https://www.rdoproject.org/)
+- [twitter.com/RDOcommunity](https://twitter.com/RDOcommunity)
 - [redhatstackblog.redhat.com: Can’t we just install and manage OpenStack ourselves?](http://redhatstackblog.redhat.com/2015/03/26/an-openstack-cloud-that-frees-you-to-pursue-your-business/)
 - [Red Hat Whitepaper: Preparing for Private Cloud and Hybrid IT with Red Hat Cloud Infrastructure](http://www.redhat.com/en/resources/managing-hybrid-cloud-diversified-workloads-and-unified-cloud-infrastructure-administration)
 - [slideshare.net: Transforming to OpenStack: a sample roadmap to DevOps](http://www.slideshare.net/NicolasBarcet/os-summit-transformingtoopenstack)
@@ -576,6 +578,7 @@
 	- [A Java EE 7 Application on OpenShift 3 With JBoss Tools](http://blog.eisele.net/2015/12/a-java-ee-7-application-on-openshift-3.html)
 	- [Java EE 7 Samples on GitHub](https://github.com/javaee-samples/javaee7-samples)
 	- [Getting Started With The JBoss EAP 7 Quickstarts](http://blog.eisele.net/2015/12/getting-started-with-jboss-eap-7.html)
+	- [Red Hat JBoss Engineers about Java EE, Container, Microservices and Testing](http://blog.eisele.net/2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html)
 
 ### JBoss BPM Suite and JBoss BRMS
 - [Red Hat Updates JBoss BPM Suite and JBoss BRMS Products](http://www.redhat.com/de/about/blog/red-hat-updates-jboss-bpm-suite-and-jboss-brms-products)

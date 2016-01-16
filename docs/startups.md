@@ -96,11 +96,14 @@
 - [JobsBCN.com: All Startup Jobs in Barcelona](http://www.jobsbcn.com/)
 	- [twitter.com/startupjobsbcn](https://twitter.com/startupjobsbcn)
 	- [blog.jobsbcn.com](http://blog.jobsbcn.com)
+		- [On IT recruiters](http://blog.jobsbcn.com/index.php/2015/12/29/on-it-recruiters/)
 		- [Stock Options in Startups – A scam or something worth a shot?](http://blog.jobsbcn.com/index.php/2016/01/13/stock-options-startups-scam-something-worth-shot/)
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba.com startup jobs](http://tyba.com/)
 - [careers.stackoverflow.com](http://careers.stackoverflow.com/)
 - [jobandtalent.com](http://www.jobandtalent.com)
+- [twitter.com/RemoteWorkingCo](https://twitter.com/RemoteWorkingCo)
+- [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
 
 ![richard branson](images/richardbranson.jpg)
 
@@ -108,6 +111,7 @@
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
 - [twitter.com/developerbcn](https://twitter.com/developerbcn)
+- [twitter.com/bcntechcity](https://twitter.com/bcntechcity)
 - [twitter.com/developermadrid](https://twitter.com/developermadrid)
 - [portalparados.es](http://www.portalparados.es/)
 - [¿Cuáles son los países que más están contratando?](http://www.expansion.com/emprendedores-empleo/empleo/2016/01/04/568ac17b22601d123b8b4635.html)

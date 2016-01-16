@@ -49,6 +49,7 @@
 	- [Frontend on Twitter](#frontend-on-twitter)
 	- [Selenium on Twitter](#selenium-on-twitter)
 	- [Podcasts on Twitter](#podcasts-on-twitter)
+	- [IBM, EMCcode on Twitter and github](#ibm-emccode-on-twitter-and-github)
 	- [Wikibooks](#wikibooks)
 	- [Webcomics](#webcomics)
 	- [Reactions. When words aren't enough, say it with animations](#reactions-when-words-arent-enough-say-it-with-animations)
@@ -380,6 +381,7 @@
 - [twitter.com/googlecloud](https://twitter.com/googlecloud)
 - [twitter.com/Azure](https://twitter.com/Azure)
 - [twitter.com/OpenStack](https://twitter.com/OpenStack)
+- [twitter.com/RDOcommunity](https://twitter.com/RDOcommunity)
 - [twitter.com/Rackspace](https://twitter.com/Rackspace)
 - [twitter.com/comparethecloud](https://twitter.com/comparethecloud)
 
@@ -612,6 +614,8 @@
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
 
+![test code in production](images/test_code_in_production.jpg)
+
 ## Podcasts on Twitter
 - [twitter.com/WeDevelopers](https://twitter.com/WeDevelopers)
 - [thecloudcast.net:](http://thecloudcast.net)
@@ -619,6 +623,11 @@
 	- [https://twitter.com/bgracely](https://twitter.com/bgracely)
 - [twitter.com/talkpython](https://twitter.com/talkpython)
 - [twitter.com/AWSpodcast](https://twitter.com/AWSpodcast)
+
+## IBM, EMCcode on Twitter and github
+- [twitter.com/developerWorks](https://twitter.com/developerWorks)
+- [emccode.github.io](http://emccode.github.io)
+- [twitter.com/EMCcode](https://twitter.com/EMCcode)
 
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 

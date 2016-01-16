@@ -15,6 +15,7 @@
 - [ycombinator.com: What's the best way to train/onboard new programmers?](https://news.ycombinator.com/item?id=10890032)
 
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
+- [twitter.com/udemy](https://twitter.com/udemy)
 - [ITIL Lite, a basic introduction to the world of ITIL](https://www.udemy.com/itil-lite/)
 - [Basics of Scrum, Agile and Project Delivery](https://www.udemy.com/scrum-methodology/)
 - [The Enterprise Lean Startup Survival Guide (Free)](https://www.udemy.com/the-enterprise-lean-startup-survival-guide/) Learn how to identify and address common organizational traps when introducing Lean Startup to large organizations

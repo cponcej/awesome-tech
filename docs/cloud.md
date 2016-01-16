@@ -47,6 +47,7 @@
 - [twitter.com/googlecloud](https://twitter.com/googlecloud)
 - [twitter.com/Azure](https://twitter.com/Azure)
 - [twitter.com/OpenStack](https://twitter.com/OpenStack)
+- [twitter.com/RDOcommunity](https://twitter.com/RDOcommunity)
 - [twitter.com/Rackspace](https://twitter.com/Rackspace)
 
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
@@ -97,6 +98,7 @@
 
 ## OpenStack private cloud
 - [openstack.org](http://openstack.org)
+- [trystack.org](http://trystack.org/)
 - [OpenStack Architecture Design Guide](http://docs.openstack.org/arch/)
 - [opensource.com: What is OpenStack?](https://opensource.com/resources/what-is-openstack)
 - [OpenStack Foundation Youtube Channel](https://www.youtube.com/user/OpenStackFoundation)

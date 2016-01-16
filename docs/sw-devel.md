@@ -76,6 +76,8 @@
 - [DZone/Integration Zone](https://dzone.com/enterprise-integration-training-tools-news)
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 - [DZone](http://dzone.com)
+- [twitter.com/devbattles](https://twitter.com/devbattles)
+	- [devbattles.com](http://www.devbattles.com)
 - [javacodegeeks.com](http://javacodegeeks.com/)
 	- [examples.javacodegeeks.com](http://examples.javacodegeeks.com/)
 - [javahispano.org](http://www.javahispano.org/)
@@ -157,6 +159,7 @@
 - [How to bulk rename files without losing your sanity](http://sublimetexttips.com/how-to-bulk-rename-files-without-losing-your-sanity/)
 - [Hey Rails Developers (And Web Developers): Here's an Awesome Sublime Text Cheat Sheet Just For You](http://sublimetexttips.com/attention-rails-developers-and-web-developers-heres-an-awesome-sublime-text-cheat-sheet-just-for-you/)
 - [Sublime Text 3: Worth the upgrade?](http://sublimetexttips.com/sublime-text-3-worth-the-upgrade/)
+- [How to delete lines that start with a given set of characters](http://sublimetexttips.com/how-to-delete-lines-that-start-with-a-given-set-of-characters/)
 
 #### Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)

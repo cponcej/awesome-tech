@@ -126,6 +126,7 @@
 ## Distributed Messaging System. Message oriented middleware 
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Apache Kafka](http://kafka.apache.org/)
+- [Setting Up and Running Apache Kafka on Windows OS](https://dzone.com/articles/running-apache-kafka-on-windows-os)
 - [Lose the Lock While Embracing Concurrency](https://dzone.com/articles/lose-the-lock-while-embracing-concurrency-brave-ne) Adopting concurrency? You may want to lose the lock. Here's a look at basics with message routing, such as concurrent timelines, linearizability​, and more!
 
 [![dilbert](images/dilbert.jpg)](http://dilbert.com/)

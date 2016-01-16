@@ -37,6 +37,7 @@
 - [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
 
 # Presentations
+- [twitter.com/PresGeeks](https://twitter.com/PresGeeks)
 - [blog.slideshare.net: 6 Principles of Influence to Enhance Your Presentations](https://blog.slideshare.net/2015/12/14/6-principles-of-influence-to-enhance-your-presentations/)
 - [5 Must-Know Public Speaking Tips for Introverts](http://www.entrepreneur.com/article/229925)
 
