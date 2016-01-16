@@ -403,7 +403,7 @@
 ### Frontend on Twitter
 - [twitter.com/getbootstrap](https://twitter.com/getbootstrap)
 - [twitter.com/nodejs](https://twitter.com/nodejs)
-- [https://twitter.com/angularjs](https://twitter.com/angularjs)
+- [twitter.com/angularjs](https://twitter.com/angularjs)
 
 ### javascript/node.js
 - [5 Awesome Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/11/5-awesome-tutorials-to-kick-start-your-web-programming-projects.html)

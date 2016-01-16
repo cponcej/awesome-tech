@@ -343,7 +343,7 @@
 ### Frontend on Twitter
 - [twitter.com/getbootstrap](https://twitter.com/getbootstrap)
 - [twitter.com/nodejs](https://twitter.com/nodejs)
-- [https://twitter.com/angularjs](https://twitter.com/angularjs)
+- [twitter.com/angularjs](https://twitter.com/angularjs)
 
 ### Selenium on Twitter
 - [twitter.com/SeleniumHQ](https://twitter.com/SeleniumHQ)
