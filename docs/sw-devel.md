@@ -342,6 +342,7 @@
 - [twitter.com/Oraclejavamag](https://twitter.com/Oraclejavamag)
 - [twitter.com/JavaOneConf](https://twitter.com/JavaOneConf)
 - [twitter.com/javacodegeeks](https://twitter.com/javacodegeeks)
+- [twitter.com/Java_EE](https://twitter.com/Java_EE)
 
 ### Java refs
 - [blog.eisele.net: A Refresher - Top 10 Java EE 7 Backend Features](http://blog.eisele.net/2015/12/a-refresher-top-10-java-ee-7-backend.html)

@@ -31,6 +31,7 @@
 	- [Apple OS X](#apple-os-x)
 	- [Linux Commands Examples](#linux-commands-examples)
 - [Red Hat](#red-hat)
+	- [Red Hat on Twitter](#red-hat-on-twitter)
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
 	- [Red Hat Insights. Modern infrastructure management](#red-hat-insights-modern-infrastructure-management)
@@ -41,8 +42,10 @@
 	- [Red Hat Storage](#red-hat-storage)
 	- [Red Hat and IBM](#red-hat-and-ibm)
 	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
+	- [GlassFish](#glassfish)
 	- [JBoss (WildFly)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
+		- [JBoss on Twitter](#jboss-on-twitter)
 		- [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
 		- [JBoss Resources](#jboss-resources)
 		- [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
@@ -113,6 +116,12 @@
 - [Tecmint](https://twitter.com/tecmint)
 - [RegexTip](https://twitter.com/RegexTip)
 - [github](https://twitter.com/github)
+- [twitter.com/linuxfoundation](twitter.com/linuxfoundation)
+- [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
+- [twitter.com/linuxtoday](https://twitter.com/linuxtoday)
+- [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
+- [twitter.com/LinuxUserMag](https://twitter.com/LinuxUserMag)
+- [https://twitter.com/Linux](https://twitter.com/Linux)
 
 ## Linux References
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
@@ -426,7 +435,10 @@
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 # Red Hat
+## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
+- [twitter.com/fedora](https://twitter.com/fedora)
+- [twitter.com/openshift](https://twitter.com/openshift)
 
 ## Red Hat Blogs and Forums
 - [RedHat.com Blog](http://www.redhat.com/en/about/blog)
@@ -507,6 +519,9 @@
 
 [![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
 
+## GlassFish
+- [twitter.com/glassfish](https://twitter.com/glassfish)
+
 ## JBoss (WildFly)
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)
 - [Product Documentation for JBoss Enterprise Application Platform](https://access.redhat.com/documentation/en/jboss-enterprise-application-platform/)
@@ -526,6 +541,15 @@
 - [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)
 - [schabell.org - Eric D. Schabell's blog](http://www.schabell.org)
 - [JBoss Tutotials - JBoss training courses](http://www.mastertheboss.com/)
+
+### JBoss on Twitter
+- [twitter.com/JBoss](https://twitter.com/JBoss)
+- [twitter.com/jbossdeveloper](https://twitter.com/jbossdeveloper)
+- [JBoss Community twitter.com/jbossorg](https://twitter.com/jbossorg)
+- [twitter.com/JBossForge](https://twitter.com/JBossForge)
+- [twitter.com/WildFlyAS](https://twitter.com/WildFlyAS)
+- [twitter.com/jtgreene](https://twitter.com/jtgreene)
+- [twitter.com/arungupta](https://twitter.com/arungupta)
 
 ### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others
 - [JBoss GateIn Portal](http://gatein.jboss.org/)
@@ -606,6 +630,7 @@
 	- [Flock 2015 Fedora Conference](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
 
 # Ubuntu
+- [twitter.com/ubuntu](https://twitter.com/ubuntu)
 - [forbes: 10 Reasons Why Ubuntu Is Killing It In The Cloud](http://www.forbes.com/sites/janakirammsv/2016/01/12/10-reasons-why-ubuntu-is-killing-it-in-the-cloud/#2715e4857a0b19d6c8d819a2)
 
 # Microsoft
