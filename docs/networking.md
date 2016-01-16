@@ -104,7 +104,8 @@
 ## Network Forensics
 
 ### Network Forensics Blogs
-- [seguridadyredes.wordpress.com](https://seguridadyredes.wordpress.com/)
+- [wireshark.org](http://wireshark.org/)
+- [wiresharktraining.com](http://wiresharktraining.com)
 - [packetbomb.com](http://packetbomb.com/)
 - [blog.packet-foo.com](https://blog.packet-foo.com)
 - [LoveMyTool - Building an Open Community for Network Management and Monitoring](http://www.lovemytool.com/blog)
@@ -113,6 +114,7 @@
 - [Packet Pushers](http://packetpushers.net/)
 - [The Networking Nerd](http://networkingnerd.net/)
 - [sharkfest.wireshark.org](http://sharkfest.wireshark.org)
+- [seguridadyredes.wordpress.com](https://seguridadyredes.wordpress.com/)
 
 ### Wireshark on Twitter
 - [twitter.com/LauraChappell](https://twitter.com/LauraChappell)
