@@ -6,6 +6,38 @@
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
+	- [Twitter](#twitter)
+		- [Job hunting on Twitter](#job-hunting-on-twitter)
+		- [Tech on Twitter](#tech-on-twitter)
+		- [Git on Twitter](#git-on-twitter)
+		- [Ansible on Twitter](#ansible-on-twitter)
+		- [Chef and SAP](#chef-and-sap)
+		- [SaltStack](#saltstack)
+		- [Docker on Twitter](#docker-on-twitter)
+		- [Jenkins on Twitter](#jenkins-on-twitter)
+		- [Travis on Twitter](#travis-on-twitter)
+		- [Leaders on Twitter](#leaders-on-twitter)
+		- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
+		- [AWS on Twitter](#aws-on-twitter)
+		- [Security on Twitter](#security-on-twitter)
+			- [Seguridad en Twitter](#seguridad-en-twitter)
+		- [Linux on Twitter](#linux-on-twitter)
+		- [Red Hat on Twitter](#red-hat-on-twitter)
+		- [Ubuntu](#ubuntu)
+		- [JBoss on Twitter](#jboss-on-twitter)
+		- [GlassFish](#glassfish)
+		- [Wireshark on Twitter](#wireshark-on-twitter)
+		- [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
+		- [MongoDB on Twitter](#mongodb-on-twitter)
+		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
+		- [EssentialSQL](#essentialsql)
+		- [MySQL on Twitter](#mysql-on-twitter)
+		- [PostgreSQL on Twitter](#postgresql-on-twitter)
+		- [MongoDB on Twitter](#mongodb-on-twitter-1)
+		- [Frontend on Twitter](#frontend-on-twitter)
+		- [Selenium on Twitter](#selenium-on-twitter)
+		- [Evernote on Twitter](#evernote-on-twitter)
+		- [Economics](#economics)
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
 			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
@@ -164,6 +196,194 @@
 	- [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
 
 [![Here Comes Another Bubble v1.1 - The Richter Scales](images/nobubble.jpg)](https://youtu.be/I6IQ_FOCE6I)
+
+## Twitter
+### Job hunting on Twitter
+- [twitter.com/developerbcn](https://twitter.com/developerbcn)
+- [twitter.com/developermadrid](https://twitter.com/developermadrid)
+
+### Tech on Twitter
+- [twitter.com/DZone](https://twitter.com/DZone)
+- [twitter.com/tech_faq](https://twitter.com/tech_faq)
+
+### Git on Twitter
+- [twitter.com/github](https://twitter.com/github)
+- [twitter.com/githubstatus](https://twitter.com/githubstatus)
+- [twitter.com/BestGit](https://twitter.com/BestGit)
+- [twitter.com/GitHubJobs](https://twitter.com/GitHubJobs)
+- [twitter.com/GitHubCommunity](https://twitter.com/GitHubCommunity)
+- [GitHubHelp](https://twitter.com/GitHubHelp)
+- [twitter.com/GitHubEducation](https://twitter.com/GitHubEducation)
+- [twitter.com/planetgit](https://twitter.com/planetgit)
+- [twitter.com/git_tricks](https://twitter.com/git_tricks)
+- [twitter.com/GitForWindows](https://twitter.com/GitForWindows)
+- [twitter.com/progitbook](https://twitter.com/progitbook)
+- [twitter.com/gitready](https://twitter.com/gitready)
+
+### Ansible on Twitter
+- [twitter.com/ansible](https://twitter.com/ansible)
+- [twitter.com/ansible4devops](https://twitter.com/ansible4devops)
+	- [twitter.com/geerlingguy](https://twitter.com/geerlingguy)
+- [twitter.com/ansiblebook](https://twitter.com/ansiblebook)
+- [twitter.com/AnsibleBenelux](https://twitter.com/AnsibleBenelux)
+- [twitter.com/ansible_berlin](https://twitter.com/ansible_berlin)
+- [twitter.com/AnsibleBCN](https://twitter.com/AnsibleBCN)
+
+### Chef and SAP
+- [twitter.com/chef](https://twitter.com/chef)
+
+### SaltStack
+- [twitter.com/saltstack](https://twitter.com/saltstack)
+
+### Docker on Twitter
+- [twitter.com/docker](https://twitter.com/docker)
+- [twitter.com/solomonstre](https://twitter.com/solomonstre)
+- [twitter.com/DockerCon](https://twitter.com/DockerCon)
+- [twitter.com/jpetazzo](https://twitter.com/jpetazzo)
+- [twitter.com/frazelledazzell](https://twitter.com/frazelledazzell)
+- [twitter.com/golubbe](https://twitter.com/golubbe)
+- [twitter.com/coreoslinux](https://twitter.com/coreoslinux)
+- [twitter.com/docker_fr](https://twitter.com/docker_fr)
+- [twitter.com/DockerParis](https://twitter.com/DockerParis)
+- [twitter.com/SecureDocker](https://twitter.com/SecureDocker)
+- [twitter.com/DockerSwarm](https://twitter.com/DockerSwarm)
+
+### Jenkins on Twitter
+- [https://twitter.com/jenkinsci](https://twitter.com/jenkinsci)
+
+### Travis on Twitter
+- [twitter.com/travisci](https://twitter.com/travisci)
+- [twitter.com/traviscistatus](https://twitter.com/traviscistatus)
+
+### Leaders on Twitter
+[![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
+
+### Non AWS Clouds on Twitter
+- [twitter.com/googlecloud](https://twitter.com/googlecloud)
+- [twitter.com/Azure](https://twitter.com/Azure)
+- [twitter.com/OpenStack](https://twitter.com/OpenStack)
+- [twitter.com/Rackspace](https://twitter.com/Rackspace)
+
+### AWS on Twitter
+- [twitter.com/awscloud](https://twitter.com/awscloud)
+- [twitter.com/AWSreInvent](https://twitter.com/AWSreInvent)
+- [twitter.com/jeffbarr](https://twitter.com/jeffbarr)
+- [twitter.com/AWSstartups](https://twitter.com/AWSstartups)
+- [twitter.com/AWS_Partners](https://twitter.com/AWS_Partners)
+
+### Security on Twitter
+- [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
+- [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
+
+#### Seguridad en Twitter
+- [https://twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
+- [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
+
+### Linux on Twitter
+- [@nixcraft](https://twitter.com/nixcraft)
+- [UnixToolTip](https://twitter.com/UnixToolTip)
+- [Command Line Magic](https://twitter.com/climagic)
+- [Tecmint](https://twitter.com/tecmint)
+- [RegexTip](https://twitter.com/RegexTip)
+- [github](https://twitter.com/github)
+- [twitter.com/linuxfoundation](twitter.com/linuxfoundation)
+- [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
+- [twitter.com/linuxtoday](https://twitter.com/linuxtoday)
+- [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
+- [twitter.com/LinuxUserMag](https://twitter.com/LinuxUserMag)
+- [https://twitter.com/Linux](https://twitter.com/Linux)
+
+### Red Hat on Twitter
+- [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
+- [twitter.com/fedora](https://twitter.com/fedora)
+- [twitter.com/openshift](https://twitter.com/openshift)
+
+### Ubuntu
+- [twitter.com/ubuntu](https://twitter.com/ubuntu)
+
+### JBoss on Twitter
+- [twitter.com/JBoss](https://twitter.com/JBoss)
+- [twitter.com/jbossdeveloper](https://twitter.com/jbossdeveloper)
+- [JBoss Community twitter.com/jbossorg](https://twitter.com/jbossorg)
+- [twitter.com/JBossForge](https://twitter.com/JBossForge)
+- [twitter.com/WildFlyAS](https://twitter.com/WildFlyAS)
+- [twitter.com/jtgreene](https://twitter.com/jtgreene)
+- [twitter.com/arungupta](https://twitter.com/arungupta)
+
+### GlassFish
+- [twitter.com/glassfish](https://twitter.com/glassfish)
+
+### Wireshark on Twitter
+- [twitter.com/LauraChappell](https://twitter.com/LauraChappell)
+- [twitter.com/WiresharkNews](https://twitter.com/WiresharkNews)
+- [twitter.com/wiresharktweets](https://twitter.com/wiresharktweets)
+- [twitter.com/wiresharku](https://twitter.com/wiresharku)
+- [twitter.com/seguridadyredes](https://twitter.com/seguridadyredes)
+
+### Network Forensics and Monitoring for MySQL and PostgreSQL
+- [VividCortex](https://twitter.com/VividCortex)
+
+### MongoDB on Twitter
+- [twitter.com/MongoDB)](https://twitter.com/MongoDB)
+
+### SQL and Big Data on Twitter
+- [essentialsql.com's twitter](https://twitter.com/sqlkris)
+- [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
+- [twitter.com/BigDataBlogs](https://twitter.com/BigDataBlogs)
+- [InformationWeek Top Data Science, Analytics, and BI experts on Twitter](http://www.kdnuggets.com/2016/01/informationweek-top-data-science-analytics-bi-experts-twitter.html)
+	1. [https://twitter.com/mrogati](https://twitter.com/mrogati)
+	2. [https://twitter.com/scientistBob](https://twitter.com/scientistBob)
+	3. [https://twitter.com/schmarzo](https://twitter.com/schmarzo)
+	4. [https://twitter.com/mdraugelis](https://twitter.com/mdraugelis)
+	5. [https://twitter.com/hmason](https://twitter.com/hmason)
+	6. [https://twitter.com/Kart_Lisa](https://twitter.com/Kart_Lisa)
+	7. [https://twitter.com/merv](https://twitter.com/merv)
+	8. [https://twitter.com/kdnuggets](https://twitter.com/kdnuggets)
+	9. [https://twitter.com/data_nerd](https://twitter.com/data_nerd)
+	10. [https://twitter.com/jenbelissent](https://twitter.com/jenbelissent)
+	11. [https://twitter.com/bethnoveck](https://twitter.com/bethnoveck)
+
+### EssentialSQL 
+- [essentialsql.com's twitter](https://twitter.com/sqlkris)
+
+### MySQL on Twitter
+- [https://twitter.com/MySQL](https://twitter.com/MySQL)
+
+### PostgreSQL on Twitter
+- [twitter.com/postgresql](https://twitter.com/postgresql)
+
+### MongoDB on Twitter
+- [twitter.com/MongoDB)](https://twitter.com/MongoDB)
+
+### Frontend on Twitter
+- [twitter.com/getbootstrap](https://twitter.com/getbootstrap)
+- [twitter.com/nodejs](https://twitter.com/nodejs)
+- [https://twitter.com/angularjs](https://twitter.com/angularjs)
+
+### Selenium on Twitter
+- [twitter.com/SeleniumHQ](https://twitter.com/SeleniumHQ)
+- [twitter.com/saucelabs](https://twitter.com/saucelabs)
+- [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
+- [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
+
+### Evernote on Twitter
+- [twitter.com/evernote](https://twitter.com/evernote)
+- [twitter.com/evernotehelps](https://twitter.com/evernotehelps)
+- [twitter.com/evernews](https://twitter.com/evernews)
+- [twitter.com/Evernote_latam](https://twitter.com/Evernote_latam)
+- [twitter.com/evernotelife](https://twitter.com/evernotelife)
+- [twitter.com/evernote_es](https://twitter.com/evernote_es)
+- [twitter.com/EvernoteStatus](https://twitter.com/EvernoteStatus)
+- [twitter.com/evernoteteacher](https://twitter.com/evernoteteacher)
+- [twitter.com/evernote_dev](https://twitter.com/evernote_dev)
+- [twitter.com/evernote_de](https://twitter.com/evernote_de)
+- [twitter.com/evernote_br](https://twitter.com/evernote_br)
+- [twitter.com/evernote_fr](https://twitter.com/evernote_fr)
+- [https://twitter.com/Evernote_IN](https://twitter.com/Evernote_IN)
+- [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
+
+### Economics
+- [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
 
 ## Podcasts 
 - [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
