@@ -285,7 +285,6 @@
 - [Command Line Magic](https://twitter.com/climagic)
 - [Tecmint](https://twitter.com/tecmint)
 - [RegexTip](https://twitter.com/RegexTip)
-- [github](https://twitter.com/github)
 - [twitter.com/linuxfoundation](twitter.com/linuxfoundation)
 - [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
 - [twitter.com/linuxtoday](https://twitter.com/linuxtoday)
