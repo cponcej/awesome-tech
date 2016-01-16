@@ -17,23 +17,23 @@
 		- [Jenkins on Twitter](#jenkins-on-twitter)
 		- [Travis on Twitter](#travis-on-twitter)
 		- [Leaders on Twitter](#leaders-on-twitter)
-		- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
-		- [AWS on Twitter](#aws-on-twitter)
+		- [Cloud on Twitter](#cloud-on-twitter)
+			- [AWS on Twitter](#aws-on-twitter)
+			- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
 		- [Security on Twitter](#security-on-twitter)
 			- [Seguridad en Twitter](#seguridad-en-twitter)
 		- [Linux on Twitter](#linux-on-twitter)
-		- [Red Hat on Twitter](#red-hat-on-twitter)
-		- [Ubuntu](#ubuntu)
+			- [Red Hat on Twitter](#red-hat-on-twitter)
+			- [Ubuntu](#ubuntu)
 		- [JBoss on Twitter](#jboss-on-twitter)
 		- [GlassFish](#glassfish)
 		- [Wireshark on Twitter](#wireshark-on-twitter)
 		- [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
-		- [MongoDB on Twitter](#mongodb-on-twitter)
 		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
-		- [EssentialSQL](#essentialsql)
-		- [MySQL on Twitter](#mysql-on-twitter)
-		- [PostgreSQL on Twitter](#postgresql-on-twitter)
-		- [MongoDB on Twitter](#mongodb-on-twitter-1)
+			- [EssentialSQL](#essentialsql)
+			- [MySQL on Twitter](#mysql-on-twitter)
+			- [PostgreSQL on Twitter](#postgresql-on-twitter)
+		- [MongoDB on Twitter](#mongodb-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Selenium on Twitter](#selenium-on-twitter)
 		- [Evernote on Twitter](#evernote-on-twitter)
@@ -258,18 +258,19 @@
 ### Leaders on Twitter
 [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
 
-### Non AWS Clouds on Twitter
-- [twitter.com/googlecloud](https://twitter.com/googlecloud)
-- [twitter.com/Azure](https://twitter.com/Azure)
-- [twitter.com/OpenStack](https://twitter.com/OpenStack)
-- [twitter.com/Rackspace](https://twitter.com/Rackspace)
-
-### AWS on Twitter
+### Cloud on Twitter
+#### AWS on Twitter
 - [twitter.com/awscloud](https://twitter.com/awscloud)
 - [twitter.com/AWSreInvent](https://twitter.com/AWSreInvent)
 - [twitter.com/jeffbarr](https://twitter.com/jeffbarr)
 - [twitter.com/AWSstartups](https://twitter.com/AWSstartups)
 - [twitter.com/AWS_Partners](https://twitter.com/AWS_Partners)
+
+#### Non AWS Clouds on Twitter
+- [twitter.com/googlecloud](https://twitter.com/googlecloud)
+- [twitter.com/Azure](https://twitter.com/Azure)
+- [twitter.com/OpenStack](https://twitter.com/OpenStack)
+- [twitter.com/Rackspace](https://twitter.com/Rackspace)
 
 ### Security on Twitter
 - [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
@@ -293,12 +294,12 @@
 - [twitter.com/LinuxUserMag](https://twitter.com/LinuxUserMag)
 - [https://twitter.com/Linux](https://twitter.com/Linux)
 
-### Red Hat on Twitter
+#### Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
 - [twitter.com/fedora](https://twitter.com/fedora)
 - [twitter.com/openshift](https://twitter.com/openshift)
 
-### Ubuntu
+#### Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
 
 ### JBoss on Twitter
@@ -323,9 +324,6 @@
 ### Network Forensics and Monitoring for MySQL and PostgreSQL
 - [VividCortex](https://twitter.com/VividCortex)
 
-### MongoDB on Twitter
-- [twitter.com/MongoDB](https://twitter.com/MongoDB)
-
 ### SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
@@ -343,13 +341,13 @@
 	10. [https://twitter.com/jenbelissent](https://twitter.com/jenbelissent)
 	11. [https://twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
-### EssentialSQL 
+#### EssentialSQL 
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 
-### MySQL on Twitter
+#### MySQL on Twitter
 - [https://twitter.com/MySQL](https://twitter.com/MySQL)
 
-### PostgreSQL on Twitter
+#### PostgreSQL on Twitter
 - [twitter.com/postgresql](https://twitter.com/postgresql)
 
 ### MongoDB on Twitter
