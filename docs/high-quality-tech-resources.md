@@ -309,6 +309,7 @@
 - [twitter.com/jeffbarr](https://twitter.com/jeffbarr)
 - [twitter.com/AWSstartups](https://twitter.com/AWSstartups)
 - [twitter.com/AWS_Partners](https://twitter.com/AWS_Partners)
+- [twitter.com/acloudguru](https://twitter.com/acloudguru)
 
 #### Non AWS Clouds on Twitter
 - [twitter.com/googlecloud](https://twitter.com/googlecloud)
@@ -323,6 +324,18 @@
 ### Security on Twitter
 - [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
 - [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
+- [twitter.com/ITSecNews](https://twitter.com/ITSecNews)
+- [twitter.com/IT_securitynews](https://twitter.com/IT_securitynews)
+- [twitter.com/ITSecurity_News](https://twitter.com/ITSecurity_News)
+- [twitter.com/IT_SecGuru](https://twitter.com/IT_SecGuru)
+- [twitter.com/UCLA_ITSecurity](https://twitter.com/UCLA_ITSecurity)
+- [twitter.com/L7ITSecurity](https://twitter.com/L7ITSecurity)
+- [twitter.com/Information_Cat](https://twitter.com/Information_Cat)
+- [twitter.com/AlanOnSecurity](https://twitter.com/AlanOnSecurity)
+- [twitter.com/ITSPMagazine](https://twitter.com/ITSPMagazine)
+- [twitter.com/SecurityIT](https://twitter.com/SecurityIT)
+- [twitter.com/itsecuritygeeks](https://twitter.com/itsecuritygeeks)
+- [Jobs @ITSecurityNow](https://twitter.com/ITSecurityNow)
 
 #### Seguridad en Twitter
 - [twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
