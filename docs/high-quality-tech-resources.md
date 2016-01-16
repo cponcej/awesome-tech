@@ -30,7 +30,6 @@
 		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Selenium on Twitter](#selenium-on-twitter)
-		- [Economics](#economics)
 	- [Reddit](#reddit)
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
@@ -345,9 +344,6 @@
 - [twitter.com/saucelabs](https://twitter.com/saucelabs)
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
-
-### Economics
-- [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
 
 ## Reddit
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)
