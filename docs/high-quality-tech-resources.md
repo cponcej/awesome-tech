@@ -27,6 +27,7 @@
 		- [Security on Twitter](#security-on-twitter)
 			- [Seguridad en Twitter](#seguridad-en-twitter)
 		- [Network Forensics on Twitter](#network-forensics-on-twitter)
+		- [Network Security](#network-security)
 		- [Linux on Twitter](#linux-on-twitter)
 			- [Red Hat on Twitter](#red-hat-on-twitter)
 			- [Ubuntu](#ubuntu)
@@ -357,6 +358,10 @@
 - [twitter.com/networkingnerd](https://twitter.com/networkingnerd)
 - [twitter.com/SharkFest_2016](https://twitter.com/SharkFest_2016)
 - [twitter.com/NetBeez](https://twitter.com/NetBeez)
+
+### Network Security 
+- [twitter.com/TunnelsUp](https://twitter.com/TunnelsUp)
+- [twitter.com/Bro_IDS](https://twitter.com/Bro_IDS)
 
 [![do not use wireshark](images/dont_use_wireshark.png)](https://twitter.com/packetbomb)
 

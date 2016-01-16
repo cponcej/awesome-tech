@@ -3,6 +3,7 @@
 
 - [Security](#security)
 	- [Security Blogs](#security-blogs)
+		- [Network Security](#network-security)
 	- [Security on Twitter](#security-on-twitter)
 		- [Seguridad en Twitter](#seguridad-en-twitter)
 	- [Security Podcasts](#security-podcasts)
@@ -34,6 +35,10 @@
 - [peerlyst](https://www.peerlyst.com/) Professional Community platform for Information Security
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)
 - [seguridadapple.com](http://www.seguridadapple.com)
+
+### Network Security
+- [tunnelsup.com](http://www.tunnelsup.com/)
+- [Why Choose Bro?](https://www.bro.org/why_choose_bro.pdf)
 
 ## Security on Twitter
 - [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
