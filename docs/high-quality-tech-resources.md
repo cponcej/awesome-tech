@@ -392,6 +392,7 @@
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)
 - [reddit.com/r/freelance](https://www.reddit.com/r/freelance)
 - [Jenkins](https://www.reddit.com/r/jenkinsci/)
+- [reddit.com/r/docker](https://www.reddit.com/r/docker)
 - [Ansible subreddit](https://www.reddit.com/r/ansible/)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
 - [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
