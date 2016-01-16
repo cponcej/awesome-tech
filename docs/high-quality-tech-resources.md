@@ -33,6 +33,7 @@
 		- [WebLogic](#weblogic)
 		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 		- [Python on Twitter](#python-on-twitter)
+			- [Python and Data Science](#python-and-data-science)
 		- [Java on Twitter](#java-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Selenium on Twitter](#selenium-on-twitter)
@@ -390,6 +391,16 @@
 - [twitter.com/python_madrid](https://twitter.com/python_madrid)
 - [twitter.com/PythonGB](https://twitter.com/PythonGB)
 - [twitter.com/pycon](https://twitter.com/pycon)
+
+#### Python and Data Science
+- [Anaconda twitter.com/continuumio](https://twitter.com/continuumio)
+- [twitter.com/IPythonDev](https://twitter.com/IPythonDev)
+- [twitter.com/PyData](https://twitter.com/PyData)
+- [twitter.com/pwang](https://twitter.com/pwang)
+- [twitter.com/fperez_org](https://twitter.com/fperez_org)
+- [twitter.com/wesmckinn](https://twitter.com/wesmckinn)
+- [twitter.com/teoliphant](https://twitter.com/teoliphant)
+- [twitter.com/jakevdp](https://twitter.com/jakevdp)
 
 ### Java on Twitter
 - [twitter.com/java](https://twitter.com/java)
