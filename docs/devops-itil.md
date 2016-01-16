@@ -133,7 +133,7 @@
 - [DZone/Agile Zone. Hiring: 38 Scrum Master Interview Questions To Avoid Imposters](https://dzone.com/articles/hiring-38-scrum-master-interview-questions-to-avoi) A free pdf from DZone user Stefan Wolpers for those looking to hire Scrum Masters or agile professionals.
 - [The shortest and greatest SCRUM cheat sheet that I've seen so far](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
-![not my job](images/not_my_job.jpg)
+[![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
 ### Continuous Integration and Delivery
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
