@@ -259,6 +259,7 @@
 - [twitter.com/TEDTalks](https://twitter.com/TEDTalks)
 - [twitter.com/DanielPink](https://twitter.com/DanielPink)
 - [https://twitter.com/Inc](https://twitter.com/Inc)
+- [facebook.com/ldavidmarquet](https://www.facebook.com/ldavidmarquet/)
 - [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
 
 ### Cloud on Twitter
