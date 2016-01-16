@@ -44,6 +44,7 @@
 		- [Java on Twitter](#java-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Selenium on Twitter](#selenium-on-twitter)
+		- [Podcasts blogs on Twitter](#podcasts-blogs-on-twitter)
 	- [Reddit](#reddit)
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
@@ -317,6 +318,7 @@
 - [twitter.com/Azure](https://twitter.com/Azure)
 - [twitter.com/OpenStack](https://twitter.com/OpenStack)
 - [twitter.com/Rackspace](https://twitter.com/Rackspace)
+- [twitter.com/comparethecloud](https://twitter.com/comparethecloud)
 
 ### Cloud9IDE and Odoo
 - [twitter.com/Cloud9IDE](https://twitter.com/Cloud9IDE)
@@ -538,6 +540,14 @@
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
 
+### Podcasts blogs on Twitter
+- [twitter.com/WeDevelopers](https://twitter.com/WeDevelopers)
+- [thecloudcast.net:](http://thecloudcast.net)
+	- [twitter.com/aarondelp](https://twitter.com/aarondelp)
+	- [https://twitter.com/bgracely](https://twitter.com/bgracely)
+- [twitter.com/talkpython](https://twitter.com/talkpython)
+- [twitter.com/AWSpodcast](https://twitter.com/AWSpodcast)
+
 ## Reddit
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)
 - [reddit.com/r/freelance](https://www.reddit.com/r/freelance)
@@ -584,6 +594,7 @@
 
 ### Spanish podcasts
 - [We.Developers: El podcast para desarrolladores en castellano](http://wedevelopers.com/)
+	- [twitter.com/WeDevelopers](https://twitter.com/WeDevelopers)
 	- [Trabajo en Remoto](http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/)
 	- [De cero a la App Store](http://wedevelopers.com/2013/03/01/we-developers-017-de-cero-a-la-app-store/)
     - [Metodologías de desarrollo ágil](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
