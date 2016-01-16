@@ -27,6 +27,7 @@
 			- [Ubuntu](#ubuntu)
 		- [JBoss on Twitter](#jboss-on-twitter)
 		- [GlassFish](#glassfish)
+		- [WebLogic](#weblogic)
 		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Selenium on Twitter](#selenium-on-twitter)
@@ -313,6 +314,11 @@
 
 ### GlassFish
 - [twitter.com/glassfish](https://twitter.com/glassfish)
+
+### WebLogic 
+- [twitter.com/OracleWebLogic](https://twitter.com/OracleWebLogic)
+- [twitter.com/OracleMiddle](https://twitter.com/OracleMiddle)
+- [twitter.com/oracle_em](https://twitter.com/oracle_em)
 
 ### SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
