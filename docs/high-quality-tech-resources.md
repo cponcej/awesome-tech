@@ -44,7 +44,7 @@
 		- [Java on Twitter](#java-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Selenium on Twitter](#selenium-on-twitter)
-		- [Podcasts blogs on Twitter](#podcasts-blogs-on-twitter)
+		- [Podcasts on Twitter](#podcasts-on-twitter)
 	- [Reddit](#reddit)
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
@@ -542,7 +542,7 @@
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
 
-### Podcasts blogs on Twitter
+### Podcasts on Twitter
 - [twitter.com/WeDevelopers](https://twitter.com/WeDevelopers)
 - [thecloudcast.net:](http://thecloudcast.net)
 	- [twitter.com/aarondelp](https://twitter.com/aarondelp)
