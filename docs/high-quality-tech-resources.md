@@ -256,7 +256,10 @@
 - [twitter.com/traviscistatus](https://twitter.com/traviscistatus)
 
 ### Leaders on Twitter
-[![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
+- [twitter.com/TEDTalks](https://twitter.com/TEDTalks)
+- [twitter.com/DanielPink](https://twitter.com/DanielPink)
+- [https://twitter.com/Inc](https://twitter.com/Inc)
+- [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
 
 ### Cloud on Twitter
 #### AWS on Twitter
