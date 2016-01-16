@@ -28,10 +28,6 @@
 		- [GlassFish](#glassfish)
 		- [Network Forensics on Twitter](#network-forensics-on-twitter)
 		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
-			- [EssentialSQL](#essentialsql)
-			- [MySQL on Twitter](#mysql-on-twitter)
-			- [PostgreSQL on Twitter](#postgresql-on-twitter)
-			- [MongoDB on Twitter](#mongodb-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Selenium on Twitter](#selenium-on-twitter)
 		- [Economics](#economics)
@@ -335,17 +331,8 @@
 	9. [https://twitter.com/data_nerd](https://twitter.com/data_nerd)
 	10. [https://twitter.com/jenbelissent](https://twitter.com/jenbelissent)
 	11. [https://twitter.com/bethnoveck](https://twitter.com/bethnoveck)
-
-#### EssentialSQL 
-- [essentialsql.com's twitter](https://twitter.com/sqlkris)
-
-#### MySQL on Twitter
 - [https://twitter.com/MySQL](https://twitter.com/MySQL)
-
-#### PostgreSQL on Twitter
 - [twitter.com/postgresql](https://twitter.com/postgresql)
-
-#### MongoDB on Twitter
 - [twitter.com/MongoDB)](https://twitter.com/MongoDB)
 
 ### Frontend on Twitter
