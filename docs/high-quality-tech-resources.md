@@ -10,7 +10,7 @@
 		- [Tech on Twitter](#tech-on-twitter)
 		- [Git on Twitter](#git-on-twitter)
 		- [Ansible on Twitter](#ansible-on-twitter)
-		- [Chef and SAP](#chef-and-sap)
+		- [Chef](#chef)
 		- [SaltStack](#saltstack)
 		- [Docker on Twitter](#docker-on-twitter)
 		- [Jenkins on Twitter](#jenkins-on-twitter)
@@ -219,7 +219,7 @@
 - [twitter.com/ansible_berlin](https://twitter.com/ansible_berlin)
 - [twitter.com/AnsibleBCN](https://twitter.com/AnsibleBCN)
 
-### Chef and SAP
+### Chef
 - [twitter.com/chef](https://twitter.com/chef)
 
 ### SaltStack
