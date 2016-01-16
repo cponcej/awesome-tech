@@ -7,6 +7,7 @@
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 	- [Twitter](#twitter)
+		- [IT Jobs on Twitter](#it-jobs-on-twitter)
 		- [Tech on Twitter](#tech-on-twitter)
 		- [DevOps on Twitter](#devops-on-twitter)
 		- [Git on Twitter](#git-on-twitter)
@@ -202,6 +203,9 @@
 [![Here Comes Another Bubble v1.1 - The Richter Scales](images/nobubble.jpg)](https://youtu.be/I6IQ_FOCE6I)
 
 ## Twitter
+### IT Jobs on Twitter
+- [European IT Careers](https://twitter.com/EU_IT_Careers)
+
 ### Tech on Twitter
 - [twitter.com/DZone](https://twitter.com/DZone)
 - [twitter.com/ZDNet](https://twitter.com/ZDNet)
