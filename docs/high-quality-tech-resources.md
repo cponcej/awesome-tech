@@ -25,9 +25,9 @@
 		- [Linux on Twitter](#linux-on-twitter)
 			- [Red Hat on Twitter](#red-hat-on-twitter)
 			- [Ubuntu](#ubuntu)
-			- [Microsoft](#microsoft)
-			- [Apple](#apple)
-			- [Google](#google)
+		- [Microsoft](#microsoft)
+		- [Apple](#apple)
+		- [Google](#google)
 		- [JBoss on Twitter](#jboss-on-twitter)
 		- [GlassFish](#glassfish)
 		- [WebLogic](#weblogic)
@@ -307,13 +307,13 @@
 #### Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
 
-#### Microsoft
+### Microsoft
 - [twitter.com/microsoft](https://twitter.com/microsoft)
 - [twitter.com/Lumia](https://twitter.com/Lumia)
 - [twitter.com/Office](https://twitter.com/Office)
 - [twitter.com/Windows](https://twitter.com/Windows)
 
-#### Apple
+### Apple
 - [twitter.com/APPLEOFFIClAL](https://twitter.com/APPLEOFFIClAL)
 - [twitter.com/tim_cook](https://twitter.com/tim_cook)
 - [twitter.com/AppStore](https://twitter.com/AppStore)
@@ -328,7 +328,7 @@
 - [twitter.com/AppleiDeas](https://twitter.com/AppleiDeas)
 - [twitter.com/applediscounts_](https://twitter.com/applediscounts_)
 
-#### Google
+### Google
 - [twitter.com/google](https://twitter.com/google)
 - [twitter.com/googlechrome](https://twitter.com/googlechrome)
 - [twitter.com/Android](https://twitter.com/Android)
