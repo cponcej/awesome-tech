@@ -328,6 +328,8 @@
 - [twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
 - [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136960409675" data-did="406ff527f71d482429b92a84fe7ed5c8c507cfd5"><a href="http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior">http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
 ### Network Forensics on Twitter
 - [twitter.com/LauraChappell](https://twitter.com/LauraChappell)
 - [twitter.com/WiresharkNews](https://twitter.com/WiresharkNews)

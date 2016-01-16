@@ -46,8 +46,6 @@
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136960409675" data-did="406ff527f71d482429b92a84fe7ed5c8c507cfd5"><a href="http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior">http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
-
 ## Security Toolkits
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
 	- [blackmoreops.com: Crack passwords in Kali Linux with Hydra](http://www.blackmoreops.com/2015/12/23/crack-passwords-in-kali-linux-with-hydra/)
