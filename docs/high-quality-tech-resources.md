@@ -26,8 +26,7 @@
 			- [Ubuntu](#ubuntu)
 		- [JBoss on Twitter](#jboss-on-twitter)
 		- [GlassFish](#glassfish)
-		- [Wireshark on Twitter](#wireshark-on-twitter)
-		- [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
+		- [Network Forensics on Twitter](#network-forensics-on-twitter)
 		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 			- [EssentialSQL](#essentialsql)
 			- [MySQL on Twitter](#mysql-on-twitter)
@@ -312,15 +311,13 @@
 ### GlassFish
 - [twitter.com/glassfish](https://twitter.com/glassfish)
 
-### Wireshark on Twitter
+### Network Forensics on Twitter
 - [twitter.com/LauraChappell](https://twitter.com/LauraChappell)
 - [twitter.com/WiresharkNews](https://twitter.com/WiresharkNews)
 - [twitter.com/wiresharktweets](https://twitter.com/wiresharktweets)
 - [twitter.com/wiresharku](https://twitter.com/wiresharku)
 - [twitter.com/seguridadyredes](https://twitter.com/seguridadyredes)
-
-### Network Forensics and Monitoring for MySQL and PostgreSQL
-- [VividCortex](https://twitter.com/VividCortex)
+- [VividCortex: Network Forensics and Monitoring for MySQL and PostgreSQL](https://twitter.com/VividCortex)
 
 ### SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
