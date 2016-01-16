@@ -223,7 +223,7 @@
 - [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
 - [Talk Python To Me](http://talkpython.fm/)
 - [Puppet Labs Podcasts](https://puppetlabs.com/conversations-puppet-labs-podcast)
-- [Discussions on software development, by Bryan Hogan](http://nodogmapodcast.bryanhogan.net/)
+- [No dogma podcast: Discussions on software development](http://nodogmapodcast.bryanhogan.net/)
 	- [#41 Ken Finnegan, What Ireland Offers the Tech World](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
 - [Best programming podcasts](https://player.fm/featured/programming)
 	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
