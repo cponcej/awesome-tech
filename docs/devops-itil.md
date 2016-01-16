@@ -38,6 +38,7 @@
 
 <!-- /MarkdownTOC -->
 
+[![devops skills](images/devops_skills.png)](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9)
 
 # DevOps
 ## DevOps Blogs
