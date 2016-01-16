@@ -118,6 +118,7 @@
 - [gettopical.com: Bit Data latest news](http://gettopical.com/bigdata)
 - [whatsthebigdata.com: History of Databases (Infographic)](http://whatsthebigdata.com/2016/01/04/history-of-databases-infographic/)
 - [Big data is simply another name for complicated business intelligence: New visualization tools like Tableau, Clearstory, and Domo aims to unlock enterprise data for a broader audience than before](http://www.infoworld.com/article/2868007/big-data/big-data-is-just-another-name-for-complicated-business-intelligence.html)
+- [thevarguy.com: Explaining the Big Data Productivity Gap](http://thevarguy.com/big-data-technology-solutions-and-information/013015/explaining-big-data-productivity-gap) The slow adoption and lack of productivity associated with Hadoop and other big data technologies likely stems from poor planning and lack of big data training and expertise, among other factors.
 - [dzone.com The DZone Guide to Big Data, Business Intelligence and Analytics, 2015 Edition](http://bit.ly/1MHcFT4)
 - [Don't use Hadoop - your data isn't that big](https://www.reddit.com/r/programming/comments/1mkvhs/dont_use_hadoop_your_data_isnt_that_big/)
 - [OpenRefine, a power tool for working with messy data](http://openrefine.org/)
@@ -193,6 +194,8 @@
 - [Pentaho](http://www.pentaho.com/)
 
 ## SQL
+- [Reinventing Yourself as a Next Generation DBA](http://www.cumulogic.com/next-gen-dba/)
+
 ### SQL Blogs and Forums
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [essentialsql.com](http://www.essentialsql.com)

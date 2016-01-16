@@ -298,6 +298,8 @@
 - [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 - [twitter.com/DEVOPS_BORAT](https://twitter.com/DEVOPS_BORAT)
 
+[![devops skills](images/devops_skills.png)](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9)
+
 ## Scrum on Twitter
 - [twitter.com/f0g](https://twitter.com/f0g)
 - [twitter.com/mglacey](https://twitter.com/mglacey)
@@ -367,6 +369,7 @@
 - [twitter.com/Inc](https://twitter.com/Inc)
 - [facebook.com/ldavidmarquet](https://www.facebook.com/ldavidmarquet/)
 - [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
+- [Simon Sinek: If You Don't Understand People, You Don't Understand Business](https://youtu.be/llKvV8_T95M)
 
 ## Cloud on Twitter
 ### AWS on Twitter
@@ -583,6 +586,8 @@
 - [twitter.com/wesmckinn](https://twitter.com/wesmckinn)
 - [twitter.com/teoliphant](https://twitter.com/teoliphant)
 - [twitter.com/jakevdp](https://twitter.com/jakevdp)
+
+[![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)

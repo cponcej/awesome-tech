@@ -42,6 +42,7 @@
 - [StorageReview.com](http://www.storagereview.com/)
 - [Presentación Synology 2015 Evento Madrid](http://qloudea.com/blog/evento-synology-2015-madrid/)
 	- [Forum.synology.com](http://forum.synology.com)
+	- [Automatiza tus backups con rsync en Synology](http://qloudea.com/blog/automatiza-tus-backups-con-rsync-en-synology/)
 	- [Synology Add-on Packages](https://www.synology.com/en-uk/dsm/app_packages)
 	- [Synology Case Study: Somersault Productions](https://www.synology.com/en-uk/company/case_study/somersault)
 	- [Synology Case Study: Bridges Electrical Engineers](https://www.synology.com/en-uk/company/case_study/Bridges_Electrical)

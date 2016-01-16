@@ -16,6 +16,8 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 ![An example of poor economics journalism](images/debt_britain.png)
 
+[![FT chart of the day: real wages in the US, Germany, UK and Spain since the crisis](images/real_wages.png)](http://blogs.ft.com/ftdata/2014/12/08/datawatch-real-wages-since-the-crisis/)
+
 [![OECD Data: Household debt](images/oecd_household_debt.png)](https://data.oecd.org)
 
 ![OECD Data: Household disposable income](images/oecd_household_disposable_income.png)
@@ -55,6 +57,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
 - [Economy of Spain](https://en.wikipedia.org/wiki/Economy_of_Spain)
+- [FT chart of the day: real wages in the US, Germany, UK and Spain since the crisis](http://blogs.ft.com/ftdata/2014/12/08/datawatch-real-wages-since-the-crisis/)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
 - [Cost of living database](http://www.numbeo.com/cost-of-living/)
 - [Global house prices](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
