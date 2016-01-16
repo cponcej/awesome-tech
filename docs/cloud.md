@@ -195,6 +195,8 @@
 - [blazemeter.com: Three Ways DevOps Benefit from AWS CodePipeline](https://blazemeter.com/blog/three-ways-devops-benefit-aws-codepipeline)
 - [AWS Partner Network - CodePipeline Integrations](https://aws.amazon.com/es/codepipeline/product-integrations/)
 
+[![devops skills](images/devops_skills.png)](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9)
+
 ### AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.
 - [Linkedin Discussion](https://www.linkedin.com/groups/49531/49531-6092152919937794052)

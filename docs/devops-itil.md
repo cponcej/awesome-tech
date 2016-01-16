@@ -38,7 +38,7 @@
 
 <!-- /MarkdownTOC -->
 
-[![devops skills](images/devops_skills.png)](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9)
+![term devops](images/term_devops.jpg)
 
 # DevOps
 ## DevOps Blogs
@@ -263,8 +263,6 @@
 	- [FLOSS Weekly 296, Bro](https://twit.tv/shows/floss-weekly/episodes/296)
 - [pingdom.com webiste monitoring](https://www.pingdom.com/)
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
-
-![term devops](images/term_devops.jpg)
 
 ### Zabbix
 - [tecmint.com: Installing and Configuring Zabbix 2.4.5 on Debian 8 and RHEL/CentOS 7](http://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/)
