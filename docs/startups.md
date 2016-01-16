@@ -99,6 +99,8 @@
 - [careers.stackoverflow.com](http://careers.stackoverflow.com/)
 - [jobandtalent.com](http://www.jobandtalent.com)
 
+![richard branson](images/richardbranson.jpg)
+
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
