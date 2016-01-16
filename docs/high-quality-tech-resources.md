@@ -25,6 +25,9 @@
 		- [Linux on Twitter](#linux-on-twitter)
 			- [Red Hat on Twitter](#red-hat-on-twitter)
 			- [Ubuntu](#ubuntu)
+			- [Microsoft](#microsoft)
+			- [Apple](#apple)
+			- [Google](#google)
 		- [JBoss on Twitter](#jboss-on-twitter)
 		- [GlassFish](#glassfish)
 		- [WebLogic](#weblogic)
@@ -194,6 +197,7 @@
 ## Twitter
 ### Tech on Twitter
 - [twitter.com/DZone](https://twitter.com/DZone)
+- [twitter.com/TechCrunch](https://twitter.com/TechCrunch)
 - [twitter.com/tech_faq](https://twitter.com/tech_faq)
 
 ### Git on Twitter
@@ -302,6 +306,32 @@
 
 #### Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
+
+#### Microsoft
+- [twitter.com/microsoft](https://twitter.com/microsoft)
+- [twitter.com/Lumia](https://twitter.com/Lumia)
+- [twitter.com/Office](https://twitter.com/Office)
+- [twitter.com/Windows](https://twitter.com/Windows)
+
+#### Apple
+- [twitter.com/APPLEOFFIClAL](https://twitter.com/APPLEOFFIClAL)
+- [twitter.com/tim_cook](https://twitter.com/tim_cook)
+- [twitter.com/AppStore](https://twitter.com/AppStore)
+- [twitter.com/MacRumors](https://twitter.com/MacRumors)
+- [twitter.com/AppleMacGeek](https://twitter.com/AppleMacGeek)
+- [twitter.com/applenws](https://twitter.com/applenws)
+- [twitter.com/appleinsider](https://twitter.com/appleinsider)
+- [twitter.com/mashableapple](https://twitter.com/mashableapple)
+- [twitter.com/AppleMusic](https://twitter.com/AppleMusic)
+- [twitter.com/AppleMusicES](https://twitter.com/AppleMusicES)
+- [twitter.com/applesfera](https://twitter.com/applesfera)
+- [twitter.com/AppleiDeas](https://twitter.com/AppleiDeas)
+- [twitter.com/applediscounts_](https://twitter.com/applediscounts_)
+
+#### Google
+- [twitter.com/google](https://twitter.com/google)
+- [twitter.com/googlechrome](https://twitter.com/googlechrome)
+- [twitter.com/Android](https://twitter.com/Android)
 
 ### JBoss on Twitter
 - [twitter.com/JBoss](https://twitter.com/JBoss)
