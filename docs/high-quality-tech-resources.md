@@ -319,6 +319,9 @@
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
 - [twitter.com/BigDataBlogs](https://twitter.com/BigDataBlogs)
+- [https://twitter.com/MySQL](https://twitter.com/MySQL)
+- [twitter.com/postgresql](https://twitter.com/postgresql)
+- [twitter.com/MongoDB)](https://twitter.com/MongoDB)
 - [InformationWeek Top Data Science, Analytics, and BI experts on Twitter](http://www.kdnuggets.com/2016/01/informationweek-top-data-science-analytics-bi-experts-twitter.html)
 	1. [https://twitter.com/mrogati](https://twitter.com/mrogati)
 	2. [https://twitter.com/scientistBob](https://twitter.com/scientistBob)
@@ -331,9 +334,6 @@
 	9. [https://twitter.com/data_nerd](https://twitter.com/data_nerd)
 	10. [https://twitter.com/jenbelissent](https://twitter.com/jenbelissent)
 	11. [https://twitter.com/bethnoveck](https://twitter.com/bethnoveck)
-- [https://twitter.com/MySQL](https://twitter.com/MySQL)
-- [twitter.com/postgresql](https://twitter.com/postgresql)
-- [twitter.com/MongoDB)](https://twitter.com/MongoDB)
 
 ### Frontend on Twitter
 - [twitter.com/getbootstrap](https://twitter.com/getbootstrap)
