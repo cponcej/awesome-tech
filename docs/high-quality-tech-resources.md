@@ -202,7 +202,7 @@
 - [twitter.com/BestGit](https://twitter.com/BestGit)
 - [twitter.com/GitHubJobs](https://twitter.com/GitHubJobs)
 - [twitter.com/GitHubCommunity](https://twitter.com/GitHubCommunity)
-- [GitHubHelp](https://twitter.com/GitHubHelp)
+- [twitter.com/GitHubHelp](https://twitter.com/GitHubHelp)
 - [twitter.com/GitHubEducation](https://twitter.com/GitHubEducation)
 - [twitter.com/planetgit](https://twitter.com/planetgit)
 - [twitter.com/git_tricks](https://twitter.com/git_tricks)
@@ -239,7 +239,7 @@
 - [twitter.com/DockerSwarm](https://twitter.com/DockerSwarm)
 
 ### Jenkins on Twitter
-- [https://twitter.com/jenkinsci](https://twitter.com/jenkinsci)
+- [twitter.com/jenkinsci](https://twitter.com/jenkinsci)
 
 ### Travis on Twitter
 - [twitter.com/travisci](https://twitter.com/travisci)
@@ -248,7 +248,7 @@
 ### Leaders on Twitter
 - [twitter.com/TEDTalks](https://twitter.com/TEDTalks)
 - [twitter.com/DanielPink](https://twitter.com/DanielPink)
-- [https://twitter.com/Inc](https://twitter.com/Inc)
+- [twitter.com/Inc](https://twitter.com/Inc)
 - [facebook.com/ldavidmarquet](https://www.facebook.com/ldavidmarquet/)
 - [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
 
@@ -271,7 +271,7 @@
 - [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
 
 #### Seguridad en Twitter
-- [https://twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
+- [twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
 - [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
 
 ### Network Forensics on Twitter
@@ -324,21 +324,21 @@
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
 - [twitter.com/BigDataBlogs](https://twitter.com/BigDataBlogs)
-- [https://twitter.com/MySQL](https://twitter.com/MySQL)
+- [twitter.com/MySQL](https://twitter.com/MySQL)
 - [twitter.com/postgresql](https://twitter.com/postgresql)
 - [twitter.com/MongoDB](https://twitter.com/MongoDB)
 - [InformationWeek Top Data Science, Analytics, and BI experts on Twitter](http://www.kdnuggets.com/2016/01/informationweek-top-data-science-analytics-bi-experts-twitter.html)
-	1. [https://twitter.com/mrogati](https://twitter.com/mrogati)
-	2. [https://twitter.com/scientistBob](https://twitter.com/scientistBob)
-	3. [https://twitter.com/schmarzo](https://twitter.com/schmarzo)
-	4. [https://twitter.com/mdraugelis](https://twitter.com/mdraugelis)
-	5. [https://twitter.com/hmason](https://twitter.com/hmason)
-	6. [https://twitter.com/Kart_Lisa](https://twitter.com/Kart_Lisa)
-	7. [https://twitter.com/merv](https://twitter.com/merv)
-	8. [https://twitter.com/kdnuggets](https://twitter.com/kdnuggets)
-	9. [https://twitter.com/data_nerd](https://twitter.com/data_nerd)
-	10. [https://twitter.com/jenbelissent](https://twitter.com/jenbelissent)
-	11. [https://twitter.com/bethnoveck](https://twitter.com/bethnoveck)
+	1. [twitter.com/mrogati](https://twitter.com/mrogati)
+	2. [twitter.com/scientistBob](https://twitter.com/scientistBob)
+	3. [twitter.com/schmarzo](https://twitter.com/schmarzo)
+	4. [twitter.com/mdraugelis](https://twitter.com/mdraugelis)
+	5. [twitter.com/hmason](https://twitter.com/hmason)
+	6. [twitter.com/Kart_Lisa](https://twitter.com/Kart_Lisa)
+	7. [twitter.com/merv](https://twitter.com/merv)
+	8. [twitter.com/kdnuggets](https://twitter.com/kdnuggets)
+	9. [twitter.com/data_nerd](https://twitter.com/data_nerd)
+	10. [twitter.com/jenbelissent](https://twitter.com/jenbelissent)
+	11. [twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
 ### Frontend on Twitter
 - [twitter.com/getbootstrap](https://twitter.com/getbootstrap)

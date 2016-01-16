@@ -153,7 +153,7 @@
 - [bencane.com: Using Travis CI to test Docker builds](http://bencane.com/2016/01/11/using-travis-ci-to-test-docker-builds/)
 
 ##### Jenkins on Twitter
-- [https://twitter.com/jenkinsci](https://twitter.com/jenkinsci)
+- [twitter.com/jenkinsci](https://twitter.com/jenkinsci)
 
 ##### Travis on Twitter
 - [twitter.com/travisci](https://twitter.com/travisci)

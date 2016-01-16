@@ -40,7 +40,7 @@
 - [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
 
 ### Seguridad en Twitter
-- [https://twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
+- [twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
 - [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
 
 ## Security Podcasts
