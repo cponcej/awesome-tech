@@ -7,7 +7,6 @@
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 	- [Twitter](#twitter)
-		- [Job hunting on Twitter](#job-hunting-on-twitter)
 		- [Tech on Twitter](#tech-on-twitter)
 		- [Git on Twitter](#git-on-twitter)
 		- [Ansible on Twitter](#ansible-on-twitter)
@@ -36,7 +35,6 @@
 			- [MongoDB on Twitter](#mongodb-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Selenium on Twitter](#selenium-on-twitter)
-		- [Evernote on Twitter](#evernote-on-twitter)
 		- [Economics](#economics)
 	- [Reddit](#reddit)
 	- [Podcasts](#podcasts)
@@ -199,10 +197,6 @@
 [![Here Comes Another Bubble v1.1 - The Richter Scales](images/nobubble.jpg)](https://youtu.be/I6IQ_FOCE6I)
 
 ## Twitter
-### Job hunting on Twitter
-- [twitter.com/developerbcn](https://twitter.com/developerbcn)
-- [twitter.com/developermadrid](https://twitter.com/developermadrid)
-
 ### Tech on Twitter
 - [twitter.com/DZone](https://twitter.com/DZone)
 - [twitter.com/tech_faq](https://twitter.com/tech_faq)
@@ -368,22 +362,6 @@
 - [twitter.com/saucelabs](https://twitter.com/saucelabs)
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
-
-### Evernote on Twitter
-- [twitter.com/evernote](https://twitter.com/evernote)
-- [twitter.com/evernotehelps](https://twitter.com/evernotehelps)
-- [twitter.com/evernews](https://twitter.com/evernews)
-- [twitter.com/Evernote_latam](https://twitter.com/Evernote_latam)
-- [twitter.com/evernotelife](https://twitter.com/evernotelife)
-- [twitter.com/evernote_es](https://twitter.com/evernote_es)
-- [twitter.com/EvernoteStatus](https://twitter.com/EvernoteStatus)
-- [twitter.com/evernoteteacher](https://twitter.com/evernoteteacher)
-- [twitter.com/evernote_dev](https://twitter.com/evernote_dev)
-- [twitter.com/evernote_de](https://twitter.com/evernote_de)
-- [twitter.com/evernote_br](https://twitter.com/evernote_br)
-- [twitter.com/evernote_fr](https://twitter.com/evernote_fr)
-- [https://twitter.com/Evernote_IN](https://twitter.com/Evernote_IN)
-- [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
 
 ### Economics
 - [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
