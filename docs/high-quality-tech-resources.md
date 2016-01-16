@@ -398,6 +398,7 @@
 - [reddit.com/r/sysadmin](http://www.reddit.com/r/sysadmin/)
 - [reddit.com/r/Python/](http://reddit.com/r/Python/)
 - [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
+- [reddit.com/r/sql](https://www.reddit.com/r/sql)
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
 
