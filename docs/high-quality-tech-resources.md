@@ -374,6 +374,7 @@
 	11. [twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
 ### Python on Twitter
+- [twitter.com/pythonhub](https://twitter.com/pythonhub)
 - [Python - The PSF](https://twitter.com/ThePSF)
 - [Python StackOverflow](https://twitter.com/PythonStack)
 - [Python Package Index](https://twitter.com/pypi)
