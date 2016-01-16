@@ -38,6 +38,7 @@
 		- [Selenium on Twitter](#selenium-on-twitter)
 		- [Evernote on Twitter](#evernote-on-twitter)
 		- [Economics](#economics)
+	- [Reddit](#reddit)
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
 			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
@@ -386,6 +387,19 @@
 
 ### Economics
 - [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
+
+## Reddit
+- [Upvoted - A Redditorial Publication](https://upvoted.com/)
+- [reddit.com/r/freelance](https://www.reddit.com/r/freelance)
+- [Jenkins](https://www.reddit.com/r/jenkinsci/)
+- [Ansible subreddit](https://www.reddit.com/r/ansible/)
+- [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
+- [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
+- [reddit.com/r/sysadmin](http://www.reddit.com/r/sysadmin/)
+- [reddit.com/r/Python/](http://reddit.com/r/Python/)
+- [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
+- [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
+- [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
 
 ## Podcasts 
 - [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
