@@ -159,6 +159,8 @@
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
 - [Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
 
+[![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
+
 #### Talks
 - [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
 - [Ted Talks. Susan CAin: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts)

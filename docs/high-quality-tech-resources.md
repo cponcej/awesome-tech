@@ -584,8 +584,6 @@
 - [twitter.com/teoliphant](https://twitter.com/teoliphant)
 - [twitter.com/jakevdp](https://twitter.com/jakevdp)
 
-[![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
-
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)
 - [twitter.com/javacodegeeks](https://twitter.com/javacodegeeks)
