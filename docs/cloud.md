@@ -36,6 +36,10 @@
 
 
 # Cloud
+- [Cloud automation should be the heart of enterprise support -- it will decrease downtime, increase flexibility, and dramatically improve your provider’s ability to rapidly respond to service requests](https://www.linkedin.com/pulse/uk-cios-dissatisfied-cloud-providers-ryan-kroonenburg)
+- [Netflix: Linux performance analysis in 60 seconds](http://www.infoworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
+- [9 enterprise tech trends for 2016 and beyond](http://www.infoworld.com/article/3007057/cloud-computing/9-enterprise-tech-trends-for-2016-and-beyond.html)
+
 ## Cloud Bogs
 - [Thoughts On Cloud](http://www.thoughtsoncloud.com/)
 - [Cloud Expo](http://cloudcomputing.sys-con.com/)
@@ -174,6 +178,7 @@
 - [AWS Cost Explorer Update – Access to EC2 Usage Data](https://aws.amazon.com/blogs/aws/aws-cost-explorer-update-access-to-ec2-usage-data/)
 
 ### AWS New Features
+- [aws.amazon.com/releasenotes](https://aws.amazon.com/releasenotes)
 - [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
 - [New – Encrypted EBS Boot Volumes](https://aws.amazon.com/blogs/aws/new-encrypted-ebs-boot-volumes)
 	- [Amazon EBS Encryption](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html)
@@ -205,6 +210,7 @@
 - Run 6 checks (with a random 3-10 second delay between each one), the first can be ignored, the highest one is also ignored (as a likely outlier), then for the next 4 show the minimum, maximum and average (mean).
 
 ### AWS EC2 Container Registry (Docker)
+- [A Better Dev/Test Experience: Docker and AWS](https://medium.com/aws-activate-startup-blog/a-better-dev-test-experience-docker-and-aws-291da5ab1238)
 - [Amazon EC2 Container Registry Documentation](http://aws.amazon.com/es/documentation/ecr/)
 - [Get started with Amazon EC2 Container Registry (Amazon ECR)](http://docs.aws.amazon.com/AmazonECR/latest/userguide/ECR_GetStarted.html)
 
