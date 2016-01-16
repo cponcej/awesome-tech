@@ -120,6 +120,13 @@
 - [twitter.com/wiresharktweets](https://twitter.com/wiresharktweets)
 - [twitter.com/wiresharku](https://twitter.com/wiresharku)
 - [twitter.com/seguridadyredes](https://twitter.com/seguridadyredes)
+- [twitter.com/packetbomb](https://twitter.com/packetbomb)
+- [twitter.com/PacketJay](https://twitter.com/PacketJay)
+- [twitter.com/packetlife](https://twitter.com/packetlife/)
+- [twitter.com/packetpushers](https://twitter.com/packetpushers)
+- [twitter.com/networkingnerd](https://twitter.com/networkingnerd)
+- [twitter.com/SharkFest_2016](https://twitter.com/SharkFest_2016)
+- [twitter.com/NetBeez](https://twitter.com/NetBeez)
 
 ### Network Forensics Docs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/)
