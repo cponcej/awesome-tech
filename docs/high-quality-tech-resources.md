@@ -385,8 +385,10 @@
 - [twitter.com/Windows](https://twitter.com/Windows)
 
 ### Apple
-- [twitter.com/APPLEOFFIClAL](https://twitter.com/APPLEOFFIClAL)
 - [twitter.com/tim_cook](https://twitter.com/tim_cook)
+- [twitter.com/iPadPro](https://twitter.com/iPadPro)
+- [twitter.com/iphone](https://twitter.com/iphone)
+- [twitter.com/iPhone_News](https://twitter.com/iPhone_News)
 - [twitter.com/AppStore](https://twitter.com/AppStore)
 - [twitter.com/MacRumors](https://twitter.com/MacRumors)
 - [twitter.com/AppleMacGeek](https://twitter.com/AppleMacGeek)
