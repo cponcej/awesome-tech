@@ -8,8 +8,10 @@
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 	- [Twitter](#twitter)
 		- [Tech on Twitter](#tech-on-twitter)
+		- [DevOps on Twitter](#devops-on-twitter)
 		- [Git on Twitter](#git-on-twitter)
 		- [Ansible on Twitter](#ansible-on-twitter)
+		- [Puppet](#puppet)
 		- [Chef](#chef)
 		- [SaltStack](#saltstack)
 		- [Docker on Twitter](#docker-on-twitter)
@@ -19,6 +21,7 @@
 		- [Cloud on Twitter](#cloud-on-twitter)
 			- [AWS on Twitter](#aws-on-twitter)
 			- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
+		- [Cloud9IDE and Odoo](#cloud9ide-and-odoo)
 		- [Security on Twitter](#security-on-twitter)
 			- [Seguridad en Twitter](#seguridad-en-twitter)
 		- [Network Forensics on Twitter](#network-forensics-on-twitter)
@@ -33,6 +36,7 @@
 		- [WebLogic](#weblogic)
 		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 		- [Python on Twitter](#python-on-twitter)
+			- [Python Django](#python-django)
 			- [Python and Data Science](#python-and-data-science)
 		- [Java on Twitter](#java-on-twitter)
 		- [Frontend on Twitter](#frontend-on-twitter)
@@ -200,8 +204,30 @@
 ## Twitter
 ### Tech on Twitter
 - [twitter.com/DZone](https://twitter.com/DZone)
+- [twitter.com/ZDNet](https://twitter.com/ZDNet)
 - [twitter.com/TechCrunch](https://twitter.com/TechCrunch)
 - [twitter.com/tech_faq](https://twitter.com/tech_faq)
+
+### DevOps on Twitter
+- [twitter.com/devopsdotcom](https://twitter.com/devopsdotcom)
+- [twitter.com/DevOpsSummit](https://twitter.com/DevOpsSummit)
+- [Enterprise DevOps](https://twitter.com/entdevops)
+- [twitter.com/IBMDevOps](https://twitter.com/IBMDevOps)
+- [BMC DevOps](https://twitter.com/BMC_DevOps)
+- [twitter.com/ArrestedDevOps](https://twitter.com/ArrestedDevOps)
+- [DevOps Opines](https://twitter.com/DevOpsBlogs)
+- [Berlin DevOps](https://twitter.com/blndevops)
+- [Stockholm DevOps](https://twitter.com/SthlmDevOps)
+- [San Diego DevOps](https://twitter.com/SDDevOps)
+- [DevOps Manchester](https://twitter.com/devopsmanc)
+- [Toulouse DevOps](https://twitter.com/toulousedevops)
+- [London DevOps](https://twitter.com/londondevops)
+- [SiliconValley DevOps](https://twitter.com/svdevops)
+- [mainframe DevOps](https://twitter.com/mfdevops)
+- [twitter.com/patrickdebois](https://twitter.com/patrickdebois)
+- [twitter.com/devops](https://twitter.com/devops)
+- [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
+- [twitter.com/DEVOPS_BORAT](https://twitter.com/DEVOPS_BORAT)
 
 ### Git on Twitter
 - [twitter.com/github](https://twitter.com/github)
@@ -226,6 +252,12 @@
 - [twitter.com/ansible_berlin](https://twitter.com/ansible_berlin)
 - [twitter.com/AnsibleBCN](https://twitter.com/AnsibleBCN)
 
+### Puppet
+- [twitter.com/puppetlabs](https://twitter.com/puppetlabs)
+- [twitter.com/puppetmasterd](https://twitter.com/puppetmasterd)
+- [twitter.com/PuppetConf](https://twitter.com/PuppetConf)
+- [twitter.com/teampuppetlabs](https://twitter.com/teampuppetlabs)
+
 ### Chef
 - [twitter.com/chef](https://twitter.com/chef)
 
@@ -234,7 +266,9 @@
 
 ### Docker on Twitter
 - [twitter.com/docker](https://twitter.com/docker)
+- [twitter.com/dockernews](https://twitter.com/dockernews)
 - [twitter.com/solomonstre](https://twitter.com/solomonstre)
+- [twitter.com/ContainerBlog](https://twitter.com/ContainerBlog)
 - [twitter.com/DockerCon](https://twitter.com/DockerCon)
 - [twitter.com/jpetazzo](https://twitter.com/jpetazzo)
 - [twitter.com/frazelledazzell](https://twitter.com/frazelledazzell)
@@ -273,6 +307,10 @@
 - [twitter.com/OpenStack](https://twitter.com/OpenStack)
 - [twitter.com/Rackspace](https://twitter.com/Rackspace)
 
+### Cloud9IDE and Odoo
+- [twitter.com/Cloud9IDE](https://twitter.com/Cloud9IDE)
+- [twitter.com/Odoo](https://twitter.com/Odoo)
+
 ### Security on Twitter
 - [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
 - [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
@@ -295,6 +333,7 @@
 - [Command Line Magic](https://twitter.com/climagic)
 - [Tecmint](https://twitter.com/tecmint)
 - [RegexTip](https://twitter.com/RegexTip)
+- [twitter.com/linuxtutorials](https://twitter.com/linuxtutorials)
 - [twitter.com/linuxfoundation](twitter.com/linuxfoundation)
 - [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
 - [twitter.com/linuxtoday](https://twitter.com/linuxtoday)
@@ -304,8 +343,24 @@
 
 #### Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
-- [twitter.com/fedora](https://twitter.com/fedora)
+- [twitter.com/RedHatPartners](https://twitter.com/RedHatPartners)
+- [Red Hat Community](https://twitter.com/redhatopen)
+- [twitter.com/RedHat_Training](https://twitter.com/RedHat_Training)
+- [twitter.com/RHELdevelop](https://twitter.com/RHELdevelop)
+- [twitter.com/RedHatCloud](https://twitter.com/RedHatCloud)
 - [twitter.com/openshift](https://twitter.com/openshift)
+- [twitter.com/RedHatStorage](https://twitter.com/RedHatStorage)
+- [twitter.com/fedora](https://twitter.com/fedora)
+- [twitter.com/RedHatGov](https://twitter.com/RedHatGov)
+- [twitter.com/RedHatEMEA](https://twitter.com/RedHatEMEA)
+- [twitter.com/RedHatUK](https://twitter.com/RedHatUK)
+- [twitter.com/RedHatDACH](https://twitter.com/RedHatDACH)
+- [Red Hat META twitter.com/RedHatMEA](https://twitter.com/RedHatMEA)
+- [twitter.com/RedHatItaly](https://twitter.com/RedHatItaly)
+- [twitter.com/RedHatNordics](https://twitter.com/RedHatNordics)
+- [twitter.com/RedHatFinland](https://twitter.com/RedHatFinland)
+- [twitter.com/RedHatNL](https://twitter.com/RedHatNL)
+- [twitter.com/RedHat_France](https://twitter.com/RedHat_France)
 
 #### Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
@@ -378,12 +433,13 @@
 - [Python StackOverflow](https://twitter.com/PythonStack)
 - [Python Package Index](https://twitter.com/pypi)
 - [Guido van Rossum](https://twitter.com/gvanrossum)
+- [twitter.com/PythonTopNews](https://twitter.com/PythonTopNews)
+- [twitter.com/python_devv](https://twitter.com/python_devv)
 - [Python Hub](https://twitter.com/pythonhub)
 - [twitter.com/pythoncoders](https://twitter.com/pythoncoders)
 - [twitter.com/SciPyTip](https://twitter.com/SciPyTip)
 - [twitter.com/PythonWeekly](https://twitter.com/PythonWeekly)
 - [twitter.com/planetpython](https://twitter.com/planetpython)
-- [twitter.com/djangoproject](https://twitter.com/djangoproject)
 - [twitter.com/PythonInsider](https://twitter.com/PythonInsider)
 - [twitter.com/TalkPython](https://twitter.com/TalkPython)
 - [twitter.com/python_es](https://twitter.com/python_es)
@@ -392,6 +448,11 @@
 - [twitter.com/python_madrid](https://twitter.com/python_madrid)
 - [twitter.com/PythonGB](https://twitter.com/PythonGB)
 - [twitter.com/pycon](https://twitter.com/pycon)
+
+#### Python Django
+- [twitter.com/djangoproject](https://twitter.com/djangoproject)
+- [twitter.com/TopDjangoNews](https://twitter.com/TopDjangoNews)
+- [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 #### Python and Data Science
 - [Anaconda twitter.com/continuumio](https://twitter.com/continuumio)
