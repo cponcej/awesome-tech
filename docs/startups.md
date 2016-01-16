@@ -11,8 +11,8 @@
 		- [Trabajos Freelance](#trabajos-freelance)
 	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 	- [Human Resources](#human-resources)
+		- [Talks](#talks)
 		- [Recursos Humanos](#recursos-humanos)
-			- [Talks](#talks)
 		- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
 		- [Interview Preparation Guide](#interview-preparation-guide)
 
@@ -149,22 +149,22 @@
 - [hbr.org: Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
+- [Good vs Bad Leader](http://vladmihalcea.com/2013/12/28/good-vs-bad-leader/)
+- [Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
+
+### Talks
+- [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
+- [Ted Talks. Susan CAin: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts)
+- [Simon Sinek: If You Don't Understand People, You Don't Understand Business](https://youtu.be/llKvV8_T95M)
+
+[![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
 ### Recursos Humanos
 - [elblogderrhh.com](http://www.elblogderrhh.com/)
 	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [equiposytalento.com](http://www.equiposytalento.com/)
 - [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
-- [Good vs Bad Leader](http://vladmihalcea.com/2013/12/28/good-vs-bad-leader/)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
-- [Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
-
-[![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
-
-#### Talks
-- [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
-- [Ted Talks. Susan CAin: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts)
-- [Simon Sinek: If You Don't Understand People, You Don't Understand Business](https://youtu.be/llKvV8_T95M)
 
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
