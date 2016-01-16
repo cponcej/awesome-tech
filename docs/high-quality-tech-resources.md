@@ -6,6 +6,11 @@
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
+	- [Reddit](#reddit)
+	- [Podcasts](#podcasts)
+		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
+			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
+		- [Spanish podcasts](#spanish-podcasts)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
 	- [Tech on Twitter](#tech-on-twitter)
 	- [DevOps on Twitter](#devops-on-twitter)
@@ -44,11 +49,6 @@
 	- [Frontend on Twitter](#frontend-on-twitter)
 	- [Selenium on Twitter](#selenium-on-twitter)
 	- [Podcasts on Twitter](#podcasts-on-twitter)
-	- [Reddit](#reddit)
-	- [Podcasts](#podcasts)
-		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
-			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
-		- [Spanish podcasts](#spanish-podcasts)
 	- [Wikibooks](#wikibooks)
 	- [Webcomics](#webcomics)
 	- [Reactions. When words aren't enough, say it with animations](#reactions-when-words-arent-enough-say-it-with-animations)
@@ -203,6 +203,67 @@
 	- [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
 
 [![Here Comes Another Bubble v1.1 - The Richter Scales](images/nobubble.jpg)](https://youtu.be/I6IQ_FOCE6I)
+
+## Reddit
+- [Upvoted - A Redditorial Publication](https://upvoted.com/)
+- [reddit.com/r/freelance](https://www.reddit.com/r/freelance)
+- [Jenkins](https://www.reddit.com/r/jenkinsci/)
+- [reddit.com/r/docker](https://www.reddit.com/r/docker)
+- [Ansible subreddit](https://www.reddit.com/r/ansible/)
+- [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
+- [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
+- [reddit.com/r/sysadmin](http://www.reddit.com/r/sysadmin/)
+- [reddit.com/r/Python/](http://reddit.com/r/Python/)
+- [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
+- [reddit.com/r/sql](https://www.reddit.com/r/sql)
+- [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
+- [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
+
+## Podcasts 
+- [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
+- [Talk Python To Me](http://talkpython.fm/)
+- [Puppet Labs Podcasts](https://puppetlabs.com/conversations-puppet-labs-podcast)
+- [Discussions on software development, by Bryan Hogan](http://nodogmapodcast.bryanhogan.net/)
+	- [#41 Ken Finnegan, What Ireland Offers the Tech World](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
+- [Best programming podcasts](https://player.fm/featured/programming)
+	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
+- [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
+- [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
+
+[![no dogma podcast](images/no_dogma_podcast.png)](http://nodogmapodcast.bryanhogan.net/)
+
+### Cloud Computing Podcasts
+- [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
+	- [The Cloudcast](http://www.thecloudcast.net/)
+		- [The Cloudcast: Cloud Computing Whiteboard Videos](http://www.thecloudcast.net/2012/01/new-cloud-computing-whiteboard-videos.html)
+		- [The Cloudcast youtube channel](https://www.youtube.com/user/TheCloudcastNET)
+	- [Cloud Computing Podcast](http://www.cloudtp.com/insights/cloud-computing-weekly-podcast/)
+	- [Compare the Cloud](http://www.stitcher.com/podcast/compare-the-cloud-the-issues)
+	- [soundcloud: a16z podcast](https://soundcloud.com/a16z)
+- [WHIR Cloud Podcasts](http://www.thewhir.com/whir-podcast)
+	- [Top 5 The WHIR: Cloud Talks Podcasts for 2015](http://www.thewhir.com/blog/top-5-the-whir-cloud-talks-podcasts-for-2015)
+
+[![The Cloudcast](images/thecloudcast.png)](http://www.thecloudcast.net)
+
+#### AWS Youtube channel and Podcasts
+- [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
+- [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
+- [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
+
+### Spanish podcasts
+- [We.Developers: El podcast para desarrolladores en castellano](http://wedevelopers.com/)
+	- [twitter.com/WeDevelopers](https://twitter.com/WeDevelopers)
+	- [Trabajo en Remoto](http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/)
+	- [De cero a la App Store](http://wedevelopers.com/2013/03/01/we-developers-017-de-cero-a-la-app-store/)
+    - [Metodologías de desarrollo ágil](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
+    - [Diseño y desarrollo](http://wedevelopers.com/2012/11/23/we-developers-011-diseno-y-desarrollo/)
+    - [Optimización web](http://wedevelopers.com/2012/08/10/we-developers-010-optimizacion-web/)
+    - [Como ser desarrollador (y no morir en el intento)](http://wedevelopers.com/2015/09/03/we-developers-040-como-ser-desarrollador/)
+- [Podcasts de programación web](http://montesjmm.es/2014/07/09/podcasts-de-programacion-web/)
+- [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
+- [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
+
+[![we developers](images/we_developers.png)](http://wedevelopers.com)
 
 ## IT Jobs on Twitter
 - [European IT Careers](https://twitter.com/EU_IT_Careers)
@@ -547,67 +608,6 @@
 	- [https://twitter.com/bgracely](https://twitter.com/bgracely)
 - [twitter.com/talkpython](https://twitter.com/talkpython)
 - [twitter.com/AWSpodcast](https://twitter.com/AWSpodcast)
-
-## Reddit
-- [Upvoted - A Redditorial Publication](https://upvoted.com/)
-- [reddit.com/r/freelance](https://www.reddit.com/r/freelance)
-- [Jenkins](https://www.reddit.com/r/jenkinsci/)
-- [reddit.com/r/docker](https://www.reddit.com/r/docker)
-- [Ansible subreddit](https://www.reddit.com/r/ansible/)
-- [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
-- [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
-- [reddit.com/r/sysadmin](http://www.reddit.com/r/sysadmin/)
-- [reddit.com/r/Python/](http://reddit.com/r/Python/)
-- [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
-- [reddit.com/r/sql](https://www.reddit.com/r/sql)
-- [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
-- [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
-
-## Podcasts 
-- [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
-- [Talk Python To Me](http://talkpython.fm/)
-- [Puppet Labs Podcasts](https://puppetlabs.com/conversations-puppet-labs-podcast)
-- [Discussions on software development, by Bryan Hogan](http://nodogmapodcast.bryanhogan.net/)
-	- [#41 Ken Finnegan, What Ireland Offers the Tech World](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
-- [Best programming podcasts](https://player.fm/featured/programming)
-	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
-- [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
-- [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
-
-[![no dogma podcast](images/no_dogma_podcast.png)](http://nodogmapodcast.bryanhogan.net/)
-
-### Cloud Computing Podcasts
-- [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
-	- [The Cloudcast](http://www.thecloudcast.net/)
-		- [The Cloudcast: Cloud Computing Whiteboard Videos](http://www.thecloudcast.net/2012/01/new-cloud-computing-whiteboard-videos.html)
-		- [The Cloudcast youtube channel](https://www.youtube.com/user/TheCloudcastNET)
-	- [Cloud Computing Podcast](http://www.cloudtp.com/insights/cloud-computing-weekly-podcast/)
-	- [Compare the Cloud](http://www.stitcher.com/podcast/compare-the-cloud-the-issues)
-	- [soundcloud: a16z podcast](https://soundcloud.com/a16z)
-- [WHIR Cloud Podcasts](http://www.thewhir.com/whir-podcast)
-	- [Top 5 The WHIR: Cloud Talks Podcasts for 2015](http://www.thewhir.com/blog/top-5-the-whir-cloud-talks-podcasts-for-2015)
-
-[![The Cloudcast](images/thecloudcast.png)](http://www.thecloudcast.net)
-
-#### AWS Youtube channel and Podcasts
-- [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
-- [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
-- [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
-
-### Spanish podcasts
-- [We.Developers: El podcast para desarrolladores en castellano](http://wedevelopers.com/)
-	- [twitter.com/WeDevelopers](https://twitter.com/WeDevelopers)
-	- [Trabajo en Remoto](http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/)
-	- [De cero a la App Store](http://wedevelopers.com/2013/03/01/we-developers-017-de-cero-a-la-app-store/)
-    - [Metodologías de desarrollo ágil](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
-    - [Diseño y desarrollo](http://wedevelopers.com/2012/11/23/we-developers-011-diseno-y-desarrollo/)
-    - [Optimización web](http://wedevelopers.com/2012/08/10/we-developers-010-optimizacion-web/)
-    - [Como ser desarrollador (y no morir en el intento)](http://wedevelopers.com/2015/09/03/we-developers-040-como-ser-desarrollador/)
-- [Podcasts de programación web](http://montesjmm.es/2014/07/09/podcasts-de-programacion-web/)
-- [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
-- [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
-
-[![we developers](images/we_developers.png)](http://wedevelopers.com)
 
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 
