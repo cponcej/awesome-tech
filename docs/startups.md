@@ -145,8 +145,6 @@
 - [equiposytalento.com](http://www.equiposytalento.com/)
 - [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
 
-[![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
-
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
 - [slideshare.net: 9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
