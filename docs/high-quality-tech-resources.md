@@ -470,6 +470,8 @@
 	10. [twitter.com/jenbelissent](https://twitter.com/jenbelissent)
 	11. [twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
+![best datascience quote](images/jeff_hammerbacher.jpg)
+
 ### Python on Twitter
 - [Python - The PSF](https://twitter.com/ThePSF)
 - [Python StackOverflow](https://twitter.com/PythonStack)
