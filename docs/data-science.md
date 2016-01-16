@@ -410,7 +410,7 @@
 ![but why](images/but_why.gif)
 
 #### MongoDB on Twitter
-- [twitter.com/MongoDB)](https://twitter.com/MongoDB)
+- [twitter.com/MongoDB](https://twitter.com/MongoDB)
 
 #### MongoDB Tools and MongoDB as a Service
 - [MongoDB Tools - Admin GUIs, Monitoring and Other Good Stuff](http://mongodb-tools.com/)

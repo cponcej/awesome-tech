@@ -324,7 +324,7 @@
 - [VividCortex](https://twitter.com/VividCortex)
 
 ### MongoDB on Twitter
-- [twitter.com/MongoDB)](https://twitter.com/MongoDB)
+- [twitter.com/MongoDB](https://twitter.com/MongoDB)
 
 ### SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
