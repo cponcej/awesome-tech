@@ -576,6 +576,8 @@
 - [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
 - [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
 
+[![no dogma podcast](images/no_dogma_podcast.png)](http://nodogmapodcast.bryanhogan.net/)
+
 ### Cloud Computing Podcasts
 - [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
 	- [The Cloudcast](http://www.thecloudcast.net/)
