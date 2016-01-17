@@ -58,12 +58,12 @@
 	5. [Devops on Quora](https://www.quora.com/topic/DevOps)
 	6. [Dev2Ops.org](http://dev2ops.org/)
 	7. Linkedin Groups
-		1. [DevOps](https://www.linkedin.com/groups/2825397)
-		2. [Devops discussions](https://www.linkedin.com/groups/6585254)
+		- [DevOps](https://www.linkedin.com/groups/2825397)
+		- [Devops discussions](https://www.linkedin.com/groups/6585254)
 	8. Devops Podcasts
-		1. [The ship show](http://theshipshow.com/)
-		2. [Arrested Devops](http://theshipshow.com/)
-		3. [Devops Cafe](http://devopscafe.org/)
+		- [The ship show](http://theshipshow.com/)
+		- [Arrested Devops](http://theshipshow.com/)
+		- [Devops Cafe](http://devopscafe.org/)
 
 [![find a debug during the deploy](images/find_debug_during_deploy.gif)](http://devopsreactions.tumblr.com/)
 
