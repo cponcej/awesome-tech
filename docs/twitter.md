@@ -1,3 +1,51 @@
+<!-- MarkdownTOC -->
+
+- [Twitter Resources](#twitter-resources)
+	- [Paper.li Newspapers](#paperli-newspapers)
+		- [LinuxSec](#linuxsec)
+	- [IT Jobs on Twitter](#it-jobs-on-twitter)
+	- [Tech on Twitter](#tech-on-twitter)
+	- [DevOps on Twitter](#devops-on-twitter)
+	- [Scrum on Twitter](#scrum-on-twitter)
+	- [Git on Twitter](#git-on-twitter)
+	- [Ansible on Twitter](#ansible-on-twitter)
+	- [Puppet on Twitter](#puppet-on-twitter)
+	- [Chef on Twitter](#chef-on-twitter)
+	- [SaltStack on Twitter](#saltstack-on-twitter)
+	- [Docker on Twitter](#docker-on-twitter)
+	- [Jenkins on Twitter](#jenkins-on-twitter)
+	- [Travis on Twitter](#travis-on-twitter)
+	- [Leaders on Twitter](#leaders-on-twitter)
+	- [Cloud on Twitter](#cloud-on-twitter)
+		- [AWS on Twitter](#aws-on-twitter)
+		- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
+	- [Cloud9IDE and Odoo on Twitter](#cloud9ide-and-odoo-on-twitter)
+	- [Security on Twitter](#security-on-twitter)
+		- [Seguridad en Twitter](#seguridad-en-twitter)
+	- [Network Forensics on Twitter](#network-forensics-on-twitter)
+	- [Network Security on Twitter](#network-security-on-twitter)
+	- [Linux on Twitter](#linux-on-twitter)
+		- [Ubuntu](#ubuntu)
+	- [Red Hat on Twitter](#red-hat-on-twitter)
+	- [Microsoft on Twitter](#microsoft-on-twitter)
+	- [Apple on Twitter](#apple-on-twitter)
+	- [Google on Twitter](#google-on-twitter)
+	- [JBoss on Twitter](#jboss-on-twitter)
+	- [GlassFish on Twitter](#glassfish-on-twitter)
+	- [WebLogic on Twitter](#weblogic-on-twitter)
+	- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
+	- [Python on Twitter](#python-on-twitter)
+	- [Python Django on Twitter](#python-django-on-twitter)
+	- [Python and Data Science on Twitter](#python-and-data-science-on-twitter)
+	- [Java on Twitter](#java-on-twitter)
+	- [Frontend on Twitter](#frontend-on-twitter)
+	- [Selenium on Twitter](#selenium-on-twitter)
+	- [Podcasts on Twitter](#podcasts-on-twitter)
+	- [IBM, EMCcode on Twitter and github](#ibm-emccode-on-twitter-and-github)
+
+<!-- /MarkdownTOC -->
+
+
 # Twitter Resources
 
 ## Paper.li Newspapers
