@@ -416,3 +416,5 @@
 - [twitter.com/developerWorks](https://twitter.com/developerWorks)
 - [emccode.github.io](http://emccode.github.io)
 - [twitter.com/EMCcode](https://twitter.com/EMCcode)
+
+[![dreams of dali](images/dreams_of_dali.png)](http://www.dreamsofdali.org)
