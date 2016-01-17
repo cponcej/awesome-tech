@@ -103,6 +103,7 @@
 - [techstartupjobs.com](http://www.techstartupjobs.com/)
 - [tyba.com startup jobs](http://tyba.com/)
 - [careers.stackoverflow.com](http://careers.stackoverflow.com/)
+	- [twitter.com/StackDevJobs](https://twitter.com/StackDevJobs)
 - [jobandtalent.com](http://www.jobandtalent.com)
 - [twitter.com/RemoteWorkingCo](https://twitter.com/RemoteWorkingCo)
 - [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
