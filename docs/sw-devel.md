@@ -126,7 +126,7 @@
 - [Gobby: A Collaborative Text Editor](https://gobby.github.io/)
 - [SourceForge youtube: How to Use JSONViewer Notepad++ plugin](https://www.youtube.com/watch?v=5TcXJEuA1z4)
 
-[![how i feel after 15 years of vim](images/vim_after_15years.png)](https://youtu.be/PjeKA_ttPMU)
+[![how i feel after 15 years of vim](images/vim_after_15years.png)](https://www.youtube.com/watch?v=PjeKA_ttPMU&feature=youtu.be&t=31m15s)
 
 ### Sublime
 - [twitter.com/SublimeTxtTips](https://twitter.com/SublimeTxtTips)
