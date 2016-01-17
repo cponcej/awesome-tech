@@ -75,6 +75,7 @@
 - [Oracle Community](https://community.oracle.com)
 	- [Oracle Community - WebLogic](https://community.oracle.com/community/fusion_middleware/weblogic)
 - [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
+- [Unversioned.blogspot.gr](http://unversioned.blogspot.gr/) Open Source, Linux, Java, WebLogic, DevOps, FMW, SOA
 - [multikoop.blogspot.com - Practical experience on Oracle products. WebLogic, ADF, MAF, SOA, WebCenter, JDeveloper, Oracle Cloud](http://multikoop.blogspot.com)
 	- [multikoop.blogspot.com - WebLogic](http://multikoop.blogspot.com/search/label/weblogic)
 - [avanttic blog](http://blog.avanttic.com/)
