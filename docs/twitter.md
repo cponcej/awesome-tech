@@ -1,4 +1,8 @@
 # Twitter Resources
+
+## Paper.li Newspapers
+- [Linux Security Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
+
 ## IT Jobs on Twitter
 - [European IT Careers](https://twitter.com/EU_IT_Careers)
 
