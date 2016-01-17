@@ -133,6 +133,7 @@
 - [Wget: Resume Broken Download](http://www.cyberciti.biz/tips/wget-resume-broken-download.html)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [A curl cheat sheet](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
+- [How to use curl command with proxy username and password on Linux or Unix](http://www.cyberciti.biz/faq/linux-unix-curl-command-with-proxy-username-password-http-options/)
 - [DZone: Quickly Share a Folder Using HTTP On a Linux Host](https://dzone.com/articles/quickly-share-a-folder-using-http-on-a-linux-host)
 
 ### Linux storage
@@ -409,6 +410,14 @@
 		curl -LOC - url 
 		wget -c url
 
+- Is my HTTPD using Gzip?
+
+		curl -sILH 'Accept-Encoding: gzip,deflate' http://cyberciti.biz | grep Content-Encoding
+
+- Want to use the curl command with proxy username/password on Linux/Unix? 
+
+		curl -x usr:pwd@proxy:port url
+
 - You can use the text-based web browser to browse the Internet in console
 
 		w3m cyberciti.biz
@@ -421,10 +430,6 @@
 - [The following is Juniper screenOS authentication backdoor - master ssh password:](https://t.co/IQOGT33oTC)
 
 		<<< %s(un='%s') = %u
-
-- Is my HTTPD using Gzip?
-
-		curl -sILH 'Accept-Encoding: gzip,deflate' http://cyberciti.biz | grep Content-Encoding
 
 - [Want to list all iptables rules with line numbers? Try](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
 

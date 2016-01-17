@@ -212,6 +212,8 @@
 	- [Microservices in the Real World](https://www.youtube.com/watch?v=XG5sl_7Zi6k)
 - [redhat.com videos: Logging and Management for Microservices](http://www.redhat.com/en/about/videos/logging-and-management-microservices)
 - [rhelblog.redhat.com: Looking Back on Containers in 2015](http://rhelblog.redhat.com/2016/01/08/looking-back-on-containers-in-2015/)
+- [DZone/Integration: Apache Camel for Micro­service Architectures](https://dzone.com/articles/apache-camel-micro%C2%ADservice)
+	- [hawt.io: a modular web console for managing your Java stuff](http://hawt.io/)
 
 ![extraordinary](images/extraordinary.gif)
 

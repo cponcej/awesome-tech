@@ -164,10 +164,14 @@
 - [Hey Rails Developers (And Web Developers): Here's an Awesome Sublime Text Cheat Sheet Just For You](http://sublimetexttips.com/attention-rails-developers-and-web-developers-heres-an-awesome-sublime-text-cheat-sheet-just-for-you/)
 - [Sublime Text 3: Worth the upgrade?](http://sublimetexttips.com/sublime-text-3-worth-the-upgrade/)
 - [How to delete lines that start with a given set of characters](http://sublimetexttips.com/how-to-delete-lines-that-start-with-a-given-set-of-characters/)
+- [How to Add Sass Support in Sublime Text](http://sublimetexttips.com/how-to-add-sass-support-in-sublime-text/)
+	- [Sass, Syntactically Awesome Style Sheets (CSS)](http://sass-lang.com/)
 
 #### Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)
 - [Vagrant Environments](http://damnwidget.github.io/anaconda/vagrant/)
+
+[![release date](images/release_date.png)](http://dilbert.com)
 
 #### Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
@@ -269,6 +273,8 @@
 - [github: Python3 in one pic](https://github.com/coodict/python3-in-one-pic)
 - [reddit.com: Functions vs. Classes](https://www.reddit.com/r/learnpython/comments/40rieo/functions_vs_classes/)
 - [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
+- [reddit.com: Multiprocessing vs Threading?](https://www.reddit.com/r/learnpython/comments/418z8b/multiprocessing_vs_threading/)
+	- [Python Threads and the Global Interpreter Lock](http://jessenoller.com/blog/2009/02/01/python-threads-and-the-global-interpreter-lock)
 
 [![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
 
