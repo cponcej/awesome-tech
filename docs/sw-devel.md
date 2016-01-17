@@ -343,7 +343,7 @@
 - [Scrapy](http://scrapy.org/) An open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
 - [First web scraper](https://first-web-scraper.readthedocs.org) A step-by-step guide to writing a web scraper with Python.
 
-![web scraping with python](images/web_scraping_with_python.png)
+[![web scraping with python](images/web_scraping_with_python.png)](http://www.wowebook.org/web-scraping-with-python-collecting-data-from-the-modern-web.html)
 
 ### Jython 
 - [Jython is a language that makes it easy to create projects with libraries from Python and Java.](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20151112?pg=43#pg43)
