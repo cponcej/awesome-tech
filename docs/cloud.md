@@ -241,6 +241,7 @@
 
 ### AWS Backup and Recovery
 - [Quantum Taps AWS for Cloud-Powered Disaster Recovery](http://www.infostor.com/backup-and_recovery/quantum-taps-aws-for-cloud-powered-disaster-recovery.html)
+- [Linkedin discussion: Need help on Backup and restore methods of EC2 using s3 services](https://www.linkedin.com/groups/49531/49531-6093375473969090562)
 
 ### AWS BigData 
 - [blogs.aws.amazon.com/bigdata](http://blogs.aws.amazon.com/bigdata/)
