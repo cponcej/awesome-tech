@@ -98,6 +98,7 @@
 
 ## Big Data Security
 - [[2014] Big Data y Privacidad por Chema Alonso](https://youtu.be/_oeqjepFkEY)
+- [Panopticlick.eff.org: Is your browser safe against tracking?](https://panopticlick.eff.org/)
 
 ## Application Security: Web App Firewall. Blocking bots
 - [dzone.com - The 2015 DZone Guide to Application Security](http://bit.ly/1RksReA)
