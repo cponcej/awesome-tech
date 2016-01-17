@@ -9,6 +9,7 @@
 	- [Reddit](#reddit)
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
+		- [Devops Podcasts](#devops-podcasts)
 			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
 		- [Spanish podcasts](#spanish-podcasts)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
@@ -250,6 +251,11 @@
 	- [Top 5 The WHIR: Cloud Talks Podcasts for 2015](http://www.thewhir.com/blog/top-5-the-whir-cloud-talks-podcasts-for-2015)
 
 [![The Cloudcast](images/thecloudcast.png)](http://www.thecloudcast.net)
+
+### Devops Podcasts
+- [The ship show](http://theshipshow.com/)
+- [Arrested Devops](http://theshipshow.com/)
+- [Devops Cafe](http://devopscafe.org/)
 
 #### AWS Youtube channel and Podcasts
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)

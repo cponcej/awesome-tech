@@ -45,10 +45,25 @@
 - [devops.com](http://devops.com/)
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
 - [DZone/DevOps Zone](https://dzone.com/devops-tutorials-tools-news)
+- [DevOpsCube](http://devopscube.com/)
 - [DevOpsSummit Blog](http://devops.sys-con.com/)
 - [20 DevOps Leaders to Follow on Twitter](https://dzone.com/articles/20-devops-leaders-to-follow-on-twitter)
 - [redhat.com On-demand webinars about DevOps](http://www.redhat.com/en/about/events/devops-webinars)
 - [github: DevopsWiki](https://github.com/Leo-G/DevopsWiki) A wiki of Guides, Scripts, Tutorials related to devops
+- [List of DevOps Blogs and Resources for Learning](http://devopscube.com/list-of-devops-blogs-and-resources/)
+	1. [Dzone DevOps](https://dzone.com/devops-tutorials-tools-news)
+	2. [Devops.com](http://devops.com/)
+	3. [TechTarget Devops](http://www.techtarget.com/technology/DevOps)
+	4. [Devops Sub-Reddit](https://www.reddit.com/r/devops)
+	5. [Devops on Quora](https://www.quora.com/topic/DevOps)
+	6. [Dev2Ops.org](http://dev2ops.org/)
+	7. Linkedin Groups
+		1. [DevOps](https://www.linkedin.com/groups/2825397)
+		2. [Devops discussions](https://www.linkedin.com/groups/6585254)
+	8. Devops Podcasts
+		1. [The ship show](http://theshipshow.com/)
+		2. [Arrested Devops](http://theshipshow.com/)
+		3. [Devops Cafe](http://devopscafe.org/)
 
 [![find a debug during the deploy](images/find_debug_during_deploy.gif)](http://devopsreactions.tumblr.com/)
 
