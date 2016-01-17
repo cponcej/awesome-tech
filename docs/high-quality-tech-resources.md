@@ -61,6 +61,7 @@
 
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com](https://zeef.com)
+- [awesome-awesomeness.zeef.com](https://awesome-awesomeness.zeef.com)
 - [startup-resources.zeef.com](https://startup-resources.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 - [agile.zeef.com](https://agile.zeef.com)
@@ -112,9 +113,11 @@
 
 ## Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc
 - [Awesome List - A curated list of awesome lists](https://github.com/sindresorhus/awesome)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 - [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [awesome docker](https://github.com/veggiemonk/awesome-docker)
+- [Awesome Puppet](https://github.com/olindata/awesome-puppet)
 - [awesome big data](https://github.com/onurakpolat/awesome-bigdata)
 - [awesome openstack](http://ramitsurana.github.io/awesome-openstack/)
 - [awesome java](https://github.com/akullpp/awesome-java)
