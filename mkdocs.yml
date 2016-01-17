@@ -2,7 +2,7 @@ site_name: Awesome Tech
 pages:
 - Home: index.md
 - High quality tech resources and search engines: high-quality-tech-resources.md
-- Twitter resources: twitter.md
+- Twitter resources, Paper.li Newspapers: twitter.md
 - Miscellaneous. IT Blogs, Support: it-blogs.md
 - Startups, Jobs, In-Demand Skills, HR, Interviews: startups.md
 - Scalability and Reliability, Datacenters: scalability.md

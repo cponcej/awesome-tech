@@ -1,8 +1,8 @@
 <!-- MarkdownTOC -->
 
+- [Paper.li Newspapers](#paperli-newspapers)
+	- [Paper.li LinuxSec](#paperli-linuxsec)
 - [Twitter Resources](#twitter-resources)
-	- [Paper.li Newspapers](#paperli-newspapers)
-		- [LinuxSec](#linuxsec)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
 	- [Tech on Twitter](#tech-on-twitter)
 	- [DevOps on Twitter](#devops-on-twitter)
@@ -46,13 +46,12 @@
 <!-- /MarkdownTOC -->
 
 
-# Twitter Resources
-
-## Paper.li Newspapers
-### LinuxSec
+# Paper.li Newspapers
+## Paper.li LinuxSec
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
 - [#Linux Webserver #Security](http://paper.li/LinuxSec/1311793532)
 
+# Twitter Resources
 ## IT Jobs on Twitter
 - [European IT Careers](https://twitter.com/EU_IT_Careers)
 
