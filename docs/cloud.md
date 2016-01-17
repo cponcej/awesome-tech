@@ -119,6 +119,7 @@
 - [fortune.com: Red Hat and Mirantis, once an OpenStack couple, have split](http://fortune.com/2015/07/01/red-hat-and-mirantis-split/)
 - [linux.com: Get an OpenStack sandbox environment up and running with minimal or zero cost](https://www.linux.com/learn/tutorials/866101-how-to-test-drive-openstack)
 - [opensource.com: OpenStack News January 2016. Landing a Summit talk, troubleshooting Neutron, and more OpenStack news](https://opensource.com/business/16/1/openstack-news-january-11)
+- [opensource.com: An introduction to OpenStack clouds for beginners](https://opensource.com/business/16/1/scale14x-interview-anthony-chow)
 
 [![openstack cluster](images/openstack-cluster.png)](https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html)
 

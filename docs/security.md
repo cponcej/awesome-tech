@@ -11,6 +11,7 @@
 	- [Antivirus](#antivirus)
 	- [Database encryption](#database-encryption)
 	- [Identity Management](#identity-management)
+	- [Big Data Security](#big-data-security)
 	- [Application Security: Web App Firewall. Blocking bots](#application-security-web-app-firewall-blocking-bots)
 	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
 	- [Email security. Anti Spam protection](#email-security-anti-spam-protection)
@@ -94,6 +95,9 @@
 - [community.dell.com: Is there anything that is a bigger waste of IT time than password resets?](http://en.community.dell.com/techcenter/iam/b/weblog/archive/2015/07/06/when-it-comes-to-iam-the-simple-things-can-ruin-your-day)
 
 ![passwords](images/passwords.jpg)
+
+## Big Data Security
+- [[2014] Big Data y Privacidad por Chema Alonso](https://youtu.be/_oeqjepFkEY)
 
 ## Application Security: Web App Firewall. Blocking bots
 - [dzone.com - The 2015 DZone Guide to Application Security](http://bit.ly/1RksReA)

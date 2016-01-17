@@ -112,6 +112,7 @@
 	- [blackwasp.co.uk: Gang of Four Design Patterns](http://www.blackwasp.co.uk/gofpatterns.aspx)
 	- [Patrones del "Gang of Four". Facultad de Informática - Universidad Politécnica de Madrid](http://is.ls.fi.upm.es/docencia/proyecto/docs/patrones_gof.pdf)
 - [UML.org](http://www.uml.org/)
+- [ibm.com: UML basics: The class diagram](http://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/)
 - [DZone: The Model-View-ViewModel (MVVM) Pattern – Introduction](https://dzone.com/articles/the-mvvm-pattern-introduction)
 - [DZone: Model-View-Controller (MVC): The Basics](https://dzone.com/articles/model-view-controller-mvc-deep-dive)
 - [developers.redhat.com: Modern Java EE design patterns](http://developers.redhat.com/promotions/distributed-javaee-architecture/) Building Scalable Architecture for Sustainable Enterprise Development
