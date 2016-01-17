@@ -118,6 +118,8 @@
 - [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [awesome docker](https://github.com/veggiemonk/awesome-docker)
 - [Awesome Puppet](https://github.com/olindata/awesome-puppet)
+- [Awesome Ansible](https://github.com/jdauphant/awesome-ansible)
+- [Awesome Chef](https://github.com/obazoud/awesome-chef)
 - [awesome big data](https://github.com/onurakpolat/awesome-bigdata)
 - [awesome openstack](http://ramitsurana.github.io/awesome-openstack/)
 - [awesome java](https://github.com/akullpp/awesome-java)
