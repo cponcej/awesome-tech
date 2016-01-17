@@ -49,6 +49,10 @@
 # Paper.li Newspapers
 ## Paper.li LinuxSec
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
+	- [!tag-devops](http://paper.li/LinuxSec/1363957787#!tag-devops)
+	- [!tag-aws](http://paper.li/LinuxSec/1363957787#!tag-aws)
+	- [!technology](http://paper.li/LinuxSec/1363957787#!technology)
+	- [!science](http://paper.li/LinuxSec/1363957787#!science)
 - [#Linux Webserver #Security](http://paper.li/LinuxSec/1311793532)
 
 # Twitter Resources
