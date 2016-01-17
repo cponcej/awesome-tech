@@ -213,6 +213,7 @@
 - [dba.stackexchange.com](http://dba.stackexchange.com/)
 - [seniordba.wordpress.com](https://seniordba.wordpress.com/)
 - [sqlperformance.com](http://sqlperformance.com)
+- [blog.jooq.org](http://blog.jooq.org/) Java, SQL and jOOQ. Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ.
 
 ### SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
@@ -252,6 +253,7 @@
 - [craigkerstiens.com: Writing More Legible SQL](http://www.craigkerstiens.com/2016/01/08/writing-better-sql/)
 - [Are SQL Databases Dead?](http://www.iheavy.com/2013/12/30/sql-databases-dead/)
 - [Transactions: What commands aren’t allowed?](http://www.sqlservercentral.com/blogs/sqlstudies/2014/02/05/transactions-what-commands-arent-allowed/)
+- [Faster SQL Paging with jOOQ Using the Seek Method](http://blog.jooq.org/2013/10/26/faster-sql-paging-with-jooq-using-the-seek-method/)
 
 [![SQL Joins Visualizer](images/sql_joins_visualizer.png)](http://sql-joins.leopard.in.ua/)
 
@@ -409,6 +411,7 @@
 - [zdnet.com: SQL, NoSQL? What's the difference these days?](http://www.zdnet.com/article/sql-nosql-whats-the-difference-these-days/)
 - [NoSQL Databases: 4 Game-Changing Use Cases](http://www.smartdatacollective.com/kingmesal/373466/nosql-databases-4-game-changing-use-cases)
 - [blog.couchbase.com podcast: NoSQL in the Perspective of Industry Leaders](http://blog.couchbase.com/2016/january/nosql-in-the-perspective-of-industry-leaders)
+- [Query JSON Using SQL With Couchbase Query Workbench](https://dzone.com/articles/query-json-using-sql-with-couchbase-query-workbenc) Would you like to query a JSON document database using SQL-like syntax? Couchbase has N1QL for you.
 
 ![but why](images/but_why.gif)
 

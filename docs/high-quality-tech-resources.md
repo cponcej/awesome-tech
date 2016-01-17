@@ -354,6 +354,8 @@
 - [twitter.com/SecureDocker](https://twitter.com/SecureDocker)
 - [twitter.com/DockerSwarm](https://twitter.com/DockerSwarm)
 
+![new bash logo](images/stickers.png)]
+
 ## Jenkins on Twitter
 - [twitter.com/jenkinsci](https://twitter.com/jenkinsci)
 

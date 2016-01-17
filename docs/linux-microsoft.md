@@ -15,6 +15,7 @@
 		- [Linux backups](#linux-backups)
 		- [man pages on steroids with examples](#man-pages-on-steroids-with-examples)
 		- [Linux bash](#linux-bash)
+		- [Command line text manipulation tools](#command-line-text-manipulation-tools)
 		- [Linux Terminals](#linux-terminals)
 		- [Linux Virtualization](#linux-virtualization)
 		- [FOSS Software](#foss-software)
@@ -194,6 +195,13 @@
 - [Linux/UNIX: Convert Hexadecimal to Decimal Number](http://www.cyberciti.biz/faq/linux-unix-convert-hex-to-decimal-number/)
 - [A Shell Primer: Master Your Linux, OS X, Unix Shell Environment](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/)
 - [Monkeying around on the bash command line in 2016](http://www.computerworld.com/article/3018637/open-source-tools/monkeying-around-on-the-bash-command-line-in-2016.html)
+
+### Command line text manipulation tools 
+- [AWK](https://en.wikipedia.org/wiki/AWK)
+- [Sed](https://en.wikipedia.org/wiki/Sed)
+- [pyp: Python Power at the Prompt](https://code.google.com/p/pyp/)
+- [Hawk: Haskell text processor for the command-line](https://github.com/gelisam/hawk)
+- [Hwk: A Haskell based awk and sed alternative](https://github.com/lukasmartinelli/hwk)
 
 ### Linux Terminals
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)

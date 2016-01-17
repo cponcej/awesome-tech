@@ -30,6 +30,7 @@
 		- [Python code](#python-code)
 		- [Python and AWS](#python-and-aws)
 		- [Python Tools](#python-tools)
+			- [Web Scraping with Python](#web-scraping-with-python)
 		- [Jython](#jython)
 	- [Java](#java)
 		- [Java on Twitter](#java-on-twitter)
@@ -124,6 +125,8 @@
 - [javacodegeeks.com: My Development Environment Setup on Linux](http://www.javacodegeeks.com/2015/12/development-environment-setup-linux.html)
 - [Gobby: A Collaborative Text Editor](https://gobby.github.io/)
 - [SourceForge youtube: How to Use JSONViewer Notepad++ plugin](https://www.youtube.com/watch?v=5TcXJEuA1z4)
+
+[![how i feel after 15 years of vim](images/vim_after_15years.png)](https://youtu.be/PjeKA_ttPMU)
 
 ### Sublime
 - [twitter.com/SublimeTxtTips](https://twitter.com/SublimeTxtTips)
@@ -335,6 +338,12 @@
 - [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
 	- [PyInstaller official GIT repository](https://github.com/pyinstaller/pyinstaller/)
 - [ZipPy: Python3 on top of the JVM (faster than PyPy!)](https://bitbucket.org/ssllab/zippy)
+
+#### Web Scraping with Python
+- [Scrapy](http://scrapy.org/) An open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
+- [First web scraper](https://first-web-scraper.readthedocs.org) A step-by-step guide to writing a web scraper with Python.
+
+![web scraping with python](images/web_scraping_with_python.png)
 
 ### Jython 
 - [Jython is a language that makes it easy to create projects with libraries from Python and Java.](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20151112?pg=43#pg43)

@@ -138,6 +138,8 @@
 	- [craigslist.com](http://craigslist.com)
 - [huffingtonpost.com: 10 Best Freelance Sites To Find Jobs](http://www.huffingtonpost.com/larry-alton/10-best-freelance-sites-t_b_7445126.html)
 
+![the linkedin effect](images/linkedin_effect.jpg)
+
 ### Trabajos Freelance
 - [computerhoy.com: Las 10 mejores webs donde conseguir trabajo como freelance](http://computerhoy.com/listas/internet/8-mejores-webs-donde-conseguir-trabajo-como-freelance-8742)
 
