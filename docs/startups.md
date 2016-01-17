@@ -138,10 +138,10 @@
 	- [craigslist.com](http://craigslist.com)
 - [huffingtonpost.com: 10 Best Freelance Sites To Find Jobs](http://www.huffingtonpost.com/larry-alton/10-best-freelance-sites-t_b_7445126.html)
 
-![the linkedin effect](images/linkedin_effect.jpg)
-
 ### Trabajos Freelance
 - [computerhoy.com: Las 10 mejores webs donde conseguir trabajo como freelance](http://computerhoy.com/listas/internet/8-mejores-webs-donde-conseguir-trabajo-como-freelance-8742)
+
+![the linkedin effect](images/linkedin_effect.jpg)
 
 ## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
