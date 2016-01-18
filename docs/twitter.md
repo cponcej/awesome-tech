@@ -312,6 +312,8 @@
 ## GlassFish on Twitter
 - [twitter.com/glassfish](https://twitter.com/glassfish)
 
+[![firewalls](images/firewalls.png)](http://securityzap.com/juniper-backdoor-what-did-really-happen/)
+
 ## WebLogic on Twitter
 - [twitter.com/OracleWebLogic](https://twitter.com/OracleWebLogic)
 - [twitter.com/OracleMiddle](https://twitter.com/OracleMiddle)
