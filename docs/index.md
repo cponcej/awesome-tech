@@ -20,3 +20,5 @@
 16. [Cloud](cloud.md)
 17. [Desktop Tools and Presentations](desktop-tools.md)
 18. [E-Learning](e-learning.md)
+
+[![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)

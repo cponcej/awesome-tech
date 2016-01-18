@@ -267,8 +267,6 @@
 - [twitter.com/RedHatNL](https://twitter.com/RedHatNL)
 - [twitter.com/RedHat_France](https://twitter.com/RedHat_France)
 
-[![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
-
 ## Microsoft on Twitter
 - [twitter.com/microsoft](https://twitter.com/microsoft)
 - [twitter.com/Lumia](https://twitter.com/Lumia)
