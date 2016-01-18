@@ -679,6 +679,7 @@
 - [BlackWasp](http://www.blackwasp.co.uk/) This site is dedicated to providing articles, tips and tricks and useful software related to Windows-based "Smart Client" and enterprise software development using Microsoft programming technologies. These include the .NET Framework, Visual Studio, C# and Microsoft SQL Server.
 - [Windows Sysinternals](https://technet.microsoft.com/en-us/sysinternals)
 	- [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653)
+- [Windows Remote Management and WMI](https://msdn.microsoft.com/es-es/library/windows/desktop/aa384463%28v=vs.85%29.aspx)
 
 [![spiceworks](images/spiceworks-logo.png)](http://www.spiceworks.com/)
 
