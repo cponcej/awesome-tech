@@ -159,6 +159,7 @@
 - [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
 - [Ted Talks. Susan Cain: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts)
 - [Simon Sinek: If You Don't Understand People, You Don't Understand Business](https://youtu.be/llKvV8_T95M)
+- [Simon Sinek: Love Your Work](https://youtu.be/jDIZS4IQlQk)
 - [The 7 Habits of Highly Effective People](https://youtu.be/ktlTxC4QG8g)
 
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
