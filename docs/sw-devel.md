@@ -345,6 +345,7 @@
 - [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
 	- [PyInstaller official GIT repository](https://github.com/pyinstaller/pyinstaller/)
 - [ZipPy: Python3 on top of the JVM (faster than PyPy!)](https://bitbucket.org/ssllab/zippy)
+- [DictMySQL: A MySQL class for more convenient database manipulation with Python dictionary](https://github.com/ligyxy/DictMySQL)
 
 #### Web Scraping with Python
 - [Scrapy](http://scrapy.org/) An open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
@@ -462,6 +463,7 @@
 ### Oracle JET
 - [community.oracle.com - Oracle JET: Getting Started With Modern Web Development.](https://community.oracle.com/docs/DOC-984517) Oracle JET promises to be an enterprise-grade framework for end-to-end client-side web application development.
 - [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
+- [JavaScript Extension Toolkit (Oracle JET) by Rubén Rodríguez Santiago](http://weblogiccommunity.com/2016/01/18/javascript-extension-toolkit-oracle-jet-by-rubn-rodrguez-santiago/)
 
 ### JSON
 - [json.org](http://json.org/)

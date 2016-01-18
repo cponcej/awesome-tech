@@ -38,7 +38,7 @@
 # Cloud
 - [Cloud automation should be the heart of enterprise support -- it will decrease downtime, increase flexibility, and dramatically improve your provider’s ability to rapidly respond to service requests](https://www.linkedin.com/pulse/uk-cios-dissatisfied-cloud-providers-ryan-kroonenburg)
 - [Netflix: Linux performance analysis in 60 seconds](http://www.infoworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
-- [9 enterprise tech trends for 2016 and beyond](http://www.infoworld.com/article/3007057/cloud-computing/9-enterprise-tech-trends-for-2016-and-beyond.html)
+- [Three things to remember when moving to the cloud in 2016](http://www.zdnet.com/article/three-things-to-remember-when-moving-to-the-cloud-in-2016/) Switching to cloud-based services can create flexibility -- but the move is not necessarily without its own challenges.
 
 ## Cloud Bogs
 - [Thoughts On Cloud](http://www.thoughtsoncloud.com/)
