@@ -390,6 +390,8 @@
 - [twitter.com/javanetbuzz](https://twitter.com/javanetbuzz)
 - [Java TV: Tutorials & Videos](https://twitter.com/javatv)
 
+[![simon sinek facebook](images/simonsinek_facebook_taking_care.png)](https://www.facebook.com/simonsinek/)
+
 ## Frontend on Twitter
 - [twitter.com/getbootstrap](https://twitter.com/getbootstrap)
 - [twitter.com/nodejs](https://twitter.com/nodejs)
