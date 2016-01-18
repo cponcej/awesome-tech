@@ -290,6 +290,8 @@
 - [twitter.com/AppleiDeas](https://twitter.com/AppleiDeas)
 - [twitter.com/applediscounts_](https://twitter.com/applediscounts_)
 
+[![susan cain](images/susan_cain.png)](https://www.linkedin.com/in/susancain)
+
 ## Google on Twitter
 - [twitter.com/google](https://twitter.com/google)
 - [twitter.com/googlechrome](https://twitter.com/googlechrome)
