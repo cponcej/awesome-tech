@@ -292,6 +292,8 @@
 - [twitter.com/AppleiDeas](https://twitter.com/AppleiDeas)
 - [twitter.com/applediscounts_](https://twitter.com/applediscounts_)
 
+[![dilbert sales](images/dilbert_sales.jpg)](http://dilbert.com/)
+
 ## Google on Twitter
 - [twitter.com/google](https://twitter.com/google)
 - [twitter.com/googlechrome](https://twitter.com/googlechrome)
