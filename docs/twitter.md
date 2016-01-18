@@ -276,6 +276,8 @@
 - [twitter.com/Office](https://twitter.com/Office)
 - [twitter.com/Windows](https://twitter.com/Windows)
 
+[![hot potato windows privilege escalation](images/hot_potato.png)](http://foxglovesecurity.com/2016/01/16/hot-potato/)
+
 ## Apple on Twitter
 - [twitter.com/tim_cook](https://twitter.com/tim_cook)
 - [twitter.com/iPadPro](https://twitter.com/iPadPro)
