@@ -183,6 +183,8 @@
 - [The Great Outdoors Stack Exchange](http://outdoors.stackexchange.com/)
 - [Space Exploration Stack Exchange](http://space.stackexchange.com/)
 
+[![Stackoverflow is down](images/stackoverflow_down.png)](http://stackoverflow.com/)
+
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
 	- [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
@@ -294,6 +296,7 @@
 ## Webcomics
 - [commitstrip.com](http://www.commitstrip.com)
 - [dilbert.com](http://dilbert.com/)
+- [Geek & Poke](http://geek-and-poke.com)
 
 ## Reactions. When words aren't enough, say it with animations
 - [Infosec Reactions](http://securityreactions.tumblr.com/)
