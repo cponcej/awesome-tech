@@ -39,6 +39,8 @@
 - [Performance](https://dzone.com/apm-tools-performance-monitoring-optimization)
 - [Web Dev](https://dzone.com/web-development-programming-tutorials-tools-news)
 
+[![dzone](images/logo-dzone.png)](https://dzone.com)
+
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com](https://zeef.com)
 - [awesome-awesomeness.zeef.com](https://awesome-awesomeness.zeef.com)
