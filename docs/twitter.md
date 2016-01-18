@@ -51,6 +51,8 @@
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
 - [#Linux Webserver #Security](http://paper.li/LinuxSec/1311793532)
 
+[![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
+
 # Twitter Resources
 ## IT Jobs on Twitter
 - [European IT Careers](https://twitter.com/EU_IT_Careers)
