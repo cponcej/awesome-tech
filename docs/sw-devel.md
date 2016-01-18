@@ -74,9 +74,10 @@
 - [The Developer Struggle is Real: What Our Family and Friends Think We Do](https://dzone.com/articles/the-developer-struggle-is-real-what-our-family-and) What our friends and family think we do is quite different from what we actually do. Their misconceptions lead to hilarious exchanges.
 
 ## Blogs and Forums
+- [DZone](http://dzone.com)
+	- [DZone Refcardz](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
 - [DZone/Integration Zone](https://dzone.com/enterprise-integration-training-tools-news)
 - [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
-- [DZone](http://dzone.com)
 - [twitter.com/devbattles](https://twitter.com/devbattles)
 	- [devbattles.com](http://www.devbattles.com)
 - [javacodegeeks.com](http://javacodegeeks.com/)
