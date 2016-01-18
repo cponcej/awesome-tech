@@ -269,6 +269,7 @@
 - [conn-check, a deployment utility to check connectivity between services](http://conn-check.org/)
 - [tc command: adds latency to NIC for testing purposes](http://bencane.com/2012/07/16/tc-adding-simulated-network-latency-to-your-linux-server/)
 - ['traceroute' in Linux is like 'route get' in Solaris](http://www.cyberciti.biz/faq/traceroute-tracepath-unix-linux-command/)
+- [Using TCP Traceroute on Windows And Linux](https://support.logicboxes.com/helpdesk/index.php?/Knowledgebase/Article/View/11/37/using-tcp-traceroute-on-windows-and-linux) TCPTraceroute to trace a path through the network, using a specific TCP port number. This tool is very useful for determining if a port is being blocked by a firewall. If it is being blocked, we can get an idea of where it is being blocked.
 - [tracepath: What's the difference between traceroute and tracepath?](https://www.quora.com/Whats-the-difference-between-traceroute-and-tracepath)
 - [LHN: linuxhomenetworking.com](http://www.linuxhomenetworking.com/)
 	- [Quick HOWTO : Ch03 : Linux Networking](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch03_:_Linux_Networking)
@@ -317,6 +318,8 @@
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
 
 [![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
+
+[![tcptraceroute](images/tcptraceroute.png)](https://youtu.be/Z1IoXIxLJVE)
 
 ## Vim and Emacs
 ### Vim
