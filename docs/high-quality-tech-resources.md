@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
+	- [DZone](#dzone)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
@@ -20,6 +21,23 @@
 
 
 # High quality tech resources and search engines
+
+## DZone
+- [DZone](https://dzone.com) Over a million developers have joined DZone
+- [Refcard](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
+- [Guides](https://dzone.com/guides)
+- [Zones](https://dzone.com/portals)
+- [Agile](https://dzone.com/agile-methodology-training-tools-news)
+- [Big Data](https://dzone.com/big-data-analytics-tutorials-tools-news)
+- [Cloud](https://dzone.com/cloud-computing-tutorials-tools-news)
+- [Database](https://dzone.com/cloud-computing-tutorials-tools-news)
+- [DevOps](https://dzone.com/devops-tutorials-tools-news)
+- [Integration](https://dzone.com/enterprise-integration-training-tools-news)
+- [IOT](https://dzone.com/iot-developer-tutorials-tools-news-reviews)
+- [Java](https://dzone.com/java-jdk-development-tutorials-tools-news)
+- [Mobile](https://dzone.com/mobile-app-developer-tutorials-tools-news)
+- [Performance](https://dzone.com/apm-tools-performance-monitoring-optimization)
+- [Web Dev](https://dzone.com/web-development-programming-tutorials-tools-news)
 
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com](https://zeef.com)
