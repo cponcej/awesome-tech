@@ -154,6 +154,7 @@
 - [twitter.com/DanielPink](https://twitter.com/DanielPink)
 - [twitter.com/Inc](https://twitter.com/Inc)
 - [facebook.com/ldavidmarquet](https://www.facebook.com/ldavidmarquet/)
+- [Susan Cain](https://twitter.com/susancain)
 - [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
 
 ## Cloud on Twitter
