@@ -51,7 +51,7 @@
 
 [![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
 
-![boss vs leader](images/boss_vs_leader.png)
+[![boss vs leader](images/boss_vs_leader.png)](http://www.presentationgo.com/presentation/differences-boss-leader-powerpoint/)
 
 ## Job Search
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
