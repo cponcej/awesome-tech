@@ -183,7 +183,7 @@
 - [The Great Outdoors Stack Exchange](http://outdoors.stackexchange.com/)
 - [Space Exploration Stack Exchange](http://space.stackexchange.com/)
 
-[![Stackoverflow is down](images/stackoverflow_down.png)](http://stackoverflow.com/)
+[![Stackoverflow is down](images/stackoverflow_down.png)](http://priceonomics.com/stack-overflow-and-the-zeitgeist-of-computer/)
 
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
