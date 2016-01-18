@@ -99,3 +99,4 @@
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
 - [springboard.com - Learn Data Science & UX Design online](https://www.springboard.com)
 
+[![dilbert sales](images/dilbert_sales.jpg)](http://dilbert.com/)
