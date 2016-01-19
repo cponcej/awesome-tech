@@ -449,6 +449,10 @@
 		multipath -f map # Flush a multipath devicemap 
 		echo 1>/sys/block/sdc/device/delete # Delete sdc
 
+- List both running privileged and unprivileged lxc containers: 
+
+		netstat -ax | egrep '@.*/lxc/.*/command$'		
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 # Red Hat
