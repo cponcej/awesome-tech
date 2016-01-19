@@ -3,6 +3,7 @@
 
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
+	- [Trabajar por el mundo](#trabajar-por-el-mundo)
 		- [Barcelona startups](#barcelona-startups)
 		- [Madrid startups](#madrid-startups)
 	- [Job Search](#job-search)
@@ -36,6 +37,10 @@
 - [insideanalysis.com: 10 Companies and Technologies to Watch in 2016](http://insideanalysis.com/2016/01/20535/)
 - [startup-resources.zeef.com](https://startup-resources.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
+
+## Trabajar por el mundo
+- [trabajarporelmundo.org/](http://trabajarporelmundo.org/)
+	- [Tips para crear un buen curriculum para trabajar en Londres](http://trabajarporelmundo.org/tips-para-crear-un-buen-curriculum-para-trabajar-en-londres/)
 
 ### Barcelona startups
 - [Barcinno.com: Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
@@ -109,6 +114,7 @@
 - [jobandtalent.com](http://www.jobandtalent.com)
 - [twitter.com/RemoteWorkingCo](https://twitter.com/RemoteWorkingCo)
 - [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
+- [43 Best Job Search Websites 2016](http://careersherpa.net/43-best-job-search-websites-2016/)
 
 ![richard branson](images/richardbranson.jpg)
 
@@ -148,9 +154,11 @@
 
 ## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
+- [The Best Tech Skills to List on Your Resume](http://www.businessnewsdaily.com/4932-tech-skills-resume.html)
 
 ## Human Resources
 - [careerealism.com](http://www.careerealism.com/)
+- [careersherpa.net](http://careersherpa.net)
 - [hbr.org: Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
