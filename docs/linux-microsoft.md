@@ -471,6 +471,7 @@
 - [Red Hat Stack | An OpenStack Blog](http://redhatstackblog.redhat.com/)
 - [Open Studio](http://openstudio.redhat.com/)
 	- [Open Source stories. Telling stories about the open source way](http://www.redhat.com/en/open-source/stories)
+- [middlewareblog.redhat.com](http://middlewareblog.redhat.com)
 - [ossmentor.com](http://www.ossmentor.com)
 - [Fedora Magazine](http://fedoramagazine.org/)
 - [Red Hat Developer Blog](http://developerblog.redhat.com)
