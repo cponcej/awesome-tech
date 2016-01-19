@@ -34,6 +34,7 @@
 		- [Jython](#jython)
 	- [Java](#java)
 		- [Java on Twitter](#java-on-twitter)
+		- [Java Blogs](#java-blogs)
 		- [Java refs](#java-refs)
 	- [Swift](#swift)
 	- [C programming](#c-programming)
@@ -41,6 +42,7 @@
 	- [Front end development](#front-end-development)
 		- [Web developer tools](#web-developer-tools)
 		- [Frontend on Twitter](#frontend-on-twitter)
+		- [Frontend Blogs](#frontend-blogs)
 		- [javascript/node.js](#javascriptnodejs)
 		- [HTML5](#html5)
 		- [Oracle JET](#oracle-jet)
@@ -369,14 +371,20 @@
 - [twitter.com/javacodegeeks](https://twitter.com/javacodegeeks)
 - [twitter.com/Java_EE](https://twitter.com/Java_EE)
 
+### Java Blogs
+- [vladmihalcea.com](http://vladmihalcea.com) 
+- [blog.eisele.net](http://blog.eisele.net)
+- [Java Advent Blog](http://www.javaadvent.com/)
+- [codejava.net](http://www.codejava.net/)
+- [javacodegeeks.com](http://www.javacodegeeks.com)
+- [DZone/Java](https://dzone.com/java-jdk-development-tutorials-tools-news)
+- [genbetadev.com: java-j2ee](http://www.genbetadev.com/categoria/java-j2ee)
+
 ### Java refs
 - [blog.eisele.net: A Refresher - Top 10 Java EE 7 Backend Features](http://blog.eisele.net/2015/12/a-refresher-top-10-java-ee-7-backend.html)
-- [codejava.net](http://www.codejava.net/)
-	- [Spring Web MVC Security Basic Example Part 1 with XML Configuration](http://www.codejava.net/frameworks/spring/spring-web-mvc-security-basic-example-part-1-with-xml-configuration)
-- [genbetadev.com: java-j2ee](http://www.genbetadev.com/categoria/java-j2ee)
+- [codejava.net: Spring Web MVC Security Basic Example Part 1 with XML Configuration](http://www.codejava.net/frameworks/spring/spring-web-mvc-security-basic-example-part-1-with-xml-configuration)
 - [genbetadev.com: Herramientas imprescindibles para un desarrollador de Java (2011)](http://www.genbetadev.com/java-j2ee/herramientas-imprescindibles-para-un-desarrollador-de-java)
 - [JavaOne 2015](https://www.youtube.com/playlist?list=PLPIzp-E1msrZz6RNdbDiK0nKuxAUZPs77)
-- [Java Advent Blog](http://www.javaadvent.com/)
 - [javacodegeeks.com: Top 10 Books For Advanced Level Java Developers](http://www.javacodegeeks.com/2013/09/top-10-books-for-advanced-level-java-developers.html)
 - [javacodegeeks.com: What’s new in Java 8](http://www.javacodegeeks.com/2013/09/whats-new-in-java-8-part-i-javafx.html)
 - [Java EE 6 Cookbook for Securing, Tuning, and Extending Enterprise Applications--Free 60 Page Excerpt](http://javacodegeeks.tradepub.com/free/w_pack28/)
@@ -429,6 +437,10 @@
 - [twitter.com/getbootstrap](https://twitter.com/getbootstrap)
 - [twitter.com/nodejs](https://twitter.com/nodejs)
 - [twitter.com/angularjs](https://twitter.com/angularjs)
+
+### Frontend Blogs
+- [webcodegeeks.com](http://www.webcodegeeks.com)
+- [DZone/Web Dev](https://dzone.com/web-development-programming-tutorials-tools-news)
 
 ### javascript/node.js
 - [5 Awesome Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/11/5-awesome-tutorials-to-kick-start-your-web-programming-projects.html)

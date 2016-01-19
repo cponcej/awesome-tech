@@ -304,7 +304,8 @@
 - [SQL Server Distinguishing Access and Filter-Predicates](http://use-the-index-luke.com/sql/explain-plan/sql-server/filter-predicates)
 - [Pagination done the PostgreSQL Way. Works also in other DBs, but not that simple](http://use-the-index-luke.com/blog/2013-07/pagination-done-the-postgresql-way)
 - [What’s left of NoSQL?](http://use-the-index-luke.com/blog/2013-04/whats-left-of-nosql)
-- [bind parameters and execution plan caching](http://use-the-index-luke.com/blog/2011-07-16/planning-for-reuse)
+- [Bind parameters and execution plan caching](http://use-the-index-luke.com/blog/2011-07-16/planning-for-reuse)
+- [Bind parameters are the #1 defense against SQL injection attacks. But they also affect performance—mostly positive!](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
 - [How sorting and grouping works SQL databases and how to improve performance](http://use-the-index-luke.com/sql/sorting-grouping)
 
 [![use the index luke](images/use_the_index_luke.png)](http://use-the-index-luke.com/)
