@@ -51,7 +51,15 @@
 ## Paper.li LinuxSec
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
 - [#Linux Webserver #Security](http://paper.li/LinuxSec/1311793532)
-- [The Red Hat Daily](https://paper.li/inafev/1453046224)
+- [The red hat Daily](https://paper.li/inafev/1453198556)
+- [The DevOps Daily](https://paper.li/inafev/1453199374)
+- [The docker Daily](https://paper.li/inafev/1453199034)
+- [The Ansible Daily](https://paper.li/inafev/1453199582)
+- [The Python Daily](https://paper.li/inafev/1453047537)
+- [El diario de Red Hat](https://paper.li/inafev/1453046224)
+- [El diario de DevOps](https://paper.li/inafev/1453199191)
+- [El diario de Docker](https://paper.li/inafev/1453198883)
+
 
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
