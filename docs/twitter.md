@@ -2,6 +2,7 @@
 
 - [Paper.li Newspapers](#paperli-newspapers)
 	- [Paper.li LinuxSec](#paperli-linuxsec)
+	- [My own Paper.li](#my-own-paperli)
 - [Twitter Resources](#twitter-resources)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
 	- [Tech on Twitter](#tech-on-twitter)
@@ -51,6 +52,8 @@
 ## Paper.li LinuxSec
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
 - [#Linux Webserver #Security](http://paper.li/LinuxSec/1311793532)
+
+## My own Paper.li
 - [The red hat Daily](https://paper.li/inafev/1453198556)
 - [The DevOps Daily](https://paper.li/inafev/1453199374)
 - [The docker Daily](https://paper.li/inafev/1453199034)
