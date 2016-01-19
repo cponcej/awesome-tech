@@ -171,6 +171,7 @@
 - [How to delete lines that start with a given set of characters](http://sublimetexttips.com/how-to-delete-lines-that-start-with-a-given-set-of-characters/)
 - [How to Add Sass Support in Sublime Text](http://sublimetexttips.com/how-to-add-sass-support-in-sublime-text/)
 	- [Sass, Syntactically Awesome Style Sheets (CSS)](http://sass-lang.com/)
+- [Save your clicks by taking charge of Sublime’s menus](http://sublimetexttips.com/save-your-clicks-by-taking-charge-of-sublimes-menus/)
 
 #### Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)
