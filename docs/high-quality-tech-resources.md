@@ -2,12 +2,12 @@
 <!-- MarkdownTOC -->
 
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
-	- [DZone](#dzone)
-	- [Java Code Geeks](#java-code-geeks)
-	- [Web Code Geeks](#web-code-geeks)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
+	- [DZone](#dzone)
+	- [Java Code Geeks](#java-code-geeks)
+	- [Web Code Geeks](#web-code-geeks)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 	- [Reddit](#reddit)
 	- [Podcasts](#podcasts)
@@ -23,54 +23,6 @@
 
 
 # High quality tech resources and search engines
-
-## DZone
-- [DZone](https://dzone.com) Over a million developers have joined DZone
-- [Refcard](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
-- [Guides](https://dzone.com/guides)
-- [Zones](https://dzone.com/portals)
-- [Agile](https://dzone.com/agile-methodology-training-tools-news)
-- [Big Data](https://dzone.com/big-data-analytics-tutorials-tools-news)
-- [Cloud](https://dzone.com/cloud-computing-tutorials-tools-news)
-- [Database](https://dzone.com/cloud-computing-tutorials-tools-news)
-- [DevOps](https://dzone.com/devops-tutorials-tools-news)
-- [Integration](https://dzone.com/enterprise-integration-training-tools-news)
-- [IOT](https://dzone.com/iot-developer-tutorials-tools-news-reviews)
-- [Java](https://dzone.com/java-jdk-development-tutorials-tools-news)
-- [Mobile](https://dzone.com/mobile-app-developer-tutorials-tools-news)
-- [Performance](https://dzone.com/apm-tools-performance-monitoring-optimization)
-- [Web Dev](https://dzone.com/web-development-programming-tutorials-tools-news)
-
-[![dzone](images/logo-dzone.png)](https://dzone.com)
-
-## Java Code Geeks
-- [javacodegeeks.com](http://www.javacodegeeks.com/)
-- [Android](http://www.javacodegeeks.com/category/android/)
-- [Java](http://www.javacodegeeks.com/category/java/)
-- [JVM Languages](http://www.javacodegeeks.com/category/jvm-languages/)
-- [Software Development](http://www.javacodegeeks.com/category/software-development/)
-- [Agile](http://www.javacodegeeks.com/category/agile/)
-- [Career](http://www.javacodegeeks.com/category/career/)
-- [Communications](http://www.javacodegeeks.com/category/communications/)
-- [DevOps](http://www.javacodegeeks.com/category/devops/)
-- [Meta JCG](http://www.javacodegeeks.com/category/meta-jcg/)
-
-## Web Code Geeks
-- [webcodegeeks.com](http://www.webcodegeeks.com/)
-- [ASP.Net](http://www.webcodegeeks.com/category/asp-net/)
-- [Cloud](http://www.webcodegeeks.com/category/cloud/)
-- [CSS](http://www.webcodegeeks.com/category/css/)
-- [DevOps](http://www.webcodegeeks.com/category/devops/)
-- [HTML5](http://www.webcodegeeks.com/category/html5/)
-- [Javascript](http://www.webcodegeeks.com/category/javascript/)
-- [Nosql](http://www.webcodegeeks.com/category/nosql/)
-- [PHP](http://www.webcodegeeks.com/category/php/)
-- [Python](http://www.webcodegeeks.com/category/python/)
-- [Ruby](http://www.webcodegeeks.com/category/ruby/)
-- [Web Dev](http://www.webcodegeeks.com/category/web-development/)
-- [Web Server](http://www.webcodegeeks.com/category/web-servers/)
-- [Wordpress](http://www.webcodegeeks.com/category/wordpress/)
-- [Meta WCG](http://www.webcodegeeks.com/category/meta-wcg/)
 
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com](https://zeef.com)
@@ -216,6 +168,54 @@
 - [Space Exploration Stack Exchange](http://space.stackexchange.com/)
 
 [![Stackoverflow is down](images/stackoverflow_down.png)](http://priceonomics.com/stack-overflow-and-the-zeitgeist-of-computer/)
+
+## DZone
+- [DZone](https://dzone.com) Over a million developers have joined DZone
+- [Refcard](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
+- [Guides](https://dzone.com/guides)
+- [Zones](https://dzone.com/portals)
+- [Agile](https://dzone.com/agile-methodology-training-tools-news)
+- [Big Data](https://dzone.com/big-data-analytics-tutorials-tools-news)
+- [Cloud](https://dzone.com/cloud-computing-tutorials-tools-news)
+- [Database](https://dzone.com/cloud-computing-tutorials-tools-news)
+- [DevOps](https://dzone.com/devops-tutorials-tools-news)
+- [Integration](https://dzone.com/enterprise-integration-training-tools-news)
+- [IOT](https://dzone.com/iot-developer-tutorials-tools-news-reviews)
+- [Java](https://dzone.com/java-jdk-development-tutorials-tools-news)
+- [Mobile](https://dzone.com/mobile-app-developer-tutorials-tools-news)
+- [Performance](https://dzone.com/apm-tools-performance-monitoring-optimization)
+- [Web Dev](https://dzone.com/web-development-programming-tutorials-tools-news)
+
+[![dzone](images/logo-dzone.png)](https://dzone.com)
+
+## Java Code Geeks
+- [javacodegeeks.com](http://www.javacodegeeks.com/)
+- [Android](http://www.javacodegeeks.com/category/android/)
+- [Java](http://www.javacodegeeks.com/category/java/)
+- [JVM Languages](http://www.javacodegeeks.com/category/jvm-languages/)
+- [Software Development](http://www.javacodegeeks.com/category/software-development/)
+- [Agile](http://www.javacodegeeks.com/category/agile/)
+- [Career](http://www.javacodegeeks.com/category/career/)
+- [Communications](http://www.javacodegeeks.com/category/communications/)
+- [DevOps](http://www.javacodegeeks.com/category/devops/)
+- [Meta JCG](http://www.javacodegeeks.com/category/meta-jcg/)
+
+## Web Code Geeks
+- [webcodegeeks.com](http://www.webcodegeeks.com/)
+- [ASP.Net](http://www.webcodegeeks.com/category/asp-net/)
+- [Cloud](http://www.webcodegeeks.com/category/cloud/)
+- [CSS](http://www.webcodegeeks.com/category/css/)
+- [DevOps](http://www.webcodegeeks.com/category/devops/)
+- [HTML5](http://www.webcodegeeks.com/category/html5/)
+- [Javascript](http://www.webcodegeeks.com/category/javascript/)
+- [Nosql](http://www.webcodegeeks.com/category/nosql/)
+- [PHP](http://www.webcodegeeks.com/category/php/)
+- [Python](http://www.webcodegeeks.com/category/python/)
+- [Ruby](http://www.webcodegeeks.com/category/ruby/)
+- [Web Dev](http://www.webcodegeeks.com/category/web-development/)
+- [Web Server](http://www.webcodegeeks.com/category/web-servers/)
+- [Wordpress](http://www.webcodegeeks.com/category/wordpress/)
+- [Meta WCG](http://www.webcodegeeks.com/category/meta-wcg/)
 
 ## stackshare.io: Discover and discuss the best software tools and services
 - [stackshare.io](http://stackshare.io/)
