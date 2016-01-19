@@ -22,6 +22,7 @@
 	- [Cloud9IDE and Odoo on Twitter](#cloud9ide-and-odoo-on-twitter)
 	- [Security on Twitter](#security-on-twitter)
 		- [Seguridad en Twitter](#seguridad-en-twitter)
+		- [Firewalls on Twitter](#firewalls-on-twitter)
 	- [Network Forensics on Twitter](#network-forensics-on-twitter)
 	- [Network Security on Twitter](#network-security-on-twitter)
 	- [Linux on Twitter](#linux-on-twitter)
@@ -211,6 +212,11 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136960409675" data-did="406ff527f71d482429b92a84fe7ed5c8c507cfd5"><a href="http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior">http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
+### Firewalls on Twitter
+- [twitter.com/dellsecurity](https://twitter.com/dellsecurity)
+- [twitter.com/Fortinet](https://twitter.com/Fortinet)
+	- [twitter.com/fortiguardlabs](https://twitter.com/fortiguardlabs)
+
 ## Network Forensics on Twitter
 - [twitter.com/LauraChappell](https://twitter.com/LauraChappell)
 - [twitter.com/WiresharkNews](https://twitter.com/WiresharkNews)
@@ -275,8 +281,6 @@
 - [twitter.com/Lumia](https://twitter.com/Lumia)
 - [twitter.com/Office](https://twitter.com/Office)
 - [twitter.com/Windows](https://twitter.com/Windows)
-
-[![hot potato windows privilege escalation](images/hot_potato.png)](http://foxglovesecurity.com/2016/01/16/hot-potato/)
 
 ## Apple on Twitter
 - [twitter.com/tim_cook](https://twitter.com/tim_cook)

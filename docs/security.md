@@ -3,6 +3,7 @@
 
 - [Security](#security)
 	- [Security Blogs](#security-blogs)
+		- [Blogs de Seguridad Informática](#blogs-de-seguridad-informática)
 		- [Network Security](#network-security)
 	- [Security on Twitter](#security-on-twitter)
 		- [Seguridad en Twitter](#seguridad-en-twitter)
@@ -36,7 +37,10 @@
 - [eweek.com/security](http://www.eweek.com/security/)
 - [CSO: Security news, features and analysis about prevention, protection and business innovation](http://www.csoonline.com/)
 - [peerlyst](https://www.peerlyst.com/) Professional Community platform for Information Security
+
+### Blogs de Seguridad Informática
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)
+- [hackplayers.com](http://www.hackplayers.com)
 - [seguridadapple.com](http://www.seguridadapple.com)
 
 ### Network Security
@@ -163,5 +167,8 @@
 	- [ZDNet: LastPass phishing attack avoids two-factor authentication in data theft](http://www.zdnet.com/article/lastpass-phishing-attack-avoids-two-factor-authentication-to-steal-your-data/) The exploited security flaw is severe enough that successful attacks compromise two-factor authentication codes.
 - [New attacks on Network Time Protocol can defeat HTTPS and create chaos](http://arstechnica.com/security/2015/10/new-attacks-on-network-time-protocol-can-defeat-https-and-create-chaos/)
 - [Hot Potato – Windows Privilege Escalation](http://foxglovesecurity.com/2016/01/16/hot-potato/)
+- [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments
+
+[![hot potato windows privilege escalation](images/hot_potato.png)](http://foxglovesecurity.com/2016/01/16/hot-potato/)
 
 [![intrusion response procedures](images/intrusion_response_procedures.png)](https://twitter.com/nixcraft)

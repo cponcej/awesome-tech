@@ -6,7 +6,8 @@
 		- [Dell SonicWall TZ Series 5th Generation. Escrito en primavera 2015](#dell-sonicwall-tz-series-5th-generation-escrito-en-primavera-2015)
 		- [Dell SonicWall TotalSecure and CGSS Bundles](#dell-sonicwall-totalsecure-and-cgss-bundles)
 		- [Dell SonicWall TZ Series 6th Generation](#dell-sonicwall-tz-series-6th-generation)
-		- [ Dell SonicWALL WAN Acceleration Appliance (WAN optimization)](#-dell-sonicwall-wan-acceleration-appliance-wan-optimization)
+		- [Dell SonicWALL WAN Acceleration Appliance (WAN optimization)](#dell-sonicwall-wan-acceleration-appliance-wan-optimization)
+		- [Fortinet](#fortinet)
 	- [Switches](#switches)
 	- [Network virtualization. Software Defined Networking (SDN)](#network-virtualization-software-defined-networking-sdn)
 	- [IPv6](#ipv6)
@@ -84,8 +85,13 @@
 
 [![Dell SonicWall TZ500 Management Monitor](images/Dell-SonicWall-TZ500-Management-Monitor.png)](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
 
-###  Dell SonicWALL WAN Acceleration Appliance (WAN optimization)
+### Dell SonicWALL WAN Acceleration Appliance (WAN optimization)
 - [community.dell.com: Accelerate Application Performance for a Better User Experience](http://en.community.dell.com/techcenter/security/network-mobile-email/b/weblog/archive/2016/01/11/accelerate-application-performance-for-a-better-user-experience)
+
+### Fortinet
+- [Fortiguard](http://www.fortiguard.com/)
+- [twitter.com/Fortinet](https://twitter.com/Fortinet)
+- [This was not a “backdoor” vulnerability issue but rather a management authentication issue](http://blog.fortinet.com/post/brief-statement-regarding-issues-found-with-fortios)
 
 ## Switches
 - [youtube: Dell Networking Z9100-ON 100GbE Fabric Switch](https://www.youtube.com/watch?v=GiGqRy5zgCM&feature=youtu.be)
