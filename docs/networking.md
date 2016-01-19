@@ -13,7 +13,7 @@
 	- [IPv6](#ipv6)
 	- [Network Forensics](#network-forensics)
 		- [Network Forensics Blogs](#network-forensics-blogs)
-		- [Wireshark on Twitter](#wireshark-on-twitter)
+		- [Network Forensics and Wireshark on Twitter](#network-forensics-and-wireshark-on-twitter)
 		- [Network Forensics Docs](#network-forensics-docs)
 		- [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
 	- [VoIP](#voip)
@@ -123,7 +123,7 @@
 - [sharkfest.wireshark.org](http://sharkfest.wireshark.org)
 - [seguridadyredes.wordpress.com](https://seguridadyredes.wordpress.com/)
 
-### Wireshark on Twitter
+### Network Forensics and Wireshark on Twitter
 - [twitter.com/LauraChappell](https://twitter.com/LauraChappell)
 - [twitter.com/WiresharkNews](https://twitter.com/WiresharkNews)
 - [twitter.com/wiresharktweets](https://twitter.com/wiresharktweets)
@@ -136,6 +136,7 @@
 - [twitter.com/networkingnerd](https://twitter.com/networkingnerd)
 - [twitter.com/SharkFest_2016](https://twitter.com/SharkFest_2016)
 - [twitter.com/NetBeez](https://twitter.com/NetBeez)
+- [twitter.com/Securactivepv](https://twitter.com/Securactivepv)
 
 ### Network Forensics Docs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/)
@@ -180,6 +181,8 @@
 - [TRANSUM Wireshark Plugin. Some Wireshark dissectors provide response time measurement values, but what gets measured is not ideal for performance analysis work](http://www.tribelabzero.com/transum)
 	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
 - [Corvil.com Network Data Analsysis. Free eBook: Understanding Packet Loss](http://corvil.com/resources/white-papers/ebook-understanding-packet-loss)
+- [What’s the performance meaning of 0-Windows?](http://blog.securactive.net/performance-meaning-0-windows/) When a machine starts to send more and more 0-win you have to investigate if there is enough resources, CPU, RAM …
+- [Great explanation on how performance metrics are calculated by Tony Fortunato (Tech firm)](http://www.lovemytool.com/blog/2015/10/application-performance-term-connect-time-by-tony-fortunato.html)
 
 [![digital attack map](images/digital_attack_map.png)](http://www.digitalattackmap.com/)
 
