@@ -67,6 +67,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [uk.businessinsider.com: Animated map shows the history of immigration to the US](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 - [flowingdata.com: American Immigration history](http://flowingdata.com/2016/01/12/immigration-history/)
 - [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
+- [The Economist. The other side of paradise](http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise) Glamorous tech startups can be brutal places for workers
 - [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
