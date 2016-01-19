@@ -25,6 +25,7 @@
 		- [Docker on Twitter](#docker-on-twitter)
 		- [Microservices](#microservices)
 		- [Docker references](#docker-references)
+		- [Docker Tools](#docker-tools)
 		- [MySQL via Docker](#mysql-via-docker)
 		- [PostgreSQL via Docker](#postgresql-via-docker)
 		- [WebLogic via Docker](#weblogic-via-docker)
@@ -287,6 +288,12 @@
 - [blog.emccode.com: Discovering Docker Volume Plugins and Applications with VirtualBox](http://blog.emccode.com/2016/01/06/discovering-docker-volume-plugins-and-applications-with-virtualbox/)
 
 [![keep calms and release more](images/keep-calms-and-relase-more.png)](https://blog.logentries.com/2014/10/how-to-keep-calms-and-release-more/)
+
+
+### Docker Tools
+- [Docker toolbox](https://www.docker.com/docker-toolbox) The Docker Toolbox is an installer to quickly and easily install and setup a Docker environment on your computer. Available for both Windows and Mac, the Toolbox installs Docker Client, Machine, Compose, Kitematic and VirtualBox.
+- [Get started with Docker on Windows using Chocolatey](https://stefanscherer.github.io/get-started-with-docker-on-windows-using-chocolatey/)
+	- [chocolatey.org](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.
 
 ### MySQL via Docker
 - [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
