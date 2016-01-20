@@ -103,6 +103,7 @@
 - [cathcam.wordpress.com - blogger](https://cathcam.wordpress.com/)
 - [tech.paulcz.net](http://tech.paulcz.net/#blog)
 - [Benjamin Cane](http://bencane.com/) A Systems Architect writing about Linux Systems Administration
+- [chruz.wordpress.com](https://chruz.wordpress.com) Linux, OpenStack & Provisioning
 
 ## FOSS youtube channels
 - [Sysadmincasts.com - Episode Guide](https://sysadmincasts.com/episode-guide)
