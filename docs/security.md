@@ -10,6 +10,7 @@
 	- [Security Podcasts](#security-podcasts)
 	- [Security Toolkits](#security-toolkits)
 	- [Antivirus](#antivirus)
+	- [Private Browsing](#private-browsing)
 	- [Database encryption](#database-encryption)
 	- [Identity Management](#identity-management)
 	- [Big Data Security](#big-data-security)
@@ -81,6 +82,10 @@
 - [Here is the 2015 list of the top 50 software products in order of total distinct vulnerabilities](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
 
 [![software with most vulnerabilities](images/software_with_most_vulnerabilities.png)](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
+
+## Private Browsing
+- [Private Browsing - Use Firefox without saving history](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)
+- [Qué saben de ti las ‘cookies’ y nueve preguntas más](http://tlife.guru/movilidad/que-saben-de-ti-las-cookies-y-nueve-preguntas-mas/)
 
 ## Database encryption
 - [Wikipedia: Database encryption](https://en.wikipedia.org/wiki/Database_encryption)
