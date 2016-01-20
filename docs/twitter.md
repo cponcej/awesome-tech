@@ -2,8 +2,7 @@
 
 - [Paper.li Newspapers](#paperli-newspapers)
 	- [Paper.li LinuxSec](#paperli-linuxsec)
-	- [Paper.li with Oracle News](#paperli-with-oracle-news)
-	- [My own Paper.li](#my-own-paperli)
+	- [Paper.li News](#paperli-news)
 - [Twitter Resources](#twitter-resources)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
 	- [Tech on Twitter](#tech-on-twitter)
@@ -51,22 +50,15 @@
 
 
 # Paper.li Newspapers
+- [Content Curation 103: The Best Way To Use Paper.li](http://socialmediaimpact.com/content-curation-103-best-way-use-paper-li)
+
 ## Paper.li LinuxSec
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
 - [#Linux Webserver #Security](http://paper.li/LinuxSec/1311793532)
 
-## Paper.li with Oracle News
-- [#FusionMiddleware Updates](http://paper.li/rohanwalia17/1417074138)
-
-## My own Paper.li
-- [The red hat Daily](https://paper.li/inafev/1453198556)
-- [The DevOps Daily](https://paper.li/inafev/1453199374)
-- [The docker Daily](https://paper.li/inafev/1453199034)
-- [The Ansible Daily](https://paper.li/inafev/1453199582)
-- [The Python Daily](https://paper.li/inafev/1453047537)
-- [El diario de Red Hat](https://paper.li/inafev/1453046224)
-- [El diario de DevOps](https://paper.li/inafev/1453199191)
-- [El diario de Docker](https://paper.li/inafev/1453198883)
+## Paper.li News 
+- [Oracle #FusionMiddleware Updates](http://paper.li/rohanwalia17/1417074138)
+- [The Daily jQuery](http://paper.li/garduino/jQuery)
 
 
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
