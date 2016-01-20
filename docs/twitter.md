@@ -21,6 +21,7 @@
 	- [Travis on Twitter](#travis-on-twitter)
 	- [Leaders on Twitter](#leaders-on-twitter)
 	- [VMware on Twitter](#vmware-on-twitter)
+	- [Cisco on Twitter](#cisco-on-twitter)
 	- [Cloud on Twitter](#cloud-on-twitter)
 		- [AWS on Twitter](#aws-on-twitter)
 		- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
@@ -193,6 +194,9 @@
 ## VMware on Twitter
 - [twitter.com/VMware](https://twitter.com/VMware)
 - [twitter.com/VMware_ES](https://twitter.com/VMware_ES)
+
+## Cisco on Twitter
+- [twitter.com/Cisco](https://twitter.com/Cisco)
 
 ## Cloud on Twitter
 ### AWS on Twitter
