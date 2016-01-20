@@ -2,6 +2,7 @@
 
 - [Paper.li Newspapers](#paperli-newspapers)
 	- [Paper.li LinuxSec](#paperli-linuxsec)
+	- [Paper.li with Oracle News](#paperli-with-oracle-news)
 	- [My own Paper.li](#my-own-paperli)
 - [Twitter Resources](#twitter-resources)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
@@ -53,6 +54,9 @@
 ## Paper.li LinuxSec
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
 - [#Linux Webserver #Security](http://paper.li/LinuxSec/1311793532)
+
+## Paper.li with Oracle News
+- [#FusionMiddleware Updates](http://paper.li/rohanwalia17/1417074138)
 
 ## My own Paper.li
 - [The red hat Daily](https://paper.li/inafev/1453198556)
