@@ -465,6 +465,7 @@
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
 - [twitter.com/fedora](https://twitter.com/fedora)
 - [twitter.com/openshift](https://twitter.com/openshift)
+- [twitter.com/RedHatAtomic](https://twitter.com/RedHatAtomic)
 
 ## Red Hat Blogs and Forums
 - [RedHat.com Blog](http://www.redhat.com/en/about/blog)

@@ -286,6 +286,7 @@
 - [twitter.com/RHELdevelop](https://twitter.com/RHELdevelop)
 - [twitter.com/RedHatCloud](https://twitter.com/RedHatCloud)
 - [twitter.com/openshift](https://twitter.com/openshift)
+- [twitter.com/RedHatAtomic](https://twitter.com/RedHatAtomic)
 - [twitter.com/RedHatStorage](https://twitter.com/RedHatStorage)
 - [twitter.com/fedora](https://twitter.com/fedora)
 - [twitter.com/RedHatGov](https://twitter.com/RedHatGov)
