@@ -50,8 +50,9 @@
 - [Bitcoin News](http://btc.posthaven.com/)
 - [information-age.com](http://www.information-age.com/)
 - [The Next Web - International technology news, business & culture](http://thenextweb.com/)
-- [cio.com](http://www.cio.com)
 - [infoworld.com](http://www.infoworld.com)
+- [cio.com](http://www.cio.com)
+- [vigilantguy.com](http://www.vigilantguy.com) CIO leadership
 
 [![simon sinek progress](images/simonsinek_progress.png)](https://www.facebook.com/simonsinek/)
 
