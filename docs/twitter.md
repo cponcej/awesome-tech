@@ -39,6 +39,7 @@
 	- [GlassFish on Twitter](#glassfish-on-twitter)
 	- [WebLogic on Twitter](#weblogic-on-twitter)
 	- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
+	- [Clean code advocates. About.me](#clean-code-advocates-aboutme)
 	- [Python on Twitter](#python-on-twitter)
 	- [Python Django on Twitter](#python-django-on-twitter)
 	- [Python and Data Science on Twitter](#python-and-data-science-on-twitter)
@@ -377,6 +378,10 @@
 	11. [twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
 ![best datascience quote](images/jeff_hammerbacher.jpg)
+
+## Clean code advocates. About.me
+- [David Whittaker](https://twitter.com/rundavidrun) Clean code advocate
+	- [about.me/rundavidrun](https://about.me/rundavidrun)
 
 ## Python on Twitter
 - [Python - The PSF](https://twitter.com/ThePSF)

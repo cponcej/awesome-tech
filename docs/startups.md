@@ -42,6 +42,9 @@
 - [trabajarporelmundo.org/](http://trabajarporelmundo.org/)
 	- [Tips para crear un buen curriculum para trabajar en Londres](http://trabajarporelmundo.org/tips-para-crear-un-buen-curriculum-para-trabajar-en-londres/)
 
+
+![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)
+
 ### Barcelona startups
 - [Barcinno.com: Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
 - [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
