@@ -3,7 +3,7 @@
 **Table of Contents**
 
 1. [High quality tech resources and search engines](high-quality-tech-resources.md)
-2. [Twitter resources, Paper.li Newspapers](twitter.md)
+2. [Twitter resources, Newsfeeds](twitter.md)
 3. [Miscellaneous. IT Blogs, Support](it-blogs.md)
 4. [Startups, Jobs, In-Demand Skills, HR, Interviews](startups.md)
 5. [Scalability and Reliability, Datacenters](scalability.md)
