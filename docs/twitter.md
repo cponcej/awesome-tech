@@ -20,6 +20,7 @@
 	- [Jenkins on Twitter](#jenkins-on-twitter)
 	- [Travis on Twitter](#travis-on-twitter)
 	- [Leaders on Twitter](#leaders-on-twitter)
+	- [VMware on Twitter](#vmware-on-twitter)
 	- [Cloud on Twitter](#cloud-on-twitter)
 		- [AWS on Twitter](#aws-on-twitter)
 		- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
@@ -188,6 +189,10 @@
 - [facebook.com/ldavidmarquet](https://www.facebook.com/ldavidmarquet/)
 - [Susan Cain](https://twitter.com/susancain)
 - [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
+
+## VMware on Twitter
+- [twitter.com/VMware](https://twitter.com/VMware)
+- [twitter.com/VMware_ES](https://twitter.com/VMware_ES)
 
 ## Cloud on Twitter
 ### AWS on Twitter
