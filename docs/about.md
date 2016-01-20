@@ -2,6 +2,8 @@
 
 - A curated list of awesome IT projects and resources collected between 2014 and 2015. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
+[about.me](https://about.me/inakifernandez)
+
 # Inspired by
 - [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
@@ -13,5 +15,4 @@
 - [awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
-
 
