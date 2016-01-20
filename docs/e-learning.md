@@ -9,6 +9,7 @@
 
 <!-- /MarkdownTOC -->
 
+![Salvador Dali: have no fear of perfection](images/salvador_dali_perfection.jpg)
 
 # E-Learning
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
