@@ -1,9 +1,9 @@
 <!-- MarkdownTOC -->
 
 - [Newsfeed](#newsfeed)
+	- [Feedly](#feedly)
 	- [Paper.li LinuxSec](#paperli-linuxsec)
 	- [Paper.li Newspapers](#paperli-newspapers)
-	- [Feedly](#feedly)
 - [Twitter Resources](#twitter-resources)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
 	- [Tech on Twitter](#tech-on-twitter)
@@ -51,7 +51,11 @@
 
 
 # Newsfeed
+- [Content Curation 101: Setting Up Feedly as Your RSS Reader](http://socialmediaimpact.com/content-curation-101-setting-feedly-rss-reader/)
 - [Content Curation 103: The Best Way To Use Paper.li](http://socialmediaimpact.com/content-curation-103-best-way-use-paper-li)
+
+## Feedly
+- [feedly.com](http://feedly.com)
 
 ## Paper.li LinuxSec
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
@@ -60,9 +64,6 @@
 ## Paper.li Newspapers 
 - [Oracle #FusionMiddleware Updates](http://paper.li/rohanwalia17/1417074138)
 - [The Daily jQuery](http://paper.li/garduino/jQuery)
-
-## Feedly
-- [feedly.com](http://feedly.com)
 
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
