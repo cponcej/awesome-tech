@@ -165,6 +165,7 @@
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
 - [Good vs Bad Leader](http://vladmihalcea.com/2013/12/28/good-vs-bad-leader/)
 - [Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
+- [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
 
 ### Talks
 - [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
