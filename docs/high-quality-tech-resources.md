@@ -10,7 +10,7 @@
 	- [Web Code Geeks](#web-code-geeks)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
 	- [Marketplaces](#marketplaces)
-		- [Noodlio, the community-driven marketplace for app development. Buy and sell themes, templates and components](#noodlio-the-community-driven-marketplace-for-app-development-buy-and-sell-themes-templates-and-components)
+		- [Noodlio](#noodlio)
 	- [Reddit](#reddit)
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
@@ -230,9 +230,9 @@
 [![Here Comes Another Bubble v1.1 - The Richter Scales](images/nobubble.jpg)](https://youtu.be/I6IQ_FOCE6I)
 
 ## Marketplaces
-### Noodlio, the community-driven marketplace for app development. Buy and sell themes, templates and components
-- [Noodlio](https://www.noodl.io)
-- [twitter.com/noodl_io](https://twitter.com/noodl_io)
+### Noodlio
+- [Noodlio, the community-driven marketplace for app development. Buy and sell themes, templates and components](https://www.noodl.io)
+	- [twitter.com/noodl_io](https://twitter.com/noodl_io)
 
 ## Reddit
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)
