@@ -358,6 +358,7 @@
 - [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
 - [twitter.com/BigDataBlogs](https://twitter.com/BigDataBlogs)
 - [twitter.com/MySQL](https://twitter.com/MySQL)
+- [twitter.com/ScriptingMySQL](https://twitter.com/ScriptingMySQL)
 - [twitter.com/postgresql](https://twitter.com/postgresql)
 - [twitter.com/MongoDB](https://twitter.com/MongoDB)
 - [InformationWeek Top Data Science, Analytics, and BI experts on Twitter](http://www.kdnuggets.com/2016/01/informationweek-top-data-science-analytics-bi-experts-twitter.html)

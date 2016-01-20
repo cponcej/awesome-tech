@@ -325,7 +325,8 @@
 
 #### MySQL
 ##### MySQL on Twitter
-- [https://twitter.com/MySQL](https://twitter.com/MySQL)
+- [twitter.com/MySQL](https://twitter.com/MySQL)
+- [twitter.com/ScriptingMySQL](https://twitter.com/ScriptingMySQL)
 
 ##### MySQL Blogs
 - [MySQL Server Team](http://mysqlserverteam.com/)
