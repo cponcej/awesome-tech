@@ -55,6 +55,8 @@
 <!-- /MarkdownTOC -->
 
 
+![What OOP users claim](images/what_oop_users_claim.png)
+
 # Software Development
 - [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)
