@@ -31,6 +31,7 @@
 				- [MySQL Blogs](#mysql-blogs)
 				- [MySQL Tutorials](#mysql-tutorials)
 				- [MySQL Books](#mysql-books)
+				- [MySQL Cluster](#mysql-cluster)
 				- [MySQL Best Practices](#mysql-best-practices)
 			- [PostgreSQL](#postgresql)
 				- [PostgreSQL on Twitter](#postgresql-on-twitter)
@@ -337,6 +338,14 @@
 ##### MySQL Books
 - [highperfmysql.com - High Performance MySQL. Learn to Build Fast, Reliable, Scalable Systems with MySQL](http://www.highperfmysql.com/)
 - [High Performance MySQL, 3rd Edition](http://it-ebooks.info/book/676/)
+
+##### MySQL Cluster
+- [Download MySQL Cluster](http://dev.mysql.com/downloads/cluster/)
+- [MySQL Cluster 7.4 Release Notes](http://dev.mysql.com/doc/relnotes/mysql-cluster/7.4/en/preface.html)
+- [MySQL Cluster 7.4.9 has been released](https://ossnews.net/s/ixbtfi/mysql_cluster_7_4_9_has_been_released)
+- [dba.stackexchange.com: Configuring MySQL Cluster](http://dba.stackexchange.com/questions/126576/configuring-mysql-cluster)
+- [Running an optimized MariaDB (MySQL) cluster on Azure (November 2014)](http://sabbour.me/running-a-mariadb-cluster-on-azure/)
+- [maquinasvirtuales.eu: Mysql Cluster Configuration](http://www.maquinasvirtuales.eu/mysql-cluster-configuration/)
 
 ##### MySQL Best Practices
 - [Top 20+ MySQL Best Practices](http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)

@@ -4,6 +4,7 @@
 	- [Feedly](#feedly)
 	- [Paper.li LinuxSec](#paperli-linuxsec)
 	- [Paper.li Newspapers](#paperli-newspapers)
+	- [OSSnews.net](#ossnewsnet)
 - [Twitter Resources](#twitter-resources)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
 	- [Tech on Twitter](#tech-on-twitter)
@@ -68,6 +69,9 @@
 ## Paper.li Newspapers 
 - [Oracle #FusionMiddleware Updates](http://paper.li/rohanwalia17/1417074138)
 - [The Daily jQuery](http://paper.li/garduino/jQuery)
+
+## OSSnews.net
+- [OSSnews.net](https://ossnews.net)
 
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 

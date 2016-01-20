@@ -704,6 +704,7 @@
 - [VMware Front Experience](http://www.v-front.de/)
 	- [VMware launches vSphere 6 - What's in ESXi 6.0 for free license and white box users?](http://www.v-front.de/2015/02/whats-in-esxi-60-for-free-license-and.html)
 - [blogvmware.com](http://www.blogvmware.com/)
+- [maquinasvirtuales.eu: Blog VMware en español](http://www.maquinasvirtuales.eu/)
 - [aprendiendoavirtualizar.com](http://aprendiendoavirtualizar.com/)
 - [VMware Photon OS - Minimal Linux Container Host](https://vmware.github.io/photon/)
 - [You can run Cockpit in VMware Photon OS](http://blog.jreypo.io/cloud-native/devops/vmware/sysadmin/you-can-run-cockpit-in-photon-os/)
