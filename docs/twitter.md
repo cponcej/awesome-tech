@@ -56,6 +56,7 @@
 - [Content Curation 101: Setting Up Feedly as Your RSS Reader](http://socialmediaimpact.com/content-curation-101-setting-feedly-rss-reader/)
 - [Feedly.com Blog](http://blog.feedly.com/)
 	- [Collection sharing: A new way to share your favorite sites](http://blog.feedly.com/2014/10/03/collection-sharing/)
+	- [Meet Shared Collections: Now you can choose to share what you read with others](http://blog.feedly.com/2015/09/01/launching-shared-collections/)
 - [Content Curation 103: The Best Way To Use Paper.li](http://socialmediaimpact.com/content-curation-103-best-way-use-paper-li)
 - [Paper.li Blog](http://blog.paper.li/)
 
