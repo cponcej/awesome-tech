@@ -9,6 +9,7 @@
 	- [DevOps on Twitter](#devops-on-twitter)
 	- [Scrum on Twitter](#scrum-on-twitter)
 	- [Git on Twitter](#git-on-twitter)
+	- [Sublime on Twitter](#sublime-on-twitter)
 	- [Ansible on Twitter](#ansible-on-twitter)
 	- [Puppet on Twitter](#puppet-on-twitter)
 	- [Chef on Twitter](#chef-on-twitter)
@@ -77,6 +78,7 @@
 - [twitter.com/tech_faq](https://twitter.com/tech_faq)
 - [twitter.com/eWEEKNews](https://twitter.com/eWEEKNews)
 - [twitter.com/medium](https://twitter.com/medium)
+- [twitter.com/devbattles](https://twitter.com/devbattles)
 
 ## DevOps on Twitter
 - [twitter.com/devopsdotcom](https://twitter.com/devopsdotcom)
@@ -118,6 +120,10 @@
 - [twitter.com/GitForWindows](https://twitter.com/GitForWindows)
 - [twitter.com/progitbook](https://twitter.com/progitbook)
 - [twitter.com/gitready](https://twitter.com/gitready)
+
+## Sublime on Twitter
+- [twitter.com/SublimeTxtTips](https://twitter.com/SublimeTxtTips)
+- [twitter.com/SublimePackages](https://twitter.com/SublimePackages)
 
 ## Ansible on Twitter
 - [twitter.com/ansible](https://twitter.com/ansible)
@@ -192,6 +198,7 @@
 ## Cloud9IDE and Odoo on Twitter
 - [twitter.com/Cloud9IDE](https://twitter.com/Cloud9IDE)
 - [twitter.com/Odoo](https://twitter.com/Odoo)
+- [Great eCommerce website running on Odoo. Good usage of variants](http://www.pneusgom.gp)
 
 ## Security on Twitter
 - [twitter.com/LinuxSec](https://twitter.com/LinuxSec)

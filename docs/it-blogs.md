@@ -50,6 +50,7 @@
 - [Bitcoin News](http://btc.posthaven.com/)
 - [information-age.com](http://www.information-age.com/)
 - [The Next Web - International technology news, business & culture](http://thenextweb.com/)
+- [cio.com](http://www.cio.com)
 
 [![simon sinek progress](images/simonsinek_progress.png)](https://www.facebook.com/simonsinek/)
 

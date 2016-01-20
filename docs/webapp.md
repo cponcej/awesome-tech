@@ -48,6 +48,7 @@
 
 ## Enterprise Search Platforms
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
+- [javacodegeeks.com: Apache Lucene Fundamentals Tutorial](http://www.javacodegeeks.com/2015/09/apache-lucene-fundamentals.html)
 
 ## Apache and Tomcat
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
@@ -117,6 +118,7 @@
 - [middlewaresnippets.blogspot.com - Monitoring with JMX](http://middlewaresnippets.blogspot.com/2014/10/monitoring-with-jmx.html)
 
 ## E-Mail
+- [tech-faq.com: How Does the Email System Work?](http://www.tech-faq.com/how-the-email-system-works.html)
 - [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
 - [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
 - [five.sentenc.es: email productivity](http://five.sentenc.es/)

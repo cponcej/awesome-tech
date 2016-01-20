@@ -40,6 +40,7 @@
 - [twitter.com/PresGeeks](https://twitter.com/PresGeeks)
 - [blog.slideshare.net: 6 Principles of Influence to Enhance Your Presentations](https://blog.slideshare.net/2015/12/14/6-principles-of-influence-to-enhance-your-presentations/)
 - [5 Must-Know Public Speaking Tips for Introverts](http://www.entrepreneur.com/article/229925)
+- [fortune.com: 5 ways to fight your fear of public speaking](http://fortune.com/2015/08/06/fear-public-speaking-gary-vaynerchuk/)
 - [Does body language help a TED Talk go viral? 5 nonverbal patterns from blockbuster talks](http://blog.ted.com/body-language-survey-points-to-5-nonverbal-features-that-make-ted-talks-take-off/)
 - [presentationgo.com](http://www.presentationgo.com/) The free PowerPoint library
 

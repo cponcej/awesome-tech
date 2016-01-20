@@ -9,6 +9,8 @@
 	- [Java Code Geeks](#java-code-geeks)
 	- [Web Code Geeks](#web-code-geeks)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
+	- [Marketplaces](#marketplaces)
+		- [Noodlio, the community-driven marketplace for app development. Buy and sell themes, templates and components](#noodlio-the-community-driven-marketplace-for-app-development-buy-and-sell-themes-templates-and-components)
 	- [Reddit](#reddit)
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
@@ -226,6 +228,11 @@
 - [Medium's Stack: The Stack That Helped Medium Scale To 2.6 Millennia Of Reading Time](http://stackshare.io/medium/the-stack-that-helped-medium-scale-to-2-6-millennia-of-reading-time)
 
 [![Here Comes Another Bubble v1.1 - The Richter Scales](images/nobubble.jpg)](https://youtu.be/I6IQ_FOCE6I)
+
+## Marketplaces
+### Noodlio, the community-driven marketplace for app development. Buy and sell themes, templates and components
+- [Noodlio](https://www.noodl.io)
+- [twitter.com/noodl_io](https://twitter.com/noodl_io)
 
 ## Reddit
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)

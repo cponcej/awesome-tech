@@ -135,6 +135,7 @@
 - [A curl cheat sheet](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
 - [How to use curl command with proxy username and password on Linux or Unix](http://www.cyberciti.biz/faq/linux-unix-curl-command-with-proxy-username-password-http-options/)
 - [DZone: Quickly Share a Folder Using HTTP On a Linux Host](https://dzone.com/articles/quickly-share-a-folder-using-http-on-a-linux-host)
+- [How to Optimize and Compress JPEG or PNG Images in Linux Commandline](http://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/)
 
 ### Linux storage
 - [Linux: Use smartctl To Check Disk Behind Adaptec RAID Controllers](http://www.cyberciti.biz/faq/linux-checking-sas-sata-disks-behind-adaptec-raid-controllers/)
@@ -316,8 +317,11 @@
 	- [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
+- [How to block an IP address with ufw on Ubuntu Linux server](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
 
 [![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
+
+[![How to block an IP address with ufw on Ubuntu Linux server](images/ufw-status.jpg)](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
 
 ## Vim and Emacs
 ### Vim
@@ -361,6 +365,7 @@
 
 ## Apple OS X
 - [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
+- [How to enable colorized output for the ls command in Mac OS X Terminal](http://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/)
 
 ## Linux Commands Examples
 - Want to increments all numbers in input.txt? 
@@ -530,6 +535,9 @@
 - [slideshare.net: Transforming to OpenStack: a sample roadmap to DevOps](http://www.slideshare.net/NicolasBarcet/os-summit-transformingtoopenstack)
 - [enterprisetech.com: Red Hat Seeks To Ease OpenStack Deployments](http://www.enterprisetech.com/2014/08/27/red-hat-seeks-ease-openstack-deployments/)
 - [redhat.com: Looking for a new way to integrate your OpenStack deployment with Active Directory?](https://access.redhat.com/documentation/en/red-hat-enterprise-linux-openstack-platform/version-7/integrate-with-identity-service/)
+- [redhat-cloudstrategy.com: Elephant In The Room: What’s The Total Cost Ownership For An OpenStack Cloud?](http://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/)
+
+[![red hat cloud strategy blog](images/redhat_cloudstrategy_blog.png)](http://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/)
 
 ## Red Hat Storage
 - [redhat.com/storage](http://redhat.com/storage)

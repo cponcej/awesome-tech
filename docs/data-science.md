@@ -22,6 +22,7 @@
 		- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 		- [SQL and Database Docs](#sql-and-database-docs)
 			- [Database Performance](#database-performance)
+			- [Database Security](#database-security)
 			- [EssentialSQL](#essentialsql)
 			- [Use The Index, Luke](#use-the-index-luke)
 			- [Database Version Control](#database-version-control)
@@ -59,6 +60,7 @@
 - [Beginner tips to becoming a data analyst](http://thenextweb.com/offers/2015/12/19/beginner-tips-becoming-data-analyst/)
 - [ZDNet Top 2016 Data Trends: 5 data-to-decisions trends to know for 2016.](http://www.zdnet.com/article/top-5-data-to-decisions-trends-to-know-for-2016/) Apache Spark, real-time, cloud BI & analytics, IoT, and self-service were the trends to watch in 2015, and they'll continue to make waves in 2016.
 - [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
+- [Top 10 Machine Learning Projects on Github](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
 
 ### Data collection and processing is growing in sports
 - [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
@@ -195,6 +197,7 @@
 
 ### Pentaho Data Integration and Business Analytics Platforms
 - [Pentaho](http://www.pentaho.com/)
+- [pentaho.com/marketplace](http://www.pentaho.com/marketplace)
 
 ## SQL
 - [Reinventing Yourself as a Next Generation DBA](http://www.cumulogic.com/next-gen-dba/)
@@ -206,6 +209,7 @@
 - [craigkerstiens.com](http://www.craigkerstiens.com/)
 - [DZone Database Zone](https://dzone.com/database-sql-nosql-tutorials-tools-news)
 - [InsideMySQL.com](http://insidemysql.com)
+- [MSSQLTips.com](https://www.mssqltips.com/)
 - [T-SQL Tidy: Online T-SQL Statement Parser and Formatter](http://tsqltidy.com/)
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
 - [SQLFormat: Online SQL formatting service](http://sqlformat.org)
@@ -266,6 +270,9 @@
 	- [sqlperformance.com: Tuning : A Good Place to Start](http://sqlperformance.com/2016/01/io-subsystem/tuning-a-good-place-to-start) Tim Radney of SQLskills gives an overview of his approach to SQL Server performance tuning, from system configuration, to I/O latency, to high cost queries.
 - [Faster SQL Paging with jOOQ Using the Seek Method](http://blog.jooq.org/2013/10/26/faster-sql-paging-with-jooq-using-the-seek-method/)
 
+#### Database Security
+- [SQL Server Security Checklist](https://www.mssqltips.com/sqlservertip/3159/sql-server-security-checklist/)
+
 #### EssentialSQL 
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
@@ -290,6 +297,7 @@
 - [Get Ready to Learn SQL: 2. How to Sort Your Query Results with SQLite](http://www.essentialsql.com/get-ready-to-learn-sql-how-to-sort-your-query-results/)
 - [ACID is the foundation of a database. Why so?](http://www.essentialsql.com/what-is-meant-by-acid/)
 - [Built-In Functions (SQL Server)](http://www.essentialsql.com/introduction-to-sql-servers-built-in-functions)
+- [What is a Database Index](http://www.essentialsql.com/what-is-a-database-index)
 
 [![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
 
@@ -307,6 +315,7 @@
 - [Bind parameters and execution plan caching](http://use-the-index-luke.com/blog/2011-07-16/planning-for-reuse)
 - [Bind parameters are the #1 defense against SQL injection attacks. But they also affect performance—mostly positive!](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
 - [How sorting and grouping works SQL databases and how to improve performance](http://use-the-index-luke.com/sql/sorting-grouping)
+- [Concatenation: If you have DATE and TIME in separate columns, what's the best way to select all rows since yesterday 2:05pm?](http://use-the-index-luke.com/sql/where-clause/obfuscation/concatenation)
 
 [![use the index luke](images/use_the_index_luke.png)](http://use-the-index-luke.com/)
 
@@ -435,6 +444,7 @@
 - [MongoDB Security Part II: 10 mistakes that can compromise your database](http://blog.mongodb.org/post/87691901392/mongodb-security-part-ii-10-mistakes-that-can)
 - [Avoiding pitfalls running Mongo 3.2 in Docker on OSX](https://iainhunter.wordpress.com/2016/01/12/avoiding-pitfalls-running-mongo-3-2-in-docker-on-osx/)
 - [MongoDB Tutorial – A Scalable NoSQL DB](http://www.javacodegeeks.com/2015/09/mongodb-a-scalable-nosql-db.html)
+- [MongoDB Cloud Manager](https://youtu.be/bB57HKeOvmw)
 - [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
 	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
 	- Effortless CSV import into MongoDB with MongoChef 3.2 (click to see the video). You can export your collections to CSV:

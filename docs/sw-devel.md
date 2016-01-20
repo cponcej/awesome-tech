@@ -126,6 +126,7 @@
 ## Editors
 - [tecmint.com: 12 Best Open Source Text Editors (GUI + CLI) I Found in 2015](http://www.tecmint.com/best-open-source-linux-text-editors/)
 - [javacodegeeks.com: Why we dropped Eclipse in favour of IntelliJ](http://www.javacodegeeks.com/2013/09/why-we-dropped-eclipse-in-favour-of-intellij.html)
+	- [IntelliJ IDEA Blog](http://blog.jetbrains.com/idea/)
 - [javacodegeeks.com: My Development Environment Setup on Linux](http://www.javacodegeeks.com/2015/12/development-environment-setup-linux.html)
 - [Gobby: A Collaborative Text Editor](https://gobby.github.io/)
 - [SourceForge youtube: How to Use JSONViewer Notepad++ plugin](https://www.youtube.com/watch?v=5TcXJEuA1z4)
@@ -172,6 +173,7 @@
 - [How to Add Sass Support in Sublime Text](http://sublimetexttips.com/how-to-add-sass-support-in-sublime-text/)
 	- [Sass, Syntactically Awesome Style Sheets (CSS)](http://sass-lang.com/)
 - [Save your clicks by taking charge of Sublime’s menus](http://sublimetexttips.com/save-your-clicks-by-taking-charge-of-sublimes-menus/)
+- [How to quickly add a new Sublime Text snippet](http://sublimetexttips.com/how-to-quickly-add-a-new-sublime-text-snippet/)
 
 #### Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)
@@ -283,6 +285,8 @@
 - [Complexity of Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
 - [reddit.com: Multiprocessing vs Threading?](https://www.reddit.com/r/learnpython/comments/418z8b/multiprocessing_vs_threading/)
 	- [Python Threads and the Global Interpreter Lock](http://jessenoller.com/blog/2009/02/01/python-threads-and-the-global-interpreter-lock)
+- [devbattles.com: Python list. Functions and Methods lists](http://www.devbattles.com/en/sand/post-1754-Python_list_Functions_and_Methods_lists)
+- [devbattles.com: Python: sorting lists by .sort () with - in simple words](http://www.devbattles.com/en/sand/post-1752-Python_sorting_lists_by_sort__with__in_simple_words)
 
 [![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
 
@@ -304,11 +308,13 @@
 - [Getting Started with Django REST Framework (DRF) and AngularJS (Part 1)](http://engineroom.trackmaven.com/blog/getting-started-drf-angularjs-part-1/)
 	- [Getting Started with Django REST Framework (DRF) and AngularJS (Part 2)](http://engineroom.trackmaven.com/blog/getting-started-drf-angularjs-part-2/)
 	- [Part 2 Supplementary Code](https://github.com/TrackMaven/getting-started-with-drf-angular/tree/part-2)
+- [webcodegeeks.com: Python Django Tutorial](http://www.webcodegeeks.com/python/python-django-tutorial/)
 
 ### Python Flask 
 - [The Flask Mega-Tutorial: Now with Python 3 Support](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
 - [realpython.com: Discover Flask, Part 1 - Setting Up a Static Site ](https://realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site/)
 - [Two-Factor Authentication with Authy](https://www.twilio.com/docs/tutorials/walkthrough/two-factor-authentication/python/flask)
+- [devbattles.com: Python Flask, Part 1: Hello World!](http://www.devbattles.com/en/sand/post-1757-Python_Flask_Part_1_Hello_World)
 
 ### Python pip and pip's wheel
 - [wheel replaces Python's eggs](https://wheel.readthedocs.org)
@@ -355,6 +361,7 @@
 	- [PyInstaller official GIT repository](https://github.com/pyinstaller/pyinstaller/)
 - [ZipPy: Python3 on top of the JVM (faster than PyPy!)](https://bitbucket.org/ssllab/zippy)
 - [DictMySQL: A MySQL class for more convenient database manipulation with Python dictionary](https://github.com/ligyxy/DictMySQL)
+- [WinPython: Portable Scientific Python 2/3 32/64bit Distribution for Windows](http://sourceforge.net/projects/winpython/)
 
 #### Web Scraping with Python
 - [Scrapy](http://scrapy.org/) An open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
