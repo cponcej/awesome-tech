@@ -36,4 +36,4 @@ En cualquier caso hay una tendencia al Heap-Offloading. El consumo de memoria en
 - [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
 - [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
 
-![Red Hat CEO quote](images/redhat_ceo_quote.png)
+[![Red Hat CEO quote](images/redhat_ceo_quote.png)](https://twitter.com/redhatnews)
