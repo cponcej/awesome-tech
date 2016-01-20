@@ -60,6 +60,7 @@
 - [edx.org](https://www.edx.org)
 - [edX.org: English Grammar and Essay Writing, Berkeley](https://www.edx.org/course/english-grammar-essay-writing-uc-berkeleyx-colwri2-2x)
 - [edx.org: Implementing DHCP in Microsoft Windows Server](https://www.edx.org/course/implementing-dhcp-microsoft-windows-microsoft-inf201-31x)
+- [edx.org: Introduction to Python for Data Science (Microsoft)](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x)
 - [Coursera](http://coursera.org)
 - [Codecademy](https://www.codecademy.com)
 - [Udacity](https://www.udacity.com/)
