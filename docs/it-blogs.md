@@ -65,6 +65,7 @@
 - [mundosql.es](http://www.mundosql.es)
 - [A un clic de las TIC. Telefónica Grandes Empresas](http://www.aunclicdelastic.com/)
 - [Con Tu Negocio. Los mejors contenidos para tu pyme](http://www.contunegocio.es/)
+- [TLife.guru: Tecnología aplicada a la vida](http://tlife.guru/)
 - [TICbeat](http://www.ticbeat.com/)
 - [adictosaltrabajo.com](http://www.adictosaltrabajo.com/)
 - [systemadmin.es](http://systemadmin.es/)
