@@ -1,6 +1,6 @@
 <!-- MarkdownTOC -->
 
-- [Newsfeed](#newsfeed)
+- [Newsfeeds (RSS Readers)](#newsfeeds-rss-readers)
 	- [Feedly](#feedly)
 	- [Paper.li LinuxSec](#paperli-linuxsec)
 	- [Paper.li Newspapers](#paperli-newspapers)
@@ -50,7 +50,7 @@
 <!-- /MarkdownTOC -->
 
 
-# Newsfeed
+# Newsfeeds (RSS Readers)
 - [Content Curation 101: Setting Up Feedly as Your RSS Reader](http://socialmediaimpact.com/content-curation-101-setting-feedly-rss-reader/)
 - [Content Curation 103: The Best Way To Use Paper.li](http://socialmediaimpact.com/content-curation-103-best-way-use-paper-li)
 
