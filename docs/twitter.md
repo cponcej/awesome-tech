@@ -51,8 +51,12 @@
 
 
 # Newsfeeds (RSS Readers)
+- [Social Media Impact](http://socialmediaimpact.com/) The #1 Most Trusted Social Media News Site
 - [Content Curation 101: Setting Up Feedly as Your RSS Reader](http://socialmediaimpact.com/content-curation-101-setting-feedly-rss-reader/)
+- [Feedly.com Blog](http://blog.feedly.com/)
+	- [Collection sharing: A new way to share your favorite sites](http://blog.feedly.com/2014/10/03/collection-sharing/)
 - [Content Curation 103: The Best Way To Use Paper.li](http://socialmediaimpact.com/content-curation-103-best-way-use-paper-li)
+- [Paper.li Blog](http://blog.paper.li/)
 
 ## Feedly
 - [feedly.com](http://feedly.com)
