@@ -62,6 +62,7 @@
 - [ZDNet Top 2016 Data Trends: 5 data-to-decisions trends to know for 2016.](http://www.zdnet.com/article/top-5-data-to-decisions-trends-to-know-for-2016/) Apache Spark, real-time, cloud BI & analytics, IoT, and self-service were the trends to watch in 2015, and they'll continue to make waves in 2016.
 - [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 - [Top 10 Machine Learning Projects on Github](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
+- [Data scientists have the hottest job in America](http://www.infoworld.com/article/3024523/big-data/data-scientists-have-the-hottest-job-in-america.html)
 
 ### Data collection and processing is growing in sports
 - [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
