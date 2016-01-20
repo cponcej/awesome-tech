@@ -99,6 +99,7 @@
 - [Pearson English](http://www.english.com/)
 	- [Pearson English Business Solutions](http://www.globalenglish.com)
 - [Red Hat Training announces new way to train: Video Classroom](http://servicesblog.redhat.com/2015/08/17/red-hat-training-announces-new-way-to-train-video-classroom/)
+- [Nuevos Cursos de Formación Oficial OpenStack](http://www.josemariagonzalez.es/2016/01/20/nuevos-cursos-de-formacion-oficial-openstack.html)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
 - [springboard.com - Learn Data Science & UX Design online](https://www.springboard.com)
 

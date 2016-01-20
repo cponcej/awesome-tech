@@ -62,6 +62,7 @@
 - [jreypo.wordpress.com](https://jreypo.wordpress.com/)
 - [dbigcloud.com](http://www.dbigcloud.com/)
 - [Aprendiendo a virtualizar](http://aprendiendoavirtualizar.com/)
+- [josemariagonzalez.es: Virtualización & Cloud Computing](http://www.josemariagonzalez.es/)
 - [blogvmware.com](http://www.blogvmware.com/)
 - [mundosql.es](http://www.mundosql.es)
 - [A un clic de las TIC. Telefónica Grandes Empresas](http://www.aunclicdelastic.com/)
