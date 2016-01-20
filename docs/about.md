@@ -2,7 +2,7 @@
 
 - A curated list of awesome IT projects and resources collected between 2014 and 2015. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-[about.me](https://about.me/inakifernandez)
+[about.me](https://about.me/inafev)
 
 # Inspired by
 - [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
