@@ -40,7 +40,7 @@
 	- [JBoss on Twitter](#jboss-on-twitter)
 	- [GlassFish on Twitter](#glassfish-on-twitter)
 	- [WebLogic on Twitter](#weblogic-on-twitter)
-	- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
+	- [SQL and Big Data on Twitter. Data Analysis](#sql-and-big-data-on-twitter-data-analysis)
 	- [Clean code advocates. About.me](#clean-code-advocates-aboutme)
 	- [Python on Twitter](#python-on-twitter)
 	- [Python Django on Twitter](#python-django-on-twitter)
@@ -365,7 +365,8 @@
 - [twitter.com/OracleMiddle](https://twitter.com/OracleMiddle)
 - [twitter.com/oracle_em](https://twitter.com/oracle_em)
 
-## SQL and Big Data on Twitter
+## SQL and Big Data on Twitter. Data Analysis
+- [twitter.com/sciDataAnalysis](https://twitter.com/sciDataAnalysis)
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
 - [twitter.com/BigDataBlogs](https://twitter.com/BigDataBlogs)
