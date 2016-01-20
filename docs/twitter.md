@@ -61,6 +61,7 @@
 
 ## Feedly
 - [feedly.com](http://feedly.com)
+- [Tim Case's shared collections](http://feedly.com/timrcase) Cloud, DevOps, SQL Server, Tableau, Big Data
 
 ## Paper.li LinuxSec
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
