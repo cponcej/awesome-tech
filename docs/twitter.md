@@ -297,7 +297,7 @@
 - [Tecmint](https://twitter.com/tecmint)
 - [RegexTip](https://twitter.com/RegexTip)
 - [twitter.com/linuxtutorials](https://twitter.com/linuxtutorials)
-- [twitter.com/linuxfoundation](twitter.com/linuxfoundation)
+- [twitter.com/linuxfoundation](https://twitter.com/linuxfoundation)
 - [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
 - [twitter.com/linuxtoday](https://twitter.com/linuxtoday)
 - [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
