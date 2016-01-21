@@ -340,6 +340,8 @@
 - [twitter.com/Office](https://twitter.com/Office)
 - [twitter.com/Windows](https://twitter.com/Windows)
 
+[![fun with coworkers whats your address](images/fun_with_coworkers_whats_your_addr.png)](https://twitter.com/ucs_dave)
+
 ## Apple on Twitter
 - [twitter.com/tim_cook](https://twitter.com/tim_cook)
 - [twitter.com/iPadPro](https://twitter.com/iPadPro)
