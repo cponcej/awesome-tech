@@ -19,6 +19,8 @@
 
 <!-- /MarkdownTOC -->
 
+![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)
+
 # Startups
 - [La economía crece](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
@@ -41,9 +43,6 @@
 ## Trabajar por el mundo
 - [trabajarporelmundo.org/](http://trabajarporelmundo.org/)
 	- [Tips para crear un buen curriculum para trabajar en Londres](http://trabajarporelmundo.org/tips-para-crear-un-buen-curriculum-para-trabajar-en-londres/)
-
-
-![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)
 
 ### Barcelona startups
 - [Barcinno.com: Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)

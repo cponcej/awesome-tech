@@ -191,6 +191,7 @@
 
 ### AWS Schema Conversion Tool
 - [cloudacademy.com: Migrating Data to AWS Using the AWS Schema Conversion Tool: A Preview](http://cloudacademy.com/blog/migrating-data-to-aws/)
+- [AWS Schema Conversion Tool now supports PostgreSQL as conversion target](http://aws.amazon.com/about-aws/whats-new/2016/01/aws-schema-conversion-tool-postgresql-support/)
 
 ### AWS DevOps. AWS CodePipeline
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)
