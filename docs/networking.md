@@ -226,4 +226,5 @@
 - [10 emuladores WAN para que pruebes distintas condiciones de red](http://www.hackplayers.com/2015/10/10-emuladores-wan-para-que-pruebes.html)
 - [NEWfly, Redes Cisco y Packet Tracker: Network, ejercicios Packet Tracer y simulación de vuelo](https://newfly.wordpress.com/)
 
+[23 Photos That Will Make Anyone Who Works In IT Satisfied](http://www.buzzfeed.com/lukebailey/satisfying-cables)
 ![cabling](images/cabling.jpg)
