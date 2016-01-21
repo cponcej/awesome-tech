@@ -5,7 +5,7 @@
 	- [Paper.li LinuxSec](#paperli-linuxsec)
 	- [Paper.li Newspapers](#paperli-newspapers)
 	- [OSSnews.net](#ossnewsnet)
-- [Twitter Resources. Add them to custom Twitter Lists](#twitter-resources-add-them-to-custom-twitter-lists)
+- [Twitter Resources](#twitter-resources)
 	- [Marketing Digital](#marketing-digital)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
 	- [Tech on Twitter](#tech-on-twitter)
@@ -82,7 +82,9 @@
 
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
-# Twitter Resources. Add them to custom Twitter Lists
+# Twitter Resources
+- Add twitter resources to your custom twitter lists or subscribe to someone else's lists.
+- [TweetDeck](https://tweetdeck.twitter.com)
 
 ## Marketing Digital
 - [twitter.com/carlosblanco](https://twitter.com/carlosblanco)
