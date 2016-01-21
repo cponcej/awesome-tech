@@ -203,6 +203,7 @@
 - [facebook.com/ldavidmarquet](https://www.facebook.com/ldavidmarquet/)
 - [twitter.com/Ldavidmarquet](https://twitter.com/Ldavidmarquet)
 - [Susan Cain](https://twitter.com/susancain)
+- [twitter.com/Autorrealizarte](https://twitter.com/Autorrealizarte)
 - [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
 
 ## VMware on Twitter
