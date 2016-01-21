@@ -6,7 +6,7 @@
 	- [Paper.li Newspapers](#paperli-newspapers)
 	- [OSSnews.net](#ossnewsnet)
 - [Twitter Resources](#twitter-resources)
-	- [Marketing Digital en España. Tuiteros más virales en Enero 2016](#marketing-digital-en-españa-tuiteros-más-virales-en-enero-2016)
+	- [Marketing Digital](#marketing-digital)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
 	- [Tech on Twitter](#tech-on-twitter)
 	- [DevOps on Twitter](#devops-on-twitter)
@@ -83,7 +83,7 @@
 
 # Twitter Resources
 
-## Marketing Digital en España. Tuiteros más virales en Enero 2016
+## Marketing Digital
 - [twitter.com/carlosblanco](https://twitter.com/carlosblanco)
 - [twitter.com/MATrabado](https://twitter.com/MATrabado)
 - [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
