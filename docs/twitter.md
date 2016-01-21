@@ -6,6 +6,7 @@
 	- [Paper.li Newspapers](#paperli-newspapers)
 	- [OSSnews.net](#ossnewsnet)
 - [Twitter Resources](#twitter-resources)
+	- [Marketing Digital en España. Tuiteros más virales en Enero 2016](#marketing-digital-en-españa-tuiteros-más-virales-en-enero-2016)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
 	- [Tech on Twitter](#tech-on-twitter)
 	- [DevOps on Twitter](#devops-on-twitter)
@@ -81,6 +82,14 @@
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
 # Twitter Resources
+
+## Marketing Digital en España. Tuiteros más virales en Enero 2016
+- [twitter.com/carlosblanco](https://twitter.com/carlosblanco)
+- [twitter.com/MATrabado](https://twitter.com/MATrabado)
+- [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
+- [twitter.com/jose_garde](https://twitter.com/jose_garde)
+- [twitter.com/seniormanager](https://twitter.com/seniormanager)
+
 ## IT Jobs on Twitter
 - [European IT Careers](https://twitter.com/EU_IT_Careers)
 
