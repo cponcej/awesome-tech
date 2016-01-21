@@ -125,6 +125,9 @@
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
+- [SOC: Servei d'Ocupació de Catalunya](https://www.oficinadetreball.gencat.cat/socweb/opencms/socweb_ca/home.html)
+	- [twitter.com/ocupaciocat](https://twitter.com/ocupaciocat)
+- [twitter.com/barcelonactiva](https://twitter.com/barcelonactiva)
 - [twitter.com/developerbcn](https://twitter.com/developerbcn)
 - [twitter.com/bcntechcity](https://twitter.com/bcntechcity)
 - [twitter.com/developermadrid](https://twitter.com/developermadrid)
