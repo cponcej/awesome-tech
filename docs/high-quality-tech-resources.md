@@ -238,6 +238,7 @@
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)
 - [Freelance](https://www.reddit.com/r/freelance)
 - [Devops](https://www.reddit.com/r/devops)
+- [Zabbix](https://www.reddit.com/r/zabbix)
 - [Jenkins](https://www.reddit.com/r/jenkinsci/)
 - [Docker](https://www.reddit.com/r/docker)
 - [Ansible](https://www.reddit.com/r/ansible/)

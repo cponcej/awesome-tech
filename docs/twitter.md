@@ -20,6 +20,7 @@
 	- [Docker on Twitter](#docker-on-twitter)
 	- [Jenkins on Twitter](#jenkins-on-twitter)
 	- [Travis on Twitter](#travis-on-twitter)
+	- [Zabbix on Twitter](#zabbix-on-twitter)
 	- [Leaders on Twitter](#leaders-on-twitter)
 	- [VMware on Twitter](#vmware-on-twitter)
 	- [Cisco on Twitter](#cisco-on-twitter)
@@ -191,6 +192,9 @@
 ## Travis on Twitter
 - [twitter.com/travisci](https://twitter.com/travisci)
 - [twitter.com/traviscistatus](https://twitter.com/traviscistatus)
+
+## Zabbix on Twitter
+- [twitter.com/zabbix](https://twitter.com/zabbix)
 
 ## Leaders on Twitter
 - [twitter.com/TEDTalks](https://twitter.com/TEDTalks)
