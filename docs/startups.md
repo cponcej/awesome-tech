@@ -17,6 +17,7 @@
 		- [Recursos Humanos](#recursos-humanos)
 		- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
 		- [Interview Preparation Guide](#interview-preparation-guide)
+		- [Orientación laboral](#orientación-laboral)
 
 <!-- /MarkdownTOC -->
 
@@ -208,10 +209,8 @@
 - [7 Lies Employers Use To Trick You Into Working For Them](https://www.linkedin.com/pulse/7-lies-employers-use-trick-you-working-them-j-t-o-donnell)
 - [10 Questions Never to Ask in an Interview](http://www.mjms.net/blog/10-questions-never-to-ask-in-an-interview/)
 - [Sorry, Recruiters! My Salary History Is None of Your Business](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
-- [Los sueldos informáticos en Europa](http://www.think-progress.com/es/blog/posts/los-sueldos-informaticos-en-europa/)
-	- [Mapping the European ICT Poles of Excellence: The Atlas of ICT Activity in Europe](http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=7140)
+- [Mapping the European ICT Poles of Excellence: The Atlas of ICT Activity in Europe](http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=7140)
 	- [robertwalters.co.uk Salary Survey](https://www.robertwalters.co.uk/salarysurvey.html)
-- [¿Os habéis arrepentido en alguna ocasión de no preguntar determinadas cosas en la entrevista de trabajo?](http://www.elblogderrhh.com/2011/02/%C2%BFos-habeis-arrepentido-en-alguna-ocasion-de-no-preguntar-determinadas-cosas-en-la-entrevista-de-trabajo.html)
 - [Resume Dilemma: Employment Gaps and Job-Hopping](http://career-advice.monster.com/resumes-cover-letters/resume-writing-tips/resume-dilemma-employment-gaps/article.aspx)
 - [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
 - [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
@@ -221,5 +220,11 @@
 An Interview Is a Conversation, Not an Interrogation
 - [An Interview Is a Conversation, Not an Interrogation](http://career-advice.monster.com/job-interview/interview-preparation/tame-hostile-interviewer/article.aspx)
 - [Your Turn to Ask Questions](http://career-advice.monster.com/job-interview/interview-questions/your-turn-to-ask-questions/article.aspx)
+
+### Orientación laboral
+- [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
+	- [Webinar | Cómo enamorar a tu seleccionador](https://orientacion-laboral.infojobs.net/webinar-como-enamorar-al-seleccionador)
+- [¿Os habéis arrepentido en alguna ocasión de no preguntar determinadas cosas en la entrevista de trabajo?](http://www.elblogderrhh.com/2011/02/%C2%BFos-habeis-arrepentido-en-alguna-ocasion-de-no-preguntar-determinadas-cosas-en-la-entrevista-de-trabajo.html)
+- [Los sueldos informáticos en Europa](http://www.think-progress.com/es/blog/posts/los-sueldos-informaticos-en-europa/)
 
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
