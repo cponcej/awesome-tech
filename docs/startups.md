@@ -27,6 +27,7 @@
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
 - [Global Technology Adoption Index 2015](https://powermore.dell.com/2015-global-technology-adoption-index/)
 - [startupheatmap.eu: Where is the Europe's next Silicon Valley?](http://www.startupheatmap.eu/)
+- [How Stockholm is becoming Europe's premier tech hub](http://mashable.com/2016/01/22/stockholm-europe-tech-hub/#C7NvqtmU38qY)
 
 ## Startup related links
 - [ZDnet: Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
