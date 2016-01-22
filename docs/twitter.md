@@ -26,6 +26,7 @@
 	- [Cisco on Twitter](#cisco-on-twitter)
 	- [Cloud on Twitter](#cloud-on-twitter)
 		- [AWS on Twitter](#aws-on-twitter)
+			- [AWS training on Twitter](#aws-training-on-twitter)
 		- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
 	- [Cloud9IDE and Odoo on Twitter](#cloud9ide-and-odoo-on-twitter)
 	- [Security on Twitter](#security-on-twitter)
@@ -223,7 +224,10 @@
 - [twitter.com/jeffbarr](https://twitter.com/jeffbarr)
 - [twitter.com/AWSstartups](https://twitter.com/AWSstartups)
 - [twitter.com/AWS_Partners](https://twitter.com/AWS_Partners)
+
+#### AWS training on Twitter
 - [twitter.com/acloudguru](https://twitter.com/acloudguru)
+- [CloudAcademy twitter.com/CloudRank](https://twitter.com/CloudRank)
 
 ### Non AWS Clouds on Twitter
 - [twitter.com/googlecloud](https://twitter.com/googlecloud)
