@@ -216,5 +216,9 @@
 - [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
 - [10 Questions to Ask Before You Take a New Job](http://www.levo.com/articles/career-advice/10-questions-to-ask-before-you-take-a-new-job)
 - [5 Reasons You May Not Want to Work for Google](https://www.linkedin.com/pulse/20140603115508-7668018-5-reasons-you-may-not-want-to-work-for-google)
+- [An Interview Is a Conversation, Not an Interrogation
+An Interview Is a Conversation, Not an Interrogation
+- [An Interview Is a Conversation, Not an Interrogation](http://career-advice.monster.com/job-interview/interview-preparation/tame-hostile-interviewer/article.aspx)
+- [Your Turn to Ask Questions](http://career-advice.monster.com/job-interview/interview-questions/your-turn-to-ask-questions/article.aspx)
 
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
