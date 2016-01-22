@@ -4,6 +4,7 @@
 - [DevOps](#devops)
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
+	- [Descripción](#descripción)
 	- [DevOps Tools 2016](#devops-tools-2016)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Product Owner](#product-owner)
@@ -95,6 +96,11 @@
 - [medium.com: DevOps: Shift Left or Be Left](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9) The mainstream adoption of cloud computing is accelerating the shift of operations into the hands of developers.
 
 [![automation](images/automation.png)](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1)
+
+## Descripción
+- [8 cosas de la cultura startup que aprenden las empresas](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian) Cómo la cultura startup está influenciando a las grandes empresas. Corporaciones, tomen nota: apliquen o desaparezcan.
+
+[![cultura startup](images/cultura_startup_devops.png)](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian)
 
 ## DevOps Tools 2016
 - [Top 10 DevOps Tools to look out for in 2016](https://www.linkedin.com/pulse/top-10-devops-tools-look-out-2016-matthew-smith)
