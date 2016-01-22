@@ -342,6 +342,7 @@
 - [High Performance MySQL, 3rd Edition](http://it-ebooks.info/book/676/)
 
 ##### MySQL Cluster
+- [mysqlhighavailability.com](http://mysqlhighavailability.com)
 - [Download MySQL Cluster](http://dev.mysql.com/downloads/cluster/)
 - [MySQL Cluster 7.4 Release Notes](http://dev.mysql.com/doc/relnotes/mysql-cluster/7.4/en/preface.html)
 - [MySQL Cluster 7.4.9 has been released](https://ossnews.net/s/ixbtfi/mysql_cluster_7_4_9_has_been_released)
