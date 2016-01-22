@@ -62,6 +62,7 @@
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
 - [cyberciti.biz: Top 20 Nginx WebServer Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
+- [scriptrock.com: 10 Tips For Securing Your Nginx Deployment](https://www.scriptrock.com/articles/10-tips-for-securing-your-nginx-deployment)
 - [dzone: The Benefits of Microcaching with NGINX](https://dzone.com/articles/the-benefits-of-microcaching-with-nginx)
 - [nginx.com: Scaling Web Applications with NGINX – Part I: Load Balancing](https://www.nginx.com/blog/scaling-web-applications-nginx-part-load-balancing/)
 	- [dzone: Scaling Web Applications with NGINX – Part II: Caching and Monitoring](https://dzone.com/articles/scaling-web-applications-with-nginx-part-ii-cachin)
