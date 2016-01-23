@@ -44,6 +44,7 @@
 # DevOps
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
+- [TechBeacon.com](http://techbeacon.com/) Practical Knowledge for dev and thec pros
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
 - [DZone/DevOps Zone](https://dzone.com/devops-tutorials-tools-news)
 - [DevOpsCube](http://devopscube.com/)
@@ -95,6 +96,7 @@
 - [Linkedin: The DevOps Coding Dilemma](https://www.linkedin.com/pulse/devops-coding-dilemma-jason-dumars) Developers don't like being tech support for automation, even if they have 'Ops' as part of their title. 
 - [medium.com: DevOps: Shift Left or Be Left](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9) The mainstream adoption of cloud computing is accelerating the shift of operations into the hands of developers.
 - [Culture over technology: The key to DevOps success](http://www.cloudcomputing-news.net/news/2016/jan/21/culture-over-technology-key-devops-success/)
+- [techbeacon.com: Hiring for DevOps: Look beyond the gurus and ninjas](http://techbeacon.com/devops-experts-hiring)
 
 [![automation](images/automation.png)](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1)
 
@@ -126,6 +128,8 @@
 - [Fabric8 is an integrated open source DevOps and Integration Platform](http://fabric8.io/)
 
 ![always that way](images/always_that_way.jpg)
+
+[![agile to market themselves](images/agile_to_market_themselves.png)](https://kenschwaber.wordpress.com/2014/07/30/agile/)
 
 ## Agile planning: Scrum, Kanban, Lean
 - [Javier Garzás: Agilidad](https://www.youtube.com/watch?v=oShXAC26rcs)
