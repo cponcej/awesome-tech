@@ -384,6 +384,7 @@
 - [twitter.com/Java_EE](https://twitter.com/Java_EE)
 
 ### Java Blogs
+- [Java Magazine by and for the Java community](http://oraclejavamagazine-digital.com)
 - [vladmihalcea.com](http://vladmihalcea.com) 
 - [blog.eisele.net](http://blog.eisele.net)
 - [Java Advent Blog](http://www.javaadvent.com/)
