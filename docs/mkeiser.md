@@ -52,6 +52,8 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [!['It's a graveyard': The software devs leaving Greece for good](images/sw_dev_leaving_greece.png)](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 
+[![Margin Call Movie Clip - Your Opportunity](images/margin_call_movie_your_opportunity.png)](https://youtu.be/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
+
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
 - [data.oecd.org](https://data.oecd.org)
@@ -77,6 +79,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [blogs.wsj.com: Six Years Later, 93% of U.S. Counties Haven’t Recovered From Recession, Study Finds](http://blogs.wsj.com/economics/2016/01/12/six-years-later-93-of-u-s-counties-havent-recovered-from-recession-study-finds/)
 - [The future of jobs. The onrushing wave.](http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less) Previous technological innovation has always delivered more long-run employment, not less. But things can change
 - [Quince películas para entender la crisis](http://www.elmundo.es/cultura/2016/01/15/56991002e2704e61348b45cb.html)
+	- [Margin Call quotes](http://www.imdb.com/title/tt1615147/quotes)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
 - [¿Va a estallar Silicon Valley?](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
