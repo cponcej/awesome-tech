@@ -33,6 +33,7 @@
 				- [MySQL Tutorials](#mysql-tutorials)
 				- [MySQL Books](#mysql-books)
 				- [MySQL Cluster](#mysql-cluster)
+				- [MySQL metrics](#mysql-metrics)
 				- [MySQL Best Practices](#mysql-best-practices)
 			- [PostgreSQL](#postgresql)
 				- [PostgreSQL on Twitter](#postgresql-on-twitter)
@@ -229,6 +230,7 @@
 - [seniordba.wordpress.com](https://seniordba.wordpress.com/)
 - [sqlperformance.com](http://sqlperformance.com)
 - [blog.jooq.org](http://blog.jooq.org/) Java, SQL and jOOQ. Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ.
+- [iLearnSQL](http://www.ilearnsql.com)
 
 ### SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
@@ -268,6 +270,7 @@
 - [craigkerstiens.com: Writing More Legible SQL](http://www.craigkerstiens.com/2016/01/08/writing-better-sql/)
 - [Are SQL Databases Dead?](http://www.iheavy.com/2013/12/30/sql-databases-dead/)
 - [Transactions: What commands aren’t allowed?](http://www.sqlservercentral.com/blogs/sqlstudies/2014/02/05/transactions-what-commands-arent-allowed/)
+- [ilearnsql.com: How Do You Join Tables Using SQL Outer Join?](http://www.ilearnsql.com/joining-tables-outer-join/)
 
 [![SQL Joins Visualizer](images/sql_joins_visualizer.png)](http://sql-joins.leopard.in.ua/)
 
@@ -355,6 +358,9 @@
 - [dba.stackexchange.com: Configuring MySQL Cluster](http://dba.stackexchange.com/questions/126576/configuring-mysql-cluster)
 - [Running an optimized MariaDB (MySQL) cluster on Azure (November 2014)](http://sabbour.me/running-a-mariadb-cluster-on-azure/)
 - [maquinasvirtuales.eu: Mysql Cluster Configuration](http://www.maquinasvirtuales.eu/mysql-cluster-configuration/)
+
+##### MySQL metrics
+- [Box Anemometer](https://github.com/box/Anemometer)
 
 ##### MySQL Best Practices
 - [Top 20+ MySQL Best Practices](http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)

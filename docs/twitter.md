@@ -66,6 +66,7 @@
 	- [Meet Shared Collections: Now you can choose to share what you read with others](http://blog.feedly.com/2015/09/01/launching-shared-collections/)
 - [Content Curation 103: The Best Way To Use Paper.li](http://socialmediaimpact.com/content-curation-103-best-way-use-paper-li)
 - [Paper.li Blog](http://blog.paper.li/)
+- [Por qué colaboras en mis periódicos Paper.li, en Twitter](http://marianaeguaras.com/por-que-colaboras-en-mis-periodicos-paper-li-en-twitter/)
 
 ## Feedly
 - [feedly.com](http://feedly.com)
@@ -79,6 +80,7 @@
 - [Oracle #FusionMiddleware Updates](http://paper.li/rohanwalia17/1417074138)
 - [The Daily jQuery](http://paper.li/garduino/jQuery)
 - [Everything Databases](http://paper.li/freelancer317/1344034685) SQL, NoSQL, and everything in between!
+- [MySQL Daily](http://paper.li/GeekTony/1299539381)
 
 ## OSSnews.net
 - [OSSnews.net](https://ossnews.net)
