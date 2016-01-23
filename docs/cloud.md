@@ -17,6 +17,7 @@
 	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
 		- [AWS New Features](#aws-new-features)
 		- [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
+		- [AWS RDS](#aws-rds)
 		- [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
 		- [AWS Latency](#aws-latency)
 		- [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
@@ -192,6 +193,9 @@
 ### AWS Schema Conversion Tool
 - [cloudacademy.com: Migrating Data to AWS Using the AWS Schema Conversion Tool: A Preview](http://cloudacademy.com/blog/migrating-data-to-aws/)
 - [AWS Schema Conversion Tool now supports PostgreSQL as conversion target](http://aws.amazon.com/about-aws/whats-new/2016/01/aws-schema-conversion-tool-postgresql-support/)
+
+### AWS RDS
+- [Tutorial: Restoring a DB Instance from a DB Snapshot](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.RestoringFromSnapshot.html)
 
 ### AWS DevOps. AWS CodePipeline
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)
