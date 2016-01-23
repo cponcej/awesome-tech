@@ -104,8 +104,16 @@
 	>Keanini says, "It is like asking an IT guy if they play DevOps. They should be able to describe to you their role, how they play, and what the music of the band sounds like. The trick here is that there are so many manifestations of successful DevOps teams that you really need to understand it in the context of the business they support, because ultimately that is how DevOps creates value. The customer base expects a certain tempo, and DevOps is the only way to deliver at that tempo."
 
 	>While they can all play a guitar, there is a big difference between a classical guitarist, a heavy metal guitarist, a folk music guitarist, and a pop guitarist. Hiring a classical guitar "expert" to join a heavy metal band won't work, no matter how adept the guitarist is with the instrument. The same thing is true about filling DevOps-oriented roles.
+- [YOU: DevOps' people problem. People think they're doing ContinuousDelivery, but they probably aren't](http://www.theregister.co.uk/2016/01/15/devops_people_problem/) Chucking a copy of The Phoenix Project at the team ain't the answer
+	- [Puppet Labs 2015 State of DevOps Report](https://puppetlabs.com/2015-devops-report)
+	- [A CIO's Guide to DevOps. Gartner’s September 2015 survey](http://www.gartner.com/webinar/3165618/)
+	- [The Phoenix Projec](http://itrevolution.com/books/phoenix-project-devops-book/)
 
 [![automation](images/automation.png)](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1)
+
+[![Puppet Labs 2015 State of DevOps Report](images/puppetlabs_state_of_devops_report_2015.jpg)](https://puppetlabs.com/2015-devops-report)
+
+[![Use of CD is growing](images/use_of_CD_growing.jpg)](http://www.theregister.co.uk/2016/01/15/devops_people_problem/)
 
 ## Descripción
 - [8 cosas de la cultura startup que aprenden las empresas](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian) Cómo la cultura startup está influenciando a las grandes empresas. Corporaciones, tomen nota: apliquen o desaparezcan.
