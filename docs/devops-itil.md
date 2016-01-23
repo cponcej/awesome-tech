@@ -113,8 +113,6 @@
 
 [![Puppet Labs 2015 State of DevOps Report](images/puppetlabs_state_of_devops_report_2015.jpg)](https://puppetlabs.com/2015-devops-report)
 
-[![Use of CD is growing](images/use_of_CD_growing.jpg)](http://www.theregister.co.uk/2016/01/15/devops_people_problem/)
-
 ## Descripción
 - [8 cosas de la cultura startup que aprenden las empresas](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian) Cómo la cultura startup está influenciando a las grandes empresas. Corporaciones, tomen nota: apliquen o desaparezcan.
 
@@ -226,6 +224,8 @@
 #### Deploying PHP Applications
 - [deployingphpapplications.com](http://www.deployingphpapplications.com/)
 	- [github: book Deploying PHP applications](https://github.com/modess/deploying-php-applications)
+
+[![Use of CD is growing](images/use_of_CD_growing.jpg)](http://www.theregister.co.uk/2016/01/15/devops_people_problem/)
 
 ## Git
 - [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
