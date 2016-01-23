@@ -227,8 +227,6 @@
 
 [![Use of CD is growing](images/use_of_CD_growing.jpg)](http://www.theregister.co.uk/2016/01/15/devops_people_problem/)
 
-![bill murray](images/bill_murray.mp4)
-
 ## Git
 - [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
 - [One Million Downloads of GitLab](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
