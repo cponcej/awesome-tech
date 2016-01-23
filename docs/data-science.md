@@ -69,7 +69,6 @@
 - [analyticsvidhya.com](http://www.analyticsvidhya.com)
 - [datasciencecentral.com](http://www.datasciencecentral.com)
 - [pythonforsocialscientists.org](http://pythonforsocialscientists.org)
-- []()
 
 ## Data collection and processing is growing in sports
 - [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
