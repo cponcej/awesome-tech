@@ -81,6 +81,7 @@
 - [The Daily jQuery](http://paper.li/garduino/jQuery)
 - [Everything Databases](http://paper.li/freelancer317/1344034685) SQL, NoSQL, and everything in between!
 - [MySQL Daily](http://paper.li/GeekTony/1299539381)
+- [The DevOps Daily](http://paper.li/Chuck_Moeller/1445262549)
 
 ## OSSnews.net
 - [OSSnews.net](https://ossnews.net)
