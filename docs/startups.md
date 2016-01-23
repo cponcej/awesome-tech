@@ -181,6 +181,8 @@
 - [Forbes.com: Office Politics: Must You Play? A Handbook For Survival/Success](http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/)
 - [Setting up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
 
+![a person who feels appreciated](images/appreciated_person.jpg)
+
 ### Talks
 - [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
 - [Ted Talks. Susan Cain: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts)
