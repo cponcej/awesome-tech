@@ -96,7 +96,14 @@
 - [Linkedin: The DevOps Coding Dilemma](https://www.linkedin.com/pulse/devops-coding-dilemma-jason-dumars) Developers don't like being tech support for automation, even if they have 'Ops' as part of their title. 
 - [medium.com: DevOps: Shift Left or Be Left](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9) The mainstream adoption of cloud computing is accelerating the shift of operations into the hands of developers.
 - [Culture over technology: The key to DevOps success](http://www.cloudcomputing-news.net/news/2016/jan/21/culture-over-technology-key-devops-success/)
-- [techbeacon.com: Hiring for DevOps: Look beyond the gurus and ninjas](http://techbeacon.com/devops-experts-hiring)
+- [techbeacon.com: Hiring for DevOps: Look beyond the gurus and ninjas](http://techbeacon.com/devops-experts-hiring) Defining the term "DevOps expert".  
+	- What kind of DevOps? 
+
+	>TK Keanini, CTO of Lancope (recently acquired by Cisco), told me it's not that easy. He compared the search for a DevOps expert to the search for a guitarist to join your band. Lots of people know how to play a guitar, but there are a variety of styles of music that can be played on a guitar, and there's also the element of how well the individual guitarist meshes with the rest of the band. In Keanini's opinion, that is what is most important when it comes to filling a DevOps role.
+
+	>Keanini says, "It is like asking an IT guy if they play DevOps. They should be able to describe to you their role, how they play, and what the music of the band sounds like. The trick here is that there are so many manifestations of successful DevOps teams that you really need to understand it in the context of the business they support, because ultimately that is how DevOps creates value. The customer base expects a certain tempo, and DevOps is the only way to deliver at that tempo."
+
+	>While they can all play a guitar, there is a big difference between a classical guitarist, a heavy metal guitarist, a folk music guitarist, and a pop guitarist. Hiring a classical guitar "expert" to join a heavy metal band won't work, no matter how adept the guitarist is with the instrument. The same thing is true about filling DevOps-oriented roles.
 
 [![automation](images/automation.png)](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1)
 
