@@ -21,7 +21,7 @@
 
 <!-- /MarkdownTOC -->
 
-![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)
+[![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)](http://www.creativebloq.com/advertising/web-developer-job-ad-chart-11618853)
 
 # Startups
 - [La economía crece](mkeiser.md)
