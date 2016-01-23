@@ -53,6 +53,7 @@
 	- [Selenium on Twitter](#selenium-on-twitter)
 	- [Podcasts on Twitter](#podcasts-on-twitter)
 	- [IBM, EMCcode on Twitter and github](#ibm-emccode-on-twitter-and-github)
+	- [Startups](#startups)
 
 <!-- /MarkdownTOC -->
 
@@ -77,6 +78,7 @@
 ## Paper.li Newspapers 
 - [Oracle #FusionMiddleware Updates](http://paper.li/rohanwalia17/1417074138)
 - [The Daily jQuery](http://paper.li/garduino/jQuery)
+- [Everything Databases](http://paper.li/freelancer317/1344034685) SQL, NoSQL, and everything in between!
 
 ## OSSnews.net
 - [OSSnews.net](https://ossnews.net)
@@ -447,6 +449,7 @@
 - [Anaconda twitter.com/continuumio](https://twitter.com/continuumio)
 - [twitter.com/IPythonDev](https://twitter.com/IPythonDev)
 - [twitter.com/PyData](https://twitter.com/PyData)
+- [twitter.com/analyticsvidhya](https://twitter.com/analyticsvidhya)
 - [twitter.com/pwang](https://twitter.com/pwang)
 - [twitter.com/fperez_org](https://twitter.com/fperez_org)
 - [twitter.com/wesmckinn](https://twitter.com/wesmckinn)
@@ -499,5 +502,8 @@
 - [twitter.com/developerWorks](https://twitter.com/developerWorks)
 - [emccode.github.io](http://emccode.github.io)
 - [twitter.com/EMCcode](https://twitter.com/EMCcode)
+
+## Startups
+- [entrepreneur.com](http://www.entrepreneur.com/)
 
 [![dreams of dali](images/dreams_of_dali.png)](http://www.dreamsofdali.org)

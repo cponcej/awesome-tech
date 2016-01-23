@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Data Science and Big Data](#data-science-and-big-data)
+	- [Data Science Analytics Blogs](#data-science-analytics-blogs)
 	- [Data collection and processing is growing in sports](#data-collection-and-processing-is-growing-in-sports)
 	- [Google Analytics](#google-analytics)
 	- [Python analytics](#python-analytics)
@@ -54,7 +55,7 @@
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
 - [datasciencecentral.com: 24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
-- [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
+- [visualcapitalist.com: All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
 - [civisanalytics.com: Machine Learning. Workflows in Python: Getting data ready to build models](https://civisanalytics.com/blog/data-science/2015/12/17/workflows-in-python-getting-data-ready-to-build-models/)
 	- [civisanalytics.com: Machine Learning. Workflows in Python: Curating Features and Thinking Scientifically about Algorithms](https://civisanalytics.com/blog/data-science/2015/12/23/workflows-in-python-curating-features-and-thinking-scientifically-about-algorithms/)
 - [redash.io Open Source Data Collaboration Platform](https://github.com/getredash/redash) Connect to any data source, visualize your data and share it with anyone!
@@ -64,7 +65,13 @@
 - [Top 10 Machine Learning Projects on Github](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
 - [Data scientists have the hottest job in America](http://www.infoworld.com/article/3024523/big-data/data-scientists-have-the-hottest-job-in-america.html)
 
-### Data collection and processing is growing in sports
+## Data Science Analytics Blogs
+- [analyticsvidhya.com](http://www.analyticsvidhya.com)
+- [datasciencecentral.com](http://www.datasciencecentral.com)
+- [pythonforsocialscientists.org](http://pythonforsocialscientists.org)
+- []()
+
+## Data collection and processing is growing in sports
 - [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
 	- [nba_py - stats.nba.com API for python](https://github.com/seemethere/nba_py)
 	- [Pro Football Statistics](http://www.pro-football-reference.com/)
@@ -73,7 +80,6 @@
 
 [![worlds most valuable sports teams](images/worlds-most-valuable-sports-teams.png)](http://dadaviz.com/i/4595)
 
-
 ## Google Analytics
 - [Google Analytics para principiantes](http://www.contunegocio.es/tecnologia/google-analytics-para-principiantes-i/)
 
@@ -81,7 +87,7 @@
 - [PyData, a community for developers and users of Python data tools](http://pydata.org)
 - [Python for Data Science vs Python for Web Development](http://www.datasciencecentral.com/profiles/blogs/python-for-data-science-vs-python-for-web-development)
 - [Python for Social Scientists](http://www.pythonforsocialscientists.org/#welcome-to-python-for-social-scientists)
-- [Cheat Sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
+- [analyticsvidhya.com: Cheat Sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 - [Distributed Computing on your Cluster with Anaconda (modern open source analytics platform powered by Python) - Webinar 2015](http://www.slideshare.net/continuumio/distributed-computing-on-your-cluster-with-anaconda-webinar-2015)
 - [reddit: 100 Data Science in Python Interview Questions and Answers](https://www.reddit.com/r/Python/comments/3yrciq/100_data_science_in_python_interview_questions/)
 
