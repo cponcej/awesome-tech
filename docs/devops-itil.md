@@ -127,9 +127,9 @@
 - [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 - [Fabric8 is an integrated open source DevOps and Integration Platform](http://fabric8.io/)
 
-![always that way](images/always_that_way.jpg)
-
 [![agile to market themselves](images/agile_to_market_themselves.png)](https://kenschwaber.wordpress.com/2014/07/30/agile/)
+
+![always that way](images/always_that_way.jpg)
 
 ## Agile planning: Scrum, Kanban, Lean
 - [Javier Garzás: Agilidad](https://www.youtube.com/watch?v=oShXAC26rcs)
