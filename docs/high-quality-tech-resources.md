@@ -334,6 +334,8 @@
 - [LPI](https://en.wikibooks.org/wiki/LPI_Linux_Certification)
 - [Linux Networking](https://en.wikibooks.org/wiki/Linux_Networking)
 
+[![wikipedia jimmy wales](images/wikipedia_jimmy_wales.png)](http://one.elpais.com/jimmy-wales-fundador-de-la-wikipedia-en-su-15o-aniversario-no-es-cierto-que-hayamos-hecho-a-los-alumnos-mas-vagos/)
+
 ## Webcomics
 - [commitstrip.com](http://www.commitstrip.com)
 - [dilbert.com](http://dilbert.com/)
