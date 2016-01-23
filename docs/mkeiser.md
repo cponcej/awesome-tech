@@ -50,6 +50,8 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [![Years in which European countries took part in an international war](images/eu_countries_war.png)](http://ourworldindata.org/data/war-peace/war-and-peace-before-1945/)
 
+[!['It's a graveyard': The software devs leaving Greece for good](images/sw_dev_leaving_greece.png)](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/) The economical turmoil affecting the country is luring its tech staff away, and many don't plan to come back.
+
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
 - [data.oecd.org](https://data.oecd.org)
