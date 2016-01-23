@@ -14,6 +14,7 @@
 	- [Human Resources](#human-resources)
 		- [Office Politics](#office-politics)
 		- [Talks](#talks)
+		- [Leadership Blogs](#leadership-blogs)
 		- [Recursos Humanos](#recursos-humanos)
 		- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
 		- [Interview Preparation Guide](#interview-preparation-guide)
@@ -187,6 +188,9 @@
 - [Simon Sinek: Love Your Work](https://youtu.be/jDIZS4IQlQk)
 - [The 7 Habits of Highly Effective People](https://youtu.be/ktlTxC4QG8g)
 
+### Leadership Blogs
+- [forbes.com/leadership](http://www.forbes.com/leadership)
+
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
 ### Recursos Humanos
@@ -195,6 +199,8 @@
 - [equiposytalento.com](http://www.equiposytalento.com/)
 - [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
+
+[![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
