@@ -173,6 +173,7 @@
 - [hbr.org: Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
+- [9 Signs You Should Run Away From That Job Offer](http://www.inc.com/jt-odonnell/9-signs-you-should-run-away-from-that-job-offer.html)
 - [Good vs Bad Leader](http://vladmihalcea.com/2013/12/28/good-vs-bad-leader/)
 - [Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
 - [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
