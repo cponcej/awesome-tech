@@ -44,7 +44,7 @@
 # DevOps
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
-- [TechBeacon.com](http://techbeacon.com/) Practical Knowledge for dev and thec pros
+- [TechBeacon.com](http://techbeacon.com/) Practical Knowledge for dev and tech pros
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
 - [DZone/DevOps Zone](https://dzone.com/devops-tutorials-tools-news)
 - [DevOpsCube](http://devopscube.com/)
