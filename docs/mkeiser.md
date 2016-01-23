@@ -52,9 +52,11 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [!['It's a graveyard': The software devs leaving Greece for good](images/sw_dev_leaving_greece.png)](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 
+[![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
+
 [![Margin Call Movie Clip - Your Opportunity](images/margin_call_movie_your_opportunity.png)](https://youtu.be/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
 
-[![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
+[![Margin Call Movie Clip - A fire sale](images/margin_call_movie_a_fire_sale.png)](https://youtu.be/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
 
 - [data.oecd.org](https://data.oecd.org)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
