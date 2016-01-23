@@ -37,6 +37,7 @@
 			- [PostgreSQL](#postgresql)
 				- [PostgreSQL on Twitter](#postgresql-on-twitter)
 				- [PostgreSQL refs](#postgresql-refs)
+				- [PostgreSQL Metrics](#postgresql-metrics)
 				- [UPSERT on Postgres 9.5](#upsert-on-postgres-95)
 			- [SQLite](#sqlite)
 			- [TinyDB](#tinydb)
@@ -403,6 +404,13 @@
 - [Introduction to PostgreSQL physical storage](http://rachbelaid.com/introduction-to-postgres-physical-storage/)
 - [Differences between PostgreSQL & MySQL Server](http://www.articlesbase.com/databases-articles/differences-between-postgresql-mysql-server-7377764.html)
 
+##### PostgreSQL Metrics
+- [Powa: PostgreSQL Workload Analyzer](http://dalibo.github.io/powa/)
+- [Spotify PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics)
+- [server side part of `heroku pg:diagnose`](https://github.com/heroku/pgdiagnose)
+- [Pome: a Postgres Metrics Dashboard](https://github.com/rach/pome)
+- [Bucardo](https://bucardo.org/wiki/Check_postgres)
+
 ##### UPSERT on Postgres 9.5
 - [postgresql.org: PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data](http://www.postgresql.org/about/news/1636/)
 - [UPSERT on Postgres 9.5](http://blog.andrebarbosa.co/upsert-on-postgres-9-5/)
@@ -476,6 +484,7 @@
 - [Cassandra.apache.org](http://cassandra.apache.org/)
 - [HBase.apache.org](http://hbase.apache.org/)
 - [Hive.apache.org](https://hive.apache.org/)
+- [rethinkdb.com](http://rethinkdb.com)
 
 #### Apache Drill. Schema free SQL query on everything engines
 - [Apache Drill](https://drill.apache.org/)
