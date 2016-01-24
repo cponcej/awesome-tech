@@ -129,6 +129,8 @@
 
 ![richard branson](images/richardbranson.jpg)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137953413411" data-did="1531d8b9f4aa1cd335a89c80176d79a4aec36b5b"><a href="http://inafev.tumblr.com/post/137953413411/to-all-the-people-on-here-looking-for-jobs">http://inafev.tumblr.com/post/137953413411/to-all-the-people-on-here-looking-for-jobs</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
