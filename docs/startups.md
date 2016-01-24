@@ -213,6 +213,8 @@
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
+[![Women who code](women_who_code.png)](https://youtu.be/k1Pu0_tIgR4)
+
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
 - [slideshare.net: 9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
