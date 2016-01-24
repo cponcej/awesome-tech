@@ -138,6 +138,7 @@
 
 ## Server Hardening
 - [LinuxJournal.com: Server Hardening](http://www.linuxjournal.com/content/server-hardening)
+- [Consejos para endurecer un servidor SSH y hacerlo más seguro](http://totaki.com/poesiabinaria/2016/01/consejor-endurecer-servidor-ssh-hacerlo-seguro/)
 
 ## Major security issues
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)

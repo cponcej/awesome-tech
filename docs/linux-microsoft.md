@@ -587,6 +587,8 @@
 - [twitter.com/jtgreene](https://twitter.com/jtgreene)
 - [twitter.com/arungupta](https://twitter.com/arungupta)
 
+![bringing sysadmin to social event](images/bringing_sysadmin_to_social_event.png)
+
 ### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others
 - [JBoss GateIn Portal](http://gatein.jboss.org/)
 - [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
@@ -704,6 +706,8 @@
 
 # VirtualBox
 - [10 ways to get the most from VirtualBox](http://www.techrepublic.com/blog/10-things/10-ways-to-get-the-most-from-virtualbox/)
+
+![sysadmin no trabajar demasiado](images/sysadmin_no_trabajar_demasiado.png)
 
 # VMware
 - [VMware Front Experience](http://www.v-front.de/)
