@@ -110,6 +110,7 @@
 	- [Puppet Labs 2015 State of DevOps Report](https://puppetlabs.com/2015-devops-report)
 	- [A CIO's Guide to DevOps. Gartner’s September 2015 survey](http://www.gartner.com/webinar/3165618/)
 	- [The Phoenix Projec](http://itrevolution.com/books/phoenix-project-devops-book/)
+- [DevOps Without Ops? Is It Possible?](https://dzone.com/articles/devops-without-ops-is-it-possible)
 
 [![automation](images/automation.png)](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1)
 
@@ -406,9 +407,12 @@
 - [Operations is Dead, but Please Don’t Replace it with DevOps](http://diversity.net.nz/operations-is-dead-but-please-dont-replace-it-with-devops/2013/05/15/)
 - [ITSM vs. DevOps – Agility vs. Control – is this really battle royale?](http://www.vigilantguy.com/itsm-vs-devops-agility-vs-control-is-this-really-battle-royale/)
 
+[![vandalismo car2go](images/car2go.jpg)](http://www.elmundo.es/madrid/2016/01/09/569179e6268e3e25218b462a.html)
+
 ## ITIL Tools
 - [ITIL v3 (Information Technology Infrastructure Library)](https://en.wikibooks.org/wiki/ITIL_v3_%28Information_Technology_Infrastructure_Library%29)
 - [itop - ITSM & CMDB OpenSource. A simple, web based IT Service Management tool ](http://sourceforge.net/projects/itop/)
 - [RackTables.org - a datacenter asset management system](http://racktables.org/)
 
-[![vandalismo car2go](images/car2go.jpg)](http://www.elmundo.es/madrid/2016/01/09/569179e6268e3e25218b462a.html)
+[![is your company ready for devops](images/is_your_company_ready_for_devops.jpg)](http://www.commitstrip.com/en/2015/02/02/is-your-company-ready-for-devops/)
+
