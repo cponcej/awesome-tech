@@ -587,8 +587,6 @@
 - [twitter.com/jtgreene](https://twitter.com/jtgreene)
 - [twitter.com/arungupta](https://twitter.com/arungupta)
 
-![bringing sysadmin to social event](images/bringing_sysadmin_to_social_event.png)
-
 ### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others
 - [JBoss GateIn Portal](http://gatein.jboss.org/)
 - [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
