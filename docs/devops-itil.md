@@ -41,6 +41,8 @@
 
 ![term devops](images/term_devops.jpg)
 
+[![Hiring for DevOps: Look beyond the gurus and ninjas](images/devops_beyond_gurus_ninjas.png)](http://techbeacon.com/devops-experts-hiring)
+
 # DevOps
 ## DevOps Blogs
 - [devops.com](http://devops.com/)

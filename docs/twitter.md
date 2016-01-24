@@ -67,10 +67,12 @@
 - [Content Curation 103: The Best Way To Use Paper.li](http://socialmediaimpact.com/content-curation-103-best-way-use-paper-li)
 - [Paper.li Blog](http://blog.paper.li/)
 - [Por qué colaboras en mis periódicos Paper.li, en Twitter](http://marianaeguaras.com/por-que-colaboras-en-mis-periodicos-paper-li-en-twitter/)
+- [Aprende a realizar curacion de contenidos con Paper.li](http://www.solvetic.com/tutoriales/article/2185-aprende-a-realizar-curacion-de-contenidos-con-paperli/)
 
 ## Feedly
 - [feedly.com](http://feedly.com)
 - [Tim Case's shared collections](http://feedly.com/timrcase) Cloud, DevOps, SQL Server, Tableau, Big Data
+- [feedly.com/fintech](http://feedly.com/fintech)
 
 ## Paper.li LinuxSec
 - [Top #cloudcomputing news](http://paper.li/LinuxSec/1363957787)
@@ -310,6 +312,7 @@
 - [UnixToolTip](https://twitter.com/UnixToolTip)
 - [Command Line Magic](https://twitter.com/climagic)
 - [Tecmint](https://twitter.com/tecmint)
+- [SysAdmHowto](https://twitter.com/SysAdmHowto)
 - [RegexTip](https://twitter.com/RegexTip)
 - [twitter.com/linuxtutorials](https://twitter.com/linuxtutorials)
 - [twitter.com/linuxfoundation](https://twitter.com/linuxfoundation)
