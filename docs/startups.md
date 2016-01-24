@@ -188,7 +188,7 @@
 
 ![a person who feels appreciated](images/appreciated_person.jpg)
 
-![only idiots don't play office politics](images/office_politics.png)(http://www.businessinsider.com/how-to-play-office-politics-2015-3)
+[![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
 ### Talks
 - [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
