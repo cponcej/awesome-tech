@@ -182,6 +182,7 @@
 - [The shortest and greatest SCRUM cheat sheet that I've seen so far](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 - [What Is the Relationship Between Story Points and Task Effort in Hours?](https://www.scrumalliance.org/community/articles/2016/january/what-is-the-relationship-between-story-points-and)
 - [Agile adoption by numbers – and some problems](http://www.javacodegeeks.com/2016/01/agile-adoption-numbers-problems.html)
+- [Ponga un Scrum Master en su vida](https://www.beeva.com/beeva-view/metodologiasagiles/ponga-un-scrum-master-en-su-vida/)
 
 [![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
