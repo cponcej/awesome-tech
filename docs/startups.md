@@ -190,6 +190,8 @@
 
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
+[![Apple CEO Tim Cook on Collaboration](images/tim_cook_on_collaboration.png)](https://youtu.be/EZPYLZ7I6gs)
+
 ### Talks
 - [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
 - [Ted Talks. Susan Cain: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts)
