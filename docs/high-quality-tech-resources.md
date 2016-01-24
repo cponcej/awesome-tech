@@ -341,6 +341,7 @@
 - [commitstrip.com](http://www.commitstrip.com)
 - [dilbert.com](http://dilbert.com/)
 - [Geek & Poke](http://geek-and-poke.com)
+- [tumblr gifs](https://www.tumblr.com/explore/gifs)
 
 ## Reactions. When words aren't enough, say it with animations
 - [Infosec Reactions](http://securityreactions.tumblr.com/)
