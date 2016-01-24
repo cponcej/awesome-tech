@@ -125,6 +125,8 @@
 - [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
 - [43 Best Job Search Websites 2016](http://careersherpa.net/43-best-job-search-websites-2016/)
 
+![a person who feels appreciated](images/appreciated_person.jpg)
+
 ![richard branson](images/richardbranson.jpg)
 
 ### Portales de empleo
@@ -185,8 +187,6 @@
 - [Setting up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
 - [businessinsider.com: Only idiots don't play office politics — here's how to master the game](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 - [Apple CEO Tim Cook on Collaboration and Office Politics](https://youtu.be/EZPYLZ7I6gs)
-
-![a person who feels appreciated](images/appreciated_person.jpg)
 
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
