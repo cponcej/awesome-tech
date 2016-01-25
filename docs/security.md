@@ -32,6 +32,7 @@
 - [foxglovesecurity.com/](http://foxglovesecurity.com/)
 - [securityzap.com](http://securityzap.com/)
 - [Dark Reading](http://www.darkreading.com/)
+- [Red Hat Security](https://securityblog.redhat.com)
 - [Guido Vranken](https://guidovranken.wordpress.com/)
 - [seancassidy.me](https://www.seancassidy.me)
 - [youtube playlist: Dell Security](https://www.youtube.com/playlist?list=PLtVMPnH0I8TSLxGad4D9UGr12S1SH3kcM)

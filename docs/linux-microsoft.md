@@ -477,6 +477,7 @@
 - [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
 - [OpenShift Blog](https://blog.openshift.com)
 - [Red Hat Stack | An OpenStack Blog](http://redhatstackblog.redhat.com/)
+- [Red Hat Security](https://securityblog.redhat.com)
 - [Open Studio](http://openstudio.redhat.com/)
 	- [Open Source stories. Telling stories about the open source way](http://www.redhat.com/en/open-source/stories)
 - [middlewareblog.redhat.com](http://middlewareblog.redhat.com)
