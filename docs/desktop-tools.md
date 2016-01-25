@@ -43,6 +43,7 @@
 - [fortune.com: 5 ways to fight your fear of public speaking](http://fortune.com/2015/08/06/fear-public-speaking-gary-vaynerchuk/)
 - [Does body language help a TED Talk go viral? 5 nonverbal patterns from blockbuster talks](http://blog.ted.com/body-language-survey-points-to-5-nonverbal-features-that-make-ted-talks-take-off/)
 - [presentationgo.com](http://www.presentationgo.com/) The free PowerPoint library
+- [10 ridiculous but brilliant ways to look smart in a meeting](http://uk.businessinsider.com/ridiculous-but-brilliant-ways-to-look-smart-in-a-meeting-2015-3)
 
 [![hp mini pc](images/hp_mini.jpg)](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
 

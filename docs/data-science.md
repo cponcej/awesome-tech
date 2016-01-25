@@ -33,9 +33,11 @@
 				- [MySQL Blogs](#mysql-blogs)
 				- [MySQL Tutorials](#mysql-tutorials)
 				- [MySQL Books](#mysql-books)
-				- [MySQL Cluster](#mysql-cluster)
+				- [MySQL Cluster. MySQL Replication](#mysql-cluster-mysql-replication)
 				- [MySQL metrics](#mysql-metrics)
 				- [MySQL Best Practices](#mysql-best-practices)
+			- [MariaDB](#mariadb)
+				- [MariaDB Replication](#mariadb-replication)
 			- [PostgreSQL](#postgresql)
 				- [PostgreSQL on Twitter](#postgresql-on-twitter)
 				- [PostgreSQL refs](#postgresql-refs)
@@ -359,7 +361,7 @@
 - [highperfmysql.com - High Performance MySQL. Learn to Build Fast, Reliable, Scalable Systems with MySQL](http://www.highperfmysql.com/)
 - [High Performance MySQL, 3rd Edition](http://it-ebooks.info/book/676/)
 
-##### MySQL Cluster
+##### MySQL Cluster. MySQL Replication
 - [mysqlhighavailability.com](http://mysqlhighavailability.com)
 - [Download MySQL Cluster](http://dev.mysql.com/downloads/cluster/)
 - [MySQL Cluster 7.4 Release Notes](http://dev.mysql.com/doc/relnotes/mysql-cluster/7.4/en/preface.html)
@@ -367,6 +369,7 @@
 - [dba.stackexchange.com: Configuring MySQL Cluster](http://dba.stackexchange.com/questions/126576/configuring-mysql-cluster)
 - [Running an optimized MariaDB (MySQL) cluster on Azure (November 2014)](http://sabbour.me/running-a-mariadb-cluster-on-azure/)
 - [maquinasvirtuales.eu: Mysql Cluster Configuration](http://www.maquinasvirtuales.eu/mysql-cluster-configuration/)
+- [tecmint.com: How to Setup MySQL (Master-Slave) Replication in RHEL, CentOS, Fedora](http://www.tecmint.com/how-to-setup-mysql-master-slave-replication-in-rhel-centos-fedora/)
 
 ##### MySQL metrics
 - [Box Anemometer](https://github.com/box/Anemometer)
@@ -389,6 +392,10 @@
 - [Migrating from PostgreSQL to MySQL](http://www.tocker.ca/2013/09/05/migrating-from-postgresql-to-mysql.html)
 
 [![generatedata.com](images/generatedata.jpg)](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
+
+#### MariaDB
+##### MariaDB Replication
+- [tecmint.com: Setup MariaDB (Master-Slave) Replication in CentOS/RHEL 7 and Debian 8](http://www.tecmint.com/mariadb-master-slave-replication-on-centos-rhel-debian/)
 
 #### PostgreSQL
 ##### PostgreSQL on Twitter
