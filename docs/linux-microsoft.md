@@ -327,6 +327,9 @@
 
 ## Vim and Emacs
 ### Vim
+- [tecmint.com: Learn Useful ‘Vi/Vim’ Editor Tips and Tricks to Enhance Your Skills – Part 1](http://www.tecmint.com/learn-vi-and-vim-editor-tips-and-tricks-in-linux/)
+- [tecmint.com: 8 Interesting ‘Vi/Vim’ Editor Tips and Tricks for Every Linux Administrator – Part 2](http://www.tecmint.com/how-to-use-vi-and-vim-editor-in-linux/)
+- [tecmint.com: LFCS: How to Install and Use vi/vim as a Full Text Editor – Part 2](http://www.tecmint.com/vi-editor-usage/)
 - [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 - [Vim Essentials](http://www.semicomplete.com/presentations/vim/)
 - [8 Essential Vim Editor Navigation Fundamentals](http://www.thegeekstuff.com/2009/03/8-essential-vim-editor-navigation-fundamentals/)
