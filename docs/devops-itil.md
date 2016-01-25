@@ -271,6 +271,7 @@
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [git-scm clients](http://git-scm.com/downloads)
 - [TortoiseGit](https://tortoisegit.org/)
+- [Git Extensions](http://sourceforge.net/projects/gitextensions/) Git Extensions is a toolkit aimed at making working with Git on Windows more intuitive
 
 [![git image](images/git.png)](http://www.cyberciti.biz/)
 
