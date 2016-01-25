@@ -213,6 +213,7 @@
 - [equiposytalento.com](http://www.equiposytalento.com/)
 - [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
+- [El jefe de RRHH de Google es tajante: "El expediente académico no sirve para nada"](http://www.elconfidencial.com/alma-corazon-vida/2013-06-28/el-expediente-academico-no-sirve-para-nada-asegura-el-responsable-de-rrhh-de-google_501910/)
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
