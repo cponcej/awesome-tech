@@ -54,6 +54,7 @@
 
 <!-- /MarkdownTOC -->
 
+![If drivers were hired like programmers](drivers_hired_like_programmers.jpg)
 
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
@@ -75,6 +76,7 @@
 - [analyticsvidhya.com](http://www.analyticsvidhya.com)
 - [datasciencecentral.com](http://www.datasciencecentral.com)
 - [pythonforsocialscientists.org](http://pythonforsocialscientists.org)
+- [leifengtechblog.wordpress.com](https://leifengtechblog.wordpress.com)
 
 ## Data collection and processing is growing in sports
 - [reddit: Are there any good resources for Python and Proffesional sports data?](https://www.reddit.com/r/Python/comments/3xa59x/are_there_any_good_resources_for_python_and/)
@@ -115,6 +117,8 @@
 - [Talk Python to Me Podcast. Episode #34: Continuum: Scientific Python and The Business of Open Source](http://talkpython.fm/episodes/show/34/continuum-scientific-python-and-the-business-of-open-source)
 - [data science IPython Notebooks under the Apache 2 license](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [reddit: What is the difference between coding in Sublime versus an Jupyter IPython notebook?](https://www.reddit.com/r/Python/comments/40u59r/what_is_the_difference_between_coding_in_sublime/)
+- [How to Install Numpy, SciPy, Scikit-learn, Pandas, Matplotlib, and NLTK libraries for Python 3 on Windows](https://leifengtechblog.wordpress.com/2015/11/24/how-to-install-numpy-scipy-scikit-learn-pandas-matplotlib-and-nltk-libraries-for-python-3-on-windows/)
+- [Installing and Managing Python and Packages with Anaconda](https://leifengtechblog.wordpress.com/2016/01/15/installing-and-managing-python-and-packages-with-anaconda/)
 
 [![anaconda is](images/anaconda-is.jpg)](https://www.continuum.io/why-anaconda)
 
@@ -176,6 +180,7 @@
 - [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
 - [dbi.io: Visualización de Datos con Tableau de los resultados de una encuesta (4Q)](http://www.dbi.io/es/blog/visualizacion-de-datos-de-encuesta-con-tableau)
 - [flowingdata.com](http://flowingdata.com/)
+- [Join Multiple Excel Workbooks through Custom SQL Query in Tableau](https://leifengtechblog.wordpress.com/2015/10/28/join-multiple-excel-workbooks-through-custom-sql-query-in-tableau/)
 
 ### Apache Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
