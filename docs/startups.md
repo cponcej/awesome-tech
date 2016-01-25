@@ -218,6 +218,8 @@
 
 [![Women who code](images/women_who_code.png)](https://youtu.be/k1Pu0_tIgR4)
 
+[![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
+
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
 - [slideshare.net: 9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
