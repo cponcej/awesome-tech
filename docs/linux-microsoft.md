@@ -461,7 +461,11 @@
 
 - List both running privileged and unprivileged lxc containers: 
 
-		netstat -ax | egrep '@.*/lxc/.*/command$'		
+		netstat -ax | egrep '@.*/lxc/.*/command$'	
+
+- Want to find out the MAC addresses of the KVM powered VM? Try
+
+		virsh dumpxml VM_NAME | grep 'mac address'	
 
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
