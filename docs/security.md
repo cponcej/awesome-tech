@@ -22,7 +22,6 @@
 
 <!-- /MarkdownTOC -->
 
-
 # Security
 ## Security Blogs
 - [seclists.org](http://seclists.org/)
