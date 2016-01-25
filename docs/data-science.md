@@ -54,7 +54,7 @@
 
 <!-- /MarkdownTOC -->
 
-![If drivers were hired like programmers](drivers_hired_like_programmers.jpg)
+![If drivers were hired like programmers](images/drivers_hired_like_programmers.jpg)
 
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
