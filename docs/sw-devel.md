@@ -289,6 +289,7 @@
 	- [Python Threads and the Global Interpreter Lock](http://jessenoller.com/blog/2009/02/01/python-threads-and-the-global-interpreter-lock)
 - [devbattles.com: Python list. Functions and Methods lists](http://www.devbattles.com/en/sand/post-1754-Python_list_Functions_and_Methods_lists)
 - [devbattles.com: Python: sorting lists by .sort () with - in simple words](http://www.devbattles.com/en/sand/post-1752-Python_sorting_lists_by_sort__with__in_simple_words)
+- [Create a GUI Application Using Qt and Python in Minutes: Example Web Browser](http://www.digitalpeer.com/blog/create-a-gui-application-using-qt-and-python-in-minutes-example-web-browser)
 
 [![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
 
