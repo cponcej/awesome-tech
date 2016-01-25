@@ -52,9 +52,11 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [!['It's a graveyard': The software devs leaving Greece for good](images/sw_dev_leaving_greece.png)](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 
-[![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
-
 [![businessinsider.com: animated map shows religion across the world](images/religion_across_the_world.png)](http://www.businessinsider.com/map-shows-how-religion-spread-around-the-world-2015-6)
+
+[![businessinsider.com: These striking images show just how overcrowded China's population really is](images/china_population.png)](http://www.businessinsider.com/photos-show-overcrowded-china-2015-11)
+
+[![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
 [![Margin Call Movie Clip - Your Opportunity](images/margin_call_movie_your_opportunity.png)](https://youtu.be/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
 
@@ -82,6 +84,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era. Jeremy Rifkin](https://en.wikipedia.org/wiki/The_End_of_Work)
 - [blogs.wsj.com: Six Years Later, 93% of U.S. Counties Haven’t Recovered From Recession, Study Finds](http://blogs.wsj.com/economics/2016/01/12/six-years-later-93-of-u-s-counties-havent-recovered-from-recession-study-finds/)
 - [The future of jobs. The onrushing wave.](http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less) Previous technological innovation has always delivered more long-run employment, not less. But things can change
+- [15 documentaries on Netflix that will make you smarter about business](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
 - [Quince películas para entender la crisis](http://www.elmundo.es/cultura/2016/01/15/56991002e2704e61348b45cb.html)
 	- [Margin Call quotes](http://www.imdb.com/title/tt1615147/quotes)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
