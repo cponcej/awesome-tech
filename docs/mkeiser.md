@@ -54,6 +54,8 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
+[![businessinsider.com: animated map shows religion across the world](images/religion_across_the_world.png)](http://www.businessinsider.com/map-shows-how-religion-spread-around-the-world-2015-6)
+
 [![Margin Call Movie Clip - Your Opportunity](images/margin_call_movie_your_opportunity.png)](https://youtu.be/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
 
 [![Margin Call Movie Clip - A fire sale](images/margin_call_movie_a_fire_sale.png)](https://youtu.be/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)

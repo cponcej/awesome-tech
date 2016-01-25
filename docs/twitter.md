@@ -165,6 +165,7 @@
 - [twitter.com/ansible4devops](https://twitter.com/ansible4devops)
 	- [twitter.com/geerlingguy](https://twitter.com/geerlingguy)
 - [twitter.com/ansiblebook](https://twitter.com/ansiblebook)
+- [twitter.com/AnsiblePro](https://twitter.com/AnsiblePro)
 - [twitter.com/AnsibleBenelux](https://twitter.com/AnsibleBenelux)
 - [twitter.com/ansible_berlin](https://twitter.com/ansible_berlin)
 - [twitter.com/AnsibleBCN](https://twitter.com/AnsibleBCN)
