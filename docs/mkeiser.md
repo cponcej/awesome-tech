@@ -85,5 +85,6 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [Quince películas para entender la crisis](http://www.elmundo.es/cultura/2016/01/15/56991002e2704e61348b45cb.html)
 	- [Margin Call quotes](http://www.imdb.com/title/tt1615147/quotes)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
+- [El precariado: una nueva clase social (E791)](https://youtu.be/8cdPD71jZjM) El fenómeno supera todas la fronteras geográficas
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
 - [¿Va a estallar Silicon Valley?](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
