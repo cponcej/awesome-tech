@@ -192,13 +192,14 @@
 - [How to delete a single command from history on a Linux, OS X and Unix Bash shell](http://www.cyberciti.biz/faq/delete-command-from-history-linux-unix-osx-bash-shell/)
 - [How to change system’s hostname on HP-UX Unix system](http://www.cyberciti.biz/faq/hp-ux-change-systems-hostname-command/)
 - [Linux/Unix: bg Command Examples](http://www.cyberciti.biz/faq/unix-linux-bg-command-examples-usage-syntax/)
-- [Linux / Unix: jobs Command Examples](http://www.cyberciti.biz/faq/unix-linux-jobs-command-examples-usage-syntax/)
+- [Linux/Unix: jobs Command Examples](http://www.cyberciti.biz/faq/unix-linux-jobs-command-examples-usage-syntax/)
 - [diff Command: Colorize Output On The Unix/Linux Command Line](http://www.cyberciti.biz/programming/color-terminal-highlighter-for-diff-files/)
 - [Linux Run Command As Another User](http://www.cyberciti.biz/open-source/command-line-hacks/linux-run-command-as-different-user/)
 - [Much faster incremental apt updates](https://juliank.wordpress.com/2015/12/26/much-faster-incremental-apt-updates/)
 - [Linux/UNIX: Convert Hexadecimal to Decimal Number](http://www.cyberciti.biz/faq/linux-unix-convert-hex-to-decimal-number/)
 - [A Shell Primer: Master Your Linux, OS X, Unix Shell Environment](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/)
 - [Monkeying around on the bash command line in 2016](http://www.computerworld.com/article/3018637/open-source-tools/monkeying-around-on-the-bash-command-line-in-2016.html)
+- [Linux/UNIX: Find Out If File Exists With Conditional Expressions](http://www.cyberciti.biz/tips/find-out-if-file-exists-with-conditional-expressions.html)
 
 ### Command line text manipulation tools 
 - [AWK](https://en.wikipedia.org/wiki/AWK)
@@ -320,6 +321,7 @@
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
 - [How to block an IP address with ufw on Ubuntu Linux server](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
+- [Secure Your Linux Desktop and SSH Login Using Two Factor Google Authenticator](http://www.cyberciti.biz/open-source/howto-protect-linux-ssh-login-with-google-authenticator/)
 
 [![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
 

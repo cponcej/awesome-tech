@@ -288,6 +288,8 @@
 - [Grinder](http://grinder.sourceforge.net/)
 - [xmodulo.com: What are good web server benchmarking tools for Linux](http://xmodulo.com/web-server-benchmarking-tools-linux.html)
 - [Performance Testing With Real Browsers: using Selenium WebDriver with BlazeMeter and/or JMeter on its own](https://blazemeter.com/blog/view-webcast-performance-testing-real-browsers)
+- [httpress: 1M HTTP Requests per second using Nginx and Ubuntu 12.04 on EC2](http://raby.sh/1m-http-requests-per-second-using-nginx-and-ubuntu-1204-on-ec2.html)
+	- [httpress](https://bitbucket.org/yarosla/httpress/wiki/Home)
 
 ## Metric monitoring
 ### Tools
