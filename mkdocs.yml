@@ -10,7 +10,7 @@ pages:
 - WebApp, Middleware, JVM: webapp.md
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
-- Configuration Management and Orchestration: config-mgmt.md
+- Configuration Management and Orchestration. Docker: config-mgmt.md
 - DevOps and ITIL: devops-itil.md
 - Software Development: sw-devel.md
 - Data Science and Big Data: data-science.md

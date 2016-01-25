@@ -219,7 +219,7 @@
 - [DZone/Integration: Apache Camel for Micro­service Architectures](https://dzone.com/articles/apache-camel-micro%C2%ADservice)
 	- [hawt.io: a modular web console for managing your Java stuff](http://hawt.io/)
 
-![Updated map of the microservices ecosystem, by Sequoia Capital](images/microservices_ecosystem_map.png)
+[![Updated map of the microservices ecosystem](images/microservices_ecosystem_map.png)](http://techcrunch.com/2016/01/23/get-small-to-get-big-through-microservices/)
 
 ![extraordinary](images/extraordinary.gif)
 
