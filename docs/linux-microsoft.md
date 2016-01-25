@@ -253,6 +253,7 @@
 - [Collecting Ubuntu Linux System Information](http://www.cyberciti.biz/hardware/collecting-ubuntu-linux-system-information/)
 - [howtoforge.com: Server Monitoring with Munin and Monit on Ubuntu 14.04 LTS](https://www.howtoforge.com/tutorial/server-monitoring-with-munin-and-monit-on-ubuntu-14-04/)
 - [github: Script for automating Linux memory capture and analysis](https://github.com/halpomeranz/lmg)
+- [slideshare.net: Broken Linux Performance Tools 2016](http://www.slideshare.net/brendangregg/broken-linux-performance-tools-2016)
 
 [![glances ubuntu output](images/glances-ubuntu-output.png)](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
 
@@ -455,6 +456,10 @@
 - Want to see disks attached to Linux server? Try 
 
 		lsscsi
+
+- Want to list SCSI devices (or hosts) and their attributes under Linux operating systems? Try 
+
+		lsscsi -g
 
 - Want to delete existing SAN LUNs on Linux?
 
