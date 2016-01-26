@@ -705,6 +705,7 @@
 	- [thenextweb.com: Microsoft’s speedy Chakra JavaScript engine is now open source](http://thenextweb.com/dd/2016/01/13/microsofts-speedy-chakra-javascript-engine-is-now-open-source/)
 - [Acompli is now Outlook app. Microsoft acquires Acompli, provider of innovative mobile email apps](https://www.acompli.com/)
 - [ChatOps on Windows with Hubot and PowerShell](https://hodgkins.io/chatops-on-windows-with-hubot-and-powershell/)
+- [Microsoft opens up its deep-learning toolkit on GitHub](http://www.pcworld.com/article/3026236/microsoft-opens-up-its-deep-learning-toolkit-on-github.html)
 
 [![number of running windows dec 2015](images/number_of_win10.jpg)](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
 
