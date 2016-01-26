@@ -185,6 +185,7 @@
 - [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
 - [modelviewculture.com: The Full-Stack Employee and The Glorification of Generalization](https://modelviewculture.com/news/the-full-stack-employee-and-the-glorification-of-generalization)
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
+- [8 phrases to eliminate from your work vocabulary](http://www.businessinsider.com/phrases-to-eliminate-from-your-work-vocab-2016-1)
 
 ### Office Politics
 - [Forbes.com: Office Politics: Must You Play? A Handbook For Survival/Success](http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/)
