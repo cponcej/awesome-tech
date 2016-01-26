@@ -23,6 +23,7 @@
 
 <!-- /MarkdownTOC -->
 
+![old school pre-google mulder](images/old_school_mulder.gif)
 
 # High quality tech resources and search engines
 
