@@ -95,6 +95,7 @@
 - Add twitter resources to your custom twitter lists or subscribe to someone else's lists.
 - [TweetDeck](https://tweetdeck.twitter.com)
 	- [TweetDeck, an easy way to monitor Twitter](http://www.kaleo.org/features/the-byte-tweetdeck-an-easy-way-to-monitor-twitter/article_eab23b50-bffd-11e5-836e-b7830032ddb4.html)
+- [Commun.it](https://commun.it) Easy Social Media Management
 
 ## Marketing Digital
 - [twitter.com/carlosblanco](https://twitter.com/carlosblanco)
