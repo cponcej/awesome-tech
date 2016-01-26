@@ -14,6 +14,7 @@
 			- [MySQL via Ansible](#mysql-via-ansible)
 			- [PostgreSQL via Ansible](#postgresql-via-ansible)
 			- [Oracle via Ansible](#oracle-via-ansible)
+			- [Elasticsearch via Ansible](#elasticsearch-via-ansible)
 	- [Puppet](#puppet)
 		- [Application Orchestration](#application-orchestration)
 		- [WebLogic via Puppet](#weblogic-via-puppet)
@@ -127,6 +128,9 @@
 #### Oracle via Ansible
 - [Nodalpoint.com: Using Ansible to configure a CentOS 7.1 server with Oracle 12c R1 Enterprise Edition Database](http://www.nodalpoint.com/devops-ansible-oracle-database-oraclelinux-7-vagrant/)
 	- [middlewaresnippets.blogspot.com - How to set-up an Oracle Database with Ansible](http://middlewaresnippets.blogspot.com/2015/06/more-fun-with-ansible.html)
+
+#### Elasticsearch via Ansible
+- [Deploying Elasticsearch with Ansible](https://www.elastic.co/blog/deploying-elasticsearch-with-ansible)
 
 [![Red Hat acquires Ansible](images/redhat-ansible.png)](https://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
 
