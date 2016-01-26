@@ -474,6 +474,12 @@
 
 		virsh dumpxml VM_NAME | grep 'mac address'	
 
+- Want to list block devices on #Linux easily? Try 
+
+		lsblk 
+		lsblk -m 
+		lsblk -f
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 # Red Hat
