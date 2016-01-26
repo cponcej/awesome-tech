@@ -248,6 +248,7 @@
 - [5 Reasons You May Not Want to Work for Google](https://www.linkedin.com/pulse/20140603115508-7668018-5-reasons-you-may-not-want-to-work-for-google)
 - [An Interview Is a Conversation, Not an Interrogation](http://career-advice.monster.com/job-interview/interview-preparation/tame-hostile-interviewer/article.aspx)
 - [Your Turn to Ask Questions](http://career-advice.monster.com/job-interview/interview-questions/your-turn-to-ask-questions/article.aspx)
+- [How to get any job you want — even if you're not technically qualified](http://www.businessinsider.com/how-to-get-any-job-you-want-even-if-youre-not-technically-qualified-2016-1)
 
 ![war room](images/war_room.gif)
 
