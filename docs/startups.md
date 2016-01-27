@@ -194,10 +194,13 @@
 - [Setting up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
 - [businessinsider.com: Only idiots don't play office politics — here's how to master the game](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 - [Apple CEO Tim Cook on Collaboration and Office Politics](https://youtu.be/EZPYLZ7I6gs)
+- [An Introvert's Guide to Surviving Team Lunches](http://goingconcern.com/post/introverts-guide-surviving-team-lunches)
 
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
 [![Apple CEO Tim Cook on Collaboration](images/tim_cook_on_collaboration.png)](https://youtu.be/EZPYLZ7I6gs)
+
+[![An Introvert's Guide to Surviving Team Lunches](images/lets_grab_lunch.png)](http://goingconcern.com/post/introverts-guide-surviving-team-lunches)
 
 ### Talks
 - [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
