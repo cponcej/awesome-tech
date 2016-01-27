@@ -1,5 +1,7 @@
 # Awesome Tech [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![Utopia Eduardo Galeano](images/utopia_eduardo_galeano.png)
+
 **Table of Contents**
 
 1. [High quality tech resources and search engines](high-quality-tech-resources.md)
@@ -20,8 +22,6 @@
 16. [Cloud](cloud.md)
 17. [Desktop Tools and Presentations](desktop-tools.md)
 18. [E-Learning](e-learning.md)
-
-![Utopia Eduardo Galeano](images/utopia_eduardo_galeano.png)
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
