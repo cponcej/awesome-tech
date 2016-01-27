@@ -64,6 +64,8 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [![China use of cement](images/china_use_of_cement.png)](https://twitter.com/intlspectator)
 
+[![First languages spoken](images/first_languages_spoken.png)](https://twitter.com/intlspectator)
+
 - [data.oecd.org](https://data.oecd.org)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
 - [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
