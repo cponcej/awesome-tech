@@ -21,4 +21,7 @@
 17. [Desktop Tools and Presentations](desktop-tools.md)
 18. [E-Learning](e-learning.md)
 
+![Utopia Eduardo Galeano](images/utopia_eduardo_galeano.png)
+
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
+
