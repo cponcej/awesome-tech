@@ -3,6 +3,7 @@
 
 - [Desktop Tools](#desktop-tools)
 	- [Evernote on Twitter](#evernote-on-twitter)
+	- [Thunderbird Extensions](#thunderbird-extensions)
 - [Presentations](#presentations)
 
 <!-- /MarkdownTOC -->
@@ -36,6 +37,11 @@
 - [twitter.com/evernote_fr](https://twitter.com/evernote_fr)
 - [https://twitter.com/Evernote_IN](https://twitter.com/Evernote_IN)
 - [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
+
+## Thunderbird Extensions
+- [Provider for Google Calendar](https://addons.mozilla.org/es/thunderbird/addon/provider-for-google-calendar)
+- [gContactSync](https://addons.mozilla.org/thunderbird/addon/gcontactsync/)
+- [Google Tasks Sync](https://addons.mozilla.org/thunderbird/addon/google-tasks-sync/?src=search)
 
 # Presentations
 - [twitter.com/PresGeeks](https://twitter.com/PresGeeks)
