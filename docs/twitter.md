@@ -517,4 +517,4 @@
 ## Startups
 - [entrepreneur.com](http://www.entrepreneur.com/)
 
-[![dreams of dali](images/dreams_of_dali.png)](http://www.dreamsofdali.org)
+![If drivers were hired like programmers](images/drivers_hired_like_programmers.jpg)
