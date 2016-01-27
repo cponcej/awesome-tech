@@ -517,4 +517,5 @@
 ## Startups
 - [entrepreneur.com](http://www.entrepreneur.com/)
 
-![If drivers were hired like programmers](images/drivers_hired_like_programmers.jpg)
+[If Carpenters Were Hired Like Programmers](https://www.reddit.com/r/programming/comments/16qbxn/if_carpenters_were_hired_like_programmers/)
+[![If drivers were hired like programmers](images/drivers_hired_like_programmers.jpg)](https://www.jitbit.com/alexblog/203-what-if-drivers-were-hired-like-programmers/)
