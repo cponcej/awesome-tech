@@ -39,7 +39,7 @@
 - [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
 
 ## Thunderbird Extensions
-- [Provider for Google Calendar](https://addons.mozilla.org/es/thunderbird/addon/provider-for-google-calendar)
+- [Provider for Google Calendar](https://addons.mozilla.org/thunderbird/addon/provider-for-google-calendar)
 - [gContactSync](https://addons.mozilla.org/thunderbird/addon/gcontactsync/)
 - [Google Tasks Sync](https://addons.mozilla.org/thunderbird/addon/google-tasks-sync/?src=search)
 
