@@ -71,6 +71,7 @@
 
 ## Machine Learning solutions
 - [TensorFlow](https://www.tensorflow.org)
+- [Microsoft opens up its deep-learning toolkit on GitHub](http://www.pcworld.com/article/3026236/microsoft-opens-up-its-deep-learning-toolkit-on-github.html)
 
 ## Data Science Analytics Blogs
 - [analyticsvidhya.com](http://www.analyticsvidhya.com)
