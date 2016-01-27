@@ -194,12 +194,15 @@
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
 - [continuousdelivery.com](http://continuousdelivery.com/)
+	- [Visualizations of Continuous Delivery](http://continuousdelivery.com/2014/02/visualizations-of-continuous-delivery/)
 - [Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
 - [Continuously Delivering SOA. Learn about how to apply Continuous Delivery principles to SOA, when test services aren't adequate, and the mechanics of service virtualization](https://dzone.com/articles/continuously-delivering-soa)
 - [28 DevOps and Continuous Delivery Reference Architectures](https://medium.com/@weekstweets/28-devops-and-continuous-delivery-reference-architectures-6a6ec82c4182#.1ju1glurv)
 	- [DevOps and Continuous Delivery Reference Architectures (including Nexus and other popular tools)](http://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 	- [DevOps and Continuous Delivery Reference Architectures - Volume 2](http://www.slideshare.net/SonatypeCorp/devops-and-continuous-delivery-reference-architectures)
 	- [Experts Share DevOps/CD Reference Architectures](https://youtu.be/deQ_EcMXh7o)
+
+[![visualizations continuous delivery](images/visualizations_continuous_delivery.png)](http://continuousdelivery.com/2014/02/visualizations-of-continuous-delivery/)
 
 #### CI Jenkins, Travis
 - [Latest Jenkins related links can be found on @reddit.com/r/jenkinsci](https://www.reddit.com/r/jenkinsci/)
