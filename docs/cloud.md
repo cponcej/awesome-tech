@@ -14,7 +14,7 @@
 	- [AWS on Twitter](#aws-on-twitter)
 	- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
 	- [AWS re:Invent 2015](#aws-reinvent-2015)
-	- [AWS Official Blog, AWS Labs, AWS Quick Start](#aws-official-blog-aws-labs-aws-quick-start)
+	- [AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start](#aws-architecture-blog-official-blog-aws-labs-aws-quick-start)
 		- [AWS New Features](#aws-new-features)
 		- [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
 		- [AWS RDS](#aws-rds)
@@ -171,7 +171,8 @@
 
 [![cloud job market](images/cloud_job_market.png)](http://cloudacademy.com/blog/cloud-computing-salary/)
 
-## AWS Official Blog, AWS Labs, AWS Quick Start
+## AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start
+- [AWS Architecture Blog](https://www.awsarchitectureblog.com)
 - [AWS Official Blog](http://blogs.aws.amazon.com/)
 - [AWS Labs GitHub](https://github.com/awslabs)
 - [AWS Quick Start Reference Deployments](http://aws.amazon.com/es/quickstart/)

@@ -206,6 +206,8 @@
 [![visualizations continuous delivery](images/visualizations_continuous_delivery.png)](http://continuousdelivery.com/2014/02/visualizations-of-continuous-delivery/)
 
 #### CI Jenkins, Travis
+- [jenkins-ci.org](https://jenkins-ci.org)
+- [Cloudbees Jenkins Platform](https://www.cloudbees.com/products/cloudbees-jenkins-platform)
 - [Latest Jenkins related links can be found on @reddit.com/r/jenkinsci](https://www.reddit.com/r/jenkinsci/)
 - [Jenkins User Conference West 2015 - Slides available](https://www.cloudbees.com/jenkins/juc-2015/us-west)
 	- [Jenkins and Docker: Next Generation Continuous Delivery](https://www.linkedin.com/pulse/jenkins-docker-next-generation-continuous-delivery-khadija-kerissi)

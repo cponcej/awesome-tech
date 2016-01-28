@@ -211,6 +211,7 @@
 
 ### Leadership Blogs
 - [forbes.com/leadership](http://www.forbes.com/leadership)
+- [Addicted to success](http://addicted2success.com)
 
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
