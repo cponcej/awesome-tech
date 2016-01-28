@@ -100,4 +100,8 @@
 - [Savage Lovecast](http://www.savagelovecast.com/)
 - [Velo Club Don Logan](http://veloclubdonlogan.co.uk/category/podcast/)
 
+<!--
 [![dreams of dali](images/dreams_of_dali.png)](http://www.dreamsofdali.org)
+-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2nh1itve0AQ" frameborder="0" allowfullscreen></iframe>

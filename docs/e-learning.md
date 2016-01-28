@@ -54,7 +54,11 @@
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
 - [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 
+<!--
 [![David Marquet: Fix the Environment, Not People](images/david_marquet_fix_environment.png)](https://davidmarquet.wordpress.com/2016/01/20/fix-the-environment-not-people/)
+-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys" frameborder="0" allowfullscreen></iframe>
 
 ## Free e-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)

@@ -54,13 +54,23 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [![businessinsider.com: animated map shows religion across the world](images/religion_across_the_world.png)](http://www.businessinsider.com/map-shows-how-religion-spread-around-the-world-2015-6)
 
+<!--
 [![businessinsider.com: These striking images show just how overcrowded China's population really is](images/china_population.png)](http://www.businessinsider.com/photos-show-overcrowded-china-2015-11)
+-->
+
+<script height="438px" width="778px" src="http://player.ooyala.com/iframe.js#ec=11Yjg0eTqd5rZxjrUtLggDV0VoibCYIv&pbid=6e12e8b3387a44daacfb73afba25a76e"></script>
 
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
+<!--
 [![Margin Call Movie Clip - Your Opportunity](images/margin_call_movie_your_opportunity.png)](https://youtu.be/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
 
 [![Margin Call Movie Clip - A fire sale](images/margin_call_movie_a_fire_sale.png)](https://youtu.be/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
+-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen></iframe>
 
 [![China use of cement](images/china_use_of_cement.png)](https://twitter.com/intlspectator)
 
