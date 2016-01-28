@@ -237,6 +237,12 @@
 
 [![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
 
+<!--
+[![David Marquet: Fix the Environment, Not People](images/david_marquet_fix_environment.png)](https://davidmarquet.wordpress.com/2016/01/20/fix-the-environment-not-people/)
+-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys" frameborder="0" allowfullscreen></iframe>
+
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
 - [slideshare.net: 9 Box Performance-Potential Matrix](http://www.slideshare.net/shakib362/9-box)
