@@ -229,7 +229,11 @@
 	- [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
 - [Medium's Stack: The Stack That Helped Medium Scale To 2.6 Millennia Of Reading Time](http://stackshare.io/medium/the-stack-that-helped-medium-scale-to-2-6-millennia-of-reading-time)
 
+<!--
 [![Here Comes Another Bubble v1.1 - The Richter Scales](images/nobubble.jpg)](https://youtu.be/I6IQ_FOCE6I)
+-->
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/I6IQ_FOCE6I" frameborder="0" allowfullscreen></iframe>
 
 ## Marketplaces
 ### Noodlio
@@ -336,7 +340,11 @@
 - [LPI](https://en.wikibooks.org/wiki/LPI_Linux_Certification)
 - [Linux Networking](https://en.wikibooks.org/wiki/Linux_Networking)
 
+<!--
 [![wikipedia jimmy wales](images/wikipedia_jimmy_wales.png)](http://one.elpais.com/jimmy-wales-fundador-de-la-wikipedia-en-su-15o-aniversario-no-es-cierto-que-hayamos-hecho-a-los-alumnos-mas-vagos/)
+-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e8w6WcZPcG4" frameborder="0" allowfullscreen></iframe>
 
 ## Webcomics
 - [commitstrip.com](http://www.commitstrip.com)
