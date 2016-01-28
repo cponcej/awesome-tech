@@ -22,7 +22,7 @@
 
 <!-- /MarkdownTOC -->
 
-[![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)](http://www.creativebloq.com/advertising/web-developer-job-ad-chart-11618853)
+[![linkedin connection request standards](images/linkedin-connection-request-standards.jpg)](http://www.wordstream.com/blog/ws/2016/01/18/linkedin-connection-requests)
 
 # Startups
 - [La economía crece](mkeiser.md)
@@ -50,6 +50,8 @@
 - [Bristoleños: vivir en UK](http://bristolenos.com)
 
 ![antes no sabia ingles y era lavaplatos](images/ingles_soy_dishwasher.jpg)
+
+[![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)](http://www.creativebloq.com/advertising/web-developer-job-ad-chart-11618853)
 
 ### Barcelona startups
 - [Barcinno.com: Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
