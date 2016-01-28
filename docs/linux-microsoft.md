@@ -126,6 +126,8 @@
 - [twitter.com/LinuxUserMag](https://twitter.com/LinuxUserMag)
 - [https://twitter.com/Linux](https://twitter.com/Linux)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oBZ1-E_NcMg" frameborder="0" allowfullscreen></iframe>
+
 ## Linux References
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
 - [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)
