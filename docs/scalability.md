@@ -40,6 +40,8 @@
 - [Cloud Computing: What are the key characteristics of a robust, scalable and healthy cloud architecture?](https://www.quora.com/Cloud-Computing/What-are-the-key-characteristics-of-a-robust-scalable-and-healthy-cloud-architecture) The biggest benefit of moving to the cloud is unsurprisingly a financial one. The financial model associated with the cloud is healthy and economical.
 - [dzone: Distributed Systems in the Real World](https://dzone.com/articles/reasoning-about-distributed-systems-in-the-real-wo)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2WuT2rdLK5A" frameborder="0" allowfullscreen></iframe>
+
 ## Scalability Solutions
 - [OpenShift Dedicated](https://www.openshift.com/dedicated/)
 - [OpenStack](http://www.openstack.org/)
