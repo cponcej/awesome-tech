@@ -186,17 +186,18 @@
 ## Docker on Twitter
 - [twitter.com/docker](https://twitter.com/docker)
 - [twitter.com/dockernews](https://twitter.com/dockernews)
+- [twitter.com/dockermachine](https://twitter.com/dockermachine)
 - [twitter.com/solomonstre](https://twitter.com/solomonstre)
 - [twitter.com/ContainerBlog](https://twitter.com/ContainerBlog)
 - [twitter.com/DockerCon](https://twitter.com/DockerCon)
+- [twitter.com/SecureDocker](https://twitter.com/SecureDocker)
+- [twitter.com/DockerSwarm](https://twitter.com/DockerSwarm)
 - [twitter.com/jpetazzo](https://twitter.com/jpetazzo)
 - [twitter.com/frazelledazzell](https://twitter.com/frazelledazzell)
 - [twitter.com/golubbe](https://twitter.com/golubbe)
 - [twitter.com/coreoslinux](https://twitter.com/coreoslinux)
 - [twitter.com/docker_fr](https://twitter.com/docker_fr)
 - [twitter.com/DockerParis](https://twitter.com/DockerParis)
-- [twitter.com/SecureDocker](https://twitter.com/SecureDocker)
-- [twitter.com/DockerSwarm](https://twitter.com/DockerSwarm)
 
 [![new bash logo](images/stickers.png)](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
 
