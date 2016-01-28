@@ -78,6 +78,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [![Youth unemployment](images/youth_unemployment.png)](https://twitter.com/intlspectator)
 
+- [The World Press Photo](http://www.worldpressphoto.org)
 - [data.oecd.org](https://data.oecd.org)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
 - [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
