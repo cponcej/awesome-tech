@@ -198,7 +198,11 @@
 
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
+<!--
 [![Apple CEO Tim Cook on Collaboration](images/tim_cook_on_collaboration.png)](https://youtu.be/EZPYLZ7I6gs)
+-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EZPYLZ7I6gs" frameborder="0" allowfullscreen></iframe>
 
 [![An Introvert's Guide to Surviving Team Lunches](images/lets_grab_lunch.png)](http://goingconcern.com/post/introverts-guide-surviving-team-lunches)
 
@@ -225,7 +229,11 @@
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
+<!--
 [![Women who code](images/women_who_code.png)](https://youtu.be/k1Pu0_tIgR4)
+-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k1Pu0_tIgR4" frameborder="0" allowfullscreen></iframe>
 
 [![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
 
