@@ -384,6 +384,8 @@
 - [AppDynamics ebook - Top 10 Java Performance Problems](https://www.appdynamics.com/lp/ebook-top-10-java-performance-problems/)
 - [Everything You Know About Latency Is Wrong](https://dzone.com/articles/everything-you-know-about-latency-is-wrong-brave-n)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J5tzI-8k__Q" frameborder="0" allowfullscreen></iframe>
+
 [![newrelic apm](images/newrelic-apm.png)](https://youtu.be/J5tzI-8k__Q)
 
 ### Centralized logging. Big Data Log Management Tools (Data Analytics Platforms)
