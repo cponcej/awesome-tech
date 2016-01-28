@@ -531,6 +531,8 @@
 - [linuxpitstop.com: Install Cockpit on CentOS 7 – A Web Based System Monitoring Tool](http://linuxpitstop.com/install-cockpit-on-centos-7/)
 - [linoxide.com: How to Install Cockpit on Linux CentOS 7](http://linoxide.com/linux-how-to/install-cockpit-linux-centos-7/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xMMNRSxdNvQ" frameborder="0" allowfullscreen></iframe>
+
 ## Red Hat Virtualization
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 	- [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
