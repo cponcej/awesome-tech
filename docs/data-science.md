@@ -56,7 +56,7 @@
 
 <!-- /MarkdownTOC -->
 
-![t-shirt size](images/tshirt_size.jpg)
+[![t-shirt size](images/tshirt_size.jpg)](https://en.wikipedia.org/wiki/Linux_Symposium)
 
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
