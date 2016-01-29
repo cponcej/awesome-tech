@@ -78,8 +78,21 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [![Youth unemployment](images/youth_unemployment.png)](https://twitter.com/intlspectator)
 
+[![OECD: GDP per hour worked](images/oecd_GDP_comparison.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/industry-and-services/oecd-compendium-of-productivity-indicators-2015_pdtvy-2015-en#page19)
+
+[![OECD poverty rates](images/oecd_poverty_rates.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/employment/in-it-together-why-less-inequality-benefits-all_9789264235120-en#page57)
+
 - [The World Press Photo](http://www.worldpressphoto.org)
 - [data.oecd.org](https://data.oecd.org)
+	- [twitter.com/OECD](https://twitter.com/OECD)
+	- [twitter.com/OECD_Centre](https://twitter.com/OECD_Centre) 
+	- [twitter.com/OECDEduSkills](https://twitter.com/OECDEduSkills)
+	- [twitter.com/OECDinnovation](https://twitter.com/OECDinnovation) 
+	- [twitter.com/OECDeconomy](https://twitter.com/OECDeconomy)
+	- [twitter.com/OECD_Pubs](https://twitter.com/OECD_Pubs)
+	- [twitter.com/OECD_Stat](https://twitter.com/OECD_Stat)
+	- [twitter.com/OECD_Social](https://twitter.com/OECD_Social) 
+	- [twitter.com/ocdeenespanol](https://twitter.com/ocdeenespanol)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
 - [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
@@ -97,6 +110,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 - [The Economist. The other side of paradise](http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise) Glamorous tech startups can be brutal places for workers
 - [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)
+- [How does corruption in Africa really compare to OECD countries? Anti-Fraud & Corruption Law in Africa](http://africanantifraud.com/2016/01/20/circles-of-corruption-how-does-africa-stack-up-against-the-oecd/)
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
 - [Thomas Piketty’s “Capital”, summarised in four paragraphs](http://www.economist.com/blogs/economist-explains/2014/05/economist-explains)
 - [The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era. Jeremy Rifkin](https://en.wikipedia.org/wiki/The_End_of_Work)
