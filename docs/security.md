@@ -29,7 +29,7 @@
 - [Sucuri Blog](https://blog.sucuri.net/)
 - [Blackmoreops.com](http://blackmoreops.com)
 - [arstechnica.com/security](http://arstechnica.com/security)
-- [foxglovesecurity.com/](http://foxglovesecurity.com/)
+- [foxglovesecurity.com](http://foxglovesecurity.com/)
 - [securityzap.com](http://securityzap.com/)
 - [Dark Reading](http://www.darkreading.com/)
 - [Red Hat Security](https://securityblog.redhat.com)
