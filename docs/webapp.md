@@ -5,6 +5,7 @@
 	- [HTTP/2](#http2)
 	- [WebSockets](#websockets)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
+	- [HAProxy](#haproxy)
 	- [Apache and Tomcat](#apache-and-tomcat)
 	- [Nginx](#nginx)
 	- [WebLogic](#weblogic)
@@ -49,6 +50,9 @@
 ## Enterprise Search Platforms
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 - [javacodegeeks.com: Apache Lucene Fundamentals Tutorial](http://www.javacodegeeks.com/2015/09/apache-lucene-fundamentals.html)
+
+## HAProxy
+- [HAProxy](http://www.haproxy.org)
 
 ## Apache and Tomcat
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
