@@ -85,6 +85,12 @@
 - [MySQL Daily](http://paper.li/GeekTony/1299539381)
 - [The DevOps Daily](http://paper.li/Chuck_Moeller/1445262549)
 - [The #TensorFlow Focus](http://paper.li/Chuck_Moeller/1447696414)
+- [OpenStack Daily](http://paper.li/TariqIqbal_/1388356030)
+- [The Kubernetes Daily](http://paper.li/skippbox/1446802542)
+- [The #Linux Daily](http://paper.li/LinuxHQ/1315868351)
+- [The #redhat Daily](http://paper.li/tag/redhat)
+- [The webhat/redhat Daily](http://paper.li/webhat)
+- [The Open Hybrid Cloud Daily](https://paper.li/e-1437352004)
 
 ## OSSnews.net
 - [OSSnews.net](https://ossnews.net)
