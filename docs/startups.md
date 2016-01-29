@@ -264,7 +264,8 @@
 - [10 Questions to Ask Before You Take a New Job](http://www.levo.com/articles/career-advice/10-questions-to-ask-before-you-take-a-new-job)
 - [5 Reasons You May Not Want to Work for Google](https://www.linkedin.com/pulse/20140603115508-7668018-5-reasons-you-may-not-want-to-work-for-google)
 - [An Interview Is a Conversation, Not an Interrogation](http://career-advice.monster.com/job-interview/interview-preparation/tame-hostile-interviewer/article.aspx)
-- [Your Turn to Ask Questions](http://career-advice.monster.com/job-interview/interview-questions/your-turn-to-ask-questions/article.aspx)
+- [monster.com: Your Turn to Ask Questions](http://career-advice.monster.com/job-interview/interview-questions/your-turn-to-ask-questions/article.aspx)
+- [businessinsider.com: The 29 smartest questions to ask at the end of every job interview](http://www.businessinsider.com/questions-to-ask-in-a-job-interview-2016-1)
 - [How to get any job you want — even if you're not technically qualified](http://www.businessinsider.com/how-to-get-any-job-you-want-even-if-youre-not-technically-qualified-2016-1)
 
 ![war room](images/war_room.gif)
