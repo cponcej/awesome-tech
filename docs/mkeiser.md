@@ -109,6 +109,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 - [flowingdata.com: American Immigration history](http://flowingdata.com/2016/01/12/immigration-history/)
 - [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 - [The Economist. The other side of paradise](http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise) Glamorous tech startups can be brutal places for workers
+- [businessinsider.com: The 13 worst things about Silicon Valley](http://www.businessinsider.com/the-dark-side-of-silicon-valley-2016-1)
 - [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)
 - [How does corruption in Africa really compare to OECD countries? Anti-Fraud & Corruption Law in Africa](http://africanantifraud.com/2016/01/20/circles-of-corruption-how-does-africa-stack-up-against-the-oecd/)
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
