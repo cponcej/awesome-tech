@@ -91,6 +91,7 @@
 - [The #redhat Daily](http://paper.li/tag/redhat)
 - [The webhat/redhat Daily](http://paper.li/webhat)
 - [The Open Hybrid Cloud Daily](https://paper.li/e-1437352004)
+- [Moving Tech Forward](http://paper.li/MalcolmIsaacs/1443774212)
 
 ## OSSnews.net
 - [OSSnews.net](https://ossnews.net)
