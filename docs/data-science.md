@@ -56,6 +56,8 @@
 
 <!-- /MarkdownTOC -->
 
+![t-shirt size](images/tshirt_size.jpg)
+
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
 - [datasciencecentral.com: 24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)

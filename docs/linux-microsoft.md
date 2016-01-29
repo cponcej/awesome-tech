@@ -394,6 +394,10 @@
 		echo "$i $(dmidecode -s system-${i})"; 
 		done
 
+- Quickly find the largest 5 files in the CWD tree without crossing filesystem boundaries
+
+		find . -xdev -ls | sort -n -k 7 | tail -5
+
 - Want to store log of your ssh session? Try:
 		
 		ssh -l user server1 | tee -a ~/myssh.log
@@ -430,6 +434,10 @@
 
 		curl -LOC - url 
 		wget -c url
+
+- Quick and easy way to make a mirror of a website
+
+		wget -m http://www.example\.com/
 
 - Is my HTTPD using Gzip?
 
@@ -477,6 +485,10 @@
 
 		netstat -ax | egrep '@.*/lxc/.*/command$'	
 
+- Show the TCP and UDP ports being listened on and if you're root, also show the process associated, user, etc.
+	
+		netstat -lepunt
+
 - Want to find out the MAC addresses of the KVM powered VM? Try
 
 		virsh dumpxml VM_NAME | grep 'mac address'	
@@ -487,6 +499,14 @@
 		lsblk -m 
 		lsblk -f
 
+- Start a web service on port 8000 that uses the current directory as its document root
+
+		python -m SimpleHTTPServer
+
+- Make slideshow from *.jpg
+
+		for p in *.jpg; do ffmpeg -loop_input -f image2 -i $p -t 3 -r 4 -s 1080x720 -f avi - >> slides.avi; done 
+		
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 # Red Hat
