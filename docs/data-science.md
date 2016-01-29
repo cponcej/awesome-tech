@@ -313,6 +313,7 @@
 - [Get Ready to Learn SQL Server 23: Using Subqueries in the HAVING Clause](http://www.essentialsql.com/get-ready-to-learn-sql-server-23-using-subqueries-in-the-having-clause)
 - [What are Ten Things a Junior DBA should know?](http://www.essentialsql.com/what-are-ten-things-a-junior-dba-should-know/)
 - [What is the Difference between a Join and Subquery?](http://www.essentialsql.com/what-is-the-difference-between-a-join-and-subquery/)
+- [What is the Difference between Inner and Outer Joins?](http://www.essentialsql.com/what-is-the-difference-between-an-inner-and-outer-join)
 - [What is a Data Dictionary?](http://www.essentialsql.com/what-is-a-data-dictionary)
 - [How can I find Duplicate Values in SQL Server?](http://www.essentialsql.com/how-can-i-find-duplicate-values-in-sql-server/)
 - [Commonly used SQL Server Data Types](http://www.essentialsql.com/commonly-used-sql-server-data-types/)
