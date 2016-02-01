@@ -547,6 +547,10 @@
 
 		git log --author=$USER --format="- %B" --since=-7days --reverse |mail -s "What I've done this week" boss@company\.com
 
+- I find brace expansion useful for renaming files. This cmd expands to "mv Picture.jpg Picture-of-my-cat.jpg"
+
+		mv Picture{,-of-my-cat}.jpg
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 # Red Hat
