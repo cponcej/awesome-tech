@@ -13,7 +13,8 @@
 	- [Big Data](#big-data)
 		- [Big Data Blogs](#big-data-blogs)
 		- [Internet of things](#internet-of-things)
-		- [Data visualization. Tableau](#data-visualization-tableau)
+		- [Data Visualization](#data-visualization)
+			- [Tableau](#tableau)
 		- [Apache Spark](#apache-spark)
 		- [Apache Hadoop](#apache-hadoop)
 			- [Cloudera Docker image](#cloudera-docker-image)
@@ -179,11 +180,14 @@
 ### Internet of things
 - [techrepublic.com: Survey: Harnessing the power of big data and IoT](http://www.techrepublic.com/article/survey-harnessing-the-power-of-big-data-and-iot/)
 
-### Data visualization. Tableau
-- [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
-- [dbi.io: Visualización de Datos con Tableau de los resultados de una encuesta (4Q)](http://www.dbi.io/es/blog/visualizacion-de-datos-de-encuesta-con-tableau)
+### Data Visualization
+- [Nice resource! 384 Data Visualization Tools & Books](http://keshif.me/demo/VisTools)
 - [flowingdata.com](http://flowingdata.com/)
+
+#### Tableau
+- [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
 - [Join Multiple Excel Workbooks through Custom SQL Query in Tableau](https://leifengtechblog.wordpress.com/2015/10/28/join-multiple-excel-workbooks-through-custom-sql-query-in-tableau/)
+- [dbi.io: Visualización de Datos con Tableau de los resultados de una encuesta (4Q)](http://www.dbi.io/es/blog/visualizacion-de-datos-de-encuesta-con-tableau)
 
 ### Apache Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
@@ -372,6 +376,7 @@
 - [Running an optimized MariaDB (MySQL) cluster on Azure (November 2014)](http://sabbour.me/running-a-mariadb-cluster-on-azure/)
 - [maquinasvirtuales.eu: Mysql Cluster Configuration](http://www.maquinasvirtuales.eu/mysql-cluster-configuration/)
 - [tecmint.com: How to Setup MySQL (Master-Slave) Replication in RHEL, CentOS, Fedora](http://www.tecmint.com/how-to-setup-mysql-master-slave-replication-in-rhel-centos-fedora/)
+- [10 Tips for Deciding Between Amazon RDS and MySQL (2012)](https://dzone.com/articles/10-tops-deciding-between)
 
 ##### MySQL metrics
 - [Box Anemometer](https://github.com/box/Anemometer)

@@ -65,6 +65,8 @@
 <!-- /MarkdownTOC -->
 
 
+[![The most popular Linux distribution](most_popular_linux_distributions.png)](http://w3techs.com/technologies/details/os-linux/all/all)
+
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 - [medium.com: I Moved to Linux and It’s Even Better Than I Expected](https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj)
@@ -256,6 +258,8 @@
 - [howtoforge.com: Server Monitoring with Munin and Monit on Ubuntu 14.04 LTS](https://www.howtoforge.com/tutorial/server-monitoring-with-munin-and-monit-on-ubuntu-14-04/)
 - [github: Script for automating Linux memory capture and analysis](https://github.com/halpomeranz/lmg)
 - [slideshare.net: Broken Linux Performance Tools 2016](http://www.slideshare.net/brendangregg/broken-linux-performance-tools-2016)
+- [How To Stress Test CPU and Memory (VM) On a Linux and Unix With Stress-ng](http://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
+	- [Forcing out kernel bugs with stress-ng](http://smackerelofopinion.blogspot.co.uk/2016/01/forcing-out-bugs-with-stress-ng.html)
 
 [![glances ubuntu output](images/glances-ubuntu-output.png)](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
 
