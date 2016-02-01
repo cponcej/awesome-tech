@@ -133,6 +133,7 @@
 ## Linux References
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
 - [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)
+- [Linux Command: Show Linux Version](http://www.cyberciti.biz/faq/command-to-show-linux-version/)
 
 ### Linux web tools
 - [curl Command Resume Broken Download](http://www.cyberciti.biz/faq/curl-command-resume-broken-download/)
@@ -177,6 +178,8 @@
 - [Bro pages](http://bropages.org/)
 
 ### Linux bash 
+- [A Bash Shell Scripting Directory](https://bash.cyberciti.biz/)
+	- [bash.cyberciti.biz: Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
 - [explainshell.com](http://explainshell.com) match command-line arguments to their help text
 - [Github: Bioinformatics one-liners. Useful bash one-liners useful for bioinformatics (and some, more generally useful)](https://github.com/stephenturner/oneliners)
 - [cyberciti.biz: List All Environment Variables Command](http://www.cyberciti.biz/faq/linux-list-all-environment-variables-env-command/)
@@ -185,7 +188,6 @@
 	- [ack-grep](http://beyondgrep.com/)
 - [ibm.com: Learn Linux, 101: Customize and use the shell environment](http://www.ibm.com/developerworks/linux/library/l-lpic1-105-1/index.html)
 - [Rich’s sh (POSIX shell) tricks](http://www.etalabs.net/sh_tricks.html)
-- [bash.cyberciti.biz: Linux Shell Scripting Tutorial (LSST) v2.0](http://bash.cyberciti.biz/guide/Main_Page)
 - [Learning bash scripting for beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
 - [How to undefine and unset a bash environment variable on Linux or Unix](www.cyberciti.biz/faq/linux-osx-bsd-unix-bash-undefine-environment-variable/)
 - [30 Handy Bash Shell Aliases For Linux/Unix/Mac OS X](http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html)
@@ -230,6 +232,7 @@
 - [alternativeto.net: A way to find alternative software, filters let you show only open source](https://alternativeto.net/)
 - [Buku: cmdline bookmark manager... your mini web!](https://github.com/jarun/Buku) Buku (formerly markit) is a cmdline bookmark management utility written in Python3 and SQLite3. buku exists because of my monumental dependency on historious. I wanted the same database on my local system. However, I couldn't find an equally flexible cmdline solution. Hence, Buku! 
 	- [historious: bookmarking you can love](http://historio.us/) historious saves you time by helping you find webpages you saw before. Bookmark sites with a single click, then find them again by searching for any word in the content of the page! 
+- [GoogleApps  or Office365 replacement. Kolab + CloudSuite: It's collaborative all the way down](https://kolab.org/group-blog/2016/01/30/kolab-collabora/)
 
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
@@ -355,6 +358,7 @@
 - [Highlight all search pattern matches - Vim Tips Wiki](http://vim.wikia.com/wiki/Highlight_all_search_pattern_matches)
 - [Vim Commands Cheat Sheet](http://bullium.com/support/vim.html)
 - [gvim - Replace Tab with Spaces in VIM](http://stackoverflow.com/questions/426963/replace-tab-with-spaces-in-vim)
+- [Vim and Haskell in 2016](http://www.stephendiehl.com/posts/vim_2016.html)
 
 ### Emacs
 - [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
@@ -511,6 +515,26 @@
 
 		for p in *.jpg; do ffmpeg -loop_input -f image2 -i $p -t 3 -r 4 -s 1080x720 -f avi - >> slides.avi; done 
 		
+- Wrap the lines of draft.txt at 72 characters wide, doing so at spaces, not middle of word (-s)
+
+		fold -w 72 -s draft.txt > newdraft.txt
+
+- tail log & highlight errors (if your grep supports --color)
+
+		tail -f foo.log|egrep --line-buffered --color=auto 'ERROR|WARN|$'
+
+- Instead of typing the user & group, if they are the same you can just type the user followed by a colon
+
+		chown -R www-data: * 
+
+- Show the query and results of 'select' queries going to your mysql server. Won't work on socket conns
+
+		ngrep -d eth0 -i 'select' port 3306
+
+- Show what processes are using port 80 either locally or remotely. Need to be root for unowned processes.
+
+		lsof -i TCP:80 
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 # Red Hat

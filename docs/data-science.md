@@ -183,6 +183,7 @@
 ### Data Visualization
 - [Nice resource! 384 Data Visualization Tools & Books](http://keshif.me/demo/VisTools)
 - [flowingdata.com](http://flowingdata.com/)
+- [visualinformation.info](http://www.visualinformation.info)
 
 #### Tableau
 - [tableau.com: How to Make Your Own Tableau Application](https://www.tableau.com/about/blog/2015/12/make-your-own-tableau-application-48041)
@@ -230,6 +231,7 @@
 ### SQL Blogs and Forums
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [essentialsql.com](http://www.essentialsql.com)
+- [Sans SQL](http://www.sanssql.com)
 - [SQL Indexing and Tuning e-Book](http://use-the-index-luke.com/)
 - [craigkerstiens.com](http://www.craigkerstiens.com/)
 - [DZone Database Zone](https://dzone.com/database-sql-nosql-tutorials-tools-news)
@@ -301,7 +303,9 @@
 - [SQL Server Security Checklist](https://www.mssqltips.com/sqlservertip/3159/sql-server-security-checklist/)
 
 #### EssentialSQL 
+- [Do you have a desire to learn SQL?](http://www.sanssql.com/2014/05/do-you-have-desire-to-learn-sql.html)
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
+- [Get Ready to Learn SQL: 1 Simple SELECT Queries with SQLite](http://www.essentialsql.com/get-ready-to-learn-sql-simple-select-queries)
 - [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 	- [Get Ready to Learn SQL: 9. Database First Normal Form Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-8-database-first-normal-form-explained-in-simple-english/)
 	- [Get Ready to Learn SQL: 10. Database Second Normal Form Explained in Simple English](http://www.essentialsql.com/get-ready-to-learn-sql-10-database-second-normal-form-explained-in-simple-english/)
@@ -326,6 +330,7 @@
 - [ACID is the foundation of a database. Why so?](http://www.essentialsql.com/what-is-meant-by-acid/)
 - [Built-In Functions (SQL Server)](http://www.essentialsql.com/introduction-to-sql-servers-built-in-functions)
 - [What is a Database Index](http://www.essentialsql.com/what-is-a-database-index)
+- [What is the difference between WHERE and HAVING clauses?](http://www.essentialsql.com/what-is-the-difference-between-where-and-having-clauses)
 
 [![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
 

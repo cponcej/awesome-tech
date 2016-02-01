@@ -9,6 +9,7 @@
 		- [Seguridad en Twitter](#seguridad-en-twitter)
 	- [Security Podcasts](#security-podcasts)
 	- [Security Toolkits](#security-toolkits)
+		- [SSL Server Test](#ssl-server-test)
 	- [Antivirus](#antivirus)
 	- [Private Browsing](#private-browsing)
 	- [Database encryption](#database-encryption)
@@ -71,6 +72,12 @@
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
 - [BlackArch Linux Provides Over 1330 Penetration Testing Tools, New ISOs Out Now](http://linux.softpedia.com/blog/blackarch-linux-provides-over-1330-penetration-testing-tools-new-isos-out-now-498758.shtml)
 - [web2attack: Web hacking framework with tools, exploits by python](https://github.com/santatic/web2attack)
+- [kitploit.com: The hacker's tools](http://www.kitploit.com)
+	- [OWASP ZSC Shellcoder - Generate Customized Shellcodes](http://www.kitploit.com/2015/08/owasp-zsc-shellcoder-generate.html)
+
+### SSL Server Test
+- [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest)
+- [SSL Report: bash.cyberciti.biz](https://www.ssllabs.com/ssltest/analyze.html?d=bash.cyberciti.biz)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134533644467" data-did="5149c43f6654210e160397d04d6c754abcfbba41"><a href="http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall">http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
