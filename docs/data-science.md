@@ -331,6 +331,7 @@
 - [Built-In Functions (SQL Server)](http://www.essentialsql.com/introduction-to-sql-servers-built-in-functions)
 - [What is a Database Index](http://www.essentialsql.com/what-is-a-database-index)
 - [What is the difference between WHERE and HAVING clauses?](http://www.essentialsql.com/what-is-the-difference-between-where-and-having-clauses)
+- [BI For Beginners – a Business Intelligence Interview with Brian Larson](http://www.essentialsql.com/bi-for-beginners-a-business-intelligence-interview-with-brian-larson)
 
 [![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
 

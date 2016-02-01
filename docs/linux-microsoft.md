@@ -541,6 +541,10 @@
 
 		lsof -i TCP:80 
 
+- What I've done this week
+
+		git log --author=$USER --format="- %B" --since=-7days --reverse |mail -s "What I've done this week" boss@company\.com
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 # Red Hat
