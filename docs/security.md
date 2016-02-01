@@ -34,6 +34,7 @@
 - [securityzap.com](http://securityzap.com/)
 - [Dark Reading](http://www.darkreading.com/)
 - [Red Hat Security](https://securityblog.redhat.com)
+- [Hacker News](https://news.ycombinator.com/)
 - [Guido Vranken](https://guidovranken.wordpress.com/)
 - [seancassidy.me](https://www.seancassidy.me)
 - [youtube playlist: Dell Security](https://www.youtube.com/playlist?list=PLtVMPnH0I8TSLxGad4D9UGr12S1SH3kcM)
@@ -54,6 +55,7 @@
 ## Security on Twitter
 - [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
 - [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
+- [twitter.com/HackerNews](https://twitter.com/HackerNews)
 
 ### Seguridad en Twitter
 - [twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.

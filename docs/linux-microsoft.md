@@ -9,6 +9,7 @@
 	- [Linux on Twitter](#linux-on-twitter)
 	- [Linux References](#linux-references)
 		- [Linux web tools](#linux-web-tools)
+		- [BashHub Bash History in the Cloud](#bashhub-bash-history-in-the-cloud)
 		- [Linux storage](#linux-storage)
 		- [Linux processes](#linux-processes)
 		- [Linux user accounts](#linux-user-accounts)
@@ -118,6 +119,7 @@
 - [@nixcraft](https://twitter.com/nixcraft)
 - [UnixToolTip](https://twitter.com/UnixToolTip)
 - [Command Line Magic](https://twitter.com/climagic)
+- [Shell OSS](https://twitter.com/oss_sh)
 - [Tecmint](https://twitter.com/tecmint)
 - [RegexTip](https://twitter.com/RegexTip)
 - [github](https://twitter.com/github)
@@ -143,6 +145,10 @@
 - [How to use curl command with proxy username and password on Linux or Unix](http://www.cyberciti.biz/faq/linux-unix-curl-command-with-proxy-username-password-http-options/)
 - [DZone: Quickly Share a Folder Using HTTP On a Linux Host](https://dzone.com/articles/quickly-share-a-folder-using-http-on-a-linux-host)
 - [How to Optimize and Compress JPEG or PNG Images in Linux Commandline](http://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/)
+
+### BashHub Bash History in the Cloud
+- [BashHub](https://bashhub.com/)
+- [twitter.com/bashhub](https://twitter.com/bashhub)
 
 ### Linux storage
 - [Linux: Use smartctl To Check Disk Behind Adaptec RAID Controllers](http://www.cyberciti.biz/faq/linux-checking-sas-sata-disks-behind-adaptec-raid-controllers/)

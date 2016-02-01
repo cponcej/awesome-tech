@@ -263,6 +263,7 @@
 ## Security on Twitter
 - [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
 - [twitter.com/linuxs3c](https://twitter.com/linuxs3c)
+- [twitter.com/HackerNews](https://twitter.com/HackerNews)
 - [twitter.com/seclists](https://twitter.com/seclists)
 - [twitter.com/ehackingdotnet](https://twitter.com/ehackingdotnet)
 - [twitter.com/sucurisecurity](https://twitter.com/sucurisecurity)
@@ -321,6 +322,7 @@
 - [@nixcraft](https://twitter.com/nixcraft)
 - [UnixToolTip](https://twitter.com/UnixToolTip)
 - [Command Line Magic](https://twitter.com/climagic)
+- [Shell OSS](https://twitter.com/oss_sh)
 - [Tecmint](https://twitter.com/tecmint)
 - [SysAdmHowto](https://twitter.com/SysAdmHowto)
 - [RegexTip](https://twitter.com/RegexTip)
