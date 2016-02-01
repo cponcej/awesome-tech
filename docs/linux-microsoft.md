@@ -189,6 +189,7 @@
 - [A Bash Shell Scripting Directory](https://bash.cyberciti.biz/)
 	- [bash.cyberciti.biz: Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
 - [explainshell.com](http://explainshell.com) match command-line arguments to their help text
+- [SlideShare: find, grep, sed, and awk](https://wilsonericn.wordpress.com/2011/08/25/find-grep-sed-and-awk/)
 - [Github: Bioinformatics one-liners. Useful bash one-liners useful for bioinformatics (and some, more generally useful)](https://github.com/stephenturner/oneliners)
 - [cyberciti.biz: List All Environment Variables Command](http://www.cyberciti.biz/faq/linux-list-all-environment-variables-env-command/)
 - [cyberciti.biz: Search Multiple Words/String Pattern Using grep Command](http://www.cyberciti.biz/faq/searching-multiple-words-string-using-grep/)

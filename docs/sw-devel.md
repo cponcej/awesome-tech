@@ -96,6 +96,7 @@
 - [ivanprego.com](http://ivanprego.com/)
 - [boomphisto](http://boomphisto.blogspot.co.at/)
 - [rachbelaid.com](http://rachbelaid.com/)
+- [Code and comments: Practical and theoretical aspects of software development](https://wilsonericn.wordpress.com)
 
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)

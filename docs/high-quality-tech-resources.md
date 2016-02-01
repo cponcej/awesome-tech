@@ -106,6 +106,7 @@
 	- [How to Find the Best Software Engineers on Stack Overflow](http://booleanblackbelt.com/2013/08/how-to-find-the-best-software-engineers-on-stack-overflow/)
 	- [Stack Overflow en español es un sitio de preguntas y respuestas para programadores y profesionales de la informática](http://es.stackoverflow.com/)
 	- [careers.stackoverflow.com](http://careers.stackoverflow.com/)
+- [Blogs - Stack Exchange](http://stackexchange.com/blogs)
 - [Startups Stack Exchange](http://startups.stackexchange.com/)
 - [The Workplace Stack Exchange](http://workplace.stackexchange.com/)
 - [Freelancing Stack Exchange](http://freelancing.stackexchange.com/)
