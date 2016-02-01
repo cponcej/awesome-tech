@@ -10,6 +10,7 @@
 	- [Cloud Pricing](#cloud-pricing)
 	- [OpenStack private cloud](#openstack-private-cloud)
 	- [IBM Bluemix](#ibm-bluemix)
+	- [Closed groups for AWS certified professionals](#closed-groups-for-aws-certified-professionals)
 	- [Awesome AWS](#awesome-aws)
 	- [AWS on Twitter](#aws-on-twitter)
 	- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
@@ -126,6 +127,10 @@
 
 ## IBM Bluemix
 - [IBM Cloud computing. Technical resources for developing in the cloud](https://www.ibm.com/developerworks/cloud/)
+
+## Closed groups for AWS certified professionals
+- [Linkedin](https://www.linkedin.com/grp/home?gid=6814264)
+- [awscerts.slack.com](https://awscerts.slack.com)
 
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
