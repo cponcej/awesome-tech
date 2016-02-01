@@ -27,7 +27,7 @@
 		- [Python testing](#python-testing)
 		- [Data Science. Python Pandas and pivot tables](#data-science-python-pandas-and-pivot-tables)
 			- [PandasDatabase](#pandasdatabase)
-		- [Python code](#python-code)
+		- [Python Modules and Code](#python-modules-and-code)
 		- [Python and AWS](#python-and-aws)
 		- [Python Tools](#python-tools)
 			- [Web Scraping with Python](#web-scraping-with-python)
@@ -350,7 +350,9 @@
 #### PandasDatabase
 - [PandasDatabase is a RESTful database engine application built on top of Pandas](https://pypi.python.org/pypi/pddb/)
 
-### Python code
+### Python Modules and Code
+- [Python 3 Module of the Week](https://pymotw.com)
+- [Python 2 Module of the Week](https://pymotw.com/2)
 - [Dead simple {for devs} python crawler (script) for extracting structured data from any website into CSV](http://blog.webhose.io/2015/08/16/dead-simple-for-devs-python-crawler-script-for-extracting-structured-data-from-any-almost-website-into-csv/)
 - [Python Multi-Process Execution Pool](https://github.com/XI-lab/PyExPool)
 
