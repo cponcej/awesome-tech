@@ -65,7 +65,7 @@
 <!-- /MarkdownTOC -->
 
 
-[![The most popular Linux distribution](most_popular_linux_distributions.png)](http://w3techs.com/technologies/details/os-linux/all/all)
+[![The most popular Linux distribution](images/most_popular_linux_distributions.png)](http://w3techs.com/technologies/details/os-linux/all/all)
 
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
