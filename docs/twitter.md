@@ -8,6 +8,7 @@
 - [Twitter Resources](#twitter-resources)
 	- [Marketing Digital](#marketing-digital)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
+	- [IT Leaders](#it-leaders)
 	- [Tech on Twitter](#tech-on-twitter)
 	- [DevOps on Twitter](#devops-on-twitter)
 	- [Scrum on Twitter](#scrum-on-twitter)
@@ -113,6 +114,9 @@
 
 ## IT Jobs on Twitter
 - [European IT Careers](https://twitter.com/EU_IT_Careers)
+
+## IT Leaders
+- [twitter.com/martinfowler](https://twitter.com/martinfowler)
 
 ## Tech on Twitter
 - [twitter.com/DZone](https://twitter.com/DZone)
