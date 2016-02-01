@@ -30,3 +30,5 @@
 -->
 
 <iframe width="100%" height="30" src="https://www.youtube.com/embed/uuvDToxhZO0?autohide=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="24" src="https://www.youtube.com/embed/uuvDToxhZO0?rel=0&amp;controls=0&amp;autohide=0" frameborder="0" allowfullscreen></iframe>
