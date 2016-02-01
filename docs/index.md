@@ -29,4 +29,4 @@
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/uuvDToxhZO0" frameborder="0" allowfullscreen;document.getElementsByClassName('html5-video-container')[0].style.visibility='hidden';></iframe>
 
-<iframe width="420" height="24" src="https://www.youtube.com/embed/uuvDToxhZO0&autohide=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="24" src="https://www.youtube.com/embed/uuvDToxhZO0" frameborder="0" allowfullscreen></iframe>
