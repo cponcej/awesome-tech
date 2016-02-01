@@ -1,7 +1,7 @@
 # Awesome Tech [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![Utopia Eduardo Galeano](images/utopia_eduardo_galeano.png)
-<iframe width="100%" height="28" src="https://www.youtube.com/embed/uuvDToxhZO0?rel=0&amp;autohide=2&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="28" src="https://www.youtube.com/embed/uuvDToxhZO0?rel=0&amp;autohide=2&amp;showinfo=0&amp;autoplay=1&amp;controls=2" frameborder="0" allowfullscreen></iframe>
 
 **Table of Contents**
 
