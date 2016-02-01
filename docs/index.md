@@ -26,3 +26,7 @@
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/92762653&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/uuvDToxhZO0" frameborder="0" allowfullscreen;document.getElementsByClassName('html5-video-container')[0].style.visibility='hidden';></iframe>
+
+<iframe width="420" height="24" src="https://www.youtube.com/embed/uuvDToxhZO0&autohide=0" frameborder="0" allowfullscreen></iframe>
