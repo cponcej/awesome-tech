@@ -125,6 +125,7 @@
 
 ## DevOps on Twitter
 - [twitter.com/devopsdotcom](https://twitter.com/devopsdotcom)
+- [twitter.com/devopscube](https://twitter.com/devopscube)
 - [twitter.com/DevOpsSummit](https://twitter.com/DevOpsSummit)
 - [Enterprise DevOps](https://twitter.com/entdevops)
 - [twitter.com/IBMDevOps](https://twitter.com/IBMDevOps)

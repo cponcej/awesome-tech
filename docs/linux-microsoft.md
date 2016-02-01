@@ -43,6 +43,8 @@
 	- [Red Hat OpenStack](#red-hat-openstack)
 	- [Red Hat Storage](#red-hat-storage)
 	- [Red Hat and IBM](#red-hat-and-ibm)
+	- [Red Hat and Amazon EC2](#red-hat-and-amazon-ec2)
+		- [Red Hat Server with GUI and remote access with RDP](#red-hat-server-with-gui-and-remote-access-with-rdp)
 	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
 	- [GlassFish](#glassfish)
 	- [JBoss (WildFly)](#jboss-wildfly)
@@ -636,6 +638,10 @@
 
 ## Red Hat and IBM
 - [Installing Red Hat Enterprise Linux 7.2 on IBM POWER8 and x86 in bare metal mode: A comparison](http://www.ibm.com/developerworks/linux/library/l-installing-rhel-7-2-on-ibm-power8-and-x86/index.html)
+
+## Red Hat and Amazon EC2
+### Red Hat Server with GUI and remote access with RDP
+- [How To Install and Configure GUI for Amazon EC2 RHEL 7 Instance](http://devopscube.com/how-to-setup-gui-for-amazon-ec2-rhel-7-instance/)
 
 ## Red Hat Mobile Application Platform: Feed Henry
 - [Feed Henry](http://feedhenry.org/)
