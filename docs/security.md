@@ -8,7 +8,7 @@
 	- [Security on Twitter](#security-on-twitter)
 		- [Seguridad en Twitter](#seguridad-en-twitter)
 	- [Security Podcasts](#security-podcasts)
-	- [Security Toolkits. Penetration Testing](#security-toolkits-penetration-testing)
+	- [Security Toolkits and Policies. Penetration Testing](#security-toolkits-and-policies-penetration-testing)
 		- [SSL Server Test](#ssl-server-test)
 	- [Antivirus](#antivirus)
 	- [Private Browsing](#private-browsing)
@@ -64,8 +64,8 @@
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 
-## Security Toolkits. Penetration Testing
-- [OpenSCAP](https://www.open-scap.org)
+## Security Toolkits and Policies. Penetration Testing
+- [OpenSCAP](https://www.open-scap.org) Tools, Security Policies and Standards
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
 	- [blackmoreops.com: Crack passwords in Kali Linux with Hydra](http://www.blackmoreops.com/2015/12/23/crack-passwords-in-kali-linux-with-hydra/)
 	- [blackmoreops.com: Man in the Middle Attack using Kali Linux – MITM attack](http://www.blackmoreops.com/2015/12/22/man-in-the-middle-attack-using-kali-linux/)
