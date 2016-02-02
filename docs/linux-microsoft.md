@@ -14,6 +14,7 @@
 		- [Linux processes](#linux-processes)
 		- [Linux user accounts](#linux-user-accounts)
 		- [Linux backups](#linux-backups)
+		- [Downgrade or Rollback Updates](#downgrade-or-rollback-updates)
 		- [man pages on steroids with examples](#man-pages-on-steroids-with-examples)
 		- [Linux bash](#linux-bash)
 		- [Command line text manipulation tools](#command-line-text-manipulation-tools)
@@ -37,6 +38,7 @@
 	- [Red Hat on Twitter](#red-hat-on-twitter)
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
+		- [Fedora](#fedora)
 	- [Red Hat Insights. Modern infrastructure management](#red-hat-insights-modern-infrastructure-management)
 	- [Cockpit web based server manager](#cockpit-web-based-server-manager)
 	- [Red Hat Virtualization](#red-hat-virtualization)
@@ -185,6 +187,10 @@
 	- [backintime.readthedocs.org](http://backintime.readthedocs.org)
 - [Linux Get List of Installed Software for Reinstallation / Restore All the Software Programs](http://www.cyberciti.biz/tips/linux-get-list-installed-software-reinstallation-restore.html)
 	- [How to find out when Debian or Ubuntu package installed or updated](http://www.cyberciti.biz/faq/debian-ubuntu-linux-find-package-installed-updated-date/)
+
+### Downgrade or Rollback Updates
+- [CentOS/RHEL Use yum Command To Downgrade or Rollback Updates](http://www.cyberciti.biz/faq/howto-yum-downgrade-packages-on-rhel-centos-fedora-scientific-linux/)
+- [Rollback an apt-get upgrade if something goes wrong on Debian/Ubuntu Linux](http://www.cyberciti.biz/howto/debian-linux/ubuntu-linux-rollback-an-apt-get-upgrade/)
 
 ### man pages on steroids with examples
 - [TLDR pages](http://tldr-pages.github.io/)
@@ -612,6 +618,8 @@
 	- [A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives](http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/)
 - [Product documentation](https://access.redhat.com/documentation/en/)
 - [State of the Red Hat Union is Secure. An exciting year ahead, from containeres to mobile](http://www.redhat.com/en/about/blog/state-red-hat-union-secure)
+
+### Fedora
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
 
