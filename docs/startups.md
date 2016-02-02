@@ -276,7 +276,7 @@
 - [How to rock your tech resume (3 steps)](http://learntocodewith.me/posts/tech-resumes/) Just how you dislike writing your resume, hiring managers dislike reviewing them.
 - [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
 
-[![knowledge and experience](images/knowledge_and_experience.png)](http://geeksfun.blogspot.com/)
+[![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
 
 ### Orientación laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
