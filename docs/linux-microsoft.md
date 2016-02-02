@@ -90,6 +90,8 @@
 - [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
 - [LinuxPitstop: Linux Tips, Techniques, HowTo's & Open Source News](http://linuxpitstop.com/)
 
+[![tecmint logo](images/tecmint-logo.png)](http://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/)
+
 ### Alternatives
 - [FOSS Force](http://fossforce.com/)
 - [opensource.com](https://opensource.com/)
@@ -111,6 +113,8 @@
 - [tech.paulcz.net](http://tech.paulcz.net/#blog)
 - [Benjamin Cane](http://bencane.com/) A Systems Architect writing about Linux Systems Administration
 - [chruz.wordpress.com](https://chruz.wordpress.com) Linux, OpenStack & Provisioning
+
+[![nixcraft logo](images/nixcraft_logo.jpg)](http://www.cyberciti.biz/)
 
 ## FOSS youtube channels
 - [Sysadmincasts.com - Episode Guide](https://sysadmincasts.com/episode-guide)
@@ -352,17 +356,15 @@
 - [Secure Your Linux Desktop and SSH Login Using Two Factor Google Authenticator](http://www.cyberciti.biz/open-source/howto-protect-linux-ssh-login-with-google-authenticator/)
 - [Find Out If Patch Number (CVE) Has Been Applied To RHEL/CentOS Linux](http://www.cyberciti.biz/faq/linux-find-out-patch-can-cve-applied/)
 
-[![tecmint logo](images/tecmint-logo.png)](http://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/)
+[![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
+
+[![How to block an IP address with ufw on Ubuntu Linux server](images/ufw-status.jpg)](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
 
 ### SELinux, AppArmor and OpenSCAP
 - [Red Hat Security: Celebrating 15 Years of SELinux](http://www.redhat.com/en/about/blog/celebrating-15-years-selinux)
 - [SELinux](https://en.wikipedia.org/wiki/SELinux)
 - [AppArmor](https://en.wikipedia.org/wiki/AppArmor)
 - [OpenSCAP](https://www.open-scap.org)
-
-[![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
-
-[![How to block an IP address with ufw on Ubuntu Linux server](images/ufw-status.jpg)](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
 
 ## Vim and Emacs
 ### Vim
@@ -411,6 +413,8 @@
 ## Apple OS X
 - [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
 - [How to enable colorized output for the ls command in Mac OS X Terminal](http://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/)
+
+[![commandlinefu](images/commandlinefu.com)](http://commandlinefu.com/)
 
 ## Linux Commands Examples
 - Want to increments all numbers in input.txt? 
