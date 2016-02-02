@@ -75,6 +75,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 <!--
 worldpressphoto
 -->
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ihcdZax6aZI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
