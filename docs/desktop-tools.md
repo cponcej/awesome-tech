@@ -4,6 +4,7 @@
 - [Desktop Tools](#desktop-tools)
 	- [Evernote on Twitter](#evernote-on-twitter)
 	- [Thunderbird Extensions](#thunderbird-extensions)
+	- [Firefox](#firefox)
 - [Presentations](#presentations)
 
 <!-- /MarkdownTOC -->
@@ -43,6 +44,12 @@
 - [gContactSync](https://addons.mozilla.org/thunderbird/addon/gcontactsync/)
 - [Google Tasks Sync](https://addons.mozilla.org/thunderbird/addon/google-tasks-sync/?src=search)
 
+## Firefox
+- [How to stop Firefox from making automatic connections. #Privacy #Security #Networking](https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections)
+- [Awesome Firefox addon to prevent tracking via free CDN providers. #Privacy #Security #Infosec #Linux #OSX #Unix](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes)
+
+[![commitstrip we'll sort that out later](images/commitstrip_hw_sw_purchase.jpg)](http://www.commitstrip.com/en/2016/02/01/well-sort-that-out-later/)
+
 # Presentations
 - [twitter.com/PresGeeks](https://twitter.com/PresGeeks)
 - [blog.slideshare.net: 6 Principles of Influence to Enhance Your Presentations](https://blog.slideshare.net/2015/12/14/6-principles-of-influence-to-enhance-your-presentations/)
@@ -53,5 +60,4 @@
 - [10 ridiculous but brilliant ways to look smart in a meeting](http://uk.businessinsider.com/ridiculous-but-brilliant-ways-to-look-smart-in-a-meeting-2015-3)
 
 [![hp mini pc](images/hp_mini.jpg)](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
-
 

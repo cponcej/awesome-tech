@@ -26,6 +26,7 @@
 ![old school pre-google mulder](images/old_school_mulder.gif)
 
 # High quality tech resources and search engines
+- [Open source changed startups, and then startups turned around and changed open source. The history of open source and a glimpse at its future](https://medium.com/@nayafia/we-re-in-a-brave-new-post-open-source-world-56ef46d152a3) Two startups, in particular: GitHub and Stack Overflow. Together, they launched a new chapter for software technology. And the decisions we make from here will determine how the next 5–10 years of software unfold. But to understand why, we have to start at the beginning.
 
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com](https://zeef.com)
@@ -353,6 +354,7 @@
 ## Webcomics
 - [commitstrip.com](http://www.commitstrip.com)
 - [dilbert.com](http://dilbert.com/)
+- [GeeksFun](http://geeksfun.blogspot.com)
 - [Geek & Poke](http://geek-and-poke.com)
 - [tumblr gifs](https://www.tumblr.com/explore/gifs)
 

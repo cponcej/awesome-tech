@@ -265,6 +265,8 @@
 - [twitter.com/Odoo](https://twitter.com/Odoo)
 - [Great eCommerce website running on Odoo. Good usage of variants](http://www.pneusgom.gp)
 
+[![CommitStrip Daily Stand-up](images/Strip-Daily-Standup.jpg)](http://www.commitstrip.com/en/2016/01/29/the-daily-stand-up/)
+
 ## Security on Twitter
 - [twitter.com/LinuxSec](https://twitter.com/LinuxSec)
 - [twitter.com/linuxs3c](https://twitter.com/linuxs3c)

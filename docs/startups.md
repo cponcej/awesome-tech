@@ -18,6 +18,7 @@
 		- [Recursos Humanos](#recursos-humanos)
 		- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
 		- [Interview Preparation Guide](#interview-preparation-guide)
+			- [Technical Resume](#technical-resume)
 		- [Orientación laboral](#orientación-laboral)
 
 <!-- /MarkdownTOC -->
@@ -259,9 +260,6 @@
 - [Mapping the European ICT Poles of Excellence: The Atlas of ICT Activity in Europe](http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=7140)
 	- [robertwalters.co.uk Salary Survey](https://www.robertwalters.co.uk/salarysurvey.html)
 - [Resume Dilemma: Employment Gaps and Job-Hopping](http://career-advice.monster.com/resumes-cover-letters/resume-writing-tips/resume-dilemma-employment-gaps/article.aspx)
-- [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
-- [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
-- [The 6 Musts of a Cover Letter](http://www.entrepreneur.com/article/269614)
 - [10 Questions to Ask Before You Take a New Job](http://www.levo.com/articles/career-advice/10-questions-to-ask-before-you-take-a-new-job)
 - [5 Reasons You May Not Want to Work for Google](https://www.linkedin.com/pulse/20140603115508-7668018-5-reasons-you-may-not-want-to-work-for-google)
 - [An Interview Is a Conversation, Not an Interrogation](http://career-advice.monster.com/job-interview/interview-preparation/tame-hostile-interviewer/article.aspx)
@@ -271,6 +269,14 @@
 - [Surviving the technical interview](https://wilsonericn.wordpress.com/2012/10/29/surviving-the-technical-interview/)
 
 ![war room](images/war_room.gif)
+
+#### Technical Resume
+- [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
+- [The 6 Musts of a Cover Letter](http://www.entrepreneur.com/article/269614)
+- [How to rock your tech resume (3 steps)](http://learntocodewith.me/posts/tech-resumes/) Just how you dislike writing your resume, hiring managers dislike reviewing them.
+- [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
+
+[![knowledge and experience](images/knowledge_and_experience.png)](http://geeksfun.blogspot.com/)
 
 ### Orientación laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
