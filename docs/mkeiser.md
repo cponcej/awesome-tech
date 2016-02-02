@@ -76,7 +76,11 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 worldpressphoto
 -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ihcdZax6aZI" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/121705174">Japan&#039;s Disposable Workers: Net Cafe Refugees</a> from <a href="https://vimeo.com/mediastorm">MediaStorm</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>Internet cafes have existed in Japan for over a decade, but in the mid 2000&rsquo;s, customers began using these spaces as living quarters. Internet cafe refugees are mostly temporary employees; their salary too low to rent their own apartments. <br />
+<br />
+Watch the full series at: http://mediastorm.com/clients/japans-disposable-workers-for-pulitzer-center</p>
 
 <iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
