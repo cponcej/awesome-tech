@@ -270,6 +270,8 @@
 - [Git Pandas. A wrapper around gitpython to produce pandas dataframes for analysis](https://github.com/wdm0006/git-pandas)
 - [Neat new features in Git 2.7](https://developer.atlassian.com/blog/2016/01/git-2.7-release/)
 
+[![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
+
 ### Git on Twitter
 - [twitter.com/github](https://twitter.com/github)
 - [twitter.com/githubstatus](https://twitter.com/githubstatus)
