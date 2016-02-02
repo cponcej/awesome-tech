@@ -560,7 +560,13 @@
 
 		longcmd ; [Ctrl-Z] ; bg ; disown ; screen ; reptyr $( pidof longcmd )
 
+- Apparently according to testing, this is the fastest way to delete millions of small files.
+
+		rsync -a -delete empty/ foo/
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UvZY7bYt2Lo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 # Red Hat
 ## Red Hat on Twitter
