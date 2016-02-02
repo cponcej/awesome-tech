@@ -54,6 +54,7 @@
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
 - [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 
+[![a cloud  guru at udemy](images/acloudguru.png)](https://www.udemy.com/user/ryankroonenburg/)
 
 [![Digital CIO mindset](images/digital_CIO_mindset.jpg)](https://www.cloudave.com/53350/2016-finally-year-disruption/)
 
@@ -95,6 +96,7 @@
 - [webcodegeeks.tradepub.com](http://webcodegeeks.tradepub.com/)
 - [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
 
+[![wow ebook](images/wowebook.gif)](http://www.wowebook.org)
 
 ## Alternatives
 - [javacodegeeks.com: 11 Online Learning websites to learn how to code and more!](http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html)
@@ -114,5 +116,7 @@
 - [Nuevos Cursos de Formación Oficial OpenStack](http://www.josemariagonzalez.es/2016/01/20/nuevos-cursos-de-formacion-oficial-openstack.html)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
 - [springboard.com - Learn Data Science & UX Design online](https://www.springboard.com)
+
+[![a cloud  guru](images/acloudguru_black.png)](https://acloud.guru)
 
 [![dilbert sales](images/dilbert_sales.jpg)](http://dilbert.com/)
