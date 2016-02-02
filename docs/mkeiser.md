@@ -72,6 +72,18 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen></iframe>
 
+[![China use of cement](images/china_use_of_cement.png)](https://twitter.com/intlspectator)
+
+[![First languages spoken](images/first_languages_spoken.png)](https://twitter.com/intlspectator)
+
+[![Youth unemployment](images/youth_unemployment.png)](https://twitter.com/intlspectator)
+
+[![OECD tomorrow's scientists](images/oecd_tomorrows_scientists.png)](https://twitter.com/OECD)
+
+[![OECD: GDP per hour worked](images/oecd_GDP_comparison.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/industry-and-services/oecd-compendium-of-productivity-indicators-2015_pdtvy-2015-en#page19)
+
+[![OECD poverty rates](images/oecd_poverty_rates.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/employment/in-it-together-why-less-inequality-benefits-all_9789264235120-en#page57)
+
 <!--
 worldpressphoto
 -->
@@ -97,18 +109,6 @@ Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 <!--
 worldpressphoto
 -->
-
-[![China use of cement](images/china_use_of_cement.png)](https://twitter.com/intlspectator)
-
-[![First languages spoken](images/first_languages_spoken.png)](https://twitter.com/intlspectator)
-
-[![Youth unemployment](images/youth_unemployment.png)](https://twitter.com/intlspectator)
-
-[![OECD tomorrow's scientists](images/oecd_tomorrows_scientists.png)](https://twitter.com/OECD)
-
-[![OECD: GDP per hour worked](images/oecd_GDP_comparison.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/industry-and-services/oecd-compendium-of-productivity-indicators-2015_pdtvy-2015-en#page19)
-
-[![OECD poverty rates](images/oecd_poverty_rates.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/employment/in-it-together-why-less-inequality-benefits-all_9789264235120-en#page57)
 
 - [The World Press Photo](http://www.worldpressphoto.org)
 	- [2015 Multimedia Contest](http://www.worldpressphoto.org/collection/mm/2015)
