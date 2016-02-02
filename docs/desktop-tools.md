@@ -47,6 +47,7 @@
 ## Firefox
 - [How to stop Firefox from making automatic connections. #Privacy #Security #Networking](https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections)
 - [Awesome Firefox addon to prevent tracking via free CDN providers. #Privacy #Security #Infosec #Linux #OSX #Unix](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes)
+- [uBlock Origin, an efficient blocker. Easy on CPU and memory](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 
 [![commitstrip we'll sort that out later](images/commitstrip_hw_sw_purchase.jpg)](http://www.commitstrip.com/en/2016/02/01/well-sort-that-out-later/)
 
