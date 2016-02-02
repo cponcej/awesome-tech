@@ -72,6 +72,22 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen></iframe>
 
+<!--
+worldpressphoto
+-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ihcdZax6aZI" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/114796942" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/91032041" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<!--
+worldpressphoto
+-->
+
 [![China use of cement](images/china_use_of_cement.png)](https://twitter.com/intlspectator)
 
 [![First languages spoken](images/first_languages_spoken.png)](https://twitter.com/intlspectator)
@@ -85,6 +101,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 [![OECD poverty rates](images/oecd_poverty_rates.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/employment/in-it-together-why-less-inequality-benefits-all_9789264235120-en#page57)
 
 - [The World Press Photo](http://www.worldpressphoto.org)
+	- [2015 Multimedia Contest](http://www.worldpressphoto.org/collection/mm/2015)
 - [data.oecd.org](https://data.oecd.org)
 	- [twitter.com/OECD](https://twitter.com/OECD)
 	- [twitter.com/OECD_Centre](https://twitter.com/OECD_Centre) 
