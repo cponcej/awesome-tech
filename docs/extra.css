@@ -6,9 +6,21 @@ img {
 }
 */
 
+/*
 .html5-video-player {
     width:100%;
     max-width:640px !important;
+}
+*/
+
+.html5-video-player {
+    display: block;
+    background-color: transparent;
+    border: 1px;
+    border-style: solid;
+    border-color: #a5b6cc;
+    margin: 0px auto !important;
+    width: auto !important;
 }
 
 img {
