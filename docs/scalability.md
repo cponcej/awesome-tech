@@ -43,6 +43,7 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2WuT2rdLK5A" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 ## Scalability Solutions
 - [OpenShift Dedicated](https://www.openshift.com/dedicated/)

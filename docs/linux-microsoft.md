@@ -142,6 +142,7 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBZ1-E_NcMg" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 ## Linux References
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
@@ -335,6 +336,7 @@
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Z1IoXIxLJVE" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 ## Linux Security
 - [tecmint.com: 25 Hardening Security Tips for Linux Servers](http://www.tecmint.com/linux-server-hardening-security-tips/)
@@ -588,6 +590,7 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UvZY7bYt2Lo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 # Red Hat
 ## Red Hat on Twitter
@@ -638,6 +641,7 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xMMNRSxdNvQ" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 ## Red Hat Virtualization
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)

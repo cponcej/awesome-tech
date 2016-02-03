@@ -208,6 +208,7 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoMfbgF2D_4" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 #### CI Jenkins, Travis
 - [jenkins-ci.org](https://jenkins-ci.org)
@@ -234,6 +235,7 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PMt98G4MOKg" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 #### CI RPM build
 - [Continuous integration + rpmbuild + Docker](https://access.redhat.com/discussions/1174853)
@@ -393,10 +395,12 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J5tzI-8k__Q" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Mg0UtzYql4" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 [![newrelic apm](images/newrelic-apm.png)](https://youtu.be/J5tzI-8k__Q)
 
