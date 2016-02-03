@@ -101,7 +101,9 @@
 - [awesome php](https://github.com/ziadoz/awesome-php)
 - [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
 
+<div class="container">
 [![awesome logo](images/awesome_logo.png)](https://github.com/sindresorhus/awesome)
+</div>
 
 ## Stack Exchange family of Q&A websites
 - [stackoverflow.com](http://stackoverflow.com/)
