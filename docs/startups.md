@@ -130,7 +130,7 @@
 - [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
 - [43 Best Job Search Websites 2016](http://careersherpa.net/43-best-job-search-websites-2016/)
 
-![a person who feels appreciated](images/appreciated_person.jpg){: style="max-width: 200px; height: auto;"}
+![a person who feels appreciated](images/appreciated_person.jpg)
  
 ![richard branson](images/richardbranson.jpg)
 
