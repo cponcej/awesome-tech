@@ -1,5 +1,5 @@
 img {
-    max-width: 40%;
+    max-width: 40% !important;
     height: auto;
     box-sizing: content-box;
 }
