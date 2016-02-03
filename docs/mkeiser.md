@@ -58,17 +58,9 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 [![businessinsider.com: These striking images show just how overcrowded China's population really is](images/china_population.png)](http://www.businessinsider.com/photos-show-overcrowded-china-2015-11)
 -->
 
-<div class="container">
-<script height="438px" width="778px" src="http://player.ooyala.com/iframe.js#ec=11Yjg0eTqd5rZxjrUtLggDV0VoibCYIv&pbid=6e12e8b3387a44daacfb73afba25a76e" class="video"></script>
-</div>
+<script height="100%" width="100%" src="http://player.ooyala.com/iframe.js#ec=11Yjg0eTqd5rZxjrUtLggDV0VoibCYIv&pbid=6e12e8b3387a44daacfb73afba25a76e" class="video"></script>
 
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
-
-<!--
-[![Margin Call Movie Clip - Your Opportunity](images/margin_call_movie_your_opportunity.png)](https://youtu.be/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
-
-[![Margin Call Movie Clip - A fire sale](images/margin_call_movie_a_fire_sale.png)](https://youtu.be/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
--->
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
@@ -99,26 +91,24 @@ worldpressphoto
 </div>
 
 <div class="container">
-<iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe></div>
 <p><a href="https://vimeo.com/121705174">Japan&#039;s Disposable Workers: Net Cafe Refugees</a> from <a href="https://vimeo.com/mediastorm">MediaStorm</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>Internet cafes have existed in Japan for over a decade, but in the mid 2000&rsquo;s, customers began using these spaces as living quarters. Internet cafe refugees are mostly temporary employees; their salary too low to rent their own apartments. <br />
 <br />
 Watch the full series at: http://mediastorm.com/clients/japans-disposable-workers-for-pulitzer-center</p>
-</div>
 
 <div class="container">
-<iframe src="https://player.vimeo.com/video/114796942?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<iframe src="https://player.vimeo.com/video/114796942?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe></div>
 <p><a href="https://vimeo.com/114796942">The Fence</a> from <a href="https://vimeo.com/andrewhida">Andrew Hida</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>Photographer Charles Ommanney drove nearly 2000 miles along the US-Mexico border from Brownsville, TX to San Diego, CA where he photographed and filmed the border fence, and gathered testimony from US citizens along the border. The result is a unique perspective on the immigration debate through a conceptual exploration of the economic, political, environmental, and humanitarian costs of the construction of this fence.<br />
 Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 </p>
-</div>
 
 <div class="container">
-<iframe src="https://player.vimeo.com/video/91032041?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<iframe src="https://player.vimeo.com/video/91032041?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe></div>
 <p><a href="https://vimeo.com/91032041">AT THE GATES OF EUROPE</a> from <a href="https://vimeo.com/spottorno">Carlos Spottorno</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>See the MULTIMEDIA display at El Pais Semanal: http://elpais.com/especiales/2014/europa-frontera-sur/index.html</p>
-</div>
+
 <!--
 worldpressphoto
 -->
