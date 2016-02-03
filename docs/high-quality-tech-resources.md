@@ -347,7 +347,7 @@
 - [Linux Networking](https://en.wikibooks.org/wiki/Linux_Networking)
 
 <div class="videoWrapper">
-<iframe src="https://www.youtube.com/embed/e8w6WcZPcG4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e8w6WcZPcG4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Webcomics
