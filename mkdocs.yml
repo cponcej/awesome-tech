@@ -5,8 +5,8 @@ extra_css:
 site_favicon: images/favicon.png
 - smarty
 - toc:
-    permalink: True
-    separator: "_"
+	- permalink: True
+    - separator: "_"
 - sane_lists
 pages:
 - Home: index.md
