@@ -54,13 +54,7 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [![businessinsider.com: animated map shows religion across the world](images/religion_across_the_world.png)](http://www.businessinsider.com/map-shows-how-religion-spread-around-the-world-2015-6)
 
-<!--
 [![businessinsider.com: These striking images show just how overcrowded China's population really is](images/china_population.png)](http://www.businessinsider.com/photos-show-overcrowded-china-2015-11)
--->
-
-<div class="container">
-<script height="100%" width="100%" src="http://player.ooyala.com/iframe.js#ec=11Yjg0eTqd5rZxjrUtLggDV0VoibCYIv&pbid=6e12e8b3387a44daacfb73afba25a76e" class="video"></script>
-</div>
 
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
