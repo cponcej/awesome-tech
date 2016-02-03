@@ -341,6 +341,8 @@
 ## IBM Rational ClearCase 
 - [Deploying secure software configuration management](http://www.ibm.com/developerworks/rational/library/rational-deploy-secure-software-configuration-management-trs/index.html)
 
+[![Puppet 3 Cookbook](images/Puppet-3-Cookbook.png)](http://www.wowebook.org/puppet-3-cookbook.html)
+
 [![Pro Docker](images/Pro-Docker.png)](http://www.wowebook.org/pro-docker.html)
 
 [![Monitoring Docker](images/Monitoring-Docker.png)](http://www.wowebook.org/monitoring-docker.html)
