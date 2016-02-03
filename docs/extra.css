@@ -1,4 +1,37 @@
+/* Main images - mkdocs theme */
+
+div.col-md-9 img {
+    display: block;
+    background-color: transparent;
+    border: 1px;
+    border-style: solid;
+    border-color: #a5b6cc;
+}
+
+/* Main images - readthedocs theme */
+
 img {
-    max-width: 50%;
-    height: auto;
+    display: block;
+    background-color: transparent;
+    border: 1px;
+    border-style: solid;
+    border-color: #a5b6cc;
+    margin: 0px auto;
+    width: auto;
+}
+
+img.noborder {
+    border-style: none;
+}
+
+/* Inline icon images - readthedocs theme */
+
+td img {
+    border-style: none;
+}
+
+/* Suppress first heading in the ToC */
+
+li.toctree-l3:first-child {
+    display: none;
 }
