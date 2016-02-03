@@ -331,8 +331,6 @@
 
 [![we developers](images/we_developers.png)](http://wedevelopers.com)
 
-![we developers2](images/we_developers.png)
-
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 
 
@@ -348,13 +346,7 @@
 - [LPI](https://en.wikibooks.org/wiki/LPI_Linux_Certification)
 - [Linux Networking](https://en.wikibooks.org/wiki/Linux_Networking)
 
-![we developers3](images/we_developers.png)
-
-<!--
-[![wikipedia jimmy wales](images/wikipedia_jimmy_wales.png)](http://one.elpais.com/jimmy-wales-fundador-de-la-wikipedia-en-su-15o-aniversario-no-es-cierto-que-hayamos-hecho-a-los-alumnos-mas-vagos/)
--->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e8w6WcZPcG4" frameborder="0" allowfullscreen></iframe>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/e8w6WcZPcG4" frameborder="0" allowfullscreen></iframe>
 
 ## Webcomics
 - [commitstrip.com](http://www.commitstrip.com)
