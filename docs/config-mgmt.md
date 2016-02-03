@@ -349,6 +349,8 @@
 
 [![Docker Cookbook](images/Docker-Cookbook-OReilly.png)](http://www.wowebook.org/docker-cookbook-oreilly-media.html)
 
+[![Docker Cookbook packt](images/Docker-Cookbook.png)](http://www.wowebook.org/docker-cookbook-packt-publishing.html)
+
 [![Using Docker](images/Using-Docker.png)](http://www.wowebook.org/using-docker-developing-and-deploying-software-with-containers.html)
 
 [![disruption cycle](images/disruption-cycle.png)](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
