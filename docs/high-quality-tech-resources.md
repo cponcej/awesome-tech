@@ -346,7 +346,7 @@
 - [LPI](https://en.wikibooks.org/wiki/LPI_Linux_Certification)
 - [Linux Networking](https://en.wikibooks.org/wiki/Linux_Networking)
 
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed/e8w6WcZPcG4" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/e8w6WcZPcG4" frameborder="0" allowfullscreen></iframe>
 
 ## Webcomics
 - [commitstrip.com](http://www.commitstrip.com)
