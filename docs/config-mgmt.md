@@ -100,7 +100,7 @@
 - [Twitter's transition from Puppet to Ansible](https://www.youtube.com/watch?v=fwGrKXzocg4)
 
 <!-- ![I volunteer](images/i_volunteer.gif | max-width=100) -->
-![I volunteer](images/i_volunteer.gif =100x)
+![I volunteer](images/i_volunteer.gif =50x)
 
 ### Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
