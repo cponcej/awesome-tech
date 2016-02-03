@@ -3,7 +3,11 @@ site_url: http://awesome-tech.readthedocs.org
 extra_css: 
 - extra.css
 site_favicon: images/favicon.png
+markdown_extensions:
 - smarty
+- toc:
+    permalink: True
+    separator: "_"
 - sane_lists
 pages:
 - Home: index.md
