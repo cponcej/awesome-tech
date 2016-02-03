@@ -99,7 +99,14 @@
 - [Are Docker Users Migrating to Ansible and Away from Puppet and Chef?](http://thenewstack.io/are-docker-users-migrating-to-ansible-and-away-from-puppet-and-chef/)
 - [Twitter's transition from Puppet to Ansible](https://www.youtube.com/watch?v=fwGrKXzocg4)
 
-![I volunteer](images/i_volunteer.gif align="absmiddle")
+![I volunteer](images/i_volunteer.gif)
+
+<br/>
+<p align="center">
+  <img src=images/i_volunteer.gif>
+</p>
+<br/>
+
 
 ### Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
