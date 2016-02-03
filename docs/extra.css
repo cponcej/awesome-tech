@@ -5,8 +5,7 @@ img.noborder {
 }
 
 img {
-    border-style: none;
-    max-width: 50% !important;
+    max-width: auto;
     height: auto;
 }
 
