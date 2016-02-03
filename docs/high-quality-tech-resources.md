@@ -300,9 +300,9 @@
 - [WHIR Cloud Podcasts](http://www.thewhir.com/whir-podcast)
 	- [Top 5 The WHIR: Cloud Talks Podcasts for 2015](http://www.thewhir.com/blog/top-5-the-whir-cloud-talks-podcasts-for-2015)
 
-<div>
+<p align="center">
 <iframe style="border: solid 1px #dedede;"  src="http://app.stitcher.com/splayer/f/53806/37340198" width="220" height="150" frameborder="0" scrolling="no"></iframe>
-</div>
+</p>
 
 [![The Cloudcast](images/thecloudcast.png)](http://www.thecloudcast.net)
 
