@@ -341,4 +341,14 @@
 ## IBM Rational ClearCase 
 - [Deploying secure software configuration management](http://www.ibm.com/developerworks/rational/library/rational-deploy-secure-software-configuration-management-trs/index.html)
 
+[![Pro Docker](images/Pro-Docker.png)](http://www.wowebook.org/pro-docker.html)
+
+[![Monitoring Docker](images/Monitoring-Docker.png)](http://www.wowebook.org/monitoring-docker.html)
+
+[![Mastering Docker](images/Mastering-Docker.png)](http://www.wowebook.org/mastering-docker.html)
+
+[![Docker Cookbook](images/Docker-Cookbook-OReilly.png)](http://www.wowebook.org/docker-cookbook-oreilly-media.html)
+
+[![Using Docker](images/Using-Docker.png)](http://www.wowebook.org/using-docker-developing-and-deploying-software-with-containers.html)
+
 [![disruption cycle](images/disruption-cycle.png)](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
