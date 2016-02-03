@@ -5,9 +5,6 @@ extra_css:
 site_favicon: images/favicon.png
 markdown_extensions:
     - smarty
-    - toc:
-    	permalink: True
-    	anchorlink: True
 pages:
 	- Home: index.md
 	- High quality tech resources and search engines: high-quality-tech-resources.md

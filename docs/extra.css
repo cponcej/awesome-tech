@@ -1,24 +1,7 @@
-img.noborder {
-    border-style: none;
-    max-width: 100%;
-    height: auto;
-}
-
 img {
-    max-width: auto;
+    max-width: 50%;
     height: auto;
-}
-
-/* Inline icon images - readthedocs theme */
-
-td img {
-    border-style: none;
-}
-
-/* Suppress first heading in the ToC */
-
-li.toctree-l3:first-child {
-    display: none;
+    box-sizing: content-box;
 }
 
 video {
