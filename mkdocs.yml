@@ -1,29 +1,27 @@
 site_name: Awesome Tech
 site_url: http://awesome-tech.readthedocs.org
 extra_css: 
-	- extra.css
+- extra.css
 site_favicon: images/favicon.png
-markdown_extensions:
-    - smarty
 pages:
-	- Home: index.md
-	- High quality tech resources and search engines: high-quality-tech-resources.md
-	- Twitter resources, Newsfeeds: twitter.md
-	- Miscellaneous. IT Blogs, Support: it-blogs.md
-	- Startups, Jobs, In-Demand Skills, HR, Interviews: startups.md
-	- Scalability and Reliability, Datacenters: scalability.md
-	- Linux, Red Hat, Microsoft, VMware: linux-microsoft.md
-	- WebApp, Middleware, JVM: webapp.md
-	- Cambios en Java 8: jvm-mem.md
-	- Security: security.md
-	- Configuration Management and Orchestration. Docker: config-mgmt.md
-	- DevOps and ITIL: devops-itil.md
-	- Software Development: sw-devel.md
-	- Data Science and Big Data: data-science.md
-	- Networking. Firewalls, Network Forensics: networking.md
-	- Servers, Storage and Backup: servers-storage-backup.md
-	- Cloud: cloud.md
-	- Desktop Tools and Presentations: desktop-tools.md
-	- E-Learning: e-learning.md
-	- Quote: mkeiser.md
-	- About: about.md
+- Home: index.md
+- High quality tech resources and search engines: high-quality-tech-resources.md
+- Twitter resources, Newsfeeds: twitter.md
+- Miscellaneous. IT Blogs, Support: it-blogs.md
+- Startups, Jobs, In-Demand Skills, HR, Interviews: startups.md
+- Scalability and Reliability, Datacenters: scalability.md
+- Linux, Red Hat, Microsoft, VMware: linux-microsoft.md
+- WebApp, Middleware, JVM: webapp.md
+- Cambios en Java 8: jvm-mem.md
+- Security: security.md
+- Configuration Management and Orchestration. Docker: config-mgmt.md
+- DevOps and ITIL: devops-itil.md
+- Software Development: sw-devel.md
+- Data Science and Big Data: data-science.md
+- Networking. Firewalls, Network Forensics: networking.md
+- Servers, Storage and Backup: servers-storage-backup.md
+- Cloud: cloud.md
+- Desktop Tools and Presentations: desktop-tools.md
+- E-Learning: e-learning.md
+- Quote: mkeiser.md
+- About: about.md
