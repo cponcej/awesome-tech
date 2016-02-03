@@ -1,4 +1,5 @@
 site_name: Awesome Tech
+extra_css: [extra.css]
 pages:
 - Home: index.md
 - High quality tech resources and search engines: high-quality-tech-resources.md
