@@ -1,9 +1,4 @@
 .container img {
-    max-width: 300%;
+    max-width: 50%;
     height: auto;
-}
-
-.foo {
-  text-align: center;
-  width: 300px;
 }
