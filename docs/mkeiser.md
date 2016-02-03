@@ -99,8 +99,6 @@ worldpressphoto
 <br />
 Watch the full series at: http://mediastorm.com/clients/japans-disposable-workers-for-pulitzer-center</p>
 
-<br>
-
 <div class="container">
 <iframe src="https://player.vimeo.com/video/114796942?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe></div>
 <p><a href="https://vimeo.com/114796942">The Fence</a> from <a href="https://vimeo.com/andrewhida">Andrew Hida</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
