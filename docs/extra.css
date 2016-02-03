@@ -1,10 +1,26 @@
+/*
 img {
     max-width: auto !important;
     height: auto;
     box-sizing: content-box;
 }
+*/
 
-.ytp-thumbnail-overlay {
+.html5-video-player {
     width:100%;
-    max-width:640px;
+    max-width:640px !important;
+}
+
+img {
+    display: block;
+    background-color: transparent;
+    border: 1px;
+    border-style: solid;
+    border-color: #a5b6cc;
+    margin: 0px auto !important;
+    width: auto !important;
+}
+
+img.noborder {
+    border-style: none;
 }
