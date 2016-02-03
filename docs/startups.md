@@ -130,8 +130,8 @@
 - [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
 - [43 Best Job Search Websites 2016](http://careersherpa.net/43-best-job-search-websites-2016/)
 
-![a person who feels appreciated](images/appreciated_person.jpg){:height="36px" width="36px"}.
-
+![a person who feels appreciated](images/appreciated_person.jpg){height="36px" width="auto"}
+ 
 ![richard branson](images/richardbranson.jpg)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137953413411" data-did="1531d8b9f4aa1cd335a89c80176d79a4aec36b5b"><a href="http://inafev.tumblr.com/post/137953413411/to-all-the-people-on-here-looking-for-jobs">http://inafev.tumblr.com/post/137953413411/to-all-the-people-on-here-looking-for-jobs</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
