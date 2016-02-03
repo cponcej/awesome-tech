@@ -207,11 +207,9 @@
 
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
-<!--
-[![Apple CEO Tim Cook on Collaboration](images/tim_cook_on_collaboration.png)](https://youtu.be/EZPYLZ7I6gs)
--->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EZPYLZ7I6gs" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EZPYLZ7I6gs" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 [![An Introvert's Guide to Surviving Team Lunches](images/lets_grab_lunch.png)](http://goingconcern.com/post/introverts-guide-surviving-team-lunches)
 
@@ -240,11 +238,9 @@
 
 [![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
 
-<!--
-[![David Marquet: Fix the Environment, Not People](images/david_marquet_fix_environment.png)](https://davidmarquet.wordpress.com/2016/01/20/fix-the-environment-not-people/)
--->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)

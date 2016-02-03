@@ -138,7 +138,9 @@
 - [twitter.com/NetBeez](https://twitter.com/NetBeez)
 - [twitter.com/Securactivepv](https://twitter.com/Securactivepv)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iX44XIZafiw" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iX44XIZafiw" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 ### Network Forensics Docs
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/)
@@ -188,7 +190,9 @@
 
 [![digital attack map](images/digital_attack_map.png)](http://www.digitalattackmap.com/)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/UXAHvwouk6Q" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/UXAHvwouk6Q" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 ### Network Forensics and Monitoring for MySQL and PostgreSQL
 - [VividCortex](https://twitter.com/VividCortex)

@@ -58,7 +58,9 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 [![businessinsider.com: These striking images show just how overcrowded China's population really is](images/china_population.png)](http://www.businessinsider.com/photos-show-overcrowded-china-2015-11)
 -->
 
-<script height="438px" width="778px" src="http://player.ooyala.com/iframe.js#ec=11Yjg0eTqd5rZxjrUtLggDV0VoibCYIv&pbid=6e12e8b3387a44daacfb73afba25a76e"></script>
+<div class="container">
+<script height="438px" width="778px" src="http://player.ooyala.com/iframe.js#ec=11Yjg0eTqd5rZxjrUtLggDV0VoibCYIv&pbid=6e12e8b3387a44daacfb73afba25a76e" class="video"></script>
+</div>
 
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
@@ -68,9 +70,13 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 [![Margin Call Movie Clip - A fire sale](images/margin_call_movie_a_fire_sale.png)](https://youtu.be/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1)
 -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 [![China use of cement](images/china_use_of_cement.png)](https://twitter.com/intlspectator)
 
@@ -88,24 +94,31 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 worldpressphoto
 -->
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ihcdZax6aZI?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ihcdZax6aZI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
-<iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="container">
+<iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 <p><a href="https://vimeo.com/121705174">Japan&#039;s Disposable Workers: Net Cafe Refugees</a> from <a href="https://vimeo.com/mediastorm">MediaStorm</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>Internet cafes have existed in Japan for over a decade, but in the mid 2000&rsquo;s, customers began using these spaces as living quarters. Internet cafe refugees are mostly temporary employees; their salary too low to rent their own apartments. <br />
 <br />
 Watch the full series at: http://mediastorm.com/clients/japans-disposable-workers-for-pulitzer-center</p>
+</div>
 
-<iframe src="https://player.vimeo.com/video/114796942?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="container">
+<iframe src="https://player.vimeo.com/video/114796942?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 <p><a href="https://vimeo.com/114796942">The Fence</a> from <a href="https://vimeo.com/andrewhida">Andrew Hida</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>Photographer Charles Ommanney drove nearly 2000 miles along the US-Mexico border from Brownsville, TX to San Diego, CA where he photographed and filmed the border fence, and gathered testimony from US citizens along the border. The result is a unique perspective on the immigration debate through a conceptual exploration of the economic, political, environmental, and humanitarian costs of the construction of this fence.<br />
 Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 </p>
+</div>
 
-<iframe src="https://player.vimeo.com/video/91032041?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="container">
+<iframe src="https://player.vimeo.com/video/91032041?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 <p><a href="https://vimeo.com/91032041">AT THE GATES OF EUROPE</a> from <a href="https://vimeo.com/spottorno">Carlos Spottorno</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>See the MULTIMEDIA display at El Pais Semanal: http://elpais.com/especiales/2014/europa-frontera-sur/index.html</p>
-
+</div>
 <!--
 worldpressphoto
 -->
@@ -156,4 +169,6 @@ worldpressphoto
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
 - [¿Va a estallar Silicon Valley?](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lynZYPTVelw" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lynZYPTVelw" frameborder="0" allowfullscreen class="video"></iframe>
+</div>

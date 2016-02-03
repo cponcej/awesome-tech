@@ -58,11 +58,9 @@
 
 [![Digital CIO mindset](images/digital_CIO_mindset.jpg)](https://www.cloudave.com/53350/2016-finally-year-disruption/)
 
-<!--
-[![Women who code](images/women_who_code.png)](https://youtu.be/k1Pu0_tIgR4)
--->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k1Pu0_tIgR4" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k1Pu0_tIgR4" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 ## Free e-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)

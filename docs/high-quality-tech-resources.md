@@ -233,11 +233,9 @@
 	- [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
 - [Medium's Stack: The Stack That Helped Medium Scale To 2.6 Millennia Of Reading Time](http://stackshare.io/medium/the-stack-that-helped-medium-scale-to-2-6-millennia-of-reading-time)
 
-<!--
-[![Here Comes Another Bubble v1.1 - The Richter Scales](images/nobubble.jpg)](https://youtu.be/I6IQ_FOCE6I)
--->
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/I6IQ_FOCE6I" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/I6IQ_FOCE6I" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 ## Marketplaces
 ### Noodlio
@@ -364,8 +362,6 @@
 	- [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 - [9gag.com](http://9gag.com)
 
-<!---
-[![Arthur C. Clarke describe internet en 1974](images/arthur_c_clarke.png)](https://www.youtube.com/watch?v=E5G31VO1c0U)
--->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E5G31VO1c0U" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E5G31VO1c0U" frameborder="0" allowfullscreen class="video"></iframe>
+</div>

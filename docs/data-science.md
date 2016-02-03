@@ -492,7 +492,9 @@
 
 ![but why](images/but_why.gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qI_g07C_Q5I" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qI_g07C_Q5I" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 #### MongoDB on Twitter
 - [twitter.com/MongoDB](https://twitter.com/MongoDB)
