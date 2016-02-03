@@ -1,28 +1,12 @@
-/* Main images - mkdocs theme */
-
-div.col-md-9 img {
-    display: block;
-    background-color: transparent;
-    border: 1px;
-    border-style: solid;
-    border-color: #a5b6cc;
-}
-
-/* Main images - readthedocs theme */
-
-img {
-    display: block;
-    background-color: transparent;
-    border: 1px;
-    border-style: solid;
-    border-color: #a5b6cc;
-    margin: 0px auto;
-    width: auto;
-}
-
 img.noborder {
     border-style: none;
     max-width: 100%;
+    height: auto;
+}
+
+img {
+    border-style: none;
+    max-width: 50% !important;
     height: auto;
 }
 
@@ -36,4 +20,9 @@ td img {
 
 li.toctree-l3:first-child {
     display: none;
+}
+
+video {
+    width:100%;
+    max-width:640px;
 }
