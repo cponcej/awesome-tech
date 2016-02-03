@@ -62,9 +62,13 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
+<br> 
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+
+<br>
 
 [![China use of cement](images/china_use_of_cement.png)](https://twitter.com/intlspectator)
 
@@ -86,12 +90,16 @@ worldpressphoto
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ihcdZax6aZI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
+<br>
+
 <div class="container">
 <iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe></div>
 <p><a href="https://vimeo.com/121705174">Japan&#039;s Disposable Workers: Net Cafe Refugees</a> from <a href="https://vimeo.com/mediastorm">MediaStorm</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>Internet cafes have existed in Japan for over a decade, but in the mid 2000&rsquo;s, customers began using these spaces as living quarters. Internet cafe refugees are mostly temporary employees; their salary too low to rent their own apartments. <br />
 <br />
 Watch the full series at: http://mediastorm.com/clients/japans-disposable-workers-for-pulitzer-center</p>
+
+<br>
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/114796942?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe></div>
