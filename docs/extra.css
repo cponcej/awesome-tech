@@ -13,15 +13,21 @@ img {
 }
 */
 
-.html5-video-player {
-    display: block;
-    background-color: transparent;
-    border: 1px;
-    border-style: solid;
-    border-color: #a5b6cc;
-    margin: 0px auto !important;
-    width: auto !important;
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
 }
+.videoWrapper object,
+.videoWrapper embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
 
 img {
     display: block;
