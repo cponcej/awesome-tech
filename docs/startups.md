@@ -241,6 +241,7 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
 
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
