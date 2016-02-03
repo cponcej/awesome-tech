@@ -1,8 +1,13 @@
 site_name: Awesome Tech
 site_url: http://awesome-tech.readthedocs.org
 extra_css: 
-- extra.css
+	- extra.css
 site_favicon: images/favicon.png
+    - smarty
+    - toc:
+        permalink: True
+        separator: "_"
+    - sane_lists
 pages:
 - Home: index.md
 - High quality tech resources and search engines: high-quality-tech-resources.md
