@@ -132,7 +132,7 @@
 
 ![a person who feels appreciated](images/appreciated_person.jpg)
  
-<img class="noborder" alt="appreciated person" src="./images/appreciated_person.jpg" />
+<img class="noborder" alt="appreciated person" src="images/appreciated_person.jpg" />
 
 ![richard branson](images/richardbranson.jpg)
 
