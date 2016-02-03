@@ -1,5 +1,6 @@
 site_name: Awesome Tech
-extra_css: [extra.css]
+extra_css: 
+- extra.css
 pages:
 - Home: index.md
 - High quality tech resources and search engines: high-quality-tech-resources.md
@@ -22,25 +23,3 @@ pages:
 - E-Learning: e-learning.md
 - Quote: mkeiser.md
 - About: about.md
-markdown_extensions:
-  - markdown.extensions.toc:
-      slugify: !!python/name:pymdownx.headeranchor.uslugify
-  - markdown.extensions.admonition
-  - markdown.extensions.smarty
-  - markdown.extensions.nl2br
-  - markdown.extensions.codehilite:
-      guess_lang: false
-  - pymdownx.extra
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.tilde
-  - pymdownx.caret
-  - pymdownx.smartsymbols
-  - pymdownx.githubemoji
-  - pymdownx.tasklist
-  - pymdownx.progressbar
-  - pymdownx.headeranchor:
-      slugify: !!python/name:pymdownx.headeranchor.uslugify
-  - pymdownx.arithmatex
-  - pymdownx.mark
-  - pymdownx.critic
