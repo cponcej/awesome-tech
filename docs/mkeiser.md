@@ -6,7 +6,8 @@
 
 >Lo salarios ya no están encima de la mesa a la hora de establecer las políticas económicas. Ni en el Reino Unido, ni en EEUU ni en ningún otro lugar del mundo. Los salarios ya no forman parte del debate. ¿Y eso por qué? Porque antes si uno quería hacerse rico tenía que contratar personal. Eso fue lo que pasó en la revolución industrial, en la que hizo falta mucho personal en las fábricas, lo que convirtió a los empresarios en dueños de los medios de producción. Mucha gente se dedicó a fabricar automóviles y si uno hacía como Henry Ford se volvía inmensamente rico. El problema es que los medios de producción han cambiado. Los trabajadores y la mano de obra ya no hacen falta, ni tampoco los salarios. Lo único que hay que hacer es darle a un botón y emitir moneda. Y la única forma de que esa política tenga éxito para los que aprietan el botón, es que el dinero que fabrican esas máquinas de emitir moneda vaya a parar a los que antes vivían de su salario. Esa gente está siendo denigrada y condenada a una serie de políticas inmobiliarias orquestadas por el complejo penitenciario industrial para crear una mano de obra esclava. Steven Roach tiene razón cuando dice que los salarios ya no se tienen en cuenta.
 
-Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
+Max Keiser 
+Keiser Report #E823 #E828 #E831 
 
 [![global house prices economist](images/global-house-prices-economist.png)](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
 
@@ -15,6 +16,8 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 ![The Fed has at last raised rates. What happens next?](images/interest_rates.png)
 
 ![An example of poor economics journalism](images/debt_britain.png)
+
+[![cost of the crash](images/cost_of_the_crash.png)](http://www.irishtimes.com/business/economy/irish-biggest-losers-from-financial-crash-ecb-1.2398588)
 
 [![FT chart of the day: real wages in the US, Germany, UK and Spain since the crisis](images/real_wages.png)](http://blogs.ft.com/ftdata/2014/12/08/datawatch-real-wages-since-the-crisis/)
 
@@ -61,13 +64,11 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-
 <br> 
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-
 <br>
 
 [![China use of cement](images/china_use_of_cement.png)](https://twitter.com/intlspectator)
@@ -89,7 +90,6 @@ worldpressphoto
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ihcdZax6aZI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-
 <br>
 
 <div class="container">
@@ -100,20 +100,18 @@ worldpressphoto
 Watch the full series at: http://mediastorm.com/clients/japans-disposable-workers-for-pulitzer-center</p>
 
 <div class="container">
-<iframe src="https://player.vimeo.com/video/114796942?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe></div>
+<iframe src="https://player.vimeo.com/video/114796942?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
 <p><a href="https://vimeo.com/114796942">The Fence</a> from <a href="https://vimeo.com/andrewhida">Andrew Hida</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>Photographer Charles Ommanney drove nearly 2000 miles along the US-Mexico border from Brownsville, TX to San Diego, CA where he photographed and filmed the border fence, and gathered testimony from US citizens along the border. The result is a unique perspective on the immigration debate through a conceptual exploration of the economic, political, environmental, and humanitarian costs of the construction of this fence.<br />
 Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 </p>
 
 <div class="container">
-<iframe src="https://player.vimeo.com/video/91032041?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe></div>
+<iframe src="https://player.vimeo.com/video/91032041?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
 <p><a href="https://vimeo.com/91032041">AT THE GATES OF EUROPE</a> from <a href="https://vimeo.com/spottorno">Carlos Spottorno</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p>See the MULTIMEDIA display at El Pais Semanal: http://elpais.com/especiales/2014/europa-frontera-sur/index.html</p>
-
-<!--
-worldpressphoto
--->
 
 - [The World Press Photo](http://www.worldpressphoto.org)
 	- [2015 Multimedia Contest](http://www.worldpressphoto.org/collection/mm/2015)
@@ -141,6 +139,9 @@ worldpressphoto
 - [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
 - [uk.businessinsider.com: Animated map shows the history of immigration to the US](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 - [flowingdata.com: American Immigration history](http://flowingdata.com/2016/01/12/immigration-history/)
+- [Irish biggest losers from financial crash - ECB](http://www.irishtimes.com/business/economy/irish-biggest-losers-from-financial-crash-ecb-1.2398588)
+- [Britain is heading for another 2008 crash: here’s why](http://www.theguardian.com/commentisfree/2015/oct/28/2008-crash-government-economic-growth-budgetary-surplus)
+- [Educated Greeks show highest rate of unemployment in OECD](http://www.ekathimerini.com/203808/article/ekathimerini/news/educated-greeks-show-highest-rate-of-unemployment-in-oecd)
 - [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 - [The Economist. The other side of paradise](http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise) Glamorous tech startups can be brutal places for workers
 - [businessinsider.com: The 13 worst things about Silicon Valley](http://www.businessinsider.com/the-dark-side-of-silicon-valley-2016-1)
@@ -148,6 +149,7 @@ worldpressphoto
 - [How does corruption in Africa really compare to OECD countries? Anti-Fraud & Corruption Law in Africa](http://africanantifraud.com/2016/01/20/circles-of-corruption-how-does-africa-stack-up-against-the-oecd/)
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
 - [Thomas Piketty’s “Capital”, summarised in four paragraphs](http://www.economist.com/blogs/economist-explains/2014/05/economist-explains)
+- [Debt: The First 5000 Years. David Graeber](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years)
 - [The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era. Jeremy Rifkin](https://en.wikipedia.org/wiki/The_End_of_Work)
 - [blogs.wsj.com: Six Years Later, 93% of U.S. Counties Haven’t Recovered From Recession, Study Finds](http://blogs.wsj.com/economics/2016/01/12/six-years-later-93-of-u-s-counties-havent-recovered-from-recession-study-finds/)
 - [Laid-off IT workers muzzled as H-1B debate heats up](http://www.cio.com/article/3027539/outsourcing/laid-off-it-workers-muzzled-as-h-1b-debate-heats-up.html)
@@ -157,8 +159,20 @@ worldpressphoto
 - [Quince películas para entender la crisis](http://www.elmundo.es/cultura/2016/01/15/56991002e2704e61348b45cb.html)
 	- [Margin Call quotes](http://www.imdb.com/title/tt1615147/quotes)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
-- [El precariado: una nueva clase social (E791)](https://youtu.be/8cdPD71jZjM) El fenómeno supera todas la fronteras geográficas
+- [José María Gay, el economista indignado](https://youtu.be/cby2vsK8O6k)
+- Keiser Report en español:
+	- [El comienzo del fin del capitalismo (E790)](https://youtu.be/OBNbUk3D2XM) El post-capitalismo
+	- [El precariado: una nueva clase social (E791)](https://youtu.be/8cdPD71jZjM) El fenómeno supera todas la fronteras geográficas
+	- [Volver a la norma del oro (E796)](https://youtu.be/cnfEC4PF23U)
+	- [Todos a endeudarse! (E818)](https://youtu.be/875-LANXBeg)
+	- [Guerra contra la pobreza y políticos marioneta (E823)](https://youtu.be/4CmZaGTEZnc)
+	- [El control de la riqueza mundial (E824)](https://youtu.be/FcIL2k0LuyY)
+	- [Banqueros centrales, secretarios del Tesoro y otros mentirosos (E825)](https://youtu.be/YPEq8_ygWh8)
+	- [El fin del capitalismo (E828)](https://youtu.be/IIcIPz4wpCU)
+	- [Misterio y magia en los mercados financieros (E833)](https://youtu.be/dekXrmppTUg)
+	- [Época de recesiones (E840)](https://youtu.be/esnj2lfr4zA)
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
+- [Ser informático ya no es lo que era](http://www.readwriteweb.es/ser-informatico/)
 - [¿Va a estallar Silicon Valley?](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
 
 [![15 documentaries on Netflix that will make you smarter about business](images/netflix_business_documentaries.png)](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
