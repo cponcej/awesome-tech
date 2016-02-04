@@ -238,6 +238,8 @@
 
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
+![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)
+
 ### Recursos Humanos
 - [elblogderrhh.com](http://www.elblogderrhh.com/)
 	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)

@@ -163,6 +163,7 @@ Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 - Keiser Report en español:
 	- [El comienzo del fin del capitalismo (E790)](https://youtu.be/OBNbUk3D2XM) El post-capitalismo
 	- [El precariado: una nueva clase social (E791)](https://youtu.be/8cdPD71jZjM) El fenómeno supera todas la fronteras geográficas
+	- [La maldita deuda (E792)](https://youtu.be/M89qDw1p2lQ)
 	- [Volver a la norma del oro (E796)](https://youtu.be/cnfEC4PF23U)
 	- [Todos a endeudarse! (E818)](https://youtu.be/875-LANXBeg)
 	- [Guerra contra la pobreza y políticos marioneta (E823)](https://youtu.be/4CmZaGTEZnc)
