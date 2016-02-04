@@ -1,5 +1,5 @@
 (function() {
-  var stopPlayAt = 82, // Stop play at time in seconds
+  var stopPlayAt = 33, // Stop play at time in seconds
       stopPlayTimer;   // Reference to settimeout call
 
   // This code loads the IFrame Player API code asynchronously.
