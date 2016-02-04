@@ -151,6 +151,7 @@
 ![always that way](images/always_that_way.jpg)
 
 ## Agile planning: Scrum, Kanban, Lean
+- [Manifesto for Agile Software Development](http://agilemanifesto.org)
 - [Javier Garzás: Agilidad](https://www.youtube.com/watch?v=oShXAC26rcs)
 	- [¿Qué es un líder técnico? Y los cambios que están sufriendo los roles típicos en un proyecto tecnológico](http://www.javiergarzas.com/2014/12/que-es-un-lider-tecnico.html)
 	- [Aléjate del concepto “Proyecto” si quieres usar bien Scrum: confundir “versión a entregar” al cliente con final de sprint](http://www.javiergarzas.com/2015/11/alejate-del-concepto-proyecto-si-quieres-usar-bien-scrum-12-confundir-version-a-entregar-al-cliente-con-final-de-sprint.html)
@@ -174,6 +175,8 @@
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 - [dzone.com: 5 Issues with Agile and What’s Next](https://dzone.com/articles/5-issues-with-agile-and-whats-next) Agile is increasingly popular, but it isn't perfect. Check out these 5 issues with Agile, and learn how the space will further evolve. Problems include lack of software architecture focus, and unclear definition of self-organization.
 - [enterprisersproject.com: A conversation with Gene Kim on DevOps, waterfall development, and containers ](https://enterprisersproject.com/article/2015/4/conversation-gene-kim-devops-waterfall-development-and-containers)
+
+[![agile manifesto](images/agile_manifesto.png)](http://www.agilemanifesto.org/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oShXAC26rcs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
