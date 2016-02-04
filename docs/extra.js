@@ -12,7 +12,6 @@
   // after the API code downloads.
   var player;
   window.onYouTubeIframeAPIReady = function() {
-    <img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
     player = new YT.Player("player", {
       "height": "45",
       "width": "100%",
