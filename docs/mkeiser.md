@@ -18,8 +18,6 @@ Max Keiser - Keiser Report #E831 - La guerra equivocada de los bancos centrales
 
 [![FT chart of the day: real wages in the US, Germany, UK and Spain since the crisis](images/real_wages.png)](http://blogs.ft.com/ftdata/2014/12/08/datawatch-real-wages-since-the-crisis/)
 
-[![15 documentaries on Netflix that will make you smarter about business](images/netflix_business_documentaries.jpg)](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
-
 [![OECD Data: Household debt](images/oecd_household_debt.png)](https://data.oecd.org)
 
 ![OECD Data: Household disposable income](images/oecd_household_disposable_income.png)
@@ -162,6 +160,8 @@ worldpressphoto
 - [El precariado: una nueva clase social (E791)](https://youtu.be/8cdPD71jZjM) El fenómeno supera todas la fronteras geográficas
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
 - [¿Va a estallar Silicon Valley?](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
+
+[![15 documentaries on Netflix that will make you smarter about business](images/netflix_business_documentaries.jpg)](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lynZYPTVelw" frameborder="0" allowfullscreen class="video"></iframe>
