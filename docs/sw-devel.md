@@ -506,6 +506,8 @@
 - [Mou](http://25.io/mou/)
 - [Markdown preview and build plugin for sublime text 2/3](https://github.com/revolunet/sublimetext-markdown-preview)
 
+[![Mou editor](images/Mou.png)](http://25.io/mou/)
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/XnPkdcBGBlw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
