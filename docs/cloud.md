@@ -36,6 +36,7 @@
 
 <!-- /MarkdownTOC -->
 
+![baby security](images/baby_security.jpg)
 
 # Cloud
 - [Cloud automation should be the heart of enterprise support -- it will decrease downtime, increase flexibility, and dramatically improve your provider’s ability to rapidly respond to service requests](https://www.linkedin.com/pulse/uk-cios-dissatisfied-cloud-providers-ryan-kroonenburg)
