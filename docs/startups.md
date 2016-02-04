@@ -238,7 +238,7 @@
 
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
-![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)
+[![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)](http://insights.com/)
 
 ### Recursos Humanos
 - [elblogderrhh.com](http://www.elblogderrhh.com/)
