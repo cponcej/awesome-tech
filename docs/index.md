@@ -3,7 +3,7 @@
 <div class="container">
 <img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
 <div id="player"></div>
-
+</div>
 **Table of Contents**
 
 1. [High quality tech resources and search engines](high-quality-tech-resources.md)
