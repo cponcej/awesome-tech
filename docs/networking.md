@@ -237,4 +237,4 @@
 - [NEWfly, Redes Cisco y Packet Tracker: Network, ejercicios Packet Tracer y simulación de vuelo](https://newfly.wordpress.com/)
 
 [23 Photos That Will Make Anyone Who Works In IT Satisfied](http://www.buzzfeed.com/lukebailey/satisfying-cables)
-[![cabling](images/cabling.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}](http://www.buzzfeed.com/lukebailey/satisfying-cables)
+[![cabling](images/cabling.jpg)](http://www.buzzfeed.com/lukebailey/satisfying-cables)
