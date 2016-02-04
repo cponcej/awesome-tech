@@ -819,8 +819,7 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_v-qAlxyrms?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
+</div><br>
 
 # Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
