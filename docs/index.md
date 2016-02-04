@@ -3,7 +3,7 @@
 <div class="container">
 <img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
 <div id="player"></div>
-</div>
+
 **Table of Contents**
 
 1. [High quality tech resources and search engines](high-quality-tech-resources.md)
@@ -24,6 +24,7 @@
 16. [Cloud](cloud.md)
 17. [Desktop Tools and Presentations](desktop-tools.md)
 18. [E-Learning](e-learning.md)
+</div>
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
