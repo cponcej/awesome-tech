@@ -45,7 +45,8 @@
 		- [Frontend on Twitter](#frontend-on-twitter)
 		- [Frontend Blogs](#frontend-blogs)
 		- [javascript/node.js](#javascriptnodejs)
-		- [HTML5](#html5)
+		- [HTML5 and Static Site Generators vs Dynamic CMSs](#html5-and-static-site-generators-vs-dynamic-cmss)
+			- [Markdown Editors](#markdown-editors)
 		- [Oracle JET](#oracle-jet)
 		- [JSON](#json)
 		- [Mozilla Tools](#mozilla-tools)
@@ -490,13 +491,24 @@
 
 [![Hello World](images/hello_world.png)](https://twitter.com/nixcraft)
 
-### HTML5
+### HTML5 and Static Site Generators vs Dynamic CMSs
+- [Why You Should Use a Static Site Generator](http://formkeep.wpengine.com/?p=7)
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
 	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
 - [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
 - [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
 - [wired.com - Google's Angular 2 release pushes javascript beyond the browser](http://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/)
 - [webcodegeeks.com: Top 10 Major Advantages of HTML5](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
+
+[![jekyll static generator](images/jekyll.png)](http://formkeep.wpengine.com/?p=7)
+
+#### Markdown Editors
+- [Mou](http://25.io/mou/)
+- [Markdown preview and build plugin for sublime text 2/3](https://github.com/revolunet/sublimetext-markdown-preview)
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/XnPkdcBGBlw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 ### Oracle JET
 - [community.oracle.com - Oracle JET: Getting Started With Modern Web Development.](https://community.oracle.com/docs/DOC-984517) Oracle JET promises to be an enterprise-grade framework for end-to-end client-side web application development.
