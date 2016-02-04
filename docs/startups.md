@@ -224,6 +224,7 @@
 <div class="container">
 <iframe src="https://embed-ssl.ted.com/talks/susan_cain_the_power_of_introverts.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen class="video"></iframe>
 </div>
+<br>
 
 ### Leadership Blogs
 - [forbes.com/leadership](http://www.forbes.com/leadership)
