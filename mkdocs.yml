@@ -2,6 +2,8 @@ site_name: Awesome Tech
 site_url: http://awesome-tech.readthedocs.org
 extra_css: 
 - extra.css
+extra_javascript:
+- extra.js
 site_favicon: images/favicon.ico
 markdown_extensions:
 - smarty

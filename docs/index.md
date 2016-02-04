@@ -3,6 +3,8 @@
 ![Utopia Eduardo Galeano](images/utopia_eduardo_galeano.png)
 <iframe width="100%" height="45" src="https://www.youtube.com/embed/uuvDToxhZO0?rel=0&amp;autohide=2&amp;showinfo=0&amp;autoplay=1&amp;controls=2&amp;start=33&amp;pauses=82" frameborder="0" allowfullscreen></iframe>
  
+<div id="player"></div>
+
 **Table of Contents**
 
 1. [High quality tech resources and search engines](high-quality-tech-resources.md)
