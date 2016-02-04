@@ -15,6 +15,7 @@
     player = new YT.Player("player", {
       "height": "45",
       "width": "100%",
+      "showinfo": 0,
       "videoId": "uuvDToxhZO0",
       "events": {
         "onReady": onPlayerReady,
