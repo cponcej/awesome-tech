@@ -9,8 +9,6 @@
 		- [Seguridad en Twitter](#seguridad-en-twitter)
 	- [Security Podcasts](#security-podcasts)
 	- [Security Toolkits and Policies. Penetration Testing](#security-toolkits-and-policies-penetration-testing)
-	- [SSL](#ssl)
-		- [SSL Server Test](#ssl-server-test)
 	- [Antivirus](#antivirus)
 	- [Private Browsing](#private-browsing)
 	- [Database encryption](#database-encryption)
@@ -20,6 +18,8 @@
 	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
 	- [Email security. Anti Spam protection](#email-security-anti-spam-protection)
 	- [Server Hardening](#server-hardening)
+	- [SSL web security](#ssl-web-security)
+		- [SSL Server Test](#ssl-server-test)
 	- [Major security issues](#major-security-issues)
 
 <!-- /MarkdownTOC -->
@@ -79,16 +79,6 @@
 - [kitploit.com: The hacker's tools](http://www.kitploit.com)
 	- [OWASP ZSC Shellcoder - Generate Customized Shellcodes](http://www.kitploit.com/2015/08/owasp-zsc-shellcoder-generate.html)
 - [gophish Open-Source Phishing Framework: #PenTest #Infosec #security](https://getgophish.com)
-
-
-## SSL 
-- [letsencrypt.org free ssl](https://letsencrypt.org) Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
- 
-[![letsencrypt](images/letsencrypt.png)](https://letsencrypt.org)
-
-### SSL Server Test
-- [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest)
-- [SSL Report: bash.cyberciti.biz](https://www.ssllabs.com/ssltest/analyze.html?d=bash.cyberciti.biz)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134533644467" data-did="5149c43f6654210e160397d04d6c754abcfbba41"><a href="http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall">http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
@@ -157,7 +147,21 @@
 
 ## Server Hardening
 - [LinuxJournal.com: Server Hardening](http://www.linuxjournal.com/content/server-hardening)
+- [tecmint.com: 25 Hardening Security Tips for Linux Servers](http://www.tecmint.com/linux-server-hardening-security-tips/)
+- [CentOS 7 Server Hardening Guide](https://www.smittix.co.uk/centos-7-server-hardening-guide/)
+- [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
+- [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
+- [Top 20 OpenSSH Server Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 - [Consejos para endurecer un servidor SSH y hacerlo más seguro](http://totaki.com/poesiabinaria/2016/01/consejor-endurecer-servidor-ssh-hacerlo-seguro/)
+
+## SSL web security
+- [letsencrypt.org free ssl](https://letsencrypt.org) Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
+
+### SSL Server Test
+- [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest)
+- [SSL Report: bash.cyberciti.biz](https://www.ssllabs.com/ssltest/analyze.html?d=bash.cyberciti.biz)
+ 
+[![letsencrypt](images/letsencrypt.png)](https://letsencrypt.org)
 
 ## Major security issues
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
