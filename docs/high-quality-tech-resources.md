@@ -99,6 +99,7 @@
 - [awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [awesome ruby](https://github.com/markets/awesome-ruby)
 - [awesome php](https://github.com/ziadoz/awesome-php)
+- [Awesome Electron](https://github.com/sindresorhus/awesome-electron) With Electron, creating a desktop application for your company or idea is easy. Initially developed for GitHub's Atom editor, Electron has since been used to create applications by companies like Microsoft, Facebook, Slack, and Docker.
 - [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
 
 [![awesome logo](images/awesome_logo.png)](https://github.com/sindresorhus/awesome)
