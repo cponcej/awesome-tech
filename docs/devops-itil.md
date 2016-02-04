@@ -113,6 +113,7 @@
 	- [The Phoenix Projec](http://itrevolution.com/books/phoenix-project-devops-book/)
 - [DevOps Without Ops? Is It Possible?](https://dzone.com/articles/devops-without-ops-is-it-possible)
 - [Creating a DevOps Culture: Identifying a “Single Person of Failure”](http://www.10thmagnitude.com/tech-blog/creating-a-devops-culture-identifying-a-single-person-of-failure) It’s natural for IT organizations to drift into the single person of failure problem because of these factors. But humans are not highly available—unlike technology, they have limited uptime, have to deal with regular interruptions and can’t be replicated. So IT organizations have to guard against falling into the single person of failure problem and take steps to fix it when it arises.
+- [How to get DevOps right](http://www.networkworld.com/article/3029638/application-development/how-to-get-devops-right.html) The Dos and Don’ts of enterprise DevOps
 
 [![automation](images/automation.png)](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1)
 
