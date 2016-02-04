@@ -2,8 +2,10 @@
 
 <!-- ![Utopia Eduardo Galeano](images/utopia_eduardo_galeano.png) -->
 
-<img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
-<div id="player"></div>
+<script type='text/javascript'>
+	<img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
+	<div id="player"></div>
+</script>
 
 <!--
 <iframe width="100%" height="45" src="https://www.youtube.com/embed/uuvDToxhZO0?rel=0&amp;autohide=2&amp;showinfo=0&amp;autoplay=1&amp;controls=2&amp;start=33&amp;end=82" frameborder="0" allowfullscreen></iframe>
