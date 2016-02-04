@@ -221,6 +221,10 @@
 - [Simon Sinek: Love Your Work](https://youtu.be/jDIZS4IQlQk)
 - [The 7 Habits of Highly Effective People](https://youtu.be/ktlTxC4QG8g)
 
+<div class="container">
+<iframe src="https://embed-ssl.ted.com/talks/susan_cain_the_power_of_introverts.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen class="video"></iframe>
+</div>
+
 ### Leadership Blogs
 - [forbes.com/leadership](http://www.forbes.com/leadership)
 - [Addicted to success](http://addicted2success.com)
