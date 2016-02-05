@@ -112,6 +112,8 @@
 - [dzone: The Hard Work When it Comes to Defining APIs](https://dzone.com/articles/the-hard-work-when-it-comes-to-defining-apis)
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
+- [Learn it Faster: The Entire JavaScript Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-javascript-language-in-a-single-image/)
+- [Learn it Faster: The Entire Python Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/)
 
 [![DevDocs.io](images/DevDocs.png)](http://devdocs.io)
 
