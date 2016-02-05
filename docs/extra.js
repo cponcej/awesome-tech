@@ -31,7 +31,7 @@
     player2 = new YT.Player("player", {
       "height": auto,
       "width": "100%",
-      "playerVars": { 'autoplay': 1, 'controls': 2, 'showinfo': 0, 'autohide': 2 },
+      "playerVars": { 'autoplay': 0, 'controls': 2, 'showinfo': 0, 'autohide': 2 },
       "videoId": "miO00M4vPok",
     });
   }
