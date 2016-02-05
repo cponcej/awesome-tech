@@ -3,7 +3,8 @@
 
 - [WebApp](#webapp)
 	- [HTTP/2](#http2)
-	- [HTTPS](#https)
+	- [HTTPS and HSTS](#https-and-hsts)
+		- [HSTS](#hsts)
 		- [SSL Server Test](#ssl-server-test)
 	- [WebSockets](#websockets)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
@@ -44,14 +45,16 @@
 </div>
 <br/>
 
-## HTTPS
+## HTTPS and HSTS
 - [letsencrypt.org free ssl](https://letsencrypt.org) Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
 - [Enabling HTTPS Without Sacrificing Your Web Performance](http://moz.com/blog/enabling-https-without-sacrificing-web-performance)
 	- [As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet](http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/)
 	- [Microsoft may block SHA1 certificates sooner than expected](http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/)
 	- [Google is about to start favoring HTTPS sites in search results](http://thenextweb.com/insider/2015/12/17/unsecured-websites-are-about-to-get-hammered-in-googles-search-ranking/)
-	- [HTTP Strict Transport Security (HSTS)](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is a web security policy mechanism which helps to protect websites against protocol downgrade attacks and cookie hijacking.
 	- [Dead-simple HTTPS Set up with Docker and Let's Encrypt](http://steveltn.me/2015/12/18/nginx-acme/)
+
+### HSTS
+- [HTTP Strict Transport Security (HSTS)](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is a web security policy mechanism which helps to protect websites against protocol downgrade attacks and cookie hijacking.
 
 ### SSL Server Test
 - [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest)
