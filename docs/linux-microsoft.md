@@ -85,7 +85,6 @@
 
 ### Best Linux Blogs
 - [commandlinefu.com](http://commandlinefu.com/)
-- [climagic.org](http://www.climagic.org)
 - [Linux Skill Youtube Channel](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
@@ -119,6 +118,8 @@
 - [tech.paulcz.net](http://tech.paulcz.net/#blog)
 - [Benjamin Cane](http://bencane.com/) A Systems Architect writing about Linux Systems Administration
 - [chruz.wordpress.com](https://chruz.wordpress.com) Linux, OpenStack & Provisioning
+- [climagic.org](http://www.climagic.org)
+- [unixmages.com](http://unixmages.com) Unix Mages started in the summer of 2005 with the purpose of teaching Unix and Linux by using stories of wizards, mages, magic, and spells.
 
 [![nixcraft logo](images/nixcraft_logo.jpg)](http://www.cyberciti.biz/)
 
