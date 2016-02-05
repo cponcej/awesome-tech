@@ -650,6 +650,11 @@
 - [linoxide.com: How to Install Cockpit on Linux CentOS 7](http://linoxide.com/linux-how-to/install-cockpit-linux-centos-7/)
 
 <div class="container">
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/NHwfxNVkzmw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xMMNRSxdNvQ" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
