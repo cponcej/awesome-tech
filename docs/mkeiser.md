@@ -61,6 +61,11 @@ Max Keiser - Keiser Report #E823 #E828 #E831
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
 <div class="container">
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/IjZ-ke1kJrA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br> 
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br> 
