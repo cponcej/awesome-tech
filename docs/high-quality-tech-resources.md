@@ -279,6 +279,8 @@
 
 ## Podcasts 
 - [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
+- [build-podcast.com](http://build-podcast.com)
+	- [git-flow](http://build-podcast.com/git-flow/)
 - [Talk Python To Me](http://talkpython.fm/)
 - [Puppet Labs Podcasts](https://puppetlabs.com/conversations-puppet-labs-podcast)
 - [No dogma podcast: Discussions on software development](http://nodogmapodcast.bryanhogan.net/)
@@ -287,6 +289,8 @@
 	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
 - [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
 - [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
+
+[![build podcast](images/build_podcast.jpg)](http://build-podcast.com/)
 
 [![no dogma podcast](images/no_dogma_podcast.png)](http://nodogmapodcast.bryanhogan.net/)
 

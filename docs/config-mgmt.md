@@ -38,6 +38,8 @@
 
 [![sysadmincasts](images/sysadmincasts.png)](https://sysadmincasts.com)
 
+[![build podcast](images/build_podcast.jpg)](http://build-podcast.com/)
+
 # Configuration Management and Orchestration
 ## Vagrant
 - [How Vagrant Eases the Software Research and Testing - The New Stack](http://thenewstack.io/vagrant-developers-researchers/)
@@ -114,9 +116,16 @@
 <br>
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o-uMN65vsh0?list=PL2_OBreMn7FplshFCWYlaN2uS8et9RjNG" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZNB1at8mJWY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+[![LPP025_Jeff_Geerling_2015_10_16.mp3](images/mp3-logo.jpg)](https://s3.amazonaws.com/leanpub_podcasts/LPP025_Jeff_Geerling_2015_10_16.mp3)
 
 ### Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
