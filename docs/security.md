@@ -18,8 +18,6 @@
 	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
 	- [Email security. Anti Spam protection](#email-security-anti-spam-protection)
 	- [Server Hardening](#server-hardening)
-	- [SSL web security](#ssl-web-security)
-		- [SSL Server Test](#ssl-server-test)
 	- [Major security issues](#major-security-issues)
 
 <!-- /MarkdownTOC -->
@@ -153,15 +151,6 @@
 - [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
 - [Top 20 OpenSSH Server Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 - [Consejos para endurecer un servidor SSH y hacerlo más seguro](http://totaki.com/poesiabinaria/2016/01/consejor-endurecer-servidor-ssh-hacerlo-seguro/)
-
-## SSL web security
-- [letsencrypt.org free ssl](https://letsencrypt.org) Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
-
-### SSL Server Test
-- [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest)
-- [SSL Report: bash.cyberciti.biz](https://www.ssllabs.com/ssltest/analyze.html?d=bash.cyberciti.biz)
- 
-[![letsencrypt](images/letsencrypt.png)](https://letsencrypt.org)
 
 ## Major security issues
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)

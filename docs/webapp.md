@@ -3,6 +3,8 @@
 
 - [WebApp](#webapp)
 	- [HTTP/2](#http2)
+	- [HTTPS](#https)
+		- [SSL Server Test](#ssl-server-test)
 	- [WebSockets](#websockets)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
 	- [HAProxy](#haproxy)
@@ -36,6 +38,14 @@
 	- [Dzone - HTTP/2 With JBoss EAP 7: Tech Preview](https://dzone.com/articles/http2-with-jboss-eap-7-tech-preview)
 - [simple-talk.com: Script Loading between HTTP/1.1 and HTTP/2](https://www.simple-talk.com/dotnet/asp.net/script-loading-between-http1.1-and-http2/)
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WkLBrHW4NhQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## HTTPS
+- [letsencrypt.org free ssl](https://letsencrypt.org) Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
 - [Enabling HTTPS Without Sacrificing Your Web Performance](http://moz.com/blog/enabling-https-without-sacrificing-web-performance)
 	- [As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet](http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/)
 	- [Microsoft may block SHA1 certificates sooner than expected](http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/)
@@ -43,10 +53,11 @@
 	- [HTTP Strict Transport Security (HSTS)](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is a web security policy mechanism which helps to protect websites against protocol downgrade attacks and cookie hijacking.
 	- [Dead-simple HTTPS Set up with Docker and Let's Encrypt](http://steveltn.me/2015/12/18/nginx-acme/)
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WkLBrHW4NhQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
+### SSL Server Test
+- [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest)
+- [SSL Report: bash.cyberciti.biz](https://www.ssllabs.com/ssltest/analyze.html?d=bash.cyberciti.biz)
+ 
+[![letsencrypt](images/letsencrypt.png)](https://letsencrypt.org)
 
 ## WebSockets
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
