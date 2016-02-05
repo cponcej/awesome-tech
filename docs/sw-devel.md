@@ -492,6 +492,7 @@
 - [webcodegeeks.com: jQuery dialog example](http://www.webcodegeeks.com/javascript/jquery/jquery-dialog-example) jQuery UI is a collection of jQuery plugins used to enhance the web application user interface. Inside this library we find many reusable components for interactions, effects, widgets and more.
 - [10 Awesome AngularJS Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/12/10-awesome-angularjs-tutorials-to-kick-start-your-web-programming-projects.html)
 - [Secrets of the JavaScript Ninja – Debugging JavaScript](http://www.webcodegeeks.com/javascript/secrets-of-the-javascript-ninja-debugging-javascript/)
+- [aprendiendo-javascript.readthedocs.org](http://aprendiendo-javascript.readthedocs.org)
 
 [![Hello World](images/hello_world.png)](https://twitter.com/nixcraft)
 
