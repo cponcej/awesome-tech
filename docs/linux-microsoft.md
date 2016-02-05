@@ -698,6 +698,16 @@
 - [redhat.com/storage](http://redhat.com/storage)
 - [redhat.lookbookhq.com: Is Open, Software-defined Storage Right for Your Organization?](http://redhat.lookbookhq.com/sds/asset1)
 
+<div class="container">
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/lvYQlLnuyNY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/bskU4ealzMk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## Red Hat and IBM
 - [Installing Red Hat Enterprise Linux 7.2 on IBM POWER8 and x86 in bare metal mode: A comparison](http://www.ibm.com/developerworks/linux/library/l-installing-rhel-7-2-on-ibm-power8-and-x86/index.html)
 
@@ -711,6 +721,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5_qsqPOi6kE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/5KbMVQTd3ks?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
@@ -748,6 +763,11 @@
 - [twitter.com/jtgreene](https://twitter.com/jtgreene)
 - [twitter.com/arungupta](https://twitter.com/arungupta)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9gYLKxJ9NbY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others
 - [JBoss GateIn Portal](http://gatein.jboss.org/)
 - [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
@@ -757,6 +777,11 @@
 - [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
 - [Container Object pattern. A new pattern for your tests. Arquillian  community](http://www.javacodegeeks.com/2016/01/container-object-pattern-new-pattern-tests.html)
 - [Testing persistence with Arquillian on TomEE: Excellent step by step introduction tutorial on persistence unit testing](http://www.tomitribe.com/blog/2016/01/testing-persistence-with-arquillian-on-tomee/)
+
+<div class="container">
+<iframe width="960" height="720" src="https://www.youtube-nocookie.com/embed/V-klCvWDnT4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ### JBoss Resources
 - [tecmint.com: WildFly (JBoss AS) – How to Access and Manage CLI Using GUI](http://www.tecmint.com/wildfly-jboss-as-how-to-access-and-manage-cli-using-gui/)
@@ -774,6 +799,11 @@
 	- [Java EE 7 Samples on GitHub](https://github.com/javaee-samples/javaee7-samples)
 	- [Getting Started With The JBoss EAP 7 Quickstarts](http://blog.eisele.net/2015/12/getting-started-with-jboss-eap-7.html)
 	- [Red Hat JBoss Engineers about Java EE, Container, Microservices and Testing](http://blog.eisele.net/2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html)
+
+<div class="container">
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
 
 ### JBoss BPM Suite and JBoss BRMS
 - [Red Hat Updates JBoss BPM Suite and JBoss BRMS Products](http://www.redhat.com/de/about/blog/red-hat-updates-jboss-bpm-suite-and-jboss-brms-products)
@@ -796,6 +826,11 @@
 	- [C2B2Consulting - JBoss Data Grid: Webinar](http://www.c2b2.co.uk/jboss_data_grid_webinar_part_1)
 	- [C2B2Consulting - JBoss Data Grid: Installation and Development](http://blog.c2b2.co.uk/2014/03/jboss-data-grids-installation-and.html)
 	- [C2B2Consulting - Youtube - Learn How to Supercharge Your Applications with Intelligent, Distributed Caching](https://youtu.be/q52_C9WW70Q)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OXL4EAS8RXw?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
 
 ## Red Hat Development
 - [developerblog.redhat.com: 12 Top blog articles of 2015](http://developerblog.redhat.com/2015/12/29/12-top-blog-articles-of-2015/)
