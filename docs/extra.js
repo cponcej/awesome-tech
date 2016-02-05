@@ -49,3 +49,26 @@
     player.pauseVideo();
   }
 })();
+
+
+
+(function() {
+  // This code loads the IFrame Player API code asynchronously.
+  var tag = document.createElement("script");
+  tag.src = "//www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName("script")[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  // This function creates an <iframe> (and YouTube player)
+  // after the API code downloads.
+  var player2;
+  window.onYouTubeIframeAPIReady = function() {
+    player = new YT.Player("player", {
+      "height": "auto",
+      "width": "100%",
+      "playerVars": { 'autoplay': 1, 'controls': 2, 'showinfo': 0, 'autohide': 2 },
+      "videoId": "miO00M4vPok",
+      }
+    });
+  }
+})();
