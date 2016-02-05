@@ -436,6 +436,8 @@
 
 [![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 
+[![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
+
 ## Linux Commands Examples
 - Want to increments all numbers in input.txt? 
 
@@ -738,8 +740,6 @@
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/5KbMVQTd3ks?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
-
-[![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
 
 ## GlassFish
 - [twitter.com/glassfish](https://twitter.com/glassfish)
