@@ -28,7 +28,7 @@
   // after the API code downloads.
   var player2;
   window.onYouTubeIframeAPIReady = function() {
-    player2 = new YT.Player("player", {
+    player2 = new YT.Player("player2", {
       "height": auto,
       "width": "100%",
       "playerVars": { 'autoplay': 0, 'controls': 2, 'showinfo': 0, 'autohide': 2 },
