@@ -1,3 +1,9 @@
+<!-- MarkdownTOC -->
+
+- [Linux Commands Examples](#linux-commands-examples)
+
+<!-- /MarkdownTOC -->
+
 # Linux Commands Examples
 
 - Want to increments all numbers in input.txt? 
