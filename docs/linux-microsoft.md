@@ -803,7 +803,7 @@
 	- [Red Hat JBoss Engineers about Java EE, Container, Microservices and Testing](http://blog.eisele.net/2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html)
 
 <div class="container">
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
