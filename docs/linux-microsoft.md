@@ -909,7 +909,7 @@
 [![spiceworks](images/spiceworks-logo.png)](http://www.spiceworks.com/)
 
 <div class="container">
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/W3LReMTFeFU?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/W3LReMTFeFU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
