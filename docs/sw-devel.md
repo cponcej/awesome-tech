@@ -469,6 +469,7 @@
 ### javascript/node.js
 - [JSFiddle.net: Create a new fiddle](https://jsfiddle.net) Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor
 	- [Pause YouTube playback after X seconds](http://jsfiddle.net/hnkk7/)
+	- [embedding youtube](http://jsfiddle.net/aXLA2/)
 - [5 Awesome Tutorials to Kick-Start your Web Programming Projects](http://www.javacodegeeks.com/2015/11/5-awesome-tutorials-to-kick-start-your-web-programming-projects.html)
 - [15 Reasons Why Developers Need to Learn AngularJS](http://www.javacodegeeks.com/2015/11/15-reasons-developers-need-learn-angularjs.html)
 - [medium.com/javascript-scene: Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467)
