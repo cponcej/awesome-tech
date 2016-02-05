@@ -50,6 +50,13 @@
 # Sysadmin Blogs
 - [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
 	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
+- [The 79 Best Tech Blogs for sysadmins to follow](http://www.gfi.com/blog/the-79-best-tech-blogs-for-sysadmins-to-follow/)
+- [The Lone SysAdmin](https://lonesysadmin.net)
+	- [Interesting Dell iDRAC Tricks](https://lonesysadmin.net/2015/08/13/interesting-dell-idrac-tricks/)
+- [Standalone Sysadmin](http://www.standalone-sysadmin.com) A blog for IT Admins who do everything by an IT Admin who does everything
+- [planetsysadmin.com](http://planetsysadmin.com)
+- [elmundoenbits.com](http://www.elmundoenbits.com)
+- [Blog de un sysadmin](http://ernestogamez.es)
 
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
