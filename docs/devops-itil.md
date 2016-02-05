@@ -371,6 +371,7 @@
 - [visualvm](http://visualvm.java.net/)
 - [Red Hat Subscription: How do I analyze a Java heap dump?](https://access.redhat.com/solutions/18301)
 - [javacodegeeks.com: Java Mission Control 5.2 is Finally Here! Welcome 7u40!](http://www.javacodegeeks.com/2013/09/java-mission-control-5-2-is-finally-here-welcome-7u40.html)
+- [developerblog.redhat.com: Thermostat demo – open source monitoring tool for Hotspot JVM](http://developerblog.redhat.com/2014/08/06/%E2%96%B6-thermostat-demo-open-source-monitoring-tool-for-hotspot-jvm/)
 
 ### Monitoring Network Bandwidth
 - [ntop](http://www.ntop.org/)
