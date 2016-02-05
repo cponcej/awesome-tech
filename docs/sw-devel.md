@@ -500,6 +500,7 @@
 ### HTML5 and Static Site Generators vs Dynamic CMSs
 - [Why You Should Use a Static Site Generator](http://formkeep.wpengine.com/?p=7)
 	- [pages.github.com](https://pages.github.com)
+	- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
 	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
 - [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
