@@ -69,7 +69,11 @@
 		- [Arrested Devops](http://theshipshow.com/)
 		- [Devops Cafe](http://devopscafe.org/)
 
+[![devops.com page](images/devops_com-logo.png)](http://devops.com/)
+
 [![find a debug during the deploy](images/find_debug_during_deploy.gif)](http://devopsreactions.tumblr.com/)
+
+[![devops library](images/devopslibrary.png)](http://devopslibrary.com/)
 
 ## Description
 - [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
