@@ -23,6 +23,8 @@
 
 <!-- /MarkdownTOC -->
 
+![the linkedin effect](images/linkedin_effect.jpg)
+
 [![linkedin connection request standards](images/linkedin-connection-request-standards.jpg)](http://www.wordstream.com/blog/ws/2016/01/18/linkedin-connection-requests)
 
 [![linkedin sales pitch meme](images/LinkedIn-Meme-sales-pitch.png)](http://www.ringdna.com/blog/meme-selling-on-LinkedIn)
@@ -67,10 +69,6 @@
 ### Madrid startups
 - [tetuanvalley.com: Tetuan Valley Madrid](http://tetuanvalley.com/)
 - [campus.co/madrid: Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
-
-[![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
-
-[![boss vs leader](images/boss_vs_leader.png)](http://www.presentationgo.com/presentation/differences-boss-leader-powerpoint/)
 
 ## Job Search
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
@@ -130,10 +128,10 @@
 - [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
 - [43 Best Job Search Websites 2016](http://careersherpa.net/43-best-job-search-websites-2016/)
 
+[![boss vs leader](images/boss_vs_leader.png)](http://www.presentationgo.com/presentation/differences-boss-leader-powerpoint/)
+
 ![a person who feels appreciated](images/appreciated_person.jpg)
  
-<!-- <img class="noborder" alt="appreciated person" src="images/appreciated_person.jpg" /> -->
-
 ![richard branson](images/richardbranson.jpg)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137953413411" data-did="1531d8b9f4aa1cd335a89c80176d79a4aec36b5b"><a href="http://inafev.tumblr.com/post/137953413411/to-all-the-people-on-here-looking-for-jobs">http://inafev.tumblr.com/post/137953413411/to-all-the-people-on-here-looking-for-jobs</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -172,8 +170,6 @@
 
 ### Trabajos Freelance
 - [computerhoy.com: Las 10 mejores webs donde conseguir trabajo como freelance](http://computerhoy.com/listas/internet/8-mejores-webs-donde-conseguir-trabajo-como-freelance-8742)
-
-![the linkedin effect](images/linkedin_effect.jpg)
 
 ## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
@@ -287,6 +283,8 @@
 ![war room](images/war_room.gif)
 
 [![Meagan Francis quote](images/meagan_francis_quote.png)](http://www.quietrev.com/3-tips-for-overcoming-fraud-syndrome/)
+
+[![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
 
 #### Technical Resume
 - [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
