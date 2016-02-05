@@ -215,6 +215,11 @@
 
 [![devops skills](images/devops_skills.png)](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9)
 
+<div class="container">
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/p9l7YD-N9FI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.
 - [Linkedin Discussion](https://www.linkedin.com/groups/49531/49531-6092152919937794052)
