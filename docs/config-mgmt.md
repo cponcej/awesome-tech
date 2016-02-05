@@ -102,7 +102,7 @@
 - [Puppet or Ansible: How to Choose?](https://dzone.com/articles/puppet-or-ansible-how-to-choose) When choosing between Puppet and Ansible, understanding the design choices can get us past wondering which is better, so we can make an informed decision.
 
 
-<script>
+<script\>
 (function() {
   // This code loads the IFrame Player API code asynchronously.
   var tag = document.createElement("script");
@@ -123,7 +123,7 @@
     });
   }
 })();
-</script>
+</script\>
 
 ![I volunteer](images/i_volunteer.gif)
 
