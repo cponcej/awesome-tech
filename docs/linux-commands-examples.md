@@ -4,6 +4,12 @@
 
 <!-- /MarkdownTOC -->
 
+[![commandlinefu](images/commandlinefu.com)](http://commandlinefu.com/)
+
+[![climagic youtube](images/climagic-icon.png)](https://www.youtube.com/user/climagic)
+
+[![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
+
 # Linux Commands Examples
 
 - Want to increments all numbers in input.txt? 
@@ -186,9 +192,3 @@
 [![climagic twiiter](images/climagic.png)](https://twitter.com/climagic)
 
 [![unixtooltip twitter](images/unixtooltip_twitter.png)](https://twitter.com/UnixToolTip)
-
-[![climagic youtube](images/climagic-icon.png)](https://www.youtube.com/user/climagic)
-
-[![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
-
-[![commandlinefu](images/commandlinefu.com)](http://commandlinefu.com/)
