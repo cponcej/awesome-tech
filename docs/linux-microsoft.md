@@ -432,24 +432,6 @@
 - [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
 - [How to enable colorized output for the ls command in Mac OS X Terminal](http://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/)
 
-[![commandlinefu](images/commandlinefu.com)](http://commandlinefu.com/)
-
-[![commandlinefu 0 star](images/commandlinefu0star.png)](https://twitter.com/commandlinefu)
-
-[![commandlinefu 3 star](images/commandlinefu3star.png)](https://twitter.com/commandlinefu3)
-
-[![commandlinefu 10 star](images/commandlinefu10star.png)](https://twitter.com/commandlinefu10)
-
-[![climagic twiiter](images/climagic.png)](https://twitter.com/climagic)
-
-[![unixtooltip twitter](images/unixtooltip_twitter.png)](https://twitter.com/UnixToolTip)
-
-[![climagic youtube](images/climagic-icon.png)](https://www.youtube.com/user/climagic)
-
-[![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
-
-[![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
-
 ## Linux Commands Examples
 - Want to increments all numbers in input.txt? 
 
@@ -617,6 +599,24 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UvZY7bYt2Lo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+[![commandlinefu 0 star](images/commandlinefu0star.png)](https://twitter.com/commandlinefu)
+
+[![commandlinefu 3 star](images/commandlinefu3star.png)](https://twitter.com/commandlinefu3)
+
+[![commandlinefu 10 star](images/commandlinefu10star.png)](https://twitter.com/commandlinefu10)
+
+[![climagic twiiter](images/climagic.png)](https://twitter.com/climagic)
+
+[![unixtooltip twitter](images/unixtooltip_twitter.png)](https://twitter.com/UnixToolTip)
+
+[![climagic youtube](images/climagic-icon.png)](https://www.youtube.com/user/climagic)
+
+[![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
+
+[![commandlinefu](images/commandlinefu.com)](http://commandlinefu.com/)
+
+[![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
 
 # Red Hat
 ## Red Hat on Twitter
