@@ -11,6 +11,7 @@
 	- [HAProxy](#haproxy)
 	- [Apache and Tomcat](#apache-and-tomcat)
 	- [Nginx](#nginx)
+	- [GlassFish](#glassfish)
 	- [WebLogic](#weblogic)
 		- [Oracle Blogs: Middleware and Java](#oracle-blogs-middleware-and-java)
 		- [WebLogic Resources](#weblogic-resources)
@@ -90,6 +91,9 @@
 - [dzone: The Benefits of Microcaching with NGINX](https://dzone.com/articles/the-benefits-of-microcaching-with-nginx)
 - [nginx.com: Scaling Web Applications with NGINX – Part I: Load Balancing](https://www.nginx.com/blog/scaling-web-applications-nginx-part-load-balancing/)
 	- [dzone: Scaling Web Applications with NGINX – Part II: Caching and Monitoring](https://dzone.com/articles/scaling-web-applications-with-nginx-part-ii-cachin)
+
+## GlassFish
+- [twitter.com/glassfish](https://twitter.com/glassfish)
 
 ## WebLogic
 ### Oracle Blogs: Middleware and Java
