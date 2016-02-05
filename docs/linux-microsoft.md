@@ -442,7 +442,9 @@
 
 [![commandlinefu 10 star](images/commandlinefu10star.png)](https://twitter.com/commandlinefu10)
 
-[![climagic](images/climagic.png)](https://www.youtube.com/user/climagic)
+[![climagic twiiter](images/climagic.png)](https://twitter.com/climagic)
+
+[![climagic youtube](images/climagic-icon.png)](https://www.youtube.com/user/climagic)
 
 [![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 
