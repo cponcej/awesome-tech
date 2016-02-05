@@ -65,6 +65,7 @@
 ## WebSockets
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 - [The State of Real-Time Web in 2016](https://banksco.de/p/state-of-realtime-web-2016.html)
+- [SPDY and WebSocket Support at Akamai](https://blogs.akamai.com/2012/07/spdy-and-websocket-support-at-akamai.html)
 
 ## Enterprise Search Platforms
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
