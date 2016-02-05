@@ -15,10 +15,10 @@
 		- [Office Politics](#office-politics)
 		- [Talks](#talks)
 		- [Leadership Blogs](#leadership-blogs)
-		- [Recursos Humanos](#recursos-humanos)
 		- [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
 		- [Interview Preparation Guide](#interview-preparation-guide)
 			- [Technical Resume](#technical-resume)
+		- [Recursos Humanos](#recursos-humanos)
 		- [Orientación laboral](#orientación-laboral)
 
 <!-- /MarkdownTOC -->
@@ -194,6 +194,16 @@
 - [Can You Be Friends With Your Boss?](https://hbr.org/2014/11/can-you-be-friends-with-your-boss)
 - [It’s Better to Avoid a Toxic Employee than Hire a Superstar](https://hbr.org/2015/12/its-better-to-avoid-a-toxic-employee-than-hire-a-superstar)
 
+
+[![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
+
+[![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Office Politics
 - [Forbes.com: Office Politics: Must You Play? A Handbook For Survival/Success](http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/)
 - [Setting up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
@@ -218,6 +228,11 @@
 - [Simon Sinek: Love Your Work](https://youtu.be/jDIZS4IQlQk)
 - [The 7 Habits of Highly Effective People](https://youtu.be/ktlTxC4QG8g)
 
+### Leadership Blogs
+- [forbes.com/leadership](http://www.forbes.com/leadership)
+- [Addicted to success](http://addicted2success.com)
+- [Quiet Revolution: Unlocking the Power of Introverts. Susan Cain](http://www.quietrev.com)
+
 <div class="container">
 <iframe src="https://embed-ssl.ted.com/talks/susan_cain_the_power_of_introverts.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen class="video"></iframe>
 </div>
@@ -228,33 +243,9 @@
 </div>
 <br>
 
-### Leadership Blogs
-- [forbes.com/leadership](http://www.forbes.com/leadership)
-- [Addicted to success](http://addicted2success.com)
-- [Quiet Revolution: Unlocking the Power of Introverts. Susan Cain](http://www.quietrev.com)
-
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
 [![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)](http://insights.com/)
-
-### Recursos Humanos
-- [elblogderrhh.com](http://www.elblogderrhh.com/)
-	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
-- [equiposytalento.com](http://www.equiposytalento.com/)
-- [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
-- [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
-- [El jefe de RRHH de Google es tajante: "El expediente académico no sirve para nada"](http://www.elconfidencial.com/alma-corazon-vida/2013-06-28/el-expediente-academico-no-sirve-para-nada-asegura-el-responsable-de-rrhh-de-google_501910/)
-- [Nepotismo y amiguismo: lo bueno y lo malo de los favores en el trabajo](http://www.bbc.com/mundo/noticias/2015/10/151011_vert_cap_nepotismo_en_empreas_yv)
-- [Spanish Beautynomics o Cómo usted puede llegar a verse sin empleo](http://www.gurusblog.com/archives/spanish-beautynomics-o-como-usted-puede-llegar-a-verse-sin-empleo/30/11/2015/)
-
-[![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
-
-[![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
 
 ### 9 Box Model for classifying people in organizations
 - [slideshare.net: 9 Box Model for classifying people in organizations](http://es.slideshare.net/ryancruz08/9-box-model-with-titles)
@@ -293,6 +284,16 @@
 - [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
 
 [![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
+
+### Recursos Humanos
+- [elblogderrhh.com](http://www.elblogderrhh.com/)
+	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
+- [equiposytalento.com](http://www.equiposytalento.com/)
+- [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
+- [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
+- [El jefe de RRHH de Google es tajante: "El expediente académico no sirve para nada"](http://www.elconfidencial.com/alma-corazon-vida/2013-06-28/el-expediente-academico-no-sirve-para-nada-asegura-el-responsable-de-rrhh-de-google_501910/)
+- [Nepotismo y amiguismo: lo bueno y lo malo de los favores en el trabajo](http://www.bbc.com/mundo/noticias/2015/10/151011_vert_cap_nepotismo_en_empreas_yv)
+- [Spanish Beautynomics o Cómo usted puede llegar a verse sin empleo](http://www.gurusblog.com/archives/spanish-beautynomics-o-como-usted-puede-llegar-a-verse-sin-empleo/30/11/2015/)
 
 ### Orientación laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
