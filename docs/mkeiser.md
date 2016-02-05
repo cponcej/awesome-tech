@@ -65,6 +65,8 @@ Max Keiser - Keiser Report #E823 #E828 #E831
 </div>
 <br> 
 
+[![margin call](images/margincall.jpg)](http://thoughtsofafinancestudent.blogspot.com.es/2015/11/margin-call-be-first-be-smart-or-cheat.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
