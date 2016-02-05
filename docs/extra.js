@@ -24,18 +24,6 @@
     });
   }
 
-  // This function creates an <iframe> (and YouTube player)
-  // after the API code downloads.
-  var player2;
-  window.onYouTubeIframeAPIReady = function() {
-    player2 = new YT.Player("player2", {
-      "height": auto,
-      "width": "100%",
-      "playerVars": { 'autoplay': 0, 'controls': 2, 'showinfo': 0, 'autohide': 2 },
-      "videoId": "miO00M4vPok",
-    });
-  }
-
   // The API will call this function when the video player is ready.
   // This automatically starts the video playback when the player is loaded.
   function onPlayerReady(event) {

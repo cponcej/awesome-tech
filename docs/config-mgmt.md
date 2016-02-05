@@ -103,7 +103,7 @@
 
 ![I volunteer](images/i_volunteer.gif)
 
-<div id="player2"></div>
+<iframe id="player" type="text/html" width="640" height="360" src="http://www.youtube.com/embed/miO00M4vPok?enablejsapi=1" frameborder="0"></iframe>	
 
 ### Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
