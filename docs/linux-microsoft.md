@@ -378,7 +378,7 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p4uNlzYld-Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-<div>
+</div>
 <br>
 
 ## Vim and Emacs
