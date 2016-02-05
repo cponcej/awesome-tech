@@ -85,6 +85,7 @@
 
 ### Best Linux Blogs
 - [commandlinefu.com](http://commandlinefu.com/)
+- [Linux Skill Youtube Channel](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
@@ -432,6 +433,8 @@
 - [How to enable colorized output for the ls command in Mac OS X Terminal](http://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/)
 
 [![commandlinefu](images/commandlinefu.com)](http://commandlinefu.com/)
+
+[![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 
 ## Linux Commands Examples
 - Want to increments all numbers in input.txt? 
