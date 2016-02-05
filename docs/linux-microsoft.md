@@ -262,8 +262,6 @@
 	- [historious: bookmarking you can love](http://historio.us/) historious saves you time by helping you find webpages you saw before. Bookmark sites with a single click, then find them again by searching for any word in the content of the page! 
 - [GoogleApps  or Office365 replacement. Kolab + CloudSuite: It's collaborative all the way down](https://kolab.org/group-blog/2016/01/30/kolab-collabora/)
 
-[![Unix tool tip tools](images/enjoyment_of_tools_success.png)](https://twitter.com/UnixToolTip)
-
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
 - [cyberciti.biz: Linux - Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
@@ -443,6 +441,8 @@
 [![commandlinefu 10 star](images/commandlinefu10star.png)](https://twitter.com/commandlinefu10)
 
 [![climagic twiiter](images/climagic.png)](https://twitter.com/climagic)
+
+[![unixtooltip twitter](images/unixtooltip_twitter.png)](https://twitter.com/UnixToolTip)
 
 [![climagic youtube](images/climagic-icon.png)](https://www.youtube.com/user/climagic)
 

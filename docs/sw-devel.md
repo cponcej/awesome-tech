@@ -153,6 +153,8 @@
 - [Sublime Text Unofficial Documentation](http://sublime-text-unofficial-documentation.readthedocs.org)
 - [Welcome to SublimeLinter 3](http://www.sublimelinter.com)
 
+[![Unix tool tip tools](images/enjoyment_of_tools_success.png)](https://twitter.com/UnixToolTip)
+
 #### Setting up Sublime and Tips
 - [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
