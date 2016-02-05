@@ -80,6 +80,7 @@
 - [Ansible: write and run your first playbook](http://abregman.com/2015/12/25/ansible-write-and-run-your-first-playbook/)
 - [Ansible 2.0 Has Arrived and includes over 200 new modules](http://www.ansible.com/blog/ansible-2.0-launch)
 - [Puppet is out, in comes Ansible](https://kanarip.wordpress.com/2016/01/28/puppet-is-out-in-comes-ansible/)
+- [Puppet or Ansible: How to Choose?](https://dzone.com/articles/puppet-or-ansible-how-to-choose) When choosing between Puppet and Ansible, understanding the design choices can get us past wondering which is better, so we can make an informed decision.
 
 ### Ansible on Twitter
 - [twitter.com/ansible](https://twitter.com/ansible)

@@ -195,16 +195,16 @@
 ### Product Owner
 - [medium.com: Product Owner Responsibilities in Agile (Scrum Methodologies)](https://medium.com/agile-project-management-scrum-lean-kanban/product-owner-responsibilities-in-agile-scrum-methodologies-dc7aeeb5ff71)
 - [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)
-- [¿Cuantos Product Owner puede tener un equipo?](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 - [20 Product Owners anti patterns in scrum](http://lmsgoncalves.com/2014/09/29/product-owner-anti-patterns/)
+- [¿Cuantos Product Owner puede tener un equipo?](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 
 ### Scrum Master. Scrum Cheat Sheet
 - [DZone/Agile Zone. Hiring: 38 Scrum Master Interview Questions To Avoid Imposters](https://dzone.com/articles/hiring-38-scrum-master-interview-questions-to-avoi) A free pdf from DZone user Stefan Wolpers for those looking to hire Scrum Masters or agile professionals.
 - [The shortest and greatest SCRUM cheat sheet that I've seen so far](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 - [What Is the Relationship Between Story Points and Task Effort in Hours?](https://www.scrumalliance.org/community/articles/2016/january/what-is-the-relationship-between-story-points-and)
 - [Agile adoption by numbers – and some problems](http://www.javacodegeeks.com/2016/01/agile-adoption-numbers-problems.html)
-- [Ponga un Scrum Master en su vida](https://www.beeva.com/beeva-view/metodologiasagiles/ponga-un-scrum-master-en-su-vida/)
 - [Daily Scrum – Tips & Tactics](http://www.barryovereem.com/daily-scrum-tips-tactics/)
+- [Ponga un Scrum Master en su vida](https://www.beeva.com/beeva-view/metodologiasagiles/ponga-un-scrum-master-en-su-vida/)
 
 [![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
