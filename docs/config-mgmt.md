@@ -101,30 +101,6 @@
 - [Twitter's transition from Puppet to Ansible](https://www.youtube.com/watch?v=fwGrKXzocg4)
 - [Puppet or Ansible: How to Choose?](https://dzone.com/articles/puppet-or-ansible-how-to-choose) When choosing between Puppet and Ansible, understanding the design choices can get us past wondering which is better, so we can make an informed decision.
 
-
-<script>
-(function() {
-  // This code loads the IFrame Player API code asynchronously.
-  var tag = document.createElement("script");
-  tag.src = "//www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName("script")[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-  // This function creates an <iframe> (and YouTube player)
-  // after the API code downloads.
-  var player2;
-  window.onYouTubeIframeAPIReady = function() {
-    player = new YT.Player("player", {
-      "height": "auto",
-      "width": "100%",
-      "playerVars": { 'autoplay': 1, 'controls': 2, 'showinfo': 0, 'autohide': 2 },
-      "videoId": "miO00M4vPok",
-      }
-    });
-  }
-})();
-</script>
-
 ![I volunteer](images/i_volunteer.gif)
 
 <div id="player2"></div>

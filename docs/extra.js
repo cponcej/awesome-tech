@@ -1,4 +1,4 @@
-(function index() {
+(function() {
   var stopPlayAt = 33, // Stop play at time in seconds
       stopPlayTimer;   // Reference to settimeout call
 
@@ -21,6 +21,18 @@
         "onReady": onPlayerReady,
         "onStateChange": onPlayerStateChange
       }
+    });
+  }
+
+  // This function creates an <iframe> (and YouTube player)
+  // after the API code downloads.
+  var player2;
+  window.onYouTubeIframeAPIReady = function() {
+    player = new YT.Player("player", {
+      "height": auto,
+      "width": "100%",
+      "playerVars": { 'autoplay': 1, 'controls': 2, 'showinfo': 0, 'autohide': 2 },
+      "videoId": "miO00M4vPok",
     });
   }
 

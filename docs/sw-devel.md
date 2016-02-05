@@ -113,6 +113,8 @@
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
+[![DevDocs.io](images/DevDocs.png)](http://devdocs.io)
+
 ## Design Patterns
 - [wikipedia: Design Patterns. Gang of Four (GoF)](https://en.wikipedia.org/wiki/Design_Patterns)
 	- [stackoverflow.com: Examples of GoF Design Patterns in Java's core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
@@ -495,6 +497,7 @@
 
 ### HTML5 and Static Site Generators vs Dynamic CMSs
 - [Why You Should Use a Static Site Generator](http://formkeep.wpengine.com/?p=7)
+	- [pages.github.com](https://pages.github.com)
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
 	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
 - [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
@@ -503,6 +506,8 @@
 - [webcodegeeks.com: Top 10 Major Advantages of HTML5](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
 
 [![jekyll static generator](images/jekyll.png)](http://formkeep.wpengine.com/?p=7)
+
+[![github pages](images/githubpages.png)](https://pages.github.com)
 
 #### Markdown Editors
 - [Mou](http://25.io/mou/)
