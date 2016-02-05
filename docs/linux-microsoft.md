@@ -1,6 +1,7 @@
 **Table of Contents**
 <!-- MarkdownTOC -->
 
+- [Sysadmin Blogs](#sysadmin-blogs)
 - [Linux](#linux)
 	- [Linux and FOSS Blogs and Forums](#linux-and-foss-blogs-and-forums)
 		- [Best Linux Blogs](#best-linux-blogs)
@@ -45,6 +46,10 @@
 [![The most popular Linux distribution](images/most_popular_linux_distributions.png)](http://w3techs.com/technologies/details/os-linux/all/all)
 
 ![sysadmin no trabajar demasiado](images/sysadmin_no_trabajar_demasiado.png)
+
+# Sysadmin Blogs
+- [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
+	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
 
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
