@@ -329,6 +329,10 @@
 - [@nixcraft](https://twitter.com/nixcraft)
 - [UnixToolTip](https://twitter.com/UnixToolTip)
 - [Command Line Magic](https://twitter.com/climagic)
+- Commandlinefu:
+	- [commandlinefu](http://twitter.com/commandlinefu)
+	- [commandlinefu3](http://twitter.com/commandlinefu3)
+	- [commandlinefu10](http://twitter.com/commandlinefu10)
 - [Shell OSS](https://twitter.com/oss_sh)
 - [Tecmint](https://twitter.com/tecmint)
 - [SysAdmHowto](https://twitter.com/SysAdmHowto)

@@ -85,6 +85,7 @@
 
 ### Best Linux Blogs
 - [commandlinefu.com](http://commandlinefu.com/)
+- [climagic.org](http://www.climagic.org)
 - [Linux Skill Youtube Channel](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
@@ -433,6 +434,14 @@
 - [How to enable colorized output for the ls command in Mac OS X Terminal](http://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/)
 
 [![commandlinefu](images/commandlinefu.com)](http://commandlinefu.com/)
+
+[![commandlinefu 0 star](images/commandlinefu0star.png)](https://twitter.com/commandlinefu)
+
+[![commandlinefu 3 star](images/commandlinefu3star.png)](https://twitter.com/commandlinefu3)
+
+[![commandlinefu 10 star](images/commandlinefu10star.png)](https://twitter.com/commandlinefu10)
+
+[![climagic](images/climagic.png)](https://www.youtube.com/user/climagic)
 
 [![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 
