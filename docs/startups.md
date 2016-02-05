@@ -235,6 +235,7 @@
 ### Leadership Blogs
 - [forbes.com/leadership](http://www.forbes.com/leadership)
 - [Addicted to success](http://addicted2success.com)
+- [Quiet Revolution: Unlocking the Power of Introverts. Susan Cain](http://www.quietrev.com)
 
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
@@ -284,6 +285,8 @@
 - [Surviving the technical interview](https://wilsonericn.wordpress.com/2012/10/29/surviving-the-technical-interview/)
 
 ![war room](images/war_room.gif)
+
+[![Meagan Francis quote](images/meagan_francis_quote.png)](http://www.quietrev.com/3-tips-for-overcoming-fraud-syndrome/)
 
 #### Technical Resume
 - [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
