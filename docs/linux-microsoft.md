@@ -73,6 +73,8 @@
 
 [![The most popular Linux distribution](images/most_popular_linux_distributions.png)](http://w3techs.com/technologies/details/os-linux/all/all)
 
+![sysadmin no trabajar demasiado](images/sysadmin_no_trabajar_demasiado.png)
+
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 - [medium.com: I Moved to Linux and It’s Even Better Than I Expected](https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj)
@@ -906,10 +908,13 @@
 
 [![spiceworks](images/spiceworks-logo.png)](http://www.spiceworks.com/)
 
+<div class="container">
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/W3LReMTFeFU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+
 # VirtualBox
 - [10 ways to get the most from VirtualBox](http://www.techrepublic.com/blog/10-things/10-ways-to-get-the-most-from-virtualbox/)
-
-![sysadmin no trabajar demasiado](images/sysadmin_no_trabajar_demasiado.png)
 
 # VMware
 - [VMware Front Experience](http://www.v-front.de/)
