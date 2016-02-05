@@ -106,6 +106,7 @@
 <div class="container">
 <iframe id="player" type="text/html" width="640" height="360" src="http://www.youtube.com/embed/miO00M4vPok" frameborder="0" class="video"></iframe>	
 </div>
+<br\>
 
 ### Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
