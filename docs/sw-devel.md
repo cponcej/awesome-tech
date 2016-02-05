@@ -57,7 +57,7 @@
 <!-- /MarkdownTOC -->
 
 
-![What OOP users claim](images/what_oop_users_claim.png)
+[![What OOP users claim](images/what_oop_users_claim.png)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 # Software Development
 - [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
