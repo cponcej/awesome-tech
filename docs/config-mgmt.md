@@ -109,7 +109,7 @@
 <br>
 
 <div class="container">
-<iframe type="text/html" width="640" height="360" src="http://www.youtube.com/embed/miO00M4vPok" frameborder="0" class="video"></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/miO00M4vPok?rel=0" frameborder="0" class="video"></iframe>
 </div>
 <br>
 
