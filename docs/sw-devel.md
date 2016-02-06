@@ -5,6 +5,7 @@
 	- [Blogs and Forums](#blogs-and-forums)
 	- [Domain driven design](#domain-driven-design)
 	- [API and Documentation Generators](#api-and-documentation-generators)
+		- [API Blueprint, defining the emerging API design space](#api-blueprint-defining-the-emerging-api-design-space)
 	- [Design Patterns](#design-patterns)
 	- [Editors](#editors)
 		- [Sublime](#sublime)
@@ -114,6 +115,11 @@
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 - [Learn it Faster: The Entire JavaScript Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-javascript-language-in-a-single-image/)
 - [Learn it Faster: The Entire Python Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/)
+
+### API Blueprint, defining the emerging API design space
+- [API Blueprint](https://apiblueprint.org)
+- [API Blueprint Future](http://blog.apiary.io/2015/12/17/API-Blueprint-Future/)
+- [API Design Inspiration on GitHub](http://blog.apiary.io/2016/01/12/Get-Inspired-on-GitHub/)
 
 [![DevDocs.io](images/DevDocs.png)](http://devdocs.io)
 
