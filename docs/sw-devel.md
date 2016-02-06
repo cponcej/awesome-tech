@@ -6,6 +6,7 @@
 	- [Domain driven design](#domain-driven-design)
 	- [API and Documentation Generators](#api-and-documentation-generators)
 		- [API Blueprint, defining the emerging API design space](#api-blueprint-defining-the-emerging-api-design-space)
+			- [Tools: Apiary](#tools-apiary)
 	- [Design Patterns](#design-patterns)
 	- [Editors](#editors)
 		- [Sublime](#sublime)
@@ -118,6 +119,8 @@
 
 ### API Blueprint, defining the emerging API design space
 - [API Blueprint](https://apiblueprint.org)
+
+#### Tools: Apiary
 - [API Blueprint Future](http://blog.apiary.io/2015/12/17/API-Blueprint-Future/)
 - [API Design Inspiration on GitHub](http://blog.apiary.io/2016/01/12/Get-Inspired-on-GitHub/)
 
