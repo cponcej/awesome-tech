@@ -9,6 +9,7 @@
 		- [Seguridad en Twitter](#seguridad-en-twitter)
 	- [Security Podcasts](#security-podcasts)
 	- [Security Toolkits and Policies. Penetration Testing](#security-toolkits-and-policies-penetration-testing)
+		- [Kali Linux](#kali-linux)
 	- [Antivirus](#antivirus)
 	- [Private Browsing](#private-browsing)
 	- [Database encryption](#database-encryption)
@@ -22,12 +23,16 @@
 
 <!-- /MarkdownTOC -->
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134533644467" data-did="5149c43f6654210e160397d04d6c754abcfbba41"><a href="http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall">http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+<br>
+
 # Security
 ## Security Blogs
 - [seclists.org](http://seclists.org/)
 - [ehacking.net](http://www.ehacking.net)
 - [Sucuri Blog](https://blog.sucuri.net/)
 - [Blackmoreops.com](http://blackmoreops.com)
+- [k4linux.com](http://www.k4linux.com) Kali Linux 2.0 tutorials Technology and News of penetration testing and security Hacking Wifi Facebook Website.
 - [arstechnica.com/security](http://arstechnica.com/security)
 - [foxglovesecurity.com](http://foxglovesecurity.com/)
 - [securityzap.com](http://securityzap.com/)
@@ -65,11 +70,6 @@
 
 ## Security Toolkits and Policies. Penetration Testing
 - [OpenSCAP](https://www.open-scap.org) Tools, Security Policies and Standards
-- [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
-	- [blackmoreops.com: Crack passwords in Kali Linux with Hydra](http://www.blackmoreops.com/2015/12/23/crack-passwords-in-kali-linux-with-hydra/)
-	- [blackmoreops.com: Man in the Middle Attack using Kali Linux – MITM attack](http://www.blackmoreops.com/2015/12/22/man-in-the-middle-attack-using-kali-linux/)
-	- [Kali Linux NetHunter 3.0 Android Mobile Penetration Testing Platform Out Now](http://news.softpedia.com/news/kali-linux-nethunter-3-0-android-mobile-penetration-testing-platform-out-now-498555.shtml)
-	- [Kali Linux, Rolling Edition Released – 2016.1](https://www.kali.org/releases/kali-linux-rolling-edition-2016-1/)
 - [Network Security Toolkit](http://www.networksecuritytoolkit.org)
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
 - [BlackArch Linux Provides Over 1330 Penetration Testing Tools, New ISOs Out Now](http://linux.softpedia.com/blog/blackarch-linux-provides-over-1330-penetration-testing-tools-new-isos-out-now-498758.shtml)
@@ -78,7 +78,18 @@
 	- [OWASP ZSC Shellcoder - Generate Customized Shellcodes](http://www.kitploit.com/2015/08/owasp-zsc-shellcoder-generate.html)
 - [gophish Open-Source Phishing Framework: #PenTest #Infosec #security](https://getgophish.com)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134533644467" data-did="5149c43f6654210e160397d04d6c754abcfbba41"><a href="http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall">http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+### Kali Linux
+- [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
+- [k4linux.com: Kali Linux tutorials](http://www.k4linux.com//search/label/kali%20linux/)
+- [blackmoreops.com: Crack passwords in Kali Linux with Hydra](http://www.blackmoreops.com/2015/12/23/crack-passwords-in-kali-linux-with-hydra/)
+- [blackmoreops.com: Man in the Middle Attack using Kali Linux – MITM attack](http://www.blackmoreops.com/2015/12/22/man-in-the-middle-attack-using-kali-linux/)
+- [Kali Linux NetHunter 3.0 Android Mobile Penetration Testing Platform Out Now](http://news.softpedia.com/news/kali-linux-nethunter-3-0-android-mobile-penetration-testing-platform-out-now-498555.shtml)
+- [Kali Linux, Rolling Edition Released – 2016.1](https://www.kali.org/releases/kali-linux-rolling-edition-2016-1/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-tdz3DWyjEU?list=PLxoAx-KdaY7ohvPCCyP_hhPHUwXY9bRcH" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ## Antivirus
 - [Bitdefender](http://www.bitdefender.com)
