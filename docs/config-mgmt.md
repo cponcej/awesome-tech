@@ -15,6 +15,7 @@
 			- [PostgreSQL via Ansible](#postgresql-via-ansible)
 			- [Oracle via Ansible](#oracle-via-ansible)
 			- [Elasticsearch via Ansible](#elasticsearch-via-ansible)
+			- [Provisioning Docker containers with Ansible](#provisioning-docker-containers-with-ansible)
 	- [Puppet](#puppet)
 		- [Application Orchestration](#application-orchestration)
 		- [WebLogic via Puppet](#weblogic-via-puppet)
@@ -158,6 +159,9 @@
 
 #### Elasticsearch via Ansible
 - [Deploying Elasticsearch with Ansible](https://www.elastic.co/blog/deploying-elasticsearch-with-ansible)
+
+#### Provisioning Docker containers with Ansible
+- [ibm.com: Provisioning Docker containers with Ansible](https://www.ibm.com/developerworks/cloud/library/cl-provision-docker-containers-ansible/)
 
 [![Red Hat acquires Ansible](images/redhat-ansible.png)](https://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
 
