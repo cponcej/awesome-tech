@@ -83,6 +83,7 @@
 - [Ansible: write and run your first playbook](http://abregman.com/2015/12/25/ansible-write-and-run-your-first-playbook/)
 - [Ansible 2.0 Has Arrived and includes over 200 new modules](http://www.ansible.com/blog/ansible-2.0-launch)
 - [Puppet is out, in comes Ansible](https://kanarip.wordpress.com/2016/01/28/puppet-is-out-in-comes-ansible/)
+- [F5 Deployment Automation Demo with Ansible](https://www2.wwt.com/f5-deployment-automation-demo-with-ansible/)
 
 ### Ansible on Twitter
 - [twitter.com/ansible](https://twitter.com/ansible)
@@ -127,6 +128,11 @@
 <br>
 
 [![LPP025_Jeff_Geerling_2015_10_16.mp3](images/mp3-logo.jpg)](https://s3.amazonaws.com/leanpub_podcasts/LPP025_Jeff_Geerling_2015_10_16.mp3)
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/aQi8ghaGMfI?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
 
 ### Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
