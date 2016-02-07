@@ -18,7 +18,7 @@
 9. [WebApp, Middleware, JVM](webapp.md)
 10. [Cambios en Java 8](jvm-mem.md)
 11. [Security](security.md)
-12. [Configuration Management and Orchestration](config-mgmt.md)
+12. [Configuration Management and Orchestration. Microservices](config-mgmt.md)
 13. [DevOps and ITIL](devops-itil.md)
 14. [Software Development](sw-devel.md)
 15. [Data Science and Big Data](data-science.md)
