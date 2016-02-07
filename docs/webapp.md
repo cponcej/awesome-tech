@@ -128,8 +128,6 @@
 - [javacodegeeks.com: Weblogic Server Administration Tutorial](http://examples.javacodegeeks.com/core-java/weblogic-server-administration-tutorial/)
 - [Automated Software Testing of Fusion Middleware applications with FlexDeploy](http://adfpractice-fedor.blogspot.com.br/2015/10/automated-software-testing-of-fusion.html)
 
-[![email socialcompare](images/email_socialcompare.png)](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
-
 ## JVM Latency: Caching, Off Heap, Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
@@ -152,8 +150,11 @@
 - [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
 - [five.sentenc.es: email productivity](http://five.sentenc.es/)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135651440303" data-did="71388c85aaa3dbabd324ee9a8d32e830cc3a9972"><a href="http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay">http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+[![email service comparison](images/email_service_comparison.png)](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
 
+[![email socialcompare](images/email_socialcompare.png)](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135651440303" data-did="71388c85aaa3dbabd324ee9a8d32e830cc3a9972"><a href="http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay">http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ## Video
 - [BBC R&D: H.265/HEVC vs H.264/AVC: 50% bit rate savings verified](http://www.bbc.co.uk/rd/blog/2016/01/h-dot-265-slash-hevc-vs-h-dot-264-slash-avc-50-percent-bit-rate-savings-verified) A research team from the BBC has done a series of tests to confirm earlier computations showing a ~50% savings in bit rate for H.265/HEVC compared to video using H.264/AVC at comparable quality. 
