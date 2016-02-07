@@ -130,7 +130,7 @@
 [![LPP025_Jeff_Geerling_2015_10_16.mp3](images/mp3-logo.jpg)](https://s3.amazonaws.com/leanpub_podcasts/LPP025_Jeff_Geerling_2015_10_16.mp3)
 
 <div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/aQi8ghaGMfI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/aQi8ghaGMfI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
