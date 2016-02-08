@@ -163,10 +163,8 @@
 <br>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ns5LLvAOXHxxD6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/teoliphant/anaconda-and-pydata-solutions" title="Anaconda and PyData Solutions" target="_blank">Anaconda and PyData Solutions</a> </strong> from <strong><a href="//www.slideshare.net/teoliphant" target="_blank">Travis Oliphant</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ns5LLvAOXHxxD6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/teoliphant/anaconda-and-pydata-solutions" title="Anaconda and PyData Solutions" target="_blank">Anaconda and PyData Solutions</a> </strong> from <strong><a href="//www.slideshare.net/teoliphant" target="_blank">Travis Oliphant</a></strong> </div> 
 <br>
-
-
 
 ### Apache Zeppelin
 - [Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science](https://zeppelin.incubator.apache.org/)
@@ -427,6 +425,16 @@
 - [tecmint.com: How to Setup MySQL (Master-Slave) Replication in RHEL, CentOS, Fedora](http://www.tecmint.com/how-to-setup-mysql-master-slave-replication-in-rhel-centos-fedora/)
 - [10 Tips for Deciding Between Amazon RDS and MySQL (2012)](https://dzone.com/articles/10-tops-deciding-between)
 
+[![MySQL Cluster](images/MySQL_Cluster.png)](https://en.wikipedia.org/wiki/MySQL_Cluster)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6FPvhRhZSnmra9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/andrewjamesmorgan/whats-new-in-my-sql-cluster-74-webinar" title="What&#x27;s new in MySQL Cluster 7.4 webinar charts" target="_blank">What&#x27;s new in MySQL Cluster 7.4 webinar charts</a> </strong> from <strong><a href="//www.slideshare.net/andrewjamesmorgan" target="_blank">Andrew Morgan</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/G2T6Xkz9nLsJ2f" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/mysql-cluster-47869001" title="|MySQL DBA Cluster| Introduction to MySQL DBA Cluster|" target="_blank">|MySQL DBA Cluster| Introduction to MySQL DBA Cluster|</a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
+<br>
+
 ##### MySQL metrics
 - [Box Anemometer](https://github.com/box/Anemometer)
 
@@ -452,6 +460,14 @@
 #### MariaDB
 ##### MariaDB Replication
 - [tecmint.com: Setup MariaDB (Master-Slave) Replication in CentOS/RHEL 7 and Debian 8](http://www.tecmint.com/mariadb-master-slave-replication-on-centos-rhel-debian/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2MeB8NuwZS2Ult" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bytebot/the-complete-mariadb-server-tutorial-percona-live-2015" title="The Complete MariaDB Server Tutorial - Percona Live 2015" target="_blank">The Complete MariaDB Server Tutorial - Percona Live 2015</a> </strong> from <strong><a href="//www.slideshare.net/bytebot" target="_blank">Colin Charles</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hQ0DFrgzBrFeOX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/dat209-new-launch-introducing-mariadb-on-amazon-rds" title="(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS" target="_blank">(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+<br>
 
 #### PostgreSQL
 ##### PostgreSQL on Twitter
@@ -497,6 +513,22 @@
 - [Postgres 9.5 - the Feature Rundown: row level security policies, grouping sets and upsert](http://www.craigkerstiens.com/2015/12/27/postgres-9-5-feature-rundown/)
 
 [![mixing indexes](images/mixing_indexes.jpg)](http://www.commitstrip.com)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nBAfrakRBpOJpF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EnterpriseDB/overview-of-postgres-95" title="Overview of Postgres 9.5 " target="_blank">Overview of Postgres 9.5 </a> </strong> from <strong><a href="//www.slideshare.net/EnterpriseDB" target="_blank">EnterpriseDB</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/l9V806fi6YhWhj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fuzzycz/performance-improvements-in-postgresql-95-and-beyond" title="Performance improvements in PostgreSQL 9.5 and beyond" target="_blank">Performance improvements in PostgreSQL 9.5 and beyond</a> </strong> from <strong><a href="//www.slideshare.net/fuzzycz" target="_blank">Tomas Vondra</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nsgdgjJxhXf3kJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/StefanieJanineStltin/json-by-example" title="JSON By Example" target="_blank">JSON By Example</a> </strong> from <strong><a href="//www.slideshare.net/StefanieJanineStltin" target="_blank">Stefanie Janine Stölting</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wFiyvd4MGMp91P" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alexeylesovsky/postgresql-streaming-replication-cheatsheet" title="PostgreSQL Streaming Replication Cheatsheet" target="_blank">PostgreSQL Streaming Replication Cheatsheet</a> </strong> from <strong><a href="//www.slideshare.net/alexeylesovsky" target="_blank">Алексей Лесовский</a></strong> </div>
+<br>
 
 #### SQLite
 - [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)
@@ -570,6 +602,10 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1uFY60CESlM?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IGi1FCvglHcbP7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/mongo-db-presentation-demo" title="MongoDB - Understand the Best Practices in Brief " target="_blank">MongoDB - Understand the Best Practices in Brief </a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
 <br>
 
 #### Redis, Coudhdb, and others

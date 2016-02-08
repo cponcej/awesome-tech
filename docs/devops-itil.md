@@ -208,6 +208,15 @@
 
 [![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sivZnLLIue3AZO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/infoDiagram/how-to-start-scrum-from-traditional-project-management" title="How to Start Scrum from Traditional Project Management" target="_blank">How to Start Scrum from Traditional Project Management</a> </strong> from <strong><a href="//www.slideshare.net/infoDiagram" target="_blank">Peter Zvirinsky</a></strong> </div> <br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bZjjK2TIilBKfB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fabokzs/what-scrum-kanban-lean-ever-done-for-us" title="What Scrum Kanban Lean Ever Done for Us" target="_blank">What Scrum Kanban Lean Ever Done for Us</a> </strong> from <strong><a href="//www.slideshare.net/fabokzs" target="_blank">Zsolt Fabok</a></strong> </div> <br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pdvmXZM6Alb34F" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/blossom_io/the-definitive-guide-to-agile-kanban" title="A Guide to Agile Kanban" target="_blank">A Guide to Agile Kanban</a> </strong> from <strong><a href="//www.slideshare.net/blossom_io" target="_blank">Blossom</a></strong> </div> <br>
+
 ### Continuous Integration and Delivery
 - [Martin Fowler - Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
