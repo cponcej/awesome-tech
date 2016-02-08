@@ -126,6 +126,10 @@
 
 [![DevDocs.io](images/DevDocs.png)](http://devdocs.io)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BkCyPZp16vDeQ0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tacker/rest-http-response-codes-cheat-sheet" title="REST HTTP Response Codes Cheat Sheet" target="_blank">REST HTTP Response Codes Cheat Sheet</a> </strong> from <strong><a href="//www.slideshare.net/tacker" target="_blank">Markus Tacker</a></strong> </div>
+<br>
+
 ## Design Patterns
 - [wikipedia: Design Patterns. Gang of Four (GoF)](https://en.wikipedia.org/wiki/Design_Patterns)
 	- [stackoverflow.com: Examples of GoF Design Patterns in Java's core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
@@ -311,6 +315,10 @@
 - [Create a GUI Application Using Qt and Python in Minutes: Example Web Browser](http://www.digitalpeer.com/blog/create-a-gui-application-using-qt-and-python-in-minutes-example-web-browser)
 
 [![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8cvSLR0lWRnZyS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Moment_of_Revelation/pep-8-cheatsheet-2009-32888711" title="Pep 8 cheatsheet (2009)" target="_blank">Pep 8 cheatsheet (2009)</a> </strong> from <strong><a href="//www.slideshare.net/Moment_of_Revelation" target="_blank">Moment_of_Revelation</a></strong> </div>
+<br>
 
 ### Python Django
 - [gettopical.com: Get Django Latest News](http://gettopical.com/djangoframework)
