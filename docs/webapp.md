@@ -146,9 +146,13 @@
 	- [Mi análisis: cambios en la gestión de memoria de Java 8. Diferencias en distintas implementaciones de JVM](jvm-mem.md)
 - [middlewaresnippets.blogspot.com - Monitoring with JMX](http://middlewaresnippets.blogspot.com/2014/10/monitoring-with-jmx.html)
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/n2WeaBLq1lzQcN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ihji/jvm-garbage-collection-tuning" title="JVM Garbage Collection Tuning" target="_blank">JVM Garbage Collection Tuning</a> </strong> from <strong><a href="//www.slideshare.net/ihji" target="_blank">ihji</a></strong> </div>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/n2WeaBLq1lzQcN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ihji/jvm-garbage-collection-tuning" title="JVM Garbage Collection Tuning" target="_blank">JVM Garbage Collection Tuning</a> </strong> from <strong><a href="//www.slideshare.net/ihji" target="_blank">ihji</a></strong> </div>
+<br>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/NpUYrnBQ59fyV6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/feuteston/jvm-internals-2015corkdevio" title="JVM Internals (2015)" target="_blank">JVM Internals (2015)</a> </strong> from <strong><a href="//www.slideshare.net/feuteston" target="_blank">Luiz Fernando Teston</a></strong> </div>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NpUYrnBQ59fyV6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/feuteston/jvm-internals-2015corkdevio" title="JVM Internals (2015)" target="_blank">JVM Internals (2015)</a> </strong> from <strong><a href="//www.slideshare.net/feuteston" target="_blank">Luiz Fernando Teston</a></strong> </div>
+<br>
 
 ## E-Mail
 - [tech-faq.com: How Does the Email System Work?](http://www.tech-faq.com/how-the-email-system-works.html)
