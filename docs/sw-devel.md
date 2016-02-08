@@ -150,6 +150,7 @@
 - [SourceForge youtube: How to Use JSONViewer Notepad++ plugin](https://www.youtube.com/watch?v=5TcXJEuA1z4)
 - [Visualizing HTTP requests with Node Application Metrics and IBM Health Center](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
 	- [eclipse marketplace: IBM Monitoring and Diagnostic Tools - Health Center](http://marketplace.eclipse.org/content/ibm-monitoring-and-diagnostic-tools-health-center)
+- [IntelliJ IDEA 16 EAP Improves Debugger and Adds Git Worktree Support](https://dzone.com/articles/intellij-idea-16-eap-improves-debugger-and-adds-gi) A new patch brings several new features to IntelliJ, including the use of Groovy expressions when debugging a Java application and VC integration.
 
 [![how i feel after 15 years of vim](images/vim_after_15years.png)](https://www.youtube.com/watch?v=PjeKA_ttPMU&feature=youtu.be&t=31m15s)
 
