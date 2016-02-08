@@ -69,11 +69,19 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hKWr4WgNbSPYYV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NicholasSullivan/nginx-https-101-the-basics-getting-started" title="NGINX + HTTPS 101: The basics &amp; getting started" target="_blank">NGINX + HTTPS 101: The basics &amp; getting started</a> </strong> from <strong><a href="//www.slideshare.net/NicholasSullivan" target="_blank">Nick Sullivan</a></strong> </div>
 <br>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1SyYpyOmgQTLv8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ColdFusionConference/csp-and-http-headers" title="Csp and http headers" target="_blank">Csp and http headers</a> </strong> from <strong><a href="//www.slideshare.net/ColdFusionConference" target="_blank">ColdFusionConference</a></strong> </div>
+<br>
+
 ### SSL Server Test
 - [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest)
 - [SSL Report: bash.cyberciti.biz](https://www.ssllabs.com/ssltest/analyze.html?d=bash.cyberciti.biz)
  
 [![letsencrypt](images/letsencrypt.png)](https://letsencrypt.org)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2W5PXYTutNuCfK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wkandek/unsafe-ssl-compact" title="Unsafe SSL webinar" target="_blank">Unsafe SSL webinar</a> </strong> from <strong><a href="//www.slideshare.net/wkandek" target="_blank">Wolfgang Kandek</a></strong> </div>
+<br>
 
 ## WebSockets
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)

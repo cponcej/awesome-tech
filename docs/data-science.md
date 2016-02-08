@@ -169,6 +169,10 @@
 ### Apache Zeppelin
 - [Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science](https://zeppelin.incubator.apache.org/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/us9JccPwWdiwy2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SparkSummit/data-science-lifecycle-with-apache-zeppelin-and-spark-by-moonsoo-lee" title="Data Science lifecycle with Apache Zeppelin and Spark by Moonsoo Lee" target="_blank">Data Science lifecycle with Apache Zeppelin and Spark by Moonsoo Lee</a> </strong> from <strong><a href="//www.slideshare.net/SparkSummit" target="_blank">Spark Summit</a></strong> </div>
+<br>
+
 ## Big Data
 - [gettopical.com: Bit Data latest news](http://gettopical.com/bigdata)
 - [whatsthebigdata.com: History of Databases (Infographic)](http://whatsthebigdata.com/2016/01/04/history-of-databases-infographic/)
