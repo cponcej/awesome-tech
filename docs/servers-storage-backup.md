@@ -57,6 +57,16 @@
 
 [![synology logo](images/synology_logo.jpg)](https://www.synology.com)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S-mJSmTmeN4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/biH5xgyj1vU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## Backup
 - [6 Steps to Better Data Backup and Quicker Recovery](https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd)
 	- [3 Ways To Ensure 100 Percent Secure Enterprise File Sharing](http://www.vaultize.com/blog/3-ways-to-ensure-100-percent-secure-enterprise-file-sharing)
@@ -89,5 +99,10 @@
 - [simple-talk.com: SQL Server 2014 Backup Basics](https://www.simple-talk.com/sql/backup-and-recovery/sql-server-2014-backup-basics/)
 
 [![veeam logo](images/veeam-logo.jpg)](https://www.veeam.com)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9PJL8wa4s8A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 [![backup condition](images/backup_condition.png)](http://www.cyberciti.biz/)

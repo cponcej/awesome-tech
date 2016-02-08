@@ -85,6 +85,11 @@
 
 [![Dell SonicWall TZ500 Management Monitor](images/Dell-SonicWall-TZ500-Management-Monitor.png)](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/on2f0BZaNi4?list=PLlLDGbMf9B8MvwgHg8bJC0QDewDz_inPy" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Dell SonicWALL WAN Acceleration Appliance (WAN optimization)
 - [community.dell.com: Accelerate Application Performance for a Better User Experience](http://en.community.dell.com/techcenter/security/network-mobile-email/b/weblog/archive/2016/01/11/accelerate-application-performance-for-a-better-user-experience)
 
@@ -196,6 +201,11 @@
 </div>
 <br>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qZL8kNj0E-A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Network Forensics and Monitoring for MySQL and PostgreSQL
 - [VividCortex](https://twitter.com/VividCortex)
 - [Announcing VividCortex's Free Network Analyzer Tools for MySQL and PostgreSQL](https://www.vividcortex.com/blog/2015/05/13/announcing-vividcortex-network-analyzer-mysql-postgresql/)
@@ -219,6 +229,11 @@
 - [Why Cloud is making MPLS obsolete - and how Service Providers can adapt](https://www.linkedin.com/pulse/20140915110843-538739-why-cloud-is-making-mpls-obsolete-and-how-service-providers-can-adapt)
 - [Software-defined wide-area network, Is this the end of MPLS VPNs?](https://www.linkedin.com/pulse/software-defined-wide-area-network-end-mpls-vpns-greg-de-chasteauneuf)
 - [MPLS vs. Metro-Ethernet](https://www.linkedin.com/pulse/mpls-vs-metro-ethernet-dave-calhoun)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cLZg1XZUruk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ## WiFi security
 - [Analyzing the 1000 Most Common Wi-Fi Network Names](https://ghostpath.com/blog/ssid-analyzing-the-1000-most-common-wi-fi-network-names/)

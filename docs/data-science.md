@@ -135,6 +135,21 @@
 
 [![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)](https://www.continuum.io/why-anaconda)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xb5r_495_-k?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V85G5Q-Lj9o?list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yceT9sj61vw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Apache Zeppelin
 - [Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science](https://zeppelin.incubator.apache.org/)
 
