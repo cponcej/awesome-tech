@@ -150,6 +150,24 @@
 </div>
 <br>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/caoDTq4izWMrxA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ttimbers/using-the-pythondatatoolkittimbersslides" title="Using the python_data_toolkit_timbers_slides" target="_blank">Using the python_data_toolkit_timbers_slides</a> </strong> from <strong><a href="//www.slideshare.net/ttimbers" target="_blank">Tiffany Timbers</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xgGmH7s8KFjeNR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wesm/pandas-powerful-data-analysis-tools-for-python" title="pandas: Powerful data analysis tools for Python" target="_blank">pandas: Powerful data analysis tools for Python</a> </strong> from <strong><a href="//www.slideshare.net/wesm" target="_blank">Wes McKinney</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vFFHftlq5d5TON" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/teoliphant/continuum-analytics-and-python" title="Continuum Analytics and Python" target="_blank">Continuum Analytics and Python</a> </strong> from <strong><a href="//www.slideshare.net/teoliphant" target="_blank">Travis Oliphant</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ns5LLvAOXHxxD6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/teoliphant/anaconda-and-pydata-solutions" title="Anaconda and PyData Solutions" target="_blank">Anaconda and PyData Solutions</a> </strong> from <strong><a href="//www.slideshare.net/teoliphant" target="_blank">Travis Oliphant</a></strong> </div>
+<br>
+
+
+
 ### Apache Zeppelin
 - [Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science](https://zeppelin.incubator.apache.org/)
 
@@ -191,6 +209,10 @@
 - [smartdatacollective.com](http://www.smartdatacollective.com/)
 
 [![job trends analytics](images/job-trends-analytics.jpg)](http://www.indeed.com/jobtrends/BI%2C+analytics%2C+data+mining.html)
+
+[![Big Data Analystics with Spark](images/Big-Data-Analytics-with-Spark.png)](http://www.wowebook.org/big-data-analytics-with-spark-a-practitioners-guide-to-using-spark-for-large-scale-data-analysis.html)
+
+[![Learning Spark](images/Learning-Spark.png)](http://www.wowebook.org/learning-spark-lightning-fast-big-data-analysis.html)
 
 ### Internet of things
 - [techrepublic.com: Survey: Harnessing the power of big data and IoT](http://www.techrepublic.com/article/survey-harnessing-the-power-of-big-data-and-iot/)
