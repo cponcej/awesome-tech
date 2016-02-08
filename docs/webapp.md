@@ -192,4 +192,12 @@
 - [Lose the Lock While Embracing Concurrency](https://dzone.com/articles/lose-the-lock-while-embracing-concurrency-brave-ne) Adopting concurrency? You may want to lose the lock. Here's a look at basics with message routing, such as concurrent timelines, linearizability​, and more!
 - [DZone refcard: AMQP Essentials](https://dzone.com/refcardz/amqp-essentials) The Binary Transfer Protocol for Enterprise Applications and IoT
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/egsQRPlbfRcgTt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PovilasBalzaravicius/reducing-load-with-rabbitmq" title="Reducing load with RabbitMQ" target="_blank">Reducing load with RabbitMQ</a> </strong> from <strong><a href="//www.slideshare.net/PovilasBalzaravicius" target="_blank">Povilas Balzaravičius</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4LiXl3TsDw9N9O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/opensourcementor/webinar-maximize" title="Maximize information exchange in your enterprise with AMQP" target="_blank">Maximize information exchange in your enterprise with AMQP</a> </strong> from <strong><a href="//www.slideshare.net/opensourcementor" target="_blank">Kenneth Peeples</a></strong> </div>
+<br>
+
 [![dilbert](images/dilbert.jpg)](http://dilbert.com/)
