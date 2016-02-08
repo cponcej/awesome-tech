@@ -353,6 +353,14 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nbWSTjvNUVhYxT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BlazeMeter/webdriver-webinar-v7" title="Performance Testing using Real Browsers with JMeter &amp; Webdriver" target="_blank">Performance Testing using Real Browsers with JMeter &amp; Webdriver</a> </strong> from <strong><a href="//www.slideshare.net/BlazeMeter" target="_blank">BlazeMeter</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pSXioeGqKi7hxp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/keytorc/jmeter-database-performace-testing-keytorc-approach" title="JMeter Database Performace Testing - Keytorc Approach" target="_blank">JMeter Database Performace Testing - Keytorc Approach</a> </strong> from <strong><a href="//www.slideshare.net/keytorc" target="_blank">Keytorc Software Testing Services</a></strong> </div>
+<br>
+
 ### Alternatives
 - [Siege, a CLI tool ideal for a simple testing of AWS Auto Scaling](https://www.joedog.org/siege-home/)
 - [Grinder](http://grinder.sourceforge.net/)
