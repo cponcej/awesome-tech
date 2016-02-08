@@ -523,3 +523,6 @@
 
 [![is your company ready for devops](images/is_your_company_ready_for_devops.jpg)](http://www.commitstrip.com/en/2015/02/02/is-your-company-ready-for-devops/)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137946095506" data-did="9a433facc819ab28ffb3f6f912ec739cef085d6b"><a href="http://inafev.tumblr.com/post/137946095506/programming-isnt-manual-labor-but-it-still-sucks">http://inafev.tumblr.com/post/137946095506/programming-isnt-manual-labor-but-it-still-sucks</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137951364281" data-did="26962d36e6d2945ef6debcd0e53e61e5adfee0dc"><a href="http://inafev.tumblr.com/post/137951364281/software-testing-the-devops-strategy">http://inafev.tumblr.com/post/137951364281/software-testing-the-devops-strategy</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
