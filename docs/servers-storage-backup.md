@@ -21,10 +21,20 @@
 - [Dell launches PowerEdge entry-level servers for SMBs](http://www.infotechlead.com/networking/dell-launches-entry-level-servers-for-smbs-36295)
 - [storagereview.com Dell PowerEdge 13G R730 Server Review](http://www.storagereview.com/dell_poweredge_13g_r730_server_review)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1fGjgB__yxY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## HP
 - [HP releases new servers and storage for SMEs](http://www.itwire.com/business-it-news/hardware-and-storage/67312-hp-releases-new-servers-and-storage-for-smes)
 - [HP Intros New StoreVirtual-Based Hyper-Converged Infrastructure Appliance](http://www.crn.com/news/storage/300077656/hp-intros-new-storevirtual-based-hyper-converged-infrastructure-appliance.htm)
 - [HP’s hyper-converged portfolio grows: meet the CS250-HC](http://www.bitcon.be/?p=3093)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EHZVxCcN7wU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ## RAID disks
 - [Practical RAID Choices for Spindle Based Arrays](http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)
