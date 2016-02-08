@@ -297,3 +297,7 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_v-qAlxyrms?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/37yt7ES7lc1UGS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/red-hat-trends-and-technologie-december-2015" title="Red Hat Trends and Technologie December 2015" target="_blank">Red Hat Trends and Technologie December 2015</a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
+<br>
