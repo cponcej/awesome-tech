@@ -214,6 +214,12 @@
 
 [![Learning Spark](images/Learning-Spark.png)](http://www.wowebook.org/learning-spark-lightning-fast-big-data-analysis.html)
 
+[![Python Data Analytics](images/Python-Data-Analytics.png)](http://www.wowebook.org/python-data-analytics.html)
+
+[![Learning IPython](images/Learning-IPython-for-Interactive-Computing-and-Data-Visualization.png)](http://www.wowebook.org/learning-ipython-for-interactive-computing-and-data-visualization.html)
+
+[![Python for Data Analysis](images/Python-for-Data-Analysis.jpg)](http://www.wowebook.org/python-for-data-analysis.html)
+
 ### Internet of things
 - [techrepublic.com: Survey: Harnessing the power of big data and IoT](http://www.techrepublic.com/article/survey-harnessing-the-power-of-big-data-and-iot/)
 
