@@ -66,6 +66,10 @@
 <br>
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JqlrXhJX6hs9sc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/annadeepcrawl/brighton-seo-sep-2015-https-mark-thomas" title="BrightonSEO Sep 2015 - HTTPS | Mark Thomas " target="_blank">BrightonSEO Sep 2015 - HTTPS | Mark Thomas </a> </strong> from <strong><a href="//www.slideshare.net/annadeepcrawl" target="_blank">DeepCrawl Media</a></strong> </div>
+<br>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/7eSs5BnQG2bmhH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fmarier/security-and-privacy-on-the-web-in-2015" title="Security and Privacy on the Web in 2015" target="_blank">Security and Privacy on the Web in 2015</a> </strong> from <strong><a href="//www.slideshare.net/fmarier" target="_blank">Francois Marier</a></strong> </div>
 <br>
 
