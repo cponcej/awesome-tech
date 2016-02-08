@@ -407,3 +407,11 @@
 [![Using Docker](images/Using-Docker.png)](http://www.wowebook.org/using-docker-developing-and-deploying-software-with-containers.html)
 
 [![disruption cycle](images/disruption-cycle.png)](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137946400536" data-did="6bf2dc8017b1c8c4f8ecab815dd42dd6f5f23edc"><a href="http://inafev.tumblr.com/post/137946400536/hello-docker">http://inafev.tumblr.com/post/137946400536/hello-docker</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137946095506" data-did="9a433facc819ab28ffb3f6f912ec739cef085d6b"><a href="http://inafev.tumblr.com/post/137946095506/programming-isnt-manual-labor-but-it-still-sucks">http://inafev.tumblr.com/post/137946095506/programming-isnt-manual-labor-but-it-still-sucks</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137946079986" data-did="8f77de829c3b28817197a58176f13891cc3b0963"><a href="http://inafev.tumblr.com/post/137946079986/microservices-have-you-metdevops">http://inafev.tumblr.com/post/137946079986/microservices-have-you-metdevops</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137951364281" data-did="26962d36e6d2945ef6debcd0e53e61e5adfee0dc"><a href="http://inafev.tumblr.com/post/137951364281/software-testing-the-devops-strategy">http://inafev.tumblr.com/post/137951364281/software-testing-the-devops-strategy</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
