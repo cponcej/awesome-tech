@@ -134,7 +134,11 @@
  
 ![richard branson](images/richardbranson.jpg)
 
+<div class="container">
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137953413411" data-did="1531d8b9f4aa1cd335a89c80176d79a4aec36b5b"><a href="http://inafev.tumblr.com/post/137953413411/to-all-the-people-on-here-looking-for-jobs">http://inafev.tumblr.com/post/137953413411/to-all-the-people-on-here-looking-for-jobs</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+</div>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137953377381" data-did="2fcc9cb3f087e7274401418d7009ad80206a8bd7"><a href="http://inafev.tumblr.com/post/137953377381/things-people-reading-your-resume-wish-you-knew">http://inafev.tumblr.com/post/137953377381/things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)

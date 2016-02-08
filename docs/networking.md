@@ -9,6 +9,7 @@
 		- [Dell SonicWALL WAN Acceleration Appliance (WAN optimization)](#dell-sonicwall-wan-acceleration-appliance-wan-optimization)
 		- [Fortinet](#fortinet)
 	- [Switches](#switches)
+		- [Virtual LAN](#virtual-lan)
 	- [Network virtualization. Software Defined Networking (SDN)](#network-virtualization-software-defined-networking-sdn)
 	- [IPv6](#ipv6)
 	- [Network Forensics](#network-forensics)
@@ -108,7 +109,47 @@
 - [This was not a “backdoor” vulnerability issue but rather a management authentication issue](http://blog.fortinet.com/post/brief-statement-regarding-issues-found-with-fortios)
 
 ## Switches
+- [reddit.com/r/networking](https://www.reddit.com/r/networking/)
+- [SWITCH Security Report](http://securityblog.switch.ch/)
+- [Layer 3 versus Layer 2 Switch for VLANs](https://documentation.meraki.com/MS/Layer_3_Switching/Layer_3_versus_Layer_2_Switch_for_VLANs)
+- [Power over Ethernet or PoE](https://en.wikipedia.org/wiki/Power_over_Ethernet)
+- [juniper switches](http://www.juniper.net/us/en/products-services/switching/)
+- [Netgear switches](http://www.netgear.com/home/products/networking/switches/)
+- [D-Link](http://www.dlink.com/uk/en/business-solutions/poe/switches)
+- [Cisco Meraki](https://documentation.meraki.com/MS)
+- [Cisco Small Business Switches](http://www.newegg.com/Switches/BrandSubCat/ID-12450-30)
+- [Extreme](http://www.extremenetworks.com/products/switching-routing)
+- [Linksys](http://www.linksys.com/us/c/business-network-switches/)
+- [Dell](http://www.dell.com/us/business/p/switch-powerconnect)
+- [HP Small and Midsize Business](http://www8.hp.com/us/en/networking/smb-networking-switches.html)
 - [youtube: Dell Networking Z9100-ON 100GbE Fabric Switch](https://www.youtube.com/watch?v=GiGqRy5zgCM&feature=youtu.be)
+- [The Top 10 Best Selling Switches By Brand](http://www.crn.com/slide-shows/networking/300072355/the-top-10-best-selling-switches-by-brand.htm)
+- [Top 5 Small Business Switches](http://www.learncomputer.com/top-5-small-business-switches/)
+- [community.spiceworks.com: Best 48 port small business switch?](https://community.spiceworks.com/topic/751984-best-48-port-small-business-switch)
+
+### Virtual LAN
+- [Virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN)
+- [Cisco Networking Academy's Introduction to VLANs](http://www.ciscopress.com/articles/article.asp?p=2181837)
+- [Fundamentals of 802.1Q VLAN Tagging](https://documentation.meraki.com/zGeneral_Administration/Tools_and_Troubleshooting/Fundamentals_of_802.1Q_VLAN_tagging)
+- [reddit: To VLAN or not to VLAN?](https://www.reddit.com/r/sysadmin/comments/22fwl9/to_vlan_or_not_to_vlan/)
+- [reddit: Best practices for management network/vlan](https://www.reddit.com/r/networking/comments/1ogx0j/best_practices_for_management_networkvlan/)
+- [reddit: VLAN Tagging - Why in increments of 10?](https://www.reddit.com/r/networking/comments/29i9hy/vlan_tagging_why_in_increments_of_10/)
+- [reddit: Looking for consumer-grade 1GbE VLAN-trunk capable switch](https://www.reddit.com/r/networking/comments/3aljo9/looking_for_consumergrade_1gbe_vlantrunk_capable/)
+- [reddit: Wiki Knowledge: VLANs](https://www.reddit.com/r/networking/comments/2yfr71/wiki_knowledge_vlans/)
+- [reddit: Need a better understanding of VLANs](https://www.reddit.com/r/networking/comments/3hz70w/need_a_better_understanding_of_vlans/)
+- [reddit: Do you VLAN? If so, what do you have segregated?](https://www.reddit.com/r/homelab/comments/30sv39/do_you_vlan_if_so_what_do_you_have_segregated/)
+- [reddit: Question about VLANs and how they are connected in one switch](https://www.reddit.com/r/networking/comments/33xt9z/question_about_vlans_and_how_they_are_connected/)
+- [reddit: Cheap Gigabit Switch With VLAN Capabilities](https://www.reddit.com/r/homelab/comments/1z542j/cheap_gigabit_switch_with_vlan_capabilities/)
+- [reddit: Multiple VLANs on one NIC in Windows?](https://www.reddit.com/r/homelab/comments/3lzfuh/multiple_vlans_on_one_nic_in_windows_xpost_from/)
+- [reddit: How does one learn to do vlans](https://www.reddit.com/r/homelab/comments/3bew99/how_does_one_learn_to_do_vlans/)
+- [reddit: Does dividing traffic onto different VLANs implicitly assume a different network for each VLAN?](https://www.reddit.com/r/networking/comments/1s36w9/does_dividing_traffic_onto_different_vlans/)
+- [reddit: VLAN iSCSI networks](https://www.reddit.com/r/networking/comments/36evvc/vlan_iscsi_networks/)
+- [Does a Trunk Port have to part of a VLAN?](https://www.reddit.com/r/networking/comments/3h8iwm/does_a_trunk_port_have_to_part_of_a_vlan/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GiGqRy5zgCM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ## Network virtualization. Software Defined Networking (SDN)
 - [FOSS Network Functions Virtualization](https://www.opnfv.org)
