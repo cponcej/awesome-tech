@@ -144,6 +144,14 @@
 - [nginx.com: Scaling Web Applications with NGINX – Part I: Load Balancing](https://www.nginx.com/blog/scaling-web-applications-nginx-part-load-balancing/)
 	- [dzone: Scaling Web Applications with NGINX – Part II: Caching and Monitoring](https://dzone.com/articles/scaling-web-applications-with-nginx-part-ii-cachin)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Mu2STrGXh1IB86" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tuxtoti/nginx-tips-and-tricks-13087831" title="Nginx - Tips and Tricks." target="_blank">Nginx - Tips and Tricks.</a> </strong> from <strong><a href="//www.slideshare.net/tuxtoti" target="_blank">Harish S</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wC5wngKnh2iydS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Nginx/nginx-highperformance-caching" title="NGINX High-performance Caching" target="_blank">NGINX High-performance Caching</a> </strong> from <strong><a href="//www.slideshare.net/Nginx" target="_blank">NGINX, Inc.</a></strong> </div>
+<br>
+
 ## GlassFish
 - [twitter.com/glassfish](https://twitter.com/glassfish)
 

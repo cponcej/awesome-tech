@@ -198,6 +198,9 @@
 - [Corvil.com Network Data Analsysis. Free eBook: Understanding Packet Loss](http://corvil.com/resources/white-papers/ebook-understanding-packet-loss)
 - [What’s the performance meaning of 0-Windows?](http://blog.securactive.net/performance-meaning-0-windows/) When a machine starts to send more and more 0-win you have to investigate if there is enough resources, CPU, RAM …
 - [Great explanation on how performance metrics are calculated by Tony Fortunato (Tech firm)](http://www.lovemytool.com/blog/2015/10/application-performance-term-connect-time-by-tony-fortunato.html)
+- [Manual básico de wireshark](http://www.slideshare.net/DIANYSS2012/manual-bsico-de-wireshark)
+- [Analisis de red mediante Wireshark y Tcpdump](http://www.slideshare.net/JavierMartinRivero/analisis-de-red-mediante-wireshark-y-tcpdump)
+- [Protocolo dns analizado con wireshark](http://www.slideshare.net/jopa001/protocolo-dns-con-wireshark)
 
 [![digital attack map](images/digital_attack_map.png)](http://www.digitalattackmap.com/)
 
