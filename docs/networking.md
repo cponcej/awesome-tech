@@ -95,6 +95,10 @@
 </div>
 <br>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/DSK5MwrYpzquVu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DellSoftware/dwuf15-advanced-sonicos-management-best-practices" title="DWUF&#x27;15: Advanced SonicOS Management Best Practices" target="_blank">DWUF&#x27;15: Advanced SonicOS Management Best Practices</a> </strong> from <strong><a href="//www.slideshare.net/DellSoftware" target="_blank">Dell Software</a></strong> </div>
+<br>
+
 ### Dell SonicWALL WAN Acceleration Appliance (WAN optimization)
 - [community.dell.com: Accelerate Application Performance for a Better User Experience](http://en.community.dell.com/techcenter/security/network-mobile-email/b/weblog/archive/2016/01/11/accelerate-application-performance-for-a-better-user-experience)
 
