@@ -535,7 +535,12 @@
 [![Effortless CSV import into MongoDB with MongoChef 3.2](images/mongochef_csv.png)](http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bB57HKeOvmw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CvIr-2lMLsk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1uFY60CESlM?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
