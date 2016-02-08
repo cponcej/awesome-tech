@@ -96,9 +96,21 @@
 - [The State of Real-Time Web in 2016](https://banksco.de/p/state-of-realtime-web-2016.html)
 - [SPDY and WebSocket Support at Akamai](https://blogs.akamai.com/2012/07/spdy-and-websocket-support-at-akamai.html)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dGwSJnsiEBOLQF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkRoden/websockets-pushing-the-web-forward" title="Websockets: Pushing the web forward" target="_blank">Websockets: Pushing the web forward</a> </strong> from <strong><a href="//www.slideshare.net/MarkRoden" target="_blank">Mark Roden</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/J3GFdDQf8wm4fW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ramisayar/state-of-web-sockets" title="The State of WebSockets in Django" target="_blank">The State of WebSockets in Django</a> </strong> from <strong><a href="//www.slideshare.net/ramisayar" target="_blank">Rami Sayar</a></strong> </div>
+<br>
+
 ## Enterprise Search Platforms
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 - [javacodegeeks.com: Apache Lucene Fundamentals Tutorial](http://www.javacodegeeks.com/2015/09/apache-lucene-fundamentals.html)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MBkpsrtRagSGKu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sematext/running-highperformance-and-fault-tolerant-elasticsearch-clusters-on-docker" title="Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker" target="_blank">Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker</a> </strong> from <strong><a href="//www.slideshare.net/sematext" target="_blank">Sematext Group, Inc. </a></strong> </div>
+<br>
 
 ## HAProxy
 - [HAProxy](http://www.haproxy.org)
