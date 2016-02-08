@@ -428,7 +428,7 @@
 [![MySQL Cluster](images/MySQL_Cluster.png)](https://en.wikipedia.org/wiki/MySQL_Cluster)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/6FPvhRhZSnmra9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/andrewjamesmorgan/whats-new-in-my-sql-cluster-74-webinar" title="What&#x27;s new in MySQL Cluster 7.4 webinar charts" target="_blank">What&#x27;s new in MySQL Cluster 7.4 webinar charts</a> </strong> from <strong><a href="//www.slideshare.net/andrewjamesmorgan" target="_blank">Andrew Morgan</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6FPvhRhZSnmra9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/andrewjamesmorgan/whats-new-in-my-sql-cluster-74-webinar" title="What&#x27;s new in MySQL Cluster 7.4 webinar charts" target="_blank">What&#x27;s new in MySQL Cluster 7.4 webinar charts</a> </strong> from <strong><a href="//www.slideshare.net/andrewjamesmorgan" target="_blank">Andrew Morgan</a></strong> </div>
 <br>
 
 <div class="container">
@@ -460,17 +460,39 @@
 #### MariaDB
 ##### MariaDB Replication
 - [tecmint.com: Setup MariaDB (Master-Slave) Replication in CentOS/RHEL 7 and Debian 8](http://www.tecmint.com/mariadb-master-slave-replication-on-centos-rhel-debian/)
+- [Enabling GTIDs for server replication in MariaDB 10.0](https://mariadb.com/blog/enabling-gtids-server-replication-mariadb-100)
+- [MariaDB 10 GTID Explained](https://mariadb.com/blog/mariadb-10-gtid-explained)
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/baUs72FfkzmI7n" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/MariaDB/the-mysql-mariadb-story" title="The MySQL - MariaDB story" target="_blank">The MySQL - MariaDB story</a> </strong> from <strong><a href="//es.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
+<br>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/2MeB8NuwZS2Ult" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bytebot/the-complete-mariadb-server-tutorial-percona-live-2015" title="The Complete MariaDB Server Tutorial - Percona Live 2015" target="_blank">The Complete MariaDB Server Tutorial - Percona Live 2015</a> </strong> from <strong><a href="//www.slideshare.net/bytebot" target="_blank">Colin Charles</a></strong> </div>
 <br>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hQ0DFrgzBrFeOX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/dat209-new-launch-introducing-mariadb-on-amazon-rds" title="(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS" target="_blank">(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hQ0DFrgzBrFeOX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/dat209-new-launch-introducing-mariadb-on-amazon-rds" title="(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS" target="_blank">(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
 <br>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qvliLATuLU81dv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Severalnines/webinar-slides-replication-topology-changes-for-mysql-and-mariadb" title="Webinar slides: Replication Topology Changes for MySQL and MariaDB" target="_blank">Webinar slides: Replication Topology Changes for MySQL and MariaDB</a> </strong> from <strong><a href="//www.slideshare.net/Severalnines" target="_blank">Severalnines AB</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/201xYQfKi6hy7E" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/MariaDB/mariadb-replication-state-of-the-art" title="MariaDB/MySQL Replication - State of the art" target="_blank">MariaDB/MySQL Replication - State of the art</a> </strong> from <strong><a href="//es.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3wcJIEV1AcU3G" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Severalnines/deep-dive-into-how-to-monitor-mysql-or-mariadb-galera-cluster-percona-xtradb-cluster" title="Deep Dive Into How To Monitor MySQL or MariaDB Galera Cluster / Percona XtraDB Cluster" target="_blank">Deep Dive Into How To Monitor MySQL or MariaDB Galera Cluster / Percona XtraDB Cluster</a> </strong> from <strong><a href="//www.slideshare.net/Severalnines" target="_blank">Severalnines AB</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/k3rtYIDmDD2C80" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/roadshow-einfhrung-dezember-2015" title="Roadshow Einführung - Dezember 2015 " target="_blank">Roadshow Einführung - Dezember 2015 </a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/of0AgvxAReq7yv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/optimale-hochverfugbarkeitsverfahren-dezember-2015" title="Optimale Hochverfügbarkeitsverfahren - Dezember 2015" target="_blank">Optimale Hochverfügbarkeitsverfahren - Dezember 2015</a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
 <br>
 
 #### PostgreSQL
