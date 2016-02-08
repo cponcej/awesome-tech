@@ -128,6 +128,8 @@
 - [javacodegeeks.com: Weblogic Server Administration Tutorial](http://examples.javacodegeeks.com/core-java/weblogic-server-administration-tutorial/)
 - [Automated Software Testing of Fusion Middleware applications with FlexDeploy](http://adfpractice-fedor.blogspot.com.br/2015/10/automated-software-testing-of-fusion.html)
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tUDLzhM0sgSgcp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015" title="12 Things You Should Know About WebLogic Server 12.2.1 #oow2015 " target="_blank">12 Things You Should Know About WebLogic Server 12.2.1 #oow2015 </a> </strong> from <strong><a href="//www.slideshare.net/FrankMunz1" target="_blank">Frank Munz</a></strong> </div>
+
 ## JVM Latency: Caching, Off Heap, Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)
