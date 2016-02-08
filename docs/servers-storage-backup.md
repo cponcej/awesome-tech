@@ -7,6 +7,7 @@
 	- [RAID disks](#raid-disks)
 	- [Remote PC Access](#remote-pc-access)
 	- [Storage](#storage)
+		- [LVM Logical Volume Management](#lvm-logical-volume-management)
 	- [Backup](#backup)
 
 <!-- /MarkdownTOC -->
@@ -75,6 +76,26 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/biH5xgyj1vU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
+
+### LVM Logical Volume Management
+- [RHEL6 doc: LVM Administrator Guide](https://access.redhat.com/knowledge/docs/en-US/Red_Hat_Enterprise_Linux/6/html-single/Logical_Volume_Manager_Administration/index.html)
+- [RHEL6 doc: LVM Administrator Guide](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html-single/Logical_Volume_Manager_Administration/index.html)
+- [Setup Flexible Disk Storage with Logical Volume Management (LVM) in Linux – PART 1](http://www.tecmint.com/create-lvm-storage-in-linux/)
+	- [How to Extend/Reduce LVM’s (Logical Volume Management) in Linux – Part II](http://www.tecmint.com/extend-and-reduce-lvms-in-linux/)
+	- [How to Take ‘Snapshot of Logical Volume and Restore’ in LVM – Part III](http://www.tecmint.com/take-snapshot-of-logical-volume-and-restore-in-lvm/)
+- [Logical Volume Management on Debian Linux](http://www.tecmint.com/logical-volume-management-on-debian-linux/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4o0Rxjk1cgEhUb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/plarsen67/disks-andfilesystems-51040562" title="Disks and-filesystems" target="_blank">Disks and-filesystems</a> </strong> from <strong><a href="//www.slideshare.net/plarsen67" target="_blank">plarsen67</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5IMFuE8obToyyM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/michal6103/lvm-10336503" title="Linux: LVM" target="_blank">Linux: LVM</a> </strong> from <strong><a href="//www.slideshare.net/michal6103" target="_blank">Michal Sedlak</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4BYxpR89SQwHee" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/gnunify/storage-management-using-lvm" title="Storage Management using LVM" target="_blank">Storage Management using LVM</a> </strong> from <strong><a href="//www.slideshare.net/gnunify" target="_blank">Priyank Kapadia</a></strong> </div>
 <br>
 
 ## Backup

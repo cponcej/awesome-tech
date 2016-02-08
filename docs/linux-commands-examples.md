@@ -78,7 +78,7 @@
 - Request by hour graph.
 
 		awk '{print $4}' apache_log|sort -n|cut -c1-15|uniq -c|awk '{b="";for(i=0;i<$1/10;i++){b=b"#"}; print $0 " " b;}'
-		
+
 - Want to extract files to another directory using tar command? Try 
 
 		tar xvf file.tar -C /path/to/dir
@@ -217,6 +217,10 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UvZY7bYt2Lo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/zyZZiqphwk4WEs" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/prakashrockz/red-hat-lvm-cheatsheet" title="Red hat lvm cheatsheet" target="_blank">Red hat lvm cheatsheet</a> </strong> from <strong><a href="//www.slideshare.net/prakashrockz" target="_blank">Prakash Ghosh</a></strong> </div>
 <br>
 
 [![commandlinefu 0 star](images/commandlinefu0star.png)](https://twitter.com/commandlinefu)
