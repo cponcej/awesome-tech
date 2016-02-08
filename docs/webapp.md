@@ -149,6 +149,7 @@
 - [Best Transactional Email Service Comparison](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
 - [Google Improves Gmail’s Spam Filters, Launches New Analytics Tool For Bulk Senders](http://techcrunch.com/2015/07/09/google-improves-gmails-spam-filters-launches-new-analytics-tool-for-bulk-senders/)
 - [five.sentenc.es: email productivity](http://five.sentenc.es/)
+- [Amazon’s Email And Calendaring Service, Amazon WorkMail, Exits Preview](http://techcrunch.com/2016/01/05/amazons-own-email-calendaring-service-amazon-workmail-exits-preview/)
 
 [![email service comparison](images/email_service_comparison.png)](http://socialcompare.com/en/comparison/transactional-emailing-providers-mailjet-sendgrid-critsend)
 

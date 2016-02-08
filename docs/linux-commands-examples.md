@@ -12,6 +12,22 @@
 
 # Linux Commands Examples
 
+- Edit a file on a remote server using vim from your local *nix desktop
+
+		vim scp://user@server1//etc/httpd/httpd.conf 
+
+- Find out which of your directories(below the current directory) occupy at least 1GB of space.
+
+		du -h . | grep "^[0-9\.]\+G"
+
+- Show directory size and sort by human readable amount (MB, GB, etc.). Requires GNU sort for -h option.
+
+		du -sh */ | sort -h 
+
+- Life is too short to run the same command twice.
+
+		export HISTSIZE=0 
+
 - Want to increments all numbers in input.txt? 
 
 		perl -pe 's/(\d+)/ 1 + $1 /ge' input.txt
@@ -26,6 +42,14 @@
 - Quickly find the largest 5 files in the CWD tree without crossing filesystem boundaries
 
 		find . -xdev -ls | sort -n -k 7 | tail -5
+
+- Move current year pics to 2015 directory.
+
+		find . -maxdepth 1 -daystart -type f -name '*.jpg' -mtime -$( date +%j ) -exec mv -v {} 2015/ \;
+
+- Make month histogram of dates of files in current directory.
+
+		ls -la --full-time |tr -s " " |cut -f6 -d " "|cut -c1-7 | sort | uniq -c
 
 - Want to store log of your ssh session? Try:
 		
@@ -51,6 +75,10 @@
 
 		awk '$9 == "404" {print $7}' access.log |sort|uniq -c|sort -rn| head -n 50
 
+- Request by hour graph.
+
+		awk '{print $4}' apache_log|sort -n|cut -c1-15|uniq -c|awk '{b="";for(i=0;i<$1/10;i++){b=b"#"}; print $0 " " b;}'
+		
 - Want to extract files to another directory using tar command? Try 
 
 		tar xvf file.tar -C /path/to/dir
@@ -148,6 +176,10 @@
 
 		tail -f foo.log|egrep --line-buffered --color=auto 'ERROR|WARN|$'
 
+- Random color per log line.
+
+		tail -F syslog |while read -r line;do printf "\033[38;5;%dm%s\033[0m\n" $(($RANDOM%255)) "$line";done
+
 - Instead of typing the user & group, if they are the same you can just type the user followed by a colon
 
 		chown -R www-data: * 
@@ -163,6 +195,10 @@
 - What I've done this week
 
 		git log --author=$USER --format="- %B" --since=-7days --reverse |mail -s "What I've done this week" boss@company\.com
+
+- Which days I've worked...
+
+		git log --date=short --format="%ci"|awk '{print $1}'|uniq 
 
 - I find brace expansion useful for renaming files. This cmd expands to "mv Picture.jpg Picture-of-my-cat.jpg"
 

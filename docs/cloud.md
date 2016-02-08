@@ -213,6 +213,8 @@
 - [blazemeter.com: Three Ways DevOps Benefit from AWS CodePipeline](https://blazemeter.com/blog/three-ways-devops-benefit-aws-codepipeline)
 - [AWS Partner Network - CodePipeline Integrations](https://aws.amazon.com/es/codepipeline/product-integrations/)
 
+[![learning AWS](images/Learning-AWS.png)](http://www.wowebook.org/learning-aws.html)
+
 [![devops skills](images/devops_skills.png)](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9)
 
 <div class="container">
@@ -245,6 +247,7 @@
 - [you can use Python with AWS Lambda](http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
 - [Build a Python Microservice with Amazon Web Services Lambda & API Gateway](http://www.giantflyingsaucer.com/blog/?p=5730)
 - [AWS Lambda, Echo, and the Future of Cloud Automation](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/) A fantastic blog article by Logicworks on Lambda, the coming move to serverless architecture and even the possibility of using Amazon's Echo to launch entire AWS environments by using just your voice
+- [Serverless: The Future of Software Architecture?](https://read.acloud.guru/serverless-the-future-of-software-architecture-d4473ffed864#.uk7setw47)
 
 [![AWS Lambda](images/aws_lambda.png)](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/)
 

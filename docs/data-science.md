@@ -492,6 +492,8 @@
 
 ![but why](images/but_why.gif)
 
+[![Next Generation Databases](images/Next-Generation-Databases.png)](http://www.wowebook.org/next-generation-databases-nosql-newsql-and-big-data.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qI_g07C_Q5I" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
