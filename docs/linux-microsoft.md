@@ -23,6 +23,7 @@
 		- [Linux Virtualization](#linux-virtualization)
 		- [FOSS Software](#foss-software)
 	- [Linux Performance](#linux-performance)
+		- [htop](#htop)
 		- [Glances](#glances)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
@@ -254,8 +255,6 @@
 - [tecmint.com: 20 Useful Commands of ‘Sysstat’ Utilities (mpstat, pidstat, iostat and sar) for Linux Performance Monitoring](http://www.tecmint.com/sysstat-commands-to-monitor-linux/)
 - [tecmint.com: 10 ‘free’ Commands to Check Memory Usage in Linux](http://www.tecmint.com/check-memory-usage-in-linux/)
 - [Slow System? iotop Is Your Friend](http://www.linuxjournal.com/content/slow-system-iotop-your-friend)
-- [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
-	- [Manage your Linux Box with htop](http://freedompenguin.com/articles/how-to/manage-your-linux-box-with-htop/)
 - [system activity reporter (SAR)](http://www.ibm.com/developerworks/aix/library/au-unix-perfmonsar.html)
 - [byte-unixbench: BYTE UNIX benchmark suite](https://github.com/kdlucas/byte-unixbench)
 - [mbw: Memory Bandwidth Benchmark](https://github.com/raas/mbw/)
@@ -265,7 +264,7 @@
 - [pgbench -- run a benchmark test on PostgreSQL](http://www.postgresql.org/docs/devel/static/pgbench.html)
 - [seeker: measuring disk performance in virtual machines](http://www.linuxinsight.com/how_fast_is_your_disk.html)
 - [Linux.101hacks.com: lsof Command Examples](http://linux.101hacks.com/monitoring-performance/lsof-command-examples/)
-- [nixCraft: Linux Increase The Maximum Number Of Open Files / File Descriptors (FD)](http://www.cyberciti.biz/faq/linux-increase-the-maximum-number-of-open-files/)
+- [nixCraft: Linux Increase The Maximum Number Of Open Files/File Descriptors (FD)](http://www.cyberciti.biz/faq/linux-increase-the-maximum-number-of-open-files/)
 - [rittmanmead.com: Linux cluster sysadmin — OS metric monitoring with colmux](http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/)
 - [Collecting Ubuntu Linux System Information](http://www.cyberciti.biz/hardware/collecting-ubuntu-linux-system-information/)
 - [howtoforge.com: Server Monitoring with Munin and Monit on Ubuntu 14.04 LTS](https://www.howtoforge.com/tutorial/server-monitoring-with-munin-and-monit-on-ubuntu-14-04/)
@@ -274,12 +273,21 @@
 - [How To Stress Test CPU and Memory (VM) On a Linux and Unix With Stress-ng](http://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
 	- [Forcing out kernel bugs with stress-ng](http://smackerelofopinion.blogspot.co.uk/2016/01/forcing-out-bugs-with-stress-ng.html)
 
+### htop
+- [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
+- [Manage your Linux Box with htop](http://freedompenguin.com/articles/how-to/manage-your-linux-box-with-htop/)
+
 ### Glances
 - [Glances](https://nicolargo.github.io/glances)
 - [cyberciti.biz: Linux - Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
 - [tecmint.com: Glances – An Advanced Real Time System Monitoring Tool for Linux](http://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/)
 
 [![glances ubuntu output](images/glances-ubuntu-output.png)](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZwhyLD-wquk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ## Linux Networking
 ### Networking FOSS Tools
