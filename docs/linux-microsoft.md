@@ -23,6 +23,7 @@
 		- [Linux Virtualization](#linux-virtualization)
 		- [FOSS Software](#foss-software)
 	- [Linux Performance](#linux-performance)
+		- [Glances](#glances)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
 		- [Networking CLI and settings](#networking-cli-and-settings)
@@ -247,8 +248,6 @@
 
 ## Linux Performance
 - [mylinuxsoftware.com: Linux Monitoring Software](http://www.mylinuxsoftware.com/linux_monitoring_software.html)
-- [cyberciti.biz: Linux - Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
-	- [tecmint.com: Glances – An Advanced Real Time System Monitoring Tool for Linux](http://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/)
 - [tecmint.com: Sysstat – All-in-One System Performance and Usage Activity Monitoring Tool For Linux](http://www.tecmint.com/install-sysstat-in-linux/)
 - [tecmint.com: How to Produce and Deliver System Activity Reports Using Linux Toolsets](http://www.tecmint.com/linux-performance-monitoring-and-file-system-statistics-reports/)
 - [tecmint.com: Linux Performance Monitoring with Vmstat and Iostat Commands](http://www.tecmint.com/linux-performance-monitoring-with-vmstat-and-iostat-commands/)
@@ -274,6 +273,11 @@
 - [slideshare.net: Broken Linux Performance Tools 2016](http://www.slideshare.net/brendangregg/broken-linux-performance-tools-2016)
 - [How To Stress Test CPU and Memory (VM) On a Linux and Unix With Stress-ng](http://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
 	- [Forcing out kernel bugs with stress-ng](http://smackerelofopinion.blogspot.co.uk/2016/01/forcing-out-bugs-with-stress-ng.html)
+
+### Glances
+- [Glances](https://nicolargo.github.io/glances)
+- [cyberciti.biz: Linux - Keep An Eye On Your System With Glances Monitor](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
+- [tecmint.com: Glances – An Advanced Real Time System Monitoring Tool for Linux](http://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/)
 
 [![glances ubuntu output](images/glances-ubuntu-output.png)](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
 
