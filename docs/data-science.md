@@ -216,6 +216,7 @@
 
 [![Learning IPython](images/Learning-IPython-for-Interactive-Computing-and-Data-Visualization.png)](http://www.wowebook.org/learning-ipython-for-interactive-computing-and-data-visualization.html)
 
+[![Python for Data Analysis](images/Python-for-Data-Analysis.jpg)](http://www.wowebook.org/python-for-data-analysis.html)
 
 ### Internet of things
 - [techrepublic.com: Survey: Harnessing the power of big data and IoT](http://www.techrepublic.com/article/survey-harnessing-the-power-of-big-data-and-iot/)
@@ -466,6 +467,10 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hQ0DFrgzBrFeOX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/dat209-new-launch-introducing-mariadb-on-amazon-rds" title="(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS" target="_blank">(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qvliLATuLU81dv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Severalnines/webinar-slides-replication-topology-changes-for-mysql-and-mariadb" title="Webinar slides: Replication Topology Changes for MySQL and MariaDB" target="_blank">Webinar slides: Replication Topology Changes for MySQL and MariaDB</a> </strong> from <strong><a href="//www.slideshare.net/Severalnines" target="_blank">Severalnines AB</a></strong> </div>
 <br>
 
 #### PostgreSQL
