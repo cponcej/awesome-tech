@@ -375,12 +375,23 @@
 - [Zabbix for Beginners webinar](https://www.youtube.com/watch?v=uqFaz2HyxVM)
 - [Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?](https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/)
 - [Reddit: First beta of Zabbix 3.0](https://www.reddit.com/r/sysadmin/comments/41v20r/first_beta_of_zabbix_30/)
+- [Zabbix Share: New & updated Zabbix templates for Checkpoint, Cisco and Palo Alto devices. Monitoring of Microsoft WSUS & more](https://share.zabbix.com)
 
 ### Prometheus
 - [prometheus.io](http://prometheus.io/) An open-source service monitoring system and time series database
 - [How To Install Prometheus using Docker on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-ubuntu-14-04)
 
+[![share zabbix](images/share_zabbix.png)](https://share.zabbix.com/)
+
 [![zabbix cookbook](images/zabbix-cookbook.jpg)](https://www.zabbix.com/documentation/3.0/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/90LdTg7tcBMxaF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Zabbix/zabbix-30-and-beyond-fisl-2015-zabbix-30-and-beyond" title="Zabbix 3.0 and beyond - FISL 2015" target="_blank">Zabbix 3.0 and beyond - FISL 2015</a> </strong> from <strong><a href="//www.slideshare.net/Zabbix" target="_blank">Zabbix</a></strong> </div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GW7SDmD8Bsn5Cv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Zabbix/alexei-vladishev-opening-speech" title="Alexei Vladishev - Opening Speech" target="_blank">Alexei Vladishev - Opening Speech</a> </strong> from <strong><a href="//www.slideshare.net/Zabbix" target="_blank">Zabbix</a></strong> </div>
+<br>
 
 ### Monitoring of JavaEE applications
 - [javamelody](https://github.com/javamelody)
