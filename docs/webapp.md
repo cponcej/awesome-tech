@@ -54,6 +54,10 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/gYWUVIcqW40OUn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mainstreethost/http-status-codes-cheat-sheet" title="HTTP Status Codes Cheat Sheet: An Exhaustive List" target="_blank">HTTP Status Codes Cheat Sheet: An Exhaustive List</a> </strong> from <strong><a href="//www.slideshare.net/mainstreethost" target="_blank">Mainstreethost</a></strong> </div>
 <br>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/b464gJiNJcsCuT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AdelaRoger/http-status-code-errors-in-seo" title="Http Status Code Errors in SEO" target="_blank">Http Status Code Errors in SEO</a> </strong> from <strong><a href="//www.slideshare.net/AdelaRoger" target="_blank">Adela Roger</a></strong> </div>
+<br>
+
 ## HTTPS and HSTS
 - [letsencrypt.org free ssl](https://letsencrypt.org) Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
 - [Enabling HTTPS Without Sacrificing Your Web Performance](http://moz.com/blog/enabling-https-without-sacrificing-web-performance)
