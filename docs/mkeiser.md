@@ -171,6 +171,8 @@ Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 	- [El precariado: una nueva clase social (E791)](https://youtu.be/8cdPD71jZjM) El fenómeno supera todas la fronteras geográficas
 	- [La maldita deuda (E792)](https://youtu.be/M89qDw1p2lQ)
 	- [Volver a la norma del oro (E796)](https://youtu.be/cnfEC4PF23U)
+	- [Días de rabia (E816)](https://youtu.be/nHSPva8eTC0)
+	- [El páramo de los mercados financieros (E817)](https://youtu.be/xaJ8rClIjOs)
 	- [Todos a endeudarse! (E818)](https://youtu.be/875-LANXBeg)
 	- [Guerra contra la pobreza y políticos marioneta (E823)](https://youtu.be/4CmZaGTEZnc)
 	- [El control de la riqueza mundial (E824)](https://youtu.be/FcIL2k0LuyY)
