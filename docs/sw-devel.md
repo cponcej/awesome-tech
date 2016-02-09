@@ -54,8 +54,9 @@
 		- [JSON](#json)
 		- [Mozilla Tools](#mozilla-tools)
 	- [QA. Software Testing](#qa-software-testing)
-		- [Selenium on Twitter](#selenium-on-twitter)
-		- [Arquillian Testing Platform](#arquillian-testing-platform)
+		- [Selenium](#selenium)
+			- [Selenium on Twitter](#selenium-on-twitter)
+			- [Arquillian Testing Platform](#arquillian-testing-platform)
 
 <!-- /MarkdownTOC -->
 
@@ -570,8 +571,6 @@
 ## QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
-- [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
-- [selenium 2.49.0 released: Python bindings for Selenium](https://pypi.python.org/pypi/selenium/2.49.0)
 - [TestNG: Run tests sequentially with @DataProvider inside one test class](http://www.javacodegeeks.com/2014/01/testng-run-tests-sequentially-with-dataprovider-inside-one-test-class.html)
 - [thenewstack.io: How Vagrant Eases Software Research and Testing](http://thenewstack.io/vagrant-developers-researchers/)
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
@@ -592,6 +591,11 @@
 	- [runscope.com](https://www.runscope.com/)
 - [Why Automated Testing is the key to rapid product development](https://nothingventured.rocks/why-automated-testing-is-the-key-to-rapid-product-development-e8b0a3d3040)
 
+### Selenium
+- [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
+- [selenium 2.49.0 released: Python bindings for Selenium](https://pypi.python.org/pypi/selenium/2.49.0)
+- [slideshare: Selenium Tips & Tricks](http://www.slideshare.net/tourdedave/selenium-tips-tricks)
+
 #### Selenium on Twitter
 - [twitter.com/SeleniumHQ](https://twitter.com/SeleniumHQ)
 - [twitter.com/saucelabs](https://twitter.com/saucelabs)
@@ -611,10 +615,6 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/cTKwjMmxpspx8i" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tourdedave/how-to-use-selenium-successfully-java-edition" title="How To Use Selenium Successfully (Java Edition)" target="_blank">How To Use Selenium Successfully (Java Edition)</a> </strong> from <strong><a href="//www.slideshare.net/tourdedave" target="_blank">Dave Haeffner</a></strong> </div>
-<br>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/1DkWQt3oVffq9u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tourdedave/selenium-tips-tricks" title="Selenium Tips &amp; Tricks" target="_blank">Selenium Tips &amp; Tricks</a> </strong> from <strong><a href="//www.slideshare.net/tourdedave" target="_blank">Dave Haeffner</a></strong> </div>
 <br>
 
 [![selenium, qtp Job Trends](images/indeed_selenium_qtp_trends.png)](http://www.indeed.com/jobtrends/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
