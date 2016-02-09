@@ -50,6 +50,7 @@
 - [securityzap.com](http://securityzap.com/)
 - [Dark Reading](http://www.darkreading.com/)
 - [Red Hat Security](https://securityblog.redhat.com)
+- [hackershandbook.org](http://www.hackershandbook.org)
 - [Hacker News](https://news.ycombinator.com/)
 - [Guido Vranken](https://guidovranken.wordpress.com/)
 - [seancassidy.me](https://www.seancassidy.me)
@@ -210,6 +211,13 @@
 - [ZDNet: LastPass phishing attack avoids two-factor authentication in data theft](http://www.zdnet.com/article/lastpass-phishing-attack-avoids-two-factor-authentication-to-steal-your-data/) The exploited security flaw is severe enough that successful attacks compromise two-factor authentication codes.
 
 ### SQL injection
+- [Wikipedia: SQL injection](https://en.wikipedia.org/wiki/SQL_injection)
+- [blog.checkpoint.com: The Latest SQL Injection Trends](http://blog.checkpoint.com/2015/05/07/latest-sql-injection-trends/)
+- [Joomla SQL Injection Attacks in the Wild](https://blog.sucuri.net/2015/10/joomla-sql-injection-attacks-in-the-wild.html)
+- [The history of SQL Injection, the hack that will never go away](http://motherboard.vice.com/read/the-history-of-sql-injection-the-hack-that-will-never-go-away)
+- [kalitutorials.net: SQL Injection : How It Works](http://www.kalitutorials.net/2014/03/sql-injection-how-it-works.html)
+- [kalitutorials.net: Blind SQL Injection](http://www.kalitutorials.net/2015/02/blind-sql-injection.html)
+- [hackershandbook.org: SQL injection](http://www.hackershandbook.org/tutorials/sqlinjection)
 - [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
 
 ### Heartbleed
