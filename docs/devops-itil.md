@@ -237,7 +237,10 @@
 
 [![visualizations continuous delivery](images/visualizations_continuous_delivery.png)](http://continuousdelivery.com/2014/02/visualizations-of-continuous-delivery/)
 
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoMfbgF2D_4" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 #### CI Jenkins, Travis
 - [jenkins-ci.org](https://jenkins-ci.org)
