@@ -179,6 +179,7 @@ Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 	- [Banqueros centrales, secretarios del Tesoro y otros mentirosos (E825)](https://youtu.be/YPEq8_ygWh8)
 	- [El fin del capitalismo (E828)](https://youtu.be/IIcIPz4wpCU)
 	- [Misterio y magia en los mercados financieros (E833)](https://youtu.be/dekXrmppTUg)
+	- [Mentiras, evasivas, disparates, odios y esquizofrenia (E839)](https://youtu.be/yWoeZsZdaxs)
 	- [Época de recesiones (E840)](https://youtu.be/esnj2lfr4zA)
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
 - [Ser informático ya no es lo que era](http://www.readwriteweb.es/ser-informatico/)
