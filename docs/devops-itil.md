@@ -372,7 +372,7 @@
 - [pingdom.com webiste monitoring](https://www.pingdom.com/)
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3fqzFJxvNtcpmL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/postwait/devops-monitoring" title="Monitoring the #DevOps way" target="_blank">Monitoring the #DevOps way</a> </strong> from <strong><a href="//www.slideshare.net/postwait" target="_blank">Theo Schlossnagle</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3fqzFJxvNtcpmL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/postwait/devops-monitoring" title="Monitoring the #DevOps way" target="_blank">Monitoring the #DevOps way</a> </strong> from <strong><a href="//www.slideshare.net/postwait" target="_blank">Theo Schlossnagle</a></strong> </div>
 
 ### Zabbix
 - [tecmint.com: Installing and Configuring Zabbix 2.4.5 on Debian 8 and RHEL/CentOS 7](http://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/)
@@ -390,11 +390,9 @@
 
 [![zabbix cookbook](images/zabbix-cookbook.jpg)](https://www.zabbix.com/documentation/3.0/)
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/90LdTg7tcBMxaF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Zabbix/zabbix-30-and-beyond-fisl-2015-zabbix-30-and-beyond" title="Zabbix 3.0 and beyond - FISL 2015" target="_blank">Zabbix 3.0 and beyond - FISL 2015</a> </strong> from <strong><a href="//www.slideshare.net/Zabbix" target="_blank">Zabbix</a></strong> </div><br/>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/90LdTg7tcBMxaF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Zabbix/zabbix-30-and-beyond-fisl-2015-zabbix-30-and-beyond" title="Zabbix 3.0 and beyond - FISL 2015" target="_blank">Zabbix 3.0 and beyond - FISL 2015</a> </strong> from <strong><a href="//www.slideshare.net/Zabbix" target="_blank">Zabbix</a></strong> 
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/GW7SDmD8Bsn5Cv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Zabbix/alexei-vladishev-opening-speech" title="Alexei Vladishev - Opening Speech" target="_blank">Alexei Vladishev - Opening Speech</a> </strong> from <strong><a href="//www.slideshare.net/Zabbix" target="_blank">Zabbix</a></strong> </div><br/>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GW7SDmD8Bsn5Cv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Zabbix/alexei-vladishev-opening-speech" title="Alexei Vladishev - Opening Speech" target="_blank">Alexei Vladishev - Opening Speech</a> </strong> from <strong><a href="//www.slideshare.net/Zabbix" target="_blank">Zabbix</a></strong>
 
 ### Monitoring of JavaEE applications
 - [javamelody](https://github.com/javamelody)
@@ -437,11 +435,13 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J5tzI-8k__Q" frameborder="0" allowfullscreen class="video"></iframe>
-</div><br/>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Mg0UtzYql4" frameborder="0" allowfullscreen class="video"></iframe>
-</div><br/>
+</div>
+<br/>
 
 [![newrelic apm](images/newrelic-apm.png)](https://youtu.be/J5tzI-8k__Q)
 
@@ -476,7 +476,8 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J3ai0cDOAkY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div><br/>
+</div>
+<br/>
 
 # ITIL
 ## Is DevOps replacing ITIL?
