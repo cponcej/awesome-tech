@@ -22,6 +22,7 @@
 - [CityAM Tech](http://www.cityam.com/news/tech)
 - [Forbes Tech](http://www.forbes.com/technology/)
 - [techcrunch.com](http://techcrunch.com/)
+- [The enterprisers project](https://enterprisersproject.com/) Sponsored By Red Hat
 - [techrepublic.com](http://www.techrepublic.com/)
 - [eWeek.com](http://www.eweek.com)
 - [ars technica](http://arstechnica.com/)
@@ -29,7 +30,6 @@
 - [BBC Research & Development](http://www.bbc.co.uk/rd)
 - [Network World](http://www.networkworld.com/)
 - [GeekWire](http://www.geekwire.com/)
-- [The enterprisers project](https://enterprisersproject.com/)
 - [enterprisetech.com](http://www.enterprisetech.com/)
 - [Digitalist magazine](http://www.digitalistmag.com/)
 - [Triplebyte. Building a better hiring process for engineers](https://data.triplebyte.com/)
