@@ -131,6 +131,11 @@
 
 [![red hat cloud strategy blog](images/redhat_cloudstrategy_blog.png)](http://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/AcCT6LfBvwE9w7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AnimeshSingh/caps-whats-best-for-deploying-and-managing-openstack-chef-vs-ansible-vs-puppet-vs-salt-57941706" title="CAPS: What&#x27;s best for deploying and managing OpenStack? Chef vs. Ansible vs. Puppet vs. Salt" target="_blank">CAPS: What&#x27;s best for deploying and managing OpenStack? Chef vs. Ansible vs. Puppet vs. Salt</a> </strong> from <strong><a href="//www.slideshare.net/AnimeshSingh" target="_blank">Animesh Singh</a></strong> </div>
+</div>
+<br/>
+
 ## Red Hat Cluster
 - [Wikipedia: Red Hat Cluster Suite](https://en.wikipedia.org/wiki/Red_Hat_cluster_suite)
 - [Slideshare: Red Hat GFS](http://www.slideshare.net/manojsinghdhn/rhel-cluster-basics-2)
