@@ -144,7 +144,7 @@
 - [reddit: How does one learn to do vlans](https://www.reddit.com/r/homelab/comments/3bew99/how_does_one_learn_to_do_vlans/)
 - [reddit: Does dividing traffic onto different VLANs implicitly assume a different network for each VLAN?](https://www.reddit.com/r/networking/comments/1s36w9/does_dividing_traffic_onto_different_vlans/)
 - [reddit: VLAN iSCSI networks](https://www.reddit.com/r/networking/comments/36evvc/vlan_iscsi_networks/)
-- [Does a Trunk Port have to part of a VLAN?](https://www.reddit.com/r/networking/comments/3h8iwm/does_a_trunk_port_have_to_part_of_a_vlan/)
+- [reddit: Does a Trunk Port have to part of a VLAN?](https://www.reddit.com/r/networking/comments/3h8iwm/does_a_trunk_port_have_to_part_of_a_vlan/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GiGqRy5zgCM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
