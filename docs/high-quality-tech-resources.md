@@ -339,6 +339,7 @@
 
 ## TLDP.org The Linux Documentation Project
 - [tldp.org](http://tldp.org/)
+- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/index.html) An in-depth exploration of the art of shell scripting
 
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 
