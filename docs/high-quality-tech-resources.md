@@ -17,6 +17,7 @@
 		- [Devops Podcasts](#devops-podcasts)
 			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
 		- [Spanish podcasts](#spanish-podcasts)
+	- [TLDP.org The Linux Documentation Project](#tldporg-the-linux-documentation-project)
 	- [Wikibooks](#wikibooks)
 	- [Webcomics](#webcomics)
 	- [Reactions. When words aren't enough, say it with animations](#reactions-when-words-arent-enough-say-it-with-animations)
@@ -335,6 +336,9 @@
 - [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
 
 [![we developers](images/we_developers.png)](http://wedevelopers.com)
+
+## TLDP.org The Linux Documentation Project
+- [tldp.org](http://tldp.org/)
 
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 
