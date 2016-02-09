@@ -15,7 +15,7 @@
 - Make your prompt safer with # so that if you accidentally copy & paste it, it doesn't run.
 
 		PS1="# $PS1"
-		
+
 - Edit a file on a remote server using vim from your local *nix desktop
 
 		vim scp://user@server1//etc/httpd/httpd.conf 
@@ -27,6 +27,10 @@
 - Show directory size and sort by human readable amount (MB, GB, etc.). Requires GNU sort for -h option.
 
 		du -sh */ | sort -h 
+
+- Print disk space used on all ext3 or 4 FS in GiB.
+
+		df -Pl -t ext3 -t ext4 | tail -n+2 | awk '{ sum+=$3 } END { print sum/2**20 }'
 
 - Life is too short to run the same command twice.
 
@@ -91,6 +95,10 @@
 
 		tar xvf file.tar -C /path/to/dir
 
+- Compress files with xz in PWD according to size, starting with smallest.
+
+		ls -Sr1 | while IFS=$'\n' read -r file; do xz "$file"; done
+		
 - Want to see your FreeBSD server cpu temperature? Try:
 
 		sysctl -a |grep temper
