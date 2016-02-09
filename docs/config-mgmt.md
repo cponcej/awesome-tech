@@ -135,12 +135,13 @@
 <br>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/6A2PXrsC6JbvmH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Flux7Labs/provisioning-using-ansible-in-aws" title="Provisioning using Ansible in AWS" target="_blank">Provisioning using Ansible in AWS</a> </strong> from <strong><a href="//www.slideshare.net/Flux7Labs" target="_blank">Flux7 </a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6A2PXrsC6JbvmH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Flux7Labs/provisioning-using-ansible-in-aws" title="Provisioning using Ansible in AWS" target="_blank">Provisioning using Ansible in AWS</a> </strong> from <strong><a href="//www.slideshare.net/Flux7Labs" target="_blank">Flux7 </a></strong> </div>
+</div>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/sy7ybpuwqkRbdH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jtyr/automation-and-ansible" title="Automation and Ansible" target="_blank">Automation and Ansible</a> </strong> from <strong><a href="//www.slideshare.net/jtyr" target="_blank">jtyr</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sy7ybpuwqkRbdH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jtyr/automation-and-ansible" title="Automation and Ansible" target="_blank">Automation and Ansible</a> </strong> from <strong><a href="//www.slideshare.net/jtyr" target="_blank">jtyr</a></strong> </div>
+</div>
+
 
 ### Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
@@ -358,13 +359,13 @@
 [![Docker toolbox jenkins](images/docker_toolbox_jenkins.png)](https://www.docker.com/docker-toolbox)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2QFbK1HJKdU7it" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yonghweekim/docker-toolbox" title="Docker toolbox" target="_blank">Docker toolbox</a> </strong> from <strong><a href="//www.slideshare.net/yonghweekim" target="_blank">Yonghwee Kim</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2QFbK1HJKdU7it" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yonghweekim/docker-toolbox" title="Docker toolbox" target="_blank">Docker toolbox</a> </strong> from <strong><a href="//www.slideshare.net/yonghweekim" target="_blank">Yonghwee Kim</a></strong> </div>
+</div>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0BmWDysy9RY" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br>
+<br/>
 
 ### MySQL via Docker
 - [MySQL 5.7 Docker images](http://mysqlrelease.com/2015/12/update-from-dockerland-fruitful-collaboration-and-some-security-news/)
