@@ -87,11 +87,6 @@
 [![Dell SonicWall TZ500 Management Monitor](images/Dell-SonicWall-TZ500-Management-Monitor.png)](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/on2f0BZaNi4?list=PLlLDGbMf9B8MvwgHg8bJC0QDewDz_inPy" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/osRrBcI1DzI?list=PLlLDGbMf9B8MvwgHg8bJC0QDewDz_inPy" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>

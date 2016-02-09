@@ -132,7 +132,9 @@
 [![red hat cloud strategy blog](images/redhat_cloudstrategy_blog.png)](http://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/)
 
 ## Red Hat Cluster
-- [Red Hat Cluster Suite](https://en.wikipedia.org/wiki/Red_Hat_cluster_suite)
+- [Wikipedia: Red Hat Cluster Suite](https://en.wikipedia.org/wiki/Red_Hat_cluster_suite)
+- [Slideshare: Red Hat GFS](http://www.slideshare.net/manojsinghdhn/rhel-cluster-basics-2)
+- [Slideshare: Cluster Administration Tools](http://www.slideshare.net/manojsinghdhn/rhel-cluster-basics-3)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/5AGF4tmnY7ccT9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/red-hat-cluster-suite-demo-linux-cluster-introduction-basics" title="Red hat Cluster suite Demo | Linux Cluster Introduction | Basics" target="_blank">Red hat Cluster suite Demo | Linux Cluster Introduction | Basics</a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
@@ -140,14 +142,6 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/8vvS2zzpt24snJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/manojsinghdhn/rhel-cluster-basics-1-44632468" title="Rhel cluster basics 1" target="_blank">Rhel cluster basics 1</a> </strong> from <strong><a href="//www.slideshare.net/manojsinghdhn" target="_blank">Manoj Singh</a></strong> </div>
-<br>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3TtTe2Hmb608fb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/manojsinghdhn/rhel-cluster-basics-2" title="Rhel cluster basics 2" target="_blank">Rhel cluster basics 2</a> </strong> from <strong><a href="//www.slideshare.net/manojsinghdhn" target="_blank">Manoj Singh</a></strong>
-<br>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/4kGrXSDofnpFRc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/manojsinghdhn/rhel-cluster-basics-3" title="Rhel cluster basics 3" target="_blank">Rhel cluster basics 3</a> </strong> from <strong><a href="//www.slideshare.net/manojsinghdhn" target="_blank">Manoj Singh</a></strong>
 <br>
 
 ## Red Hat Storage
