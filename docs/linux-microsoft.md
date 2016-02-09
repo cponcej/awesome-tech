@@ -229,6 +229,11 @@
 - [Hawk: Haskell text processor for the command-line](https://github.com/gelisam/hawk)
 - [Hwk: A Haskell based awk and sed alternative](https://github.com/lukasmartinelli/hwk)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9OjHYI1AZXVGAf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EricWilson4/unix-commandline-tools" title="Unix command-line tools" target="_blank">Unix command-line tools</a> </strong> from <strong><a href="//www.slideshare.net/EricWilson4" target="_blank">Eric Wilson</a></strong> </div>
+</div>
+<br/>
+
 ### Linux Terminals
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)
 - [Pymux: A terminal multiplexer (like tmux) in Python](https://github.com/jonathanslenders/pymux)
@@ -290,7 +295,12 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZwhyLD-wquk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8F5OO2XVQUiemO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/brendangregg/broken-linux-performance-tools-2016" title="Broken Linux Performance Tools 2016" target="_blank">Broken Linux Performance Tools 2016</a> </strong> from <strong><a href="//www.slideshare.net/brendangregg" target="_blank">Brendan Gregg</a></strong> </div>
+</div>
+<br/>
 
 ## Linux Networking
 ### Networking FOSS Tools

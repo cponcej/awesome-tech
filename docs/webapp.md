@@ -47,16 +47,19 @@
 <br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/t9iH0GHtiPuf6q" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lmacvittie/http2-changes-everything" title="HTTP/2 Changes Everything" target="_blank">HTTP/2 Changes Everything</a> </strong> from <strong><a href="//www.slideshare.net/lmacvittie" target="_blank">Lori MacVittie</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/t9iH0GHtiPuf6q" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lmacvittie/http2-changes-everything" title="HTTP/2 Changes Everything" target="_blank">HTTP/2 Changes Everything</a> </strong> from <strong><a href="//www.slideshare.net/lmacvittie" target="_blank">Lori MacVittie</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/gYWUVIcqW40OUn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mainstreethost/http-status-codes-cheat-sheet" title="HTTP Status Codes Cheat Sheet: An Exhaustive List" target="_blank">HTTP Status Codes Cheat Sheet: An Exhaustive List</a> </strong> from <strong><a href="//www.slideshare.net/mainstreethost" target="_blank">Mainstreethost</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gYWUVIcqW40OUn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mainstreethost/http-status-codes-cheat-sheet" title="HTTP Status Codes Cheat Sheet: An Exhaustive List" target="_blank">HTTP Status Codes Cheat Sheet: An Exhaustive List</a> </strong> from <strong><a href="//www.slideshare.net/mainstreethost" target="_blank">Mainstreethost</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/b464gJiNJcsCuT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AdelaRoger/http-status-code-errors-in-seo" title="Http Status Code Errors in SEO" target="_blank">Http Status Code Errors in SEO</a> </strong> from <strong><a href="//www.slideshare.net/AdelaRoger" target="_blank">Adela Roger</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/b464gJiNJcsCuT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AdelaRoger/http-status-code-errors-in-seo" title="Http Status Code Errors in SEO" target="_blank">Http Status Code Errors in SEO</a> </strong> from <strong><a href="//www.slideshare.net/AdelaRoger" target="_blank">Adela Roger</a></strong> </div>
+</div> 
+<br/>
 
 ## HTTPS and HSTS
 - [letsencrypt.org free ssl](https://letsencrypt.org) Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
@@ -70,24 +73,29 @@
 - [HTTP Strict Transport Security (HSTS)](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is a web security policy mechanism which helps to protect websites against protocol downgrade attacks and cookie hijacking.
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/KDYbKY2sFxwXCF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/guypod/https-what-why-and-how-smashingconf-freiburg-sep-2015" title="HTTPS: What, Why and How (SmashingConf Freiburg, Sep 2015)" target="_blank">HTTPS: What, Why and How (SmashingConf Freiburg, Sep 2015)</a> </strong> from <strong><a href="//www.slideshare.net/guypod" target="_blank">Guy Podjarny</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KDYbKY2sFxwXCF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/guypod/https-what-why-and-how-smashingconf-freiburg-sep-2015" title="HTTPS: What, Why and How (SmashingConf Freiburg, Sep 2015)" target="_blank">HTTPS: What, Why and How (SmashingConf Freiburg, Sep 2015)</a> </strong> from <strong><a href="//www.slideshare.net/guypod" target="_blank">Guy Podjarny</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/JqlrXhJX6hs9sc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/annadeepcrawl/brighton-seo-sep-2015-https-mark-thomas" title="BrightonSEO Sep 2015 - HTTPS | Mark Thomas " target="_blank">BrightonSEO Sep 2015 - HTTPS | Mark Thomas </a> </strong> from <strong><a href="//www.slideshare.net/annadeepcrawl" target="_blank">DeepCrawl Media</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JqlrXhJX6hs9sc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/annadeepcrawl/brighton-seo-sep-2015-https-mark-thomas" title="BrightonSEO Sep 2015 - HTTPS | Mark Thomas " target="_blank">BrightonSEO Sep 2015 - HTTPS | Mark Thomas </a> </strong> from <strong><a href="//www.slideshare.net/annadeepcrawl" target="_blank">DeepCrawl Media</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/7eSs5BnQG2bmhH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fmarier/security-and-privacy-on-the-web-in-2015" title="Security and Privacy on the Web in 2015" target="_blank">Security and Privacy on the Web in 2015</a> </strong> from <strong><a href="//www.slideshare.net/fmarier" target="_blank">Francois Marier</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/7eSs5BnQG2bmhH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fmarier/security-and-privacy-on-the-web-in-2015" title="Security and Privacy on the Web in 2015" target="_blank">Security and Privacy on the Web in 2015</a> </strong> from <strong><a href="//www.slideshare.net/fmarier" target="_blank">Francois Marier</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hKWr4WgNbSPYYV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NicholasSullivan/nginx-https-101-the-basics-getting-started" title="NGINX + HTTPS 101: The basics &amp; getting started" target="_blank">NGINX + HTTPS 101: The basics &amp; getting started</a> </strong> from <strong><a href="//www.slideshare.net/NicholasSullivan" target="_blank">Nick Sullivan</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hKWr4WgNbSPYYV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NicholasSullivan/nginx-https-101-the-basics-getting-started" title="NGINX + HTTPS 101: The basics &amp; getting started" target="_blank">NGINX + HTTPS 101: The basics &amp; getting started</a> </strong> from <strong><a href="//www.slideshare.net/NicholasSullivan" target="_blank">Nick Sullivan</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/1SyYpyOmgQTLv8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ColdFusionConference/csp-and-http-headers" title="Csp and http headers" target="_blank">Csp and http headers</a> </strong> from <strong><a href="//www.slideshare.net/ColdFusionConference" target="_blank">ColdFusionConference</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1SyYpyOmgQTLv8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ColdFusionConference/csp-and-http-headers" title="Csp and http headers" target="_blank">Csp and http headers</a> </strong> from <strong><a href="//www.slideshare.net/ColdFusionConference" target="_blank">ColdFusionConference</a></strong> </div>
+</div> 
+<br/>
 
 ### SSL Server Test
 - [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest)
@@ -96,8 +104,9 @@
 [![letsencrypt](images/letsencrypt.png)](https://letsencrypt.org)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2W5PXYTutNuCfK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wkandek/unsafe-ssl-compact" title="Unsafe SSL webinar" target="_blank">Unsafe SSL webinar</a> </strong> from <strong><a href="//www.slideshare.net/wkandek" target="_blank">Wolfgang Kandek</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2W5PXYTutNuCfK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wkandek/unsafe-ssl-compact" title="Unsafe SSL webinar" target="_blank">Unsafe SSL webinar</a> </strong> from <strong><a href="//www.slideshare.net/wkandek" target="_blank">Wolfgang Kandek</a></strong> </div>
+</div>
+<br/>
 
 ## WebSockets
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
@@ -105,28 +114,33 @@
 - [SPDY and WebSocket Support at Akamai](https://blogs.akamai.com/2012/07/spdy-and-websocket-support-at-akamai.html)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/dGwSJnsiEBOLQF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkRoden/websockets-pushing-the-web-forward" title="Websockets: Pushing the web forward" target="_blank">Websockets: Pushing the web forward</a> </strong> from <strong><a href="//www.slideshare.net/MarkRoden" target="_blank">Mark Roden</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dGwSJnsiEBOLQF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkRoden/websockets-pushing-the-web-forward" title="Websockets: Pushing the web forward" target="_blank">Websockets: Pushing the web forward</a> </strong> from <strong><a href="//www.slideshare.net/MarkRoden" target="_blank">Mark Roden</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/J3GFdDQf8wm4fW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ramisayar/state-of-web-sockets" title="The State of WebSockets in Django" target="_blank">The State of WebSockets in Django</a> </strong> from <strong><a href="//www.slideshare.net/ramisayar" target="_blank">Rami Sayar</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/J3GFdDQf8wm4fW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ramisayar/state-of-web-sockets" title="The State of WebSockets in Django" target="_blank">The State of WebSockets in Django</a> </strong> from <strong><a href="//www.slideshare.net/ramisayar" target="_blank">Rami Sayar</a></strong> </div>
+</div>
+<br/>
 
 ## Enterprise Search Platforms
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 - [javacodegeeks.com: Apache Lucene Fundamentals Tutorial](http://www.javacodegeeks.com/2015/09/apache-lucene-fundamentals.html)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/MBkpsrtRagSGKu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sematext/running-highperformance-and-fault-tolerant-elasticsearch-clusters-on-docker" title="Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker" target="_blank">Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker</a> </strong> from <strong><a href="//www.slideshare.net/sematext" target="_blank">Sematext Group, Inc. </a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MBkpsrtRagSGKu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sematext/running-highperformance-and-fault-tolerant-elasticsearch-clusters-on-docker" title="Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker" target="_blank">Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker</a> </strong> from <strong><a href="//www.slideshare.net/sematext" target="_blank">Sematext Group, Inc. </a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/qSI2XvynhYU2MK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/prajalkulkarni/attack-monitoring-using-elasticsearch-logstash-and-kibana" title="Attack monitoring using ElasticSearch Logstash and Kibana" target="_blank">Attack monitoring using ElasticSearch Logstash and Kibana</a> </strong> from <strong><a href="//www.slideshare.net/prajalkulkarni" target="_blank">Prajal Kulkarni</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qSI2XvynhYU2MK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/prajalkulkarni/attack-monitoring-using-elasticsearch-logstash-and-kibana" title="Attack monitoring using ElasticSearch Logstash and Kibana" target="_blank">Attack monitoring using ElasticSearch Logstash and Kibana</a> </strong> from <strong><a href="//www.slideshare.net/prajalkulkarni" target="_blank">Prajal Kulkarni</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/464TyWARPmjno8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazeeAG/2014-0422-loggingwithlogstashbastianwidmercampusbern" title="Logging with Elasticsearch, Logstash &amp; Kibana" target="_blank">Logging with Elasticsearch, Logstash &amp; Kibana</a> </strong> from <strong><a href="//www.slideshare.net/AmazeeAG" target="_blank">Amazee Labs</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/464TyWARPmjno8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazeeAG/2014-0422-loggingwithlogstashbastianwidmercampusbern" title="Logging with Elasticsearch, Logstash &amp; Kibana" target="_blank">Logging with Elasticsearch, Logstash &amp; Kibana</a> </strong> from <strong><a href="//www.slideshare.net/AmazeeAG" target="_blank">Amazee Labs</a></strong> </div>
+</div> 
+<br/>
 
 ## HAProxy
 - [HAProxy](http://www.haproxy.org)
@@ -149,12 +163,14 @@
 	- [dzone: Scaling Web Applications with NGINX – Part II: Caching and Monitoring](https://dzone.com/articles/scaling-web-applications-with-nginx-part-ii-cachin)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/Mu2STrGXh1IB86" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tuxtoti/nginx-tips-and-tricks-13087831" title="Nginx - Tips and Tricks." target="_blank">Nginx - Tips and Tricks.</a> </strong> from <strong><a href="//www.slideshare.net/tuxtoti" target="_blank">Harish S</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Mu2STrGXh1IB86" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tuxtoti/nginx-tips-and-tricks-13087831" title="Nginx - Tips and Tricks." target="_blank">Nginx - Tips and Tricks.</a> </strong> from <strong><a href="//www.slideshare.net/tuxtoti" target="_blank">Harish S</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wC5wngKnh2iydS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Nginx/nginx-highperformance-caching" title="NGINX High-performance Caching" target="_blank">NGINX High-performance Caching</a> </strong> from <strong><a href="//www.slideshare.net/Nginx" target="_blank">NGINX, Inc.</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wC5wngKnh2iydS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Nginx/nginx-highperformance-caching" title="NGINX High-performance Caching" target="_blank">NGINX High-performance Caching</a> </strong> from <strong><a href="//www.slideshare.net/Nginx" target="_blank">NGINX, Inc.</a></strong> </div>
+</div>
+<br/>
 
 ## GlassFish
 - [twitter.com/glassfish](https://twitter.com/glassfish)
@@ -193,8 +209,9 @@
 - [Automated Software Testing of Fusion Middleware applications with FlexDeploy](http://adfpractice-fedor.blogspot.com.br/2015/10/automated-software-testing-of-fusion.html)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/tUDLzhM0sgSgcp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015" title="12 Things You Should Know About WebLogic Server 12.2.1 #oow2015 " target="_blank">12 Things You Should Know About WebLogic Server 12.2.1 #oow2015 </a> </strong> from <strong><a href="//www.slideshare.net/FrankMunz1" target="_blank">Frank Munz</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tUDLzhM0sgSgcp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015" title="12 Things You Should Know About WebLogic Server 12.2.1 #oow2015 " target="_blank">12 Things You Should Know About WebLogic Server 12.2.1 #oow2015 </a> </strong> from <strong><a href="//www.slideshare.net/FrankMunz1" target="_blank">Frank Munz</a></strong> </div>
+</div>
+<br/>
 
 ## JVM Latency: Caching, Off Heap, Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
@@ -213,8 +230,9 @@
 - [middlewaresnippets.blogspot.com - Monitoring with JMX](http://middlewaresnippets.blogspot.com/2014/10/monitoring-with-jmx.html)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/n2WeaBLq1lzQcN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ihji/jvm-garbage-collection-tuning" title="JVM Garbage Collection Tuning" target="_blank">JVM Garbage Collection Tuning</a> </strong> from <strong><a href="//www.slideshare.net/ihji" target="_blank">ihji</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/n2WeaBLq1lzQcN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ihji/jvm-garbage-collection-tuning" title="JVM Garbage Collection Tuning" target="_blank">JVM Garbage Collection Tuning</a> </strong> from <strong><a href="//www.slideshare.net/ihji" target="_blank">ihji</a></strong> </div>
+</div>
+<br/>
 
 ## E-Mail
 - [tech-faq.com: How Does the Email System Work?](http://www.tech-faq.com/how-the-email-system-works.html)
@@ -242,11 +260,13 @@
 - [Simple job queue in Bash using a FIFO](http://blog.garage-coding.com/2016/02/05/bash-fifo-jobqueue.html)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/egsQRPlbfRcgTt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PovilasBalzaravicius/reducing-load-with-rabbitmq" title="Reducing load with RabbitMQ" target="_blank">Reducing load with RabbitMQ</a> </strong> from <strong><a href="//www.slideshare.net/PovilasBalzaravicius" target="_blank">Povilas Balzaravičius</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/egsQRPlbfRcgTt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PovilasBalzaravicius/reducing-load-with-rabbitmq" title="Reducing load with RabbitMQ" target="_blank">Reducing load with RabbitMQ</a> </strong> from <strong><a href="//www.slideshare.net/PovilasBalzaravicius" target="_blank">Povilas Balzaravičius</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/4LiXl3TsDw9N9O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/opensourcementor/webinar-maximize" title="Maximize information exchange in your enterprise with AMQP" target="_blank">Maximize information exchange in your enterprise with AMQP</a> </strong> from <strong><a href="//www.slideshare.net/opensourcementor" target="_blank">Kenneth Peeples</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4LiXl3TsDw9N9O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/opensourcementor/webinar-maximize" title="Maximize information exchange in your enterprise with AMQP" target="_blank">Maximize information exchange in your enterprise with AMQP</a> </strong> from <strong><a href="//www.slideshare.net/opensourcementor" target="_blank">Kenneth Peeples</a></strong> </div>
+</div> 
+<br/>
 
 [![dilbert](images/dilbert.jpg)](http://dilbert.com/)

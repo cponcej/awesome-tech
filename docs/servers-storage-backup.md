@@ -87,16 +87,19 @@
 - [Logical Volume Management on Debian Linux](http://www.tecmint.com/logical-volume-management-on-debian-linux/)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/4o0Rxjk1cgEhUb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/plarsen67/disks-andfilesystems-51040562" title="Disks and-filesystems" target="_blank">Disks and-filesystems</a> </strong> from <strong><a href="//www.slideshare.net/plarsen67" target="_blank">plarsen67</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4o0Rxjk1cgEhUb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/plarsen67/disks-andfilesystems-51040562" title="Disks and-filesystems" target="_blank">Disks and-filesystems</a> </strong> from <strong><a href="//www.slideshare.net/plarsen67" target="_blank">plarsen67</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/5IMFuE8obToyyM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/michal6103/lvm-10336503" title="Linux: LVM" target="_blank">Linux: LVM</a> </strong> from <strong><a href="//www.slideshare.net/michal6103" target="_blank">Michal Sedlak</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5IMFuE8obToyyM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/michal6103/lvm-10336503" title="Linux: LVM" target="_blank">Linux: LVM</a> </strong> from <strong><a href="//www.slideshare.net/michal6103" target="_blank">Michal Sedlak</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/4BYxpR89SQwHee" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/gnunify/storage-management-using-lvm" title="Storage Management using LVM" target="_blank">Storage Management using LVM</a> </strong> from <strong><a href="//www.slideshare.net/gnunify" target="_blank">Priyank Kapadia</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4BYxpR89SQwHee" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/gnunify/storage-management-using-lvm" title="Storage Management using LVM" target="_blank">Storage Management using LVM</a> </strong> from <strong><a href="//www.slideshare.net/gnunify" target="_blank">Priyank Kapadia</a></strong> </div>
+</div>
+<br/>
 
 ## Backup
 - [6 Steps to Better Data Backup and Quicker Recovery](https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd)

@@ -151,27 +151,32 @@
 <br>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/caoDTq4izWMrxA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ttimbers/using-the-pythondatatoolkittimbersslides" title="Using the python_data_toolkit_timbers_slides" target="_blank">Using the python_data_toolkit_timbers_slides</a> </strong> from <strong><a href="//www.slideshare.net/ttimbers" target="_blank">Tiffany Timbers</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/caoDTq4izWMrxA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ttimbers/using-the-pythondatatoolkittimbersslides" title="Using the python_data_toolkit_timbers_slides" target="_blank">Using the python_data_toolkit_timbers_slides</a> </strong> from <strong><a href="//www.slideshare.net/ttimbers" target="_blank">Tiffany Timbers</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/xgGmH7s8KFjeNR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wesm/pandas-powerful-data-analysis-tools-for-python" title="pandas: Powerful data analysis tools for Python" target="_blank">pandas: Powerful data analysis tools for Python</a> </strong> from <strong><a href="//www.slideshare.net/wesm" target="_blank">Wes McKinney</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xgGmH7s8KFjeNR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wesm/pandas-powerful-data-analysis-tools-for-python" title="pandas: Powerful data analysis tools for Python" target="_blank">pandas: Powerful data analysis tools for Python</a> </strong> from <strong><a href="//www.slideshare.net/wesm" target="_blank">Wes McKinney</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/vFFHftlq5d5TON" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/teoliphant/continuum-analytics-and-python" title="Continuum Analytics and Python" target="_blank">Continuum Analytics and Python</a> </strong> from <strong><a href="//www.slideshare.net/teoliphant" target="_blank">Travis Oliphant</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vFFHftlq5d5TON" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/teoliphant/continuum-analytics-and-python" title="Continuum Analytics and Python" target="_blank">Continuum Analytics and Python</a> </strong> from <strong><a href="//www.slideshare.net/teoliphant" target="_blank">Travis Oliphant</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ns5LLvAOXHxxD6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/teoliphant/anaconda-and-pydata-solutions" title="Anaconda and PyData Solutions" target="_blank">Anaconda and PyData Solutions</a> </strong> from <strong><a href="//www.slideshare.net/teoliphant" target="_blank">Travis Oliphant</a></strong> </div> 
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ns5LLvAOXHxxD6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/teoliphant/anaconda-and-pydata-solutions" title="Anaconda and PyData Solutions" target="_blank">Anaconda and PyData Solutions</a> </strong> from <strong><a href="//www.slideshare.net/teoliphant" target="_blank">Travis Oliphant</a></strong> </div> 
+</div> 
+<br/>
 
 ### Apache Zeppelin
 - [Apache Zeppelin. A web-based notebook that enables interactive data analytics. Very cool for data exploration and data science](https://zeppelin.incubator.apache.org/)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/us9JccPwWdiwy2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SparkSummit/data-science-lifecycle-with-apache-zeppelin-and-spark-by-moonsoo-lee" title="Data Science lifecycle with Apache Zeppelin and Spark by Moonsoo Lee" target="_blank">Data Science lifecycle with Apache Zeppelin and Spark by Moonsoo Lee</a> </strong> from <strong><a href="//www.slideshare.net/SparkSummit" target="_blank">Spark Summit</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/us9JccPwWdiwy2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SparkSummit/data-science-lifecycle-with-apache-zeppelin-and-spark-by-moonsoo-lee" title="Data Science lifecycle with Apache Zeppelin and Spark by Moonsoo Lee" target="_blank">Data Science lifecycle with Apache Zeppelin and Spark by Moonsoo Lee</a> </strong> from <strong><a href="//www.slideshare.net/SparkSummit" target="_blank">Spark Summit</a></strong> </div>
+</div> 
+<br/>
 
 ## Big Data
 - [gettopical.com: Bit Data latest news](http://gettopical.com/bigdata)
@@ -433,12 +438,14 @@
 [![MySQL Cluster](images/MySQL_Cluster.png)](https://en.wikipedia.org/wiki/MySQL_Cluster)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/6FPvhRhZSnmra9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/andrewjamesmorgan/whats-new-in-my-sql-cluster-74-webinar" title="What&#x27;s new in MySQL Cluster 7.4 webinar charts" target="_blank">What&#x27;s new in MySQL Cluster 7.4 webinar charts</a> </strong> from <strong><a href="//www.slideshare.net/andrewjamesmorgan" target="_blank">Andrew Morgan</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6FPvhRhZSnmra9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/andrewjamesmorgan/whats-new-in-my-sql-cluster-74-webinar" title="What&#x27;s new in MySQL Cluster 7.4 webinar charts" target="_blank">What&#x27;s new in MySQL Cluster 7.4 webinar charts</a> </strong> from <strong><a href="//www.slideshare.net/andrewjamesmorgan" target="_blank">Andrew Morgan</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/G2T6Xkz9nLsJ2f" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/mysql-cluster-47869001" title="|MySQL DBA Cluster| Introduction to MySQL DBA Cluster|" target="_blank">|MySQL DBA Cluster| Introduction to MySQL DBA Cluster|</a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/G2T6Xkz9nLsJ2f" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/mysql-cluster-47869001" title="|MySQL DBA Cluster| Introduction to MySQL DBA Cluster|" target="_blank">|MySQL DBA Cluster| Introduction to MySQL DBA Cluster|</a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
+</div> 
+<br/>
 
 ##### MySQL metrics
 - [Box Anemometer](https://github.com/box/Anemometer)
@@ -469,36 +476,44 @@
 - [MariaDB 10 GTID Explained](https://mariadb.com/blog/mariadb-10-gtid-explained)
 
 <div class="container">
-<iframe src="//es.slideshare.net/slideshow/embed_code/key/baUs72FfkzmI7n" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/MariaDB/the-mysql-mariadb-story" title="The MySQL - MariaDB story" target="_blank">The MySQL - MariaDB story</a> </strong> from <strong><a href="//es.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
-<br>
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/baUs72FfkzmI7n" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/MariaDB/the-mysql-mariadb-story" title="The MySQL - MariaDB story" target="_blank">The MySQL - MariaDB story</a> </strong> from <strong><a href="//es.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2MeB8NuwZS2Ult" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bytebot/the-complete-mariadb-server-tutorial-percona-live-2015" title="The Complete MariaDB Server Tutorial - Percona Live 2015" target="_blank">The Complete MariaDB Server Tutorial - Percona Live 2015</a> </strong> from <strong><a href="//www.slideshare.net/bytebot" target="_blank">Colin Charles</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2MeB8NuwZS2Ult" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bytebot/the-complete-mariadb-server-tutorial-percona-live-2015" title="The Complete MariaDB Server Tutorial - Percona Live 2015" target="_blank">The Complete MariaDB Server Tutorial - Percona Live 2015</a> </strong> from <strong><a href="//www.slideshare.net/bytebot" target="_blank">Colin Charles</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hQ0DFrgzBrFeOX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/dat209-new-launch-introducing-mariadb-on-amazon-rds" title="(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS" target="_blank">(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hQ0DFrgzBrFeOX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/dat209-new-launch-introducing-mariadb-on-amazon-rds" title="(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS" target="_blank">(DAT209) NEW LAUNCH! Introducing MariaDB on Amazon RDS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/qvliLATuLU81dv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Severalnines/webinar-slides-replication-topology-changes-for-mysql-and-mariadb" title="Webinar slides: Replication Topology Changes for MySQL and MariaDB" target="_blank">Webinar slides: Replication Topology Changes for MySQL and MariaDB</a> </strong> from <strong><a href="//www.slideshare.net/Severalnines" target="_blank">Severalnines AB</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qvliLATuLU81dv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Severalnines/webinar-slides-replication-topology-changes-for-mysql-and-mariadb" title="Webinar slides: Replication Topology Changes for MySQL and MariaDB" target="_blank">Webinar slides: Replication Topology Changes for MySQL and MariaDB</a> </strong> from <strong><a href="//www.slideshare.net/Severalnines" target="_blank">Severalnines AB</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//es.slideshare.net/slideshow/embed_code/key/201xYQfKi6hy7E" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/MariaDB/mariadb-replication-state-of-the-art" title="MariaDB/MySQL Replication - State of the art" target="_blank">MariaDB/MySQL Replication - State of the art</a> </strong> from <strong><a href="//es.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
-<br>
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/201xYQfKi6hy7E" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/MariaDB/mariadb-replication-state-of-the-art" title="MariaDB/MySQL Replication - State of the art" target="_blank">MariaDB/MySQL Replication - State of the art</a> </strong> from <strong><a href="//es.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3wcJIEV1AcU3G" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Severalnines/deep-dive-into-how-to-monitor-mysql-or-mariadb-galera-cluster-percona-xtradb-cluster" title="Deep Dive Into How To Monitor MySQL or MariaDB Galera Cluster / Percona XtraDB Cluster" target="_blank">Deep Dive Into How To Monitor MySQL or MariaDB Galera Cluster / Percona XtraDB Cluster</a> </strong> from <strong><a href="//www.slideshare.net/Severalnines" target="_blank">Severalnines AB</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3wcJIEV1AcU3G" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Severalnines/deep-dive-into-how-to-monitor-mysql-or-mariadb-galera-cluster-percona-xtradb-cluster" title="Deep Dive Into How To Monitor MySQL or MariaDB Galera Cluster / Percona XtraDB Cluster" target="_blank">Deep Dive Into How To Monitor MySQL or MariaDB Galera Cluster / Percona XtraDB Cluster</a> </strong> from <strong><a href="//www.slideshare.net/Severalnines" target="_blank">Severalnines AB</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/k3rtYIDmDD2C80" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/roadshow-einfhrung-dezember-2015" title="Roadshow Einführung - Dezember 2015 " target="_blank">Roadshow Einführung - Dezember 2015 </a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/k3rtYIDmDD2C80" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/roadshow-einfhrung-dezember-2015" title="Roadshow Einführung - Dezember 2015 " target="_blank">Roadshow Einführung - Dezember 2015 </a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/of0AgvxAReq7yv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/optimale-hochverfugbarkeitsverfahren-dezember-2015" title="Optimale Hochverfügbarkeitsverfahren - Dezember 2015" target="_blank">Optimale Hochverfügbarkeitsverfahren - Dezember 2015</a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/of0AgvxAReq7yv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/optimale-hochverfugbarkeitsverfahren-dezember-2015" title="Optimale Hochverfügbarkeitsverfahren - Dezember 2015" target="_blank">Optimale Hochverfügbarkeitsverfahren - Dezember 2015</a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
+</div>
+<br/>
 
 #### PostgreSQL
 ##### PostgreSQL on Twitter
@@ -546,20 +561,24 @@
 [![mixing indexes](images/mixing_indexes.jpg)](http://www.commitstrip.com)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/nBAfrakRBpOJpF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EnterpriseDB/overview-of-postgres-95" title="Overview of Postgres 9.5 " target="_blank">Overview of Postgres 9.5 </a> </strong> from <strong><a href="//www.slideshare.net/EnterpriseDB" target="_blank">EnterpriseDB</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nBAfrakRBpOJpF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EnterpriseDB/overview-of-postgres-95" title="Overview of Postgres 9.5 " target="_blank">Overview of Postgres 9.5 </a> </strong> from <strong><a href="//www.slideshare.net/EnterpriseDB" target="_blank">EnterpriseDB</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/l9V806fi6YhWhj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fuzzycz/performance-improvements-in-postgresql-95-and-beyond" title="Performance improvements in PostgreSQL 9.5 and beyond" target="_blank">Performance improvements in PostgreSQL 9.5 and beyond</a> </strong> from <strong><a href="//www.slideshare.net/fuzzycz" target="_blank">Tomas Vondra</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/l9V806fi6YhWhj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fuzzycz/performance-improvements-in-postgresql-95-and-beyond" title="Performance improvements in PostgreSQL 9.5 and beyond" target="_blank">Performance improvements in PostgreSQL 9.5 and beyond</a> </strong> from <strong><a href="//www.slideshare.net/fuzzycz" target="_blank">Tomas Vondra</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/nsgdgjJxhXf3kJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/StefanieJanineStltin/json-by-example" title="JSON By Example" target="_blank">JSON By Example</a> </strong> from <strong><a href="//www.slideshare.net/StefanieJanineStltin" target="_blank">Stefanie Janine Stölting</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nsgdgjJxhXf3kJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/StefanieJanineStltin/json-by-example" title="JSON By Example" target="_blank">JSON By Example</a> </strong> from <strong><a href="//www.slideshare.net/StefanieJanineStltin" target="_blank">Stefanie Janine Stölting</a></strong> </div>
+</div> 
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wFiyvd4MGMp91P" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alexeylesovsky/postgresql-streaming-replication-cheatsheet" title="PostgreSQL Streaming Replication Cheatsheet" target="_blank">PostgreSQL Streaming Replication Cheatsheet</a> </strong> from <strong><a href="//www.slideshare.net/alexeylesovsky" target="_blank">Алексей Лесовский</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wFiyvd4MGMp91P" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alexeylesovsky/postgresql-streaming-replication-cheatsheet" title="PostgreSQL Streaming Replication Cheatsheet" target="_blank">PostgreSQL Streaming Replication Cheatsheet</a> </strong> from <strong><a href="//www.slideshare.net/alexeylesovsky" target="_blank">Алексей Лесовский</a></strong> </div>
+</div>
+<br/>
 
 #### SQLite
 - [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)
@@ -636,8 +655,9 @@
 <br>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/IGi1FCvglHcbP7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/mongo-db-presentation-demo" title="MongoDB - Understand the Best Practices in Brief " target="_blank">MongoDB - Understand the Best Practices in Brief </a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IGi1FCvglHcbP7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/mongo-db-presentation-demo" title="MongoDB - Understand the Best Practices in Brief " target="_blank">MongoDB - Understand the Best Practices in Brief </a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
+</div> 
+<br/>
 
 #### Redis, Coudhdb, and others
 - [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)

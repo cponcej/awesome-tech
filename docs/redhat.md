@@ -137,12 +137,14 @@
 - [Slideshare: Cluster Administration Tools](http://www.slideshare.net/manojsinghdhn/rhel-cluster-basics-3)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/5AGF4tmnY7ccT9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/red-hat-cluster-suite-demo-linux-cluster-introduction-basics" title="Red hat Cluster suite Demo | Linux Cluster Introduction | Basics" target="_blank">Red hat Cluster suite Demo | Linux Cluster Introduction | Basics</a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5AGF4tmnY7ccT9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/red-hat-cluster-suite-demo-linux-cluster-introduction-basics" title="Red hat Cluster suite Demo | Linux Cluster Introduction | Basics" target="_blank">Red hat Cluster suite Demo | Linux Cluster Introduction | Basics</a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/8vvS2zzpt24snJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/manojsinghdhn/rhel-cluster-basics-1-44632468" title="Rhel cluster basics 1" target="_blank">Rhel cluster basics 1</a> </strong> from <strong><a href="//www.slideshare.net/manojsinghdhn" target="_blank">Manoj Singh</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8vvS2zzpt24snJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/manojsinghdhn/rhel-cluster-basics-1-44632468" title="Rhel cluster basics 1" target="_blank">Rhel cluster basics 1</a> </strong> from <strong><a href="//www.slideshare.net/manojsinghdhn" target="_blank">Manoj Singh</a></strong> </div>
+</div>
+<br/>
 
 ## Red Hat Storage
 - [redhat.com/storage](http://redhat.com/storage)
@@ -313,5 +315,6 @@
 <br>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/37yt7ES7lc1UGS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/red-hat-trends-and-technologie-december-2015" title="Red Hat Trends and Technologie December 2015" target="_blank">Red Hat Trends and Technologie December 2015</a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/37yt7ES7lc1UGS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/red-hat-trends-and-technologie-december-2015" title="Red Hat Trends and Technologie December 2015" target="_blank">Red Hat Trends and Technologie December 2015</a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
+</div>
+<br/>
