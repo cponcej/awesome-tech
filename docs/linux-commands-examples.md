@@ -12,6 +12,10 @@
 
 # Linux Commands Examples
 
+- Make your prompt safer with # so that if you accidentally copy & paste it, it doesn't run.
+
+		PS1="# $PS1"
+		
 - Edit a file on a remote server using vim from your local *nix desktop
 
 		vim scp://user@server1//etc/httpd/httpd.conf 
@@ -78,6 +82,10 @@
 - Request by hour graph.
 
 		awk '{print $4}' apache_log|sort -n|cut -c1-15|uniq -c|awk '{b="";for(i=0;i<$1/10;i++){b=b"#"}; print $0 " " b;}'
+
+- For Mar 22nd, print the req fields for hosts from two letter gTLD
+
+		fgrep 22/Mar/2015 access_log |awk '$1~/\.[a-z][a-z]$/{print $6 " " $7}'
 
 - Want to extract files to another directory using tar command? Try 
 

@@ -18,7 +18,8 @@
 		- [Diff Tools](#diff-tools)
 	- [Regular expressions](#regular-expressions)
 	- [Bash](#bash)
-	- [PHP on Twitter](#php-on-twitter)
+	- [PHP](#php)
+		- [PHP on Twitter](#php-on-twitter)
 	- [Python](#python)
 		- [Python Blogs and Forums](#python-blogs-and-forums)
 		- [Python docs](#python-docs)
@@ -254,7 +255,10 @@
 
 [![goto-dinosaur](images/goto-dinosaur.jpeg)](https://twitter.com/nixcraft)
 
-## PHP on Twitter
+## PHP 
+- [How to install PHP 7 on Ubuntu Linux 14.04 LTS](http://www.cyberciti.biz/faq/ubuntu-linux-14-04-install-php7-using-apt-get-command/)
+
+### PHP on Twitter
 - [twitter.com/php_net](https://twitter.com/php_net)
 - [twitter.com/planetphp](https://twitter.com/planetphp)
 - [twitter.com/phpc](https://twitter.com/phpc)

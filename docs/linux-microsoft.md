@@ -157,6 +157,7 @@
 - [Linux/Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
 - [agedu: Unix/Linux Command For Tracking Down Wasted Disk Space](http://www.cyberciti.biz/hardware/linux-find-and-recover-wasted-disk-space/)
 - [Linux lsscsi: See List Of All SCSI/SATA Hard Disks and CD/DVD Drives](http://www.cyberciti.biz/faq/debian-ubuntu-linux-list-scsi-devices-hosts-attributes-lsscsi-command/)
+- [How to reload sysctl.conf variables on Linux without rebooting the server](http://www.cyberciti.biz/faq/reload-sysctl-conf-on-linux-using-sysctl/) 
 
 ### Linux processes
 - [Linux: Find Out Which Process Is Listening Upon a Port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
@@ -173,6 +174,7 @@
 ### Linux backups
 - [cyberciti.biz: How To Avoid Sudden Outburst Of Backup Shell Script or Program Disk I/O on Linux](http://www.cyberciti.biz/tips/linux-set-io-scheduling-class-priority.html)
 - [luckybackup.sourceforge.net: is an application for data back-up and synchronization powered by the rsync tool](http://luckybackup.sourceforge.net/)
+- [Debian/Ubuntu Linux Install and Configure Remote Filesystem Snapshot with rsnapshot Incremental Backup Utility](http://www.cyberciti.biz/faq/linux-rsnapshot-backup-howto/)
 - [15 Useful Linux and Unix Tape Managements Commands For Sysadmins](http://www.cyberciti.biz/hardware/unix-linux-basic-tape-management-commands/)
 - [cyberciti.biz: Backup & restore a partition table (including GPT) on Linux in case table get corrupted/modified/deleted by mistake](http://www.cyberciti.biz/faq/linux-backup-restore-a-partition-table-with-sfdisk-command/)
 - [Book Review: Tarsnap Mastery Online Backup For the Truly Paranoid](http://www.cyberciti.biz/cloud-computing/book-review-tarsnap-mastery-online-backup-for-the-truly-paranoid/)
@@ -272,6 +274,7 @@
 - [slideshare.net: Broken Linux Performance Tools 2016](http://www.slideshare.net/brendangregg/broken-linux-performance-tools-2016)
 - [How To Stress Test CPU and Memory (VM) On a Linux and Unix With Stress-ng](http://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
 	- [Forcing out kernel bugs with stress-ng](http://smackerelofopinion.blogspot.co.uk/2016/01/forcing-out-bugs-with-stress-ng.html)
+- [Julia Evans: How CPU load averages work (and using them to triage webserver performance!)](http://jvns.ca/blog/2016/02/07/cpu-load-averages/)
 
 ### htop
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
