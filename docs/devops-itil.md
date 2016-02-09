@@ -334,7 +334,9 @@
 - [guru99.com: Free Jmeter Tutorials](http://www.guru99.com/jmeter-tutorials.html)
 - [unpocodejava.wordpress.com: ¿Cómo hacer pruebas de carga de una clase Java con JMeter?](https://unpocodejava.wordpress.com/2015/12/21/como-hacer-pruebas-de-carga-de-una-clase-java-con-jmeter-2/)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cv7KqxaLZd8?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cv7KqxaLZd8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nbWSTjvNUVhYxT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BlazeMeter/webdriver-webinar-v7" title="Performance Testing using Real Browsers with JMeter &amp; Webdriver" target="_blank">Performance Testing using Real Browsers with JMeter &amp; Webdriver</a> </strong> from <strong><a href="//www.slideshare.net/BlazeMeter" target="_blank">BlazeMeter</a></strong> </div>
 
