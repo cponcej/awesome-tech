@@ -208,17 +208,11 @@
 
 [![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/sivZnLLIue3AZO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen; class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/infoDiagram/how-to-start-scrum-from-traditional-project-management" title="How to Start Scrum from Traditional Project Management" target="_blank">How to Start Scrum from Traditional Project Management</a> </strong> from <strong><a href="//www.slideshare.net/infoDiagram" target="_blank">Peter Zvirinsky</a></strong> </div> <br/>
-</div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sivZnLLIue3AZO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/infoDiagram/how-to-start-scrum-from-traditional-project-management" title="How to Start Scrum from Traditional Project Management" target="_blank">How to Start Scrum from Traditional Project Management</a> </strong> from <strong><a href="//www.slideshare.net/infoDiagram" target="_blank">Peter Zvirinsky</a></strong> </div>
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/bZjjK2TIilBKfB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen; class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fabokzs/what-scrum-kanban-lean-ever-done-for-us" title="What Scrum Kanban Lean Ever Done for Us" target="_blank">What Scrum Kanban Lean Ever Done for Us</a> </strong> from <strong><a href="//www.slideshare.net/fabokzs" target="_blank">Zsolt Fabok</a></strong> </div> <br/> 
-</div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bZjjK2TIilBKfB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fabokzs/what-scrum-kanban-lean-ever-done-for-us" title="What Scrum Kanban Lean Ever Done for Us" target="_blank">What Scrum Kanban Lean Ever Done for Us</a> </strong> from <strong><a href="//www.slideshare.net/fabokzs" target="_blank">Zsolt Fabok</a></strong> </div>
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/pdvmXZM6Alb34F" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div><div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/blossom_io/the-definitive-guide-to-agile-kanban" title="A Guide to Agile Kanban" target="_blank">A Guide to Agile Kanban</a> </strong> from <strong><a href="//www.slideshare.net/blossom_io" target="_blank">Blossom</a></strong> </div> <br/>
-</div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pdvmXZM6Alb34F" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/blossom_io/the-definitive-guide-to-agile-kanban" title="A Guide to Agile Kanban" target="_blank">A Guide to Agile Kanban</a> </strong> from <strong><a href="//www.slideshare.net/blossom_io" target="_blank">Blossom</a></strong> </div>
 
 ### Continuous Integration and Delivery
 - [Martin Fowler. Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
@@ -234,10 +228,7 @@
 
 [![visualizations continuous delivery](images/visualizations_continuous_delivery.png)](http://continuousdelivery.com/2014/02/visualizations-of-continuous-delivery/)
 
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoMfbgF2D_4" frameborder="0" allowfullscreen class="video"></iframe>
-</div><br/> 
-</div>
 
 #### CI Jenkins, Travis
 - [jenkins-ci.org](https://jenkins-ci.org)
@@ -261,10 +252,7 @@
 #### CI Docker
 - [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine
 
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PMt98G4MOKg" frameborder="0" allowfullscreen class="video"></iframe>
-</div><br/>
-</div>
 
 #### CI RPM build
 - [Continuous integration + rpmbuild + Docker](https://access.redhat.com/discussions/1174853)
@@ -283,13 +271,11 @@
 
 [![Use of CD is growing](images/use_of_CD_growing.jpg)](http://www.theregister.co.uk/2016/01/15/devops_people_problem/)
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wlyRDI5S2hmhcd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EdurekaIN/getting-started-with-jenkins" title="Getting started with Jenkins" target="_blank">Getting started with Jenkins</a> </strong> from <strong><a href="//www.slideshare.net/EdurekaIN" target="_blank">Edureka!</a></strong> <br/>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wlyRDI5S2hmhcd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EdurekaIN/getting-started-with-jenkins" title="Getting started with Jenkins" target="_blank">Getting started with Jenkins</a> </strong> from <strong><a href="//www.slideshare.net/EdurekaIN" target="_blank">Edureka!</a></strong> </div>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/sMuB2EAyZhyB7u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Docker/continuous-integration-with-jenkins-docker-and-compose" title="DockerCon EU 2015: Continuous Integration with Jenkins, Docker and Compose" target="_blank">DockerCon EU 2015: Continuous Integration with Jenkins, Docker and Compose</a> </strong> from <strong><a href="//www.slideshare.net/Docker" target="_blank">Docker, Inc.</a></strong> </div><br/>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sMuB2EAyZhyB7u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Docker/continuous-integration-with-jenkins-docker-and-compose" title="DockerCon EU 2015: Continuous Integration with Jenkins, Docker and Compose" target="_blank">DockerCon EU 2015: Continuous Integration with Jenkins, Docker and Compose</a> </strong> from <strong><a href="//www.slideshare.net/Docker" target="_blank">Docker, Inc.</a></strong></div>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/rF5xrvdfL3HdAo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/carlossg/using-docker-for-testing" title="Using Docker for Testing" target="_blank">Using Docker for Testing</a> </strong> from <strong><a href="//www.slideshare.net/carlossg" target="_blank">Carlos Sanchez</a></strong> </div><br/>
-</div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rF5xrvdfL3HdAo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/carlossg/using-docker-for-testing" title="Using Docker for Testing" target="_blank">Using Docker for Testing</a> </strong> from <strong><a href="//www.slideshare.net/carlossg" target="_blank">Carlos Sanchez</a></strong></div>
 
 ## Git
 - [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
@@ -347,15 +333,11 @@
 - [guru99.com: Free Jmeter Tutorials](http://www.guru99.com/jmeter-tutorials.html)
 - [unpocodejava.wordpress.com: ¿Cómo hacer pruebas de carga de una clase Java con JMeter?](https://unpocodejava.wordpress.com/2015/12/21/como-hacer-pruebas-de-carga-de-una-clase-java-con-jmeter-2/)
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cv7KqxaLZd8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div><br/>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cv7KqxaLZd8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/nbWSTjvNUVhYxT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BlazeMeter/webdriver-webinar-v7" title="Performance Testing using Real Browsers with JMeter &amp; Webdriver" target="_blank">Performance Testing using Real Browsers with JMeter &amp; Webdriver</a> </strong> from <strong><a href="//www.slideshare.net/BlazeMeter" target="_blank">BlazeMeter</a></strong> </div><br/>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nbWSTjvNUVhYxT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BlazeMeter/webdriver-webinar-v7" title="Performance Testing using Real Browsers with JMeter &amp; Webdriver" target="_blank">Performance Testing using Real Browsers with JMeter &amp; Webdriver</a> </strong> from <strong><a href="//www.slideshare.net/BlazeMeter" target="_blank">BlazeMeter</a></strong> </div>
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/pSXioeGqKi7hxp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> </div> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/keytorc/jmeter-database-performace-testing-keytorc-approach" title="JMeter Database Performace Testing - Keytorc Approach" target="_blank">JMeter Database Performace Testing - Keytorc Approach</a> </strong> from <strong><a href="//www.slideshare.net/keytorc" target="_blank">Keytorc Software Testing Services</a></strong> </div><br/>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pSXioeGqKi7hxp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/keytorc/jmeter-database-performace-testing-keytorc-approach" title="JMeter Database Performace Testing - Keytorc Approach" target="_blank">JMeter Database Performace Testing - Keytorc Approach</a> </strong> from <strong><a href="//www.slideshare.net/keytorc" target="_blank">Keytorc Software Testing Services</a></strong> </div>
 
 ### Alternatives
 - [Siege, a CLI tool ideal for a simple testing of AWS Auto Scaling](https://www.joedog.org/siege-home/)
