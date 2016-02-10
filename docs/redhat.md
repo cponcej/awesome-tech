@@ -46,6 +46,7 @@
 ## Red Hat Blogs and Forums
 - [RedHat.com Blog](http://www.redhat.com/en/about/blog)
 - [RedHat "subreddit"](https://www.reddit.com/r/redhat/)
+- [The CentOS Project’s facebook group is over 20,000 users](https://www.facebook.com/groups/centosproject/)
 - [Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/)
 - [Red Hat Community](http://community.redhat.com)
 - [Red Hat Cloud Strategy Blog](http://www.redhat-cloudstrategy.com/)
