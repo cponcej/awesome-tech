@@ -78,14 +78,10 @@
 - [tecmint.com: Installation of Fedora 23 Server and Administration with Cockpit Management Tool](http://www.tecmint.com/installation-of-fedora-23-server-and-administration-with-cockpit-tool/)
 - [linuxpitstop.com: Install Cockpit on CentOS 7 – A Web Based System Monitoring Tool](http://linuxpitstop.com/install-cockpit-on-centos-7/)
 - [linoxide.com: How to Install Cockpit on Linux CentOS 7](http://linoxide.com/linux-how-to/install-cockpit-linux-centos-7/)
+- [Youtube. Jupiter Broadcasting: Fedora 23 from the Cockpit](https://youtu.be/xMMNRSxdNvQ) Fedora 23 has hit the web and we think this is the release that changes everything, forever. Find out why we think the changes made in Fedora 23 make this nearly a future proof distribution in some work cases. 
 
 <div class="container">
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/NHwfxNVkzmw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xMMNRSxdNvQ" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 

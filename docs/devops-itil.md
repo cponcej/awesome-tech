@@ -328,8 +328,9 @@
 - [Git Pandas. A wrapper around gitpython to produce pandas dataframes for analysis](https://github.com/wdm0006/git-pandas)
 - [Neat new features in Git 2.7](https://developer.atlassian.com/blog/2016/01/git-2.7-release/)
 - [slideshare: Git, GitHub y Markdown](http://es.slideshare.net/asanzdiego/git-github-y-markdown)
+- [At the Intersection of Git and DevOps](http://devops.com/2016/02/10/at-the-intersection-of-git-and-devops/) IT managers face the challenge of reconciling the needs of developers with the needs of the larger organization, especially when it comes to DevOps. In this article, we will examine some of these challenges and suggest best practices that can alleviate them.
 
-[![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
+[![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/) 
 
 ### Git on Twitter
 - [twitter.com/github](https://twitter.com/github)
