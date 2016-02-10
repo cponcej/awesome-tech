@@ -23,6 +23,13 @@
 
 ![bill gates](images/bill_gates.jpg)
 
+[![BI Excel](images/Business_insider_excel.jpg)](https://www.youtube.com/channel/UC6VQZBHhAscmySqf6lEXBtw)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lY7eYRSDUx0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Evernote on Twitter
 - [twitter.com/evernote](https://twitter.com/evernote)
 - [twitter.com/evernotehelps](https://twitter.com/evernotehelps)
