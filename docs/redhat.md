@@ -16,6 +16,7 @@
 	- [Red Hat and AWS](#red-hat-and-aws)
 		- [Red Hat Server with GUI and remote access with RDP](#red-hat-server-with-gui-and-remote-access-with-rdp)
 	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
+	- [Java 8 and Git](#java-8-and-git)
 	- [JBoss (WildFly)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
 		- [JBoss on Twitter](#jboss-on-twitter)
@@ -192,6 +193,10 @@
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/5KbMVQTd3ks?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+## Java 8 and Git
+- [tecadmin.net: How to Install JAVA 8 (JDK/JRE 8u72) on CentOS/RHEL and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
+- [tecadmin.net: How to Install Git 2.0.5 on CentOS/RHEL 7/6/5 and Fedora 22/21](http://tecadmin.net/install-git-2-0-on-centos-rhel-fedora/)
 
 ## JBoss (WildFly)
 - [List of JBoss software](https://en.wikipedia.org/wiki/List_of_JBoss_software)

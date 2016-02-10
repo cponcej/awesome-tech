@@ -79,6 +79,7 @@
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
 - [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
 - [LinuxPitstop: Linux Tips, Techniques, HowTo's & Open Source News](http://linuxpitstop.com/)
+- [tecadmin.net](http://tecadmin.net)
 
 [![tecmint logo](images/tecmint-logo.png)](http://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/)
 
