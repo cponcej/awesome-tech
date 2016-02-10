@@ -32,6 +32,7 @@
 		- [PostgreSQL via Docker](#postgresql-via-docker)
 		- [WebLogic via Docker](#weblogic-via-docker)
 		- [JBoss via Docker](#jboss-via-docker)
+		- [Elasticsearch via Docker](#elasticsearch-via-docker)
 		- [Swift via Docker](#swift-via-docker)
 	- [IBM Rational ClearCase](#ibm-rational-clearcase)
 
@@ -390,6 +391,13 @@
 
 ### JBoss via Docker
 - [oraclejavamagazine-digital.com: Using Docker in Java Applications](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20151112?pg=52#pg52) The lightweight virtualization container is fast becoming the preferred way to package and deploy Java web apps.
+
+### Elasticsearch via Docker
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MBkpsrtRagSGKu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sematext/running-highperformance-and-fault-tolerant-elasticsearch-clusters-on-docker" title="Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker" target="_blank">Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker</a> </strong> from <strong><a href="//www.slideshare.net/sematext" target="_blank">Sematext Group, Inc. </a></strong> </div>
+</div>
+<br/>
 
 ### Swift via Docker
 - [developer.ibm.com: running swift within docker](https://developer.ibm.com/swift/2015/12/15/running-swift-within-docker/)
