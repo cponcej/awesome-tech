@@ -78,6 +78,8 @@
 </div>
 <br/>
 
+[![Using WebPage test](images/Using-WebPagetest.png)](http://www.wowebook.org/using-webpagetest.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBmttwfA_k8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
