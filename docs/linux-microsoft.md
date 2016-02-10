@@ -294,7 +294,7 @@
 [![glances ubuntu output](images/glances-ubuntu-output.png)](http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZwhyLD-wquk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwhyLD-wquk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -389,7 +389,7 @@
 [![How to block an IP address with ufw on Ubuntu Linux server](images/ufw-status.jpg)](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p4uNlzYld-Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p4uNlzYld-Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
@@ -483,7 +483,7 @@
 [![spiceworks](images/spiceworks-logo.png)](http://www.spiceworks.com/)
 
 <div class="container">
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/W3LReMTFeFU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/W3LReMTFeFU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
