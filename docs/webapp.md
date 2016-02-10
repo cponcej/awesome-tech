@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [WebApp](#webapp)
+	- [HTTP Status Codes](#http-status-codes)
 	- [HTTP/2](#http2)
 	- [HTTPS and HSTS](#https-and-hsts)
 		- [HSTS](#hsts)
@@ -25,6 +26,15 @@
 
 
 # WebApp
+## HTTP Status Codes
+- [wikipedia: List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+- [slideshare: Http Status Code Errors in SEO](http://www.slideshare.net/AdelaRoger/http-status-code-errors-in-seo)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gYWUVIcqW40OUn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mainstreethost/http-status-codes-cheat-sheet" title="HTTP Status Codes Cheat Sheet: An Exhaustive List" target="_blank">HTTP Status Codes Cheat Sheet: An Exhaustive List</a> </strong> from <strong><a href="//www.slideshare.net/mainstreethost" target="_blank">Mainstreethost</a></strong> </div>
+</div>
+<br/>
+
 ## HTTP/2
 - [SPDY & HTTP 2 with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=WkLBrHW4NhQ)
 	- [cURL mantainer: http2 explained](http://http2-explained.haxx.se/)
@@ -48,17 +58,7 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/t9iH0GHtiPuf6q" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lmacvittie/http2-changes-everything" title="HTTP/2 Changes Everything" target="_blank">HTTP/2 Changes Everything</a> </strong> from <strong><a href="//www.slideshare.net/lmacvittie" target="_blank">Lori MacVittie</a></strong> </div>
-</div> 
-<br/>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/gYWUVIcqW40OUn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mainstreethost/http-status-codes-cheat-sheet" title="HTTP Status Codes Cheat Sheet: An Exhaustive List" target="_blank">HTTP Status Codes Cheat Sheet: An Exhaustive List</a> </strong> from <strong><a href="//www.slideshare.net/mainstreethost" target="_blank">Mainstreethost</a></strong> </div>
-</div> 
-<br/>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/b464gJiNJcsCuT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AdelaRoger/http-status-code-errors-in-seo" title="Http Status Code Errors in SEO" target="_blank">Http Status Code Errors in SEO</a> </strong> from <strong><a href="//www.slideshare.net/AdelaRoger" target="_blank">Adela Roger</a></strong> </div>
-</div> 
+</div>
 <br/>
 
 ## HTTPS and HSTS
