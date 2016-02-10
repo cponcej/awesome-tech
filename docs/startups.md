@@ -66,6 +66,8 @@
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
 - [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
 
+[![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.grifolsacademy.com/)
+
 ### Madrid startups
 - [tetuanvalley.com: Tetuan Valley Madrid](http://tetuanvalley.com/)
 - [campus.co/madrid: Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)

@@ -22,11 +22,12 @@
 13. [DevOps and ITIL](devops-itil.md)
 14. [Software Development](sw-devel.md)
 15. [Data Science and Big Data](data-science.md)
-16. [Networking. Firewalls, Network Forensics](networking.md)
-17. [Servers, Storage and Backup](servers-storage-backup.md)
-18. [Cloud](cloud.md)
-19. [Desktop Tools and Presentations](desktop-tools.md)
-20. [E-Learning](e-learning.md)
+16. [SQL and Databases](databases.md)
+17. [Networking. Firewalls, Network Forensics](networking.md)
+18. [Servers, Storage and Backup](servers-storage-backup.md)
+19. [Cloud](cloud.md)
+20. [Desktop Tools and Presentations](desktop-tools.md)
+21. [E-Learning](e-learning.md)
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
