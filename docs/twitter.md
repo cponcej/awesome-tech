@@ -397,6 +397,8 @@
 
 [![susan cain](images/susan_cain.png)](https://www.linkedin.com/in/susancain)
 
+[![susan cain best ideas](images/susan_cain_best_ideas.jpg)](https://twitter.com/susancain)
+
 ## Google on Twitter
 - [twitter.com/google](https://twitter.com/google)
 - [twitter.com/googlechrome](https://twitter.com/googlechrome)
