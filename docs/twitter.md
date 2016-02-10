@@ -227,11 +227,17 @@
 - [twitter.com/TEDTalks](https://twitter.com/TEDTalks)
 - [twitter.com/DanielPink](https://twitter.com/DanielPink)
 - [twitter.com/Inc](https://twitter.com/Inc)
+- [twitter.com/simonsinek](https://twitter.com/simonsinek)
+- [Susan Cain](https://twitter.com/susancain)
 - [facebook.com/ldavidmarquet](https://www.facebook.com/ldavidmarquet/)
 - [twitter.com/Ldavidmarquet](https://twitter.com/Ldavidmarquet)
-- [Susan Cain](https://twitter.com/susancain)
 - [twitter.com/Autorrealizarte](https://twitter.com/Autorrealizarte)
-- [![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
+
+[![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
+
+[![susan cain](images/susan_cain.png)](https://www.linkedin.com/in/susancain)
+
+[![susan cain best ideas](images/susan_cain_best_ideas.jpg)](https://twitter.com/susancain)
 
 ## VMware on Twitter
 - [twitter.com/VMware](https://twitter.com/VMware)
@@ -394,10 +400,6 @@
 - [twitter.com/applesfera](https://twitter.com/applesfera)
 - [twitter.com/AppleiDeas](https://twitter.com/AppleiDeas)
 - [twitter.com/applediscounts_](https://twitter.com/applediscounts_)
-
-[![susan cain](images/susan_cain.png)](https://www.linkedin.com/in/susancain)
-
-[![susan cain best ideas](images/susan_cain_best_ideas.jpg)](https://twitter.com/susancain)
 
 ## Google on Twitter
 - [twitter.com/google](https://twitter.com/google)
