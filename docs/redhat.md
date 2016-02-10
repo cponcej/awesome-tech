@@ -31,6 +31,11 @@
 
 <!-- /MarkdownTOC -->
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_v-qAlxyrms?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
@@ -314,11 +319,6 @@
 - [Flock Fedora Conference](https://fedoramagazine.org/tag/flock/)
 	- [Flock 2014 Fedora Conference](http://community.redhat.com/blog/2014/08/flock-2014-fedora-conference-live-streaming-schedule-and-video-archives/)
 	- [Flock 2015 Fedora Conference](https://www.youtube.com/playlist?list=PL0x39xti0_64fA6uRtcfoJPkHfZdeVTRC)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_v-qAlxyrms?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/37yt7ES7lc1UGS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/red-hat-trends-and-technologie-december-2015" title="Red Hat Trends and Technologie December 2015" target="_blank">Red Hat Trends and Technologie December 2015</a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
