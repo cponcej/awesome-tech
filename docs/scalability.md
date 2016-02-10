@@ -67,15 +67,19 @@
 ## Web Performance
 
 <div class="container">
-<iframe src="//es.slideshare.net/slideshow/embed_code/key/mcjpimBYK0PsoM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/AndyDavies/speed-matters-so-why-is-your-site-so-slow" title="Speed matters, So why is your site so slow?" target="_blank">Speed matters, So why is your site so slow?</a> </strong> from <strong><a href="//es.slideshare.net/AndyDavies" target="_blank">Andy Davies</a></strong> </div>
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/mcjpimBYK0PsoM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/AndyDavies/speed-matters-so-why-is-your-site-so-slow" title="Speed matters, So why is your site so slow?" target="_blank">Speed matters, So why is your site so slow?</a> </strong> from <strong><a href="//es.slideshare.net/AndyDavies" target="_blank">Andy Davies</a></strong> </div>
 </div>
 <br/>
 
 <div class="container">
-<iframe src="//es.slideshare.net/slideshow/embed_code/key/mGQp2yMZSIeGHQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/tammyeverts/how-slow-load-times-hurt-your-bottom-line-and-17-things-you-can-do-to-fix-it" title="How Slow Load Times Hurt Your Bottom Line (And 17 Things You Can Do to Fix It)" target="_blank">How Slow Load Times Hurt Your Bottom Line (And 17 Things You Can Do to Fix It)</a> </strong> from <strong><a href="//es.slideshare.net/tammyeverts" target="_blank">Tammy Everts</a></strong> </div>
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/mGQp2yMZSIeGHQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/tammyeverts/how-slow-load-times-hurt-your-bottom-line-and-17-things-you-can-do-to-fix-it" title="How Slow Load Times Hurt Your Bottom Line (And 17 Things You Can Do to Fix It)" target="_blank">How Slow Load Times Hurt Your Bottom Line (And 17 Things You Can Do to Fix It)</a> </strong> from <strong><a href="//es.slideshare.net/tammyeverts" target="_blank">Tammy Everts</a></strong> </div>
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBmttwfA_k8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## Scalability Solutions
 - [OpenShift Dedicated](https://www.openshift.com/dedicated/)
