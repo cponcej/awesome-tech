@@ -9,8 +9,8 @@
 
 # Elasticsearch
 ## Logstash, kibana and elasticsearch 
-- [Logstash | Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
-- [Kibana | Explore & Visualize Your Data](https://www.elastic.co/products/kibana)
+- [Logstash: Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
+- [Kibana: Explore & Visualize Your Data](https://www.elastic.co/products/kibana)
 - [Nagios Log Server vs. Elasticsearch – Logstash – Kibana](http://labs.nagios.com/2014/10/19/nagios-log-server-vs-elasticsearch-logstash-kibana/)
 - [Kibana is a highly scalable interface for Logstash and ElasticSearch that allows you to efficiently search, graph, analyze and otherwise make sense of a mountain of logs](http://kibana.org)
 - [Using elasticsearch, logstash and kibana to create realtime dashboards (slides)](https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards)
