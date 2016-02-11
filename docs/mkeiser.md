@@ -154,6 +154,7 @@ Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 - [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)
 - [How does corruption in Africa really compare to OECD countries? Anti-Fraud & Corruption Law in Africa](http://africanantifraud.com/2016/01/20/circles-of-corruption-how-does-africa-stack-up-against-the-oecd/)
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
+- [The General Theory of Employment, Interest and Money. John Maynard Keynes](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money)
 - [Thomas Piketty’s “Capital”, summarised in four paragraphs](http://www.economist.com/blogs/economist-explains/2014/05/economist-explains)
 - [Debt: The First 5000 Years. David Graeber](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years)
 - [The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era. Jeremy Rifkin](https://en.wikipedia.org/wiki/The_End_of_Work)
