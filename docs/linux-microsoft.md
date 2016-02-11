@@ -8,7 +8,7 @@
 		- [Alternatives](#alternatives)
 	- [FOSS youtube channels](#foss-youtube-channels)
 	- [Linux on Twitter](#linux-on-twitter)
-	- [Linux References](#linux-references)
+	- [Linux 2016](#linux-2016)
 	- [Linux web tools](#linux-web-tools)
 	- [BashHub Bash History in the Cloud](#bashhub-bash-history-in-the-cloud)
 	- [Linux storage](#linux-storage)
@@ -138,7 +138,7 @@
 </div>
 <br>
 
-## Linux References
+## Linux 2016
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
 - [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)
 - [Linux Command: Show Linux Version](http://www.cyberciti.biz/faq/command-to-show-linux-version/)
