@@ -83,3 +83,13 @@
 ## NewSQL
 - [NuoDB, elastically scalable database. A revolution compared to traditional monolithic 1-box databases. NuoDB is ACID,SQL, distributed/scalable and support flexible schemas](http://www.nuodb.com/)
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dnVLNOUPK3BJDk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IvanGlushkov/newsql-overview" title="NewSQL overview, Feb 2015" target="_blank">NewSQL overview, Feb 2015</a> </strong> from <strong><a href="//www.slideshare.net/IvanGlushkov" target="_blank">Ivan Glushkov</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/awDvLmQn6UWzM8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mattaslett/mysql-vs-nosql-and-newsql-survey-results-13073043" title="MySQL vs. NoSQL and NewSQL - survey results" target="_blank">MySQL vs. NoSQL and NewSQL - survey results</a> </strong> from <strong><a href="//www.slideshare.net/mattaslett" target="_blank">Matthew Aslett</a></strong> </div>
+</div>
+<br/>
