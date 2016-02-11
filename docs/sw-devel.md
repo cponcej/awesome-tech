@@ -49,6 +49,7 @@
 		- [Frontend Blogs](#frontend-blogs)
 		- [javascript/node.js](#javascriptnodejs)
 		- [HTML5 and Static Site Generators vs Dynamic CMSs](#html5-and-static-site-generators-vs-dynamic-cmss)
+			- [Static Site Generators](#static-site-generators)
 			- [Markdown Editors](#markdown-editors)
 		- [Oracle JET](#oracle-jet)
 		- [JSON](#json)
@@ -324,7 +325,7 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/8cvSLR0lWRnZyS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Moment_of_Revelation/pep-8-cheatsheet-2009-32888711" title="Pep 8 cheatsheet (2009)" target="_blank">Pep 8 cheatsheet (2009)</a> </strong> from <strong><a href="//www.slideshare.net/Moment_of_Revelation" target="_blank">Moment_of_Revelation</a></strong> </div>
-</div> 
+</div>
 <br/>
 
 ### Python Django
@@ -527,15 +528,18 @@
 [![Hello World](images/hello_world.png)](https://twitter.com/nixcraft)
 
 ### HTML5 and Static Site Generators vs Dynamic CMSs
-- [Why You Should Use a Static Site Generator](http://formkeep.wpengine.com/?p=7)
-	- [pages.github.com](https://pages.github.com)
-	- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
 	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
 - [Good things in life are free. Read online "Programming JavaScript Applications" book for free](http://chimera.labs.oreilly.com/books/1234000000262)
 - [redsilice.com - Node.js. Una Introducción](http://www.redsilice.com/redsilice/?p=329)
 - [wired.com - Google's Angular 2 release pushes javascript beyond the browser](http://www.wired.com/2015/12/googles-angular-2-release-helps-push-javascript-beyond-the-browser/)
 - [webcodegeeks.com: Top 10 Major Advantages of HTML5](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
+
+#### Static Site Generators
+- [Why You Should Use a Static Site Generator](http://formkeep.wpengine.com/?p=7)
+- [Static Site Generators](https://staticsitegenerators.net) The definitive listing of Static Site Generators 
+- [pages.github.com](https://pages.github.com)
+- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
 [![jekyll static generator](images/jekyll.png)](http://formkeep.wpengine.com/?p=7)
 
