@@ -31,6 +31,7 @@
 - [Can You Be Friends With Your Boss?](https://hbr.org/2014/11/can-you-be-friends-with-your-boss)
 - [It’s Better to Avoid a Toxic Employee than Hire a Superstar](https://hbr.org/2015/12/its-better-to-avoid-a-toxic-employee-than-hire-a-superstar)
 - [24 signs you have a terrible boss](http://www.businessinsider.com/signs-you-have-a-bad-boss-2016-2-4)
+- [How to Manage the 3 Worst Types of Bosses](http://www.inc.com/larry-alton/how-to-manage-the-3-worst-types-of-bosses.html) It's hard to find a good boss, so it's important to know how to handle a bad one.
 - [GitHub is undergoing a full-blown overhaul as execs and employees depart — and we have the full inside story](http://www.businessinsider.com/github-the-full-inside-story-2016-2)
 - [enterprisersproject.com: Why too much talent is wasted by managers not daring to lose control](https://enterprisersproject.com/article/2014/11/cios-and-ctos-empower-your-teams)
 
