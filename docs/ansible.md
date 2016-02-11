@@ -16,6 +16,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![Red Hat acquires Ansible](images/redhat-ansible.png)](https://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
+
 # Ansible
 - [releases.ansible.com](http://releases.ansible.com)
 - [fast.wistia.net: Ansible video tutorial](http://fast.wistia.net/embed/iframe/qrqfj371b6)
@@ -141,5 +143,3 @@
 
 ## Provisioning Docker containers with Ansible
 - [ibm.com: Provisioning Docker containers with Ansible](https://www.ibm.com/developerworks/cloud/library/cl-provision-docker-containers-ansible/)
-
-[![Red Hat acquires Ansible](images/redhat-ansible.png)](https://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
