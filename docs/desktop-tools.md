@@ -2,7 +2,8 @@
 <!-- MarkdownTOC -->
 
 - [Desktop Tools](#desktop-tools)
-	- [Evernote on Twitter](#evernote-on-twitter)
+	- [Evernote](#evernote)
+		- [Evernote on Twitter](#evernote-on-twitter)
 	- [Thunderbird Extensions](#thunderbird-extensions)
 	- [Firefox](#firefox)
 - [Presentations](#presentations)
@@ -31,7 +32,10 @@
 </div>
 <br/>
 
-## Evernote on Twitter
+## Evernote
+- [Calendars are simple yet powerful motivational tools. Save these templates to Evernote](https://blog.evernote.com/blog/2015/12/26/resolve-to-stay-on-track-in-the-new-year/)
+
+### Evernote on Twitter
 - [twitter.com/evernote](https://twitter.com/evernote)
 - [twitter.com/evernotehelps](https://twitter.com/evernotehelps)
 - [twitter.com/evernews](https://twitter.com/evernews)
