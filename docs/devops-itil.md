@@ -4,12 +4,13 @@
 - [DevOps](#devops)
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
-	- [Descripción](#descripción)
+	- [Descripción de DevOps](#descripción-de-devops)
 	- [DevOps Tools 2016](#devops-tools-2016)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Javier Garzás](#javier-garzás)
-		- [Product Owner](#product-owner)
-		- [Scrum Master. Scrum Cheat Sheet](#scrum-master-scrum-cheat-sheet)
+		- [Project Management](#project-management)
+			- [Product Owner](#product-owner)
+			- [Scrum Master. Scrum Cheat Sheet](#scrum-master-scrum-cheat-sheet)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 			- [Continuous Integration Tools](#continuous-integration-tools)
 	- [Metrics](#metrics)
@@ -109,7 +110,7 @@
 </div>
 <br/>
 
-## Descripción
+## Descripción de DevOps
 - [8 cosas de la cultura startup que aprenden las empresas](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian) Cómo la cultura startup está influenciando a las grandes empresas. Corporaciones, tomen nota: apliquen o desaparezcan.
 
 [![cultura startup](images/cultura_startup_devops.png)](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian)
@@ -176,13 +177,16 @@
 </div>
 <br>
 
-### Product Owner
+### Project Management
+- [cio.com: Why less is more with project management](http://www.cio.com/article/3031636/leadership-management/why-less-is-more-with-project-management.html)
+- 
+#### Product Owner
 - [medium.com: Product Owner Responsibilities in Agile (Scrum Methodologies)](https://medium.com/agile-project-management-scrum-lean-kanban/product-owner-responsibilities-in-agile-scrum-methodologies-dc7aeeb5ff71)
 - [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)
 - [20 Product Owners anti patterns in scrum](http://lmsgoncalves.com/2014/09/29/product-owner-anti-patterns/)
 - [¿Cuantos Product Owner puede tener un equipo?](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 
-### Scrum Master. Scrum Cheat Sheet
+#### Scrum Master. Scrum Cheat Sheet
 - [DZone/Agile Zone. Hiring: 38 Scrum Master Interview Questions To Avoid Imposters](https://dzone.com/articles/hiring-38-scrum-master-interview-questions-to-avoi) A free pdf from DZone user Stefan Wolpers for those looking to hire Scrum Masters or agile professionals.
 - [The shortest and greatest SCRUM cheat sheet that I've seen so far](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 - [What Is the Relationship Between Story Points and Task Effort in Hours?](https://www.scrumalliance.org/community/articles/2016/january/what-is-the-relationship-between-story-points-and)
