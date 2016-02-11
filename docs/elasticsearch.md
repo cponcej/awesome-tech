@@ -1,12 +1,14 @@
 <!-- MarkdownTOC -->
 
 - [Elasticsearch](#elasticsearch)
+    - [Logstash, kibana and elasticsearch](#logstash-kibana-and-elasticsearch)
 
 <!-- /MarkdownTOC -->
 
 [![logstash architecture](images/logstach-archi.png)](https://www.elastic.co/products/logstash)
 
 # Elasticsearch
+## Logstash, kibana and elasticsearch 
 - [Logstash | Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
 - [Kibana | Explore & Visualize Your Data](https://www.elastic.co/products/kibana)
 - [Nagios Log Server vs. Elasticsearch – Logstash – Kibana](http://labs.nagios.com/2014/10/19/nagios-log-server-vs-elasticsearch-logstash-kibana/)
