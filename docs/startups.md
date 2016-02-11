@@ -280,6 +280,7 @@
 - [businessinsider.com: The 29 smartest questions to ask at the end of every job interview](http://www.businessinsider.com/questions-to-ask-in-a-job-interview-2016-1)
 - [How to get any job you want — even if you're not technically qualified](http://www.businessinsider.com/how-to-get-any-job-you-want-even-if-youre-not-technically-qualified-2016-1)
 - [Surviving the technical interview](https://wilsonericn.wordpress.com/2012/10/29/surviving-the-technical-interview/)
+- [How to Solve Google’s Crazy Open-Ended Interview Questions](http://www.wired.com/2014/08/how-to-solve-crazy-open-ended-google-interview-questions/)
 
 ![war room](images/war_room.gif)
 
