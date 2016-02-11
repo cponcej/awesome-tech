@@ -20,6 +20,7 @@
 	- [VoIP](#voip)
 	- [MPLS Multi Protocol Label Switching (IP VPN)](#mpls-multi-protocol-label-switching-ip-vpn)
 	- [WiFi security](#wifi-security)
+	- [WiFi Products](#wifi-products)
 	- [WebPerf and Resilient Networking: Planning for Failure](#webperf-and-resilient-networking-planning-for-failure)
 
 <!-- /MarkdownTOC -->
@@ -293,6 +294,9 @@
 - [Aruba Networks](http://www.arubanetworks.com)
 - [HP Acquires Aruba Networks to Create an Industry Leader in Enterprise Mobility](http://www8.hp.com/hpnext/posts/hp-announcement-march-2015)
 - [zdnet: DD-WRT Linux firmware comes to Linksys routers](http://www.zdnet.com/article/dd-wrt-linux-firmware-comes-to-linksys-routers/)
+
+## WiFi Products
+- [twitter.com/wifisafespain](https://twitter.com/wifisafespain)
 
 ## WebPerf and Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
