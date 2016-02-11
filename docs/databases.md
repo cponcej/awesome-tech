@@ -17,6 +17,7 @@
 			- [MySQL Cluster. MySQL Replication](#mysql-cluster-mysql-replication)
 			- [MySQL metrics](#mysql-metrics)
 			- [MySQL Best Practices](#mysql-best-practices)
+				- [MySQL/MariaDB Performance Tuning and Optimization Tips](#mysqlmariadb-performance-tuning-and-optimization-tips)
 		- [MariaDB](#mariadb)
 			- [MariaDB Replication](#mariadb-replication)
 		- [PostgreSQL](#postgresql)
@@ -223,6 +224,9 @@
 	- [MySQL for Visual Studio 1.2.6 has been released](http://insidemysql.com/mysql-for-visual-studio-1-2-6-has-been-released/)
 - [Python Mysql Connector](http://jasonralph.org/?p=291)
 - [Migrating from PostgreSQL to MySQL](http://www.tocker.ca/2013/09/05/migrating-from-postgresql-to-mysql.html)
+
+###### MySQL/MariaDB Performance Tuning and Optimization Tips
+- [15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips](http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization)
 
 [![generatedata.com](images/generatedata.jpg)](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 

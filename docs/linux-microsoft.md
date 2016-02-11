@@ -36,7 +36,8 @@
 			- [Jed](#jed)
 		- [Python Idle](#python-idle)
 	- [Apple OS X](#apple-os-x)
-- [Ubuntu](#ubuntu)
+	- [Ubuntu](#ubuntu)
+	- [Linux interview questions](#linux-interview-questions)
 - [Microsoft](#microsoft)
 	- [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 - [VirtualBox](#virtualbox)
@@ -69,12 +70,13 @@
 ## Linux and FOSS Blogs and Forums
 
 ### Best Linux Blogs
-- [commandlinefu.com](http://commandlinefu.com/)
-- [Linux Skill Youtube Channel](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 - [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
+	- [Linux Distributions](http://www.tecmint.com/best-linux-distributions/)
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
 - [Sysadmincasts.com](http://sysadmincasts.com)
 	- [Episode Guide](https://sysadmincasts.com/episode-guide)
+- [commandlinefu.com](http://commandlinefu.com/)
+- [Linux Skill Youtube Channel](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 - [Linux Home Networking | Tutorials and Forums](http://www.linuxhomenetworking.com/)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
 - [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
@@ -446,9 +448,12 @@
 
 [![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
 
-# Ubuntu
+## Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
 - [forbes: 10 Reasons Why Ubuntu Is Killing It In The Cloud](http://www.forbes.com/sites/janakirammsv/2016/01/12/10-reasons-why-ubuntu-is-killing-it-in-the-cloud/#2715e4857a0b19d6c8d819a2)
+
+## Linux interview questions
+- [http://www.tecmint.com/category/interview-questions/](http://www.tecmint.com/category/interview-questions/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/rfkDOrkHNRjrok" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hirist/top-100-linux-interview-questions-and-answers-2014" title="Top 100 Linux Interview Questions and Answers 2014" target="_blank">Top 100 Linux Interview Questions and Answers 2014</a> </strong> from <strong><a href="//www.slideshare.net/hirist" target="_blank">hirist.com</a></strong> </div>

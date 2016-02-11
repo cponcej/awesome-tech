@@ -7,7 +7,8 @@
 	- [RAID disks](#raid-disks)
 	- [Remote PC Access](#remote-pc-access)
 	- [Storage](#storage)
-		- [LVM Logical Volume Management](#lvm-logical-volume-management)
+		- [Linux LVM Logical Volume Management and FileSystems](#linux-lvm-logical-volume-management-and-filesystems)
+			- [File Systems](#file-systems)
 	- [Backup](#backup)
 
 <!-- /MarkdownTOC -->
@@ -78,13 +79,21 @@
 </div>
 <br>
 
-### LVM Logical Volume Management
+### Linux LVM Logical Volume Management and FileSystems
 - [RHEL6 doc: LVM Administrator Guide](https://access.redhat.com/knowledge/docs/en-US/Red_Hat_Enterprise_Linux/6/html-single/Logical_Volume_Manager_Administration/index.html)
 - [RHEL7 doc: LVM Administrator Guide](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html-single/Logical_Volume_Manager_Administration/index.html)
 - [Setup Flexible Disk Storage with Logical Volume Management (LVM) in Linux – PART 1](http://www.tecmint.com/create-lvm-storage-in-linux/)
 	- [How to Extend/Reduce LVM’s (Logical Volume Management) in Linux – Part II](http://www.tecmint.com/extend-and-reduce-lvms-in-linux/)
 	- [How to Take ‘Snapshot of Logical Volume and Restore’ in LVM – Part III](http://www.tecmint.com/take-snapshot-of-logical-volume-and-restore-in-lvm/)
 - [Logical Volume Management on Debian Linux](http://www.tecmint.com/logical-volume-management-on-debian-linux/)
+
+#### File Systems
+- [Linux File System Structure](http://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/linux-directory-structure/)
+- [Linux File System Explained: Boot Loading, Disk Partitioning, BIOS, UEFI and File System Types](http://www.tecmint.com/linux-file-system-explained/)
+- [How to Create and Manage Btrfs File System in Linux](http://www.tecmint.com/create-btrfs-filesystem-in-linux/)
+- [RHCSA Series: XFS and ACLs (Access Control Lists)](http://www.tecmint.com/rhcsa-exam-configure-acls-and-mount-nfs-samba-shares/)
+- [RHCSA Series: Using ‘Parted’ and ‘SSM’ to Configure and Encrypt System Storage](http://www.tecmint.com/rhcsa-exam-create-format-resize-delete-and-encrypt-partitions-in-linux/)
+- [Sistemas de archivos en Linux: ¿es hora de dejar ext4 por Btrfs y XFS?](http://www.muylinux.com/2015/01/23/sistema-de-archivos-linux-ext4-btrfs-xfs)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/5IMFuE8obToyyM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/michal6103/lvm-10336503" title="Linux: LVM" target="_blank">Linux: LVM</a> </strong> from <strong><a href="//www.slideshare.net/michal6103" target="_blank">Michal Sedlak</a></strong> </div>
@@ -95,6 +104,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4BYxpR89SQwHee" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/gnunify/storage-management-using-lvm" title="Storage Management using LVM" target="_blank">Storage Management using LVM</a> </strong> from <strong><a href="//www.slideshare.net/gnunify" target="_blank">Priyank Kapadia</a></strong> </div>
 </div>
 <br/>
+
+[![Linux directory structure](images/Linux-Directory-Structure.jpg)](http://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/)
 
 ## Backup
 - [6 Steps to Better Data Backup and Quicker Recovery](https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd)

@@ -65,6 +65,8 @@
 - [opensourcerers.org](http://www.opensourcerers.org/)
 
 ## Red Hat Docs
+- [tecmint: Red Hat Enterprise Linux (RHEL) 7.1 Released – A Quick Review and Installation Instructions](http://www.tecmint.com/redhat-enterprise-linux-7-1-installation/)
+- [RHEL 7.2 Release Notes](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/7.2_Release_Notes/index.html)
 - [Red Hat Enterprise Linux 5, 6, and 7.Common administrative commands](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
 	- [A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives](http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/)
 - [Product documentation](https://access.redhat.com/documentation/en/)
