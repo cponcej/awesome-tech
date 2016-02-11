@@ -285,6 +285,8 @@
 
 [![Meagan Francis quote](images/meagan_francis_quote.png)](http://www.quietrev.com/3-tips-for-overcoming-fraud-syndrome/)
 
+[![dificultad entrevistas por empresa](images/dificultad_entrevistas_por_empresa.png)](http://www.expansion.com/emprendedores-empleo/2016/02/07/56b084b3268e3eaf678b4607.html)
+
 [![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
 
 #### Technical Resume
