@@ -9,20 +9,20 @@
 	- [FOSS youtube channels](#foss-youtube-channels)
 	- [Linux on Twitter](#linux-on-twitter)
 	- [Linux References](#linux-references)
-		- [Linux web tools](#linux-web-tools)
-		- [BashHub Bash History in the Cloud](#bashhub-bash-history-in-the-cloud)
-		- [Linux storage](#linux-storage)
-			- [Linux LVM Logical Volume Management and FileSystems](#linux-lvm-logical-volume-management-and-filesystems)
-		- [Linux processes](#linux-processes)
-		- [Linux user accounts](#linux-user-accounts)
-		- [Linux backups](#linux-backups)
-		- [Downgrade or Rollback Updates](#downgrade-or-rollback-updates)
-		- [man pages on steroids with examples](#man-pages-on-steroids-with-examples)
-		- [Linux bash](#linux-bash)
-		- [Command line text manipulation tools](#command-line-text-manipulation-tools)
-		- [Linux Terminals](#linux-terminals)
+	- [Linux web tools](#linux-web-tools)
+	- [BashHub Bash History in the Cloud](#bashhub-bash-history-in-the-cloud)
+	- [Linux storage](#linux-storage)
+		- [Linux LVM Logical Volume Management and FileSystems](#linux-lvm-logical-volume-management-and-filesystems)
+	- [Linux processes](#linux-processes)
+	- [Linux user accounts](#linux-user-accounts)
+	- [Linux backups](#linux-backups)
+	- [Downgrade or Rollback Updates](#downgrade-or-rollback-updates)
+	- [man pages on steroids with examples](#man-pages-on-steroids-with-examples)
+	- [Linux bash](#linux-bash)
+	- [Command line text manipulation tools](#command-line-text-manipulation-tools)
+	- [Linux Terminals](#linux-terminals)
 		- [Linux Virtualization](#linux-virtualization)
-		- [FOSS Software](#foss-software)
+	- [FOSS Software](#foss-software)
 	- [Linux Performance](#linux-performance)
 		- [htop](#htop)
 		- [Glances](#glances)
@@ -143,7 +143,7 @@
 - [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)
 - [Linux Command: Show Linux Version](http://www.cyberciti.biz/faq/command-to-show-linux-version/)
 
-### Linux web tools
+## Linux web tools
 - [curl Command Resume Broken Download](http://www.cyberciti.biz/faq/curl-command-resume-broken-download/)
 - [Wget: Resume Broken Download](http://www.cyberciti.biz/tips/wget-resume-broken-download.html)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
@@ -152,21 +152,21 @@
 - [DZone: Quickly Share a Folder Using HTTP On a Linux Host](https://dzone.com/articles/quickly-share-a-folder-using-http-on-a-linux-host)
 - [How to Optimize and Compress JPEG or PNG Images in Linux Commandline](http://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/)
 
-### BashHub Bash History in the Cloud
+## BashHub Bash History in the Cloud
 - [BashHub](https://bashhub.com/)
 - [twitter.com/bashhub](https://twitter.com/bashhub)
 
-### Linux storage
+## Linux storage
 - [Linux: Use smartctl To Check Disk Behind Adaptec RAID Controllers](http://www.cyberciti.biz/faq/linux-checking-sas-sata-disks-behind-adaptec-raid-controllers/)
 - [Linux/Unix pv Command: Monitor Progress of Data Sent Via a Pipe](http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/)
 - [agedu: Unix/Linux Command For Tracking Down Wasted Disk Space](http://www.cyberciti.biz/hardware/linux-find-and-recover-wasted-disk-space/)
 - [Linux lsscsi: See List Of All SCSI/SATA Hard Disks and CD/DVD Drives](http://www.cyberciti.biz/faq/debian-ubuntu-linux-list-scsi-devices-hosts-attributes-lsscsi-command/)
 - [How to reload sysctl.conf variables on Linux without rebooting the server](http://www.cyberciti.biz/faq/reload-sysctl-conf-on-linux-using-sysctl/) 
 
-#### Linux LVM Logical Volume Management and FileSystems 
+### Linux LVM Logical Volume Management and FileSystems 
 - [Linux LVM Logical Volume Management and FileSystems](servers-storage-backup.md#linux-lvm-logical-volume-management-and-filesystems)
 
-### Linux processes
+## Linux processes
 - [Linux: Find Out Which Process Is Listening Upon a Port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
 - [tecmint.com: A Guide to Kill, Pkill and Killall Commands to Terminate a Process in Linux](http://www.tecmint.com/how-to-kill-a-process-in-linux/)
 - [Sysadmincasts.com: LVM Linear vs Striped Logical Volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)
@@ -175,10 +175,10 @@
 - [ibm.com: Use the /proc filesystem to get a handle on your system](http://www.ibm.com/developerworks/linux/library/l-adfly/index.html)
 - [Linux Server See the Historical and Statistical Uptime of System With tuptime Utility](http://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/)
 
-### Linux user accounts
+## Linux user accounts
 - [cyberciti.biz: Linux Find Out Last System Reboot Time and Date Command](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
 
-### Linux backups
+## Linux backups
 - [cyberciti.biz: How To Avoid Sudden Outburst Of Backup Shell Script or Program Disk I/O on Linux](http://www.cyberciti.biz/tips/linux-set-io-scheduling-class-priority.html)
 - [luckybackup.sourceforge.net: is an application for data back-up and synchronization powered by the rsync tool](http://luckybackup.sourceforge.net/)
 - [Debian/Ubuntu Linux Install and Configure Remote Filesystem Snapshot with rsnapshot Incremental Backup Utility](http://www.cyberciti.biz/faq/linux-rsnapshot-backup-howto/)
@@ -190,15 +190,15 @@
 - [Linux Get List of Installed Software for Reinstallation / Restore All the Software Programs](http://www.cyberciti.biz/tips/linux-get-list-installed-software-reinstallation-restore.html)
 	- [How to find out when Debian or Ubuntu package installed or updated](http://www.cyberciti.biz/faq/debian-ubuntu-linux-find-package-installed-updated-date/)
 
-### Downgrade or Rollback Updates
+## Downgrade or Rollback Updates
 - [CentOS/RHEL Use yum Command To Downgrade or Rollback Updates](http://www.cyberciti.biz/faq/howto-yum-downgrade-packages-on-rhel-centos-fedora-scientific-linux/)
 - [Rollback an apt-get upgrade if something goes wrong on Debian/Ubuntu Linux](http://www.cyberciti.biz/howto/debian-linux/ubuntu-linux-rollback-an-apt-get-upgrade/)
 
-### man pages on steroids with examples
+## man pages on steroids with examples
 - [TLDR pages](http://tldr-pages.github.io/)
 - [Bro pages](http://bropages.org/)
 
-### Linux bash 
+## Linux bash 
 - [A Bash Shell Scripting Directory](https://bash.cyberciti.biz/)
 	- [bash.cyberciti.biz: Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
 - [explainshell.com](http://explainshell.com) match command-line arguments to their help text
@@ -229,7 +229,7 @@
 - [Monkeying around on the bash command line in 2016](http://www.computerworld.com/article/3018637/open-source-tools/monkeying-around-on-the-bash-command-line-in-2016.html)
 - [Linux/UNIX: Find Out If File Exists With Conditional Expressions](http://www.cyberciti.biz/tips/find-out-if-file-exists-with-conditional-expressions.html)
 
-### Command line text manipulation tools 
+## Command line text manipulation tools 
 - [AWK](https://en.wikipedia.org/wiki/AWK)
 - [Sed](https://en.wikipedia.org/wiki/Sed)
 - [pyp: Python Power at the Prompt](https://code.google.com/p/pyp/)
@@ -241,7 +241,7 @@
 </div>
 <br/>
 
-### Linux Terminals
+## Linux Terminals
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)
 - [Pymux: A terminal multiplexer (like tmux) in Python](https://github.com/jonathanslenders/pymux)
 
@@ -250,7 +250,7 @@
 - [Troubleshooting KVM Virtualization Problem With Log Files](http://www.cyberciti.biz/faq/troubleshooting-kvm-virtualization-problem-with-log-files/)
 - [linuxpitstop.com: Install and Configure KVM (Kernel Based Virtual Machine) On Ubuntu Linux 15.04](http://linuxpitstop.com/install-kvm-on-ubuntu-linux-15-04/)
 
-### FOSS Software
+## FOSS Software
 - [30 Cool Open Source Software I Discovered in 2013](http://www.cyberciti.biz/open-source/30-cool-best-open-source-softwares-of-2013/)
 - [Postfix Flush the Mail Queue](http://www.cyberciti.biz/tips/howto-postfix-flush-mail-queue.html)
 - [ownCloud 8.2.2, 8.1.5, 8.0.10 and 7.0.12 here with Sharing, LDAP fixes](https://owncloud.org/blog/owncloud-8-2-2-8-1-5-8-0-10-and-7-0-12-here-with-sharing-ldap-fixes/)
