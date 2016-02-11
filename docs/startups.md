@@ -3,6 +3,7 @@
 
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
+	- [IT remuneration](#it-remuneration)
 	- [Trabajar por el mundo](#trabajar-por-el-mundo)
 		- [Barcelona startups](#barcelona-startups)
 		- [Madrid startups](#madrid-startups)
@@ -48,6 +49,9 @@
 - [insideanalysis.com: 10 Companies and Technologies to Watch in 2016](http://insideanalysis.com/2016/01/20535/)
 - [startup-resources.zeef.com](https://startup-resources.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
+
+## IT remuneration
+- [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
 
 ## Trabajar por el mundo
 - [trabajarporelmundo.org](http://trabajarporelmundo.org/)

@@ -23,6 +23,8 @@ pages:
 - Security: security.md
 - Configuration Management and Orchestration. Microservices: config-mgmt.md
 - DevOps and ITIL: devops-itil.md
+- Continuous Integration Tools: jenkins-git.md
+- Metrics: metrics.md
 - Software Development: sw-devel.md
 - Data Science and Big Data: data-science.md
 - SQL and Databases: databases.md
