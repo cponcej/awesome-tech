@@ -120,6 +120,16 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pe2AAg6OQ07BZk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mailtoshinu/gitflow-sourcetree-and-gitlab" title="GitFlow, SourceTree and GitLab" target="_blank">GitFlow, SourceTree and GitLab</a> </strong> from <strong><a href="//www.slideshare.net/mailtoshinu" target="_blank">Shinu Suresh</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FNcboHLRiBKq93" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/engineerball/gitlab-training-with-git-and-sourcetree" title="Gitlab Training with GIT and SourceTree" target="_blank">Gitlab Training with GIT and SourceTree</a> </strong> from <strong><a href="//www.slideshare.net/engineerball" target="_blank">engineerball</a></strong> </div>
+</div>
+<br/>
+
 ### Git on Twitter
 - [twitter.com/github](https://twitter.com/github)
 - [twitter.com/githubstatus](https://twitter.com/githubstatus)
