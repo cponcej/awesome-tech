@@ -172,3 +172,5 @@
 [![Docker Cookbook packt](images/Docker-Cookbook.png)](http://www.wowebook.org/docker-cookbook-packt-publishing.html)
 
 [![Using Docker](images/Using-Docker.png)](http://www.wowebook.org/using-docker-developing-and-deploying-software-with-containers.html)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137946400536" data-did="6bf2dc8017b1c8c4f8ecab815dd42dd6f5f23edc"><a href="http://inafev.tumblr.com/post/137946400536/hello-docker">http://inafev.tumblr.com/post/137946400536/hello-docker</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
