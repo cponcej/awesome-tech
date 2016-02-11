@@ -448,6 +448,16 @@
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
 - [forbes: 10 Reasons Why Ubuntu Is Killing It In The Cloud](http://www.forbes.com/sites/janakirammsv/2016/01/12/10-reasons-why-ubuntu-is-killing-it-in-the-cloud/#2715e4857a0b19d6c8d819a2)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rfkDOrkHNRjrok" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hirist/top-100-linux-interview-questions-and-answers-2014" title="Top 100 Linux Interview Questions and Answers 2014" target="_blank">Top 100 Linux Interview Questions and Answers 2014</a> </strong> from <strong><a href="//www.slideshare.net/hirist" target="_blank">hirist.com</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NsYzEq2VPlC3nn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/linuxtutorial/top-linux-interview-questions-and-answers-job-interview-tips" title="Top linux interview questions and answers job interview tips" target="_blank">Top linux interview questions and answers job interview tips</a> </strong> from <strong><a href="//www.slideshare.net/linuxtutorial" target="_blank">linuxtutorial</a></strong> </div>
+</div>
+<br/>
+
 # Microsoft
 - [zdnet: Linux and open source have won, get over it](http://www.zdnet.com/article/linux-and-open-source-have-won-get-over-it/) 2015 was the year Linux and open-source software took over the IT world, but many open-source and proprietary software fans still haven't figured it out.
 - [SSH for Windows open sourced by Microsoft. What's going on?](https://github.com/PowerShell/Win32-OpenSSH)
@@ -464,6 +474,11 @@
 - [Microsoft opens up its deep-learning toolkit on GitHub](http://www.pcworld.com/article/3026236/microsoft-opens-up-its-deep-learning-toolkit-on-github.html)
 
 [![number of running windows dec 2015](images/number_of_win10.jpg)](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/47dTfB2kZzgMy" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/intervietips/windows-sysadmin-interview-question" title="Windows sysadmin interview question" target="_blank">Windows sysadmin interview question</a> </strong> from <strong><a href="//www.slideshare.net/intervietips" target="_blank">intervietips</a></strong> </div>
+</div>
+<br/>
 
 ## Microsoft Monitoring and Management
 - [PowerShell Magazine](http://www.powershellmagazine.com/)
