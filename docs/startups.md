@@ -69,6 +69,7 @@
 
 ## Job Search
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
+- [Worst tech mergers and acquisitions: Oracle and Sun, and the sad tale of Palm](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
 - [The difference between contracting and consulting, and why it matters](http://www.techrepublic.com/blog/it-consultant/the-difference-between-contracting-and-consulting-and-why-it-matters-125429/)
 - [Eures Job Search](https://ec.europa.eu/eures/)
 - [make-it-in-germany.com](http://www.make-it-in-germany.com/)
@@ -175,5 +176,9 @@
 - [The Best Tech Skills to List on Your Resume](http://www.businessnewsdaily.com/4932-tech-skills-resume.html)
 - [forbes.com: 8 Tech Trends Changing How We Work In 2016](http://www.forbes.com/sites/ajagrawal/2016/01/11/8-tech-trends-changing-how-we-work-in-2016/#2715e4857a0b6a27c0767013)
 - [businessinsider.com: 17 common mistakes to avoid when you're networking](http://www.businessinsider.com/networking-mistakes-youre-making-2016-1)
+
+[![Oracle buys Sun](images/oracle-sun.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
+
+[![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)

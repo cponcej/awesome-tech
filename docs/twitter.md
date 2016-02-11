@@ -97,8 +97,6 @@
 ## OSSnews.net
 - [OSSnews.net](https://ossnews.net)
 
-[![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
-
 # Twitter Resources
 - Add twitter resources to your custom twitter lists or subscribe to someone else's lists.
 - [TweetDeck](https://tweetdeck.twitter.com)
