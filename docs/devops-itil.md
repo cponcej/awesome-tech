@@ -4,7 +4,7 @@
 - [DevOps](#devops)
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
-	- [Descripción de DevOps](#descripción-de-devops)
+	- [Cultura DevOps](#cultura-devops)
 	- [DevOps Tools 2016](#devops-tools-2016)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Javier Garzás](#javier-garzás)
@@ -110,7 +110,7 @@
 </div>
 <br/>
 
-## Descripción de DevOps
+## Cultura DevOps
 - [8 cosas de la cultura startup que aprenden las empresas](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian) Cómo la cultura startup está influenciando a las grandes empresas. Corporaciones, tomen nota: apliquen o desaparezcan.
 
 [![cultura startup](images/cultura_startup_devops.png)](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian)
