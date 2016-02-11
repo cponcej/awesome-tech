@@ -133,6 +133,11 @@
 - [Linkedin](https://www.linkedin.com/grp/home?gid=6814264)
 - [awscerts.slack.com](https://awscerts.slack.com)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/J5saN0sbo4cgTE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Examure4/aws-certified-solutions-architect-exam-questions-answers" title="AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers" target="_blank">AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers</a> </strong> from <strong><a href="//www.slideshare.net/Examure4" target="_blank">Examure4</a></strong> </div>
+</div>
+<br/>
+
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
@@ -212,6 +217,11 @@
 - [AWS CodeDeploy: Deploying from a Development Account to a Production Account](http://blogs.aws.amazon.com/application-management/post/Tx3PE3JTSVJSFI7/AWS-CodeDeploy-Deploying-from-a-Development-Account-to-a-Production-Account)
 - [blazemeter.com: Three Ways DevOps Benefit from AWS CodePipeline](https://blazemeter.com/blog/three-ways-devops-benefit-aws-codepipeline)
 - [AWS Partner Network - CodePipeline Integrations](https://aws.amazon.com/es/codepipeline/product-integrations/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/N8zvYafuumHdhc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/aws-101-cloud-computing-seminar-2012" title="AWS 101: Cloud Computing Seminar (2012)" target="_blank">AWS 101: Cloud Computing Seminar (2012)</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
 
 [![learning AWS](images/Learning-AWS.png)](http://www.wowebook.org/learning-aws.html)
 
