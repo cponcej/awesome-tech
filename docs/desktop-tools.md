@@ -70,3 +70,4 @@
 
 [![hp mini pc](images/hp_mini.jpg)](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/139052159371" data-did="92b90475f75ffe97b976a54ddb2c47aa06c2118c"><a href="http://inafev.tumblr.com/post/139052159371/nixcraft-the-linux-user-experience-via">http://inafev.tumblr.com/post/139052159371/nixcraft-the-linux-user-experience-via</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
