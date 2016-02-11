@@ -26,6 +26,7 @@ pages:
 - Continuous Integration Tools: jenkins-git.md
 - Metrics: metrics.md
 - Software Development: sw-devel.md
+- Python: python.md
 - Data Science and Big Data: data-science.md
 - SQL and Databases: databases.md
 - Networking. Firewalls, Network Forensics: networking.md
