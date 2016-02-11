@@ -12,6 +12,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![live chat](images/human-resources-cover.png)](https://www.livechatinc.com/livechat-for-human-resources/)
+
 # Human Resources 
 - [careerealism.com](http://www.careerealism.com/)
 - [careersherpa.net](http://careersherpa.net)
