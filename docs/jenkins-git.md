@@ -101,7 +101,7 @@
 [![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/) 
 
 <div class="container">
-<iframe src="//es.slideshare.net/slideshow/embed_code/key/1UvevAlDKPto9f" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/HubSpot/gannett-final" title="COMPETITIVE INTELLIGENCE FOR SALES AND MARKETING: HOW TO WIN MORE OPPORTUNITIES AND OPTIMIZE YOUR MARKETING STRATEGY [INBOUND 2014]" target="_blank">COMPETITIVE INTELLIGENCE FOR SALES AND MARKETING: HOW TO WIN MORE OPPORTUNITIES AND OPTIMIZE YOUR MARKETING STRATEGY [INBOUND 2014]</a> </strong> from <strong><a href="//es.slideshare.net/HubSpot" target="_blank">HubSpot</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fTXc4C0qukQZVI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners" title="Git 101: Git and GitHub for Beginners " target="_blank">Git 101: Git and GitHub for Beginners </a> </strong> from <strong><a href="//www.slideshare.net/HubSpot" target="_blank">HubSpot</a></strong> </div>
 </div>
 <br/>
 
