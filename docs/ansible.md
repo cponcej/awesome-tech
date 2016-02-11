@@ -47,6 +47,7 @@
 - [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 - [Ansible: write and run your first playbook](http://abregman.com/2015/12/25/ansible-write-and-run-your-first-playbook/)
 - [Ansible 2.0 Has Arrived and includes over 200 new modules](http://www.ansible.com/blog/ansible-2.0-launch)
+- [Webinar: Ansible 2.0 & Beyond](https://www.ansible.com/webinar-on-demand-ansible-2)
 - [Puppet is out, in comes Ansible](https://kanarip.wordpress.com/2016/01/28/puppet-is-out-in-comes-ansible/)
 - [F5 Deployment Automation Demo with Ansible](https://www2.wwt.com/f5-deployment-automation-demo-with-ansible/)
 
@@ -106,6 +107,11 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/sy7ybpuwqkRbdH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jtyr/automation-and-ansible" title="Automation and Ansible" target="_blank">Automation and Ansible</a> </strong> from <strong><a href="//www.slideshare.net/jtyr" target="_blank">jtyr</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/sy8i4VXIVEE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
