@@ -27,6 +27,7 @@ pages:
 - DevOps and ITIL: devops-itil.md
 - Continuous Integration Tools: jenkins-git.md
 - Metrics: metrics.md
+- Elasticsearch: elasticsearch.md
 - Software Development: sw-devel.md
 - Python: python.md
 - Data Science and Big Data: data-science.md

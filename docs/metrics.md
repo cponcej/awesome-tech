@@ -14,6 +14,7 @@
 			- [APM Blogs](#apm-blogs)
 			- [APM Solutions](#apm-solutions)
 		- [Centralized logging. Big Data Log Management Tools (Data Analytics Platforms)](#centralized-logging-big-data-log-management-tools-data-analytics-platforms)
+			- [Elasticsearch](#elasticsearch)
 
 <!-- /MarkdownTOC -->
 
@@ -170,27 +171,9 @@
 - [Fluentd | Open Source Data Collector | Unified Logging Layer](http://www.fluentd.org/)
 	- [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
 	- [Fluentd and Graylog2 for End-to-End Log Analysis](http://www.fluentd.org/guides/recipes/graylog2)
-- [Logstash | Collect, Enrich & Transport Data](https://www.elastic.co/products/logstash)
-	- [Kibana | Explore & Visualize Your Data](https://www.elastic.co/products/kibana)
-	- [Nagios Log Server vs. Elasticsearch – Logstash – Kibana](http://labs.nagios.com/2014/10/19/nagios-log-server-vs-elasticsearch-logstash-kibana/)
-	- [Kibana is a highly scalable interface for Logstash and ElasticSearch that allows you to efficiently search, graph, analyze and otherwise make sense of a mountain of logs](http://kibana.org)
-	- [Using elasticsearch, logstash and kibana to create realtime dashboards (slides)](https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards)
-	- [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
-	- [youtube: Logstash Presentation](https://www.youtube.com/watch?v=U3m0jKygAqU)
-	- [Getting Started on Centralized Logging with Logstash, Elasticsearch and Kibana](http://www.ericvb.com/archives/getting-started-on-centralized-logging-with-logstash-elasticsearch-and-kibana)
-	- [My Logstash and Graylog2 notes](http://jpmens.net/2012/08/06/my-logstash-and-graylog2-notes/)
-	- [speakerdeck.com: Using elasticsearch, logstash & kibana to create realtime dashboards](https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards)
-	- [pyvideo.org - log everything with logstash and elasticsearch](http://pyvideo.org/video/3021/log-everything-with-logstash-and-elasticsearch)
-	- [logz.io: A Logstash Tutorial: How to Get Started](http://logz.io/blog/logstash-tutorial/)
-	- [logz.io: How to Use ELK to Monitor Performance](http://logz.io/blog/elk-monitor-platform-performance/)
-	- [adictosaltrabajo.com: Introducción a Kibana](http://www.adictosaltrabajo.com/tutoriales/introduccion-a-kibana/)
 - [rsyslog, the rocket-fast system for logs processing](http://www.rsyslog.com/)
 - [Cloudlytics.com - Analytics for AWS Cloud Logs | CloudFront, CloudTrail, ELB & S3 Logs and Billing Analytics](https://www.cloudlytics.com/)
 - [Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools: Splunk Storm, Graylog, Sumlogic, Logentries, Papertrail](https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/)
 
-[![logstash architecture](images/logstach-archi.png)](https://www.elastic.co/products/logstash)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J3ai0cDOAkY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
+#### Elasticsearch
+- [Elasticsearch](elasticsearch.md)
