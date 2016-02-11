@@ -11,6 +11,8 @@
 		- [Product Owner](#product-owner)
 		- [Scrum Master. Scrum Cheat Sheet](#scrum-master-scrum-cheat-sheet)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
+			- [Continuous Integration Tools](#continuous-integration-tools)
+	- [Metrics](#metrics)
 - [ITIL](#itil)
 	- [Is DevOps replacing ITIL?](#is-devops-replacing-itil)
 	- [ITIL Tools](#itil-tools)
@@ -223,6 +225,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoMfbgF2D_4" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+
+#### Continuous Integration Tools
+- [Continuous Integration Tools](jenkins-git.md)
+
+## Metrics
+- [Metrics](metrics.md)
 
 # ITIL
 ## Is DevOps replacing ITIL?

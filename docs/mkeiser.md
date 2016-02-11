@@ -170,6 +170,7 @@ Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 	- [Una economía de casino (E715)](https://youtu.be/guLunFqJYw4)
 	- [Una economía momificada (E718)](https://youtu.be/4wZNfZ5j_Ck)
 	- [La destrucción de la clase media (E730)](https://youtu.be/y0HvhKH3YrQ)
+	- [¡Compren oro! (E739)](https://youtu.be/Zqt18VH2F5o)
 	- [Salarios, lo que baja no vuelve a subir (E754)](https://youtu.be/JHrXPlBpDNc)
 	- [Una economía en coma (E760)](https://youtu.be/QC7LyJko7dA)
 	- [Economías rentistas condenadas al fracaso (E767)](https://youtu.be/QXtbyGwnZEE)

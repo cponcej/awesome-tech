@@ -20,6 +20,7 @@
 	- [Bash](#bash)
 	- [PHP](#php)
 		- [PHP on Twitter](#php-on-twitter)
+	- [Python](#python)
 	- [Java](#java)
 		- [Java on Twitter](#java-on-twitter)
 		- [Java Blogs](#java-blogs)
@@ -251,6 +252,9 @@
 - [twitter.com/planetphp](https://twitter.com/planetphp)
 - [twitter.com/phpc](https://twitter.com/phpc)
 - [twitter.com/phpizer](https://twitter.com/phpizer)
+
+## Python
+- [Python](python.md)
 
 ## Java
 ### Java on Twitter

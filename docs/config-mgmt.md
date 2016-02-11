@@ -4,6 +4,8 @@
 - [Configuration Management and Orchestration](#configuration-management-and-orchestration)
 	- [Microservices](#microservices)
 	- [Vagrant](#vagrant)
+	- [Ansible](#ansible)
+	- [Docker](#docker)
 	- [Puppet](#puppet)
 		- [Application Orchestration](#application-orchestration)
 		- [WebLogic via Puppet](#weblogic-via-puppet)
@@ -59,6 +61,12 @@
 - [Discover Vagrant Boxes](https://atlas.hashicorp.com/boxes/search)
 - [Synced Folders Basic Usage](http://docs.vagrantup.com/v2/synced-folders/basic_usage.html)
 > By default Vagrant will set up a share with your host machine automatically... /vagrant on the virtual box will be mapped to the folder containing your Vagrantfile this allows you to edit anything in this folder and the changes will be made instantly on the virtual box as well.
+
+## Ansible
+- [Ansible](ansible.md)
+
+## Docker
+- [Docker](docker.md)
 
 ## Puppet
 - [Download the Learning VM](https://puppetlabs.com/download-learning-vm)
