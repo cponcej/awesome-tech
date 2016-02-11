@@ -29,11 +29,12 @@
 20. [Python](python.md)
 21. [Data Science and Big Data](data-science.md)
 22. [SQL and Databases](databases.md)
-23. [Networking. Firewalls, Network Forensics](networking.md)
-24. [Servers, Storage and Backup](servers-storage-backup.md)
-25. [Cloud](cloud.md)
-26. [Desktop Tools and Presentations](desktop-tools.md)
-27. [E-Learning](e-learning.md)
+23. [NoSQL and NewSQL](nosql.md)
+24. [Networking. Firewalls, Network Forensics](networking.md)
+25. [Servers, Storage and Backup](servers-storage-backup.md)
+26. [Cloud](cloud.md)
+27. [Desktop Tools and Presentations](desktop-tools.md)
+28. [E-Learning](e-learning.md)
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 

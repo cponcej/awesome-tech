@@ -32,6 +32,7 @@ pages:
 - Python: python.md
 - Data Science and Big Data: data-science.md
 - SQL and Databases: databases.md
+- NoSQL and NewSQL: nosql.md
 - Networking. Firewalls, Network Forensics: networking.md
 - Servers, Storage and Backup: servers-storage-backup.md
 - Cloud: cloud.md
