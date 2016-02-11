@@ -22,6 +22,8 @@ pages:
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
 - Configuration Management and Orchestration. Microservices: config-mgmt.md
+- Ansible: ansible.md
+- Docker: docker.md
 - DevOps and ITIL: devops-itil.md
 - Continuous Integration Tools: jenkins-git.md
 - Metrics: metrics.md
