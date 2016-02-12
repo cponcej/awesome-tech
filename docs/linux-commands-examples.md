@@ -16,6 +16,11 @@
 
 		PS1="# $PS1"
 
+- Tired of repeatedly pressing 'y' through some shell process? Try the 'yes' command: 
+
+		yes | rm *.txt 
+		yes | fsck /dev/FOO
+
 - Edit a file on a remote server using vim from your local *nix desktop
 
 		vim scp://user@server1//etc/httpd/httpd.conf 
@@ -86,6 +91,10 @@
 - Request by hour graph.
 
 		awk '{print $4}' apache_log|sort -n|cut -c1-15|uniq -c|awk '{b="";for(i=0;i<$1/10;i++){b=b"#"}; print $0 " " b;}'
+
+- Get list of top URLs from all logs combined
+
+		zcat access_log*.gz |cat - access_log |awk '{print $7}' |sed 's/\?.*//' |sort|uniq -c|sort -nr 
 
 - For Mar 22nd, print the req fields for hosts from two letter gTLD
 
@@ -208,6 +217,10 @@
 
 		lsof -i TCP:80 
 
+- On Linux, print out a list of the process IDs that are in the zombie state.
+
+		ps aux | awk '{if ($8=="Z") { print $2 }}'
+		
 - What I've done this week
 
 		git log --author=$USER --format="- %B" --since=-7days --reverse |mail -s "What I've done this week" boss@company\.com

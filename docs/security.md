@@ -31,6 +31,7 @@
 		- [OpenSSL](#openssl)
 		- [HTTPS Bicycle Attack](#https-bicycle-attack)
 		- [Backdoors](#backdoors)
+		- [Linode SSH](#linode-ssh)
 		- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
 
 <!-- /MarkdownTOC -->
@@ -45,6 +46,7 @@
 - [Sucuri Blog](https://blog.sucuri.net/)
 - [Blackmoreops.com](http://blackmoreops.com)
 - [k4linux.com](http://www.k4linux.com) Kali Linux 2.0 tutorials Technology and News of penetration testing and security Hacking Wifi Facebook Website.
+- [net-security.org](http://www.net-security.org)
 - [arstechnica.com/security](http://arstechnica.com/security)
 - [foxglovesecurity.com](http://foxglovesecurity.com/)
 - [securityzap.com](http://securityzap.com/)
@@ -142,6 +144,7 @@
 - [Open source identity management 20121106 - apache con eu](http://www.slideshare.net/ilgrosso/open-source-identity-management-20121106-apache-con-eu)
 - [community.dell.com: Is there anything that is a bigger waste of IT time than password resets?](http://en.community.dell.com/techcenter/iam/b/weblog/archive/2015/07/06/when-it-comes-to-iam-the-simple-things-can-ruin-your-day)
 - [cityam.com: "Password", "123456" and "qwerty": These are the world's 25 worst passwords of 2015](http://www.cityam.com/232759/password-123456-and-qwerty-these-are-the-worlds-25-worst-passwords-of-2015)
+- [Most IT pros have seen potentially embarrassing information about their colleagues](http://www.net-security.org/secworld.php?id=19418) 
 
 ![passwords](images/passwords.jpg)
 
@@ -255,6 +258,9 @@
 - [CVE-2015-7755: Juniper ScreenOS Authentication Backdoor](https://community.rapid7.com/community/infosec/blog/2015/12/20/cve-2015-7755-juniper-screenos-authentication-backdoor)
 - [Juniper drops NSA-developed code following new backdoor revelations](http://arstechnica.com/security/2016/01/juniper-drops-nsa-developed-code-following-new-backdoor-revelations/)
 - [SSH Backdoor for FortiGate OS Version 4.x up to 5.0.7](http://seclists.org/fulldisclosure/2016/Jan/26)
+
+### Linode SSH
+- [Linode SSH key blunder left virtual servers open to man-in-the-middle fiddles for months](http://www.theregister.co.uk/2016/02/09/linode_ssh_security/)
 
 ### Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments
