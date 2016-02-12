@@ -87,6 +87,8 @@
 - [OpenSCAP](https://www.open-scap.org) Tools, Security Policies and Standards
 - [Network Security Toolkit](http://www.networksecuritytoolkit.org)
 - [Metasploit](http://www.metasploit.com/)
+	- [slideshare: Metasploit for Penetration Testing: Beginner Class](http://es.slideshare.net/georgiaweidman/metasploit-for-penetration-testing-beginner-class)
+	- [slideshare: Pentest with Metasploit](http://es.slideshare.net/fl3xu5/pentest-with-metasploit-fl3xu5)
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
 - [BlackArch Linux Provides Over 1330 Penetration Testing Tools, New ISOs Out Now](http://linux.softpedia.com/blog/blackarch-linux-provides-over-1330-penetration-testing-tools-new-isos-out-now-498758.shtml)
 - [web2attack: Web hacking framework with tools, exploits by python](https://github.com/santatic/web2attack)
