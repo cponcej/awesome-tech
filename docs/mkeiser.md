@@ -8,6 +8,11 @@
 
 Max Keiser - Keiser Report #E823 #E828 #E831 
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eHQ7wvWzUW0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![global house prices economist](images/global-house-prices-economist.png)](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
 
 ![Should the Fed raise rates?](images/should-the-fed-raise-rates.png)
