@@ -4,49 +4,49 @@
 	- [SQL Blogs and Forums](#sql-blogs-and-forums)
 	- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 	- [SQL and Database Docs](#sql-and-database-docs)
-		- [Database Performance](#database-performance)
-		- [Database Security](#database-security)
-		- [EssentialSQL](#essentialsql)
-		- [Use The Index, Luke](#use-the-index-luke)
-		- [Database Version Control](#database-version-control)
-		- [MySQL](#mysql)
-			- [MySQL on Twitter](#mysql-on-twitter)
-			- [MySQL Blogs](#mysql-blogs)
-			- [MySQL Tutorials](#mysql-tutorials)
-			- [MySQL Books](#mysql-books)
-			- [MySQL Cluster. MySQL Replication](#mysql-cluster-mysql-replication)
-			- [MySQL metrics](#mysql-metrics)
-			- [MySQL Best Practices](#mysql-best-practices)
-				- [MySQL/MariaDB Performance Tuning and Optimization Tips](#mysqlmariadb-performance-tuning-and-optimization-tips)
-		- [MariaDB](#mariadb)
-			- [MariaDB Replication](#mariadb-replication)
-		- [PostgreSQL](#postgresql)
-			- [PostgreSQL on Twitter](#postgresql-on-twitter)
-			- [PostgreSQL refs](#postgresql-refs)
-			- [PostgreSQL Metrics](#postgresql-metrics)
-			- [UPSERT on Postgres 9.5](#upsert-on-postgres-95)
-		- [SQLite](#sqlite)
-		- [TinyDB](#tinydb)
-		- [Oracle](#oracle)
-			- [Oracle installation](#oracle-installation)
-			- [Oracle ASM](#oracle-asm)
-			- [LVM2 vs Oracle ASM](#lvm2-vs-oracle-asm)
-			- [Oracle ASM Disaster Recovery](#oracle-asm-disaster-recovery)
-			- [ASM Cluster File System](#asm-cluster-file-system)
-			- [Oracle ADVM](#oracle-advm)
-			- [Upstart and Oracle](#upstart-and-oracle)
-			- [Oracle Grid ASM](#oracle-grid-asm)
-			- [Oracle ASMCMD](#oracle-asmcmd)
-			- [Oracle ASMCA](#oracle-asmca)
+	- [Database Performance](#database-performance)
+	- [Database Security](#database-security)
+	- [EssentialSQL](#essentialsql)
+	- [Use The Index, Luke](#use-the-index-luke)
+	- [Database Version Control](#database-version-control)
 	- [SQL replication](#sql-replication)
+	- [MySQL](#mysql)
+		- [MySQL on Twitter](#mysql-on-twitter)
+		- [MySQL Blogs](#mysql-blogs)
+		- [MySQL Tutorials](#mysql-tutorials)
+		- [MySQL Books](#mysql-books)
+		- [MySQL Cluster. MySQL Replication](#mysql-cluster-mysql-replication)
+		- [MySQL metrics](#mysql-metrics)
+		- [MySQL Best Practices](#mysql-best-practices)
+		- [MySQL/MariaDB Performance Tuning and Optimization Tips](#mysqlmariadb-performance-tuning-and-optimization-tips)
+	- [MariaDB](#mariadb)
+		- [MariaDB Replication](#mariadb-replication)
+	- [PostgreSQL](#postgresql)
+		- [PostgreSQL on Twitter](#postgresql-on-twitter)
+		- [PostgreSQL refs](#postgresql-refs)
+		- [PostgreSQL Metrics](#postgresql-metrics)
+		- [UPSERT on Postgres 9.5](#upsert-on-postgres-95)
+	- [SQLite](#sqlite)
+	- [TinyDB](#tinydb)
+	- [Oracle](#oracle)
+		- [Oracle installation](#oracle-installation)
+		- [Oracle ASM](#oracle-asm)
+		- [LVM2 vs Oracle ASM](#lvm2-vs-oracle-asm)
+		- [Oracle ASM Disaster Recovery](#oracle-asm-disaster-recovery)
+		- [ASM Cluster File System](#asm-cluster-file-system)
+		- [Oracle ADVM](#oracle-advm)
+		- [Upstart and Oracle](#upstart-and-oracle)
+		- [Oracle Grid ASM](#oracle-grid-asm)
+		- [Oracle ASMCMD](#oracle-asmcmd)
+		- [Oracle ASMCA](#oracle-asmca)
 - [NoSQL and NewSQL](#nosql-and-newsql)
 
 <!-- /MarkdownTOC -->
 
-## SQL
+# SQL
 - [Reinventing Yourself as a Next Generation DBA](http://www.cumulogic.com/next-gen-dba/)
 
-### SQL Blogs and Forums
+## SQL Blogs and Forums
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [essentialsql.com](http://www.essentialsql.com)
 - [Sans SQL](http://www.sanssql.com)
@@ -68,7 +68,7 @@
 - [blog.jooq.org](http://blog.jooq.org/) Java, SQL and jOOQ. Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ.
 - [iLearnSQL](http://www.ilearnsql.com)
 
-### SQL and Big Data on Twitter
+## SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)
 - [twitter.com/BigDataBlogs](https://twitter.com/BigDataBlogs)
@@ -85,7 +85,7 @@
 	10. [twitter.com/jenbelissent](https://twitter.com/jenbelissent)
 	11. [twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
-### SQL and Database Docs
+## SQL and Database Docs
 - [18 Best Online Resources For Learning SQL and Database Concepts](http://www.vertabelo.com/blog/notes-from-the-lab/18-best-online-resources-for-learning-sql-and-database)
 - [SQL in ten minutes](http://www.codeproject.com/Articles/2059/SQL-in-ten-minutes)
 - [10 sql tips to speed up your database](http://www.catswhocode.com/blog/10-sql-tips-to-speed-up-your-database)
@@ -110,17 +110,17 @@
 
 [![SQL Joins Visualizer](images/sql_joins_visualizer.png)](http://sql-joins.leopard.in.ua/)
 
-#### Database Performance
+## Database Performance
 - [database-programmer.blogspot.co.at: Database Performance: Pay Me Now or Pay Me Later](http://database-programmer.blogspot.co.at/2008/07/database-performance-pay-me-now-or-pay.html)
 - [DZone/Database Zone: Top 6 Database Performance Metrics to Monitor in Enterprise Applications](https://dzone.com/articles/top-6-database-performance-metrics-to-monitor-in-e) This article reviews six of the top performance metrics to assess the health of your database in your enterprise application
 - [sqlperformance.com: Sneaky behaviours and isolation guarantees in the SNAPSHOT isolation level](http://sqlperformance.com/2014/06/sql-performance/the-snapshot-isolation-level)
 	- [sqlperformance.com: Tuning : A Good Place to Start](http://sqlperformance.com/2016/01/io-subsystem/tuning-a-good-place-to-start) Tim Radney of SQLskills gives an overview of his approach to SQL Server performance tuning, from system configuration, to I/O latency, to high cost queries.
 - [Faster SQL Paging with jOOQ Using the Seek Method](http://blog.jooq.org/2013/10/26/faster-sql-paging-with-jooq-using-the-seek-method/)
 
-#### Database Security
+## Database Security
 - [SQL Server Security Checklist](https://www.mssqltips.com/sqlservertip/3159/sql-server-security-checklist/)
 
-#### EssentialSQL 
+## EssentialSQL 
 - [Do you have a desire to learn SQL?](http://www.sanssql.com/2014/05/do-you-have-desire-to-learn-sql.html)
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [Get Ready to Learn SQL: 1 Simple SELECT Queries with SQLite](http://www.essentialsql.com/get-ready-to-learn-sql-simple-select-queries)
@@ -154,7 +154,7 @@
 
 [![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
 
-#### Use The Index, Luke
+## Use The Index, Luke
 - [Partial Indexes: Indexing Selected Rows](http://use-the-index-luke.com/sql/where-clause/partial-and-filtered-indexes)
 - [A visual explanation why LIKE filters are slow](http://use-the-index-luke.com/sql/where-clause/searching-for-ranges/like-performance-tuning)
 - [Performance Impacts of System Load](http://use-the-index-luke.com/sql/testing-scalability/system-load)
@@ -172,27 +172,39 @@
 
 [![use the index luke](images/use_the_index_luke.png)](http://use-the-index-luke.com/)
 
-#### Database Version Control
+## Database Version Control
 - [dzone.com: The Definitive Guide to Database Version Control — Part 6](https://dzone.com/articles/the-definitive-guide-to-database-version-control-p-7)
 
-#### MySQL
-##### MySQL on Twitter
+## SQL replication
+- [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
+- [Amazon RDS](https://serversforhackers.com/amazon-rds)
+- [Tungsten Replicator is an open source replication engine supporting a variety of different extractor and applier modules](https://github.com/vmware/tungsten-replicator)
+- [Multi-source replication in MySQL 5.7 vs Tungsten Replicator](https://www.percona.com/blog/2015/07/29/multi-source-replication-in-mysql-5-7-vs-tungsten-replicator/)
+- [MySQL Multi-Source Replication](https://dev.mysql.com/doc/refman/5.7/en/replication-multi-source.html)
+- [MySQL 5.7 Multi-Source Replication – Automatically Combining Data From Multiple Databases Into One](http://mysqlhighavailability.com/mysql-5-7-multi-source-replication-automatically-combining-data-from-multiple-databases-into-one/)
+- [MySQL Replication Defaults After 5.7](http://mysqlhighavailability.com/mysql-replication-defaults-after-5-7/)
+- [MariaDB Galera Cluster 10.0.21 and 5.5.45 now available](https://blog.mariadb.org/mariadb-galera-cluster-10-0-21-and-5-5-45-now-available/)
+- [What is MariaDB Galera Cluster?](https://mariadb.com/kb/en/mariadb/what-is-mariadb-galera-cluster/)
+- [Replication Manager for PostgreSQL Clusters](http://repmgr.org/)
+
+## MySQL
+### MySQL on Twitter
 - [twitter.com/MySQL](https://twitter.com/MySQL)
 - [twitter.com/ScriptingMySQL](https://twitter.com/ScriptingMySQL)
 
-##### MySQL Blogs
+### MySQL Blogs
 - [MySQL Server Team](http://mysqlserverteam.com/)
 - [InsideMySQL.com](http://insidemysql.com)
 
-##### MySQL Tutorials
+### MySQL Tutorials
 - [Syadmincasts: Crash Course on MySQL](https://sysadmincasts.com/episodes/38-crash-course-on-mysql)
 - [Tutorialspoint.com - MySQL Tutorial](http://www.tutorialspoint.com/mysql/index.htm)
 
-##### MySQL Books
+### MySQL Books
 - [highperfmysql.com - High Performance MySQL. Learn to Build Fast, Reliable, Scalable Systems with MySQL](http://www.highperfmysql.com/)
 - [High Performance MySQL, 3rd Edition](http://it-ebooks.info/book/676/)
 
-##### MySQL Cluster. MySQL Replication
+### MySQL Cluster. MySQL Replication
 - [mysqlhighavailability.com](http://mysqlhighavailability.com)
 - [Download MySQL Cluster](http://dev.mysql.com/downloads/cluster/)
 - [MySQL Cluster 7.4 Release Notes](http://dev.mysql.com/doc/relnotes/mysql-cluster/7.4/en/preface.html)
@@ -215,10 +227,10 @@
 </div> 
 <br/>
 
-##### MySQL metrics
+### MySQL metrics
 - [Box Anemometer](https://github.com/box/Anemometer)
 
-##### MySQL Best Practices
+### MySQL Best Practices
 - [Top 20+ MySQL Best Practices](http://code.tutsplus.com/tutorials/top-20-mysql-best-practices--net-7855)
 - [What Every Data Scientist Needs to Know about SQL](http://joshualande.com/data-science-sql/)
 - [MySQL very high CPU usage (and other processes)](http://www.corrspt.com/blog/2015/07/01/mysql-very-high-cpu-usage/)
@@ -235,13 +247,13 @@
 - [Python Mysql Connector](http://jasonralph.org/?p=291)
 - [Migrating from PostgreSQL to MySQL](http://www.tocker.ca/2013/09/05/migrating-from-postgresql-to-mysql.html)
 
-###### MySQL/MariaDB Performance Tuning and Optimization Tips
+### MySQL/MariaDB Performance Tuning and Optimization Tips
 - [15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips](http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization)
 
 [![generatedata.com](images/generatedata.jpg)](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 
-#### MariaDB
-##### MariaDB Replication
+## MariaDB
+### MariaDB Replication
 - [tecmint.com: Setup MariaDB (Master-Slave) Replication in CentOS/RHEL 7 and Debian 8](http://www.tecmint.com/mariadb-master-slave-replication-on-centos-rhel-debian/)
 - [Enabling GTIDs for server replication in MariaDB 10.0](https://mariadb.com/blog/enabling-gtids-server-replication-mariadb-100)
 - [MariaDB 10 GTID Explained](https://mariadb.com/blog/mariadb-10-gtid-explained)
@@ -286,11 +298,11 @@
 </div>
 <br/>
 
-#### PostgreSQL
-##### PostgreSQL on Twitter
+## PostgreSQL
+### PostgreSQL on Twitter
 - [twitter.com/postgresql](https://twitter.com/postgresql)
 
-##### PostgreSQL refs
+### PostgreSQL refs
 - [gettopical.com: PostgreSQL latest news](http://gettopical.com/postgresql)
 - [PostgreSQL docs](http://www.postgresql.org/docs/)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
@@ -315,14 +327,14 @@
 - [Introduction to PostgreSQL physical storage](http://rachbelaid.com/introduction-to-postgres-physical-storage/)
 - [Differences between PostgreSQL & MySQL Server](http://www.articlesbase.com/databases-articles/differences-between-postgresql-mysql-server-7377764.html)
 
-##### PostgreSQL Metrics
+### PostgreSQL Metrics
 - [Powa: PostgreSQL Workload Analyzer](http://dalibo.github.io/powa/)
 - [Spotify PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics)
 - [server side part of `heroku pg:diagnose`](https://github.com/heroku/pgdiagnose)
 - [Pome: a Postgres Metrics Dashboard](https://github.com/rach/pome)
 - [Bucardo](https://bucardo.org/wiki/Check_postgres)
 
-##### UPSERT on Postgres 9.5
+### UPSERT on Postgres 9.5
 - [postgresql.org: PostgreSQL 9.5: UPSERT, Row Level Security, and Big Data](http://www.postgresql.org/about/news/1636/)
 - [UPSERT on Postgres 9.5](http://blog.andrebarbosa.co/upsert-on-postgres-9-5/)
 - [wiki.postgresql.org: UPSERT on Postgres 9.5](https://wiki.postgresql.org/wiki/What's_new_in_PostgreSQL_9.5#INSERT_..._ON_CONFLICT_DO_NOTHING.2FUPDATE_.28.22UPSERT.22.29)
@@ -351,21 +363,21 @@
 </div>
 <br/>
 
-#### SQLite
+## SQLite
 - [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)
 - [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 - [Books About SQLite](http://www.sqlite.org/books.html)
 
-#### TinyDB
+## TinyDB
 - [TinyDB:](http://tinydb.readthedocs.org) a pure Python document (i.e., JSON) database for simple local storage
 
-#### Oracle
+## Oracle
 - [Oracle’s OPT_ESTIMATE hint: Usage Guide](http://www.pythian.com/blog/oracles-opt_estimate-hint-usage-guide/)
 
-##### Oracle installation
+### Oracle installation
 - [slideshare.net: Oracle11g on fedora14](http://www.slideshare.net/KhalidMatarAlbuflasah/oracle11g-on-fedora14-6564836)
 
-##### Oracle ASM
+### Oracle ASM
 - [orasite.com: Instalar y configurar ASMLib en Red Hat - Oracle RAC - Orasite.com](http://www.orasite.com/oracle-rac/instalar-y-configurar-asmlib-en-red-hat)
 - [Oracle ASM - yet another LVM (system configuration)](http://it.toolbox.com/blogs/unix-swing/oracle-asm-yet-another-lvm-system-configuration-37846)
 - [How to create a Oracle Database on LVM | Oracle-Hands-On](https://oraclehandson.wordpress.com/2010/08/25/how-to-create-a-oracle-database-on-lvm/)
@@ -377,49 +389,37 @@
 - [Oracle ACFS Command-Line Tools](https://docs.oracle.com/cd/E11882_01/server.112/e18951/asmfs_util.htm)
 - [orafaq.com: Automatic Storage Management](http://www.orafaq.com/wiki/Automatic_Storage_Management)
 
-##### LVM2 vs Oracle ASM
+### LVM2 vs Oracle ASM
 - [Introduction to Logical Volume Manager with Oracle Linux | Nikolay Manchev](http://manchev.org/2011/11/introduction-to-logical-volume-manager/)
 - [Tuning Oracle Database 10g on Linux Using ASM](http://www.rampant-books.com/art_scalzo_tuning_oracle_database_10g_on_linux_using_asm.htm)
 
-##### Oracle ASM Disaster Recovery
+### Oracle ASM Disaster Recovery
 - [Oracle ASM « Ronny Egner's Blog](https://ronnyegner.wordpress.com/category/oracle-asm/)
 - [Flash Recovery Area - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Oracle_Flashback#Flash_Recovery_Area)
 
-##### ASM Cluster File System
+### ASM Cluster File System
 - [DBA Tips Archive for Oracle](http://www.idevelopment.info/data/Oracle/DBA_tips/Automatic_Storage_Management/ASM_50.shtml#Oracle%20ASM%20Dynamic%20Volume%20Manager%20%28ADVM%29)
 
-##### Oracle ADVM
+### Oracle ADVM
 - [DBA Tips Archive for Oracle](https://oracle-base.com/articles/10g/oracle-db-10gr2-rac-installation-on-centos-4-using-vmware#create_shared_disks)
 - [ORACLE-BASE - Oracle 10g RAC On Linux Using VMware Server](https://oracle-base.com/articles/10g/oracle-db-10gr2-rac-installation-on-centos-4-using-vmware#create_shared_disks)
 
-##### Upstart and Oracle
+### Upstart and Oracle
 - [Oracle GI 11.2.0.3 + Upstart on Oracle Linux 6](http://it.toolbox.com/blogs/surachart/oracle-gi-11203-upstart-on-oracle-linux-6-48576)
 
-##### Oracle Grid ASM
+### Oracle Grid ASM
 - [Oracle Grid Infrastructure](https://docs.oracle.com/cd/E56676_01/html/E56737/gjcwv.html)
 - [Preparing Storage for ASM](http://docs.oracle.com/cd/B28359_01/server.111/b31107/asmprepare.htm)
 
-##### Oracle ASMCMD
+### Oracle ASMCMD
 - [ASMCMD examples « Oracle DBA – Tips and Techniques](http://gavinsoorma.com/2009/09/asmcmd-examples/)
 - [ASMCMD.pdf (objeto application/pdf)](http://www.oracleyyo.com/media/blogs/oracleyyo/ArchivosBlog/Pdf/ASMCMD.pdf)
 
-##### Oracle ASMCA
+### Oracle ASMCA
 - [Oracle ASM Configuration Assistant](https://docs.oracle.com/cd/E18786_01/doc/server.112/e16102/asmca.htm)
 - [oracle-base.com: ORACLE-BASE - Oracle ASM Cluster File Systems (ACFS) in Oracle Database 11g Release 2](https://oracle-base.com/articles/11g/acfs-11gr2)
 
-### SQL replication
-- [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
-- [Amazon RDS](https://serversforhackers.com/amazon-rds)
-- [Tungsten Replicator is an open source replication engine supporting a variety of different extractor and applier modules](https://github.com/vmware/tungsten-replicator)
-- [Multi-source replication in MySQL 5.7 vs Tungsten Replicator](https://www.percona.com/blog/2015/07/29/multi-source-replication-in-mysql-5-7-vs-tungsten-replicator/)
-- [MySQL Multi-Source Replication](https://dev.mysql.com/doc/refman/5.7/en/replication-multi-source.html)
-- [MySQL 5.7 Multi-Source Replication – Automatically Combining Data From Multiple Databases Into One](http://mysqlhighavailability.com/mysql-5-7-multi-source-replication-automatically-combining-data-from-multiple-databases-into-one/)
-- [MySQL Replication Defaults After 5.7](http://mysqlhighavailability.com/mysql-replication-defaults-after-5-7/)
-- [MariaDB Galera Cluster 10.0.21 and 5.5.45 now available](https://blog.mariadb.org/mariadb-galera-cluster-10-0-21-and-5-5-45-now-available/)
-- [What is MariaDB Galera Cluster?](https://mariadb.com/kb/en/mariadb/what-is-mariadb-galera-cluster/)
-- [Replication Manager for PostgreSQL Clusters](http://repmgr.org/)
-
-## NoSQL and NewSQL 
+# NoSQL and NewSQL 
 - [NoSQL and NewSQL](nosql.md)
 
 [![Visual_SQL_JOINS](images/Visual_SQL_JOINS_orig.jpg)](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
