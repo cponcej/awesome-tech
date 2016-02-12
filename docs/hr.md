@@ -98,7 +98,7 @@
 
 [![Maslows-Hierarchy-of-Needs](images/Maslows-Hierarchy-of-Needs-resized1.png)](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 
-![What makes an employee highly engaged](images/What-makes-an-employee-highly-engaged.jpg)(http://www.callcentre.co.uk/engage-contact-centre-staff-boost-productivity/)
+[![What makes an employee highly engaged](images/What-makes-an-employee-highly-engaged.jpg)](http://www.callcentre.co.uk/engage-contact-centre-staff-boost-productivity/)
 
 ## Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
