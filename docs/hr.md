@@ -44,6 +44,8 @@
 </div>
 <br>
 
+![culture shaped by worst behavior](images/culture_shaped_by_worst_behavior.jpg)
+
 ## Office Politics
 - [Forbes.com: Office Politics: Must You Play? A Handbook For Survival/Success](http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/)
 - [Setting up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
