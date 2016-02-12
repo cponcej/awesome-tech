@@ -11,14 +11,14 @@ markdown_extensions:
 pages:
 - Home: index.md
 - High quality tech resources and search engines: high-quality-tech-resources.md
-- Twitter resources, Newsfeeds: twitter.md
+- Newsfeeds and Twitter resources: twitter.md
 - Miscellaneous. IT Blogs, Support: it-blogs.md
 - Startups, Jobs, In-Demand Skills: startups.md
 - Human Resources, Interviews, Leadership: hr.md
 - Scalability and Reliability, Datacenters: scalability.md
 - Linux, Microsoft, VMware: linux-microsoft.md
-- Red Hat: redhat.md
-- Linux Commands Examples: linux-commands-examples.md
+  - Red Hat: redhat.md
+  - Linux Commands Examples: linux-commands-examples.md
 - WebApp, HTTP/2, HTTPs, e-mail, Middleware, JVM, video: webapp.md
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
