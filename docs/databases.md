@@ -28,6 +28,16 @@
 		- [SQLite](#sqlite)
 		- [TinyDB](#tinydb)
 		- [Oracle](#oracle)
+			- [Oracle installation](#oracle-installation)
+			- [Oracle ASM](#oracle-asm)
+			- [LVM2 vs Oracle ASM](#lvm2-vs-oracle-asm)
+			- [Oracle ASM Disaster Recovery](#oracle-asm-disaster-recovery)
+			- [ASM Cluster File System](#asm-cluster-file-system)
+			- [Oracle ADVM](#oracle-advm)
+			- [Upstart and Oracle](#upstart-and-oracle)
+			- [Oracle Grid ASM](#oracle-grid-asm)
+			- [Oracle ASMCMD](#oracle-asmcmd)
+			- [Oracle ASMCA](#oracle-asmca)
 	- [SQL replication](#sql-replication)
 - [NoSQL and NewSQL](#nosql-and-newsql)
 
@@ -351,6 +361,51 @@
 
 #### Oracle
 - [Oracle’s OPT_ESTIMATE hint: Usage Guide](http://www.pythian.com/blog/oracles-opt_estimate-hint-usage-guide/)
+
+##### Oracle installation
+- [slideshare.net: Oracle11g on fedora14](http://www.slideshare.net/KhalidMatarAlbuflasah/oracle11g-on-fedora14-6564836)
+
+##### Oracle ASM
+- [orasite.com: Instalar y configurar ASMLib en Red Hat - Oracle RAC - Orasite.com](http://www.orasite.com/oracle-rac/instalar-y-configurar-asmlib-en-red-hat)
+- [Oracle ASM - yet another LVM (system configuration)](http://it.toolbox.com/blogs/unix-swing/oracle-asm-yet-another-lvm-system-configuration-37846)
+- [How to create a Oracle Database on LVM | Oracle-Hands-On](https://oraclehandson.wordpress.com/2010/08/25/how-to-create-a-oracle-database-on-lvm/)
+- [docs.oracle.com: Preparing Storage for ASM](http://docs.oracle.com/cd/B28359_01/server.111/b31107/asmprepare.htm)
+- [Overview of Oracle Database Installation](https://docs.oracle.com/database/121/NTDBI/intro.htm#NTDBI2637)
+- [What is Oracle Automatic Storage Management | Nikolay Manchev](http://manchev.org/2011/08/what-is-oracle-automatic-storage-management/)
+- [ORACLE-BASE - Oracle ASM Cluster File Systems (ACFS) in Oracle Database 11g Release 2](https://oracle-base.com/articles/11g/acfs-11gr2)
+- [Oracle ASM Configuration Assistant](https://docs.oracle.com/cd/E18786_01/doc/server.112/e16102/asmca.htm)
+- [Oracle ACFS Command-Line Tools](https://docs.oracle.com/cd/E11882_01/server.112/e18951/asmfs_util.htm)
+- [orafaq.com: Automatic Storage Management](http://www.orafaq.com/wiki/Automatic_Storage_Management)
+
+##### LVM2 vs Oracle ASM
+- [Introduction to Logical Volume Manager with Oracle Linux | Nikolay Manchev](http://manchev.org/2011/11/introduction-to-logical-volume-manager/)
+- [Tuning Oracle Database 10g on Linux Using ASM](http://www.rampant-books.com/art_scalzo_tuning_oracle_database_10g_on_linux_using_asm.htm)
+
+##### Oracle ASM Disaster Recovery
+- [Oracle ASM « Ronny Egner's Blog](https://ronnyegner.wordpress.com/category/oracle-asm/)
+- [Flash Recovery Area - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Oracle_Flashback#Flash_Recovery_Area)
+
+##### ASM Cluster File System
+- [DBA Tips Archive for Oracle](http://www.idevelopment.info/data/Oracle/DBA_tips/Automatic_Storage_Management/ASM_50.shtml#Oracle%20ASM%20Dynamic%20Volume%20Manager%20%28ADVM%29)
+
+##### Oracle ADVM
+- [DBA Tips Archive for Oracle](https://oracle-base.com/articles/10g/oracle-db-10gr2-rac-installation-on-centos-4-using-vmware#create_shared_disks)
+- [ORACLE-BASE - Oracle 10g RAC On Linux Using VMware Server](https://oracle-base.com/articles/10g/oracle-db-10gr2-rac-installation-on-centos-4-using-vmware#create_shared_disks)
+
+##### Upstart and Oracle
+- [Oracle GI 11.2.0.3 + Upstart on Oracle Linux 6](http://it.toolbox.com/blogs/surachart/oracle-gi-11203-upstart-on-oracle-linux-6-48576)
+
+##### Oracle Grid ASM
+- [Oracle Grid Infrastructure](https://docs.oracle.com/cd/E56676_01/html/E56737/gjcwv.html)
+- [Preparing Storage for ASM](http://docs.oracle.com/cd/B28359_01/server.111/b31107/asmprepare.htm)
+
+##### Oracle ASMCMD
+- [ASMCMD examples « Oracle DBA – Tips and Techniques](http://gavinsoorma.com/2009/09/asmcmd-examples/)
+- [ASMCMD.pdf (objeto application/pdf)](http://www.oracleyyo.com/media/blogs/oracleyyo/ArchivosBlog/Pdf/ASMCMD.pdf)
+
+##### Oracle ASMCA
+- [Oracle ASM Configuration Assistant](https://docs.oracle.com/cd/E18786_01/doc/server.112/e16102/asmca.htm)
+- [oracle-base.com: ORACLE-BASE - Oracle ASM Cluster File Systems (ACFS) in Oracle Database 11g Release 2](https://oracle-base.com/articles/11g/acfs-11gr2)
 
 ### SQL replication
 - [Traditional database replication drawbacks](http://www.nuodb.com/blog/replication-is-it-easy)
