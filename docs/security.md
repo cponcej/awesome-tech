@@ -86,6 +86,7 @@
 ## Security Toolkits and Policies. Penetration Testing
 - [OpenSCAP](https://www.open-scap.org) Tools, Security Policies and Standards
 - [Network Security Toolkit](http://www.networksecuritytoolkit.org)
+- [Metasploit](http://www.metasploit.com/)
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
 - [BlackArch Linux Provides Over 1330 Penetration Testing Tools, New ISOs Out Now](http://linux.softpedia.com/blog/blackarch-linux-provides-over-1330-penetration-testing-tools-new-isos-out-now-498758.shtml)
 - [web2attack: Web hacking framework with tools, exploits by python](https://github.com/santatic/web2attack)
@@ -97,6 +98,16 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XI1QcQL4qQ8?list=PLHYsrwTE3Rofwk_cc7641QNhSF8JzPprE" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b7jW9X9UqiY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/uzQIHCG3zyL5Wd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/JulianJGonzalez/metasploit-class-shellshock-attack" title="Metasploit Class: Shellshock Attack" target="_blank">Metasploit Class: Shellshock Attack</a> </strong> from <strong><a href="//es.slideshare.net/JulianJGonzalez" target="_blank">Julian Gonzalez</a></strong> </div>
+</div>
+<br/>
 
 ### Kali Linux
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
