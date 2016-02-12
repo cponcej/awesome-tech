@@ -17,8 +17,8 @@ pages:
 - Human Resources, Interviews, Leadership: hr.md
 - Scalability and Reliability, Datacenters: scalability.md
 - Linux, Microsoft, VMware: linux-microsoft.md
-  - Red Hat: redhat.md
-  - Linux Commands Examples: linux-commands-examples.md
+- Red Hat: redhat.md
+- Linux Commands Examples: linux-commands-examples.md
 - WebApp, HTTP/2, HTTPs, e-mail, Middleware, JVM, video: webapp.md
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
