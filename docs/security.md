@@ -271,6 +271,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdyQoUNeXSg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Heartbleed
 - [Red Hat security blog: Heartbleed](https://securityblog.redhat.com/tag/heartbleed/)
 - [Fixing Heartbleed with Ansible](http://www.ansible.com/blog/fixing-heartbleed-with-ansible)
