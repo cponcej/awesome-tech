@@ -6,6 +6,7 @@
 	- [HP](#hp)
 	- [RAID disks](#raid-disks)
 	- [Remote PC Access](#remote-pc-access)
+	- [VMware](#vmware)
 	- [Storage](#storage)
 		- [Linux LVM Logical Volume Management and FileSystems](#linux-lvm-logical-volume-management-and-filesystems)
 			- [File Systems](#file-systems)
@@ -49,6 +50,9 @@
 - [Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP](http://guac-dev.org/)
 - [Nomachine](https://www.nomachine.com/)
 - [X2Go](http://x2go.org)
+
+## VMware
+- [VMware](vmware.md)
 
 ## Storage
 - [StorageReview.com](http://www.storagereview.com/)

@@ -20,7 +20,6 @@ pages:
 - Red Hat: redhat.md
 - Linux Commands Examples: linux-commands-examples.md
 - Microsoft: microsoft.md
-- VMware: vmware.md
 - WebApp, HTTP/2, HTTPs, e-mail, Middleware, JVM, video: webapp.md
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
@@ -39,6 +38,7 @@ pages:
 - Networking. Firewalls: networking.md
 - Network Forensics: nw_forensics.md
 - Servers, Storage and Backup: servers-storage-backup.md
+- VMware: vmware.md
 - Cloud: cloud.md
 - Desktop Tools and Presentations: desktop-tools.md
 - E-Learning: e-learning.md
