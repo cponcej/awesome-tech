@@ -61,6 +61,10 @@
 - [eweek.com/security](http://www.eweek.com/security/)
 - [CSO: Security news, features and analysis about prevention, protection and business innovation](http://www.csoonline.com/)
 - [peerlyst](https://www.peerlyst.com/) Professional Community platform for Information Security
+- [Network Security - NetSecNow ](http://learnnetsec.blogspot.com.es)
+	- [NetSecNow on Youtube](https://www.youtube.com/user/NetSecNow)
+
+![NetSecNow](images/NetSecNow.jpg)(https://www.youtube.com/user/NetSecNow)
 
 ### Blogs de Seguridad Informática
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)
@@ -121,6 +125,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-tdz3DWyjEU?list=PLxoAx-KdaY7ohvPCCyP_hhPHUwXY9bRcH" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/lZlqr2PFJIo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
