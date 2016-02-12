@@ -12,6 +12,7 @@
 	- [Marketplaces](#marketplaces)
 		- [Noodlio](#noodlio)
 	- [Reddit](#reddit)
+	- [Screencasts](#screencasts)
 	- [Podcasts](#podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
 		- [Devops Podcasts](#devops-podcasts)
@@ -278,6 +279,14 @@
 - [Rackspace](https://www.reddit.com/r/rackspace)
 - [Wireshark](https://www.reddit.com/r/wireshark/)
 
+## Screencasts
+- [sysadmincasts.com](https://sysadmincasts.com)
+- [build-podcast.com](http://build-podcast.com)
+
+[![sysadmincasts](images/sysadmincasts.png)](https://sysadmincasts.com)
+
+[![build podcast](images/build_podcast.jpg)](http://build-podcast.com/)
+
 ## Podcasts 
 - [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
 - [build-podcast.com](http://build-podcast.com)
@@ -290,8 +299,6 @@
 	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
 - [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
 - [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
-
-[![build podcast](images/build_podcast.jpg)](http://build-podcast.com/)
 
 [![no dogma podcast](images/no_dogma_podcast.png)](http://nodogmapodcast.bryanhogan.net/)
 
