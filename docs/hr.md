@@ -134,6 +134,7 @@
 - [The 6 Musts of a Cover Letter](http://www.entrepreneur.com/article/269614)
 - [How to rock your tech resume (3 steps)](http://learntocodewith.me/posts/tech-resumes/) Just how you dislike writing your resume, hiring managers dislike reviewing them.
 - [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
+- [Forbes: Cover Letters Are Dead And Other 2016 Recruiting Trends](http://www.forbes.com/sites/lizryan/2016/02/04/cover-letters-are-dead-and-other-2016-recruiting-trends/)
 - [Linkedin: The One Thing Every Employer Wants to See On Your Resume](https://www.linkedin.com/pulse/one-thing-every-employer-wants-see-your-resume-brian-de-haaff)
 
 [![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
@@ -149,6 +150,8 @@
 - [Spanish Beautynomics o Cómo usted puede llegar a verse sin empleo](http://www.gurusblog.com/archives/spanish-beautynomics-o-como-usted-puede-llegar-a-verse-sin-empleo/30/11/2015/)
 - [9 cosas que hacen los jefes que obligan a renunciar](http://www.soyentrepreneur.com/29403-9-cosas-que-hacen-los-jefes-que-obligan-a-renunciar.html)
 - [30 características de una empresa con fuerte cultura de innovación. ¿Cuántas cumples?](http://www.sociedaddelainnovacion.es/30-caracteristicas-de-una-empresa-con-fuerte-cultura-de-innovacion-cuantas-cumples/)
+- [Procura no cabrear a tu jefe](https://balcon40.com/2016/02/07/procura-no-cabrear-a-tu-jefe/)
+- [Porqué las empresas deberían facilitar la conciliación de la vida laboral y personal](https://balcon40.com/2016/02/10/porque-las-empresas-deberian-facilitar-la-conciliacion-de-la-vida-laboral-y-personal/)
 
 ## Orientación laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)

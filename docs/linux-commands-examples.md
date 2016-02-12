@@ -108,6 +108,10 @@
 
 		ls -Sr1 | while IFS=$'\n' read -r file; do xz "$file"; done
 		
+- Compare the contents of 2 dirs. Show only 2 columns, each for files unique to the directory:
+
+		comm -3 <(ls -1 dir1) <(ls -1 dir2)
+
 - Want to see your FreeBSD server cpu temperature? Try:
 
 		sysctl -a |grep temper

@@ -88,6 +88,8 @@ Max Keiser - Keiser Report #E823 #E828 #E831
 
 [![Youth unemployment](images/youth_unemployment.png)](https://twitter.com/intlspectator)
 
+[![Car production 2014](images/car_production_2014.png)](https://twitter.com/intlspectator)
+
 [![OECD tomorrow's scientists](images/oecd_tomorrows_scientists.png)](https://twitter.com/OECD)
 
 [![OECD: GDP per hour worked](images/oecd_GDP_comparison.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/industry-and-services/oecd-compendium-of-productivity-indicators-2015_pdtvy-2015-en#page19)

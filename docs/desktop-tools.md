@@ -13,6 +13,7 @@
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/139052159371" data-did="92b90475f75ffe97b976a54ddb2c47aa06c2118c"><a href="http://inafev.tumblr.com/post/139052159371/nixcraft-the-linux-user-experience-via">http://inafev.tumblr.com/post/139052159371/nixcraft-the-linux-user-experience-via</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 # Desktop Tools
+- [41 Awesome Productivity Tools to Help Grow Your Brand](http://www.seanogle.com/guest-posts/41-productivity-tools)
 - [Learning Excel isn't just for finance professionals, it can boost anyone's productivity at work — here’s how](http://www.businessinsider.com/master-microsoft-excel-basics-beginner-online-course-udemy-deal-2016-2)
 - [How to avoid 'death by PowerPoint'](http://www.bbc.com/news/technology-35038429) These days, there are plenty of alternatives to PowerPoint - [Keynote](http://www.apple.com/mac/keynote/), [Slides](https://slides.com/), [Prezi](https://prezi.com), [SlideRocket](http://www.sliderocket.com/), [Easel.ly](http://easel.ly/), [Emaze](https://www.emaze.com), [Slidedog](http://slidedog.com/), to name but a few - many of which are freely available online.
 - [five.sentenc.es: email productivity](http://five.sentenc.es/)

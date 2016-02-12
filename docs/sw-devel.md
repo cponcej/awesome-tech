@@ -47,8 +47,9 @@
 
 <!-- /MarkdownTOC -->
 
-
 [![What OOP users claim](images/what_oop_users_claim.png)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+
+![The art of programming](images/the_art_of_programming.jpg)
 
 # Software Development
 - [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
