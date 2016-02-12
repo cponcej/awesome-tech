@@ -134,6 +134,7 @@
 - [The 6 Musts of a Cover Letter](http://www.entrepreneur.com/article/269614)
 - [How to rock your tech resume (3 steps)](http://learntocodewith.me/posts/tech-resumes/) Just how you dislike writing your resume, hiring managers dislike reviewing them.
 - [Job Interview Thank You Letter Sample](http://jobsearch.about.com/od/thankyouletters/a/blthank.htm)
+- [Linkedin: The One Thing Every Employer Wants to See On Your Resume](https://www.linkedin.com/pulse/one-thing-every-employer-wants-see-your-resume-brian-de-haaff)
 
 [![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
 
