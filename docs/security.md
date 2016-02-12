@@ -165,6 +165,26 @@
 - [Estándar de exclusión de robots](https://es.wikipedia.org/wiki/Est%C3%A1ndar_de_exclusi%C3%B3n_de_robots)
 - [Robots Database](http://www.robotstxt.org/db.html)
 
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/XUythFr7ES5ap" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/EnclaveSecurity/benefits-of-web-application-firewalls" title="Benefits of web application firewalls" target="_blank">Benefits of web application firewalls</a> </strong> from <strong><a href="//es.slideshare.net/EnclaveSecurity" target="_blank">EnclaveSecurity</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/NRQ8z1PRUUVVs6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/ThomasMalmberg/web-application-firewall-web-application-web-services-security-integrated-in-global-application-offering" title="Web Application Firewall - Web Application &amp; Web Services Security integrated in Global Application Offering" target="_blank">Web Application Firewall - Web Application &amp; Web Services Security integrated in Global Application Offering</a> </strong> from <strong><a href="//es.slideshare.net/ThomasMalmberg" target="_blank">Thomas Malmberg</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/Md0UCtdLgJUhd0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/AndrewChong7/content-delivery-network-and-web-application-firewall-v12" title="Content delivery network and web application firewall" target="_blank">Content delivery network and web application firewall</a> </strong> from <strong><a href="//es.slideshare.net/AndrewChong7" target="_blank">Andrew Chong</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/24h2tFCOR2T2PU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/deividtoledo/radware-waf-web-application-firewall" title="Radware - WAF (Web Application Firewall)" target="_blank">Radware - WAF (Web Application Firewall)</a> </strong> from <strong><a href="//es.slideshare.net/deividtoledo" target="_blank">Deivid Toledo</a></strong> </div>
+</div>
+<br/>
+
 ## Breaking Firewalls, Shellcode Injection, SQL Injection 
 - [Breaking Firewalls with OpenSSH and PuTTY](http://souptonuts.sourceforge.net/sshtips.htm)
 	- [PuTTY: 10 consejos útiles para conexiones SSH](http://www.emezeta.com/articulos/putty-10-consejos-utiles-para-conexiones-ssh)
