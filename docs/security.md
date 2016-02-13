@@ -19,6 +19,7 @@
 	- [Breaking Firewalls, Shellcode Injection, SQL Injection](#breaking-firewalls-shellcode-injection-sql-injection)
 	- [Email security. Anti Spam protection](#email-security-anti-spam-protection)
 	- [Server Hardening](#server-hardening)
+	- [Next Generation Firewalls](#next-generation-firewalls)
 	- [Major security issues](#major-security-issues)
 		- [Java Serialization Vulnerability](#java-serialization-vulnerability)
 		- [Windows](#windows)
@@ -195,6 +196,9 @@
 - [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
 - [Top 20 OpenSSH Server Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 - [Consejos para endurecer un servidor SSH y hacerlo más seguro](http://totaki.com/poesiabinaria/2016/01/consejor-endurecer-servidor-ssh-hacerlo-seguro/)
+
+## Next Generation Firewalls
+- [Next Generation Firewalls](networking.md#next-generation-firewalls-ngfw)
 
 ## Major security issues
 - [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
