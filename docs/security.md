@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Security](#security)
+	- [Awesome Lists](#awesome-lists)
 	- [Security Blogs](#security-blogs)
 		- [Blogs de Seguridad Informática](#blogs-de-seguridad-informática)
 		- [Network Security](#network-security)
@@ -40,6 +41,12 @@
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135125776940" data-did="9e79099acd0b5daa3f8b74dc625a47adf3422f39"><a href="http://securityreactions.tumblr.com/post/135125776940/management-is-so-busy-developing-security-metrics">http://securityreactions.tumblr.com/post/135125776940/management-is-so-busy-developing-security-metrics</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 # Security
+## Awesome Lists
+- [awesome security](https://github.com/sbilly/awesome-security)
+- [awesome security talks](https://github.com/PaulSec/awesome-sec-talks)
+- [awesome penetration testing](https://github.com/enaqx/awesome-pentest)
+- [awesome android security](https://github.com/ashishb/android-security-awesome)
+
 ## Security Blogs
 - [seclists.org](http://seclists.org/)
 - [ehacking.net](http://www.ehacking.net)
