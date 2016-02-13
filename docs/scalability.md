@@ -9,7 +9,7 @@
 
 <!-- /MarkdownTOC -->
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/139052088856" data-did="7f6c00872721685c446e6dac9a8ffc64a9ec3ba3"><a href="http://inafev.tumblr.com/post/139052088856/the-technical-account-manager-when-youre">http://inafev.tumblr.com/post/139052088856/the-technical-account-manager-when-youre</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+[![Bicycle parking at Delft Central Station](images/logo-bicycle-dutch.jpg)](https://bicycledutch.wordpress.com/2015/06/02/bicycle-parking-at-delft-central-station/)
 
 # Scalability
 ## Scalability and Data Center Blogs
@@ -97,6 +97,6 @@
 - [Apache ZooKeeper](http://zookeeper.apache.org/)
 	- [Coordination and service discovery with Apache Zookeeper](http://www.javacodegeeks.com/2013/11/coordination-and-service-discovery-with-apache-zookeeper.html)
 
-[![Bicycle parking at Delft Central Station](images/logo-bicycle-dutch.jpg)](https://bicycledutch.wordpress.com/2015/06/02/bicycle-parking-at-delft-central-station/)
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/139052088856" data-did="7f6c00872721685c446e6dac9a8ffc64a9ec3ba3"><a href="http://inafev.tumblr.com/post/139052088856/the-technical-account-manager-when-youre">http://inafev.tumblr.com/post/139052088856/the-technical-account-manager-when-youre</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 [![get healthier](images/Get_Healthier.png)](https://www.quora.com/Cloud-Computing/What-are-the-key-characteristics-of-a-robust-scalable-and-healthy-cloud-architecture)
