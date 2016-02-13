@@ -97,6 +97,7 @@
 	- [Diseño guiado por el dominio](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
 - [Demonstrating domain-driven design](http://dddsample.sourceforge.net/)
 	- [Demonstrating domain-driven design (GitHub)](https://github.com/citerus/dddsample-core)
+- [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) Highly recommended reading
 
 ![system testing](images/system_testing_cartoon.png)
 

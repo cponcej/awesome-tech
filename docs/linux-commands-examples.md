@@ -60,6 +60,10 @@
 
 		find . -maxdepth 1 -daystart -type f -name '*.jpg' -mtime -$( date +%j ) -exec mv -v {} 2015/ \;
 
+- Print the day of the year. Can be useful with things like find.
+
+		date +%j 
+
 - Make month histogram of dates of files in current directory.
 
 		ls -la --full-time |tr -s " " |cut -f6 -d " "|cut -c1-7 | sort | uniq -c
@@ -79,6 +83,10 @@
 - Add ssh key to remote host. Correct: 
 
 		ssh-copy-id usr@box
+
+- Create a dynamic SOCKS5 proxy on port 8989 using an SSH connection. Some apps can be configured to use this.
+
+		ssh -D 8989 you@remotehost 
 
 - List 10 largest open file on Unix:
 
@@ -108,6 +116,8 @@
 
 		ls -Sr1 | while IFS=$'\n' read -r file; do xz "$file"; done
 		
+- The utility 'file' reports a file's type. With the option -z it will try to look inside zipped files.
+
 - Compare the contents of 2 dirs. Show only 2 columns, each for files unique to the directory:
 
 		comm -3 <(ls -1 dir1) <(ls -1 dir2)
