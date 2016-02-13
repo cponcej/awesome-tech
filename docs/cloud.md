@@ -8,7 +8,7 @@
 	- [Development environments in the Cloud](#development-environments-in-the-cloud)
 	- [Cloud references](#cloud-references)
 	- [Cloud Pricing](#cloud-pricing)
-- [Amazon Web Services](#amazon-web-services)
+	- [Amazon Web Services](#amazon-web-services)
 	- [OpenStack private cloud](#openstack-private-cloud)
 	- [IBM Bluemix](#ibm-bluemix)
 
@@ -86,7 +86,7 @@
 - [Azure Pricing Calculator](http://azure.microsoft.com/en-us/pricing/calculator/)
 - [Linode pricing calculator](https://www.linode.com/pricing)
 
-# Amazon Web Services
+## Amazon Web Services
 - [Amazon Web Services](aws.md)
 
 ## OpenStack private cloud
