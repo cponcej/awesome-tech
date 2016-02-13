@@ -470,3 +470,4 @@
 # VirtualBox
 - [10 ways to get the most from VirtualBox](http://www.techrepublic.com/blog/10-things/10-ways-to-get-the-most-from-virtualbox/)
 
+[![t-shirt size](images/tshirt_size.jpg)](https://en.wikipedia.org/wiki/Linux_Symposium)

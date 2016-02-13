@@ -24,7 +24,10 @@
 
 <!-- /MarkdownTOC -->
 
-[![t-shirt size](images/tshirt_size.jpg)](https://en.wikipedia.org/wiki/Linux_Symposium)
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bpZyCP8TXChqaM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mjft01/big-data-landscape-2016" title="Big Data Landscape 2016 " target="_blank">Big Data Landscape 2016 </a> </strong> from <strong><a href="//www.slideshare.net/mjft01" target="_blank">Matt Turck</a></strong> </div>
+</div>
+<br/>
 
 # Data Science and Big Data
 - [Data is beautiful 'subreddit'](https://www.reddit.com/r/dataisbeautiful)
@@ -139,11 +142,6 @@
 - [smartdatacollective.com](http://www.smartdatacollective.com/)
 
 [![job trends analytics](images/job-trends-analytics.jpg)](http://www.indeed.com/jobtrends/BI%2C+analytics%2C+data+mining.html)
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/bpZyCP8TXChqaM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mjft01/big-data-landscape-2016" title="Big Data Landscape 2016 " target="_blank">Big Data Landscape 2016 </a> </strong> from <strong><a href="//www.slideshare.net/mjft01" target="_blank">Matt Turck</a></strong> </div>
-</div>
-<br/>
 
 ### Internet of things
 - [techrepublic.com: Survey: Harnessing the power of big data and IoT](http://www.techrepublic.com/article/survey-harnessing-the-power-of-big-data-and-iot/)
