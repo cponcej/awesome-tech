@@ -12,6 +12,7 @@
 		- [Anaconda Analytics](#anaconda-analytics)
 		- [Apache Zeppelin](#apache-zeppelin)
 	- [Big Data](#big-data)
+		- [Awesome Lists](#awesome-lists)
 		- [Big Data Blogs](#big-data-blogs)
 		- [Internet of things](#internet-of-things)
 		- [Data Visualization](#data-visualization)
@@ -129,6 +130,9 @@
 <iframe src="//es.slideshare.net/slideshow/embed_code/key/1wOqZRETza1mJ3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/zanorte/apache-storm-introduccion" title="Apache Storm: Introduccion" target="_blank">Apache Storm: Introduccion</a> </strong> from <strong><a href="//es.slideshare.net/zanorte" target="_blank">Stratebi</a></strong> </div>
 </div>
 <br/>
+
+### Awesome Lists
+- [Awesome big data](https://github.com/onurakpolat/awesome-bigdata)
 
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)

@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [SQL](#sql)
+	- [Awesome Lists](#awesome-lists)
 	- [SQL Blogs and Forums](#sql-blogs-and-forums)
 	- [SQL and Big Data on Twitter](#sql-and-big-data-on-twitter)
 	- [SQL and Database Docs](#sql-and-database-docs)
@@ -46,6 +47,10 @@
 # SQL
 - [Reinventing Yourself as a Next Generation DBA](http://www.cumulogic.com/next-gen-dba/)
 
+## Awesome Lists
+- [Awesome sql](https://github.com/danhuss/awesome-sql)
+- [Awesome database](https://github.com/numetriclabz/awesome-db)
+
 ## SQL Blogs and Forums
 - [New subreddit about SQL](https://www.reddit.com/r/sqlporn)
 - [essentialsql.com](http://www.essentialsql.com)
@@ -67,6 +72,7 @@
 - [sqlperformance.com](http://sqlperformance.com)
 - [blog.jooq.org](http://blog.jooq.org/) Java, SQL and jOOQ. Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ.
 - [iLearnSQL](http://www.ilearnsql.com)
+- [awesomesql.wordpress.com](https://awesomesql.wordpress.com)
 
 ## SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
