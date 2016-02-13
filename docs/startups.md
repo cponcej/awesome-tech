@@ -46,9 +46,15 @@
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
 
 ## Trabajar por el mundo
+- [spaniards.es](http://www.spaniards.es)
 - [trabajarporelmundo.org](http://trabajarporelmundo.org/)
 	- [Tips para crear un buen curriculum para trabajar en Londres](http://trabajarporelmundo.org/tips-para-crear-un-buen-curriculum-para-trabajar-en-londres/)
 - [Bristoleños: vivir en UK](http://bristolenos.com)
+- [Espanish in London](http://www.espanishinlondon.com)
+- [Para vivir en Irlanda](http://www.paravivirenirlanda.com)
+- [Quiero ir a vivir a Dublin](http://quieroiraviviradublin.blogspot.com.es)
+- [Berlín en español](http://berlinenespanol.net)
+- [Asociación española de profesionales en Holanda](http://profesionalesholanda.org)
 
 ![antes no sabia ingles y era lavaplatos](images/ingles_soy_dishwasher.jpg)
 
