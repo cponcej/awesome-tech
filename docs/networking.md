@@ -79,17 +79,17 @@
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/efHHF5aHeCPyv" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UmerQureshi9/simple-ipv4subnetting" title="Simple IPv4_Subnetting" target="_blank">Simple IPv4_Subnetting</a> </strong> from <strong><a href="//www.slideshare.net/UmerQureshi9" target="_blank">Umer Qureshi</a></strong> </div>
 </div>
-<br>
+<br/>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/EnfPCPLoYI8A9Q" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/swapnilkapate/i-pv4-subnetting-16465968" title="I pv4 subnetting" target="_blank">I pv4 subnetting</a> </strong> from <strong><a href="//www.slideshare.net/swapnilkapate" target="_blank">Swapnil Kapate</a></strong> </div>
 </div>
-<br>
+<br/>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/NTUP0U3kq421kQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nilmenon/ccna-1-routing-and-switching-v50-chapter-9" title="CCNA 1 Routing and Switching v5.0 Chapter 9" target="_blank">CCNA 1 Routing and Switching v5.0 Chapter 9</a> </strong> from <strong><a href="//www.slideshare.net/nilmenon" target="_blank">Nil Menon</a></strong> </div>
 </div>
-<br>
+<br/>
 
 ## IPv6
 - [wikipedia: IPv6](https://en.wikipedia.org/wiki/IPv6)
@@ -125,7 +125,7 @@
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLZg1XZUruk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br>
+<br/>
 
 ## WiFi security
 - [Analyzing the 1000 Most Common Wi-Fi Network Names](https://ghostpath.com/blog/ssid-analyzing-the-1000-most-common-wi-fi-network-names/)
