@@ -54,6 +54,8 @@
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
 - [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 - [Start Kali Linux, Ethical Hacking and Penetration Testing! (Free)](https://www.udemy.com/ethical-hacker/)
+- [An Entire MBA in 1 Course:Award Winning Business School Prof](https://www.udemy.com/an-entire-mba-in-1-courseaward-winning-business-school-prof/)
+	- [A former Goldman Sachs employee has condensed an entire MBA into one online course](http://www.businessinsider.com/goldman-sachs-mba-online-course-udemy-deal-2016-2)
 
 [![a cloud  guru at udemy](images/acloudguru.png)](https://www.udemy.com/user/ryankroonenburg/)
 
