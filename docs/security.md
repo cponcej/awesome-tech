@@ -12,6 +12,7 @@
 		- [Kali Linux](#kali-linux)
 	- [Antivirus](#antivirus)
 	- [Private Browsing](#private-browsing)
+	- [HTTPs and HSTS](#https-and-hsts)
 	- [Database encryption](#database-encryption)
 	- [Identity Management](#identity-management)
 	- [Big Data Security](#big-data-security)
@@ -156,6 +157,9 @@
 - [Private Browsing - Use Firefox without saving history](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)
 - [Qué saben de ti las ‘cookies’ y nueve preguntas más](http://tlife.guru/movilidad/que-saben-de-ti-las-cookies-y-nueve-preguntas-mas/)
 
+## HTTPs and HSTS
+- [HTTPs and HSTS](https.md)
+
 ## Database encryption
 - [Wikipedia: Database encryption](https://en.wikipedia.org/wiki/Database_encryption)
 - [dba.stackexchange.com - encryption tag](http://dba.stackexchange.com/questions/tagged/encryption)
@@ -221,8 +225,6 @@
 	- [PuTTY: 10 consejos útiles para conexiones SSH](http://www.emezeta.com/articulos/putty-10-consejos-utiles-para-conexiones-ssh)
 - [Punching holes into firewalls. Why firewalls shouldn't be considered a ultimate weapon for network security. Secure TCP-into-HTTP tunnelling guide](http://sebsauvage.net/punching/)
 - [Shellcode Injection: Think twice before granting a shell access](https://dhavalkapil.com/blogs/Shellcode-Injection/)
-- [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
-- [Bind variables are the best way to prevent SQL injection](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
 
 [![Shellcode Injection](images/shell_access_exploit.png)](https://dhavalkapil.com/blogs/Shellcode-Injection/)
 
@@ -266,30 +268,7 @@
 - [ZDNet: LastPass phishing attack avoids two-factor authentication in data theft](http://www.zdnet.com/article/lastpass-phishing-attack-avoids-two-factor-authentication-to-steal-your-data/) The exploited security flaw is severe enough that successful attacks compromise two-factor authentication codes.
 
 ### SQL injection
-- [Wikipedia: SQL injection](https://en.wikipedia.org/wiki/SQL_injection)
-- [blog.checkpoint.com: The Latest SQL Injection Trends](http://blog.checkpoint.com/2015/05/07/latest-sql-injection-trends/)
-- [Joomla SQL Injection Attacks in the Wild](https://blog.sucuri.net/2015/10/joomla-sql-injection-attacks-in-the-wild.html)
-- [The history of SQL Injection, the hack that will never go away](http://motherboard.vice.com/read/the-history-of-sql-injection-the-hack-that-will-never-go-away)
-- [kalitutorials.net: SQL Injection : How It Works](http://www.kalitutorials.net/2014/03/sql-injection-how-it-works.html)
-- [kalitutorials.net: Blind SQL Injection](http://www.kalitutorials.net/2015/02/blind-sql-injection.html)
-- [hackershandbook.org: SQL injection](http://www.hackershandbook.org/tutorials/sqlinjection)
-- [Hacking website using SQL Injection -step by step guide](http://breakthesecurity.cysecurity.org/2010/12/hacking-website-using-sql-injection-step-by-step-guide.html)
-- [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_jKylhJtPmI?list=PLAyiPXCn4LA9MIODF2ENP0gUMmuomzA3g" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdyQoUNeXSg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n8_b1aHz4VE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
+- [SQL injection](sql_injection.md)
 
 ### Heartbleed
 - [Red Hat security blog: Heartbleed](https://securityblog.redhat.com/tag/heartbleed/)

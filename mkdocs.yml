@@ -20,9 +20,11 @@ pages:
 - Red Hat: redhat.md
 - Linux Commands Examples: linux-commands-examples.md
 - Microsoft: microsoft.md
-- WebApp, HTTP/2, HTTPs, e-mail, Middleware, JVM, video: webapp.md
+- WebApp, HTTP/2, e-mail, Middleware, JVM, video: webapp.md
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
+- HTTPs and HSTS: https.md
+- SQL Injection: sql_injection.md
 - Configuration Management and Orchestration. Microservices: config-mgmt.md
 - Ansible: ansible.md
 - Docker: docker.md
