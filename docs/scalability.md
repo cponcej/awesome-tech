@@ -97,4 +97,6 @@
 - [Apache ZooKeeper](http://zookeeper.apache.org/)
 	- [Coordination and service discovery with Apache Zookeeper](http://www.javacodegeeks.com/2013/11/coordination-and-service-discovery-with-apache-zookeeper.html)
 
+[![Bicycle parking at Delft Central Station](images/logo-bicycle-dutch.jpg)](https://bicycledutch.wordpress.com/2015/06/02/bicycle-parking-at-delft-central-station/)
+
 [![get healthier](images/Get_Healthier.png)](https://www.quora.com/Cloud-Computing/What-are-the-key-characteristics-of-a-robust-scalable-and-healthy-cloud-architecture)
