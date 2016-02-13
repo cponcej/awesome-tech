@@ -20,8 +20,6 @@
 - [Cisco ASA 5500-X Series Firewalls](http://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/index.html)
 - [PaloAlto Firewall Platforms](https://paloaltonetworks.com/products/platforms/firewalls.html)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/137299316242" data-did="01ae80a50a24446e87cce8bedfb90340b1b3e3b7"><a href="http://securityreactions.tumblr.com/post/137299316242/fortinet-official-response-to-the-backdoor">http://securityreactions.tumblr.com/post/137299316242/fortinet-official-response-to-the-backdoor</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
-
 ## Dell SonicWall TZ Series 5th Generation. Escrito en primavera 2015
 >Una característica muy conveniente de los NGFW es la de "3G/4G Modem Failover", que junto al balanceo de varias conexiones simultáneas WAN nos garantiza una conexión permanente a Internet de alta disponibilidad. No olvidemos el punto crítico para nuestro negocio que supone la conexión a Internet con el auge de VoIP IP-PBX (en la nube ó alojado en nuestra infraestructura), donde una caída de Internet puede suponer la incomunicación telefónica del negocio. En cualquier caso existen en el mercados productos balanceadores WAN/ADSL expécíficos con 3G/4G failover, como por ejemplo los balanceadores "Peplink Balance" (http://www.wifisafe.com/balanceadores-adsl.html)
 
@@ -87,3 +85,6 @@
 - [Fortiguard](http://www.fortiguard.com/)
 - [twitter.com/Fortinet](https://twitter.com/Fortinet)
 - [This was not a “backdoor” vulnerability issue but rather a management authentication issue](http://blog.fortinet.com/post/brief-statement-regarding-issues-found-with-fortios)
+
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/137299316242" data-did="01ae80a50a24446e87cce8bedfb90340b1b3e3b7"><a href="http://securityreactions.tumblr.com/post/137299316242/fortinet-official-response-to-the-backdoor">http://securityreactions.tumblr.com/post/137299316242/fortinet-official-response-to-the-backdoor</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
