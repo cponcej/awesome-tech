@@ -67,6 +67,7 @@
 - [unix-shell.zeef.com](https://unix-shell.zeef.com)
 - [html.zeef.com](https://html.zeef.com)
 - [javaee8.zeef.com](https://javaee8.zeef.com)
+- [Java EE 8 Progress Tracker](https://java-ee-8-progress-tracker.zeef.com) This page is a Java EE 8 progress tracker. Follow JIRA issues, check resources (downloads, source code, playgrounds), mailing list, twitter posts, EG events, discussion and wikis. 
 - [nodejs.zeef.com](https://nodejs.zeef.com)
 - [angularjs.zeef.com](https://angularjs.zeef.com)
 - [free-programming-books.zeef.com](https://free-programming-books.zeef.com)
