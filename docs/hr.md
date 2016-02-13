@@ -43,6 +43,7 @@
 - [deloitte: Cultivating the IT Workforce of the Future](http://deloitte.wsj.com/cio/2015/10/20/cultivating-the-it-workforce-of-the-future/)
 - [businessinsider.com: 8 mistakes that make great employees leave](http://www.businessinsider.com/8-mistakes-that-make-great-employees-leave-2016-2)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
+- [Spanish worker skipped job he hated for 6 years, and no one noticed](http://mashable.com/2016/02/12/civil-servant-skips-work-for-6-years/)
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
