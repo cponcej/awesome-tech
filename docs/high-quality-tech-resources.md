@@ -35,7 +35,7 @@
 - [Why There Will Never Be Another RedHat: The Economics Of Open Source](http://techcrunch.com/2014/02/13/please-dont-tell-me-you-want-to-be-the-next-red-hat/)
 
 ## Zeef.com: Find and share quality development/tech resources
-- [Zeef.com 🔥🔥🔥🔥🔥](https://zeef.com)
+- [Zeef.com 🌟🌟🌟🌟🌟](https://zeef.com)
 - [awesome-awesomeness.zeef.com](https://awesome-awesomeness.zeef.com)
 - [startup-resources.zeef.com](https://startup-resources.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
@@ -89,15 +89,15 @@
 [![zeef](images/zeef.jpg)](https://zeef.com)
 
 ## Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc
-- [Awesome List - A curated list of awesome lists 🔥🔥🔥🔥🔥](https://github.com/sindresorhus/awesome)
+- [Awesome List - A curated list of awesome lists 🌟🌟🌟🌟🌟](https://github.com/sindresorhus/awesome)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-- [Awesome AWS 🔥🔥🔥🔥🔥](https://github.com/donnemartin/awesome-aws)
-- [Awesome sysadmin 🔥🔥🔥🔥🔥](https://github.com/kahun/awesome-sysadmin)
-- [Awesome security 🔥🔥🔥🔥](https://github.com/sbilly/awesome-security)
+- [Awesome AWS 🌟🌟🌟🌟🌟](https://github.com/donnemartin/awesome-aws)
+- [Awesome sysadmin 🌟🌟🌟🌟🌟](https://github.com/kahun/awesome-sysadmin)
+- [Awesome security 🌟🌟🌟🌟](https://github.com/sbilly/awesome-security)
 	- [Awesome security talks](https://github.com/PaulSec/awesome-sec-talks)
 	- [Awesome penetration testing](https://github.com/enaqx/awesome-pentest)
 	- [Awesome android security](https://github.com/ashishb/android-security-awesome)
-- [Awesome docker 🔥🔥🔥🔥](https://github.com/veggiemonk/awesome-docker)
+- [Awesome docker 🌟🌟🌟🌟](https://github.com/veggiemonk/awesome-docker)
 - [Awesome Puppet](https://github.com/olindata/awesome-puppet)
 - [Awesome Ansible](https://github.com/jdauphant/awesome-ansible)
 - [Awesome Chef](https://github.com/obazoud/awesome-chef)
@@ -107,17 +107,17 @@
 - [Awesome openstack](http://ramitsurana.github.io/awesome-openstack/)
 - [Awesome java](https://github.com/akullpp/awesome-java)
 - [Awesome django](https://gitlab.com/rosarior/awesome-django)
-- [Awesome python 🔥🔥🔥🔥](https://github.com/vinta/awesome-python/)
+- [Awesome python 🌟🌟🌟🌟](https://github.com/vinta/awesome-python/)
 - [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome ruby](https://github.com/markets/awesome-ruby)
-- [Awesome php 🔥🔥🔥🔥🔥](https://github.com/ziadoz/awesome-php)
+- [Awesome php 🌟🌟🌟🌟🌟](https://github.com/ziadoz/awesome-php)
 - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) With Electron, creating a desktop application for your company or idea is easy. Initially developed for GitHub's Atom editor, Electron has since been used to create applications by companies like Microsoft, Facebook, Slack, and Docker.
 - [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
 
 [![awesome logo](images/awesome_logo.png)](https://github.com/sindresorhus/awesome)
 
 ## Stack Exchange family of Q&A websites
-- [stackoverflow.com 🔥🔥🔥🔥🔥](http://stackoverflow.com/)
+- [stackoverflow.com 🌟🌟🌟🌟🌟](http://stackoverflow.com/)
 	- [How to Find the Best Software Engineers on Stack Overflow](http://booleanblackbelt.com/2013/08/how-to-find-the-best-software-engineers-on-stack-overflow/)
 	- [Stack Overflow en español es un sitio de preguntas y respuestas para programadores y profesionales de la informática](http://es.stackoverflow.com/)
 	- [careers.stackoverflow.com](http://careers.stackoverflow.com/)
@@ -191,7 +191,7 @@
 [![Stackoverflow is down](images/stackoverflow_down.png)](http://priceonomics.com/stack-overflow-and-the-zeitgeist-of-computer/)
 
 ## DZone
-- [DZone 🔥🔥🔥🔥🔥](https://dzone.com) Over a million developers have joined DZone
+- [DZone 🌟🌟🌟🌟🌟](https://dzone.com) Over a million developers have joined DZone
 - [Refcard](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
 - [Guides](https://dzone.com/guides)
 - [Zones](https://dzone.com/portals)
@@ -239,7 +239,7 @@
 - [Meta WCG](http://www.webcodegeeks.com/category/meta-wcg/)
 
 ## stackshare.io: Discover and discuss the best software tools and services
-- [stackshare.io 🔥🔥🔥](http://stackshare.io/)
+- [stackshare.io 🌟🌟🌟](http://stackshare.io/)
 	- [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
 - [Amazon ECS vs Joyent Triton Elastic Container Infrastructure](http://stackshare.io/convox/amazon-ecs-vs-joyent-triton)
 	- [Joyent Triton Elastic Container Infrastructure](https://www.joyent.com/)
@@ -265,11 +265,11 @@
 - [Ansible](https://www.reddit.com/r/ansible/)
 - [Puppet](https://www.reddit.com/r/puppet)
 - [Linuxadmin](https://www.reddit.com/r/linuxadmin)
-- [RedHat 🔥🔥🔥🔥🔥](https://www.reddit.com/r/redhat/)
+- [RedHat 🌟🌟🌟🌟🌟](https://www.reddit.com/r/redhat/)
 - [Ubuntu](https://www.reddit.com/r/ubuntu)
-- [sysadmin 🔥🔥🔥🔥🔥](http://www.reddit.com/r/sysadmin/)
-- [Python 🔥🔥🔥🔥🔥](http://reddit.com/r/Python/)
-- [Learn Python 🔥🔥🔥🔥](https://www.reddit.com/r/learnpython)
+- [sysadmin 🌟🌟🌟🌟🌟](http://www.reddit.com/r/sysadmin/)
+- [Python 🌟🌟🌟🌟🌟](http://reddit.com/r/Python/)
+- [Learn Python 🌟🌟🌟🌟](https://www.reddit.com/r/learnpython)
 - [Django](https://www.reddit.com/r/django)
 - [Ruby](https://www.reddit.com/r/ruby)
 - [Java](https://www.reddit.com/r/java)
@@ -290,8 +290,8 @@
 - [Wireshark](https://www.reddit.com/r/wireshark/)
 
 ## Screencasts
-- [sysadmincasts.com 🔥🔥🔥🔥🔥](https://sysadmincasts.com)
-- [build-podcast.com 🔥🔥🔥🔥](http://build-podcast.com)
+- [sysadmincasts.com 🌟🌟🌟🌟🌟](https://sysadmincasts.com)
+- [build-podcast.com 🌟🌟🌟🌟](http://build-podcast.com)
 
 [![sysadmincasts](images/sysadmincasts.png)](https://sysadmincasts.com)
 
@@ -340,9 +340,9 @@
 - [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
 
 ### Spanish podcasts
-- [We.Developers: El podcast para desarrolladores en castellano 🔥🔥🔥🔥](http://wedevelopers.com/)
+- [We.Developers: El podcast para desarrolladores en castellano 🌟🌟🌟🌟](http://wedevelopers.com/)
 	- [twitter.com/WeDevelopers](https://twitter.com/WeDevelopers)
-	- [Trabajo en Remoto 🔥🔥🔥🔥](http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/)
+	- [Trabajo en Remoto 🌟🌟🌟🌟](http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/)
 	- [De cero a la App Store](http://wedevelopers.com/2013/03/01/we-developers-017-de-cero-a-la-app-store/)
     - [Metodologías de desarrollo ágil](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
     - [Diseño y desarrollo](http://wedevelopers.com/2012/11/23/we-developers-011-diseno-y-desarrollo/)
@@ -364,7 +364,7 @@
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 
 
-- [The Linux Kernel Book - A Linux kernel API and internals Reference 🔥🔥🔥🔥](https://en.wikibooks.org/wiki/The_Linux_Kernel)
+- [The Linux Kernel Book - A Linux kernel API and internals Reference 🌟🌟🌟🌟](https://en.wikibooks.org/wiki/The_Linux_Kernel)
 - [Computing](https://en.wikibooks.org/wiki/Subject:Computing)
 - [ITIL v3 (Information Technology Infrastructure Library)](https://en.wikibooks.org/wiki/ITIL_v3_%28Information_Technology_Infrastructure_Library%29)
 - [Python](https://en.wikibooks.org/wiki/Python)
@@ -382,7 +382,7 @@
 <br/>
 
 ## Webcomics
-- [commitstrip.com 🔥🔥](http://www.commitstrip.com)
+- [commitstrip.com 🌟🌟](http://www.commitstrip.com)
 - [dilbert.com](http://dilbert.com/)
 - [GeeksFun](http://geeksfun.blogspot.com)
 - [Geek & Poke](http://geek-and-poke.com)
@@ -391,7 +391,7 @@
 ## Reactions. When words aren't enough, say it with animations
 - [Infosec Reactions](http://securityreactions.tumblr.com/)
 	- [twitter.com/sec_reactions](https://twitter.com/sec_reactions)
-- [DevOps Reactions 🔥🔥](http://devopsreactions.tumblr.com/)
+- [DevOps Reactions 🌟🌟](http://devopsreactions.tumblr.com/)
 	- [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 - [9gag.com](http://9gag.com)
 
