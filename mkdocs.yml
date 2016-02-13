@@ -23,7 +23,7 @@ pages:
 - WebApp, HTTP/2, e-mail, Middleware, JVM, video: webapp.md
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
-- Next Generation Firewalls: networking.md
+- Next Generation Firewalls (NGFW): NGFW.md
 - HTTPs and HSTS: https.md
 - Security Toolkits and Policies. Penetration Testing: pen_testing.md
 - SQL Injection: sql_injection.md
@@ -40,7 +40,8 @@ pages:
 - SQL and Databases: databases.md
 - NoSQL and NewSQL: nosql.md
 - Anaconda Analytics: anaconda.md
-- Networking. Firewalls: networking.md
+- Networking: networking.md
+- Next Generation Firewalls (NGFW): NGFW.md
 - Network Forensics: nw_forensics.md
 - Servers, Storage and Backup: servers-storage-backup.md
 - VMware: vmware.md
