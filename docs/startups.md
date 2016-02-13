@@ -7,6 +7,7 @@
 	- [Trabajar por el mundo](#trabajar-por-el-mundo)
 		- [Barcelona startups](#barcelona-startups)
 		- [Madrid startups](#madrid-startups)
+	- [Worst tech mergers and acquisitions](#worst-tech-mergers-and-acquisitions)
 	- [Job Search](#job-search)
 		- [Portales de empleo](#portales-de-empleo)
 	- [Freelance jobs](#freelance-jobs)
@@ -67,9 +68,12 @@
 - [tetuanvalley.com: Tetuan Valley Madrid](http://tetuanvalley.com/)
 - [campus.co/madrid: Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
 
+## Worst tech mergers and acquisitions
+- [Worst tech mergers and acquisitions: Oracle and Sun, and the sad tale of Palm](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
+- [Worst tech mergers and acquisitions: HP and Autonomy, Google and Motorola, and more](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-hp-and-autonomy-google-and-motorola-and-more/)
+
 ## Job Search
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
-- [Worst tech mergers and acquisitions: Oracle and Sun, and the sad tale of Palm](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
 - [The difference between contracting and consulting, and why it matters](http://www.techrepublic.com/blog/it-consultant/the-difference-between-contracting-and-consulting-and-why-it-matters-125429/)
 - [Eures Job Search](https://ec.europa.eu/eures/)
 - [make-it-in-germany.com](http://www.make-it-in-germany.com/)
@@ -179,6 +183,8 @@
 - [businessinsider.com: 17 common mistakes to avoid when you're networking](http://www.businessinsider.com/networking-mistakes-youre-making-2016-1)
 
 [![Oracle buys Sun](images/oracle-sun.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
+
+[![google on motorola](images/google-on-motorola-sign.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-hp-and-autonomy-google-and-motorola-and-more/)
 
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 

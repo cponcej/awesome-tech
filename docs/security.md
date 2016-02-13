@@ -99,6 +99,7 @@
 - [kitploit.com: The hacker's tools](http://www.kitploit.com)
 	- [OWASP ZSC Shellcoder - Generate Customized Shellcodes](http://www.kitploit.com/2015/08/owasp-zsc-shellcoder-generate.html)
 - [gophish Open-Source Phishing Framework: #PenTest #Infosec #security](https://getgophish.com)
+- [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment.
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XI1QcQL4qQ8?list=PLHYsrwTE3Rofwk_cc7641QNhSF8JzPprE" frameborder="0" allowfullscreen class="video"></iframe>
@@ -274,6 +275,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rdyQoUNeXSg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n8_b1aHz4VE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
