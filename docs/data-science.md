@@ -2,6 +2,8 @@
 <!-- MarkdownTOC -->
 
 - [Data Science and Big Data](#data-science-and-big-data)
+	- [SQL and Databases](#sql-and-databases)
+	- [NoSQL and NewSQL](#nosql-and-newsql)
 	- [Machine Learning solutions](#machine-learning-solutions)
 	- [Data Science Analytics Blogs](#data-science-analytics-blogs)
 	- [Data collection and processing is growing in sports](#data-collection-and-processing-is-growing-in-sports)
@@ -36,6 +38,12 @@
 - [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 - [Top 10 Machine Learning Projects on Github](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
 - [Data scientists have the hottest job in America](http://www.infoworld.com/article/3024523/big-data/data-scientists-have-the-hottest-job-in-america.html)
+
+## SQL and Databases
+- [SQL and Databases](databases.md)
+
+## NoSQL and NewSQL
+- [NoSQL and NewSQL](nosql.md)
 
 ## Machine Learning solutions
 - [TensorFlow](https://www.tensorflow.org)
