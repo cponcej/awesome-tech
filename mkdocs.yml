@@ -24,6 +24,7 @@ pages:
 - Cambios en Java 8: jvm-mem.md
 - Security: security.md
 - HTTPs and HSTS: https.md
+- Security Toolkits and Policies. Penetration Testing: pen_testing.md
 - SQL Injection: sql_injection.md
 - Configuration Management and Orchestration. Microservices: config-mgmt.md
 - Ansible: ansible.md
