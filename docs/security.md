@@ -64,7 +64,7 @@
 - [Network Security - NetSecNow ](http://learnnetsec.blogspot.com.es)
 	- [NetSecNow on Youtube](https://www.youtube.com/user/NetSecNow)
 
-![NetSecNow](images/NetSecNow.jpg)(https://www.youtube.com/user/NetSecNow)
+[![NetSecNow](images/NetSecNow.jpg)](https://www.youtube.com/user/NetSecNow)
 
 ### Blogs de Seguridad Informática
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)
