@@ -144,6 +144,16 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CfhYFqNyjGc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J6Ei1RMG5Xo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Big Data
 - [gettopical.com: Bit Data latest news](http://gettopical.com/bigdata)
 - [whatsthebigdata.com: History of Databases (Infographic)](http://whatsthebigdata.com/2016/01/04/history-of-databases-infographic/)
@@ -169,6 +179,11 @@
 - [talend.com: How To Turn Any Big Data Project Into a Success (And Key Pitfalls To Avoid)](http://www.talend.com/blog/2016/01/07/how-to-turn-any-big-data-project-into-a-success-and-key-pitfalls-to-avoid)
 - [Forbes: Big Data Facts: How Many Companies Are Really Making Money From Their Data?](Big Data Facts: How Many Companies Are Really Making Money From Their Data?)
 - [centurylink.com: Data Lakes: Hadoop Vs. In-Memory Databases](http://www.centurylink.com/business/enterprise/blog/thinkgig/data-lakes-hadoop-vs-in-memory-databases/)
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/1wOqZRETza1mJ3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/zanorte/apache-storm-introduccion" title="Apache Storm: Introduccion" target="_blank">Apache Storm: Introduccion</a> </strong> from <strong><a href="//es.slideshare.net/zanorte" target="_blank">Stratebi</a></strong> </div>
+</div>
+<br/>
 
 ### Big Data Blogs
 - [datanami.com](http://www.datanami.com)
@@ -215,6 +230,11 @@
 - [Introducing Spark Datasets with Spark 1.6](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
 - [DZone: Get Started With Spark 1.6 Right Away](https://dzone.com/articles/apache-spark-friday) Here's a short reference to show you where to go and what resources to use setting up the newly released Apache Spark 1.6
 - [DZone: SMACK Stack Guide (Spark++) [slides]](https://dzone.com/articles/smack-stack-guide)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvDpBTV89AM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ### Apache Hadoop
 - [bigdataanalyticsnews.com: 6 Essential Steps to Successfully Implement Hadoop](http://bigdataanalyticsnews.com/6-essential-steps-to-successfully-implement-hadoop/)
