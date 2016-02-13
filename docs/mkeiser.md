@@ -166,6 +166,7 @@ Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
 - [Debt: The First 5000 Years. David Graeber](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years)
 - [The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era. Jeremy Rifkin](https://en.wikipedia.org/wiki/The_End_of_Work)
 - [blogs.wsj.com: Six Years Later, 93% of U.S. Counties Haven’t Recovered From Recession, Study Finds](http://blogs.wsj.com/economics/2016/01/12/six-years-later-93-of-u-s-counties-havent-recovered-from-recession-study-finds/)
+- [businessinsider.com: Watch 1,400 US workers learn their jobs are moving to Mexico](http://www.businessinsider.com/carrier-workers-learn-jobs-are-moving-to-mexico-2016-2)
 - [Laid-off IT workers muzzled as H-1B debate heats up](http://www.cio.com/article/3027539/outsourcing/laid-off-it-workers-muzzled-as-h-1b-debate-heats-up.html)
 - [economist.com: The future of jobs. The onrushing wave.](http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less) Previous technological innovation has always delivered more long-run employment, not less. But things can change
 - [economist.com: Youth unemployment is a massive waste of resources](http://www.economist.com/news/special-report/21688588-youth-unemployment-massive-waste-resources-walled-world-work)
