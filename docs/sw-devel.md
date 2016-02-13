@@ -37,6 +37,7 @@
 		- [HTML5 and Static Site Generators vs Dynamic CMSs](#html5-and-static-site-generators-vs-dynamic-cmss)
 			- [Static Site Generators](#static-site-generators)
 			- [Markdown Editors](#markdown-editors)
+				- [Emojis](#emojis)
 		- [Oracle JET](#oracle-jet)
 		- [JSON](#json)
 		- [Mozilla Tools](#mozilla-tools)
@@ -395,7 +396,12 @@
 - [Markdown preview and build plugin for sublime text 2/3](https://github.com/revolunet/sublimetext-markdown-preview)
 - [Markdown-here.com: formatting e-mail with markdown](http://markdown-here.com)
 - [Markdown live preview](http://markdown-here.com/livedemo.html)
+
+##### Emojis 
+- [emojipedia.org](http://emojipedia.org)
 - [Markdown emoji cheat sheet](http://www.emoji-cheat-sheet.com/)
+- [getemoji.com](http://getemoji.com)
+- [Unicode emoji](http://unicode.org/emoji/charts/full-emoji-list.html)
 
 [![Mou editor](images/Mou.png)](http://25.io/mou/)
 
