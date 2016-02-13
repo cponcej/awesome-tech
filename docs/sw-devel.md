@@ -393,6 +393,9 @@
 #### Markdown Editors
 - [Mou](http://25.io/mou/)
 - [Markdown preview and build plugin for sublime text 2/3](https://github.com/revolunet/sublimetext-markdown-preview)
+- [Markdown-here.com: formatting e-mail with markdown](http://markdown-here.com)
+- [Markdown live preview](http://markdown-here.com/livedemo.html)
+- [Markdown emoji cheat sheet](http://www.emoji-cheat-sheet.com/)
 
 [![Mou editor](images/Mou.png)](http://25.io/mou/)
 
