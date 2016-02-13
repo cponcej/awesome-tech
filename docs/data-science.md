@@ -158,6 +158,11 @@
 - [Join Multiple Excel Workbooks through Custom SQL Query in Tableau](https://leifengtechblog.wordpress.com/2015/10/28/join-multiple-excel-workbooks-through-custom-sql-query-in-tableau/)
 - [dbi.io: Visualización de Datos con Tableau de los resultados de una encuesta (4Q)](http://www.dbi.io/es/blog/visualizacion-de-datos-de-encuesta-con-tableau)
 
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/AQJdlyGwbq97UC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/TableauSoftware/the-top-8-trends-for-big-data-in-2016" title="The Top 8 Trends for Big Data in 2016" target="_blank">The Top 8 Trends for Big Data in 2016</a> </strong> from <strong><a href="//es.slideshare.net/TableauSoftware" target="_blank">Tableau Software</a></strong> </div>
+</div>
+<br/>
+
 ### Apache Spark
 - [Tools for Troubleshooting, Installation and Setup of Apache Spark Environments](https://dzone.com/articles/tools-for-troubleshooting-installation-and-setup-o)
 - [mapr.com: Getting Started with Apache Spark – free interactive Spark ebook ](https://www.mapr.com/ebooks/spark/)

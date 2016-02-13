@@ -38,6 +38,11 @@
 
 [![baby security](images/baby_security.jpg)](http://blogs.aws.amazon.com/security)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/17iFA4MCdt9EZx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TableauSoftware/top-10-cloud-trends-for-2016" title="Top 10 Cloud Trends for 2016" target="_blank">Top 10 Cloud Trends for 2016</a> </strong> from <strong><a href="//www.slideshare.net/TableauSoftware" target="_blank">Tableau Software</a></strong> </div>
+</div>
+<br/>
+
 # Cloud
 - [Cloud automation should be the heart of enterprise support -- it will decrease downtime, increase flexibility, and dramatically improve your provider’s ability to rapidly respond to service requests](https://www.linkedin.com/pulse/uk-cios-dissatisfied-cloud-providers-ryan-kroonenburg)
 - [Netflix: Linux performance analysis in 60 seconds](http://www.infoworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
