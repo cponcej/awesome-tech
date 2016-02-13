@@ -173,6 +173,7 @@
 
 ## Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
+- [9 enterprise tech trends for 2016 and beyond](http://www.infoworld.com/article/3007057/cloud-computing/9-enterprise-tech-trends-for-2016-and-beyond.html)
 - [The Best Tech Skills to List on Your Resume](http://www.businessnewsdaily.com/4932-tech-skills-resume.html)
 - [forbes.com: 8 Tech Trends Changing How We Work In 2016](http://www.forbes.com/sites/ajagrawal/2016/01/11/8-tech-trends-changing-how-we-work-in-2016/#2715e4857a0b6a27c0767013)
 - [businessinsider.com: 17 common mistakes to avoid when you're networking](http://www.businessinsider.com/networking-mistakes-youre-making-2016-1)
