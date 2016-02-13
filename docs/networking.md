@@ -76,6 +76,11 @@
 ## IPv6
 - [arstechnica.com: IPv6 celebrates its 20th birthday by reaching 10 percent deployment](http://arstechnica.com/business/2016/01/ipv6-celebrates-its-20th-birthday-by-reaching-10-percent-deployment/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/jNw65ZLpdYJz4Y" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shaileshpachori/master-all-home" title="Ipv4 vs Ipv6 comparison" target="_blank">Ipv4 vs Ipv6 comparison</a> </strong> from <strong><a href="//www.slideshare.net/shaileshpachori" target="_blank">Shailesh Pachori</a></strong> </div>
+</div>
+<br>
+
 ## Network Forensics
 - [Network Forensics](nw_forensics.md)
 
