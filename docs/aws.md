@@ -1,10 +1,10 @@
 <!-- MarkdownTOC -->
 
 - [Amazon Web Services](#amazon-web-services)
-    - [Closed groups for AWS certified professionals](#closed-groups-for-aws-certified-professionals)
     - [Awesome AWS](#awesome-aws)
     - [AWS on Twitter](#aws-on-twitter)
     - [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
+    - [Closed groups for AWS certified professionals](#closed-groups-for-aws-certified-professionals)
     - [AWS re:Invent 2015](#aws-reinvent-2015)
     - [AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start](#aws-architecture-blog-official-blog-aws-labs-aws-quick-start)
         - [AWS New Features](#aws-new-features)
@@ -28,15 +28,6 @@
 <!-- /MarkdownTOC -->
 
 # Amazon Web Services
-## Closed groups for AWS certified professionals
-- [Linkedin](https://www.linkedin.com/grp/home?gid=6814264)
-- [awscerts.slack.com](https://awscerts.slack.com)
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/J5saN0sbo4cgTE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Examure4/aws-certified-solutions-architect-exam-questions-answers" title="AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers" target="_blank">AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers</a> </strong> from <strong><a href="//www.slideshare.net/Examure4" target="_blank">Examure4</a></strong> </div>
-</div>
-<br/>
-
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
@@ -51,6 +42,15 @@
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
 - [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
 - [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
+
+## Closed groups for AWS certified professionals
+- [Linkedin](https://www.linkedin.com/grp/home?gid=6814264)
+- [awscerts.slack.com](https://awscerts.slack.com)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/J5saN0sbo4cgTE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Examure4/aws-certified-solutions-architect-exam-questions-answers" title="AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers" target="_blank">AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers</a> </strong> from <strong><a href="//www.slideshare.net/Examure4" target="_blank">Examure4</a></strong> </div>
+</div>
+<br/>
 
 ## AWS re:Invent 2015
 - [Festín de novedades en re:Invent 2015](http://www.siliconweek.es/data-storage/business-intelligence/festin-de-novedades-en-reinvent-2015-89129)
