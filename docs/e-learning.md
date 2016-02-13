@@ -53,6 +53,7 @@
 - [Sensu - Introduction (free, alternative to Zabbix, Icinga & Nagios)](https://www.udemy.com/sensu-introduction/)
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
 - [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
+- [Start Kali Linux, Ethical Hacking and Penetration Testing! (Free)](https://www.udemy.com/ethical-hacker/)
 
 [![a cloud  guru at udemy](images/acloudguru.png)](https://www.udemy.com/user/ryankroonenburg/)
 
