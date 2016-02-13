@@ -40,6 +40,8 @@
 <br>
 
 # Security
+- [The 10 Most Common Application Attacks in Action (April 2015)](https://securityintelligence.com/the-10-most-common-application-attacks-in-action/)
+
 ## Security Blogs
 - [seclists.org](http://seclists.org/)
 - [ehacking.net](http://www.ehacking.net)
@@ -52,6 +54,7 @@
 - [securityzap.com](http://securityzap.com/)
 - [Dark Reading](http://www.darkreading.com/)
 - [Red Hat Security](https://securityblog.redhat.com)
+- [Security Intelligence](https://securityintelligence.com)
 - [hackershandbook.org](http://www.hackershandbook.org)
 - [Hacker News](https://news.ycombinator.com/)
 - [Guido Vranken](https://guidovranken.wordpress.com/)
