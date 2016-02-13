@@ -230,6 +230,45 @@
 >2. I'd recommend doing at least 3 checks getting an average.
 - Run 6 checks (with a random 3-10 second delay between each one), the first can be ignored, the highest one is also ignored (as a likely outlier), then for the next 4 show the minimum, maximum and average (mean).
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IDuFGnYkBiVIFI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/introduction-to-amazon-web-services-7708257" title="Introduction to Amazon Web Services" target="_blank">Introduction to Amazon Web Services</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/CaJCmoGIW24?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DERzYnthq1s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/N8zvYafuumHdhc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/aws-101-cloud-computing-seminar-2012" title="AWS 101: Cloud Computing Seminar (2012)" target="_blank">AWS 101: Cloud Computing Seminar (2012)</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qC6QURqVRBzluo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/learning-series-getting-started-no-notes" title="AWS Webcast - Getting Started with Amazon Web Services" target="_blank">AWS Webcast - Getting Started with Amazon Web Services</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+[![learning AWS](images/Learning-AWS.png)](http://www.wowebook.org/learning-aws.html)
+
+[![devops skills](images/devops_skills.png)](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9)
+
+<div class="container">
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/p9l7YD-N9FI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6954CMI821c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### AWS EC2 Container Registry (Docker)
 - [A Better Dev/Test Experience: Docker and AWS](https://medium.com/aws-activate-startup-blog/a-better-dev-test-experience-docker-and-aws-291da5ab1238)
 - [Amazon EC2 Container Registry Documentation](http://aws.amazon.com/es/documentation/ecr/)
@@ -297,41 +336,3 @@
 
 [![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)](https://www.google.com/search?q=AMZN+Nasdaq)
 
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/IDuFGnYkBiVIFI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/introduction-to-amazon-web-services-7708257" title="Introduction to Amazon Web Services" target="_blank">Introduction to Amazon Web Services</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/CaJCmoGIW24?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DERzYnthq1s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/N8zvYafuumHdhc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/aws-101-cloud-computing-seminar-2012" title="AWS 101: Cloud Computing Seminar (2012)" target="_blank">AWS 101: Cloud Computing Seminar (2012)</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
-</div>
-<br/>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/qC6QURqVRBzluo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/learning-series-getting-started-no-notes" title="AWS Webcast - Getting Started with Amazon Web Services" target="_blank">AWS Webcast - Getting Started with Amazon Web Services</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
-</div>
-<br/>
-
-[![learning AWS](images/Learning-AWS.png)](http://www.wowebook.org/learning-aws.html)
-
-[![devops skills](images/devops_skills.png)](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9)
-
-<div class="container">
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/p9l7YD-N9FI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6954CMI821c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
