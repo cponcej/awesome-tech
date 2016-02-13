@@ -182,9 +182,9 @@
 - [forbes.com: 8 Tech Trends Changing How We Work In 2016](http://www.forbes.com/sites/ajagrawal/2016/01/11/8-tech-trends-changing-how-we-work-in-2016/#2715e4857a0b6a27c0767013)
 - [businessinsider.com: 17 common mistakes to avoid when you're networking](http://www.businessinsider.com/networking-mistakes-youre-making-2016-1)
 
-[![Oracle buys Sun](images/oracle-sun.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
-
 [![google on motorola](images/google-on-motorola-sign.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-hp-and-autonomy-google-and-motorola-and-more/)
+
+[![Oracle buys Sun](images/oracle-sun.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
 
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
