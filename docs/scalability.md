@@ -9,6 +9,8 @@
 
 <!-- /MarkdownTOC -->
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/139052088856" data-did="7f6c00872721685c446e6dac9a8ffc64a9ec3ba3"><a href="http://inafev.tumblr.com/post/139052088856/the-technical-account-manager-when-youre">http://inafev.tumblr.com/post/139052088856/the-technical-account-manager-when-youre</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
 # Scalability
 ## Scalability and Data Center Blogs
 - [highscalability.com](http://highscalability.com/)
