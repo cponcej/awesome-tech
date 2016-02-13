@@ -48,6 +48,8 @@
 
 ![sysadmin no trabajar demasiado](images/sysadmin_no_trabajar_demasiado.png)
 
+[![t-shirt size](images/tshirt_size.jpg)](https://en.wikipedia.org/wiki/Linux_Symposium)
+
 # Sysadmin Blogs
 - [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
 	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
@@ -469,5 +471,3 @@
 
 # VirtualBox
 - [10 ways to get the most from VirtualBox](http://www.techrepublic.com/blog/10-things/10-ways-to-get-the-most-from-virtualbox/)
-
-[![t-shirt size](images/tshirt_size.jpg)](https://en.wikipedia.org/wiki/Linux_Symposium)
