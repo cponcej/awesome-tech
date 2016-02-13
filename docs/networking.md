@@ -6,6 +6,7 @@
 	- [Switches](#switches)
 		- [Virtual LAN](#virtual-lan)
 	- [Network virtualization. Software Defined Networking (SDN)](#network-virtualization-software-defined-networking-sdn)
+	- [IPv4](#ipv4)
 	- [IPv6](#ipv6)
 	- [Network Forensics](#network-forensics)
 	- [VoIP](#voip)
@@ -15,7 +16,6 @@
 	- [WebPerf and Resilient Networking: Planning for Failure](#webperf-and-resilient-networking-planning-for-failure)
 
 <!-- /MarkdownTOC -->
-
 
 # Networking
 ## Next Generation Firewalls (NGFW)
@@ -73,7 +73,26 @@
 - [sdxcentral.com: The Top NFV & Telecom Influencers in 2015](https://www.sdxcentral.com/articles/news/top-nfv-influencers-2015/)
 - [aunclicdelastic.com: SDN, NFV y los fundamentos de las redes del futuro](http://www.aunclicdelastic.com/sdn-nfv-y-los-fundamentos-de-las-redes-del-futuro/)
 
+## IPv4
+- [wikipedia: IPv4](https://en.wikipedia.org/wiki/IPv4)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/efHHF5aHeCPyv" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UmerQureshi9/simple-ipv4subnetting" title="Simple IPv4_Subnetting" target="_blank">Simple IPv4_Subnetting</a> </strong> from <strong><a href="//www.slideshare.net/UmerQureshi9" target="_blank">Umer Qureshi</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/EnfPCPLoYI8A9Q" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/swapnilkapate/i-pv4-subnetting-16465968" title="I pv4 subnetting" target="_blank">I pv4 subnetting</a> </strong> from <strong><a href="//www.slideshare.net/swapnilkapate" target="_blank">Swapnil Kapate</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NTUP0U3kq421kQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nilmenon/ccna-1-routing-and-switching-v50-chapter-9" title="CCNA 1 Routing and Switching v5.0 Chapter 9" target="_blank">CCNA 1 Routing and Switching v5.0 Chapter 9</a> </strong> from <strong><a href="//www.slideshare.net/nilmenon" target="_blank">Nil Menon</a></strong> </div>
+</div>
+<br>
+
 ## IPv6
+- [wikipedia: IPv6](https://en.wikipedia.org/wiki/IPv6)
 - [arstechnica.com: IPv6 celebrates its 20th birthday by reaching 10 percent deployment](http://arstechnica.com/business/2016/01/ipv6-celebrates-its-20th-birthday-by-reaching-10-percent-deployment/)
 
 <div class="container">
