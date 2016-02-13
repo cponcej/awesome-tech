@@ -43,6 +43,7 @@
 14. [Servers, Storage and Backup](servers-storage-backup.md)
 	- [VMware](vmware.md)
 15. [Cloud](cloud.md)
+	- [Amazon Web Services](aws.md)
 16. [Desktop Tools and Presentations](desktop-tools.md)
 17. [E-Learning](e-learning.md)
 
