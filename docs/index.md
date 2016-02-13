@@ -11,7 +11,7 @@
 	- [Newsfeeds and Twitter resources 😀](twitter.md)  
 	- [Miscellaneous. IT Blogs, Support](it-blogs.md)
 2. [Startups, Jobs, In-Demand Skills](startups.md)
-3. [Human Resources, Interviews, Leadership](hr.md)
+3. [Human Resources, Interviews, Leadership 🙈 🙉 🙊](hr.md)
 4. [Scalability and Reliability, Datacenters](scalability.md)
 5. [Linux :fire::fire:](linux.md)
 	- [Red Hat :fire::fire::fire:](redhat.md)
