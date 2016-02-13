@@ -35,6 +35,7 @@
 12. [Data Science and Big Data](data-science.md)
 	- [SQL and Databases](databases.md)
 	- [NoSQL and NewSQL](nosql.md)
+	- [Anaconda Analytics](anaconda.md)
 13. [Networking. Firewalls](networking.md)
 	- [Network Forensics](nw_forensics.md)
 14. [Servers, Storage and Backup](servers-storage-backup.md)
