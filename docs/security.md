@@ -84,6 +84,11 @@
 - [twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
 - [twitter.com/chemaalonso](https://twitter.com/chemaalonso)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zlzdQe7nig?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 
@@ -266,6 +271,7 @@
 - [kalitutorials.net: SQL Injection : How It Works](http://www.kalitutorials.net/2014/03/sql-injection-how-it-works.html)
 - [kalitutorials.net: Blind SQL Injection](http://www.kalitutorials.net/2015/02/blind-sql-injection.html)
 - [hackershandbook.org: SQL injection](http://www.hackershandbook.org/tutorials/sqlinjection)
+- [Hacking website using SQL Injection -step by step guide](http://breakthesecurity.cysecurity.org/2010/12/hacking-website-using-sql-injection-step-by-step-guide.html)
 - [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
 
 <div class="container">
