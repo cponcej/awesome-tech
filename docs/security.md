@@ -37,8 +37,7 @@
 
 <!-- /MarkdownTOC -->
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134533644467" data-did="5149c43f6654210e160397d04d6c754abcfbba41"><a href="http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall">http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
-<br>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135125776940" data-did="9e79099acd0b5daa3f8b74dc625a47adf3422f39"><a href="http://securityreactions.tumblr.com/post/135125776940/management-is-so-busy-developing-security-metrics">http://securityreactions.tumblr.com/post/135125776940/management-is-so-busy-developing-security-metrics</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 # Security
 ## Security Blogs
