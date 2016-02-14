@@ -46,12 +46,12 @@
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
 
 ## Trabajar por el mundo
-- [trabajarporelmundo.org](http://trabajarporelmundo.org/)
-	- [Tips para crear un buen curriculum para trabajar en Londres](http://trabajarporelmundo.org/tips-para-crear-un-buen-curriculum-para-trabajar-en-londres/)
+- [trabajarporelmundo.org 🌟](http://trabajarporelmundo.org/)
+	- [Tips para crear un buen curriculum para trabajar en Londres 🌟🌟](http://trabajarporelmundo.org/tips-para-crear-un-buen-curriculum-para-trabajar-en-londres/)
 - [spaniards.es](http://www.spaniards.es)
-- [Bristoleños: vivir en UK](http://bristolenos.com)
+- [Bristoleños: vivir en UK 🌟](http://bristolenos.com)
 - [Espanish in London 🌟](http://www.espanishinlondon.com)
-- ["I was born in London but I no longer recognise this city" 🌟](http://www.economist.com/news/books-and-arts/21689519-how-british-capital-being-remade-beyond-glitter)
+- ["I was born in London but I no longer recognise this city" 🌟🌟](http://www.economist.com/news/books-and-arts/21689519-how-british-capital-being-remade-beyond-glitter)
 - [Para vivir en Irlanda](http://www.paravivirenirlanda.com)
 - [Quiero ir a vivir a Dublin](http://quieroiraviviradublin.blogspot.com.es)
 - [Berlín en español](http://berlinenespanol.net)
