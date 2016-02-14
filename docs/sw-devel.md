@@ -44,7 +44,7 @@
 	- [QA. Software Testing](#qa-software-testing)
 		- [Selenium](#selenium)
 			- [Selenium on Twitter](#selenium-on-twitter)
-			- [Arquillian Testing Platform](#arquillian-testing-platform)
+		- [Arquillian Testing Platform](#arquillian-testing-platform)
 
 <!-- /MarkdownTOC -->
 
@@ -462,8 +462,8 @@
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
 
-#### Arquillian Testing Platform
-- [Arquillian references in this blog](linux-microsoft.md#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
+### Arquillian Testing Platform
+- [Arquillian references in this blog](linux.md#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
 
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
 
