@@ -116,15 +116,10 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 <iframe src="https://player.vimeo.com/video/114796942?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 <p><a href="https://vimeo.com/114796942">The Fence</a> from <a href="https://vimeo.com/andrewhida">Andrew Hida</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<p>Photographer Charles Ommanney drove nearly 2000 miles along the US-Mexico border from Brownsville, TX to San Diego, CA where he photographed and filmed the border fence, and gathered testimony from US citizens along the border. The result is a unique perspective on the immigration debate through a conceptual exploration of the economic, political, environmental, and humanitarian costs of the construction of this fence.<br />
-Charles Ommanney/Getty Images Reportage for MSNBC.com<br />
-</p>
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/91032041?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
-<p><a href="https://vimeo.com/91032041">AT THE GATES OF EUROPE</a> from <a href="https://vimeo.com/spottorno">Carlos Spottorno</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<p>See the MULTIMEDIA display at El Pais Semanal: http://elpais.com/especiales/2014/europa-frontera-sur/index.html</p>
 
 - [The World Press Photo](http://www.worldpressphoto.org)
 	- [2015 Multimedia Contest](http://www.worldpressphoto.org/collection/mm/2015)
