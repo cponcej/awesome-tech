@@ -106,6 +106,7 @@
 - [uxreactions.com](http://uxreactions.com)
 - [Project Manager Reactions](http://pmreactions.tumblr.com)
 - [agile-testing.tumblr.com](http://agile-testing.tumblr.com)
+- [keepcalmandprogram.tumblr.com](http://keepcalmandprogram.tumblr.com)
 - [forbes.tumblr.com](http://forbes.tumblr.com)
 
 # Twitter Resources
