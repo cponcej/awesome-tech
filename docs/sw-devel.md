@@ -492,3 +492,4 @@ ________________________________________________________________________________
 </div>
 <br/>
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/f5Ambk3tSAzmwTFQgrEUqw/139044569770" data-did="eb9a18b0012d1238179ae41a992b0497a3ed51e0"><a href="http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile">http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>

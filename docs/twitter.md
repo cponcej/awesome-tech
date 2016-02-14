@@ -5,6 +5,7 @@
 	- [Paper.li LinuxSec](#paperli-linuxsec)
 	- [Paper.li Newspapers](#paperli-newspapers)
 	- [OSSnews.net](#ossnewsnet)
+- [Tumblr Resources](#tumblr-resources)
 - [Twitter Resources](#twitter-resources)
 	- [Marketing Digital](#marketing-digital)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
@@ -96,6 +97,16 @@
 
 ## OSSnews.net
 - [OSSnews.net](https://ossnews.net)
+
+# Tumblr Resources
+- [nixcraft.tumblr.com](http://nixcraft.tumblr.com)
+- [devops.tumblr.com](http://devops.tumblr.com)
+- [devopsreactions.tumblr.com](http://devopsreactions.tumblr.com)
+- [securityreactions.tumblr.com](https://securityreactions.tumblr.com)
+- [uxreactions.com](http://uxreactions.com)
+- [Project Manager Reactions](http://pmreactions.tumblr.com)
+- [agile-testing.tumblr.com](http://agile-testing.tumblr.com)
+- [forbes.tumblr.com](http://forbes.tumblr.com)
 
 # Twitter Resources
 - Add twitter resources to your custom twitter lists or subscribe to someone else's lists.

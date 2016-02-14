@@ -197,6 +197,8 @@
 - [20 Product Owners anti patterns in scrum](http://lmsgoncalves.com/2014/09/29/product-owner-anti-patterns/)
 - [¿Cuantos Product Owner puede tener un equipo? 🌟](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/xrf0i_XPmm5oWp5icmI4JA/131683232219" data-did="1bd906eabfc838fb9ba4388bc874a3ed11cc2e63"><a href="http://uxreactions.com/post/131683232219/working-with-a-product-owner-whos-new-to-agile">http://uxreactions.com/post/131683232219/working-with-a-product-owner-whos-new-to-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
 #### Scrum Master. Scrum Cheat Sheet
 - [DZone/Agile Zone. Hiring: 38 Scrum Master Interview Questions To Avoid Imposters](https://dzone.com/articles/hiring-38-scrum-master-interview-questions-to-avoi) A free pdf from DZone user Stefan Wolpers for those looking to hire Scrum Masters or agile professionals.
 - [The shortest and greatest SCRUM cheat sheet that I've seen so far 🌟🌟🌟](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
@@ -221,6 +223,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/pdvmXZM6Alb34F" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/blossom_io/the-definitive-guide-to-agile-kanban" title="A Guide to Agile Kanban" target="_blank">A Guide to Agile Kanban</a> </strong> from <strong><a href="//www.slideshare.net/blossom_io" target="_blank">Blossom</a></strong> </div>
 </div>
 <br/>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/7Nb42z8Qyb7M_uh_S2AImA/131735580276" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://my-twisted-code.tumblr.com/post/131735580276">http://my-twisted-code.tumblr.com/post/131735580276</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ### Continuous Integration and Delivery
 - [Martin Fowler. Continuous Delivery 🌟🌟🌟🌟](https://www.youtube.com/watch?v=aoMfbgF2D_4)
