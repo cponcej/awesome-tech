@@ -488,7 +488,7 @@
 - [twitter.com/teoliphant](https://twitter.com/teoliphant)
 - [twitter.com/jakevdp](https://twitter.com/jakevdp)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137942907556" data-did="1fc41bbd41c4d3cb950851f3c6ff60c3a6580a80"><a href="http://inafev.tumblr.com/post/137942907556/devopsfacts-when-a-non-tech-person-estimate-our">http://inafev.tumblr.com/post/137942907556/devopsfacts-when-a-non-tech-person-estimate-our</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/r4chZNokCQpBzkEZyNCRhA/127561563032" data-did="2be9c52dead28134d3e6915d8c6f9be58aa475ef"><a href="http://devopsfacts.com/post/127561563032/when-a-non-tech-person-estimate-our-tasks">http://devopsfacts.com/post/127561563032/when-a-non-tech-person-estimate-our-tasks</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)
