@@ -166,7 +166,10 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 - [Laid-off IT workers muzzled as H-1B debate heats up](http://www.cio.com/article/3027539/outsourcing/laid-off-it-workers-muzzled-as-h-1b-debate-heats-up.html)
 - [economist.com: The future of jobs. The onrushing wave.](http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less) Previous technological innovation has always delivered more long-run employment, not less. But things can change
 - [economist.com: Youth unemployment is a massive waste of resources](http://www.economist.com/news/special-report/21688588-youth-unemployment-massive-waste-resources-walled-world-work)
-- [15 documentaries on Netflix that will make you smarter about business](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
+- [theguardian.com: Each generation should be better off than their parents? Think again](http://www.theguardian.com/business/2016/feb/14/economics-viewpoint-baby-boomers-generation-x-generation-rent-gig-economy)
+
+<br/><br/>
+
 - [Quince películas para entender la crisis](http://www.elmundo.es/cultura/2016/01/15/56991002e2704e61348b45cb.html)
 	- [Margin Call quotes](http://www.imdb.com/title/tt1615147/quotes)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
@@ -213,11 +216,12 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 - [¿Va a estallar Silicon Valley?](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
 - [Desmontando los mitos sobre la inflación y la creación de dinero](http://eduardogarzon.net/desmontando-los-mitos-sobre-la-inflacion-y-la-creacion-de-dinero/)
 
-[![15 documentaries on Netflix that will make you smarter about business](images/netflix_business_documentaries.png)](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lynZYPTVelw" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
+[![15 documentaries on Netflix that will make you smarter about business](images/netflix_business_documentaries.png)](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
+
+- [15 documentaries on Netflix that will make you smarter about business](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
 - [The Italian Tech Sector Is Getting A Boost From Big U.S. Partners](http://techcrunch.com/2016/02/04/the-italian-tech-sector-is-getting-a-boost-from-big-u-s-partners)
