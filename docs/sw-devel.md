@@ -53,9 +53,9 @@
 ![The art of programming](images/the_art_of_programming.jpg)
 
 # Software Development
-- [Signs that you're a good programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
+- [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)
-- [Maintain the Habit of Learning Coding Skills](https://dzone.com/articles/maintain-the-habit-of-learning-coding-skills)
+- [Maintain the Habit of Learning Coding Skills 🌟](https://dzone.com/articles/maintain-the-habit-of-learning-coding-skills)
 - [Latency Numbers Every Programmer Should Know](http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - [blog.udacity.com: The Real Cost of Change in Software Development](http://www.javacodegeeks.com/2013/09/the-real-cost-of-change-in-software-development.html)
 - [blog.udacity.com: How You Can Stand Out in Your Next Web Developer Interview](http://blog.udacity.com/2015/01/how-to-stand-out-in-your-web-developer-interview.html)
@@ -64,23 +64,23 @@
 - [12 Most Influential Books Every Software Engineer Needs to Read](http://jasonroell.com/2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/)
 - [dzone: Employee Turnover is Good for the Maintainability of Your Code Base](https://dzone.com/articles/employee-turnover-is-good-for-the-maintainability)
 - [data.triplebyte.com: Three hundred programming interviews in thirty days](https://data.triplebyte.com/three-hundred-programming-interviews-in-thirty-days-12c23c26b5ba)
-- [dzone: Becoming a Senior Engineer](https://dzone.com/articles/becoming-a-senior-engineer)
+- [dzone: Becoming a Senior Engineer 🌟🌟](https://dzone.com/articles/becoming-a-senior-engineer)
 - [blog.cleancoder.com: I want to become a Software Architect](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html)
 - [techcrunch.com: Unlocking Trapped Engineers](http://techcrunch.com/2016/01/12/unlocking-trapped-engineers/) How can we base a talent shortage on CS degree production when 59.8 percent of those with software engineer, programmer or computer scientist titles in one study did not carry a CS degree; 36 percent of IT workers do not hold a college degree at all, according to the Economic Policy Institute; 40 percent of programmers on Stack Overflow, one of the largest developer websites, are self-taught; or 14 percent of the members of some teams at Google alone don’t have a college degrees?. One million programming jobs may go unfilled by 2020, but only if companies aren’t willing to pause and rethink the barriers that are locking out programmers who entered the field without a CS degree.
-- [techcrunch.com: Programming Trends To Look For This Year](http://techcrunch.com/2016/01/13/1261560/)
+- [techcrunch.com: Programming Trends To Look For This Year 🌟](http://techcrunch.com/2016/01/13/1261560/)
 - [DZone/DevOps Zone: 13 Experts Share Their 2016 Software Industry Predictions](https://dzone.com/articles/13-experts-share-their-2016-software-industry-pred)
 - [6 ways to code faster and with less bugs](www.webcodegeeks.com/web-development/6-ways-code-faster-less-bugs/)
 - [The Developer Struggle is Real: What Our Family and Friends Think We Do](https://dzone.com/articles/the-developer-struggle-is-real-what-our-family-and) What our friends and family think we do is quite different from what we actually do. Their misconceptions lead to hilarious exchanges.
 
 ## Blogs and Forums
-- [DZone](http://dzone.com)
+- [DZone 🌟🌟🌟🌟🌟](http://dzone.com)
 	- [DZone Refcardz](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
 - [DZone/Integration Zone](https://dzone.com/enterprise-integration-training-tools-news)
-- [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
+- [Stack Overflow Developer Survey 2015 🌟🌟🌟🌟🌟](http://stackoverflow.com/research/developer-survey-2015)
 - [twitter.com/devbattles](https://twitter.com/devbattles)
 	- [devbattles.com](http://www.devbattles.com)
 - [javacodegeeks.com](http://javacodegeeks.com/)
-	- [examples.javacodegeeks.com](http://examples.javacodegeeks.com/)
+	- [examples.javacodegeeks.com 🌟🌟](http://examples.javacodegeeks.com/)
 - [javahispano.org](http://www.javahispano.org/)
 - [Web Code Geeks - Web Developers Resource Center](http://www.webcodegeeks.com/)
 - [developer.ibm.com](http://www.ibm.com/developerworks/)
@@ -103,14 +103,14 @@
 ![system testing](images/system_testing_cartoon.png)
 
 ## API and Documentation Generators
-- [dzone: The Hard Work When it Comes to Defining APIs](https://dzone.com/articles/the-hard-work-when-it-comes-to-defining-apis)
-- [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io)
+- [dzone: The Hard Work When it Comes to Defining APIs 🌟](https://dzone.com/articles/the-hard-work-when-it-comes-to-defining-apis)
+- [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface 🌟🌟🌟🌟](http://devdocs.io)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 - [Learn it Faster: The Entire JavaScript Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-javascript-language-in-a-single-image/)
 - [Learn it Faster: The Entire Python Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/)
 
 ### API Blueprint, defining the emerging API design space
-- [API Blueprint](https://apiblueprint.org)
+- [API Blueprint 🌟🌟](https://apiblueprint.org)
 
 #### Tools: Apiary
 - [API Blueprint Future](http://blog.apiary.io/2015/12/17/API-Blueprint-Future/)
@@ -124,7 +124,7 @@
 <br/>
 
 ## Design Patterns
-- [wikipedia: Design Patterns. Gang of Four (GoF)](https://en.wikipedia.org/wiki/Design_Patterns)
+- [wikipedia: Design Patterns. Gang of Four (GoF) 🌟](https://en.wikipedia.org/wiki/Design_Patterns)
 	- [stackoverflow.com: Examples of GoF Design Patterns in Java's core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
 	- [tutorialspoint.com: What is Gang of Four (GOF)?](http://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
 	- [blackwasp.co.uk: Gang of Four Design Patterns](http://www.blackwasp.co.uk/gofpatterns.aspx)
@@ -139,7 +139,7 @@
 [![desirable developer skills](images/desirable_developer_skills.png)](http://www.commandlinefu.com/)
 
 ## Editors
-- [tecmint.com: 12 Best Open Source Text Editors (GUI + CLI) I Found in 2015](http://www.tecmint.com/best-open-source-linux-text-editors/)
+- [tecmint.com: 12 Best Open Source Text Editors (GUI + CLI) I Found in 2015 🌟](http://www.tecmint.com/best-open-source-linux-text-editors/)
 - [javacodegeeks.com: Why we dropped Eclipse in favour of IntelliJ](http://www.javacodegeeks.com/2013/09/why-we-dropped-eclipse-in-favour-of-intellij.html)
 	- [IntelliJ IDEA Blog](http://blog.jetbrains.com/idea/)
 - [javacodegeeks.com: My Development Environment Setup on Linux](http://www.javacodegeeks.com/2015/12/development-environment-setup-linux.html)
@@ -152,7 +152,7 @@
 [![how i feel after 15 years of vim](images/vim_after_15years.png)](https://www.youtube.com/watch?v=PjeKA_ttPMU&feature=youtu.be&t=31m15s)
 
 ### Sublime
-- [twitter.com/SublimeTxtTips](https://twitter.com/SublimeTxtTips)
+- [twitter.com/SublimeTxtTips 🌟](https://twitter.com/SublimeTxtTips)
 - [twitter.com/SublimePackages](https://twitter.com/SublimePackages)
 
 #### Sublime Blogs
@@ -163,7 +163,7 @@
 [![Unix tool tip tools](images/enjoyment_of_tools_success.png)](https://twitter.com/UnixToolTip)
 
 #### Setting up Sublime and Tips
-- [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
+- [Realpython.com - Setting Up Sublime Text 3 for Full Stack Python Development 🌟](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 	- [An excellent free video course on Sublime Text 2 - Sublime Text 3 is still in beta](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 	- [Improve your git workflow with this new Sublime Text 3 feature](http://sublimetexttips.com/improve-your-git-workflow-with-this-new-sublime-text-3-feature/)
@@ -173,7 +173,7 @@
 - [Best plugins for Sublime Text 2](http://sublimetexttips.com/best-plugins-for-sublime-text-2/)
 - [18 Essential Plugins to Get More Out Of Sublime Text](http://www.hongkiat.com/blog/sublime-text-plugins/)
 - [Best of Sublime Text 3: Features, Plugins, and Settings ](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
-- [The best Sublime Text 3 extensions](https://bufferwall.com/blogs/2015-04-03-the-best-sublime-text-3-extensions/)
+- [The best Sublime Text 3 extensions 🌟🌟](https://bufferwall.com/blogs/2015-04-03-the-best-sublime-text-3-extensions/)
 - [10 Essential Sublime Text Plugins for Full-Stack Developers](http://www.sitepoint.com/10-essential-sublime-text-plugins-full-stack-developer/)
 - [Where should you keep your Sublime Text projects?](http://sublimetexttips.com/where-should-you-keep-your-sublime-text-projects/)
 - [How to quickly test URLs embedded in your code and text files](http://sublimetexttips.com/how-to-quickly-test-urls-embedded-in-your-code-and-text-files/)
@@ -194,7 +194,7 @@
 - [How to quickly add a new Sublime Text snippet](http://sublimetexttips.com/how-to-quickly-add-a-new-sublime-text-snippet/)
 
 #### Anaconda Python IDE
-- [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE](http://damnwidget.github.io/anaconda/)
+- [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE 🌟🌟🌟](http://damnwidget.github.io/anaconda/)
 - [Vagrant Environments](http://damnwidget.github.io/anaconda/vagrant/)
 
 [![release date](images/release_date.png)](http://dilbert.com)
@@ -202,7 +202,7 @@
 [![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
 
 #### Sublime Git
-- [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3](https://sublimegit.net/)
+- [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3 🌟🌟](https://sublimegit.net/)
 - [Package Control](https://packagecontrol.io)
 - [Anaconda Python IDE](http://damnwidget.github.io/anaconda/)
 - [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
@@ -214,7 +214,7 @@
 - [Git Gutter](https://github.com/jisaacks/GitGutter)
 
 ### Alternative editors
-- [Atom 1.1 is out](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
+- [Atom 1.1 is out 🌟](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
 - [Lime Text](http://limetext.org/) Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text. 
 - [Android Studio 2.0](http://developer.android.com/sdk/index.html)
 	- [Say hello to a faster Android emulator](https://infinum.co/the-capsized-eight/articles/say-hello-to-a-faster-android-emulator)
@@ -235,14 +235,14 @@
 - [KDiff3](http://kdiff3.sourceforge.net/)
 
 ## Regular expressions
-- [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
-- [pythex is a quick way to test your Python regular expressions](http://pythex.org/)
+- [RegExr: Learn, Build, & Test RegEx 🌟](http://www.regexr.com/)
+- [pythex is a quick way to test your Python regular expressions 🌟](http://pythex.org/)
 - [Comparing regular expressions in Perl, Python, and Emacs](http://www.johndcook.com/blog/regex-perl-python-emacs/)
 
 ## Bash
 - [explainshell.com: write down a command-line to see the help text that matches each argument](http://explainshell.com/)
-- [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands](http://www.shellcheck.net/)
-- [Writing Robust Bash Shell Scripts](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
+- [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands 🌟](http://www.shellcheck.net/)
+- [Writing Robust Bash Shell Scripts 🌟](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
 - [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming)
 
 [![goto-dinosaur](images/goto-dinosaur.jpeg)](https://twitter.com/nixcraft)
@@ -294,7 +294,7 @@
 - [javacodegeeks.com: Java 8 Features Tutorial – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/05/java-8-features-tutorial.html)
 - [Profile of successful Java developer in 2016](http://www.javacodegeeks.com/2015/12/profile-successful-java-developer-2016.html)
 - [Introduction to Docker for Java Developers – Getting started with Docker](http://examples.javacodegeeks.com/devops/introduction-docker-java-developers/)
-- ["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
+- ["Learn Python" Overtakes "Learn Java" on Google Trends 🌟🌟🌟](https://dzone.com/articles/learn-python-overtakes-learn-java)
 - [dzone: High-Performance Immutable Business Objects](https://dzone.com/articles/high-performance-immutable-business-objects)
 - [dzone: Java Annotated Monthly – January 2016.](https://dzone.com/articles/java-annotated-monthly-january-2016) All the latest interesting news and blogs around Java and the JVM languages, including the OpenJDK Android news and some thoughts from Mark Reinhold.
 - [javacodegeeks.com: 10 Examples of using ArrayList in Java – Tutorial](http://www.javacodegeeks.com/2016/01/10-examples-using-arraylist-java-tutorial.html)
@@ -382,8 +382,8 @@
 - [webcodegeeks.com: Top 10 Major Advantages of HTML5](http://www.webcodegeeks.com/html5/top-10-major-advantages-html5/)
 
 #### Static Site Generators
-- [Why You Should Use a Static Site Generator](http://formkeep.wpengine.com/?p=7)
-- [Static Site Generators](https://staticsitegenerators.net) The definitive listing of Static Site Generators 
+- [Why You Should Use a Static Site Generator 🌟🌟🌟🌟🌟](http://formkeep.wpengine.com/?p=7)
+- [Static Site Generators 🌟🌟🌟](https://staticsitegenerators.net) The definitive listing of Static Site Generators 
 - [pages.github.com](https://pages.github.com)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
 
