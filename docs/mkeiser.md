@@ -120,6 +120,7 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 <div class="container">
 <iframe src="https://player.vimeo.com/video/91032041?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
+<br/>
 
 - [The World Press Photo](http://www.worldpressphoto.org)
 	- [2015 Multimedia Contest](http://www.worldpressphoto.org/collection/mm/2015)
