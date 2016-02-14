@@ -30,9 +30,9 @@
 [![pace of technology change](images/pace_of_technology_change.png)](http://deloitte.wsj.com/cio/2015/10/20/cultivating-the-it-workforce-of-the-future/)
 
 # High quality tech resources and search engines
-- [The history of open source and a glimpse at its future. Open source changed startups, and then startups turned around and changed open source. Open source became the default, not an alternative](https://medium.com/@nayafia/we-re-in-a-brave-new-post-open-source-world-56ef46d152a3) Two startups, in particular: GitHub and Stack Overflow. Together, they launched a new chapter for software technology. And the decisions we make from here will determine how the next 5–10 years of software unfold. But to understand why, we have to start at the beginning.
-	- [Choosing an open source license](http://choosealicense.com) GitHub started taking a stance on licensing in 2013. They now suggest a license when creating a new project, and they made a microsite to help project owners choose.
-- [Why There Will Never Be Another RedHat: The Economics Of Open Source](http://techcrunch.com/2014/02/13/please-dont-tell-me-you-want-to-be-the-next-red-hat/)
+- [The history of open source and a glimpse at its future. Open source changed startups, and then startups turned around and changed open source. Open source became the default, not an alternative 🌟🌟🌟🌟🌟](https://medium.com/@nayafia/we-re-in-a-brave-new-post-open-source-world-56ef46d152a3) Two startups, in particular: GitHub and Stack Overflow. Together, they launched a new chapter for software technology. And the decisions we make from here will determine how the next 5–10 years of software unfold. But to understand why, we have to start at the beginning.
+	- [Choosing an open source license 🌟🌟🌟](http://choosealicense.com) GitHub started taking a stance on licensing in 2013. They now suggest a license when creating a new project, and they made a microsite to help project owners choose.
+- [Why There Will Never Be Another RedHat: The Economics Of Open Source 🌟](http://techcrunch.com/2014/02/13/please-dont-tell-me-you-want-to-be-the-next-red-hat/)
 
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com 🌟🌟🌟🌟🌟](https://zeef.com)
@@ -264,20 +264,20 @@
 - [Docker 🌟](https://www.reddit.com/r/docker)
 - [Ansible 🌟](https://www.reddit.com/r/ansible/)
 - [Puppet](https://www.reddit.com/r/puppet)
-- [Linuxadmin](https://www.reddit.com/r/linuxadmin)
+- [Linuxadmin 🌟🌟](https://www.reddit.com/r/linuxadmin)
 - [RedHat 🌟🌟🌟🌟🌟](https://www.reddit.com/r/redhat/)
 - [Ubuntu](https://www.reddit.com/r/ubuntu)
 - [sysadmin 🌟🌟](http://www.reddit.com/r/sysadmin/)
 - [Python 🌟](http://reddit.com/r/Python/)
 - [Learn Python 🌟](https://www.reddit.com/r/learnpython)
 - [Django](https://www.reddit.com/r/django)
-- [Ruby](https://www.reddit.com/r/ruby)
-- [Java](https://www.reddit.com/r/java)
-- [Bash](https://www.reddit.com/r/bash)
+- [Ruby 🌟](https://www.reddit.com/r/ruby)
+- [Java 🌟](https://www.reddit.com/r/java)
+- [Bash 🌟](https://www.reddit.com/r/bash)
 - [Javascript](https://www.reddit.com/r/javascript)
 - [sql 🌟](https://www.reddit.com/r/sql)
 - [Data is beautiful](https://www.reddit.com/r/dataisbeautiful)
-- [MongoDB](https://www.reddit.com/r/mongodb)
+- [MongoDB 🌟](https://www.reddit.com/r/mongodb)
 - [NoSQL](https://www.reddit.com/r/nosql)
 - [BigData](https://www.reddit.com/r/bigdata)
 - [Hadoop](https://www.reddit.com/r/hadoop)
@@ -292,19 +292,18 @@
 ## Screencasts
 - [sysadmincasts.com 🌟🌟🌟🌟🌟](https://sysadmincasts.com)
 - [build-podcast.com 🌟🌟🌟🌟](http://build-podcast.com)
+	- [git-flow 🌟](http://build-podcast.com/git-flow/)
 
 [![sysadmincasts](images/sysadmincasts.png)](https://sysadmincasts.com)
 
 [![build podcast](images/build_podcast.jpg)](http://build-podcast.com/)
 
 ## Podcasts 
-- [Awesome and Interesting Talks concerning Programming ](https://github.com/hellerve/programming-talks)
-- [build-podcast.com](http://build-podcast.com)
-	- [git-flow](http://build-podcast.com/git-flow/)
+- [Awesome and Interesting Talks concerning Programming](https://github.com/hellerve/programming-talks)
 - [Talk Python To Me](http://talkpython.fm/)
 - [Puppet Labs Podcasts](https://puppetlabs.com/conversations-puppet-labs-podcast)
-- [No dogma podcast: Discussions on software development](http://nodogmapodcast.bryanhogan.net/)
-	- [#41 Ken Finnegan, What Ireland Offers the Tech World](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
+- [No dogma podcast: Discussions on software development 🌟](http://nodogmapodcast.bryanhogan.net/)
+	- [#41 Ken Finnegan, What Ireland Offers the Tech World 🌟](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
 - [Best programming podcasts](https://player.fm/featured/programming)
 	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
 - [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
@@ -314,7 +313,7 @@
 
 ### Cloud Computing Podcasts
 - [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
-	- [The Cloudcast](http://www.thecloudcast.net/)
+	- [The Cloudcast 🌟🌟🌟🌟🌟](http://www.thecloudcast.net/)
 		- [The Cloudcast: Cloud Computing Whiteboard Videos](http://www.thecloudcast.net/2012/01/new-cloud-computing-whiteboard-videos.html)
 		- [The Cloudcast youtube channel](https://www.youtube.com/user/TheCloudcastNET)
 	- [Cloud Computing Podcast](http://www.cloudtp.com/insights/cloud-computing-weekly-podcast/)
@@ -335,7 +334,7 @@
 - [Devops Cafe](http://devopscafe.org/)
 
 #### AWS Youtube channel and Podcasts
-- [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
+- [Amazon Web Services Youtube 🌟🌟🌟](https://www.youtube.com/user/AmazonWebServices)
 - [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
 - [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
 
@@ -344,10 +343,10 @@
 	- [twitter.com/WeDevelopers](https://twitter.com/WeDevelopers)
 	- [Trabajo en Remoto 🌟🌟🌟🌟](http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/)
 	- [De cero a la App Store](http://wedevelopers.com/2013/03/01/we-developers-017-de-cero-a-la-app-store/)
-    - [Metodologías de desarrollo ágil](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
-    - [Diseño y desarrollo](http://wedevelopers.com/2012/11/23/we-developers-011-diseno-y-desarrollo/)
-    - [Optimización web](http://wedevelopers.com/2012/08/10/we-developers-010-optimizacion-web/)
-    - [Como ser desarrollador (y no morir en el intento)](http://wedevelopers.com/2015/09/03/we-developers-040-como-ser-desarrollador/)
+    - [Metodologías de desarrollo ágil 🌟](http://wedevelopers.com/2012/11/30/we-developers-012-metodologias-agiles/)
+    - [Diseño y desarrollo 🌟](http://wedevelopers.com/2012/11/23/we-developers-011-diseno-y-desarrollo/)
+    - [Optimización web 🌟](http://wedevelopers.com/2012/08/10/we-developers-010-optimizacion-web/)
+    - [Como ser desarrollador (y no morir en el intento) 🌟🌟](http://wedevelopers.com/2015/09/03/we-developers-040-como-ser-desarrollador/)
 - [Podcasts de programación web](http://montesjmm.es/2014/07/09/podcasts-de-programacion-web/)
 - [Podcasts recomendados para programadores](http://www.jaimeolmo.com/2014/12/podcasts-recomendados-para-programadores/)
 - [Preceptos Digitales: Podcast sobre planificación, diseño y desarrollo de proyectos Web](http://www.preceptosdigitales.com/)
@@ -356,9 +355,9 @@
 
 ## TLDP.org The Linux Documentation Project
 - [tldp.org](http://tldp.org/)
-- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/index.html) An in-depth exploration of the art of shell scripting
+- [Advanced Bash-Scripting Guide 🌟🌟🌟](http://tldp.org/LDP/abs/html/index.html) An in-depth exploration of the art of shell scripting
 - [LVM HOWTO](http://www.tldp.org/HOWTO/html_single/LVM-HOWTO/)
-- [TCP Keepalive HOWTO](http://www.tldp.org/HOWTO/html_single/TCP-Keepalive-HOWTO/)
+- [TCP Keepalive HOWTO 🌟](http://www.tldp.org/HOWTO/html_single/TCP-Keepalive-HOWTO/)
 - [Linux Security HOWTO](http://www.tldp.org/HOWTO/html_single/Security-HOWTO/)
 
 ## Wikibooks
