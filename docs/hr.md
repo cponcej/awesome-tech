@@ -157,7 +157,7 @@
 - [30 características de una empresa con fuerte cultura de innovación. ¿Cuántas cumples?](http://www.sociedaddelainnovacion.es/30-caracteristicas-de-una-empresa-con-fuerte-cultura-de-innovacion-cuantas-cumples/)
 - [Procura no cabrear a tu jefe](https://balcon40.com/2016/02/07/procura-no-cabrear-a-tu-jefe/)
 - [Porqué las empresas deberían facilitar la conciliación de la vida laboral y personal](https://balcon40.com/2016/02/10/porque-las-empresas-deberian-facilitar-la-conciliacion-de-la-vida-laboral-y-personal/)
-- [Acoso laboral](https://es.wikipedia.org/wiki/Acoso_laboral)
+- [Acoso laboral 🌟](https://es.wikipedia.org/wiki/Acoso_laboral)
 
 ## Orientación laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
