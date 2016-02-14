@@ -467,9 +467,9 @@
 
 ________________________________________________________________________________________________________________________________
 
-[![selenium, qtp Job Trends](images/indeed_selenium_qtp_trends.png)](http://www.indeed.com/jobtrends/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
-
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
+
+[![selenium, qtp Job Trends](images/indeed_selenium_qtp_trends.png)](http://www.indeed.com/jobtrends/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 
 [![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
 
