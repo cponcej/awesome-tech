@@ -90,9 +90,9 @@ Max Keiser - Keiser Report #E823 #E828 #E831
 
 [![Car production 2014](images/car_production_2014.png)](https://twitter.com/intlspectator)
 
-[![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
-
 [![share of world GDP](images/share_of_world_GDP.png)](https://twitter.com/intlspectator)
+
+[![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
 
 [![OECD tomorrow's scientists](images/oecd_tomorrows_scientists.png)](https://twitter.com/OECD)
 
@@ -172,7 +172,6 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 - [economist.com: Youth unemployment is a massive waste of resources](http://www.economist.com/news/special-report/21688588-youth-unemployment-massive-waste-resources-walled-world-work)
 - [theguardian.com: Each generation should be better off than their parents? Think again](http://www.theguardian.com/business/2016/feb/14/economics-viewpoint-baby-boomers-generation-x-generation-rent-gig-economy)
 
-<br/><br/>
 
 - [Quince películas para entender la crisis](http://www.elmundo.es/cultura/2016/01/15/56991002e2704e61348b45cb.html)
 	- [Margin Call quotes](http://www.imdb.com/title/tt1615147/quotes)
