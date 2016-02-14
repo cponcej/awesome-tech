@@ -93,11 +93,11 @@ ________________________________________________________________________________
 
 [![share of world GDP](images/share_of_world_GDP.png)](https://twitter.com/intlspectator)
 
-[![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
-
 [![price past year](images/price_past_year.png)](https://twitter.com/intlspectator)
 
 [![fastest growing economies](images/fastest_growing_economies.png)](https://twitter.com/intlspectator)
+
+[![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
 
 [![OECD tomorrow's scientists](images/oecd_tomorrows_scientists.png)](https://twitter.com/OECD)
 
