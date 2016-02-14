@@ -167,6 +167,7 @@
 [![agile manifesto](images/agile_manifesto.png)](http://www.agilemanifesto.org/)
 
 ### Javier Garzas 
+- [slideshare: 233 grados de TI 🌟🌟🌟](http://www.slideshare.net/233gradosdeTI)
 - [Javier Garzás: Agilidad 🌟🌟🌟🌟🌟](https://www.youtube.com/watch?v=oShXAC26rcs)
 - [¿Qué es un líder técnico? Y los cambios que están sufriendo los roles típicos en un proyecto tecnológico 🌟🌟🌟](http://www.javiergarzas.com/2014/12/que-es-un-lider-tecnico.html)
 - [Aléjate del concepto “Proyecto” si quieres usar bien Scrum: confundir “versión a entregar” al cliente con final de sprint](http://www.javiergarzas.com/2015/11/alejate-del-concepto-proyecto-si-quieres-usar-bien-scrum-12-confundir-version-a-entregar-al-cliente-con-final-de-sprint.html)
