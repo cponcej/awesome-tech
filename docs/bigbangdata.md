@@ -19,23 +19,6 @@
 <br/>
 
 <div class="container">
-<iframe src="https://player.vimeo.com/video/59207751" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe src="https://player.vimeo.com/video/95970372" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
-<p><a href="https://vimeo.com/95970372">BIG BANG DATA // Los datos no pueden (VO cast)</a> from <a href="https://vimeo.com/cccb">CCCB</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
-<br/>
-
-<div class="container">
-<iframe src="https://player.vimeo.com/video/96084551" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
-<p><a href="https://vimeo.com/96084551">Big Bang Data // Visualizaciones hist&oacute;ricas a trav&eacute;s de mapas gr&aacute;ficos  (Voe eng)</a> from <a href="https://vimeo.com/cccb">CCCB</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
-<br/>
-
-<div class="container">
 <iframe src="https://player.vimeo.com/video/95970371" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 <p><a href="https://vimeo.com/95970371">BIG BANG DATA // El pes del n&uacute;vol (VO cat)</a> from <a href="https://vimeo.com/cccb">CCCB</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
@@ -46,3 +29,21 @@
 <p><a href="https://vimeo.com/95970374">BIG BANG DATA // El peso de la nube (VO cast)</a> from <a href="https://vimeo.com/cccb">CCCB</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 <br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/59207751" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/96084551" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<p><a href="https://vimeo.com/96084551">Big Bang Data // Visualizaciones hist&oacute;ricas a trav&eacute;s de mapas gr&aacute;ficos  (Voe eng)</a> from <a href="https://vimeo.com/cccb">CCCB</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/95970372" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<p><a href="https://vimeo.com/95970372">BIG BANG DATA // Los datos no pueden (VO cast)</a> from <a href="https://vimeo.com/cccb">CCCB</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+<br/>
+
