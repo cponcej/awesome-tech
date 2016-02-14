@@ -10,7 +10,7 @@
 
 <!-- /MarkdownTOC -->
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/139052159371" data-did="92b90475f75ffe97b976a54ddb2c47aa06c2118c"><a href="http://inafev.tumblr.com/post/139052159371/nixcraft-the-linux-user-experience-via">http://inafev.tumblr.com/post/139052159371/nixcraft-the-linux-user-experience-via</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/b6s2R1_Wkej5SrmH7rhroA/138983952737" data-did="45cd22d444008b0e97409954091352a43c5843d0"><a href="http://nixcraft.tumblr.com/post/138983952737/the-linux-user-experience-via">http://nixcraft.tumblr.com/post/138983952737/the-linux-user-experience-via</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 # Desktop Tools
 - [41 Awesome Productivity Tools to Help Grow Your Brand](http://www.seanogle.com/guest-posts/41-productivity-tools)

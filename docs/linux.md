@@ -293,7 +293,7 @@
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
 - [Manage your Linux Box with htop](http://freedompenguin.com/articles/how-to/manage-your-linux-box-with-htop/)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/139110781736" data-did="38b143a5d51a9c2a8966c5a52f2dc98fd12b3f18"><a href="http://inafev.tumblr.com/post/139110781736/htop-version-20-released-for-linux-os-x-freebsd">http://inafev.tumblr.com/post/139110781736/htop-version-20-released-for-linux-os-x-freebsd</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/b6s2R1_Wkej5SrmH7rhroA/139101622517" data-did="f5ed5731bd6cb168199437ff3815965a4179516a"><a href="http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd">http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ### Glances
 - [Glances](https://nicolargo.github.io/glances)

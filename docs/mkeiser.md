@@ -95,6 +95,10 @@ ________________________________________________________________________________
 
 [![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
 
+[![price past year](images/price_past_year.png)](https://twitter.com/intlspectator)
+
+[![fastest growing economies](images/fastest_growing_economies.png)](https://twitter.com/intlspectator)
+
 [![OECD tomorrow's scientists](images/oecd_tomorrows_scientists.png)](https://twitter.com/OECD)
 
 [![OECD: GDP per hour worked](images/oecd_GDP_comparison.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/industry-and-services/oecd-compendium-of-productivity-indicators-2015_pdtvy-2015-en#page19)
