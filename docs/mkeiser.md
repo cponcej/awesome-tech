@@ -173,7 +173,6 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 - [theguardian.com: Each generation should be better off than their parents? Think again](http://www.theguardian.com/business/2016/feb/14/economics-viewpoint-baby-boomers-generation-x-generation-rent-gig-economy)
 
 <br/>
-
 - [Quince películas para entender la crisis](http://www.elmundo.es/cultura/2016/01/15/56991002e2704e61348b45cb.html)
 	- [Margin Call quotes](http://www.imdb.com/title/tt1615147/quotes)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
