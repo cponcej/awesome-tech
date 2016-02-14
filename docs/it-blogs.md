@@ -59,6 +59,7 @@
 ## IT Spain Blogs
 - [hipertextual.com](http://hipertextual.com/)
 - [javiergarzas.com 🌟🌟🌟](http://www.javiergarzas.com/)
+- [Pymes y autónomos](http://www.pymesyautonomos.com)
 - [unpocodejava.wordpress.com 🌟🌟🌟](https://unpocodejava.wordpress.com/)
 - [jreypo.wordpress.com 🌟](https://jreypo.wordpress.com/)
 - [dbigcloud.com 🌟](http://www.dbigcloud.com/)
