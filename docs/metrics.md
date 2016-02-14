@@ -52,19 +52,19 @@
 
 ## Metric monitoring
 ### Tools
-- [Stop using Nagios (so it can die peacefully)](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
+- [Stop using Nagios (so it can die peacefully) 🌟](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
 	- [nagiosql.org](http://www.nagiosql.org/)
 	- [Install NagiosQL - GUI interface to Configure Nagios Core](http://linoxide.com/monitoring-2/install-nagiosql-gui-interface-configure-nagios-core/)
-- [GoAccess real time web log analyzer](http://goaccess.io/)
+- [GoAccess real time web log analyzer 🌟🌟🌟](http://goaccess.io/)
 - [Linux cluster sysadmin — OS metric monitoring with colmux](http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/)
-- [Netflix and linux performance analysis in 60 seconds](http://www.itworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
+- [Netflix and linux performance analysis in 60 seconds 🌟](http://www.itworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
 - [Why use Sensu?](http://www.rampmeupscotty.com/blog/2013/01/20/why-use-sensu/)
 	- [Sensu monitoring](https://sensuapp.org/)
 - [StatsD: Simple daemon for easy stats aggregation](https://github.com/etsy/statsd/)
 	- [github.com: An addon for Eve. Eve-Statsd automatically monitors active domains/resources, sending "Hit Counters" and "Timers" to your statsd instance](https://github.com/tarzan0820/eve-statsd)
 - [munin monitoring](http://munin-monitoring.org/)
 - [OMD - The Open Monitoring Distribution](http://omdistro.org/)
-- [Anemometer: MySQL Slow Query Monitor](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
+- [Anemometer: MySQL Slow Query Monitor 🌟](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
 - [Zipkin](http://zipkin.io)
 	- [Zipkin architecture](http://twitter.github.io/zipkin/Architecture.html)
@@ -81,7 +81,7 @@
 <br/>
 
 ### Zabbix
-- [tecmint.com: Installing and Configuring Zabbix 2.4.5 on Debian 8 and RHEL/CentOS 7](http://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/)
+- [tecmint.com: Installing and Configuring Zabbix 2.4.5 on Debian 8 and RHEL/CentOS 7 🌟](http://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/)
 - [All the slides of Zabbix Conference 2015](http://www.zabbix.com/conf2015_agenda.php)
 - [Zabbix for Beginners webinar](https://www.youtube.com/watch?v=uqFaz2HyxVM)
 - [Reddit: Zabbix vs Nagios - what are the cases for using one or the other in an enterprise setting?](https://www.reddit.com/r/linuxadmin/comments/2i4k04/zabbix_vs_nagios_what_are_the_cases_for_using_one/)
@@ -112,19 +112,19 @@
 <br/>
 
 ### Monitoring of JavaEE applications
-- [javamelody](https://github.com/javamelody)
+- [javamelody 🌟](https://github.com/javamelody)
 - [visualvm](http://visualvm.java.net/)
-- [Red Hat Subscription: How do I analyze a Java heap dump?](https://access.redhat.com/solutions/18301)
+- [Red Hat Subscription: How do I analyze a Java heap dump? 🌟](https://access.redhat.com/solutions/18301)
 - [javacodegeeks.com: Java Mission Control 5.2 is Finally Here! Welcome 7u40!](http://www.javacodegeeks.com/2013/09/java-mission-control-5-2-is-finally-here-welcome-7u40.html)
-- [developerblog.redhat.com: Thermostat demo – open source monitoring tool for Hotspot JVM](http://developerblog.redhat.com/2014/08/06/%E2%96%B6-thermostat-demo-open-source-monitoring-tool-for-hotspot-jvm/)
+- [developerblog.redhat.com: Thermostat demo – open source monitoring tool for Hotspot JVM 🌟](http://developerblog.redhat.com/2014/08/06/%E2%96%B6-thermostat-demo-open-source-monitoring-tool-for-hotspot-jvm/)
 
 ### Monitoring Network Bandwidth
-- [ntop](http://www.ntop.org/)
-- [Iperf.fr - The TCP,UDP and SCTP network bandwidth measurement tool](https://iperf.fr/)
+- [ntop 🌟🌟](http://www.ntop.org/)
+- [Iperf.fr - The TCP,UDP and SCTP network bandwidth measurement tool 🌟🌟🌟](https://iperf.fr/)
 - [Red Hat Subscription: Using iperf to test network bandwidth throughput](https://access.redhat.com/solutions/33103)
 
 ### APM: Application Performance Management
-- [dzone: APM & performance optimization news, tutorials & tools](https://dzone.com/apm-tools-performance-monitoring-optimization)
+- [dzone: APM & performance optimization news, tutorials & tools 🌟](https://dzone.com/apm-tools-performance-monitoring-optimization)
 - [APM Convergence: Monitoring vs. Management. APM is entering into a period of intense competition of technology and strategy with a multiplicity of vendors and viewpoints](http://apmdigest.com/apm-convergence-monitoring-vs-management)
 - [Performance management from the client's point of view](http://www.networkworld.com/article/2300639/data-center/performance-management-from-the-client-s-point-of-view.html)
 - [APMdigest: Where Application Performance Management, BSM, Virtualization, and Cloud Computing Meet](http://apmdigest.com/)
@@ -138,7 +138,7 @@
 
 #### APM Solutions
 - [RTI - Application Performance Management for Red Hat Middleware (JBoss, Fuse, Tomcat)](http://www.rtiperformance.com/)
-- [MoSKito.org APM. Monitoring for Java applications. Complete ecosystem for DevOps. Free & open source](http://www.moskito.org/)
+- [MoSKito.org APM. Monitoring for Java applications. Complete ecosystem for DevOps. Free & open source 🌟](http://www.moskito.org/)
 - [Metrics is a Java library which gives you unparalleled insight into what your code does in production (application-level metrics)](http://metrics.dropwizard.io/)
 	- [GitHub: Dropwizard metrics](https://github.com/dropwizard/metrics)
 - [New Relic para monitorizar el rendimiento y las conexiones de red de aplicaciones mรณviles Android e iOS](http://www.genbetadev.com/desarrollo-aplicaciones-moviles/new-relic-para-monitorizar-el-rendimiento-y-las-conexiones-de-red-de-aplicaciones-moviles-android-e-ios)
@@ -167,8 +167,8 @@
 - [Splunk](http://www.splunk.com)
 	- [Splunk feels the heat from stronger, cheaper open source rivals](http://www.infoworld.com/article/2610524/log-analysis/splunk-feels-the-heat-from-stronger--cheaper-open-source-rivals.html)
 - [XpoLog](http://www.xpolog.com/)
-- [GrayLog2 | Open Source Log Management](https://www.graylog.org/)
-- [Fluentd | Open Source Data Collector | Unified Logging Layer](http://www.fluentd.org/)
+- [GrayLog2 | Open Source Log Management 🌟](https://www.graylog.org/)
+- [Fluentd | Open Source Data Collector | Unified Logging Layer 🌟](http://www.fluentd.org/)
 	- [Free Alternative to Splunk Using Fluentd](docs.fluentd.org/articles/free-alternative-to-splunk-by-fluentd)
 	- [Fluentd and Graylog2 for End-to-End Log Analysis](http://www.fluentd.org/guides/recipes/graylog2)
 - [rsyslog, the rocket-fast system for logs processing](http://www.rsyslog.com/)
@@ -176,4 +176,4 @@
 - [Choosing a Central Logging Tool: 5 Important Features, 6 Optional Tools: Splunk Storm, Graylog, Sumlogic, Logentries, Papertrail](https://www.ravellosystems.com/blog/choosing-central-logging-tool-5-features-6-tools/)
 
 #### Elasticsearch
-- [Elasticsearch](elasticsearch.md)
+- [Elasticsearch 🌟🌟🌟🌟🌟](elasticsearch.md)

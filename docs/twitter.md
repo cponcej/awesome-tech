@@ -276,13 +276,13 @@
 - [twitter.com/linuxs3c 🌟🌟🌟](https://twitter.com/linuxs3c)
 - [twitter.com/HackerNews 🌟🌟🌟](https://twitter.com/HackerNews)
 - [twitter.com/seclists 🌟🌟🌟](https://twitter.com/seclists)
-- [twitter.com/ehackingdotnet](https://twitter.com/ehackingdotnet)
+- [twitter.com/ehackingdotnet 🌟🌟](https://twitter.com/ehackingdotnet)
 - [twitter.com/sucurisecurity](https://twitter.com/sucurisecurity)
 - [twitter.com/csoonline](https://twitter.com/csoonline)
-- [twitter.com/blackMOREOps](https://twitter.com/blackMOREOps)
-- [twitter.com/SecurityZap](https://twitter.com/SecurityZap)
-- [twitter.com/DarkReading](https://twitter.com/DarkReading)
-- [twitter.com/guidovranken](https://twitter.com/guidovranken)
+- [twitter.com/blackMOREOps 🌟🌟](https://twitter.com/blackMOREOps)
+- [twitter.com/SecurityZap 🌟🌟](https://twitter.com/SecurityZap)
+- [twitter.com/DarkReading 🌟🌟](https://twitter.com/DarkReading)
+- [twitter.com/guidovranken 🌟](https://twitter.com/guidovranken)
 - [twitter.com/matthew_d_green](https://twitter.com/matthew_d_green)
 - [twitter.com/ITSecNews](https://twitter.com/ITSecNews)
 - [twitter.com/IT_securitynews](https://twitter.com/IT_securitynews)
@@ -298,7 +298,7 @@
 - [Jobs @ITSecurityNow](https://twitter.com/ITSecurityNow)
 
 ### Seguridad en Twitter
-- [twitter.com/Cryptodata](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
+- [twitter.com/Cryptodata 🌟🌟](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
 - [twitter.com/chemaalonso 🌟🌟🌟🌟🌟](https://twitter.com/chemaalonso)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136960409675" data-did="406ff527f71d482429b92a84fe7ed5c8c507cfd5"><a href="http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior">http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -338,16 +338,16 @@
 	- [commandlinefu3](http://twitter.com/commandlinefu3)
 	- [commandlinefu10 🌟🌟🌟🌟🌟](http://twitter.com/commandlinefu10)
 - [Shell OSS](https://twitter.com/oss_sh)
-- [Tecmint 🌟🌟🌟](https://twitter.com/tecmint)
+- [Tecmint 🌟🌟🌟🌟🌟](https://twitter.com/tecmint)
 - [SysAdmHowto 🌟](https://twitter.com/SysAdmHowto)
 - [RegexTip](https://twitter.com/RegexTip)
-- [twitter.com/linuxtutorials](https://twitter.com/linuxtutorials)
+- [twitter.com/linuxtutorials 🌟](https://twitter.com/linuxtutorials)
 - [twitter.com/linuxfoundation](https://twitter.com/linuxfoundation)
 - [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
 - [twitter.com/linuxtoday](https://twitter.com/linuxtoday)
 - [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
 - [twitter.com/LinuxUserMag](https://twitter.com/LinuxUserMag)
-- [https://twitter.com/Linux](https://twitter.com/Linux)
+- [twitter.com/Linux](https://twitter.com/Linux)
 
 ### Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
@@ -355,7 +355,7 @@
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews 🌟🌟🌟](https://twitter.com/RedHatNews)
 - [twitter.com/RedHatPartners](https://twitter.com/RedHatPartners)
-- [Red Hat Community](https://twitter.com/redhatopen)
+- [Red Hat Community 🌟](https://twitter.com/redhatopen)
 - [twitter.com/RedHat_Training](https://twitter.com/RedHat_Training)
 - [twitter.com/RHELdevelop 🌟🌟🌟](https://twitter.com/RHELdevelop)
 - [twitter.com/RedHatCloud](https://twitter.com/RedHatCloud)
@@ -367,7 +367,7 @@
 - [twitter.com/RedHatEMEA](https://twitter.com/RedHatEMEA)
 - [twitter.com/RedHatUK](https://twitter.com/RedHatUK)
 - [twitter.com/RedHatDACH](https://twitter.com/RedHatDACH)
-- [Red Hat META twitter.com/RedHatMEA](https://twitter.com/RedHatMEA)
+- [Red Hat META](https://twitter.com/RedHatMEA)
 - [twitter.com/RedHatItaly](https://twitter.com/RedHatItaly)
 - [twitter.com/RedHatNordics](https://twitter.com/RedHatNordics)
 - [twitter.com/RedHatFinland](https://twitter.com/RedHatFinland)
@@ -424,14 +424,14 @@
 - [twitter.com/oracle_em](https://twitter.com/oracle_em)
 
 ## SQL and Big Data on Twitter. Data Analysis
-- [twitter.com/sciDataAnalysis 🌟🌟🌟](https://twitter.com/sciDataAnalysis)
+- [twitter.com/SciDataAnalytix 🌟🌟🌟](https://twitter.com/SciDataAnalytix)
 - [essentialsql.com's twitter 🌟🌟🌟🌟🌟](https://twitter.com/sqlkris)
 - [twitter.com/SQLPerfTips 🌟🌟🌟🌟](https://twitter.com/SQLPerfTips)
 - [twitter.com/BigDataBlogs 🌟](https://twitter.com/BigDataBlogs)
 - [twitter.com/MySQL 🌟](https://twitter.com/MySQL)
 - [twitter.com/ScriptingMySQL 🌟](https://twitter.com/ScriptingMySQL)
 - [twitter.com/postgresql 🌟](https://twitter.com/postgresql)
-- [twitter.com/MongoDB](https://twitter.com/MongoDB)
+- [twitter.com/MongoDB 🌟](https://twitter.com/MongoDB)
 - [InformationWeek Top Data Science, Analytics, and BI experts on Twitter](http://www.kdnuggets.com/2016/01/informationweek-top-data-science-analytics-bi-experts-twitter.html)
 	1. [twitter.com/mrogati](https://twitter.com/mrogati)
 	2. [twitter.com/scientistBob](https://twitter.com/scientistBob)
@@ -448,11 +448,11 @@
 ![best datascience quote](images/jeff_hammerbacher.jpg)
 
 ## Clean code advocates. 
-- [David Whittaker](https://twitter.com/rundavidrun) Clean code advocate
-- [twitter.com/WomenWhoCode](https://twitter.com/WomenWhoCode)
+- [David Whittaker 🌟](https://twitter.com/rundavidrun) Clean code advocate
+- [twitter.com/WomenWhoCode 🌟](https://twitter.com/WomenWhoCode)
 
 ## Python on Twitter
-- [Python - The PSF](https://twitter.com/ThePSF)
+- [Python - The PSF 🌟](https://twitter.com/ThePSF)
 - [Python StackOverflow](https://twitter.com/PythonStack)
 - [Python Package Index](https://twitter.com/pypi)
 - [Guido van Rossum](https://twitter.com/gvanrossum)
@@ -462,10 +462,10 @@
 - [twitter.com/pythoncoders](https://twitter.com/pythoncoders)
 - [twitter.com/SciPyTip](https://twitter.com/SciPyTip)
 - [twitter.com/PythonWeekly](https://twitter.com/PythonWeekly)
-- [twitter.com/planetpython](https://twitter.com/planetpython)
+- [twitter.com/planetpython 🌟](https://twitter.com/planetpython)
 - [twitter.com/PythonInsider](https://twitter.com/PythonInsider)
 - [twitter.com/TalkPython](https://twitter.com/TalkPython)
-- [twitter.com/python_es](https://twitter.com/python_es)
+- [twitter.com/python_es 🌟](https://twitter.com/python_es)
 - [twitter.com/pythonbrasil](https://twitter.com/pythonbrasil)
 - [twitter.com/europython](https://twitter.com/europython)
 - [twitter.com/python_madrid](https://twitter.com/python_madrid)
@@ -475,12 +475,12 @@
 ## Python Django on Twitter
 - [twitter.com/djangoproject](https://twitter.com/djangoproject)
 - [twitter.com/TopDjangoNews](https://twitter.com/TopDjangoNews)
-- [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
+- [twitter.com/AwesomeDjango 🌟🌟🌟](https://twitter.com/AwesomeDjango)
 
 ## Python and Data Science on Twitter
-- [Anaconda twitter.com/continuumio](https://twitter.com/continuumio)
-- [twitter.com/IPythonDev](https://twitter.com/IPythonDev)
-- [twitter.com/PyData](https://twitter.com/PyData)
+- [Anaconda twitter.com/continuumio 🌟🌟🌟](https://twitter.com/continuumio)
+- [twitter.com/IPythonDev 🌟](https://twitter.com/IPythonDev)
+- [twitter.com/PyData 🌟](https://twitter.com/PyData)
 - [twitter.com/analyticsvidhya](https://twitter.com/analyticsvidhya)
 - [twitter.com/pwang](https://twitter.com/pwang)
 - [twitter.com/fperez_org](https://twitter.com/fperez_org)
@@ -492,8 +492,8 @@
 
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)
-- [twitter.com/javacodegeeks](https://twitter.com/javacodegeeks)
-- [twitter.com/Oraclejavamag](https://twitter.com/Oraclejavamag)
+- [twitter.com/javacodegeeks 🌟](https://twitter.com/javacodegeeks)
+- [twitter.com/Oraclejavamag 🌟](https://twitter.com/Oraclejavamag)
 - [twitter.com/javacert](https://twitter.com/javacert)
 - [twitter.com/JavaPerformance 🌟🌟🌟](https://twitter.com/JavaPerformance)
 - [twitter.com/JavaOneConf](https://twitter.com/JavaOneConf)
@@ -501,23 +501,23 @@
 - [Top Java at StackOverflow 🌟🌟](https://twitter.com/JavaTopSO)
 - [twitter.com/Java_Champions](https://twitter.com/Java_Champions)
 - [twitter.com/GetJavaJobs](https://twitter.com/GetJavaJobs)
-- [AWS SDK for Java](https://twitter.com/awsforjava)
+- [AWS SDK for Java 🌟](https://twitter.com/awsforjava)
 - [twitter.com/springcentral](https://twitter.com/springcentral)
 - [twitter.com/ProgramWithJava](https://twitter.com/ProgramWithJava)
 - [twitter.com/javanetbuzz](https://twitter.com/javanetbuzz)
-- [Java TV: Tutorials & Videos](https://twitter.com/javatv)
+- [Java TV: Tutorials & Videos 🌟](https://twitter.com/javatv)
 
 [![simon sinek facebook](images/simonsinek_facebook_taking_care.png)](https://www.facebook.com/simonsinek/)
 
 ## Frontend on Twitter
-- [twitter.com/getbootstrap](https://twitter.com/getbootstrap)
+- [twitter.com/getbootstrap 🌟](https://twitter.com/getbootstrap)
 - [twitter.com/nodejs](https://twitter.com/nodejs)
 - [twitter.com/angularjs](https://twitter.com/angularjs)
 - [twitter.com/JavaScriptDaily](https://twitter.com/JavaScriptDaily)
 - [twitter.com/java_hipster](https://twitter.com/java_hipster)
 
 ## Selenium on Twitter
-- [twitter.com/SeleniumHQ](https://twitter.com/SeleniumHQ)
+- [twitter.com/SeleniumHQ 🌟](https://twitter.com/SeleniumHQ)
 - [twitter.com/saucelabs](https://twitter.com/saucelabs)
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)

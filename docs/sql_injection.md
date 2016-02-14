@@ -6,7 +6,7 @@
 
 # SQL injection
 - [Wikipedia: SQL injection](https://en.wikipedia.org/wiki/SQL_injection)
-- [Bind variables are the best way to prevent SQL injection](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
+- [Bind variables are the best way to prevent SQL injection 🌟🌟🌟🌟🌟](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
 - [blog.checkpoint.com: The Latest SQL Injection Trends](http://blog.checkpoint.com/2015/05/07/latest-sql-injection-trends/)
 - [Joomla SQL Injection Attacks in the Wild](https://blog.sucuri.net/2015/10/joomla-sql-injection-attacks-in-the-wild.html)
 - [The history of SQL Injection, the hack that will never go away](http://motherboard.vice.com/read/the-history-of-sql-injection-the-hack-that-will-never-go-away)

@@ -12,11 +12,11 @@
 
 # Linux Commands Examples
 
-- Make your prompt safer with # so that if you accidentally copy & paste it, it doesn't run.
+- Make your prompt safer with # so that if you accidentally copy & paste it, it doesn't run. 🌟🌟🌟🌟🌟
 
 		PS1="# $PS1"
 
-- Tired of repeatedly pressing 'y' through some shell process? Try the 'yes' command: 
+- Tired of repeatedly pressing 'y' through some shell process? Try the 'yes' command: 🌟
 
 		yes | rm *.txt 
 		yes | fsck /dev/FOO
@@ -25,11 +25,11 @@
 
 		vim scp://user@server1//etc/httpd/httpd.conf 
 
-- Find out which of your directories(below the current directory) occupy at least 1GB of space.
+- Find out which of your directories(below the current directory) occupy at least 1GB of space. 🌟🌟
 
 		du -h . | grep "^[0-9\.]\+G"
 
-- Show directory size and sort by human readable amount (MB, GB, etc.). Requires GNU sort for -h option.
+- Show directory size and sort by human readable amount (MB, GB, etc.). Requires GNU sort for -h option. 🌟🌟
 
 		du -sh */ | sort -h 
 
@@ -52,7 +52,7 @@
 		echo "$i $(dmidecode -s system-${i})"; 
 		done
 
-- Quickly find the largest 5 files in the CWD tree without crossing filesystem boundaries
+- Quickly find the largest 5 files in the CWD tree without crossing filesystem boundaries 🌟🌟🌟
 
 		find . -xdev -ls | sort -n -k 7 | tail -5
 
@@ -80,7 +80,7 @@
 
 		cat key | ssh usr@box 'cat >> .ssh/authorized_keys' 
 
-- Add ssh key to remote host. Correct: 
+- Add ssh key to remote host. Correct: 🌟🌟
 
 		ssh-copy-id usr@box
 
@@ -100,7 +100,7 @@
 
 		awk '{print $4}' apache_log|sort -n|cut -c1-15|uniq -c|awk '{b="";for(i=0;i<$1/10;i++){b=b"#"}; print $0 " " b;}'
 
-- Get list of top URLs from all logs combined
+- Get list of top URLs from all logs combined 🌟🌟🌟
 
 		zcat access_log*.gz |cat - access_log |awk '{print $7}' |sed 's/\?.*//' |sort|uniq -c|sort -nr 
 
@@ -126,7 +126,7 @@
 
 		sysctl -a |grep temper
 
-- Want to delete a single command from history on a Linux, OS X & Unix Bash shell? 
+- Want to delete a single command from history on a Linux, OS X & Unix Bash shell? 🌟
 
 		history -d N
 
@@ -152,7 +152,7 @@
 		w3m cyberciti.biz
 		lynx cyberciti.biz 
 
-- Search (grep) for multiple error message on Linux/Unix:
+- Search (grep) for multiple error message on Linux/Unix: 🌟🌟🌟
 
 		egrep -w 'warning|error|critical' /var/log/messages
 
@@ -176,7 +176,7 @@
 
 		lsscsi -g
 
-- Want to delete existing SAN LUNs on Linux?
+- Want to delete existing SAN LUNs on Linux? 🌟
 
 		multipath -f map # Flush a multipath devicemap 
 		echo 1>/sys/block/sdc/device/delete # Delete sdc
@@ -185,7 +185,7 @@
 
 		netstat -ax | egrep '@.*/lxc/.*/command$'	
 
-- Show the TCP and UDP ports being listened on and if you're root, also show the process associated, user, etc.
+- Show the TCP and UDP ports being listened on and if you're root, also show the process associated, user, etc. 🌟🌟🌟
 	
 		netstat -lepunt
 
@@ -227,7 +227,7 @@
 
 		ngrep -d eth0 -i 'select' port 3306
 
-- Show what processes are using port 80 either locally or remotely. Need to be root for unowned processes.
+- Show what processes are using port 80 either locally or remotely. Need to be root for unowned processes. 🌟
 
 		lsof -i TCP:80 
 

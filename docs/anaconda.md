@@ -7,7 +7,7 @@
 
 # Anaconda Analytics
 - [docs.continuum.io](http://docs.continuum.io/anaconda/index)
-- [Python: The Next Big Thing in Big Data](https://dzone.com/articles/python-the-next-big-thing-in-big-data)
+- [Python: The Next Big Thing in Big Data 🌟](https://dzone.com/articles/python-the-next-big-thing-in-big-data)
 - [The State of Python for Data Science, PySS 2015](https://speakerdeck.com/chdoig/the-state-of-python-for-data-science-pyss-2015)
 - [Continuum analytics videos](https://www.continuum.io/content/videos)
 - [Continuum analytics youtube channel](https://www.youtube.com/channel/UCND4vKhJssAtK8p1Blfj14Q)
@@ -30,11 +30,11 @@
 [![anaconda is](images/anaconda-is.jpg)](https://www.continuum.io/why-anaconda)
 
 ## Anaconda Code examples
-- [Introduction to Python for data mining](http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Python_For_Data_Mining.ipynb)
-- [Jeff Reback's pandas tutorial at PyDataNYC2015, notebooks included](https://github.com/jreback/pydatanyc2015)
-- [Nginx log analysis with pandas and matplotlib](https://github.com/grokcode/ipython-notebooks/blob/master/nginx-log-analysis.ipynb)
+- [Introduction to Python for data mining 🌟🌟🌟](http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Python_For_Data_Mining.ipynb)
+- [Jeff Reback's pandas tutorial at PyDataNYC2015, notebooks included 🌟🌟🌟](https://github.com/jreback/pydatanyc2015)
+- [Nginx log analysis with pandas and matplotlib 🌟](https://github.com/grokcode/ipython-notebooks/blob/master/nginx-log-analysis.ipynb)
 - [Exploring U.S. Traffic Fatality Data](http://blog.yhathq.com/posts/traffic-fatalities-in-us.html)
-- [Data mining with Anaconda proof of concept](https://github.com/inafev/anacondalearning)
+- [Data mining with Anaconda proof of concept 🌟](https://github.com/inafev/anacondalearning)
 
 [![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)](https://www.continuum.io/why-anaconda)
 

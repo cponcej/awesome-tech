@@ -57,19 +57,19 @@
 [![devops library](images/devopslibrary.png)](http://devopslibrary.com/)
 
 ## Description
-- [What is DevOps? - In Simple English ](https://youtu.be/_I94-tJlovg)
-- [Software Development in the 21st century](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
+- [What is DevOps? - In Simple English 🌟🌟](https://youtu.be/_I94-tJlovg)
+- [Software Development in the 21st century 🌟🌟🌟](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
 - [New Relic eBook: What is DevOps and Why it Can Help Your Business?](http://newrelic.com/devops-101)
 - [slideshare: Jelastic - DevOps for Java with Docker Containers - Madrid 2015](http://www.slideshare.net/jelastic/jelastic-devops-for-java-with-docker-containers-madrid-2015-55033859)
 - [ebook: IBM DevOps for Dummies (free)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [New Relic: Glossary of DevOps Tools. Get a glimpse into some of New Relic's favorite DevOps tools](http://newrelic.com/devops/toolset)
-- [What to Expect From a DevOps Interview](https://dzone.com/articles/what-to-expect-from-a-devops-interview)
-	- [Why You’ll NEVER Nail That DevOps Interview](https://dzone.com/articles/why-youll-never-nail-that-devops-interview-1)
+- [What to Expect From a DevOps Interview 🌟🌟🌟🌟🌟](https://dzone.com/articles/what-to-expect-from-a-devops-interview)
+	- [Why You’ll NEVER Nail That DevOps Interview 🌟🌟🌟🌟🌟](https://dzone.com/articles/why-youll-never-nail-that-devops-interview-1)
 - [Deloitte: The DevOps Difference](http://deloitte.wsj.com/cio/2014/04/24/the-devops-difference/)
 - [MountainWest Devops 2014 - How I Learned to Stop Worrying and Love DevOps](https://youtu.be/uLfIp-2zm6I)
 - [DevOps does not negate ITIL or ITSM; they can be leveraged for greater agility](http://www.itworldcanada.com/article/devops-does-not-negate-itil-or-itsm-they-can-be-leveraged-for-greater-agility/379603)
 - [thoughtsoncloud.com: Why are we racing to DevOps?](http://www.thoughtsoncloud.com/2015/12/why-are-we-racing-to-devops/)
-- [DevOps isn’t just about engineering better processes. It’s also about cultural transformation](http://cloudcomputing.sys-con.com/node/3588052)
+- [DevOps isn’t just about engineering better processes. It’s also about cultural transformation 🌟](http://cloudcomputing.sys-con.com/node/3588052)
 - [How IBM Reduced Time to Development From 120 Days to 3.](https://dzone.com/articles/how-ibm-reduced-time-to-development-from-120-days) A case study on how even large, monolithic corporations can embrace DevOps and decrease their time to development.
 - [Operations is Dead, but Please Don’t Replace it with DevOps](http://diversity.net.nz/operations-is-dead-but-please-dont-replace-it-with-devops/2013/05/15/)
 - [scriptrock.com free eBook - DevOps: A Cynics Guide](https://www.scriptrock.com/devops-for-cynics)
@@ -78,12 +78,12 @@
 - [techspective.net: DevOps works best when everyone is running the same play](http://techspective.net/2016/01/05/devops-works-best-when-everyone-is-running-the-same-play/)
 - [DevOps — Metrics, Goals, and Waste](https://dzone.com/articles/devops-metrics-goals-and-waste) Barry Chandler, DevOpsDays London Organizer, reviews how DevOps is measured, as well as the Japanese lean engineering practices it evolved from.
 - [Devops — Developers Doing Ops, or Ops Doing Development?](https://dzone.com/articles/devops-developers-doing-ops-or-ops-doing-developme) DevOps encourages collaboration between both development and operations, but is one side taking up more of the workload?
-- [DZone: Automate to Save Mental Energy, Not Time.](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1) Automation doesn't necessarily save time, but it does save mental energy, and there's something to be said for that.
-- [zdnet.com: DevOps: Still a big difference between expectation and reality](http://www.zdnet.com/article/devops-still-a-big-difference-between-expectation-and-reality/) While most IT managers believe that DevOps and agility are important, only around a third believe they have the right infrastructure to implement it, according to a survey.
+- [DZone: Automate to Save Mental Energy, Not Time. 🌟](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1) Automation doesn't necessarily save time, but it does save mental energy, and there's something to be said for that.
+- [zdnet.com: DevOps: Still a big difference between expectation and reality 🌟🌟](http://www.zdnet.com/article/devops-still-a-big-difference-between-expectation-and-reality/) While most IT managers believe that DevOps and agility are important, only around a third believe they have the right infrastructure to implement it, according to a survey.
 - [Linkedin: The DevOps Coding Dilemma](https://www.linkedin.com/pulse/devops-coding-dilemma-jason-dumars) Developers don't like being tech support for automation, even if they have 'Ops' as part of their title. 
 - [medium.com: DevOps: Shift Left or Be Left](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9) The mainstream adoption of cloud computing is accelerating the shift of operations into the hands of developers.
-- [Culture over technology: The key to DevOps success](http://www.cloudcomputing-news.net/news/2016/jan/21/culture-over-technology-key-devops-success/)
-- [techbeacon.com: Hiring for DevOps: Look beyond the gurus and ninjas](http://techbeacon.com/devops-experts-hiring) Defining the term "DevOps expert".  
+- [Culture over technology: The key to DevOps success 🌟](http://www.cloudcomputing-news.net/news/2016/jan/21/culture-over-technology-key-devops-success/)
+- [techbeacon.com: Hiring for DevOps: Look beyond the gurus and ninjas 🌟🌟🌟🌟](http://techbeacon.com/devops-experts-hiring) Defining the term "DevOps expert".  
 	- What kind of DevOps? 
 
 	>TK Keanini, CTO of Lancope (recently acquired by Cisco), told me it's not that easy. He compared the search for a DevOps expert to the search for a guitarist to join your band. Lots of people know how to play a guitar, but there are a variety of styles of music that can be played on a guitar, and there's also the element of how well the individual guitarist meshes with the rest of the band. In Keanini's opinion, that is what is most important when it comes to filling a DevOps role.
@@ -141,46 +141,46 @@
 	10. [Configuration management - Ansible](http://www.ansible.com/)
 - [devops.com: DevOps in 2016, the year of implementation](http://devops.com/2015/12/22/devops-2016-year-implementation/)
 - [dzone.com: Five Software Delivery Industry Predictions for 2016](https://dzone.com/articles/five-software-delivery-industry-predictions-for-20-1)
-- [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/)
-- [oraclejavamagazine-digital.com: 7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6)
+- [Periodic Table of DevOps Tools 🌟](https://xebialabs.com/periodic-table-of-devops-tools/)
+- [oraclejavamagazine-digital.com: 7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go 🌟🌟](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6)
 - [oraclejavamagazine-digital.com: Using Docker in Java Applications](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20151112?pg=52#pg52)
-- [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
+- [How We Use AWS, Ansible, and Packer to Make Deployment Awesome 🌟](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 - [Fabric8 is an integrated open source DevOps and Integration Platform](http://fabric8.io/)
-- [DevOps Debates: The Benefits of Tool Standardization](http://devops.com/2016/01/20/devops-debates-benefits-tool-standardization/)
+- [DevOps Debates: The Benefits of Tool Standardization 🌟](http://devops.com/2016/01/20/devops-debates-benefits-tool-standardization/)
 
 [![agile to market themselves](images/agile_to_market_themselves.png)](https://kenschwaber.wordpress.com/2014/07/30/agile/)
 
 ![always that way](images/always_that_way.jpg)
 
 ## Agile planning: Scrum, Kanban, Lean
-- [Manifesto for Agile Software Development](http://agilemanifesto.org)
-- [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge](http://www.scrumguides.org/)
-- [Why estimates never work](http://www.brandonsavage.net/why-estimates-never-work/)
+- [Manifesto for Agile Software Development 🌟🌟🌟🌟🌟](http://agilemanifesto.org)
+- [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge 🌟](http://www.scrumguides.org/)
+- [Why estimates never work 🌟🌟🌟](http://www.brandonsavage.net/why-estimates-never-work/)
 - [In Support of DevOps: Kanban vs. Scrum](http://devops.com/2014/07/29/kanban-vs-scrum/)
-- [You will not become agile by implementing scrum](https://www.linkedin.com/pulse/you-become-agile-implementing-scrum-jurriaan-kamer)
+- [You will not become agile by implementing scrum 🌟](https://www.linkedin.com/pulse/you-become-agile-implementing-scrum-jurriaan-kamer)
 - [Kanban board is one of the most effective and popular tools for boosting productivity. Here is a collection of Kanban board's examples including plane simple and complicated Kanban board's style](http://tracks.roojoom.com/r/340)
 - [Lean vs Agile Programming](http://www.mytechlogy.com/IT-blogs/9408/tech-blogs-lean-vs-agile-programming/)
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 - [dzone.com: 5 Issues with Agile and What’s Next](https://dzone.com/articles/5-issues-with-agile-and-whats-next) Agile is increasingly popular, but it isn't perfect. Check out these 5 issues with Agile, and learn how the space will further evolve. Problems include lack of software architecture focus, and unclear definition of self-organization.
-- [enterprisersproject.com: A conversation with Gene Kim on DevOps, waterfall development, and containers ](https://enterprisersproject.com/article/2015/4/conversation-gene-kim-devops-waterfall-development-and-containers)
+- [enterprisersproject.com: A conversation with Gene Kim on DevOps, waterfall development, and containers](https://enterprisersproject.com/article/2015/4/conversation-gene-kim-devops-waterfall-development-and-containers)
 
 [![agile manifesto](images/agile_manifesto.png)](http://www.agilemanifesto.org/)
 
 ### Javier Garzas 
-- [Javier Garzás: Agilidad](https://www.youtube.com/watch?v=oShXAC26rcs)
-- [¿Qué es un líder técnico? Y los cambios que están sufriendo los roles típicos en un proyecto tecnológico](http://www.javiergarzas.com/2014/12/que-es-un-lider-tecnico.html)
+- [Javier Garzás: Agilidad 🌟🌟🌟🌟🌟](https://www.youtube.com/watch?v=oShXAC26rcs)
+- [¿Qué es un líder técnico? Y los cambios que están sufriendo los roles típicos en un proyecto tecnológico 🌟🌟🌟](http://www.javiergarzas.com/2014/12/que-es-un-lider-tecnico.html)
 - [Aléjate del concepto “Proyecto” si quieres usar bien Scrum: confundir “versión a entregar” al cliente con final de sprint](http://www.javiergarzas.com/2015/11/alejate-del-concepto-proyecto-si-quieres-usar-bien-scrum-12-confundir-version-a-entregar-al-cliente-con-final-de-sprint.html)
 - [El Product Owner del lado oscuro y otros anti-patrones](http://www.javiergarzas.com/2016/01/el-product-owner-del-lado-oscuro-y-otros-anti-patrones.html)
-- [Un video imprescindible sobre la buena gestión de equipos software](http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html)
+- [Un video imprescindible sobre la buena gestión de equipos software 🌟🌟🌟](http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html)
 - [Agilidad y DevOps… ¿Son lo mismo? y ¿Qué es DevOps?](http://www.javiergarzas.com/2015/12/agilidad-y-devops-son-lo-mismo-y-que-es-devops.html)
-- [¿Las disputas y discusiones son una constante en tu equipo – entorno de trabajo? No te preocupes, no estás solo](http://www.javiergarzas.com/2015/04/las-disputas-y-discusiones-son-una-constante-en-tu-equipo-entorno-de-trabajo-no-te-preocupes-no-estas-solo.html)
+- [¿Las disputas y discusiones son una constante en tu equipo – entorno de trabajo? No te preocupes, no estás solo 🌟](http://www.javiergarzas.com/2015/04/las-disputas-y-discusiones-son-una-constante-en-tu-equipo-entorno-de-trabajo-no-te-preocupes-no-estas-solo.html)
 - [Escalar agilidad: Liderazgo tribal (1/3). ¿Qué cultura tiene la tribu en la que trabajas?](http://www.javiergarzas.com/2015/12/escalar-agilidad-liderazgo-tribal-1.html)
-- [¿Tiene futuro que en tu empresa tengas un CPD? ¿Y que te dediques profesionalmente a mantenerlo?](http://www.javiergarzas.com/2015/11/tiene-futuro-que-en-tu-empresa-tengas-un-cpds-un-centro-de-proceso-de-datos-y-que-te-dediques-profesionalmente-a-ello.html)
+- [¿Tiene futuro que en tu empresa tengas un CPD? ¿Y que te dediques profesionalmente a mantenerlo? 🌟](http://www.javiergarzas.com/2015/11/tiene-futuro-que-en-tu-empresa-tengas-un-cpds-un-centro-de-proceso-de-datos-y-que-te-dediques-profesionalmente-a-ello.html)
 - [Si pasamos de externalizar el Testing a integrarlo en los equipos… ¿Qué va a pasar con las testing factories?](http://www.javiergarzas.com/2015/10/si-pasamos-de-externalizar-el-testing-a-integrarlo-en-los-equipos-que-va-a-pasar-con-las-testing-factories.html)
-- [Cómo y quién recuperó uno de los mayores desastres del desarrollo software: la web healthcare...](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
+- [Cómo y quién recuperó uno de los mayores desastres del desarrollo software: la web healthcare... 🌟🌟](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
 - [Next time you're stressing out about code bug, just be glad it's not one that causes a $440M loss in only 45 mins](https://en.wikipedia.org/wiki/Knight_Capital_Group#2012_stock_trading_disruption)
 - [Web del senado, costó 448.819€, pero la del Ayuntamiento de Madrid 100.000€ ¿Nuevo caso de populismo tecnológico?](http://www.javiergarzas.com/2015/10/web-del-senado-costo-448-819e-pero-la-del-ayuntamiento-de-madrid-100-000e-nuevo-caso-de-populismo-tecnologico.html)
-- [Los decoradores no saben crear equipos de trabajo potentes](http://www.javiergarzas.com/2016/01/los-decoradores-no-saben-crear-equipos-de-trabajo-potentes.html)
+- [Los decoradores no saben crear equipos de trabajo potentes 🌟](http://www.javiergarzas.com/2016/01/los-decoradores-no-saben-crear-equipos-de-trabajo-potentes.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oShXAC26rcs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -191,14 +191,14 @@
 - [cio.com: Why less is more with project management](http://www.cio.com/article/3031636/leadership-management/why-less-is-more-with-project-management.html)
 
 #### Product Owner
-- [medium.com: Product Owner Responsibilities in Agile (Scrum Methodologies)](https://medium.com/agile-project-management-scrum-lean-kanban/product-owner-responsibilities-in-agile-scrum-methodologies-dc7aeeb5ff71)
+- [medium.com: Product Owner Responsibilities in Agile (Scrum Methodologies) 🌟🌟](https://medium.com/agile-project-management-scrum-lean-kanban/product-owner-responsibilities-in-agile-scrum-methodologies-dc7aeeb5ff71)
 - [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)
 - [20 Product Owners anti patterns in scrum](http://lmsgoncalves.com/2014/09/29/product-owner-anti-patterns/)
-- [¿Cuantos Product Owner puede tener un equipo?](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
+- [¿Cuantos Product Owner puede tener un equipo? 🌟](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 
 #### Scrum Master. Scrum Cheat Sheet
 - [DZone/Agile Zone. Hiring: 38 Scrum Master Interview Questions To Avoid Imposters](https://dzone.com/articles/hiring-38-scrum-master-interview-questions-to-avoi) A free pdf from DZone user Stefan Wolpers for those looking to hire Scrum Masters or agile professionals.
-- [The shortest and greatest SCRUM cheat sheet that I've seen so far](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
+- [The shortest and greatest SCRUM cheat sheet that I've seen so far 🌟🌟🌟](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 - [What Is the Relationship Between Story Points and Task Effort in Hours?](https://www.scrumalliance.org/community/articles/2016/january/what-is-the-relationship-between-story-points-and)
 - [Agile adoption by numbers – and some problems](http://www.javacodegeeks.com/2016/01/agile-adoption-numbers-problems.html)
 - [Daily Scrum – Tips & Tactics](http://www.barryovereem.com/daily-scrum-tips-tactics/)
@@ -222,7 +222,7 @@
 <br/>
 
 ### Continuous Integration and Delivery
-- [Martin Fowler. Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
+- [Martin Fowler. Continuous Delivery 🌟🌟🌟🌟](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 	- [A Brief Guide to Success with Agile, Martin Fowler](http://martinfowler.com/articles/agileFluency.html)
 - [continuousdelivery.com](http://continuousdelivery.com/)
 	- [Visualizations of Continuous Delivery](http://continuousdelivery.com/2014/02/visualizations-of-continuous-delivery/)
@@ -249,10 +249,10 @@
 
 # ITIL
 ## Is DevOps replacing ITIL?
-- [slideshare.net: Is DevOps replacing ITIL? Busting the Five Biggest DevOps Myths](http://www.slideshare.net/CAinc/busting-the-five-biggest-devops-myths)
-- [Is DevOps Killing Some Types of Jobs?](https://developer.ibm.com/urbancode/2014/10/28/devops-killing-types-jobs/)
+- [slideshare.net: Is DevOps replacing ITIL? Busting the Five Biggest DevOps Myths 🌟](http://www.slideshare.net/CAinc/busting-the-five-biggest-devops-myths)
+- [Is DevOps Killing Some Types of Jobs? 🌟🌟🌟](https://developer.ibm.com/urbancode/2014/10/28/devops-killing-types-jobs/)
 - [IT managers: we're hurting for more cloud and DevOps skills. Despite years of cloud and DevOps adoption, IT departments are still mired in backlogs of user demands, survey shows](http://www.zdnet.com/article/it-managers-were-hurting-for-more-cloud-and-devops-skills/)
-- [Why everyone hates DevOps](http://www.networkworld.com/article/2915893/software/why-everyone-hates-devops.html)
+- [Why everyone hates DevOps 🌟](http://www.networkworld.com/article/2915893/software/why-everyone-hates-devops.html)
 	- [8 Reasons IT Pros Hate The Cloud](http://www.informationweek.com/cloud/8-reasons-it-pros-hate-the-cloud/d/d-id/1320531)
 	- [The IT Culture War: The Struggle to Adopt DevOps | WIRED](http://www.wired.com/2015/03/culture-war-struggle-adopt-devops/)
 - [DevOps does not negate ITIL or ITSM; they can be leveraged for greater agility](http://www.itworldcanada.com/article/devops-does-not-negate-itil-or-itsm-they-can-be-leveraged-for-greater-agility)
@@ -263,8 +263,8 @@
 
 ## ITIL Tools
 - [ITIL v3 (Information Technology Infrastructure Library)](https://en.wikibooks.org/wiki/ITIL_v3_%28Information_Technology_Infrastructure_Library%29)
-- [itop - ITSM & CMDB OpenSource. A simple, web based IT Service Management tool ](http://sourceforge.net/projects/itop/)
-- [RackTables.org - a datacenter asset management system](http://racktables.org/)
+- [itop - ITSM & CMDB OpenSource. A simple, web based IT Service Management tool 🌟](http://sourceforge.net/projects/itop/)
+- [RackTables.org - a datacenter asset management system 🌟](http://racktables.org/)
 
 [![is your company ready for devops](images/is_your_company_ready_for_devops.jpg)](http://www.commitstrip.com/en/2015/02/02/is-your-company-ready-for-devops/)
 
