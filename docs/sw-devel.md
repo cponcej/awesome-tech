@@ -463,7 +463,7 @@
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
 
 ### Arquillian Testing Platform
-- [Arquillian references in this blog](linux.md#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
+- [Arquillian references in this blog](redhat.md#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
 
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
 
