@@ -147,10 +147,9 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/HL-TxDkEdkPu2r8TQU-xPQ/108034598717" data-did="8e73e902181d6dd615a6c4912854817fc42f0613"><a href="http://time-lord-vonnegut.tumblr.com/post/108034598717/to-all-the-people-on-here-looking-for-jobs">http://time-lord-vonnegut.tumblr.com/post/108034598717/to-all-the-people-on-here-looking-for-jobs</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137953377381" data-did="2fcc9cb3f087e7274401418d7009ad80206a8bd7"><a href="http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew">http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/ebrI2txzsqZUlY_pj-z1ZQ/114944216680" data-did="5a1964be9c133b76877062dd2b8bc7e8a66aa3f6"><a href="http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew">http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
-
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137953377381" data-did="2fcc9cb3f087e7274401418d7009ad80206a8bd7"><a href="http://inafev.tumblr.com/post/137953377381/things-people-reading-your-resume-wish-you-knew">http://inafev.tumblr.com/post/137953377381/things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/ebrI2txzsqZUlY_pj-z1ZQ/114768074076" data-did="40406e1892bde79f503fdc2994c518d67d6401d9"><a href="http://forbes.tumblr.com/post/114768074076/5-things-people-reading-your-resume-wish-you-knew">http://forbes.tumblr.com/post/114768074076/5-things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
