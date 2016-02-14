@@ -23,18 +23,18 @@
 [![linkedin sales pitch meme](images/LinkedIn-Meme-sales-pitch.png)](http://www.ringdna.com/blog/meme-selling-on-LinkedIn)
 
 # Startups
-- [La economía crece](mkeiser.md)
-- [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
+- [La economía crece 🌟](mkeiser.md)
+- [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)
 - [Global Technology Adoption Index 2015](https://powermore.dell.com/2015-global-technology-adoption-index/)
-- [startupheatmap.eu: Where is the Europe's next Silicon Valley?](http://www.startupheatmap.eu/)
+- [startupheatmap.eu: Where is the Europe's next Silicon Valley? 🌟](http://www.startupheatmap.eu/)
 - [How Stockholm is becoming Europe's premier tech hub](http://mashable.com/2016/01/22/stockholm-europe-tech-hub/#C7NvqtmU38qY)
 
 ## Startup related links
-- [ZDnet: Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
+- [ZDnet: Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital 🌟🌟🌟](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [webcapitalriesgo.com: Startup Financing in Spain. 2015](https://www.webcapitalriesgo.com/descargas/4714_07_15_353136675.pdf)
 - [Startupxplore.com: map with all the IT startups and investors](https://startupxplore.com/)
 	- [El inversor de éxito que lucha contra la "burbuja" de las startups](http://startupxplore.com/blog/es/bill-gurley-burbuja-startup/)
-- [StartupHeatMap.eu: European Startup Initiative](http://www.startupheatmap.eu/)
+- [StartupHeatMap.eu: European Startup Initiative 🌟](http://www.startupheatmap.eu/)
 - [StartupBlink: Global Startup Industry Map](http://www.startupblink.com/)
 - [Glassdoor.com: Best Places to Work in 2016!](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [ycombinator.com: Y Combinator is a community of over 1,600 founders](http://www.ycombinator.com/)
@@ -46,11 +46,12 @@
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
 
 ## Trabajar por el mundo
-- [spaniards.es](http://www.spaniards.es)
 - [trabajarporelmundo.org](http://trabajarporelmundo.org/)
 	- [Tips para crear un buen curriculum para trabajar en Londres](http://trabajarporelmundo.org/tips-para-crear-un-buen-curriculum-para-trabajar-en-londres/)
+- [spaniards.es](http://www.spaniards.es)
 - [Bristoleños: vivir en UK](http://bristolenos.com)
-- [Espanish in London](http://www.espanishinlondon.com)
+- [Espanish in London 🌟](http://www.espanishinlondon.com)
+- ["I was born in London but I no longer recognise this city" 🌟](http://www.economist.com/news/books-and-arts/21689519-how-british-capital-being-remade-beyond-glitter)
 - [Para vivir en Irlanda](http://www.paravivirenirlanda.com)
 - [Quiero ir a vivir a Dublin](http://quieroiraviviradublin.blogspot.com.es)
 - [Berlín en español](http://berlinenespanol.net)
@@ -63,12 +64,12 @@
 [![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)](http://www.creativebloq.com/advertising/web-developer-job-ad-chart-11618853)
 
 ### Barcelona startups
-- [Barcinno.com: Barcelona Tech, Startups and Innovation](http://www.barcinno.com/)
+- [Barcinno.com: Barcelona Tech, Startups and Innovation 🌟](http://www.barcinno.com/)
 - [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
 - [BCNanalytics.com](http://bcnanalytics.com/)
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
-- [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
+- [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong 🌟](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
 
 [![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.grifolsacademy.com/)
 
@@ -89,7 +90,7 @@
 - [gumtree.com/computing-it-jobs](https://www.gumtree.com/computing-it-jobs)
 - [indeed.co.uk](http://www.indeed.co.uk/)
 - [monster.co.uk](http://www.monster.co.uk/)
-- [AngelList jobs](https://angel.co)
+- [AngelList jobs 🌟🌟🌟](https://angel.co)
 	- [AngelList jobs Barcelona](https://angel.co/barcelona)
 	- [AngelList Jobs Madrid](https://angel.co/barcelona)
 	- [AngelList Jobs Valencia](https://angel.co/valencia)

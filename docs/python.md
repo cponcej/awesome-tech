@@ -72,6 +72,7 @@
 - [devbattles.com: Python: sorting lists by .sort () with - in simple words](http://www.devbattles.com/en/sand/post-1752-Python_sorting_lists_by_sort__with__in_simple_words)
 - [Create a GUI Application Using Qt and Python in Minutes: Example Web Browser](http://www.digitalpeer.com/blog/create-a-gui-application-using-qt-and-python-in-minutes-example-web-browser)
 - [Python command line oneliners](http://www.vurt.ru/2013/02/python-command-line-oneliners)
+- [Python gains the upper hand against Perl, PHP, and Ruby](http://www.infoworld.com/article/3029681/java/python-gains-the-upper-hand-against-perl-php-and-ruby.html)
 
 [![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
 
