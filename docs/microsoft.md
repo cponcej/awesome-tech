@@ -69,6 +69,7 @@
 - [Windows Sysinternals](https://technet.microsoft.com/en-us/sysinternals)
 	- [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653)
 - [Windows Remote Management and WMI](https://msdn.microsoft.com/es-es/library/windows/desktop/aa384463%28v=vs.85%29.aspx)
+- [New Release of PowerShell Extension For Visual Studio Code](https://rkeithhill.wordpress.com/2016/02/09/new-release-of-powershell-extension-for-visual-studio-code)
 
 [![spiceworks](images/spiceworks-logo.png)](http://www.spiceworks.com/)
 
