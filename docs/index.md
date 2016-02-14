@@ -37,6 +37,7 @@
 	- [SQL and Databases](databases.md)
 	- [NoSQL and NewSQL 🌟🌟](nosql.md)
 	- [Anaconda Analytics 🌟](anaconda.md)
+	- [Big Bang Data](bigbangdata.md)
 13. [Networking](networking.md)
     - [Next Generation Firewalls (NGFW) 🌟](NGFW.md)
 	- [Network Forensics 🌟🌟](nw_forensics.md)
