@@ -14,6 +14,7 @@
 	- [Big Data](#big-data)
 		- [Awesome Lists](#awesome-lists)
 		- [Big Data Blogs](#big-data-blogs)
+		- [Big Bang Data](#big-bang-data)
 		- [Internet of things](#internet-of-things)
 		- [Data Visualization](#data-visualization)
 			- [Tableau](#tableau)
@@ -146,6 +147,9 @@
 - [smartdatacollective.com](http://www.smartdatacollective.com/)
 
 [![job trends analytics](images/job-trends-analytics.jpg)](http://www.indeed.com/jobtrends/BI%2C+analytics%2C+data+mining.html)
+
+### Big Bang Data
+- [Big Bang Data](bigbangdata.md)
 
 ### Internet of things
 - [techrepublic.com: Survey: Harnessing the power of big data and IoT](http://www.techrepublic.com/article/survey-harnessing-the-power-of-big-data-and-iot/)
