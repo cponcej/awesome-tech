@@ -149,8 +149,6 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/ebrI2txzsqZUlY_pj-z1ZQ/114944216680" data-did="5a1964be9c133b76877062dd2b8bc7e8a66aa3f6"><a href="http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew">http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/ebrI2txzsqZUlY_pj-z1ZQ/114768074076" data-did="40406e1892bde79f503fdc2994c518d67d6401d9"><a href="http://forbes.tumblr.com/post/114768074076/5-things-people-reading-your-resume-wish-you-knew">http://forbes.tumblr.com/post/114768074076/5-things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
-
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
