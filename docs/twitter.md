@@ -101,6 +101,7 @@
 # Tumblr Resources
 - [nixcraft.tumblr.com](http://nixcraft.tumblr.com)
 - [devops.tumblr.com](http://devops.tumblr.com)
+- [devops-omnium-gatherum.tumblr.com](http://devops-omnium-gatherum.tumblr.com)
 - [devopsreactions.tumblr.com](http://devopsreactions.tumblr.com)
 - [securityreactions.tumblr.com](https://securityreactions.tumblr.com)
 - [uxreactions.com](http://uxreactions.com)
