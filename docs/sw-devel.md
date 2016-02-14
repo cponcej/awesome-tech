@@ -213,6 +213,10 @@
 - [plaintext-productivity.net: How to Set Up Git and Sublime Text for Version Control](http://plaintext-productivity.net/2-08-how-to-set-up-git-and-sublime-text-for-version-control.html)
 - [Git Gutter](https://github.com/jisaacks/GitGutter)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/J_xUnudLz4rzUdFD9jUlpg/81554286013" data-did="a1074dda3ab05a2ce69d3acf695c8e94515829ea"><a href="http://keepcalmandprogram.tumblr.com/post/81554286013/a-few-sublime-text-shortcuts">http://keepcalmandprogram.tumblr.com/post/81554286013/a-few-sublime-text-shortcuts</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/gokkqQsaD3W7bP5THq80oA/115429198288" data-did="627e65931bdb7153115e52d92c38dcf331660b50"><a href="http://blog.pachanka.org/post/115429198288/when-people-ask-me-why-i-use-sublime-text-as-my">http://blog.pachanka.org/post/115429198288/when-people-ask-me-why-i-use-sublime-text-as-my</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
 ### Alternative editors
 - [Atom 1.1 is out 🌟](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
 - [Lime Text](http://limetext.org/) Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text. 
