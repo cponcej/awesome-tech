@@ -1,5 +1,6 @@
+
 <p align="center">
-![about.me](https://about.me/inafev)
+<a href="https://about.me/inafev">about.me</a>
 </p>
 
 ![winston wolf solves problems](images/winston_wolf_solves_problems.gif)
