@@ -353,6 +353,7 @@
 - [HowTo: Compile And Run a C/C++ Code In Linux](http://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/)
 - [Using strace to track system calls in Linux](https://opensource.com/business/16/1/scale-14x-interview-alex-juarez-rackspace)
 - [How to: Detect Duplicate IP Address With arping command under Linux](http://www.cyberciti.biz/faq/linux-duplicate-address-detection-with-arping/)
+- [How to Setup and Configure Network Bonding or Teaming in RHEL/CentOS 7](http://www.tecmint.com/configure-network-bonding-or-teaming-in-rhel-centos-7/)
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Z1IoXIxLJVE" frameborder="0" allowfullscreen class="video"></iframe>
