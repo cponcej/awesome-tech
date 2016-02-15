@@ -65,7 +65,7 @@
 - [Apple CEO Tim Cook on Collaboration and Office Politics](https://youtu.be/EZPYLZ7I6gs)
 - [An Introvert's Guide to Surviving Team Lunches](http://goingconcern.com/post/introverts-guide-surviving-team-lunches)
 - [workplace.stackexchange.com: Staying late for appearance?](http://workplace.stackexchange.com/questions/50655/staying-late-for-appearance)
-- [cityam.com: I've been passed over for a promotion: Should I move jobs?](http://www.cityam.com/234517/debretts-ask-the-expert-ive-been-passed-over-for-a-promotion-should-i-move-jobs)
+- [cityam.com: I've been passed over for a promotion: Should I move jobs? 🌟](http://www.cityam.com/234517/debretts-ask-the-expert-ive-been-passed-over-for-a-promotion-should-i-move-jobs) 
 
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
