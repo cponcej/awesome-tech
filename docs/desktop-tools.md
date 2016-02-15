@@ -7,6 +7,7 @@
 		- [Evernote on Twitter](#evernote-on-twitter)
 	- [Thunderbird Extensions](#thunderbird-extensions)
 	- [Firefox](#firefox)
+	- [Monitors](#monitors)
 - [Presentations](#presentations)
 
 <!-- /MarkdownTOC -->
@@ -72,6 +73,15 @@
 
 [![commitstrip we'll sort that out later](images/commitstrip_hw_sw_purchase.jpg)](http://www.commitstrip.com/en/2016/02/01/well-sort-that-out-later/)
 
+## Monitors
+- [reddit.com/r/monitors](https://www.reddit.com/r/monitors)
+	- [27 inch 1920 x 1080 worth it?](https://www.reddit.com/r/Monitors/comments/2vs37l/27_inch_1920_x_1080_worth_it/)
+	- [24 inch G-sync vs 27 inch Freesync](https://www.reddit.com/r/Monitors/comments/3o3n26/24_inch_gsync_vs_27_inch_freesync/)
+	- [Really struggling with choosing a new Monitor!](https://www.reddit.com/r/Monitors/comments/3peu1q/really_struggling_with_choosing_a_new_monitor/)
+- [1080p vs 1440p on a 27-inch?](https://www.reddit.com/r/pcgaming/comments/3jjdtp/1080p_vs_1440p_on_a_27inch/)
+
+[![samsung 27 inches monitor](images/samsung_27inches_monitor.jpg)](http://www.amazon.es/dp/B00IJS6PXQ/ref=asc_df_B00IJS6PXQ31979760/)
+
 # Presentations
 - [twitter.com/PresGeeks](https://twitter.com/PresGeeks)
 - [blog.slideshare.net: 6 Principles of Influence to Enhance Your Presentations](https://blog.slideshare.net/2015/12/14/6-principles-of-influence-to-enhance-your-presentations/)
@@ -83,3 +93,4 @@
 
 [![hp mini pc](images/hp_mini.jpg)](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
 
+[![This is my desk at Red Hat! Source](images/redhat_desk.jpg)](https://www.reddit.com/r/redhat/comments/45na8c/this_is_my_desk_at_red_hat/)
