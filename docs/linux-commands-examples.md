@@ -52,6 +52,18 @@
 		echo "$i $(dmidecode -s system-${i})"; 
 		done
 
+- Copy a file using "ionice -c 3" to give it idle priority to reduce load on the system.
+
+		ionice -c 3 cp vm1.img vm1-clone.img
+
+- Remove the prefix 'unwanted' from the beginning of each filename with .jpg suffix in CWD.
+
+		rename 's/^unwanted//' *.jpg
+		
+- Find file duplicates in 'dir' recursively based on size and mdsum and log to dupes.txt
+
+		fdupes -r dir > dupes.txt
+
 - Quickly find the largest 5 files in the CWD tree without crossing filesystem boundaries 🌟🌟🌟
 
 		find . -xdev -ls | sort -n -k 7 | tail -5
@@ -99,6 +111,10 @@
 - Request by hour graph.
 
 		awk '{print $4}' apache_log|sort -n|cut -c1-15|uniq -c|awk '{b="";for(i=0;i<$1/10;i++){b=b"#"}; print $0 " " b;}'
+
+- Count syslog hits per minute in your messages log file. Useful for doing quick stats.
+
+		awk -F: {'print $1 ":" $2'} messages |uniq -c
 
 - Get list of top URLs from all logs combined 🌟🌟🌟
 
