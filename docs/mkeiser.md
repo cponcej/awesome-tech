@@ -34,8 +34,31 @@ ________________________________________________________________________________
 
 [![Germany vs US key economic indicators](images/Germany_vs_US_key_economic_indicators.png)](http://www.brookings.edu/~/media/Research/Files/Reports/2015/02/25-germany/LessonsFromGermany.pdf?la=en)
 
-<script src="http://charts.wikinvest.com/wikinvest/wikichart/javascript/scripts.php" type="text/javascript"></script><div id="wikichartContainer_576D2604-3E81-1961-EC1F-E5982CBD570C"><div id="wikichartContainer_576D2604-3E81-1961-EC1F-E5982CBD570C_noFlash" style="width:400px; display:none;"><a href="http://get.adobe.com/flashplayer/"><img src="http://cdn.wikinvest.com/wikinvest/images/adobe_flash_logo.gif" alt="Flash" style="border-width: 0px;"/><br/>Flash Player 9 or higher is required to view the chart<br/><strong>Click here to download Flash Player now</strong></a></div></div><script type="text/javascript">if (typeof(embedWikichart) != "undefined") {embedWikichart("http://charts.wikinvest.com/WikiChartMini.swf","wikichartContainer_576D2604-3E81-1961-EC1F-E5982CBD570C","400","400",{"partner":"wikinvest","ticker":"NYSE:DB","rollingDate":"5 days","showNewsIcons":"true","embedCodeDate":"2016-2-15"},{});}</script><div style="font-size:9px;text-align:right;width:400px;font-family:Verdana"><a href="http://www.wikinvest.com/chart/NYSE:DB" style="text-decoration:underline; color:#0000ee;">View the full DB chart</a> at <a href="http://www.wikinvest.com/">Wikinvest</a></div>
-<br/>
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "autosize": true,
+  "symbol": "FX:SPX500",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "allow_symbol_change": true,
+  "details": true,
+  "hotlist": true,
+  "news": [
+    "headlines"
+  ],
+  "hideideas": true,
+  "show_popup_button": true,
+  "popup_width": "1000",
+  "popup_height": "650"
+});
+</script>
+<!-- TradingView Widget END -->
 
 [![Recession. Countries by GDP per Capita in 2014](images/Countries_by_GDP_Per_Capita_in_2014.png)](https://en.wikipedia.org/wiki/Recession)
 
