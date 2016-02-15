@@ -137,6 +137,11 @@
 
 [![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
 
+<div class="container">
+<script height="438px" width="778px" src="http://player.ooyala.com/iframe.js#pbid=6e12e8b3387a44daacfb73afba25a76e&ec=duY3VsMDE6pKJpzOgHgtCTluxK6AJYe8" class="video"></script>
+</div>
+<br/>
+
 ## Technical Resume
 - [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
 - [The 6 Musts of a Cover Letter](http://www.entrepreneur.com/article/269614)
