@@ -26,6 +26,8 @@ ________________________________________________________________________________
 
 [![FT chart of the day: real wages in the US, Germany, UK and Spain since the crisis](images/real_wages.png)](http://blogs.ft.com/ftdata/2014/12/08/datawatch-real-wages-since-the-crisis/)
 
+[![Los cinco gráficos que explican la situación económica mundial](images/evolucion_pib_mundial.jpg)](http://www.bolsamania.com/noticias/economia/los-cinco-graficos-que-explican-la-situacion-economica-mundial--1035065.html)
+
 [![Digital economy USA vs Germany](images/Digital_economy_USA_vs_Germany.png)](http://www.economist.com/news/business/21678774-europes-biggest-economy-rightly-worried-digitisation-threat-its-industrial)
 
 [![Germany vs US key economic indicators](images/Germany_vs_US_key_economic_indicators.png)](http://www.brookings.edu/~/media/Research/Files/Reports/2015/02/25-germany/LessonsFromGermany.pdf?la=en)
