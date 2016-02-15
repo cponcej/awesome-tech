@@ -59,7 +59,7 @@
 - Remove the prefix 'unwanted' from the beginning of each filename with .jpg suffix in CWD.
 
 		rename 's/^unwanted//' *.jpg
-		
+
 - Find file duplicates in 'dir' recursively based on size and mdsum and log to dupes.txt
 
 		fdupes -r dir > dupes.txt
@@ -80,6 +80,10 @@
 
 		ls -la --full-time |tr -s " " |cut -f6 -d " "|cut -c1-7 | sort | uniq -c
 
+- Use cut to print out columns 1, 5 and 10 through 15 in data.csv and write that to new.csv
+
+		cut -d, -f1,5,10-15 data.csv > new.csv 
+		
 - Want to store log of your ssh session? Try:
 		
 		ssh -l user server1 | tee -a ~/myssh.log
