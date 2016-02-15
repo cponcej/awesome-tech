@@ -1,6 +1,6 @@
 <!-- MarkdownTOC -->
 
-- [Sublime](#sublime)
+- [Sublime Text Editor](#sublime-text-editor)
     - [Sublime Blogs](#sublime-blogs)
     - [Setting up Sublime and Tips](#setting-up-sublime-and-tips)
     - [Anaconda Python IDE](#anaconda-python-ide)
@@ -8,7 +8,7 @@
 
 <!-- /MarkdownTOC -->
 
-# Sublime
+# Sublime Text Editor
 - [twitter.com/SublimeTxtTips 🌟](https://twitter.com/SublimeTxtTips)
 - [twitter.com/SublimePackages](https://twitter.com/SublimePackages)
 
@@ -53,10 +53,6 @@
 ## Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE 🌟🌟🌟](http://damnwidget.github.io/anaconda/)
 - [Vagrant Environments](http://damnwidget.github.io/anaconda/vagrant/)
-
-[![release date](images/release_date.png)](http://dilbert.com)
-
-[![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
 
 ## Sublime Git
 - [SublimeGit: Full-featured Git integration for Sublime Text 2 and 3 🌟🌟](https://sublimegit.net/)

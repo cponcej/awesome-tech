@@ -9,7 +9,7 @@
 			- [Tools: Apiary](#tools-apiary)
 	- [Design Patterns](#design-patterns)
 	- [Editors](#editors)
-		- [Sublime](#sublime)
+		- [Sublime Text Editor](#sublime-text-editor)
 		- [Alternative editors](#alternative-editors)
 		- [Diff Tools](#diff-tools)
 	- [Regular expressions](#regular-expressions)
@@ -147,8 +147,12 @@
 
 [![how i feel after 15 years of vim](images/vim_after_15years.png)](https://www.youtube.com/watch?v=PjeKA_ttPMU&feature=youtu.be&t=31m15s)
 
-### Sublime
-- [Sublime](sublime.md)
+[![release date](images/release_date.png)](http://dilbert.com)
+
+[![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
+
+### Sublime Text Editor
+- [Sublime Text Editor](sublime.md)
 
 ### Alternative editors
 - [Atom 1.1 is out 🌟](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
