@@ -44,6 +44,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![release date](images/release_date.png)](http://dilbert.com)
+
 [![What OOP users claim](images/what_oop_users_claim.png)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 ![The art of programming](images/the_art_of_programming.jpg)
@@ -146,8 +148,6 @@
 - [IntelliJ IDEA 16 EAP Improves Debugger and Adds Git Worktree Support](https://dzone.com/articles/intellij-idea-16-eap-improves-debugger-and-adds-gi) A new patch brings several new features to IntelliJ, including the use of Groovy expressions when debugging a Java application and VC integration.
 
 [![how i feel after 15 years of vim](images/vim_after_15years.png)](https://www.youtube.com/watch?v=PjeKA_ttPMU&feature=youtu.be&t=31m15s)
-
-[![release date](images/release_date.png)](http://dilbert.com)
 
 [![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
 
