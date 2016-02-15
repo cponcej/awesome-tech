@@ -59,6 +59,7 @@ new TradingView.widget({
 });
 </script>
 <!-- TradingView Widget END -->
+<br/>
 
 [![Recession. Countries by GDP per Capita in 2014](images/Countries_by_GDP_Per_Capita_in_2014.png)](https://en.wikipedia.org/wiki/Recession)
 
