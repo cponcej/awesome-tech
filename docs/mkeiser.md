@@ -34,6 +34,8 @@ ________________________________________________________________________________
 
 [![Germany vs US key economic indicators](images/Germany_vs_US_key_economic_indicators.png)](http://www.brookings.edu/~/media/Research/Files/Reports/2015/02/25-germany/LessonsFromGermany.pdf?la=en)
 
+<img src="https://www.google.com/finance/getchart?q=ETR%3ADBK&sq=deutsche bank&sp=3&ei=ru_BVui_F8WdUpisp5AO"/> 
+
 [![Recession. Countries by GDP per Capita in 2014](images/Countries_by_GDP_Per_Capita_in_2014.png)](https://en.wikipedia.org/wiki/Recession)
 
 [![OECD Data: Household debt](images/oecd_household_debt.png)](https://data.oecd.org)
