@@ -328,9 +328,12 @@
 
 #### Static Site Generators
 - [Why You Should Use a Static Site Generator 🌟🌟🌟🌟🌟](http://formkeep.wpengine.com/?p=7)
+- [Why Static Website Generators Are The Next Big Thing](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)
 - [Static Site Generators 🌟🌟🌟](https://staticsitegenerators.net) The definitive listing of Static Site Generators 
+- [Top Open-Source Static Site Generators](https://www.staticgen.com/)
 - [pages.github.com](https://pages.github.com)
 - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
+- [gohugo.io](https://gohugo.io)
 
 [![jekyll static generator](images/jekyll.png)](http://formkeep.wpengine.com/?p=7)
 
