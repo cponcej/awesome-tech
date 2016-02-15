@@ -151,6 +151,10 @@
 
 [![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
 
+[![Intellij IDEA](images/intellij-idea.png)](https://www.jetbrains.com/idea/)
+
+[![Intellij IDEA 15](images/idea_15.png)](https://www.jetbrains.com/idea/whatsnew/)
+
 ### Sublime Text Editor
 - [Sublime Text Editor](sublime.md)
 
