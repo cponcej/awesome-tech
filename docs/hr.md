@@ -129,6 +129,7 @@
 - [Surviving the technical interview](https://wilsonericn.wordpress.com/2012/10/29/surviving-the-technical-interview/)
 - [How to Solve Google’s Crazy Open-Ended Interview Questions](http://www.wired.com/2014/08/how-to-solve-crazy-open-ended-google-interview-questions/)
 - [businessinsider.com: The surprisingly simple solution to a trick question Apple asks in job interviews](http://www.businessinsider.com/apple-job-interview-question-brainteaser-2016-2)
+- [How To Ask For An Introduction On LinkedIn (And Get It!)](http://careerhmo.com/ask-introduction-linkedin/)
 
 ![war room](images/war_room.gif)
 
