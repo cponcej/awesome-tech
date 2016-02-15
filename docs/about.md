@@ -1,5 +1,6 @@
-
-->[about.me](https://about.me/inafev)<-
+<p align="center">
+[about.me](https://about.me/inafev)
+</p>
 
 ![winston wolf solves problems](images/winston_wolf_solves_problems.gif)
 
