@@ -155,7 +155,7 @@
 - [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
 - [El jefe de RRHH de Google es tajante: "El expediente académico no sirve para nada"](http://www.elconfidencial.com/alma-corazon-vida/2013-06-28/el-expediente-academico-no-sirve-para-nada-asegura-el-responsable-de-rrhh-de-google_501910/)
-- [Nepotismo y amiguismo: lo bueno y lo malo de los favores en el trabajo](http://www.bbc.com/mundo/noticias/2015/10/151011_vert_cap_nepotismo_en_empreas_yv)
+- [Nepotismo y amiguismo: lo bueno y lo malo de los favores en el trabajo 🌟](http://www.bbc.com/mundo/noticias/2015/10/151011_vert_cap_nepotismo_en_empreas_yv)
 - [Spanish Beautynomics o Cómo usted puede llegar a verse sin empleo](http://www.gurusblog.com/archives/spanish-beautynomics-o-como-usted-puede-llegar-a-verse-sin-empleo/30/11/2015/)
 - [9 cosas que hacen los jefes que obligan a renunciar](http://www.soyentrepreneur.com/29403-9-cosas-que-hacen-los-jefes-que-obligan-a-renunciar.html)
 - [30 características de una empresa con fuerte cultura de innovación. ¿Cuántas cumples?](http://www.sociedaddelainnovacion.es/30-caracteristicas-de-una-empresa-con-fuerte-cultura-de-innovacion-cuantas-cumples/)
@@ -163,6 +163,7 @@
 - [Porqué las empresas deberían facilitar la conciliación de la vida laboral y personal](https://balcon40.com/2016/02/10/porque-las-empresas-deberian-facilitar-la-conciliacion-de-la-vida-laboral-y-personal/)
 - [Acoso laboral 🌟](https://es.wikipedia.org/wiki/Acoso_laboral)
 - [El jefe tóxico, cuando el responsable del mal ambiente en la empresa es el que manda](http://www.pymesyautonomos.com/management/el-jefe-toxico-cuando-el-responsable-del-mal-ambiente-en-la-empresa-es-el-que-manda)
+- [neupic.com: El paro. El «enemigo» en casa 🌟](https://neupic.com/articles/el-paro-el-enemigo-en-casa) 
 
 ## Orientación laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
