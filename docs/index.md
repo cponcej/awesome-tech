@@ -32,6 +32,7 @@
 	- [Metrics 🌟](metrics.md)
 	- [Elasticsearch 🌟](elasticsearch.md)
 11. [Software Development](sw-devel.md)
+    - [Sublime Text Editor 🌟](sublime.md)
 	- [Python 🌟](python.md)
 12. [Data Science and Big Data](data-science.md)
 	- [SQL and Databases](databases.md)
