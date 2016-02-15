@@ -1,5 +1,7 @@
 [about.me](https://about.me/inafev)
 
+![winston wolf solves problems](images/winston_wolf_solves_problems.gif)
+
 # Awesome Tech
 
 - A curated list of awesome IT projects and resources collected between 2014 and 2015. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
