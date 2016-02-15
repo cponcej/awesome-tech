@@ -194,6 +194,7 @@ ________________________________________________________________________________
 - [economist.com: The future of jobs. The onrushing wave.](http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less) Previous technological innovation has always delivered more long-run employment, not less. But things can change
 - [economist.com: Youth unemployment is a massive waste of resources 🌟](http://www.economist.com/news/special-report/21688588-youth-unemployment-massive-waste-resources-walled-world-work)
 - [theguardian.com: Each generation should be better off than their parents? Think again 🌟](http://www.theguardian.com/business/2016/feb/14/economics-viewpoint-baby-boomers-generation-x-generation-rent-gig-economy)
+- [tradingview.com/widget](https://www.tradingview.com/widget)
 
 ______________________________________________________________________________________________________________________________________
 
