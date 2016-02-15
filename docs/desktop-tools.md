@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Desktop Tools](#desktop-tools)
+	- [Excel](#excel)
 	- [Evernote](#evernote)
 		- [Evernote on Twitter](#evernote-on-twitter)
 	- [Thunderbird Extensions](#thunderbird-extensions)
@@ -14,7 +15,6 @@
 
 # Desktop Tools
 - [41 Awesome Productivity Tools to Help Grow Your Brand](http://www.seanogle.com/guest-posts/41-productivity-tools)
-- [Learning Excel isn't just for finance professionals, it can boost anyone's productivity at work — here’s how](http://www.businessinsider.com/master-microsoft-excel-basics-beginner-online-course-udemy-deal-2016-2)
 - [How to avoid 'death by PowerPoint'](http://www.bbc.com/news/technology-35038429) These days, there are plenty of alternatives to PowerPoint - [Keynote](http://www.apple.com/mac/keynote/), [Slides](https://slides.com/), [Prezi](https://prezi.com), [SlideRocket](http://www.sliderocket.com/), [Easel.ly](http://easel.ly/), [Emaze](https://www.emaze.com), [Slidedog](http://slidedog.com/), to name but a few - many of which are freely available online.
 - [five.sentenc.es: email productivity](http://five.sentenc.es/)
 - [Why one tech CEO doesn't let employees email each other](http://www.businessinsider.com/atmoic-212-doesnt-use-internal-email-2016-1)
@@ -24,6 +24,10 @@
 - [This new Samsung laptop is shockingly thin and light](http://www.techinsider.io/samsung-notebook-9-2016-1)
 - [cyberciti.biz: 10 Places To Buy A Laptop With Linux Preloaded](http://www.cyberciti.biz/hardware/laptop-computers-with-linux-installed-or-preloaded/)
 - [zdnet: CES 2016: These are the best laptops, tablets, and portable PCs](http://www.zdnet.com/pictures/best-new-laptops-tablets-gadgets-ces-2016-pictures/)
+
+
+## Excel
+- [Learning Excel isn't just for finance professionals, it can boost anyone's productivity at work — here’s how](http://www.businessinsider.com/master-microsoft-excel-basics-beginner-online-course-udemy-deal-2016-2)
 
 ![bill gates](images/bill_gates.jpg)
 
