@@ -38,24 +38,18 @@ ________________________________________________________________________________
 <script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
 <script type="text/javascript">
 new TradingView.widget({
-  "autosize": true,
-  "symbol": "FX:SPX500",
-  "interval": "D",
+  "width": 980,
+  "height": 610,
+  "symbol": "NASDAQ:AMZN",
+  "interval": "W",
   "timezone": "Etc/UTC",
   "theme": "White",
   "style": "1",
   "locale": "en",
   "toolbar_bg": "#f1f3f6",
   "allow_symbol_change": true,
-  "details": true,
-  "hotlist": true,
-  "news": [
-    "headlines"
-  ],
-  "hideideas": true,
-  "show_popup_button": true,
-  "popup_width": "1000",
-  "popup_height": "650"
+  "save_image": false,
+  "hideideas": true
 });
 </script>
 <!-- TradingView Widget END -->
