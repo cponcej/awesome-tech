@@ -66,6 +66,7 @@
 ### Barcelona startups
 - [Barcinno.com: Barcelona Tech, Startups and Innovation 🌟](http://www.barcinno.com/)
 - [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
+- [Eurecat TIC](http://eurecat.org/en/sectors/itc/)
 - [BCNanalytics.com](http://bcnanalytics.com/)
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)

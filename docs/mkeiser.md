@@ -26,6 +26,10 @@ ________________________________________________________________________________
 
 [![FT chart of the day: real wages in the US, Germany, UK and Spain since the crisis](images/real_wages.png)](http://blogs.ft.com/ftdata/2014/12/08/datawatch-real-wages-since-the-crisis/)
 
+[![Digital economy USA vs Germany](images/Digital_economy_USA_vs_Germany.png)](http://www.economist.com/news/business/21678774-europes-biggest-economy-rightly-worried-digitisation-threat-its-industrial)
+
+[![Germany vs US key economic indicators](images/Germany_vs_US_key_economic_indicators.png)](http://www.brookings.edu/~/media/Research/Files/Reports/2015/02/25-germany/LessonsFromGermany.pdf?la=en)
+
 [![OECD Data: Household debt](images/oecd_household_debt.png)](https://data.oecd.org)
 
 ![OECD Data: Household disposable income](images/oecd_household_disposable_income.png)
@@ -97,6 +101,10 @@ ________________________________________________________________________________
 
 [![fastest growing economies](images/fastest_growing_economies.png)](https://twitter.com/intlspectator)
 
+[![stocks in 2015](images/stocks_2015.png)](https://twitter.com/intlspectator)
+
+[![top countries with the most people living overseas](images/top_countries_with_most_people_living_overseas.png)](https://twitter.com/intlspectator)
+
 [![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
 
 [![OECD tomorrow's scientists](images/oecd_tomorrows_scientists.png)](https://twitter.com/OECD)
@@ -133,7 +141,7 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 ______________________________________________________________________________________________________________________________________
 
 - [The World Press Photo](http://www.worldpressphoto.org)
-	- [2015 Multimedia Contest](http://www.worldpressphoto.org/collection/mm/2015)
+	- [2015 Multimedia Contest 🌟](http://www.worldpressphoto.org/collection/mm/2015)
 - [data.oecd.org](https://data.oecd.org)
 	- [twitter.com/OECD](https://twitter.com/OECD)
 	- [twitter.com/OECD_Centre](https://twitter.com/OECD_Centre) 
@@ -158,7 +166,7 @@ ________________________________________________________________________________
 - [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
 - [uk.businessinsider.com: Animated map shows the history of immigration to the US](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 - [flowingdata.com: American Immigration history](http://flowingdata.com/2016/01/12/immigration-history/)
-- [Irish biggest losers from financial crash - ECB](http://www.irishtimes.com/business/economy/irish-biggest-losers-from-financial-crash-ecb-1.2398588)
+- [Irish biggest losers from financial crash - ECB 🌟](http://www.irishtimes.com/business/economy/irish-biggest-losers-from-financial-crash-ecb-1.2398588)
 - [Britain is heading for another 2008 crash: here’s why](http://www.theguardian.com/commentisfree/2015/oct/28/2008-crash-government-economic-growth-budgetary-surplus)
 - [Educated Greeks show highest rate of unemployment in OECD](http://www.ekathimerini.com/203808/article/ekathimerini/news/educated-greeks-show-highest-rate-of-unemployment-in-oecd)
 - [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
@@ -175,8 +183,8 @@ ________________________________________________________________________________
 - [businessinsider.com: Watch 1,400 US workers learn their jobs are moving to Mexico](http://www.businessinsider.com/carrier-workers-learn-jobs-are-moving-to-mexico-2016-2)
 - [Laid-off IT workers muzzled as H-1B debate heats up](http://www.cio.com/article/3027539/outsourcing/laid-off-it-workers-muzzled-as-h-1b-debate-heats-up.html)
 - [economist.com: The future of jobs. The onrushing wave.](http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less) Previous technological innovation has always delivered more long-run employment, not less. But things can change
-- [economist.com: Youth unemployment is a massive waste of resources](http://www.economist.com/news/special-report/21688588-youth-unemployment-massive-waste-resources-walled-world-work)
-- [theguardian.com: Each generation should be better off than their parents? Think again](http://www.theguardian.com/business/2016/feb/14/economics-viewpoint-baby-boomers-generation-x-generation-rent-gig-economy)
+- [economist.com: Youth unemployment is a massive waste of resources 🌟](http://www.economist.com/news/special-report/21688588-youth-unemployment-massive-waste-resources-walled-world-work)
+- [theguardian.com: Each generation should be better off than their parents? Think again 🌟](http://www.theguardian.com/business/2016/feb/14/economics-viewpoint-baby-boomers-generation-x-generation-rent-gig-economy)
 
 ______________________________________________________________________________________________________________________________________
 
@@ -198,7 +206,7 @@ ________________________________________________________________________________
 	- [El engaño de la burbuja inmobiliaria (E788)](https://youtu.be/qNQtcKqULcU)
 	- [Las gigantes malvadas hipotecarias (E789)](https://youtu.be/mnErMBHrKPk)
 	- [El comienzo del fin del capitalismo (E790)](https://youtu.be/OBNbUk3D2XM) El post-capitalismo
-	- [El precariado: una nueva clase social (E791)](https://youtu.be/8cdPD71jZjM) El fenómeno supera todas la fronteras geográficas
+	- [El precariado: una nueva clase social (E791) 🌟](https://youtu.be/8cdPD71jZjM) El fenómeno supera todas la fronteras geográficas
 	- [La maldita deuda (E792)](https://youtu.be/M89qDw1p2lQ)
 	- [Un mundo de estafas Ponzi (E795)](https://youtu.be/Uv7KhOqiBSA)
 	- [Volver a la norma del oro (E796)](https://youtu.be/cnfEC4PF23U)
@@ -224,7 +232,8 @@ ________________________________________________________________________________
 - [Economistas frente a la crisis](http://economistasfrentealacrisis.com/)
     - [Crisis generacional. Los jóvenes dejan de buscar empleo en España](http://economistasfrentealacrisis.com/crisis-generacional-los-jovenes-dejan-de-buscar-empleo-en-espana/) 
 - [¿Va a estallar Silicon Valley?](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
-- [Desmontando los mitos sobre la inflación y la creación de dinero](http://eduardogarzon.net/desmontando-los-mitos-sobre-la-inflacion-y-la-creacion-de-dinero/)
+- [Desmontando los mitos sobre la inflación y la creación de dinero 🌟](http://eduardogarzon.net/desmontando-los-mitos-sobre-la-inflacion-y-la-creacion-de-dinero/)
+- [El gran desajuste: "Las empresas germanas son 16 veces más eficientes que los gigantes tecnológicos americanos generando empleo" 🌟🌟🌟](http://xavierferras.blogspot.com.es/2016/02/el-gran-desajuste.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lynZYPTVelw" frameborder="0" allowfullscreen class="video"></iframe>

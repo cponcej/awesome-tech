@@ -11,6 +11,7 @@
 	- [Amazon Web Services](#amazon-web-services)
 	- [OpenStack private cloud](#openstack-private-cloud)
 	- [IBM Bluemix](#ibm-bluemix)
+	- [AWS Gartner Report](#aws-gartner-report)
 
 <!-- /MarkdownTOC -->
 
@@ -114,5 +115,8 @@
 
 ## IBM Bluemix
 - [IBM Cloud computing. Technical resources for developing in the cloud](https://www.ibm.com/developerworks/cloud/)
+
+## AWS Gartner Report
+- [Gartner Critical Capabilities - Learn More ](https://aws.amazon.com/resources/gartner-cc-learn-more/)
 
 [![Gartner Critical Capabilities](images/gartner_report.png)](https://aws.amazon.com/resources/gartner-cc-learn-more/)
