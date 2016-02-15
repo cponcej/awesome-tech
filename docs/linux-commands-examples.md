@@ -104,6 +104,8 @@
 
 		ssh -D 8989 you@remotehost 
 
+- The awk variable $1 contains the first field in a record, $2 the second, $3 the third, etc. $0 contains all fields.
+
 - List 10 largest open file on Unix:
 
 		lsof /|awk '{ if($7>1048576) print $7/1048576 "MB" " " $9 " " $1 }'|sort -nu|tail 
