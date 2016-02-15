@@ -128,6 +128,7 @@
 - [How to get any job you want — even if you're not technically qualified](http://www.businessinsider.com/how-to-get-any-job-you-want-even-if-youre-not-technically-qualified-2016-1)
 - [Surviving the technical interview](https://wilsonericn.wordpress.com/2012/10/29/surviving-the-technical-interview/)
 - [How to Solve Google’s Crazy Open-Ended Interview Questions](http://www.wired.com/2014/08/how-to-solve-crazy-open-ended-google-interview-questions/)
+- [businessinsider.com: The surprisingly simple solution to a trick question Apple asks in job interviews](http://www.businessinsider.com/apple-job-interview-question-brainteaser-2016-2)
 
 ![war room](images/war_room.gif)
 
@@ -136,11 +137,6 @@
 [![dificultad entrevistas por empresa](images/dificultad_entrevistas_por_empresa.png)](http://www.expansion.com/emprendedores-empleo/2016/02/07/56b084b3268e3eaf678b4607.html)
 
 [![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
-
-<div class="container">
-<script height="438px" width="778px" src="http://player.ooyala.com/iframe.js#pbid=6e12e8b3387a44daacfb73afba25a76e&ec=duY3VsMDE6pKJpzOgHgtCTluxK6AJYe8" class="video"></script>
-</div>
-<br/>
 
 ## Technical Resume
 - [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)

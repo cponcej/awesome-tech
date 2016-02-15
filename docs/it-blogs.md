@@ -21,6 +21,7 @@
 	- [twitter.com/DZone](https://twitter.com/DZone)
 - [CityAM Tech](http://www.cityam.com/news/tech)
 - [Forbes Tech](http://www.forbes.com/technology/)
+- [Tech Insider](http://www.techinsider.io/)
 - [techcrunch.com](http://techcrunch.com/)
 - [The enterprisers project](https://enterprisersproject.com/) Sponsored By Red Hat
 - [techrepublic.com](http://www.techrepublic.com/)
