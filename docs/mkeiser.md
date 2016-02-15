@@ -34,27 +34,6 @@ ________________________________________________________________________________
 
 [![Germany vs US key economic indicators](images/Germany_vs_US_key_economic_indicators.png)](http://www.brookings.edu/~/media/Research/Files/Reports/2015/02/25-germany/LessonsFromGermany.pdf?la=en)
 
-<!-- TradingView Widget BEGIN -->
-<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
-<script type="text/javascript">
-new TradingView.widget({
-  "width": 980,
-  "height": 610,
-  "symbol": "NASDAQ:AMZN",
-  "interval": "W",
-  "timezone": "Etc/UTC",
-  "theme": "White",
-  "style": "1",
-  "locale": "en",
-  "toolbar_bg": "#f1f3f6",
-  "allow_symbol_change": true,
-  "save_image": false,
-  "hideideas": true
-});
-</script>
-<!-- TradingView Widget END -->
-<br/>
-
 [![Recession. Countries by GDP per Capita in 2014](images/Countries_by_GDP_Per_Capita_in_2014.png)](https://en.wikipedia.org/wiki/Recession)
 
 [![OECD Data: Household debt](images/oecd_household_debt.png)](https://data.oecd.org)

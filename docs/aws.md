@@ -230,22 +230,3 @@
 
 [![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)](https://www.google.com/search?q=AMZN+Nasdaq)
 
-<!-- TradingView Widget BEGIN -->
-<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
-<script type="text/javascript">
-new TradingView.widget({
-  "width": 980,
-  "height": 610,
-  "symbol": "NASDAQ:AMZN",
-  "interval": "W",
-  "timezone": "Etc/UTC",
-  "theme": "White",
-  "style": "1",
-  "locale": "en",
-  "toolbar_bg": "#f1f3f6",
-  "allow_symbol_change": true,
-  "save_image": false,
-  "hideideas": true
-});
-</script>
-<!-- TradingView Widget END -->
