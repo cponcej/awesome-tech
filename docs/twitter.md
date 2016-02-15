@@ -99,16 +99,18 @@
 - [OSSnews.net](https://ossnews.net)
 
 # Tumblr Resources
-- [nixcraft.tumblr.com](http://nixcraft.tumblr.com)
+- [nixcraft.tumblr.com 🌟](http://nixcraft.tumblr.com)
 - [devops.tumblr.com](http://devops.tumblr.com)
 - [devops-omnium-gatherum.tumblr.com](http://devops-omnium-gatherum.tumblr.com)
-- [devopsreactions.tumblr.com](http://devopsreactions.tumblr.com)
+- [devopsreactions.tumblr.com 🌟](http://devopsreactions.tumblr.com)
 - [securityreactions.tumblr.com](https://securityreactions.tumblr.com)
 - [uxreactions.com](http://uxreactions.com)
 - [Project Manager Reactions](http://pmreactions.tumblr.com)
-- [agile-testing.tumblr.com](http://agile-testing.tumblr.com)
+- [agile-testing.tumblr.com 🌟](http://agile-testing.tumblr.com)
 - [keepcalmandprogram.tumblr.com](http://keepcalmandprogram.tumblr.com)
-- [forbes.tumblr.com](http://forbes.tumblr.com)
+- [forbes.tumblr.com 🌟](http://forbes.tumblr.com)
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/iFjXucMPOIj7OILspk20NQ/139349373443" data-did="5dd8a6e68839131313adbfc57df3235ac774fc3f"><a href="http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a">http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 # Twitter Resources
 - Add twitter resources to your custom twitter lists or subscribe to someone else's lists.
