@@ -64,6 +64,9 @@
 - [https://twitter.com/Evernote_IN](https://twitter.com/Evernote_IN)
 - [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Calendars are simple yet powerful motivational tools. Save these templates to Evernote &gt;&gt; <a href="https://t.co/cyfFe9Nml8">https://t.co/cyfFe9Nml8</a> <a href="https://t.co/36bPi2oXH0">pic.twitter.com/36bPi2oXH0</a></p>&mdash; evernote (@evernote) <a href="https://twitter.com/evernote/status/697790751384735744">febrero 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Thunderbird
 - [twitter.com/mozthunderbird](https://twitter.com/mozthunderbird)
 - [support.mozilla.org](https://support.mozilla.org)
@@ -75,6 +78,9 @@
 - [gContactSync](https://addons.mozilla.org/thunderbird/addon/gcontactsync/)
 - [Google Tasks Sync](https://addons.mozilla.org/thunderbird/addon/google-tasks-sync/?src=search)
 - [EnigMail OpenPGP Email Security](https://www.enigmail.net)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Thunderbird?src=hash">#Thunderbird</a> seems to be the most famous <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/email?src=hash">#email</a> client. <a href="https://t.co/XZ8MLGYyUN">pic.twitter.com/XZ8MLGYyUN</a></p>&mdash; Ivan Bilimov (@ibilimov) <a href="https://twitter.com/ibilimov/status/696564628122423296">febrero 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Firefox
 - [How to stop Firefox from making automatic connections. #Privacy #Security #Networking](https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections)
