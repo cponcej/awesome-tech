@@ -52,3 +52,5 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/2W5PXYTutNuCfK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wkandek/unsafe-ssl-compact" title="Unsafe SSL webinar" target="_blank">Unsafe SSL webinar</a> </strong> from <strong><a href="//www.slideshare.net/wkandek" target="_blank">Wolfgang Kandek</a></strong> </div>
 </div>
 <br/>
+
+<div id='scoopit-container-4059806440'><a href='http://www.scoop.it/t/d-n3n/p/4059806440/2016/02/16/why-i-stopped-using-startssl-hint-it-involves-a-chinese-company'>Why I stopped using StartSSL (Hint: it involves a Chinese company)</a></div><script type='text/javascript' src='http://www.scoop.it/embed-scoop/4059806440.js?maxwidth=457' ></script>

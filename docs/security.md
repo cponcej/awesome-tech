@@ -48,10 +48,11 @@
 - [awesome android security](https://github.com/ashishb/android-security-awesome)
 
 ## Security Blogs
-- [seclists.org](http://seclists.org/)
-- [ehacking.net](http://www.ehacking.net)
-- [Sucuri Blog](https://blog.sucuri.net/)
-- [Blackmoreops.com](http://blackmoreops.com)
+- [HaCoder.com 🌟](http://www.hacoder.com) 
+- [seclists.org 🌟](http://seclists.org/)
+- [ehacking.net 🌟](http://www.ehacking.net)
+- [Sucuri Blog 🌟](https://blog.sucuri.net/)
+- [Blackmoreops.com 🌟](http://blackmoreops.com)
 - [k4linux.com](http://www.k4linux.com) Kali Linux 2.0 tutorials Technology and News of penetration testing and security Hacking Wifi Facebook Website.
 - [net-security.org](http://www.net-security.org)
 - [arstechnica.com/security](http://arstechnica.com/security)
