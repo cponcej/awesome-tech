@@ -16,6 +16,24 @@
 - [Hacking website using SQL Injection -step by step guide](http://breakthesecurity.cysecurity.org/2010/12/hacking-website-using-sql-injection-step-by-step-guide.html)
 - [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Lab set-up for learning SQL Injection Techniques - <a href="https://t.co/wLOAIbXw36">https://t.co/wLOAIbXw36</a></p>&mdash; SQL Injection Wiki (@sqlinjwiki) <a href="https://twitter.com/sqlinjwiki/status/692837682745995265">enero 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">An awesome step by step tutorial on SQL Injection<a href="https://t.co/2wF5zHCcgT">https://t.co/2wF5zHCcgT</a></p>&mdash; Alex Balan (@Jaymzu) <a href="https://twitter.com/Jaymzu/status/679649631974866945">diciembre 23, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">SQL Injection Authentication Bypass Cheat Sheet - <a href="https://t.co/vhcuNIeZ5L">https://t.co/vhcuNIeZ5L</a></p>&mdash; SQL Injection Wiki (@sqlinjwiki) <a href="https://twitter.com/sqlinjwiki/status/680065833285120000">diciembre 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">In 16 hours I&#39;ve found 8 high risk, easy to find SQLi bugs in Oracle EBS 11.5. Oracle has had over 10 years to find these. Why didn&#39;t they?</p>&mdash; David Litchfield (@dlitchfield) <a href="https://twitter.com/dlitchfield/status/661203033116798977">noviembre 2, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">How to train your skills in SQL Injection - <a href="https://t.co/EAqI28t6J0">https://t.co/EAqI28t6J0</a> <a href="https://twitter.com/hashtag/sqlinjection?src=hash">#sqlinjection</a> <a href="https://twitter.com/hashtag/bwapp?src=hash">#bwapp</a></p>&mdash; SQL Injection Wiki (@sqlinjwiki) <a href="https://twitter.com/sqlinjwiki/status/642714696068526080">septiembre 12, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="und" dir="ltr">El lado del mal: Sacar partido a Variables del Sistema en ataques SQL Injection a MySQL <a href="https://t.co/7RGbb1BIoM">https://t.co/7RGbb1BIoM</a> }:) <a href="https://t.co/F5e2AQWXso">pic.twitter.com/F5e2AQWXso</a></p>&mdash; Chema Alonso (@chemaalonso) <a href="https://twitter.com/chemaalonso/status/696567148949413888">febrero 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_jKylhJtPmI?list=PLAyiPXCn4LA9MIODF2ENP0gUMmuomzA3g" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
