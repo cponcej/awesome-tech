@@ -40,6 +40,8 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How bad are tech stocks doing? We attached a chart. 😱<br><br>On momo stocks <a href="https://twitter.com/search?q=%24AMZN&amp;src=ctag">$AMZN</a>, <a href="https://twitter.com/search?q=%24NFLX&amp;src=ctag">$NFLX</a> and more: <a href="https://t.co/je8X1Ju2HG">https://t.co/je8X1Ju2HG</a> <a href="https://t.co/PXsXpXcZ5R">pic.twitter.com/PXsXpXcZ5R</a></p>&mdash; StockTwits (@StockTwits) <a href="https://twitter.com/StockTwits/status/695649857785049088">febrero 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Machines may replace half of human jobs <a href="https://t.co/eG4UM5H2KY">https://t.co/eG4UM5H2KY</a> <a href="https://t.co/wLEPMYJL0i">pic.twitter.com/wLEPMYJL0i</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/699604520414945281">febrero 16, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![Recession. Countries by GDP per Capita in 2014](images/Countries_by_GDP_Per_Capita_in_2014.png)](https://en.wikipedia.org/wiki/Recession)
 
 [![OECD Data: Household debt](images/oecd_household_debt.png)](https://data.oecd.org)
