@@ -36,6 +36,21 @@
 - [Exploring U.S. Traffic Fatality Data](http://blog.yhathq.com/posts/traffic-fatalities-in-us.html)
 - [Data mining with Anaconda proof of concept 🌟](https://github.com/inafev/anacondalearning)
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Announcing <a href="https://twitter.com/hashtag/Anaconda?src=hash">#Anaconda</a> Enterprise Notebooks - the power of <a href="https://twitter.com/ProjectJupyter">@ProjectJupyter</a> in a governed environment: <a href="https://t.co/E6pkZ6tvV5">https://t.co/E6pkZ6tvV5</a> <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a></p>&mdash; Continuum Analytics (@ContinuumIO) <a href="https://twitter.com/ContinuumIO/status/699612664360603649">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Bokeh – a Python interactive visualization library <a href="https://t.co/RdtKEEPXI3">https://t.co/RdtKEEPXI3</a></p>&mdash; Hacker News (@newsycombinator) <a href="https://twitter.com/newsycombinator/status/697571516582653953">febrero 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">LIGO scientists on a Reddit IAmA thread talk about how <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a> is used in science: <a href="https://t.co/ef69eSBOcV">https://t.co/ef69eSBOcV</a></p>&mdash; Jake Vanderplas (@jakevdp) <a href="https://twitter.com/jakevdp/status/698519097135353857">febrero 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">HoloViews 1.4 released: Interactive data exploration &amp; visualization in <a href="https://twitter.com/hashtag/Jupyter?src=hash">#Jupyter</a> - now w/ <a href="https://twitter.com/BokehPlots">@BokehPlots</a>+Pandas support <a href="https://t.co/dvt3uxyIpd">https://t.co/dvt3uxyIpd</a></p>&mdash; Philipp Rudiger (@PhilippJFR) <a href="https://twitter.com/PhilippJFR/status/696379790950076416">febrero 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Anaconda?src=hash">#Anaconda</a> 2.5 is out! Now with MKL Optimizations for improved performance: <a href="https://t.co/VSb6dltzc0">https://t.co/VSb6dltzc0</a> <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a> <a href="https://t.co/ozV4Zswvlz">pic.twitter.com/ozV4Zswvlz</a></p>&mdash; Continuum Analytics (@ContinuumIO) <a href="https://twitter.com/ContinuumIO/status/695659218867589122">febrero 5, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)](https://www.continuum.io/why-anaconda)
 
 <div class="container">
