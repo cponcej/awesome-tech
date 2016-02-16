@@ -158,6 +158,15 @@
 - [What is the difference between WHERE and HAVING clauses?](http://www.essentialsql.com/what-is-the-difference-between-where-and-having-clauses)
 - [BI For Beginners – a Business Intelligence Interview with Brian Larson](http://www.essentialsql.com/bi-for-beginners-a-business-intelligence-interview-with-brian-larson)
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Lose your SQL manual?  Do worry, start here!  <a href="https://t.co/NnNDYLukrG">https://t.co/NnNDYLukrG</a></p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/692407774370779136">enero 27, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Troubleshoot SQL by writing it on many lines, use comments to turn on and off pieces as you debug.</p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/694915287083257856">febrero 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Top 20 MySQL best practices  <a href="https://t.co/z28dx6gNHh">https://t.co/z28dx6gNHh</a></p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/692364513392353280">enero 27, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
 
 ## Use The Index, Luke
