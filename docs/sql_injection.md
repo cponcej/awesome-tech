@@ -18,7 +18,7 @@
 - [Sql Injection Authentication bypass cheat sheet](http://tipstrickshack.blogspot.com.es/2013/01/sql-injection-authentication-bypass.html)
 - [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
 
-<blockquote class="twitter-tweet" data-lang="es"><p align="center" lang="en" dir="ltr">Lab set-up for learning SQL Injection Techniques - <a href="https://t.co/wLOAIbXw36">https://t.co/wLOAIbXw36</a></p>&mdash; SQL Injection Wiki (@sqlinjwiki) <a href="https://twitter.com/sqlinjwiki/status/692837682745995265">enero 28, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="es" align="center"><p lang="en" dir="ltr">Lab set-up for learning SQL Injection Techniques - <a href="https://t.co/wLOAIbXw36">https://t.co/wLOAIbXw36</a></p>&mdash; SQL Injection Wiki (@sqlinjwiki) <a href="https://twitter.com/sqlinjwiki/status/692837682745995265">enero 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">An awesome step by step tutorial on SQL Injection<a href="https://t.co/2wF5zHCcgT">https://t.co/2wF5zHCcgT</a></p>&mdash; Alex Balan (@Jaymzu) <a href="https://twitter.com/Jaymzu/status/679649631974866945">diciembre 23, 2015</a></blockquote>
