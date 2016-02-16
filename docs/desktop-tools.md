@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Desktop Tools](#desktop-tools)
+	- [Internet speed. Test de velocidad](#internet-speed-test-de-velocidad)
 	- [Excel](#excel)
 	- [Evernote](#evernote)
 		- [Evernote on Twitter](#evernote-on-twitter)
@@ -27,6 +28,10 @@
 - [cyberciti.biz: 10 Places To Buy A Laptop With Linux Preloaded](http://www.cyberciti.biz/hardware/laptop-computers-with-linux-installed-or-preloaded/)
 - [zdnet: CES 2016: These are the best laptops, tablets, and portable PCs](http://www.zdnet.com/pictures/best-new-laptops-tablets-gadgets-ces-2016-pictures/)
 
+## Internet speed. Test de velocidad
+- [speedtest.net](http://www.speedtest.net)
+- [Test de Velocidad](http://www.internautas.org/testvelocidad/)
+- [¿Tienes realmente la velocidad de Internet que has contratado?](http://www.lavanguardia.com/tecnologia/20160216/302202649248/medir-velocidad-internet-contratada.html)
 
 ## Excel
 - [Learning Excel isn't just for finance professionals, it can boost anyone's productivity at work — here’s how](http://www.businessinsider.com/master-microsoft-excel-basics-beginner-online-course-udemy-deal-2016-2)
