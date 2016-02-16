@@ -50,6 +50,8 @@
 
 ![The art of programming](images/the_art_of_programming.jpg)
 
+[![commitstrip legacy project](images/commitstrip_legacy_project.jpg)](http://www.commitstrip.com/en/2016/02/15/our-companys-greatest-project/)
+
 # Software Development
 - [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)
@@ -370,6 +372,7 @@
 - [Stop Comparing JSON and XML](https://dzone.com/articles/stop-comparing-json-and-xml)
 - [Query JSON using SQL with Couchbase Query Workbench](http://www.javacodegeeks.com/2016/01/query-json-using-sql-couchbase-query-workbench.html)
 - [DZone: The Importance of a Data Format: Part 1 — Current State Problems](https://dzone.com/articles/the-importance-of-a-data-format-part-i-current-sta) JSON is a really simple format. It's very easy to work with it, interchange it, read it, etc. However, JSON also has a few major issues.
+- [Querying JSON in Postgres](http://schinckel.net/2014/05/25/querying-json-in-postgres/) Good read for anyone storing jsonb data in postgresql
 
 ### Mozilla Tools
 - [developer.mozilla.org](https://developer.mozilla.org/)

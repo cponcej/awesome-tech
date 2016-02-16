@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [Sysadmin Blogs](#sysadmin-blogs)
+- [Sysadmin Forums](#sysadmin-forums)
 - [Linux](#linux)
 	- [Linux and FOSS Blogs and Forums](#linux-and-foss-blogs-and-forums)
 		- [Best Linux Blogs](#best-linux-blogs)
@@ -16,7 +17,8 @@
 	- [Linux processes](#linux-processes)
 	- [Linux user accounts](#linux-user-accounts)
 	- [Linux backups](#linux-backups)
-	- [Downgrade or Rollback Updates](#downgrade-or-rollback-updates)
+	- [Package Management](#package-management)
+		- [Downgrade or Rollback Updates](#downgrade-or-rollback-updates)
 	- [man pages on steroids with examples](#man-pages-on-steroids-with-examples)
 	- [Linux bash](#linux-bash)
 	- [Command line text manipulation tools](#command-line-text-manipulation-tools)
@@ -60,6 +62,9 @@
 - [planetsysadmin.com](http://planetsysadmin.com)
 - [elmundoenbits.com](http://www.elmundoenbits.com)
 - [Blog de un sysadmin](http://ernestogamez.es)
+
+# Sysadmin Forums
+- [alt.sysadmin.recovery: Getting over the trauma of system administration](https://groups.google.com/forum/#!forum/alt.sysadmin.recovery) Alt.sysadmin.recovery is for discussion by recovered and recovering sysadmins. It is a forum for mutual support and griping over idiot lusers, stupid tech support, brain dead hardware and generally how stupid this idiotic job is. Think of it as a virtual pub, where we can all go after hours and gripe about our job. Since the concept of "after hours" (or, for that matter, "pubs") is an anathema for your average sysadmin, we have this instead. 
 
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
@@ -189,7 +194,12 @@
 - [Linux Get List of Installed Software for Reinstallation / Restore All the Software Programs](http://www.cyberciti.biz/tips/linux-get-list-installed-software-reinstallation-restore.html)
 	- [How to find out when Debian or Ubuntu package installed or updated](http://www.cyberciti.biz/faq/debian-ubuntu-linux-find-package-installed-updated-date/)
 
-## Downgrade or Rollback Updates
+## Package Management
+- [rpm command cheat sheet for Linux](http://www.cyberciti.biz/howto/question/linux/linux-rpm-cheat-sheet.php)
+- [apt-get command cheat sheet for Debian Linux](http://www.cyberciti.biz/howto/question/linux/apt-get-cheat-sheet.php)
+- [Debian Linux apt-get package management cheat sheet](http://www.cyberciti.biz/tips/linux-debian-package-management-cheat-sheet.html)
+
+### Downgrade or Rollback Updates
 - [CentOS/RHEL Use yum Command To Downgrade or Rollback Updates](http://www.cyberciti.biz/faq/howto-yum-downgrade-packages-on-rhel-centos-fedora-scientific-linux/)
 - [Rollback an apt-get upgrade if something goes wrong on Debian/Ubuntu Linux](http://www.cyberciti.biz/howto/debian-linux/ubuntu-linux-rollback-an-apt-get-upgrade/)
 
