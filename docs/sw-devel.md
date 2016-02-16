@@ -425,6 +425,9 @@ ________________________________________________________________________________
 
 [![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Why 100% of dev-test will be done using <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a>-based platforms, infrastructure &amp; software within 10 years: <a href="https://t.co/G6WSCpt2VA">https://t.co/G6WSCpt2VA</a> <a href="https://twitter.com/forbesbv">@forbesbv</a></p>&mdash; Oracle (@Oracle) <a href="https://twitter.com/Oracle/status/699383199261036545">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/enq08ekUWo1s65" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cuelogic/automation-testing-by-selenium-web-driver" title="Automation Testing by Selenium Web Driver" target="_blank">Automation Testing by Selenium Web Driver</a> </strong> from <strong><a href="//www.slideshare.net/cuelogic" target="_blank">Cuelogic Technologies Pvt. Ltd.</a></strong> </div>
 </div> 

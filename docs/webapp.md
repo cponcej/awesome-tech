@@ -152,6 +152,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">JDK 8 and WebLogic 12.2.1 by Frank Munz <a href="https://t.co/rByhPDsB7v">https://t.co/rByhPDsB7v</a></p>&mdash; WebLogic Community (@wlscommunity) <a href="https://twitter.com/wlscommunity/status/696229275150602240">febrero 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## JVM Latency: Caching, Off Heap, Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
 - [Reminder: JDK 7 will be EOL soon. Oracle won't publish any Public Updates to JDK 7 after April 2015](http://www.oracle.com/technetwork/java/javase/downloads/eol-135779.html)

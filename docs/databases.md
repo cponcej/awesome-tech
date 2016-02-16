@@ -126,6 +126,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MySQL—MariaDB—PostgreSQL Benchamarks<a href="https://t.co/ahTMtGf3JV">https://t.co/ahTMtGf3JV</a><br><br>MySQL/MariaDB are slightly faster at writing<br>PostgreSQL is faster at reading</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/699133157463998464">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MySQL 5.7 – HTTP Plugin for MySQL<br>It is official: MySQL listens to HTTP and speaks JSON.<a href="https://t.co/T6ra14kQw4">https://t.co/T6ra14kQw4</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/692882185099935744">enero 29, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Database Security
 - [SQL Server Security Checklist](https://www.mssqltips.com/sqlservertip/3159/sql-server-security-checklist/)
 
@@ -244,9 +247,6 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/G2T6Xkz9nLsJ2f" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kerneltraining/mysql-cluster-47869001" title="|MySQL DBA Cluster| Introduction to MySQL DBA Cluster|" target="_blank">|MySQL DBA Cluster| Introduction to MySQL DBA Cluster|</a> </strong> from <strong><a href="//www.slideshare.net/kerneltraining" target="_blank">Kernel Training</a></strong> </div>
 </div> 
 <br/>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MySQL 5.7 – HTTP Plugin for MySQL<br>It is official: MySQL listens to HTTP and speaks JSON.<a href="https://t.co/T6ra14kQw4">https://t.co/T6ra14kQw4</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/692882185099935744">enero 29, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### MySQL metrics
 - [Box Anemometer](https://github.com/box/Anemometer)
@@ -445,6 +445,18 @@
 ### Oracle ASMCA
 - [Oracle ASM Configuration Assistant](https://docs.oracle.com/cd/E18786_01/doc/server.112/e16102/asmca.htm)
 - [oracle-base.com: ORACLE-BASE - Oracle ASM Cluster File Systems (ACFS) in Oracle Database 11g Release 2](https://oracle-base.com/articles/11g/acfs-11gr2)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">[<a href="https://twitter.com/hashtag/e?src=hash">#e</a>-Book] Why businesses are moving their <a href="https://twitter.com/hashtag/databases?src=hash">#databases</a> to the <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a>: <a href="https://t.co/I93Xqluu3g">https://t.co/I93Xqluu3g</a> <a href="https://twitter.com/hashtag/DBaaS?src=hash">#DBaaS</a> <a href="https://twitter.com/hashtag/OracleCloud?src=hash">#OracleCloud</a> <a href="https://t.co/ImCB0mDmlQ">pic.twitter.com/ImCB0mDmlQ</a></p>&mdash; Oracle (@Oracle) <a href="https://twitter.com/Oracle/status/698281196946460672">febrero 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Listen in as <a href="https://twitter.com/chrisrsaxon">@chrisrsaxon</a> explains why storing dates as strings can cause unexpected errors. <a href="https://t.co/JQxiKc1t60">https://t.co/JQxiKc1t60</a></p>&mdash; Oracle Database (@OracleDatabase) <a href="https://twitter.com/OracleDatabase/status/699662091108507648">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Have you checked out this <a href="https://twitter.com/hashtag/DB12c?src=hash">#DB12c</a> <a href="https://twitter.com/hashtag/multitenant?src=hash">#multitenant</a> [<a href="https://twitter.com/hashtag/video?src=hash">#video</a>] series? <a href="https://t.co/8XsSgM85hE">https://t.co/8XsSgM85hE</a> <a href="https://t.co/HIauTRAq4J">pic.twitter.com/HIauTRAq4J</a></p>&mdash; Oracle Database (@OracleDatabase) <a href="https://twitter.com/OracleDatabase/status/697511639084453888">febrero 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn &amp; share <a href="https://twitter.com/hashtag/SQL?src=hash">#SQL</a> on <a href="https://twitter.com/hashtag/DB12c?src=hash">#DB12c</a>. Straight from your browser. For Free. <a href="https://t.co/4sB9Q3CltL">https://t.co/4sB9Q3CltL</a> <a href="https://t.co/LNplLTjo8a">pic.twitter.com/LNplLTjo8a</a></p>&mdash; Oracle Database (@OracleDatabase) <a href="https://twitter.com/OracleDatabase/status/696801941821599744">febrero 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # NoSQL and NewSQL 
 - [NoSQL and NewSQL](nosql.md)
