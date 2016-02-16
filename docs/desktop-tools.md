@@ -45,6 +45,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWMokH-68WU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Have you used the Gantt <a href="https://twitter.com/hashtag/chart?src=hash">#chart</a> in Excel before? Use it to take your data to the next level. <a href="https://t.co/FxdDp4rVOR">pic.twitter.com/FxdDp4rVOR</a></p>&mdash; Microsoft Excel (@msexcel) <a href="https://twitter.com/msexcel/status/699594080590893056">febrero 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
