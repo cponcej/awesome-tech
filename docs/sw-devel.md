@@ -135,6 +135,7 @@
 - [DZone: Model-View-Controller (MVC): The Basics](https://dzone.com/articles/model-view-controller-mvc-deep-dive)
 - [developers.redhat.com: Modern Java EE design patterns](http://developers.redhat.com/promotions/distributed-javaee-architecture/) Building Scalable Architecture for Sustainable Enterprise Development
 - [javacodegeeks.com: Java Design Patterns Tutorial](http://www.javacodegeeks.com/2015/09/java-design-patterns.html)
+- [Python Design Patterns: For Sleek And Fashionable Code](http://www.toptal.com/python/python-design-patterns)
 
 [![desirable developer skills](images/desirable_developer_skills.png)](http://www.commandlinefu.com/)
 
