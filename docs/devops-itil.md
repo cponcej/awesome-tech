@@ -173,6 +173,7 @@
 - [Aléjate del concepto “Proyecto” si quieres usar bien Scrum: confundir “versión a entregar” al cliente con final de sprint](http://www.javiergarzas.com/2015/11/alejate-del-concepto-proyecto-si-quieres-usar-bien-scrum-12-confundir-version-a-entregar-al-cliente-con-final-de-sprint.html)
 - [El Product Owner del lado oscuro y otros anti-patrones](http://www.javiergarzas.com/2016/01/el-product-owner-del-lado-oscuro-y-otros-anti-patrones.html)
 - [Un video imprescindible sobre la buena gestión de equipos software 🌟🌟🌟](http://www.javiergarzas.com/2014/09/un-video-sobre-la-buena-gestion-de-equipos-software.html)
+- [¿Es bueno tener equipos estables? (vamos, que no rote constantemente la gente)](http://www.javiergarzas.com/2015/09/es-bueno-tener-equipos-estables-vamos-que-no-rote-constantemente-la-gente.html)
 - [Agilidad y DevOps… ¿Son lo mismo? y ¿Qué es DevOps?](http://www.javiergarzas.com/2015/12/agilidad-y-devops-son-lo-mismo-y-que-es-devops.html)
 - [¿Las disputas y discusiones son una constante en tu equipo – entorno de trabajo? No te preocupes, no estás solo 🌟](http://www.javiergarzas.com/2015/04/las-disputas-y-discusiones-son-una-constante-en-tu-equipo-entorno-de-trabajo-no-te-preocupes-no-estas-solo.html)
 - [Escalar agilidad: Liderazgo tribal (1/3). ¿Qué cultura tiene la tribu en la que trabajas?](http://www.javiergarzas.com/2015/12/escalar-agilidad-liderazgo-tribal-1.html)
@@ -185,6 +186,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oShXAC26rcs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o90o6Oassec?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 

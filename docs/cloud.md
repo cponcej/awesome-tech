@@ -76,8 +76,11 @@
 - [aunclicdelastic.com: Etapas por las que pasa una empresa para "subirse a la nube"](http://www.aunclicdelastic.com/cloud-de-no-verle-utilidad-a-llevarlo-en-el-adn/)
 - [goparallel.sourceforge.net: Best Practices: First, Know Why You’re Moving to the Cloud](http://goparallel.sourceforge.net/best-practices-first-know-why-youre-moving-to-the-cloud/)
 - [The Economy of Cloud Computing 2016 (Infographic)](http://whatsthebigdata.com/2016/01/13/the-economy-of-cloud-computing-infographic/)
+- [zdnet: Cloud computing goes hybrid as the norm: AWS, VMware, Azure duke it out](http://www.zdnet.com/article/cloud-computing-goes-hybrid-as-the-norm-aws-vmware-azure-duke-it-out/)
 
 [![cloud market share](images/cloud-market-share-3rd-qtr-2015.png)](http://blogs.csc.com/2016/01/04/2015s-top-five-cloud-developments-and-what-they-mean-today/)
+
+[![Cloud computing goes hybrid as the norm](images/VMs_running_in_cloud.png)](http://www.zdnet.com/article/cloud-computing-goes-hybrid-as-the-norm-aws-vmware-azure-duke-it-out/)
 
 ## Cloud Pricing
 - [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)

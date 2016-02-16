@@ -46,6 +46,7 @@
 - [How To Tell If Your Boss Is a Bully or Just Tough](https://www.hrbartender.com/2012/leadership-and-management/how-to-tell-if-your-boss-is-a-bully-or-just-tough/)
 - [Examples of Bullying in the Workplace](https://www.linkedin.com/pulse/20140723143757-143588541-examples-of-bullying-in-the-workplace)
 - [Forbes: Addicted To Ambition: 3 Ways Millennials Can Manage Their Stress](Addicted To Ambition: 3 Ways Millennials Can Manage Their Stress)
+- [Forbes: How To Successfully Manage A Multigenerational Team 🌟](http://www.forbes.com/sites/adp/2016/02/12/how-to-successfully-manage-a-multigenerational-team)
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
@@ -114,6 +115,7 @@
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
 - [7 Questions Only the Smartest Job Candidates Ask](http://www.inc.com/jeff-haden/7-insightful-questions-only-the-best-job-candidates-think-to-ask.html)
+- [7 Essential Questions To Ask In Your Job Interview 🌟](http://www.careerealism.com/job-interview-essential-questions-ask/)
 - [7 Lies Employers Use To Trick You Into Working For Them](https://www.linkedin.com/pulse/7-lies-employers-use-trick-you-working-them-j-t-o-donnell)
 - [10 Questions Never to Ask in an Interview](http://www.mjms.net/blog/10-questions-never-to-ask-in-an-interview/)
 - [Sorry, Recruiters! My Salary History Is None of Your Business](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
@@ -165,9 +167,16 @@
 - [Acoso laboral 🌟](https://es.wikipedia.org/wiki/Acoso_laboral)
 - [El jefe tóxico, cuando el responsable del mal ambiente en la empresa es el que manda](http://www.pymesyautonomos.com/management/el-jefe-toxico-cuando-el-responsable-del-mal-ambiente-en-la-empresa-es-el-que-manda)
 - [neupic.com: El paro. El «enemigo» en casa 🌟](https://neupic.com/articles/el-paro-el-enemigo-en-casa) 
+- [6 estilos de liderazgo empresarial](http://blog.fuerzacomercial.es/6-estilos-de-liderazgo-empresarial/)
+- [¿Es bueno tener equipos estables? (vamos, que no rote constantemente la gente)](http://www.javiergarzas.com/2015/09/es-bueno-tener-equipos-estables-vamos-que-no-rote-constantemente-la-gente.html)
 
 ## Orientación laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
 	- [Webinar | Cómo enamorar a tu seleccionador](https://orientacion-laboral.infojobs.net/webinar-como-enamorar-al-seleccionador)
 - [¿Os habéis arrepentido en alguna ocasión de no preguntar determinadas cosas en la entrevista de trabajo?](http://www.elblogderrhh.com/2011/02/%C2%BFos-habeis-arrepentido-en-alguna-ocasion-de-no-preguntar-determinadas-cosas-en-la-entrevista-de-trabajo.html)
 - [Los sueldos informáticos en Europa](http://www.think-progress.com/es/blog/posts/los-sueldos-informaticos-en-europa/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
