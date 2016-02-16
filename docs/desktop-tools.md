@@ -94,6 +94,7 @@
 - [twitter.com/mozthunderbird](https://twitter.com/mozthunderbird)
 - [twitter.com/mozcalendar](https://twitter.com/mozcalendar)
 - [support.mozilla.org](https://support.mozilla.org)
+	- [Support Mozilla on twitter](https://twitter.com/SUMO_Mozilla)
 - [Filelink for Large Attachments](https://support.mozilla.org/en-US/kb/filelink-large-attachments)
 - [Thunderbird Daily on Youtube: Some great productivity tips for Thunderbird](https://www.youtube.com/channel/UCCiqw9IULdRxig5e-fcPo6A)
 - [Saving bandwidth on Google Chrome and Mozilla Thunderbird](http://jjamwal.in/yayavar/saving-bandwidth-on-google-chrome-and-mozilla-thunderbird/)
