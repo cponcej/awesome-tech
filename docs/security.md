@@ -104,6 +104,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El lado del mal - ¿Por qué sale el candado rojo en los mensajes de Gmail? <a href="https://t.co/Qd1sxGy87E">https://t.co/Qd1sxGy87E</a> <a href="https://twitter.com/hashtag/Gmail?src=hash">#Gmail</a> }:) <a href="https://t.co/EwQZUYPOuB">pic.twitter.com/EwQZUYPOuB</a></p>&mdash; Chema Alonso (@chemaalonso) <a href="https://twitter.com/chemaalonso/status/697649215632248833">febrero 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New SonicAlert: Microsoft Windows&amp;trade; OS HTTP User-Agents (1/29/2016) by <a href="https://twitter.com/DellSecurity">@DellSecurity</a> Threats Research: <a href="https://t.co/hkm4abXYd4">https://t.co/hkm4abXYd4</a></p>&mdash; Dell Security (@DellSecurity) <a href="https://twitter.com/DellSecurity/status/694192990206697472">febrero 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 

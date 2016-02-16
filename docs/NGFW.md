@@ -66,6 +66,9 @@
 - [youtube channel: Andrew Crouthamel Dell SonicWALL Training](https://www.youtube.com/playlist?list=PLC909885E4476986B)
 	- [youtube.com: Andrew Crouthamel Dell SonicWALL Failover and Load Balancing](https://www.youtube.com/watch?v=3wn9Q_v6MVU)
 
+## Dell SonicWALL WAN Acceleration Appliance (WAN optimization)
+- [community.dell.com: Accelerate Application Performance for a Better User Experience](http://en.community.dell.com/techcenter/security/network-mobile-email/b/weblog/archive/2016/01/11/accelerate-application-performance-for-a-better-user-experience)
+
 [![Dell SonicWall TZ500 Management Monitor](images/Dell-SonicWall-TZ500-Management-Monitor.png)](http://www.storagereview.com/dell_sonicwall_tz500_firewall_review)
 
 <div class="container">
@@ -78,8 +81,20 @@
 </div>
 <br/>
 
-## Dell SonicWALL WAN Acceleration Appliance (WAN optimization)
-- [community.dell.com: Accelerate Application Performance for a Better User Experience](http://en.community.dell.com/techcenter/security/network-mobile-email/b/weblog/archive/2016/01/11/accelerate-application-performance-for-a-better-user-experience)
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When connection counts are high but you need <a href="https://twitter.com/hashtag/DPI?src=hash">#DPI</a>, enter the <a href="https://twitter.com/DellSecurity">@DellSecurity</a> <a href="https://twitter.com/SonicWall">@SonicWALL</a> <a href="https://twitter.com/hashtag/SuperMassive10400?src=hash">#SuperMassive10400</a> <a href="https://t.co/LZ8grGq95j">pic.twitter.com/LZ8grGq95j</a></p>&mdash; Jeremiah Johnson (@jjohnson757) <a href="https://twitter.com/jjohnson757/status/690297532119916544">enero 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/Dell">@Dell</a> SonicWALL wireless network security combines high speed 802.11ac &amp; next-gen firewalls:<a href="https://t.co/JATrWCNhRY">https://t.co/JATrWCNhRY</a> <a href="https://t.co/IX3nF5aED3">pic.twitter.com/IX3nF5aED3</a></p>&mdash; Dell Security (@DellSecurity) <a href="https://twitter.com/DellSecurity/status/682312836685651969">diciembre 30, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New SonicAlert: Trojan distributed as 8 Ball Pool game hack (Dec 18, 2015) by <a href="https://twitter.com/DellSecurity">@DellSecurity</a> Threats Research: <a href="https://t.co/MTnEiQmUnf">https://t.co/MTnEiQmUnf</a></p>&mdash; Dell Security (@DellSecurity) <a href="https://twitter.com/DellSecurity/status/677928570010927104">diciembre 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Achieve deeper <a href="https://twitter.com/hashtag/network?src=hash">#network</a> security w/ <a href="https://twitter.com/Dell">@Dell</a> SonicWALL <a href="https://twitter.com/hashtag/NGFWs?src=hash">#NGFWs</a> w/out compromising performance: <a href="https://t.co/KYh6h6KKoY">https://t.co/KYh6h6KKoY</a> <a href="https://t.co/BffTehgOmF">pic.twitter.com/BffTehgOmF</a></p>&mdash; Dell Security (@DellSecurity) <a href="https://twitter.com/DellSecurity/status/674667047192813570">diciembre 9, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Sathya T. discusses <a href="https://twitter.com/hashtag/network?src=hash">#network</a> security designs for your retail business: <a href="https://t.co/UuhjqWnaGm">https://t.co/UuhjqWnaGm</a> <a href="https://twitter.com/Dell">@Dell</a> <a href="https://twitter.com/hashtag/SonicWALL?src=hash">#SonicWALL</a> <a href="https://t.co/Npcawjy8Ap">pic.twitter.com/Npcawjy8Ap</a></p>&mdash; Dell Security (@DellSecurity) <a href="https://twitter.com/DellSecurity/status/674688974200422401">diciembre 9, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Fortinet
 - [Fortiguard](http://www.fortiguard.com/)
