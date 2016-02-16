@@ -122,9 +122,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Provider for Google Calendar 2.7 fixes a massive performance issue with the “Birthdays&quot; calendar. Try it out! <a href="https://t.co/MW9XMdSYyw">https://t.co/MW9XMdSYyw</a></p>&mdash; Mozilla Calendar (@mozcalendar) <a href="https://twitter.com/mozcalendar/status/686201247905505280">enero 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Provider for Google Calendar 2.7 fixes a massive performance issue with the “Birthdays&quot; calendar. Try it out! <a href="https://t.co/MW9XMdSYyw">https://t.co/MW9XMdSYyw</a></p>&mdash; Mozilla Calendar (@mozcalendar) <a href="https://twitter.com/mozcalendar/status/686201247905505280">enero 10, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Creating an email template in <a href="https://twitter.com/hashtag/Thunderbird?src=hash">#Thunderbird</a> without extension<a href="https://t.co/e7baEc8ULI">https://t.co/e7baEc8ULI</a></p>&mdash; Michal Zuber (@michalzuber) <a href="https://twitter.com/michalzuber/status/686450113510772736">enero 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
