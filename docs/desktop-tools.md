@@ -92,17 +92,39 @@
 
 ## Thunderbird
 - [twitter.com/mozthunderbird](https://twitter.com/mozthunderbird)
+- [twitter.com/mozcalendar](https://twitter.com/mozcalendar)
 - [support.mozilla.org](https://support.mozilla.org)
 - [Filelink for Large Attachments](https://support.mozilla.org/en-US/kb/filelink-large-attachments)
 - [Thunderbird Daily on Youtube: Some great productivity tips for Thunderbird](https://www.youtube.com/channel/UCCiqw9IULdRxig5e-fcPo6A)
+- [Saving bandwidth on Google Chrome and Mozilla Thunderbird](http://jjamwal.in/yayavar/saving-bandwidth-on-google-chrome-and-mozilla-thunderbird/)
+- [Configurar correo de Office 365 en Mozilla Thunderbird](http://blog.jgaitpro.com/configurar-correo-de-office-365-en-mozilla-thunderbird/)
 
 ### Thunderbird Extensions
 - [Provider for Google Calendar](https://addons.mozilla.org/thunderbird/addon/provider-for-google-calendar)
 - [gContactSync](https://addons.mozilla.org/thunderbird/addon/gcontactsync/)
 - [Google Tasks Sync](https://addons.mozilla.org/thunderbird/addon/google-tasks-sync/?src=search)
+- [ThunderSec](https://addons.mozilla.org/en-US/thunderbird/addon/thundersec/)
 - [EnigMail OpenPGP Email Security](https://www.enigmail.net)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Thunderbird continues to grow, exceeding 10,000,000 active daily users for the first time ever on November 30 2015.</p>&mdash; Thunderbird (@mozthunderbird) <a href="https://twitter.com/mozthunderbird/status/673715529350123521">diciembre 7, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Expanding use, news on the next major release, and a temporary home for Thunderbird. Check out our latest blog: <a href="https://t.co/KjxUaQIT0I">https://t.co/KjxUaQIT0I</a></p>&mdash; Thunderbird (@mozthunderbird) <a href="https://twitter.com/mozthunderbird/status/674461434340741121">diciembre 9, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Thunderbird?src=hash">#Thunderbird</a> seems to be the most famous <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/email?src=hash">#email</a> client. <a href="https://t.co/XZ8MLGYyUN">pic.twitter.com/XZ8MLGYyUN</a></p>&mdash; Ivan Bilimov (@ibilimov) <a href="https://twitter.com/ibilimov/status/696564628122423296">febrero 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ThunderSec for <a href="https://twitter.com/mozthunderbird">@mozthunderbird</a> is 1 year old. Steady, consistent growth to almost 400 daily users and it continues. <a href="https://t.co/GLt966KCYR">pic.twitter.com/GLt966KCYR</a></p>&mdash; Ilker Temir (@IlkerTemir) <a href="https://twitter.com/IlkerTemir/status/698780368694935552">febrero 14, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Provider for Google Calendar 2.7 fixes a massive performance issue with the “Birthdays&quot; calendar. Try it out! <a href="https://t.co/MW9XMdSYyw">https://t.co/MW9XMdSYyw</a></p>&mdash; Mozilla Calendar (@mozcalendar) <a href="https://twitter.com/mozcalendar/status/686201247905505280">enero 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Provider for Google Calendar 2.7 fixes a massive performance issue with the “Birthdays&quot; calendar. Try it out! <a href="https://t.co/MW9XMdSYyw">https://t.co/MW9XMdSYyw</a></p>&mdash; Mozilla Calendar (@mozcalendar) <a href="https://twitter.com/mozcalendar/status/686201247905505280">enero 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Creating an email template in <a href="https://twitter.com/hashtag/Thunderbird?src=hash">#Thunderbird</a> without extension<a href="https://t.co/e7baEc8ULI">https://t.co/e7baEc8ULI</a></p>&mdash; Michal Zuber (@michalzuber) <a href="https://twitter.com/michalzuber/status/686450113510772736">enero 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Firefox
