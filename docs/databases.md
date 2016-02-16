@@ -123,7 +123,7 @@
 	- [sqlperformance.com: Tuning : A Good Place to Start](http://sqlperformance.com/2016/01/io-subsystem/tuning-a-good-place-to-start) Tim Radney of SQLskills gives an overview of his approach to SQL Server performance tuning, from system configuration, to I/O latency, to high cost queries.
 - [Faster SQL Paging with jOOQ Using the Seek Method](http://blog.jooq.org/2013/10/26/faster-sql-paging-with-jooq-using-the-seek-method/)
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">MySQL—MariaDB—PostgreSQL Benchamarks<a href="https://t.co/ahTMtGf3JV">https://t.co/ahTMtGf3JV</a><br><br>MySQL/MariaDB are slightly faster at writing<br>PostgreSQL is faster at reading</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/699133157463998464">febrero 15, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MySQL—MariaDB—PostgreSQL Benchamarks<a href="https://t.co/ahTMtGf3JV">https://t.co/ahTMtGf3JV</a><br><br>MySQL/MariaDB are slightly faster at writing<br>PostgreSQL is faster at reading</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/699133157463998464">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Database Security
@@ -161,13 +161,13 @@
 - [What is the difference between WHERE and HAVING clauses?](http://www.essentialsql.com/what-is-the-difference-between-where-and-having-clauses)
 - [BI For Beginners – a Business Intelligence Interview with Brian Larson](http://www.essentialsql.com/bi-for-beginners-a-business-intelligence-interview-with-brian-larson)
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Lose your SQL manual?  Do worry, start here!  <a href="https://t.co/NnNDYLukrG">https://t.co/NnNDYLukrG</a></p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/692407774370779136">enero 27, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Lose your SQL manual?  Do worry, start here!  <a href="https://t.co/NnNDYLukrG">https://t.co/NnNDYLukrG</a></p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/692407774370779136">enero 27, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Troubleshoot SQL by writing it on many lines, use comments to turn on and off pieces as you debug.</p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/694915287083257856">febrero 3, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Troubleshoot SQL by writing it on many lines, use comments to turn on and off pieces as you debug.</p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/694915287083257856">febrero 3, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Top 20 MySQL best practices  <a href="https://t.co/z28dx6gNHh">https://t.co/z28dx6gNHh</a></p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/692364513392353280">enero 27, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 20 MySQL best practices  <a href="https://t.co/z28dx6gNHh">https://t.co/z28dx6gNHh</a></p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/692364513392353280">enero 27, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
@@ -245,7 +245,7 @@
 </div> 
 <br/>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">MySQL 5.7 – HTTP Plugin for MySQL<br>It is official: MySQL listens to HTTP and speaks JSON.<a href="https://t.co/T6ra14kQw4">https://t.co/T6ra14kQw4</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/692882185099935744">enero 29, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MySQL 5.7 – HTTP Plugin for MySQL<br>It is official: MySQL listens to HTTP and speaks JSON.<a href="https://t.co/T6ra14kQw4">https://t.co/T6ra14kQw4</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/692882185099935744">enero 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### MySQL metrics
@@ -348,7 +348,7 @@
 - [Introduction to PostgreSQL physical storage](http://rachbelaid.com/introduction-to-postgres-physical-storage/)
 - [Differences between PostgreSQL & MySQL Server](http://www.articlesbase.com/databases-articles/differences-between-postgresql-mysql-server-7377764.html)
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Good read for anyone storing jsonb data in postgresql <a href="https://t.co/uPu1R3MuH3">https://t.co/uPu1R3MuH3</a></p>&mdash; MΛHDI (@myusuf3) <a href="https://twitter.com/myusuf3/status/699354734042296324">febrero 15, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Good read for anyone storing jsonb data in postgresql <a href="https://t.co/uPu1R3MuH3">https://t.co/uPu1R3MuH3</a></p>&mdash; MΛHDI (@myusuf3) <a href="https://twitter.com/myusuf3/status/699354734042296324">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### PostgreSQL Metrics
@@ -387,7 +387,7 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Postgres Query Plan Visualization • <a href="https://twitter.com/AlexTatiyants">@AlexTatiyants</a><a href="https://t.co/Iuowk0u3rh">https://t.co/Iuowk0u3rh</a><br><br>Looks very promising! <a href="https://t.co/OeEhqQjS47">pic.twitter.com/OeEhqQjS47</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/691217946224541696">enero 24, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Postgres Query Plan Visualization • <a href="https://twitter.com/AlexTatiyants">@AlexTatiyants</a><a href="https://t.co/Iuowk0u3rh">https://t.co/Iuowk0u3rh</a><br><br>Looks very promising! <a href="https://t.co/OeEhqQjS47">pic.twitter.com/OeEhqQjS47</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/691217946224541696">enero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## SQLite

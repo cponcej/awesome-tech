@@ -142,7 +142,7 @@
 </div>
 <br>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">awk &#39;{print $4}&#39; apache_log|sort -n|cut -c1-15|uniq -c|awk &#39;{b=&quot;&quot;;for(i=0;i&lt;$1/10;i++){b=b&quot;#&quot;}; print $0 &quot; &quot; b;}&#39; # Request by hour graph.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696591310266847232">febrero 8, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;{print $4}&#39; apache_log|sort -n|cut -c1-15|uniq -c|awk &#39;{b=&quot;&quot;;for(i=0;i&lt;$1/10;i++){b=b&quot;#&quot;}; print $0 &quot; &quot; b;}&#39; # Request by hour graph.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696591310266847232">febrero 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux 2016
@@ -173,10 +173,10 @@
 ### Linux LVM Logical Volume Management and FileSystems 
 - [Linux LVM Logical Volume Management and FileSystems](servers-storage-backup.md#linux-lvm-logical-volume-management-and-filesystems)
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">du -h . | grep &quot;^[0-9\.]\+G&quot; # # Find out which of your directories(below the current directory) occupy at least 1GB of space.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696200949786767360">febrero 7, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">du -h . | grep &quot;^[0-9\.]\+G&quot; # # Find out which of your directories(below the current directory) occupy at least 1GB of space.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696200949786767360">febrero 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">ls -la --full-time |tr -s &quot; &quot; |cut -f6 -d &quot; &quot;|cut -c1-7 | sort | uniq -c # Make month histogram of dates of files in current directory.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/695843060119400448">febrero 6, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ls -la --full-time |tr -s &quot; &quot; |cut -f6 -d &quot; &quot;|cut -c1-7 | sort | uniq -c # Make month histogram of dates of files in current directory.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/695843060119400448">febrero 6, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux processes
@@ -314,10 +314,10 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/b6s2R1_Wkej5SrmH7rhroA/139101622517" data-did="f5ed5731bd6cb168199437ff3815965a4179516a"><a href="http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd">http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">How CPU load averages work (and using them to triage webserver performance!) <a href="https://t.co/aK35G54ZU6">https://t.co/aK35G54ZU6</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/696798241984159745">febrero 8, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How CPU load averages work (and using them to triage webserver performance!) <a href="https://t.co/aK35G54ZU6">https://t.co/aK35G54ZU6</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/696798241984159745">febrero 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Use &quot;iotop&quot; command for measuring hard disk I/O (current read/write) usage per application on Linux. For more info <a href="https://t.co/2TZ2rYHdpq">https://t.co/2TZ2rYHdpq</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/696293052793491457">febrero 7, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Use &quot;iotop&quot; command for measuring hard disk I/O (current read/write) usage per application on Linux. For more info <a href="https://t.co/2TZ2rYHdpq">https://t.co/2TZ2rYHdpq</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/696293052793491457">febrero 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Glances

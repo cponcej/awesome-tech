@@ -98,10 +98,10 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> Webserver <a href="https://twitter.com/hashtag/Security?src=hash">#Security</a> is out! <a href="https://t.co/UcwrNmJIEm">https://t.co/UcwrNmJIEm</a> Stories via <a href="https://twitter.com/Dinosn">@Dinosn</a> <a href="https://twitter.com/sidekickhelps">@sidekickhelps</a> <a href="https://twitter.com/Akwelz">@Akwelz</a></p>&mdash; Linux Security News (@LinuxSec) <a href="https://twitter.com/LinuxSec/status/699037256724692993">febrero 15, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> Webserver <a href="https://twitter.com/hashtag/Security?src=hash">#Security</a> is out! <a href="https://t.co/UcwrNmJIEm">https://t.co/UcwrNmJIEm</a> Stories via <a href="https://twitter.com/Dinosn">@Dinosn</a> <a href="https://twitter.com/sidekickhelps">@sidekickhelps</a> <a href="https://twitter.com/Akwelz">@Akwelz</a></p>&mdash; Linux Security News (@LinuxSec) <a href="https://twitter.com/LinuxSec/status/699037256724692993">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">El lado del mal - ¿Por qué sale el candado rojo en los mensajes de Gmail? <a href="https://t.co/Qd1sxGy87E">https://t.co/Qd1sxGy87E</a> <a href="https://twitter.com/hashtag/Gmail?src=hash">#Gmail</a> }:) <a href="https://t.co/EwQZUYPOuB">pic.twitter.com/EwQZUYPOuB</a></p>&mdash; Chema Alonso (@chemaalonso) <a href="https://twitter.com/chemaalonso/status/697649215632248833">febrero 11, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El lado del mal - ¿Por qué sale el candado rojo en los mensajes de Gmail? <a href="https://t.co/Qd1sxGy87E">https://t.co/Qd1sxGy87E</a> <a href="https://twitter.com/hashtag/Gmail?src=hash">#Gmail</a> }:) <a href="https://t.co/EwQZUYPOuB">pic.twitter.com/EwQZUYPOuB</a></p>&mdash; Chema Alonso (@chemaalonso) <a href="https://twitter.com/chemaalonso/status/697649215632248833">febrero 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Security Podcasts

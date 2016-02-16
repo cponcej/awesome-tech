@@ -168,7 +168,7 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Curious how <a href="https://twitter.com/netflix">@Netflix</a> can deliver billions of hours of content? Hear its <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> story: <a href="https://t.co/iOzM5cYC0v">https://t.co/iOzM5cYC0v</a> <a href="https://t.co/gWXLWGVPxo">pic.twitter.com/gWXLWGVPxo</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698586221472120833">febrero 13, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Curious how <a href="https://twitter.com/netflix">@Netflix</a> can deliver billions of hours of content? Hear its <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> story: <a href="https://t.co/iOzM5cYC0v">https://t.co/iOzM5cYC0v</a> <a href="https://t.co/gWXLWGVPxo">pic.twitter.com/gWXLWGVPxo</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698586221472120833">febrero 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### AWS EC2 Container Registry (Docker)
@@ -214,16 +214,16 @@
 - [blogs.aws.amazon.com/bigdata](http://blogs.aws.amazon.com/bigdata/)
 - [Querying Amazon Kinesis Streams Directly with SQL and Spark Streaming](http://blogs.aws.amazon.com/bigdata/post/Tx3916WCIUPVA3T/Querying-Amazon-Kinesis-Streams-Directly-with-SQL-and-Spark-Streaming)
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">AWS <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> Blog month in review: <a href="https://t.co/dsC9KNe95a">https://t.co/dsC9KNe95a</a> <a href="https://t.co/QrJV88ruLs">pic.twitter.com/QrJV88ruLs</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/694702660344107008">febrero 3, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> Blog month in review: <a href="https://t.co/dsC9KNe95a">https://t.co/dsC9KNe95a</a> <a href="https://t.co/QrJV88ruLs">pic.twitter.com/QrJV88ruLs</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/694702660344107008">febrero 3, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">New on the AWS <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> blog: &quot;Big Data Analytics Options on AWS: Updated White Paper&quot; <a href="https://t.co/p7AUlClnEy">https://t.co/p7AUlClnEy</a> <a href="https://t.co/Lp7lg2ofOx">pic.twitter.com/Lp7lg2ofOx</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698238715718668288">febrero 12, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New on the AWS <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> blog: &quot;Big Data Analytics Options on AWS: Updated White Paper&quot; <a href="https://t.co/p7AUlClnEy">https://t.co/p7AUlClnEy</a> <a href="https://t.co/Lp7lg2ofOx">pic.twitter.com/Lp7lg2ofOx</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698238715718668288">febrero 12, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### AWS IoT
 - [What Is AWS IoT?](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">AWS <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> now supports MQTT over the WebSocket protocol. Learn more: <a href="https://t.co/b9u9BtbAgn">https://t.co/b9u9BtbAgn</a> <a href="https://t.co/srNA7UgsQX">pic.twitter.com/srNA7UgsQX</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698581730744111104">febrero 13, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> now supports MQTT over the WebSocket protocol. Learn more: <a href="https://t.co/b9u9BtbAgn">https://t.co/b9u9BtbAgn</a> <a href="https://t.co/srNA7UgsQX">pic.twitter.com/srNA7UgsQX</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698581730744111104">febrero 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## AWS Partner Network (APN)
