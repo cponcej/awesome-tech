@@ -101,5 +101,7 @@
 - [twitter.com/Fortinet](https://twitter.com/Fortinet)
 - [This was not a “backdoor” vulnerability issue but rather a management authentication issue](http://blog.fortinet.com/post/brief-statement-regarding-issues-found-with-fortios)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Good piece from the Fortinet Blog on email hacking campaigns and the low costs and massive returns available &gt;&gt; <a href="https://t.co/t5o8sKGlh9">https://t.co/t5o8sKGlh9</a></p>&mdash; Sean Huggett (@seanhuggett) <a href="https://twitter.com/seanhuggett/status/694124366850887680">febrero 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/137299316242" data-did="01ae80a50a24446e87cce8bedfb90340b1b3e3b7"><a href="http://securityreactions.tumblr.com/post/137299316242/fortinet-official-response-to-the-backdoor">http://securityreactions.tumblr.com/post/137299316242/fortinet-official-response-to-the-backdoor</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
