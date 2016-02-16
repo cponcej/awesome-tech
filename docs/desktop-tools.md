@@ -45,6 +45,21 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Have you used the Gantt <a href="https://twitter.com/hashtag/chart?src=hash">#chart</a> in Excel before? Use it to take your data to the next level. <a href="https://t.co/FxdDp4rVOR">pic.twitter.com/FxdDp4rVOR</a></p>&mdash; Microsoft Excel (@msexcel) <a href="https://twitter.com/msexcel/status/699594080590893056">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Click Alt+H+A+L to align your text to the left and get your party on. <a href="https://twitter.com/hashtag/ExcelTips?src=hash">#ExcelTips</a> <a href="https://t.co/AzMVYg0jpb">pic.twitter.com/AzMVYg0jpb</a></p>&mdash; Microsoft Excel (@msexcel) <a href="https://twitter.com/msexcel/status/697057365477216259">febrero 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Let <a href="https://twitter.com/hashtag/Excel?src=hash">#Excel</a> reformat your data without using a formula! Learn more tips at the <a href="https://twitter.com/hashtag/MSDataSummit?src=hash">#MSDataSummit</a>: <a href="https://t.co/TYOLOzYQcV">https://t.co/TYOLOzYQcV</a> <a href="https://t.co/52fSpLys9M">pic.twitter.com/52fSpLys9M</a></p>&mdash; Microsoft Excel (@msexcel) <a href="https://twitter.com/msexcel/status/694627602670227457">febrero 2, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Did you know you can pin <a href="https://twitter.com/hashtag/Excel?src=hash">#Excel</a> ranges, tables &amp; charts to a <a href="https://twitter.com/hashtag/PowerBI?src=hash">#PowerBI</a> dashboard? Learn more: <a href="https://t.co/SmGEc5iag9">https://t.co/SmGEc5iag9</a> <a href="https://t.co/PhGj7CWRYP">pic.twitter.com/PhGj7CWRYP</a></p>&mdash; Microsoft Excel (@msexcel) <a href="https://twitter.com/msexcel/status/695290729619439616">febrero 4, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Think inside the borders. Press Ctrl+Shift+7 to put borders around cells. <a href="https://t.co/lZUIzNvsDR">https://t.co/lZUIzNvsDR</a> <a href="https://twitter.com/hashtag/ExcelTips?src=hash">#ExcelTips</a> <a href="https://t.co/TQF1sYK8lA">pic.twitter.com/TQF1sYK8lA</a></p>&mdash; Microsoft Excel (@msexcel) <a href="https://twitter.com/msexcel/status/692754008335867904">enero 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Evernote
 - [Calendars are simple yet powerful motivational tools. Save these templates to Evernote](https://blog.evernote.com/blog/2015/12/26/resolve-to-stay-on-track-in-the-new-year/)
 
