@@ -101,6 +101,12 @@
 - [presentationgo.com](http://www.presentationgo.com/) The free PowerPoint library
 - [10 ridiculous but brilliant ways to look smart in a meeting](http://uk.businessinsider.com/ridiculous-but-brilliant-ways-to-look-smart-in-a-meeting-2015-3)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Worried that Windows 10 is &#39;spying&#39; on you? Here&#39;s how to take back control <a href="https://t.co/kidxBDbBcf">https://t.co/kidxBDbBcf</a> <a href="https://twitter.com/the_pc_doc">@the_pc_doc</a> <a href="https://t.co/k8DVSPSGrj">pic.twitter.com/k8DVSPSGrj</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/699589095249592320">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Influx WiFi Maximizing Router dock: Significant signal strength increase for $60 <a href="https://t.co/FaH3sscE1Q">https://t.co/FaH3sscE1Q</a> <a href="https://twitter.com/palmsolo">@palmsolo</a> <a href="https://t.co/uifljSBZNI">pic.twitter.com/uifljSBZNI</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/699581012125286400">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![hp mini pc](images/hp_mini.jpg)](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
 
 [![This is my desk at Red Hat! Source](images/redhat_desk.jpg)](https://www.reddit.com/r/redhat/comments/45na8c/this_is_my_desk_at_red_hat/)
