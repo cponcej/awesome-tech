@@ -123,6 +123,9 @@
 	- [sqlperformance.com: Tuning : A Good Place to Start](http://sqlperformance.com/2016/01/io-subsystem/tuning-a-good-place-to-start) Tim Radney of SQLskills gives an overview of his approach to SQL Server performance tuning, from system configuration, to I/O latency, to high cost queries.
 - [Faster SQL Paging with jOOQ Using the Seek Method](http://blog.jooq.org/2013/10/26/faster-sql-paging-with-jooq-using-the-seek-method/)
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">MySQL—MariaDB—PostgreSQL Benchamarks<a href="https://t.co/ahTMtGf3JV">https://t.co/ahTMtGf3JV</a><br><br>MySQL/MariaDB are slightly faster at writing<br>PostgreSQL is faster at reading</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/699133157463998464">febrero 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Database Security
 - [SQL Server Security Checklist](https://www.mssqltips.com/sqlservertip/3159/sql-server-security-checklist/)
 
