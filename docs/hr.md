@@ -133,6 +133,7 @@
 - [How to Solve Google’s Crazy Open-Ended Interview Questions](http://www.wired.com/2014/08/how-to-solve-crazy-open-ended-google-interview-questions/)
 - [businessinsider.com: The surprisingly simple solution to a trick question Apple asks in job interviews](http://www.businessinsider.com/apple-job-interview-question-brainteaser-2016-2)
 - [How To Ask For An Introduction On LinkedIn (And Get It!)](http://careerhmo.com/ask-introduction-linkedin/)
+- [The one question you should always ask at the end of a job interview 🌟](http://www.businessinsider.com/the-one-question-you-should-always-ask-at-the-end-of-a-job-interview-2016-2) One question all job candidates should always ask, no matter what: "Who succeeds in this position?". Another way to phrase it: "How would you define success for this position?"
 
 ![war room](images/war_room.gif)
 
