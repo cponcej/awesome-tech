@@ -289,6 +289,8 @@
 </div>
 <br/>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Ia5mz"><a href="//imgur.com/a/Ia5mz">Got inspired and made this wallpaper today. Hope you enjoy.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 [![commandlinefu 0 star](images/commandlinefu0star.png)](https://twitter.com/commandlinefu)
 
 [![commandlinefu 3 star](images/commandlinefu3star.png)](https://twitter.com/commandlinefu3)
