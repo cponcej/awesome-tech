@@ -245,6 +245,9 @@
 </div> 
 <br/>
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">MySQL 5.7 – HTTP Plugin for MySQL<br>It is official: MySQL listens to HTTP and speaks JSON.<a href="https://t.co/T6ra14kQw4">https://t.co/T6ra14kQw4</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/692882185099935744">enero 29, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### MySQL metrics
 - [Box Anemometer](https://github.com/box/Anemometer)
 

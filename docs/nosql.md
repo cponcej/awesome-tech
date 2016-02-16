@@ -67,6 +67,9 @@
 </div> 
 <br/>
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">SQL or NoSQL<a href="https://t.co/ilNZTJJOcG">https://t.co/ilNZTJJOcG</a><br><br>Story of a company starting with MongoDB and quickly after hitting it&#39;s limits.</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/691609991531347968">enero 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Redis, Coudhdb, and others
 - [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
 - [Redis](http://redis.io/)
