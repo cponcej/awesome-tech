@@ -38,6 +38,9 @@
 
 ![bill gates](images/bill_gates.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">beautiful video of windows 95&#39;s launch <a href="https://t.co/ETeR0JQK2d">pic.twitter.com/ETeR0JQK2d</a></p>&mdash; Owen Williams ⚡️ (@ow) <a href="https://twitter.com/ow/status/698034035180888064">febrero 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![BI Excel](images/Business_insider_excel.jpg)](https://www.youtube.com/channel/UC6VQZBHhAscmySqf6lEXBtw)
 
 <div class="container">
