@@ -190,6 +190,9 @@
 - [kaltura.org](http://www.kaltura.org)
 - [BBC R&D: H.265/HEVC vs H.264/AVC: 50% bit rate savings verified](http://www.bbc.co.uk/rd/blog/2016/01/h-dot-265-slash-hevc-vs-h-dot-264-slash-avc-50-percent-bit-rate-savings-verified) A research team from the BBC has done a series of tests to confirm earlier computations showing a ~50% savings in bit rate for H.265/HEVC compared to video using H.264/AVC at comparable quality. 
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why HBO is so scared of Netflix <a href="https://t.co/AVwt6IfP72">https://t.co/AVwt6IfP72</a> <a href="https://t.co/ZmBfSkE1Dg">pic.twitter.com/ZmBfSkE1Dg</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/699642563486203904">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Distributed Messaging System. Message oriented middleware 
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Apache Kafka](http://kafka.apache.org/)
