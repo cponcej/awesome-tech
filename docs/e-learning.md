@@ -57,6 +57,9 @@
 - [An Entire MBA in 1 Course:Award Winning Business School Prof](https://www.udemy.com/an-entire-mba-in-1-courseaward-winning-business-school-prof/)
 	- [A former Goldman Sachs employee has condensed an entire MBA into one online course](http://www.businessinsider.com/goldman-sachs-mba-online-course-udemy-deal-2016-2)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Passed the AWS Solution Architect Associate exam today.. Highly recommend the <a href="https://twitter.com/acloudguru">@acloudguru</a> courses for exam prep. <a href="https://t.co/lJiJefDbsD">https://t.co/lJiJefDbsD</a></p>&mdash; Mairtin O Sullivan (@_mairtin_) <a href="https://twitter.com/_mairtin_/status/691612822002868224">enero 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![a cloud  guru at udemy](images/acloudguru.png)](https://www.udemy.com/user/ryankroonenburg/)
 
 [![Digital CIO mindset](images/digital_CIO_mindset.jpg)](https://www.cloudave.com/53350/2016-finally-year-disruption/)

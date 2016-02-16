@@ -171,6 +171,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Curious how <a href="https://twitter.com/netflix">@Netflix</a> can deliver billions of hours of content? Hear its <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> story: <a href="https://t.co/iOzM5cYC0v">https://t.co/iOzM5cYC0v</a> <a href="https://t.co/gWXLWGVPxo">pic.twitter.com/gWXLWGVPxo</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698586221472120833">febrero 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Now configure Auto Scaling to operate on a schedule using the AWS management console. <a href="https://t.co/PbIxj5kBf0">https://t.co/PbIxj5kBf0</a> <a href="https://t.co/56ChzqdB2E">pic.twitter.com/56ChzqdB2E</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/692822523457589248">enero 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### AWS EC2 Container Registry (Docker)
 - [A Better Dev/Test Experience: Docker and AWS](https://medium.com/aws-activate-startup-blog/a-better-dev-test-experience-docker-and-aws-291da5ab1238)
 - [Amazon EC2 Container Registry Documentation](http://aws.amazon.com/es/documentation/ecr/)

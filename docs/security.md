@@ -158,6 +158,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 11 AWS IAM Best Practices <a href="https://t.co/VnLgDpCo5c">https://t.co/VnLgDpCo5c</a></p>&mdash; Gin soaked boy (@integralist) <a href="https://twitter.com/integralist/status/692697411014234112">enero 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Big Data Security
 - [[2014] Big Data y Privacidad por Chema Alonso](https://youtu.be/_oeqjepFkEY)
 - [Panopticlick.eff.org: Is your browser safe against tracking?](https://panopticlick.eff.org/)
