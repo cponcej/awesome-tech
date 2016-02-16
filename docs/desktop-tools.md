@@ -5,7 +5,8 @@
 	- [Excel](#excel)
 	- [Evernote](#evernote)
 		- [Evernote on Twitter](#evernote-on-twitter)
-	- [Thunderbird Extensions](#thunderbird-extensions)
+	- [Thunderbird](#thunderbird)
+		- [Thunderbird Extensions](#thunderbird-extensions)
 	- [Firefox](#firefox)
 	- [Monitors](#monitors)
 - [Presentations](#presentations)
@@ -58,13 +59,17 @@
 - [https://twitter.com/Evernote_IN](https://twitter.com/Evernote_IN)
 - [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
 
-## Thunderbird Extensions
+## Thunderbird
+- [twitter.com/mozthunderbird](https://twitter.com/mozthunderbird)
+- [support.mozilla.org](https://support.mozilla.org)
+- [Filelink for Large Attachments](https://support.mozilla.org/en-US/kb/filelink-large-attachments)
+- [Thunderbird Daily on Youtube: Some great productivity tips for Thunderbird](https://www.youtube.com/channel/UCCiqw9IULdRxig5e-fcPo6A)
+
+### Thunderbird Extensions
 - [Provider for Google Calendar](https://addons.mozilla.org/thunderbird/addon/provider-for-google-calendar)
 - [gContactSync](https://addons.mozilla.org/thunderbird/addon/gcontactsync/)
 - [Google Tasks Sync](https://addons.mozilla.org/thunderbird/addon/google-tasks-sync/?src=search)
 - [EnigMail OpenPGP Email Security](https://www.enigmail.net)
-- [twitter.com/mozthunderbird](https://twitter.com/mozthunderbird)
-- [Thunderbird Daily on Youtube: Some great productivity tips for Thunderbird](https://www.youtube.com/channel/UCCiqw9IULdRxig5e-fcPo6A)
 
 ## Firefox
 - [How to stop Firefox from making automatic connections. #Privacy #Security #Networking](https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections)
