@@ -142,9 +142,6 @@
 </div>
 <br>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;{print $4}&#39; apache_log|sort -n|cut -c1-15|uniq -c|awk &#39;{b=&quot;&quot;;for(i=0;i&lt;$1/10;i++){b=b&quot;#&quot;}; print $0 &quot; &quot; b;}&#39; # Request by hour graph.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696591310266847232">febrero 8, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Linux 2016
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
 - [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)
@@ -172,6 +169,9 @@
 
 ### Linux LVM Logical Volume Management and FileSystems 
 - [Linux LVM Logical Volume Management and FileSystems](servers-storage-backup.md#linux-lvm-logical-volume-management-and-filesystems)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;{print $4}&#39; apache_log|sort -n|cut -c1-15|uniq -c|awk &#39;{b=&quot;&quot;;for(i=0;i&lt;$1/10;i++){b=b&quot;#&quot;}; print $0 &quot; &quot; b;}&#39; # Request by hour graph.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696591310266847232">febrero 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">du -h . | grep &quot;^[0-9\.]\+G&quot; # # Find out which of your directories(below the current directory) occupy at least 1GB of space.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696200949786767360">febrero 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
