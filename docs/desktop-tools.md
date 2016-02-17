@@ -134,11 +134,30 @@
 - [Top 10 Firefox shortcut keys everyone should know](http://www.computerhope.com/tips/tip83.htm)
 - [accessfirefox.org: Firefox Keyboard and Mouse Shortcuts](https://www.accessfirefox.org/Firefox_Keyboard_and_Mouse_Shortcuts.html)
 
-[![commitstrip we'll sort that out later](images/commitstrip_hw_sw_purchase.jpg)](http://www.commitstrip.com/en/2016/02/01/well-sort-that-out-later/)
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You can make the Internet safer! Having updated software defends against threats <a href="https://t.co/scOGWM2nkt">https://t.co/scOGWM2nkt</a> <a href="https://twitter.com/hashtag/DPD16?src=hash">#DPD16</a> <a href="https://t.co/szMhL1brBM">pic.twitter.com/szMhL1brBM</a></p>&mdash; Firefox (@firefox) <a href="https://twitter.com/firefox/status/692791712905838593">enero 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you&#39;re short on time for long articles, save them to your Pocket in Firefox: <a href="https://t.co/fe4WTnFToc">https://t.co/fe4WTnFToc</a> <a href="https://t.co/7gLDH5uYN7">pic.twitter.com/7gLDH5uYN7</a></p>&mdash; Firefox (@firefox) <a href="https://twitter.com/firefox/status/687726379778052097">enero 14, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Tip of the day: Password Manager - Remember, Delete, Change and Import saved passwords in Firefox <a href="https://t.co/NeTYzOPV4z">https://t.co/NeTYzOPV4z</a> <a href="https://twitter.com/hashtag/privacymonth?src=hash">#privacymonth</a></p>&mdash; Mozilla India (@MozillaIN) <a href="https://twitter.com/MozillaIN/status/685106168205737984">enero 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You don&#39;t need a 3rd party ad messing up your gift surprises. Browse without being tracked: <a href="https://t.co/DlLkzB3yBI">https://t.co/DlLkzB3yBI</a> <a href="https://t.co/rSDmFMI7Yb">pic.twitter.com/rSDmFMI7Yb</a></p>&mdash; Firefox (@firefox) <a href="https://twitter.com/firefox/status/675004553260081152">diciembre 10, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Chrome
 - [Chromebook keyboard shortcuts](https://support.google.com/chromebook/answer/183101)
 - [Tres trucos para ampliar el control sobre las pestañas en Chrome](http://cincodias.com/cincodias/2016/02/12/lifestyle/1455301274_514513.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Slow internet? Chrome’s Data Saver mode on Android loads pages w/o images saving 70% data. Now in India &amp; Indonesia. <a href="https://t.co/9V3pIZEfC8">pic.twitter.com/9V3pIZEfC8</a></p>&mdash; Google Chrome (@googlechrome) <a href="https://twitter.com/googlechrome/status/671531441486893060">diciembre 1, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">To quickly see your browsing history, just click &amp; hold the back arrow to the left of the address bar. <a href="https://twitter.com/hashtag/chrometip?src=hash">#chrometip</a> <a href="https://t.co/uZxxgLbCKE">pic.twitter.com/uZxxgLbCKE</a></p>&mdash; Google Chrome (@googlechrome) <a href="https://twitter.com/googlechrome/status/669541939075616768">noviembre 25, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Have a bunch of tabs open in a single window? Hit &quot;ctrl + [1-9]&quot; (command on Mac) to quickly jump between them. <a href="https://twitter.com/hashtag/chrometip?src=hash">#chrometip</a></p>&mdash; Google Chrome (@googlechrome) <a href="https://twitter.com/googlechrome/status/664148016945897472">noviembre 10, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Monitors
 - [reddit.com/r/monitors](https://www.reddit.com/r/monitors)
@@ -157,6 +176,8 @@
 - [Does body language help a TED Talk go viral? 5 nonverbal patterns from blockbuster talks](http://blog.ted.com/body-language-survey-points-to-5-nonverbal-features-that-make-ted-talks-take-off/)
 - [presentationgo.com](http://www.presentationgo.com/) The free PowerPoint library
 - [10 ridiculous but brilliant ways to look smart in a meeting](http://uk.businessinsider.com/ridiculous-but-brilliant-ways-to-look-smart-in-a-meeting-2015-3)
+
+[![commitstrip we'll sort that out later](images/commitstrip_hw_sw_purchase.jpg)](http://www.commitstrip.com/en/2016/02/01/well-sort-that-out-later/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Worried that Windows 10 is &#39;spying&#39; on you? Here&#39;s how to take back control <a href="https://t.co/kidxBDbBcf">https://t.co/kidxBDbBcf</a> <a href="https://twitter.com/the_pc_doc">@the_pc_doc</a> <a href="https://t.co/k8DVSPSGrj">pic.twitter.com/k8DVSPSGrj</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/699589095249592320">febrero 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
