@@ -21,6 +21,21 @@
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">awk -F: {&#39;print $1 &quot;:&quot; $2&#39;} messages |uniq -c # Count syslog hits per minute in your messages log file. Useful for doing quick stats.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/698996908224700416">February 14, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/xkDQZITioJ">https://t.co/xkDQZITioJ</a> - du with colored bar graph (point_to_null) <a href="https://twitter.com/hashtag/space?src=hash">#space</a> <a href="https://twitter.com/hashtag/awk?src=hash">#awk</a> <a href="https://twitter.com/hashtag/du?src=hash">#du</a> <a href="https://twitter.com/hashtag/graph?src=hash">#graph</a> <a href="https://twitter.com/hashtag/disk?src=hash">#disk</a></p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/698497131561115648">febrero 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/M3nRe9Z6B0">https://t.co/M3nRe9Z6B0</a> - Determine if a port is open with bash (zlemini)</p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/677417732044816384">diciembre 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="cs" dir="ltr"><a href="https://t.co/Ti3bakojsa">https://t.co/Ti3bakojsa</a> - Convert JSON to YAML (wejn) <a href="https://twitter.com/hashtag/json?src=hash">#json</a> <a href="https://twitter.com/hashtag/ruby?src=hash">#ruby</a> <a href="https://twitter.com/hashtag/yaml?src=hash">#yaml</a></p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/662207849951432706">noviembre 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="http://t.co/0R6XyP5TDy">http://t.co/0R6XyP5TDy</a> - The fastest remote directory rsync over ssh archival I can muster (40MB/s over 1gb NICs) (somaddict) <a href="https://twitter.com/hashtag/ssh?src=hash">#ssh</a> <a href="https://twitter.com/hashtag/rsync?src=hash">#rsync</a></p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/636996001144836096">agosto 27, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="http://t.co/oqvwmPKo02">http://t.co/oqvwmPKo02</a> - list all file extensions in a directory (cp) <a href="https://twitter.com/hashtag/uniq?src=hash">#uniq</a> <a href="https://twitter.com/hashtag/ls?src=hash">#ls</a> <a href="https://twitter.com/hashtag/grep?src=hash">#grep</a></p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/615159728331591681">junio 28, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Make your prompt safer with # so that if you accidentally copy & paste it, it doesn't run. 🌟🌟🌟🌟🌟
 
 		PS1="# $PS1"
