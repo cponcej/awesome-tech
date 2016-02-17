@@ -146,6 +146,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You don&#39;t need a 3rd party ad messing up your gift surprises. Browse without being tracked: <a href="https://t.co/DlLkzB3yBI">https://t.co/DlLkzB3yBI</a> <a href="https://t.co/rSDmFMI7Yb">pic.twitter.com/rSDmFMI7Yb</a></p>&mdash; Firefox (@firefox) <a href="https://twitter.com/firefox/status/675004553260081152">diciembre 10, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Who&#39;s been snooping through your online data? Lightbeam will show you: <a href="https://t.co/oR4Ij9GlN0">https://t.co/oR4Ij9GlN0</a>. <a href="https://twitter.com/hashtag/DPD2016?src=hash">#DPD2016</a> <a href="https://t.co/KkIyUSpY6g">pic.twitter.com/KkIyUSpY6g</a></p>&mdash; Firefox (@firefox) <a href="https://twitter.com/firefox/status/692386586483384324">enero 27, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Chrome
 - [Chromebook keyboard shortcuts](https://support.google.com/chromebook/answer/183101)
 - [Tres trucos para ampliar el control sobre las pestañas en Chrome](http://cincodias.com/cincodias/2016/02/12/lifestyle/1455301274_514513.html)
