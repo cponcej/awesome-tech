@@ -9,6 +9,7 @@
 	- [Thunderbird](#thunderbird)
 		- [Thunderbird Extensions](#thunderbird-extensions)
 	- [Firefox](#firefox)
+	- [Chrome](#chrome)
 	- [Monitors](#monitors)
 - [Presentations](#presentations)
 
@@ -129,8 +130,14 @@
 - [How to stop Firefox from making automatic connections. #Privacy #Security #Networking](https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections)
 - [Awesome Firefox addon to prevent tracking via free CDN providers. #Privacy #Security #Infosec #Linux #OSX #Unix](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes)
 - [uBlock Origin, an efficient blocker. Easy on CPU and memory](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
+- [Keyboard shortcuts - Perform common Firefox tasks quickly](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
+- [Top 10 Firefox shortcut keys everyone should know](http://www.computerhope.com/tips/tip83.htm)
 
 [![commitstrip we'll sort that out later](images/commitstrip_hw_sw_purchase.jpg)](http://www.commitstrip.com/en/2016/02/01/well-sort-that-out-later/)
+
+## Chrome
+- [Chromebook keyboard shortcuts](https://support.google.com/chromebook/answer/183101)
+- [Tres trucos para ampliar el control sobre las pestañas en Chrome](http://cincodias.com/cincodias/2016/02/12/lifestyle/1455301274_514513.html)
 
 ## Monitors
 - [reddit.com/r/monitors](https://www.reddit.com/r/monitors)
