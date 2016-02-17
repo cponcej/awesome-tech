@@ -50,6 +50,9 @@
 
 ![The art of programming](images/the_art_of_programming.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A good programmer can get more done than 10 bad programmers, but a bad programmer&#39;s code can keep 10 good programmers busy for years.</p>&mdash; Ed Weissman (@edw519) <a href="https://twitter.com/edw519/status/463675238673170432">mayo 6, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![commitstrip legacy project](images/commitstrip_legacy_project.jpg)](http://www.commitstrip.com/en/2016/02/15/our-companys-greatest-project/)
 
 # Software Development
