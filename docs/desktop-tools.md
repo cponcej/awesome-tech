@@ -207,6 +207,9 @@
 
 [![commitstrip we'll sort that out later](images/commitstrip_hw_sw_purchase.jpg)](http://www.commitstrip.com/en/2016/02/01/well-sort-that-out-later/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Is DoD getting a special spyware-free version of Windows 10? Windows 10 To Be Installed On 4 Million DoD computers <a href="https://t.co/uUt0v8wSeM">https://t.co/uUt0v8wSeM</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700009146578444289">febrero 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Worried that Windows 10 is &#39;spying&#39; on you? Here&#39;s how to take back control <a href="https://t.co/kidxBDbBcf">https://t.co/kidxBDbBcf</a> <a href="https://twitter.com/the_pc_doc">@the_pc_doc</a> <a href="https://t.co/k8DVSPSGrj">pic.twitter.com/k8DVSPSGrj</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/699589095249592320">febrero 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
