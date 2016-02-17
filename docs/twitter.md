@@ -6,6 +6,7 @@
 	- [Paper.li Newspapers](#paperli-newspapers)
 	- [OSSnews.net](#ossnewsnet)
 - [Tumblr Resources](#tumblr-resources)
+- [Scoop.it](#scoopit)
 - [Twitter Resources](#twitter-resources)
 	- [Marketing Digital](#marketing-digital)
 	- [IT Jobs on Twitter](#it-jobs-on-twitter)
@@ -111,6 +112,9 @@
 - [forbes.tumblr.com 🌟](http://forbes.tumblr.com)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/iFjXucMPOIj7OILspk20NQ/139349373443" data-did="5dd8a6e68839131313adbfc57df3235ac774fc3f"><a href="http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a">http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+# Scoop.it
+- [Web Design News](http://www.scoop.it/t/web-design-news-by-css-matter)
 
 # Twitter Resources
 - Add twitter resources to your custom twitter lists or subscribe to someone else's lists.
