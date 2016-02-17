@@ -151,4 +151,4 @@
 ## Provisioning Docker containers with Ansible
 - [ibm.com: Provisioning Docker containers with Ansible](https://www.ibm.com/developerworks/cloud/library/cl-provision-docker-containers-ansible/)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/138981762031" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://inafev.tumblr.com/post/138981762031">http://inafev.tumblr.com/post/138981762031</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/jjKfzzzhxu5DrcjAf25xLg/138976713666" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://yourreactiongifs.tumblr.com/post/138976713666">http://yourreactiongifs.tumblr.com/post/138976713666</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>

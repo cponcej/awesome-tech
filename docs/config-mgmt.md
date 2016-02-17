@@ -128,4 +128,4 @@
 
 [![disruption cycle](images/disruption-cycle.png)](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/P8tjxHPaumGfvn6V1XLvRA/137946079986" data-did="8f77de829c3b28817197a58176f13891cc3b0963"><a href="http://inafev.tumblr.com/post/137946079986/microservices-have-you-metdevops">http://inafev.tumblr.com/post/137946079986/microservices-have-you-metdevops</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/dKGKUiCk3X0vsL0rCyE_Kg/110741562854" data-did="8a9271601b2b3c006faa0d9da98ea2af2aec7dd8"><a href="http://blog.ingineering.it/post/110741562854/microservices-have-you-metdevops">http://blog.ingineering.it/post/110741562854/microservices-have-you-metdevops</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
