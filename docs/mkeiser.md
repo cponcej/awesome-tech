@@ -282,6 +282,7 @@ ________________________________________________________________________________
 - [¿Va a estallar Silicon Valley?](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
 - [Desmontando los mitos sobre la inflación y la creación de dinero 🌟](http://eduardogarzon.net/desmontando-los-mitos-sobre-la-inflacion-y-la-creacion-de-dinero/)
 - [El gran desajuste: "Las empresas germanas son 16 veces más eficientes que los gigantes tecnológicos americanos generando empleo" 🌟🌟🌟](http://xavierferras.blogspot.com.es/2016/02/el-gran-desajuste.html)
+- [Capitalismo clientelista](https://es.wikipedia.org/wiki/Capitalismo_clientelista)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lynZYPTVelw" frameborder="0" allowfullscreen class="video"></iframe>
