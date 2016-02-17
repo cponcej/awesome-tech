@@ -14,6 +14,16 @@ ________________________________________________________________________________
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y60wDzZt8yg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gq11un3xqsA?list=PLCUKIeZnrIUlp9lqAFvcDCDw0C5xhYnT6" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![global house prices economist](images/global-house-prices-economist.png)](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
 
 ![Should the Fed raise rates?](images/should-the-fed-raise-rates.png)
