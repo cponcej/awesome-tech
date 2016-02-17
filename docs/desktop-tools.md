@@ -132,6 +132,7 @@
 - [uBlock Origin, an efficient blocker. Easy on CPU and memory](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 - [Keyboard shortcuts - Perform common Firefox tasks quickly](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 - [Top 10 Firefox shortcut keys everyone should know](http://www.computerhope.com/tips/tip83.htm)
+- [accessfirefox.org: Firefox Keyboard and Mouse Shortcuts](https://www.accessfirefox.org/Firefox_Keyboard_and_Mouse_Shortcuts.html)
 
 [![commitstrip we'll sort that out later](images/commitstrip_hw_sw_purchase.jpg)](http://www.commitstrip.com/en/2016/02/01/well-sort-that-out-later/)
 
