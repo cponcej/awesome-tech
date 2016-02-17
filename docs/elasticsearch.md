@@ -20,8 +20,9 @@
 - [My Logstash and Graylog2 notes](http://jpmens.net/2012/08/06/my-logstash-and-graylog2-notes/)
 - [speakerdeck.com: Using elasticsearch, logstash & kibana to create realtime dashboards](https://speakerdeck.com/elasticsearch/using-elasticsearch-logstash-and-kibana-to-create-realtime-dashboards)
 - [pyvideo.org - log everything with logstash and elasticsearch](http://pyvideo.org/video/3021/log-everything-with-logstash-and-elasticsearch)
-- [logz.io: A Logstash Tutorial: How to Get Started](http://logz.io/blog/logstash-tutorial/)
+- [logz.io: A Logstash Tutorial: How to Get Started 🌟](http://logz.io/blog/logstash-tutorial/)
 - [logz.io: How to Use ELK to Monitor Performance](http://logz.io/blog/elk-monitor-platform-performance/)
+- [Packetbeat | Real-Time Network Packet Analytics 🌟](https://www.elastic.co/products/beats/packetbeat) Packetbeat is the open source data shipper that integrates with Elasticsearch and Kibana to provide real-time analytics for web, database, and other network protocols. It’s extensible, letting IT operations, security, and business analysts rapidly add new protocols, metrics, and analytics, and has a cloud‑ready deployment model to ensure scalability as your applications evolve.
 - [adictosaltrabajo.com: Introducción a Kibana](http://www.adictosaltrabajo.com/tutoriales/introduccion-a-kibana/)
 
 <div class="container">
