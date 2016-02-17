@@ -29,6 +29,9 @@
 
 [![anaconda is](images/anaconda-is.jpg)](https://www.continuum.io/why-anaconda)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Anaconda?src=hash">#Anaconda</a> for <a href="https://twitter.com/cloudera">@Cloudera</a> - introducing the Anaconda parcel: <a href="https://t.co/XmwJjAik4z">https://t.co/XmwJjAik4z</a> <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a> <a href="https://twitter.com/hashtag/Spark?src=hash">#Spark</a> <a href="https://twitter.com/hashtag/Hadoop?src=hash">#Hadoop</a> <a href="https://t.co/DKnSxtuwfl">pic.twitter.com/DKnSxtuwfl</a></p>&mdash; Continuum Analytics (@ContinuumIO) <a href="https://twitter.com/ContinuumIO/status/699964356998467585">febrero 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Anaconda Code examples
 - [Introduction to Python for data mining 🌟🌟🌟](http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Python_For_Data_Mining.ipynb)
 - [Jeff Reback's pandas tutorial at PyDataNYC2015, notebooks included 🌟🌟🌟](https://github.com/jreback/pydatanyc2015)
