@@ -55,7 +55,12 @@
 [![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhyuuwkwSao?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
