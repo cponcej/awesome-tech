@@ -38,3 +38,18 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J3ai0cDOAkY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New <a href="https://twitter.com/hashtag/Kibana?src=hash">#Kibana</a> patch releases! 4.4.1, 4.3.2, 4.1.5 all bump their bundled node.js versions for upstream security fixes: <a href="https://t.co/amEn71hnqE">https://t.co/amEn71hnqE</a></p>&mdash; elastic (@elastic) <a href="https://twitter.com/elastic/status/698193093997121538">febrero 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">See how DNS tunnels can be detected by using <a href="https://twitter.com/hashtag/Packetbeat?src=hash">#Packetbeat</a> with <a href="https://twitter.com/hashtag/Elasticsearch?src=hash">#Elasticsearch</a> and Watcher. <a href="https://t.co/aQ2D69DlBD">https://t.co/aQ2D69DlBD</a></p>&mdash; elastic (@elastic) <a href="https://twitter.com/elastic/status/699619159215222784">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Great overview from <a href="https://twitter.com/Richardp82">@Richardp82</a> on his very popular <a href="https://twitter.com/elastic">@elastic</a> module for Puppet. Over 275,000 downloads! <a href="https://t.co/6TLpMpI9Ql">https://t.co/6TLpMpI9Ql</a></p>&mdash; Pulse Width Manager (@nigelkersten) <a href="https://twitter.com/nigelkersten/status/697880432705036289">febrero 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Announcing Elasticsearch Curator v3.4.1 Much bug fix. Very update.<br><br>Now with Windows MSI installer: <a href="https://t.co/cIsXuboW3j">https://t.co/cIsXuboW3j</a></p>&mdash; Aaron Mildenstein (@theuntergeek) <a href="https://twitter.com/theuntergeek/status/697580737847959552">febrero 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Control user access by setting up field and document level security in <a href="https://twitter.com/hashtag/Shield?src=hash">#Shield</a>: <a href="https://t.co/UkErfWoNem">https://t.co/UkErfWoNem</a> <a href="https://t.co/Iu8jHZ81Ry">pic.twitter.com/Iu8jHZ81Ry</a></p>&mdash; elastic (@elastic) <a href="https://twitter.com/elastic/status/695276342498181120">febrero 4, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
