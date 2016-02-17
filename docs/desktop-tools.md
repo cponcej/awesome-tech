@@ -91,6 +91,15 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Calendars are simple yet powerful motivational tools. Save these templates to Evernote &gt;&gt; <a href="https://t.co/cyfFe9Nml8">https://t.co/cyfFe9Nml8</a> <a href="https://t.co/36bPi2oXH0">pic.twitter.com/36bPi2oXH0</a></p>&mdash; evernote (@evernote) <a href="https://twitter.com/evernote/status/697790751384735744">febrero 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">15 Productivity Tools Successful People Use to Work Less - Featuring <a href="https://twitter.com/evernote">@evernote</a>! <a href="https://t.co/8ltB6wrqXs">https://t.co/8ltB6wrqXs</a> <a href="https://t.co/Amae7rduOU">pic.twitter.com/Amae7rduOU</a></p>&mdash; When I Work (@wheniwork) <a href="https://twitter.com/wheniwork/status/695723849229471745">febrero 5, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We have the tools to keep your goals on track in 2016:<br>1. Calendars<br>2. Checklists<br>3. Note links<br>Learn more &gt;&gt; <a href="https://t.co/GlWeG9Alsp">https://t.co/GlWeG9Alsp</a></p>&mdash; evernote (@evernote) <a href="https://twitter.com/evernote/status/694895911592411136">febrero 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What&#39;s in a name? Tips and tricks for note titles in Evernote by <a href="https://twitter.com/simplifydays">@simplifydays</a> <a href="https://t.co/XM8J5NmNXU">https://t.co/XM8J5NmNXU</a></p>&mdash; evernote (@evernote) <a href="https://twitter.com/evernote/status/699293944375570432">febrero 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Thunderbird
 - [twitter.com/mozthunderbird](https://twitter.com/mozthunderbird)
 - [twitter.com/mozcalendar](https://twitter.com/mozcalendar)
