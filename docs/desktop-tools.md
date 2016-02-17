@@ -88,6 +88,9 @@
 - [https://twitter.com/Evernote_IN](https://twitter.com/Evernote_IN)
 - [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We&#39;ve put together 2016 calendar templates to help you stay organized: <a href="https://t.co/XXcuam8mvu">https://t.co/XXcuam8mvu</a> <a href="https://twitter.com/hashtag/EvernoteTips?src=hash">#EvernoteTips</a> <a href="https://t.co/k869dOGpyw">pic.twitter.com/k869dOGpyw</a></p>&mdash; Evernote Helps (@evernotehelps) <a href="https://twitter.com/evernotehelps/status/678968198595670016">diciembre 21, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Calendars are simple yet powerful motivational tools. Save these templates to Evernote &gt;&gt; <a href="https://t.co/cyfFe9Nml8">https://t.co/cyfFe9Nml8</a> <a href="https://t.co/36bPi2oXH0">pic.twitter.com/36bPi2oXH0</a></p>&mdash; evernote (@evernote) <a href="https://twitter.com/evernote/status/697790751384735744">febrero 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -98,6 +101,12 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What&#39;s in a name? Tips and tricks for note titles in Evernote by <a href="https://twitter.com/simplifydays">@simplifydays</a> <a href="https://t.co/XM8J5NmNXU">https://t.co/XM8J5NmNXU</a></p>&mdash; evernote (@evernote) <a href="https://twitter.com/evernote/status/699293944375570432">febrero 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Did you know that you can add Windows screen captures directly to Evernote? <a href="https://t.co/kiAUUyJCue">https://t.co/kiAUUyJCue</a> <a href="https://twitter.com/hashtag/EvernoteTips?src=hash">#EvernoteTips</a> <a href="https://t.co/90fG2gHYf8">pic.twitter.com/90fG2gHYf8</a></p>&mdash; Evernote Helps (@evernotehelps) <a href="https://twitter.com/evernotehelps/status/679700527471435778">diciembre 23, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Instructions for how to create and customize tables in Evernote: <a href="https://t.co/CmId15SGVW">https://t.co/CmId15SGVW</a> <a href="https://twitter.com/hashtag/EvernoteTips?src=hash">#EvernoteTips</a> <a href="https://t.co/Eum74BZP6Z">pic.twitter.com/Eum74BZP6Z</a></p>&mdash; Evernote Helps (@evernotehelps) <a href="https://twitter.com/evernotehelps/status/676793901538127872">diciembre 15, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Thunderbird
