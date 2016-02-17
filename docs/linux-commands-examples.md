@@ -12,6 +12,15 @@
 
 # Linux Commands Examples
 
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Greg&#39;s BASH FAQ is a great place for BASH questions and teaches you &quot;the right way&quot; to do things. <a href="https://t.co/nP2EdOBwsJ">https://t.co/nP2EdOBwsJ</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/699383729395884032">February 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">curl &#39;<a href="https://t.co/5Eu3Bbah5L">https://t.co/5Eu3Bbah5L</a>&#39; -o &quot;trip#1.jpg&quot; # Download images named IMG_0001.jpg through IMG_0105.jpg and save with different name.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/699476595673845761">February 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">awk -F: {&#39;print $1 &quot;:&quot; $2&#39;} messages |uniq -c # Count syslog hits per minute in your messages log file. Useful for doing quick stats.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/698996908224700416">February 14, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Make your prompt safer with # so that if you accidentally copy & paste it, it doesn't run. 🌟🌟🌟🌟🌟
 
 		PS1="# $PS1"
@@ -28,6 +37,14 @@
 - Find out which of your directories(below the current directory) occupy at least 1GB of space. 🌟🌟
 
 		du -h . | grep "^[0-9\.]\+G"
+
+- List of empty subdirectories of current directory.
+
+		find . -empty -type d
+
+- Like ping, but it uses an ARP request to check, which gets around host firewalls blocking ICMP. Only works on same subnet
+
+		arping 10.0.8.5
 
 - Show directory size and sort by human readable amount (MB, GB, etc.). Requires GNU sort for -h option. 🌟🌟
 
