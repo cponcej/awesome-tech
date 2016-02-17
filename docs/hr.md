@@ -179,6 +179,7 @@
 - [6 estilos de liderazgo empresarial](http://blog.fuerzacomercial.es/6-estilos-de-liderazgo-empresarial/)
 - [¿Es bueno tener equipos estables? (vamos, que no rote constantemente la gente)](http://www.javiergarzas.com/2015/09/es-bueno-tener-equipos-estables-vamos-que-no-rote-constantemente-la-gente.html)
 - [El oscuro secreto del proceso de selección 🌟](http://zumodeempleo.com/el-oscuro-secreto-del-proceso-de-seleccion/)
+- [Las denuncias por cesión ilegal de empleados caen por miedo al despido 🌟](http://ccaa.elpais.com/ccaa/2015/01/10/catalunya/1420916172_146008.html)
 
 ## Orientación laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
