@@ -31,8 +31,15 @@
 
 ## Internet speed. Test de velocidad
 - [speedtest.net](http://www.speedtest.net)
+- [dslreports.com/speedtest](https://www.dslreports.com/speedtest)
+- [website-speedtest.com](http://www.website-speedtest.com)
+	- [twitter.com/Web_Speedtest](https://twitter.com/Web_Speedtest)
 - [Test de Velocidad](http://www.internautas.org/testvelocidad/)
+- [Apps para hacer test de velocidad en Android: Speedtest, Movispeed…](http://foromoviles.com/apps-para-hacer-test-de-velocidad-en-android-speedtest-movispeed/)
 - [¿Tienes realmente la velocidad de Internet que has contratado?](http://www.lavanguardia.com/tecnologia/20160216/302202649248/medir-velocidad-internet-contratada.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Check out my <a href="https://twitter.com/Ookla">@Ookla</a> Speedtest result! What&#39;s your speed? <a href="https://t.co/gDhttuUPA1">https://t.co/gDhttuUPA1</a> <a href="https://twitter.com/hashtag/speedtest?src=hash">#speedtest</a></p>&mdash; ThePrussianPrince (@PrussianPrince1) <a href="https://twitter.com/PrussianPrince1/status/696671216808153088">febrero 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Excel
 - [Learning Excel isn't just for finance professionals, it can boost anyone's productivity at work — here’s how](http://www.businessinsider.com/master-microsoft-excel-basics-beginner-online-course-udemy-deal-2016-2)

@@ -68,6 +68,8 @@
 
 ## Web Performance
 - [webpagetest.org](http://www.webpagetest.org) Test a website's performance
+- [website-speedtest.com](http://www.website-speedtest.com)
+	- [twitter.com/Web_Speedtest](https://twitter.com/Web_Speedtest)
 - [Iframe loading techniques and performance](http://www.aaronpeters.nl/blog/iframe-loading-techniques-performance)
 
 <div class="container">
