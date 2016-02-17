@@ -152,6 +152,9 @@
 
 ![always that way](images/always_that_way.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to build a visual, shared editorial calendar &amp; content management system <a href="https://t.co/LgmtS0WOtO">https://t.co/LgmtS0WOtO</a> <a href="https://t.co/aYYKruFA7q">pic.twitter.com/aYYKruFA7q</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/699367622857531392">febrero 15, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Agile planning: Scrum, Kanban, Lean
 - [Manifesto for Agile Software Development 🌟🌟🌟🌟🌟](http://agilemanifesto.org)
 - [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge 🌟](http://www.scrumguides.org/)
