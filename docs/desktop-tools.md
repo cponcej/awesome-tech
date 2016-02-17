@@ -124,7 +124,9 @@
 - [Filelink for Large Attachments](https://support.mozilla.org/en-US/kb/filelink-large-attachments)
 - [Thunderbird Daily on Youtube: Some great productivity tips for Thunderbird](https://www.youtube.com/channel/UCCiqw9IULdRxig5e-fcPo6A)
 - [Saving bandwidth on Google Chrome and Mozilla Thunderbird](http://jjamwal.in/yayavar/saving-bandwidth-on-google-chrome-and-mozilla-thunderbird/)
+- [Safe Mode Thunderbird](https://support.mozilla.org/en-US/kb/safe-mode-thunderbird)
 - [Configurar correo de Office 365 en Mozilla Thunderbird](http://blog.jgaitpro.com/configurar-correo-de-office-365-en-mozilla-thunderbird/)
+
 
 ### Thunderbird Extensions
 - [Provider for Google Calendar](https://addons.mozilla.org/thunderbird/addon/provider-for-google-calendar)
