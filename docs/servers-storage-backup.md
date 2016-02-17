@@ -21,8 +21,12 @@
 - [Dell Community](http://community.dell.com/)
 - [New PowerEdge R930: Powerful and reliable, ideal for customers migrating to more innovative x86 platforms from proprietary UNIX](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-r930-server)
 - [Dell PowerEdge R930](http://www.dell.com/es/empresas/p/poweredge-r930/pd?~ck=anav)
+- [The Forecast for UNIX: Hazy and Overcast, so reach for your Umbrella and Red Hat](http://www.gartner.com/technology/media-products/newsletters/red_hat/vol2_issue1/index.html) Why Red Hat Enterprise Linux is the optimal choice when migrating from proprietary UNIX systems
 - [Dell launches PowerEdge entry-level servers for SMBs](http://www.infotechlead.com/networking/dell-launches-entry-level-servers-for-smbs-36295)
+- [Dell PowerEdge solutions for SMBs and suggested uses](http://blog.neweggbusiness.com/buying-guides/windows-server-2012-migration-dell-poweredge-solutions/)
+- [Dell Announces 13th Generation PowerEdge Servers](http://www.mellanox.com/blog/2014/09/dell-announces-13th-generation-poweredge-servers/)
 - [storagereview.com Dell PowerEdge 13G R730 Server Review](http://www.storagereview.com/dell_poweredge_13g_r730_server_review)
+	- [Red Hat Enterprise Linux achieves 2-processor world record result on two-tier SAP® Sales and Distribution standard application benchmark](http://www.redhat.com/en/about/blog/red-hat-enterprise-linux-achieves-2-processor-world-record-result-two-tier-sap%C2%AE-sales-and-distribution-standard-application-benchmark)
 - [thevarguy.com: Dell and Red Hat Deliver Easier Firmware Updates for Linux Users](http://thevarguy.com/open-source-application-software-companies/dell-and-red-hat-deliver-easier-firmware-updates-linux-us)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Dell?src=hash">#Dell</a> and <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> deliver easier <a href="https://twitter.com/hashtag/firmware?src=hash">#firmware</a> updates for <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> users <a href="https://t.co/GruU90bU9O">https://t.co/GruU90bU9O</a> (via <a href="https://twitter.com/thevarguy">@thevarguy</a>)</p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/699967981548343296">febrero 17, 2016</a></blockquote>
