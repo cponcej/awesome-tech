@@ -23,6 +23,10 @@
 - [Dell PowerEdge R930](http://www.dell.com/es/empresas/p/poweredge-r930/pd?~ck=anav)
 - [Dell launches PowerEdge entry-level servers for SMBs](http://www.infotechlead.com/networking/dell-launches-entry-level-servers-for-smbs-36295)
 - [storagereview.com Dell PowerEdge 13G R730 Server Review](http://www.storagereview.com/dell_poweredge_13g_r730_server_review)
+- [thevarguy.com: Dell and Red Hat Deliver Easier Firmware Updates for Linux Users](http://thevarguy.com/open-source-application-software-companies/dell-and-red-hat-deliver-easier-firmware-updates-linux-us)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Dell?src=hash">#Dell</a> and <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> deliver easier <a href="https://twitter.com/hashtag/firmware?src=hash">#firmware</a> updates for <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> users <a href="https://t.co/GruU90bU9O">https://t.co/GruU90bU9O</a> (via <a href="https://twitter.com/thevarguy">@thevarguy</a>)</p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/699967981548343296">febrero 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1fGjgB__yxY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

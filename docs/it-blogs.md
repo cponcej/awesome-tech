@@ -28,6 +28,7 @@
 - [eWeek.com](http://www.eweek.com)
 - [ars technica](http://arstechnica.com/)
 - [slashdot.org](http://slashdot.org)
+- [The VAR Guy](http://thevarguy.com)
 - [BBC Research & Development](http://www.bbc.co.uk/rd)
 - [Network World](http://www.networkworld.com/)
 - [GeekWire](http://www.geekwire.com/)
