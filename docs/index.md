@@ -12,7 +12,7 @@
 	- [Miscellaneous. IT Blogs, Support](it-blogs.md)
 2. [Startups, Jobs, In-Demand Skills](startups.md)
 3. [Human Resources, Interviews, Leadership 🙈 🙉 🙊](hr.md)
-4. [Scalability and Reliability, Datacenters 🌟🌟](scalability.md)
+4. [Scalability and Reliability, Datacenters 🌟](scalability.md)
 5. [Linux](linux.md)
 	- [Red Hat 🌟](redhat.md)
 	- [Linux Commands Examples 🌟](linux-commands-examples.md)
