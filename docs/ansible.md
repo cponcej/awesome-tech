@@ -65,6 +65,8 @@
 ## Ansible Support and Forums
 - [Ansible Support](https://support.ansible.com)
 - [Ansible subreddit](https://www.reddit.com/r/ansible/)
+- [ansible-tips-and-tricks.readthedocs.org](http://ansible-tips-and-tricks.readthedocs.org)
+- [ansible-flow.readthedocs.org])(http://ansible-flow.readthedocs.org)
 
 ## Is ansible replacing puppet?
 - [redhat subreddit: Is ansible replacing puppet?](https://www.reddit.com/r/redhat/comments/3xj6ja/is_ansible_replacing_puppet/)
