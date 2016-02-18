@@ -14,6 +14,7 @@
 	- [Reddit](#reddit)
 	- [Screencasts](#screencasts)
 	- [Podcasts](#podcasts)
+		- [Non IT related podcasts](#non-it-related-podcasts)
 		- [Cloud Computing Podcasts](#cloud-computing-podcasts)
 		- [Devops Podcasts](#devops-podcasts)
 			- [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
@@ -309,6 +310,12 @@
 	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
 - [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
 - [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
+
+### Non IT related podcasts
+- [The Stitcher List. What the World is Listening to Now](http://www.stitcher.com/stitcher-list/)
+	- [Freakonomics radio 🌟](http://www.stitcher.com/podcast/wnyc/freakonomics-radio)
+	- [Reuters top news](http://www.stitcher.com/podcast/reuters/top-news)
+	- [Planet money](http://www.stitcher.com/podcast/national-public-radio/npr-planet-money-podcast)
 
 [![no dogma podcast](images/no_dogma_podcast.png)](http://nodogmapodcast.bryanhogan.net/)
 
