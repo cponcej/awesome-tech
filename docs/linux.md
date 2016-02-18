@@ -308,6 +308,7 @@
 - [Julia Evans: How CPU load averages work (and using them to triage webserver performance!)](http://jvns.ca/blog/2016/02/07/cpu-load-averages/)
 - [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
 - [linuxjournal.com: Examining Load Average](http://www.linuxjournal.com/article/9001?page=0,1) A practical interpretation of Linux's load averages but also illuminates some of the dark mathematical shadows behind them 
+- [The many load averages of Unix(es)](https://utcc.utoronto.ca/~cks/space/blog/unix/ManyLoadAveragesOfUnix)
 
 ### htop
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
@@ -319,6 +320,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Use &quot;iotop&quot; command for measuring hard disk I/O (current read/write) usage per application on Linux. For more info <a href="https://t.co/2TZ2rYHdpq">https://t.co/2TZ2rYHdpq</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/696293052793491457">febrero 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The many load averages of Unix(es) <a href="https://t.co/7CWPcIc5CK">https://t.co/7CWPcIc5CK</a> <a href="https://twitter.com/hashtag/Unix?src=hash">#Unix</a> <a href="https://twitter.com/hashtag/FreeBSD?src=hash">#FreeBSD</a> <a href="https://twitter.com/hashtag/OpenBSD?src=hash">#OpenBSD</a> <a href="https://twitter.com/hashtag/NetBSD?src=hash">#NetBSD</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/GoodReads?src=hash">#GoodReads</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700151524119310336">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Glances

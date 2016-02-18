@@ -15,6 +15,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Greg&#39;s BASH FAQ is a great place for BASH questions and teaches you &quot;the right way&quot; to do things. <a href="https://t.co/nP2EdOBwsJ">https://t.co/nP2EdOBwsJ</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/699383729395884032">February 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">jq is a command line processor for JSON data. <a href="https://t.co/r1GmmzXMLL">https://t.co/r1GmmzXMLL</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/700209161813037056">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">curl &#39;<a href="https://t.co/5Eu3Bbah5L">https://t.co/5Eu3Bbah5L</a>&#39; -o &quot;trip#1.jpg&quot; # Download images named IMG_0001.jpg through IMG_0105.jpg and save with different name.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/699476595673845761">February 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -34,6 +37,12 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="http://t.co/oqvwmPKo02">http://t.co/oqvwmPKo02</a> - list all file extensions in a directory (cp) <a href="https://twitter.com/hashtag/uniq?src=hash">#uniq</a> <a href="https://twitter.com/hashtag/ls?src=hash">#ls</a> <a href="https://twitter.com/hashtag/grep?src=hash">#grep</a></p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/615159728331591681">junio 28, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&#39;t&#39; is for sticky &amp; &#39;t&#39; is for /tmp/. Lose sticky permission on /tmp/ &amp; see world burning. The correct perms:<br><br>chmod 1777 /tmp<a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700271274971439104">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">apropos is a useful utility when you don&#39;t know which man page it is you need on. Find command that remove file:<br><br>apropos remove<br>man -k word</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700277112985382912">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 - Make your prompt safer with # so that if you accidentally copy & paste it, it doesn't run. 🌟🌟🌟🌟🌟

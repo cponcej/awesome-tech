@@ -13,6 +13,7 @@
     - [Oracle via Ansible](#oracle-via-ansible)
     - [Elasticsearch via Ansible](#elasticsearch-via-ansible)
     - [Provisioning Docker containers with Ansible](#provisioning-docker-containers-with-ansible)
+    - [Network Automation with Ansible](#network-automation-with-ansible)
 
 <!-- /MarkdownTOC -->
 
@@ -150,5 +151,29 @@
 
 ## Provisioning Docker containers with Ansible
 - [ibm.com: Provisioning Docker containers with Ansible](https://www.ibm.com/developerworks/cloud/library/cl-provision-docker-containers-ansible/)
+
+## Network Automation with Ansible
+- [ansible.com/networks](https://www.ansible.com/networks)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat Brings DevOps to the Network with New Ansible Capabilities  <a href="https://t.co/QKPt4K6Eqk">https://t.co/QKPt4K6Eqk</a></p>&mdash; Ansible (@ansible) <a href="https://twitter.com/ansible/status/700261052794142720">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Network Automation with <a href="https://twitter.com/ansible">@ansible</a> it&#39;s easy if you try.... <a href="https://t.co/VZVJSmUDqs">https://t.co/VZVJSmUDqs</a> <a href="https://twitter.com/hashtag/netdevops?src=hash">#netdevops</a></p>&mdash; CumulusNetworks (@CumulusNetworks) <a href="https://twitter.com/CumulusNetworks/status/700280050554265600">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why Ansible + Network <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://t.co/bLaaCFRatv">pic.twitter.com/bLaaCFRatv</a></p>&mdash; tbarr (@tbarr) <a href="https://twitter.com/tbarr/status/700259062278131712">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Peter Sprygada talks about the new <a href="https://twitter.com/hashtag/Ansible?src=hash">#Ansible</a> <a href="https://twitter.com/hashtag/network?src=hash">#network</a> support at <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> - just look at the list!  <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://t.co/H66eV5a7Fn">pic.twitter.com/H66eV5a7Fn</a></p>&mdash; liquidat (@liquidat) <a href="https://twitter.com/liquidat/status/700261315219210240">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Network testing playbooks available in Ansible GitHub <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://t.co/oF5OQgY8VH">pic.twitter.com/oF5OQgY8VH</a></p>&mdash; tbarr (@tbarr) <a href="https://twitter.com/tbarr/status/700263234604023808">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The future of <a href="https://twitter.com/hashtag/Tower?src=hash">#Tower</a> will improve support for huge scale installations. <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://t.co/jlxv5DkpXs">pic.twitter.com/jlxv5DkpXs</a></p>&mdash; liquidat (@liquidat) <a href="https://twitter.com/liquidat/status/700274786728022017">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ansible 2.0 Windows automation is better and faster than 1.x. Time to upgrade <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://t.co/7YUxLRAuLX">pic.twitter.com/7YUxLRAuLX</a></p>&mdash; tbarr (@tbarr) <a href="https://twitter.com/tbarr/status/700285887947603968">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/jjKfzzzhxu5DrcjAf25xLg/138976713666" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://yourreactiongifs.tumblr.com/post/138976713666">http://yourreactiongifs.tumblr.com/post/138976713666</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
