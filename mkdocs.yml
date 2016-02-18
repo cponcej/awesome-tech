@@ -65,5 +65,5 @@ markdown_extensions:
         permalink: True
     - admonition:
 
-copyright: Copyright &copy; 2016 <a href="https://twitter.com/RedHatSpain">Red Hat Spain</a>, <a href="http://awesome-tech.readthedocs.org/">awesome-tech.readthedocs.org</a>.
+copyright: Copyright &copy; 2016 <a href="https://twitter.com/RedHatSpain">Red Hat Spain</a>, <a href="http://about.me/inafev">about.me</a>.
 google_analytics: ['UA-71528100-1', 'awesome tech']
