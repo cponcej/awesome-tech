@@ -270,11 +270,6 @@
 - [middlewareblog.redhat.com: Containers, cloud, and Java apps: A new video on development stacks 🌟](http://middlewareblog.redhat.com/2016/02/17/containers-cloud-and-java-apps/)
 
 <div class="container">
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
