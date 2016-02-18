@@ -377,6 +377,7 @@
 - [Query JSON using SQL with Couchbase Query Workbench](http://www.javacodegeeks.com/2016/01/query-json-using-sql-couchbase-query-workbench.html)
 - [DZone: The Importance of a Data Format: Part 1 — Current State Problems](https://dzone.com/articles/the-importance-of-a-data-format-part-i-current-sta) JSON is a really simple format. It's very easy to work with it, interchange it, read it, etc. However, JSON also has a few major issues.
 - [Querying JSON in Postgres](http://schinckel.net/2014/05/25/querying-json-in-postgres/) Good read for anyone storing jsonb data in postgresql
+- [jq is a lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/) jq is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
 
 ### Mozilla Tools
 - [developer.mozilla.org](https://developer.mozilla.org/)
