@@ -1,5 +1,10 @@
 site_name: Awesome Tech
 site_url: http://awesome-tech.readthedocs.org
+site_description: A curated list of awesome IT projects and resources. Inspired by the awesome list.
+site_author: inafev
+
+repo_url: https://github.com/inafev/awesome-tech
+
 theme: readthedocs
 extra_css: 
 - extra.css
@@ -54,3 +59,11 @@ pages:
 - E-Learning: e-learning.md
 - Quote: mkeiser.md
 - About: about.md
+
+markdown_extensions:
+    - toc:
+        permalink: True
+    - admonition:
+
+copyright: Copyright &copy; 2016 <a href="https://twitter.com/inafev">inafev</a>, <a href="http://awesome-tech.readthedocs.org/">inafev</a>.
+google_analytics: ['UA-71528100-1', 'awesome-tech.readthedocs.org']
