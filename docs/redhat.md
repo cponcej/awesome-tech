@@ -71,6 +71,7 @@
 	- [A big step forward in business Linux: Red Hat Enterprise Linux 7 arrives](http://www.zdnet.com/article/a-big-step-forward-in-business-linux-red-hat-enterprise-linux-7-arrives/)
 - [Product documentation](https://access.redhat.com/documentation/en/)
 - [State of the Red Hat Union is Secure. An exciting year ahead, from containeres to mobile](http://www.redhat.com/en/about/blog/state-red-hat-union-secure)
+- [How to Setup and Configure Network Bonding or Teaming in RHEL/CentOS 7](http://www.tecmint.com/configure-network-bonding-or-teaming-in-rhel-centos-7/)
 
 [![rhel 5,6,7 cheatsheet](images/rhel567_cheatsheet.png)](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
 
@@ -209,14 +210,15 @@
 - [planet.jboss.org: This week in JBoss (11th January 2016): New Beginnings!](http://planet.jboss.org/post/this_week_in_jboss_11th_january_2016_new_beginnings)
 
 ### JBoss Blogs
+- [middlewareblog.redhat.com 🌟](http://middlewareblog.redhat.com)
 - [docs.jboss.org](http://docs.jboss.org )
 - [community.jboss.org](https://community.jboss.org )
 - [blog.eisele.net: Enterprise Software Development with Java](http://blog.eisele.net/)
 - [JBoss Developer](https://developer.jboss.org/)
 - [Planet JBoss](http://planet.jboss.org/)
 - [JBoss Issue Tracker](https://issues.jboss.org)
-- [middlewaresnippets.blogspot.com](http://middlewaresnippets.blogspot.com)
-- [developerblog.redhat.com - JBoss](http://developerblog.redhat.com/tag/jboss/)
+- [middlewaresnippets.blogspot.com 🌟](http://middlewaresnippets.blogspot.com)
+- [developerblog.redhat.com - JBoss  🌟](http://developerblog.redhat.com/tag/jboss/)
 - [schabell.org - Eric D. Schabell's blog](http://www.schabell.org)
 - [JBoss Tutotials - JBoss training courses](http://www.mastertheboss.com/)
 
@@ -265,9 +267,15 @@
 	- [Java EE 7 Samples on GitHub](https://github.com/javaee-samples/javaee7-samples)
 	- [Getting Started With The JBoss EAP 7 Quickstarts](http://blog.eisele.net/2015/12/getting-started-with-jboss-eap-7.html)
 	- [Red Hat JBoss Engineers about Java EE, Container, Microservices and Testing](http://blog.eisele.net/2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html)
+- [middlewareblog.redhat.com: Containers, cloud, and Java apps: A new video on development stacks 🌟](http://middlewareblog.redhat.com/2016/02/17/containers-cloud-and-java-apps/)
 
 <div class="container">
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
