@@ -80,6 +80,11 @@ ________________________________________________________________________________
 
 [![Recession. Countries by GDP per Capita in 2014](images/Countries_by_GDP_Per_Capita_in_2014.png)](https://en.wikipedia.org/wiki/Recession)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kRtBgGE5kQw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![OECD Data: Household debt](images/oecd_household_debt.png)](https://data.oecd.org)
 
 ![OECD Data: Household disposable income](images/oecd_household_disposable_income.png)
