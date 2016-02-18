@@ -146,6 +146,8 @@
 - [Deploying to the Oracle Java Cloud Service using FlexDeploy](http://flexagon.com/2015/07/deploying-to-the-oracle-java-cloud-service-using-flexdeploy/)
 - [javacodegeeks.com: Weblogic Server Administration Tutorial](http://examples.javacodegeeks.com/core-java/weblogic-server-administration-tutorial/)
 - [Automated Software Testing of Fusion Middleware applications with FlexDeploy](http://adfpractice-fedor.blogspot.com.br/2015/10/automated-software-testing-of-fusion.html)
+- [WLSDM | Native WebLogic Smart Dashboard & Monitoring](http://www.wlsdm.com) WLSDM is a WebLogic console extension which enables monitoring for WebLogic MBean metrics. It is very easy to create alarms and notifications by using WLSDM metric browser. WLSDM can store any WebLogic metric values historically and also can generate graphical reports.
+	- [Advanced WebLogic Monitoring: Develop JMX MBeans and Automate with WLSDM Metric Actions 🌟](http://www.wlsdm.com/tutorials/advanced-weblogic-monitoring-develop-jmx-mbeans-and-automate-with-wlsdm-metric-actions/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/tUDLzhM0sgSgcp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FrankMunz1/12-things-you-should-know-about-weblogic-server-1221-oow2015" title="12 Things You Should Know About WebLogic Server 12.2.1 #oow2015 " target="_blank">12 Things You Should Know About WebLogic Server 12.2.1 #oow2015 </a> </strong> from <strong><a href="//www.slideshare.net/FrankMunz1" target="_blank">Frank Munz</a></strong> </div>
