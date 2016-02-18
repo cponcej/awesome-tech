@@ -1,5 +1,6 @@
 site_name: Awesome Tech
 site_url: http://awesome-tech.readthedocs.org
+theme: readthedocs
 extra_css: 
 - extra.css
 extra_javascript:
