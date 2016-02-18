@@ -130,6 +130,11 @@
 
 [![What makes an employee highly engaged](images/What-makes-an-employee-highly-engaged.jpg)](http://www.callcentre.co.uk/engage-contact-centre-staff-boost-productivity/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kRtBgGE5kQw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
