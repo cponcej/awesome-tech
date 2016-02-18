@@ -130,7 +130,6 @@
 - [Safe Mode Thunderbird](https://support.mozilla.org/en-US/kb/safe-mode-thunderbird)
 - [Configurar correo de Office 365 en Mozilla Thunderbird](http://blog.jgaitpro.com/configurar-correo-de-office-365-en-mozilla-thunderbird/)
 
-
 ### Thunderbird Extensions
 - [Provider for Google Calendar](https://addons.mozilla.org/thunderbird/addon/provider-for-google-calendar)
 - [gContactSync](https://addons.mozilla.org/thunderbird/addon/gcontactsync/)
