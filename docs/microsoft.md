@@ -7,6 +7,8 @@
 
 ![bill gates chooses lazy person](images/bill_gates_lazy.jpg)
 
+[![azure rhel](images/azure_rhel.png)](http://betanews.com/2016/02/18/rhel-azure-marketplace/)
+
 # Microsoft
 - [zdnet: Linux and open source have won, get over it](http://www.zdnet.com/article/linux-and-open-source-have-won-get-over-it/) 2015 was the year Linux and open-source software took over the IT world, but many open-source and proprietary software fans still haven't figured it out.
 - [SSH for Windows open sourced by Microsoft. What's going on?](https://github.com/PowerShell/Win32-OpenSSH)
