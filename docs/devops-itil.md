@@ -216,6 +216,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to build a visual, shared editorial calendar &amp; content management system <a href="https://t.co/LgmtS0WOtO">https://t.co/LgmtS0WOtO</a> <a href="https://t.co/aYYKruFA7q">pic.twitter.com/aYYKruFA7q</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/699367622857531392">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Warning: Things are about to get dangerously productive with this board of <a href="https://twitter.com/hashtag/TrelloTips?src=hash">#TrelloTips</a> <a href="https://t.co/ZhwopBgAhj">https://t.co/ZhwopBgAhj</a> <a href="https://t.co/irysVm5Qh7">pic.twitter.com/irysVm5Qh7</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/700417017937985537">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
 <div class="container">
