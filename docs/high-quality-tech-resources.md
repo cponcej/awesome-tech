@@ -314,6 +314,7 @@
 ### Non IT related podcasts
 - [The Stitcher List. What the World is Listening to Now](http://www.stitcher.com/stitcher-list/)
 	- [Freakonomics radio 🌟](http://www.stitcher.com/podcast/wnyc/freakonomics-radio)
+		- [The True Story of the Gender Pay Gap](http://www.stitcher.com/podcast/wnyc/freakonomics-radio/e/the-true-story-of-the-gender-pay-gap-41957500)
 	- [Reuters top news](http://www.stitcher.com/podcast/reuters/top-news)
 	- [Planet money](http://www.stitcher.com/podcast/national-public-radio/npr-planet-money-podcast)
 
