@@ -75,13 +75,14 @@
 ## Linux and FOSS Blogs and Forums
 
 ### Best Linux Blogs
-- [Tecmint.com Linux Howto's Guide](http://www.tecmint.com/)
-	- [Linux Distributions](http://www.tecmint.com/best-linux-distributions/)
-- [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog](http://www.cyberciti.biz/)
-- [Sysadmincasts.com](http://sysadmincasts.com)
+- [Tecmint.com Linux Howto's Guide  🌟🌟🌟🌟🌟](http://www.tecmint.com/)
+	- [Linux Distributions 🌟🌟🌟](http://www.tecmint.com/best-linux-distributions/)
+- [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog  🌟🌟🌟🌟🌟](http://www.cyberciti.biz/)
+- [Sysadmincasts.com  🌟🌟🌟](http://sysadmincasts.com)
 	- [Episode Guide](https://sysadmincasts.com/episode-guide)
-- [commandlinefu.com](http://commandlinefu.com/)
+- [commandlinefu.com  🌟🌟🌟](http://commandlinefu.com/)
 - [Linux Skill Youtube Channel](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
+- [linuxnix.com 🌟🌟🌟](http://www.linuxnix.com)
 - [Linux Home Networking | Tutorials and Forums](http://www.linuxhomenetworking.com/)
 - [Linuxadmin 'subreddit'](https://www.reddit.com/r/linuxadmin)
 - [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
