@@ -108,13 +108,6 @@
 ## API and Documentation Generators
 - [dzone: The Hard Work When it Comes to Defining APIs 🌟](https://dzone.com/articles/the-hard-work-when-it-comes-to-defining-apis)
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface 🌟🌟🌟🌟](http://devdocs.io)
-- [mkdocs.org](http://www.mkdocs.org)
-    - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
-    	- [mkdocs.readthedocs.org](https://mkdocs.readthedocs.org)
-        - [Readthedocs in Docker](https://github.com/moul/docker-readthedocs) A Docker container of Readthedocs (RTD)
-	    - [Configuration of the production servers](https://github.com/rtfd/readthedocs.org/blob/master/docs/rtfd.rst)
-	- [mkdocs.org release notes](http://www.mkdocs.org/about/release-notes)
-	- [mkdocs.org: Styling your docs](http://www.mkdocs.org/user-guide/styling-your-docs/#built-in-themes)
 - [Learn it Faster: The Entire JavaScript Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-javascript-language-in-a-single-image/)
 - [Learn it Faster: The Entire Python Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/)
 
@@ -344,7 +337,13 @@
 - [Top Open-Source Static Site Generators 🌟🌟🌟](https://www.staticgen.com/)
 - [Static Site Generators 🌟](https://staticsitegenerators.net) The definitive listing of Static Site Generators 
 - [pages.github.com](https://pages.github.com)
-- [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
+- [mkdocs.org](http://www.mkdocs.org)
+    - [ReadtheDocs.org - Create, host, and browse documentation](https://readthedocs.org/)
+    	- [mkdocs.readthedocs.org](https://mkdocs.readthedocs.org)
+        - [Readthedocs in Docker](https://github.com/moul/docker-readthedocs) A Docker container of Readthedocs (RTD)
+	    - [Configuration of the production servers](https://github.com/rtfd/readthedocs.org/blob/master/docs/rtfd.rst)
+	- [mkdocs.org release notes](http://www.mkdocs.org/about/release-notes)
+	- [mkdocs.org: Styling your docs](http://www.mkdocs.org/user-guide/styling-your-docs/#built-in-themes)
 - [gohugo.io](https://gohugo.io)
 
 [![jekyll static generator](images/jekyll.png)](http://formkeep.wpengine.com/?p=7)
