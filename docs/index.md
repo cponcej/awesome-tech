@@ -48,6 +48,9 @@
 	- [Amazon Web Services 🌟🌟](aws.md)
 16. [Desktop Tools and Presentations](desktop-tools.md)
 17. [E-Learning 🌟🌟🌟](e-learning.md)
+18. [Economy](economy.md)
+    - [Live News](live-news.md)
+    - [Quote](mkeiser.md)
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
