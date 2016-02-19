@@ -5,8 +5,6 @@
 <div id="player"></div>
 </div>
 
-![michael jordan](images/air_jordan.gif)
-
 **Table of Contents**
 
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)
