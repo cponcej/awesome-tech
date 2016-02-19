@@ -2,8 +2,10 @@
 <!-- MarkdownTOC -->
 
 - [Economy](#economy)
+    - [Cost of living](#cost-of-living)
     - [Charts and tweets](#charts-and-tweets)
-    - [Economy related links](#economy-related-links)
+    - [Miscellaneous](#miscellaneous)
+    - [IT](#it)
     - [Referencias](#referencias)
     - [Business process improvement](#business-process-improvement)
     - [Economy Videos](#economy-videos)
@@ -15,6 +17,31 @@
 
 
 # Economy
+- [World Economic Forum](http://www.weforum.org/)
+- [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
+- [OECD Job quality 🌟🌟🌟🌟](http://www.oecd.org/statistics/job-quality.htm)
+- [data.oecd.org](https://data.oecd.org)
+    - [twitter.com/OECD 🌟🌟🌟🌟](https://twitter.com/OECD)
+    - [twitter.com/OECD_Centre](https://twitter.com/OECD_Centre) 
+    - [twitter.com/OECDEduSkills](https://twitter.com/OECDEduSkills)
+    - [twitter.com/OECDinnovation](https://twitter.com/OECDinnovation) 
+    - [twitter.com/OECDeconomy](https://twitter.com/OECDeconomy)
+    - [twitter.com/OECD_Pubs](https://twitter.com/OECD_Pubs)
+    - [twitter.com/OECD_Stat](https://twitter.com/OECD_Stat)
+    - [twitter.com/OECD_Social](https://twitter.com/OECD_Social) 
+    - [twitter.com/ocdeenespanol](https://twitter.com/ocdeenespanol)
+- [PositiveMoney.org 🌟](http://positivemoney.org)
+- [Economy of Spain](https://en.wikipedia.org/wiki/Economy_of_Spain)
+- [FT chart of the day: real wages in the US, Germany, UK and Spain since the crisis](http://blogs.ft.com/ftdata/2014/12/08/datawatch-real-wages-since-the-crisis/)
+- [All of the World’s Money and Markets in One Visualization 🌟🌟](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
+- [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)
+
+## Cost of living
+- [Cost of living database 🌟](http://www.numbeo.com/cost-of-living/)
+- [Global house prices 🌟](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
+- [Property in San Francisco](http://www.economist.com/news/united-states/21677989-capital-disruption-fears-it-may-be-experiencing-too-much-golden-gates)
+- [Why are house prices cheaper today than ever before?](https://contrarianstraighttalker.wordpress.com/2015/10/18/why-are-house-prices-cheaper-today-than-ever-before-2/)
+
 ## Charts and tweets
 
 [![global house prices economist](images/global-house-prices-economist.png)](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
@@ -143,56 +170,34 @@
 
 [![OECD poverty rates](images/oecd_poverty_rates.png)](http://www.keepeek.com/Digital-Asset-Management/oecd/employment/in-it-together-why-less-inequality-benefits-all_9789264235120-en#page57)
 
-## Economy related links
-
-- [PositiveMoney.org 🌟](http://positivemoney.org)
-- [The World Press Photo 🌟](http://www.worldpressphoto.org)
-	- [2015 Multimedia Contest 🌟](http://www.worldpressphoto.org/collection/mm/2015)
-- [OECD Job quality 🌟🌟🌟🌟](http://www.oecd.org/statistics/job-quality.htm)
-- [data.oecd.org](https://data.oecd.org)
-	- [twitter.com/OECD 🌟🌟🌟🌟](https://twitter.com/OECD)
-	- [twitter.com/OECD_Centre](https://twitter.com/OECD_Centre) 
-	- [twitter.com/OECDEduSkills](https://twitter.com/OECDEduSkills)
-	- [twitter.com/OECDinnovation](https://twitter.com/OECDinnovation) 
-	- [twitter.com/OECDeconomy](https://twitter.com/OECDeconomy)
-	- [twitter.com/OECD_Pubs](https://twitter.com/OECD_Pubs)
-	- [twitter.com/OECD_Stat](https://twitter.com/OECD_Stat)
-	- [twitter.com/OECD_Social](https://twitter.com/OECD_Social) 
-	- [twitter.com/ocdeenespanol](https://twitter.com/ocdeenespanol)
-- [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
+## Miscellaneous
 - [Real Time Economics twitter.com/WSJecon](https://twitter.com/WSJecon)
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
-- [Economy of Spain](https://en.wikipedia.org/wiki/Economy_of_Spain)
-- [FT chart of the day: real wages in the US, Germany, UK and Spain since the crisis](http://blogs.ft.com/ftdata/2014/12/08/datawatch-real-wages-since-the-crisis/)
-- [Cost of living database 🌟](http://www.numbeo.com/cost-of-living/)
-- [Global house prices 🌟](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
+- [tradingview.com/widget](https://www.tradingview.com/widget)
 - [Why Londoners are worse off than any other British region since 2008](http://www.economist.com/news/britain/21688435-those-living-london-seem-have-fared-well-crisis-fact-their-ludicrously)
-- [Property in San Francisco](http://www.economist.com/news/united-states/21677989-capital-disruption-fears-it-may-be-experiencing-too-much-golden-gates)
-- [Why are house prices cheaper today than ever before?](https://contrarianstraighttalker.wordpress.com/2015/10/18/why-are-house-prices-cheaper-today-than-ever-before-2/)
-- [These 10 cities have the fastest-growing startup scenes — and neither New York nor Silicon Valley made the cut](http://www.businessinsider.com/us-cities-with-fastest-growing-startup-scenes-2016-1)
-- [All of the World’s Money and Markets in One Visualization 🌟🌟](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
 - [uk.businessinsider.com: Animated map shows the history of immigration to the US](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 - [flowingdata.com: American Immigration history](http://flowingdata.com/2016/01/12/immigration-history/)
 - [Irish biggest losers from financial crash - ECB 🌟](http://www.irishtimes.com/business/economy/irish-biggest-losers-from-financial-crash-ecb-1.2398588)
-- [Britain is heading for another 2008 crash: here’s why](http://www.theguardian.com/commentisfree/2015/oct/28/2008-crash-government-economic-growth-budgetary-surplus)
 - [Educated Greeks show highest rate of unemployment in OECD](http://www.ekathimerini.com/203808/article/ekathimerini/news/educated-greeks-show-highest-rate-of-unemployment-in-oecd)
-- [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good 🌟🌟](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
-- [The Economist. The other side of paradise](http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise) Glamorous tech startups can be brutal places for workers
-- [businessinsider.com: The 13 worst things about Silicon Valley](http://www.businessinsider.com/the-dark-side-of-silicon-valley-2016-1)
-- [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)
+- [Britain is heading for another 2008 crash: here’s why](http://www.theguardian.com/commentisfree/2015/oct/28/2008-crash-government-economic-growth-budgetary-surplus)
 - [How does corruption in Africa really compare to OECD countries? Anti-Fraud & Corruption Law in Africa](http://africanantifraud.com/2016/01/20/circles-of-corruption-how-does-africa-stack-up-against-the-oecd/)
-- [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
 - [The General Theory of Employment, Interest and Money. John Maynard Keynes](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money)
 - [Thomas Piketty’s “Capital”, summarised in four paragraphs](http://www.economist.com/blogs/economist-explains/2014/05/economist-explains)
 - [Debt: The First 5000 Years. David Graeber](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years)
 - [The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era. Jeremy Rifkin](https://en.wikipedia.org/wiki/The_End_of_Work)
 - [blogs.wsj.com: Six Years Later, 93% of U.S. Counties Haven’t Recovered From Recession, Study Finds](http://blogs.wsj.com/economics/2016/01/12/six-years-later-93-of-u-s-counties-havent-recovered-from-recession-study-finds/)
 - [businessinsider.com: Watch 1,400 US workers learn their jobs are moving to Mexico](http://www.businessinsider.com/carrier-workers-learn-jobs-are-moving-to-mexico-2016-2)
-- [Laid-off IT workers muzzled as H-1B debate heats up](http://www.cio.com/article/3027539/outsourcing/laid-off-it-workers-muzzled-as-h-1b-debate-heats-up.html)
 - [economist.com: The future of jobs. The onrushing wave.](http://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less) Previous technological innovation has always delivered more long-run employment, not less. But things can change
 - [economist.com: Youth unemployment is a massive waste of resources 🌟](http://www.economist.com/news/special-report/21688588-youth-unemployment-massive-waste-resources-walled-world-work)
 - [theguardian.com: Each generation should be better off than their parents? Think again 🌟](http://www.theguardian.com/business/2016/feb/14/economics-viewpoint-baby-boomers-generation-x-generation-rent-gig-economy)
-- [tradingview.com/widget](https://www.tradingview.com/widget)
+
+## IT
+- [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
+- [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good 🌟🌟](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
+- [These 10 cities have the fastest-growing startup scenes — and neither New York nor Silicon Valley made the cut](http://www.businessinsider.com/us-cities-with-fastest-growing-startup-scenes-2016-1)
+- [The Economist. The other side of paradise](http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise) Glamorous tech startups can be brutal places for workers
+- [businessinsider.com: The 13 worst things about Silicon Valley](http://www.businessinsider.com/the-dark-side-of-silicon-valley-2016-1)
+- [Laid-off IT workers muzzled as H-1B debate heats up](http://www.cio.com/article/3027539/outsourcing/laid-off-it-workers-muzzled-as-h-1b-debate-heats-up.html)
 
 ______________________________________________________________________________________________________________________________________
 
