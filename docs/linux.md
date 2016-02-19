@@ -76,11 +76,6 @@
 </div>
 <br/>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLVmO9TMtno?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 ## Linux and FOSS Blogs and Forums
 
 ### Best Linux Blogs
@@ -520,3 +515,8 @@
 
 # VirtualBox
 - [10 ways to get the most from VirtualBox](http://www.techrepublic.com/blog/10-things/10-ways-to-get-the-most-from-virtualbox/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLVmO9TMtno?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
