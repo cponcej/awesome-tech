@@ -40,6 +40,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cutting costs could be costing you money <a href="https://t.co/xldpR0lDY2">https://t.co/xldpR0lDY2</a> <a href="https://twitter.com/hashtag/innovation?src=hash">#innovation</a> <a href="https://twitter.com/hashtag/ITWOB?src=hash">#ITWOB</a> <a href="https://t.co/FTDRrZUIAh">pic.twitter.com/FTDRrZUIAh</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/700579406947946496">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![CentOS logo](images/centos-logo.png)](https://www.centos.org/)
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
