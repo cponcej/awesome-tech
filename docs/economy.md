@@ -205,6 +205,7 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 
 ## Economy related links
 
+- [PositiveMoney.org 🌟](http://positivemoney.org)
 - [The World Press Photo 🌟](http://www.worldpressphoto.org)
 	- [2015 Multimedia Contest 🌟](http://www.worldpressphoto.org/collection/mm/2015)
 - [OECD Job quality 🌟🌟🌟🌟](http://www.oecd.org/statistics/job-quality.htm)
