@@ -105,6 +105,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Version control isn&#39;t just for programmers <a href="https://t.co/crPQTGPyiP">https://t.co/crPQTGPyiP</a> by <a href="https://twitter.com/monsterjavaguns">@monsterjavaguns</a> <a href="https://t.co/Bh7oGvWb20">pic.twitter.com/Bh7oGvWb20</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/700666648349376513">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You might want to hug this book: <a href="https://twitter.com/FunnelFiasco">@funnelfiasco</a> reviews &quot;Git for Teams&quot; <a href="https://t.co/9mnrQVBZL2">https://t.co/9mnrQVBZL2</a> <a href="https://t.co/wvoWJPWyKv">pic.twitter.com/wvoWJPWyKv</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/700234046941466625">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/fTXc4C0qukQZVI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners" title="Git 101: Git and GitHub for Beginners " target="_blank">Git 101: Git and GitHub for Beginners </a> </strong> from <strong><a href="//www.slideshare.net/HubSpot" target="_blank">HubSpot</a></strong> </div>
 </div>
