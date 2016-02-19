@@ -51,7 +51,7 @@
 18. [Economy](economy.md)
     - [Economy Videos](economy-videos.md)
     - [Live News](live-news.md)
-    - [World Press Photo](world-press-photo.md)
+    - [World Press Photo 🌟🌟🌟](world-press-photo.md)
     - [Quote](mkeiser.md)
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
