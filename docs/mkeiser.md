@@ -223,7 +223,7 @@ ________________________________________________________________________________
 - [Property in San Francisco](http://www.economist.com/news/united-states/21677989-capital-disruption-fears-it-may-be-experiencing-too-much-golden-gates)
 - [Why are house prices cheaper today than ever before?](https://contrarianstraighttalker.wordpress.com/2015/10/18/why-are-house-prices-cheaper-today-than-ever-before-2/)
 - [These 10 cities have the fastest-growing startup scenes — and neither New York nor Silicon Valley made the cut](http://www.businessinsider.com/us-cities-with-fastest-growing-startup-scenes-2016-1)
-- [All of the World’s Money and Markets in One Visualization](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
+- [All of the World’s Money and Markets in One Visualization 🌟🌟](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/)
 - [uk.businessinsider.com: Animated map shows the history of immigration to the US](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 - [flowingdata.com: American Immigration history](http://flowingdata.com/2016/01/12/immigration-history/)
 - [Irish biggest losers from financial crash - ECB 🌟](http://www.irishtimes.com/business/economy/irish-biggest-losers-from-financial-crash-ecb-1.2398588)
@@ -286,7 +286,7 @@ ________________________________________________________________________________
 	- [Misterio y magia en los mercados financieros (E833)](https://youtu.be/dekXrmppTUg)
 	- [La muerte del comercio mundial y sobredosis de heroína (E835)](https://youtu.be/1m_NODT6I8g)
 	- [Mentiras, evasivas, disparates, odios y esquizofrenia (E839)](https://youtu.be/yWoeZsZdaxs)
-	- [Época de recesiones (E840)](https://youtu.be/esnj2lfr4zA)
+	- [Época de recesiones (E840) 🌟](https://youtu.be/esnj2lfr4zA)
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
 - [Ser informático ya no es lo que era](http://www.readwriteweb.es/ser-informatico/)
 - [El sarcasmo de Niño Becerra con la economía española y su visión sobre la recesión mundial](http://www.bolsamania.com/noticias/economia/el-sarcasmo-de-nino-becerra-con-la-economia-espanola--1029719.html)
@@ -307,4 +307,4 @@ ________________________________________________________________________________
 [![15 documentaries on Netflix that will make you smarter about business](images/netflix_business_documentaries.png)](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
 
 - [15 documentaries on Netflix that will make you smarter about business](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
-- [The Italian Tech Sector Is Getting A Boost From Big U.S. Partners](http://techcrunch.com/2016/02/04/the-italian-tech-sector-is-getting-a-boost-from-big-u-s-partners)
+- [The Italian Tech Sector Is Getting A Boost From Big U.S. Partners 🌟](http://techcrunch.com/2016/02/04/the-italian-tech-sector-is-getting-a-boost-from-big-u-s-partners)
