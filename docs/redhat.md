@@ -338,3 +338,13 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/37yt7ES7lc1UGS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/red-hat-trends-and-technologie-december-2015" title="Red Hat Trends and Technologie December 2015" target="_blank">Red Hat Trends and Technologie December 2015</a> </strong> from <strong><a href="//www.slideshare.net/MariaDB" target="_blank">MariaDB</a></strong> </div>
 </div>
 <br/>
+
+[![Mastering CentOS 7](images/Mastering-CentOS-7-Linux-Server.png)](http://www.wowebook.org/mastering-centos-7-linux-server.html)
+
+[![CentOS 7 Linux Server Cookbook](images/CentOS-7-Linux-Server-Cookbook-2nd-Edition.png)](http://www.wowebook.org/centos-7-linux-server-cookbook-second-edition.html)
+
+[![CentOS High Performance](images/CentOS-High-Performance.png)](http://www.wowebook.org/centos-high-performance.html)
+
+[![Troubleshooting CentOS](images/Troubleshooting-CentOS.png)](http://www.wowebook.org/troubleshooting-centos.html)
+
+[![CentOS HA](images/CentOS-High-Availability.png)](http://www.wowebook.org/centos-high-availability.html)
