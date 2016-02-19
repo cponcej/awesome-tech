@@ -87,11 +87,6 @@
 <br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/s68uyoIvpVKMCy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sanss40/vlan-10706040" title="Vlan " target="_blank">Vlan </a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/sanss40">sanss40</a></strong> </div>
-</div>
-<br/>
-
-<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/Dtgipf6eTAR37G" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/malepaz14/vlans-11773196" title="Vlans" target="_blank">Vlans</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/malepaz14">malepaz14</a></strong> </div>
 </div>
 <br/>
