@@ -71,6 +71,16 @@
 - [Best Linux Distros For Newcomers](http://www.datamation.com/open-source/best-linux-distros-for-newcomers.html)
 - [Predictably, it is hard to make money from something that is free. That includes Linux](http://www.theworldin.com/article/12077/what-next-linux) Only one Linux company has made it big: Red Hat, which is expected to take about  $2 billion in its 2015 financial year, mostly by selling support services to users of the operating system and other open-source programs. The main beneficiaries of such software have been operators of huge data centres, such as Amazon, Facebook and Google, which wouldn’t be able to offer cheap cloud-computing services if they had to pay for the software.
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/XMm0HsmOTFI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLVmO9TMtno?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Linux and FOSS Blogs and Forums
 
 ### Best Linux Blogs

@@ -259,6 +259,16 @@
 
 [![developer python java](images/developer-python-java.png)](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WAy9mgEYb6o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pFyLUpCQK_4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Swift
 - [medium.com: 100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.2onig73ur)
 - [dzone: Using a C Library in Swift](https://dzone.com/articles/using-a-c-library-in-swift)
