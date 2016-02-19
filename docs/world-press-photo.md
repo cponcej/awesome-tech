@@ -15,8 +15,8 @@
 
 ## 2015 Multimedia Contest
 - [2015 Multimedia Contest](http://www.worldpressphoto.org/collection/mm/2015)
-- [Behind the Video of Eric Garner’s Deadly Confrontation With New York Police](http://time.com/3016326/eric-garner-video-police-chokehold-death/)
 - [The long night](http://mediastorm.com/publication/the-long-night)
+- [Behind the Video of Eric Garner’s Deadly Confrontation With New York Police](http://time.com/3016326/eric-garner-video-police-chokehold-death/)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/121705174" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe></div>
