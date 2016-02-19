@@ -200,10 +200,10 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 <br/>
 ______________________________________________________________________________________________________________________________________
 
-- [The World Press Photo](http://www.worldpressphoto.org)
+- [The World Press Photo 🌟](http://www.worldpressphoto.org)
 	- [2015 Multimedia Contest 🌟](http://www.worldpressphoto.org/collection/mm/2015)
 - [data.oecd.org](https://data.oecd.org)
-	- [twitter.com/OECD](https://twitter.com/OECD)
+	- [twitter.com/OECD 🌟🌟🌟🌟](https://twitter.com/OECD)
 	- [twitter.com/OECD_Centre](https://twitter.com/OECD_Centre) 
 	- [twitter.com/OECDEduSkills](https://twitter.com/OECDEduSkills)
 	- [twitter.com/OECDinnovation](https://twitter.com/OECDinnovation) 
@@ -217,8 +217,8 @@ ________________________________________________________________________________
 - [tradingeconomics.com/spain](http://www.tradingeconomics.com/spain/indicators)
 - [Economy of Spain](https://en.wikipedia.org/wiki/Economy_of_Spain)
 - [FT chart of the day: real wages in the US, Germany, UK and Spain since the crisis](http://blogs.ft.com/ftdata/2014/12/08/datawatch-real-wages-since-the-crisis/)
-- [Cost of living database](http://www.numbeo.com/cost-of-living/)
-- [Global house prices](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
+- [Cost of living database 🌟](http://www.numbeo.com/cost-of-living/)
+- [Global house prices 🌟](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
 - [Why Londoners are worse off than any other British region since 2008](http://www.economist.com/news/britain/21688435-those-living-london-seem-have-fared-well-crisis-fact-their-ludicrously)
 - [Property in San Francisco](http://www.economist.com/news/united-states/21677989-capital-disruption-fears-it-may-be-experiencing-too-much-golden-gates)
 - [Why are house prices cheaper today than ever before?](https://contrarianstraighttalker.wordpress.com/2015/10/18/why-are-house-prices-cheaper-today-than-ever-before-2/)
@@ -229,7 +229,7 @@ ________________________________________________________________________________
 - [Irish biggest losers from financial crash - ECB 🌟](http://www.irishtimes.com/business/economy/irish-biggest-losers-from-financial-crash-ecb-1.2398588)
 - [Britain is heading for another 2008 crash: here’s why](http://www.theguardian.com/commentisfree/2015/oct/28/2008-crash-government-economic-growth-budgetary-surplus)
 - [Educated Greeks show highest rate of unemployment in OECD](http://www.ekathimerini.com/203808/article/ekathimerini/news/educated-greeks-show-highest-rate-of-unemployment-in-oecd)
-- [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
+- [zdnet.com: 'It's a graveyard': The software devs leaving Greece for good 🌟🌟](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 - [The Economist. The other side of paradise](http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise) Glamorous tech startups can be brutal places for workers
 - [businessinsider.com: The 13 worst things about Silicon Valley](http://www.businessinsider.com/the-dark-side-of-silicon-valley-2016-1)
 - [uk.businessinsider.com: The 16 best countries in Europe if you want to get a job](http://uk.businessinsider.com/glassdoor-european-employment-rankings-201516-2015-12)
@@ -249,10 +249,10 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________
 
-- [Quince películas para entender la crisis](http://www.elmundo.es/cultura/2016/01/15/56991002e2704e61348b45cb.html)
+- [Quince películas para entender la crisis 🌟](http://www.elmundo.es/cultura/2016/01/15/56991002e2704e61348b45cb.html)
 	- [Margin Call quotes](http://www.imdb.com/title/tt1615147/quotes)
 - [La banca especula con instrumentos semejantes a los usados antes de la crisis](http://www.mundiario.com/articulo/a-fondo/banca-especulando-instrumentos-semejantes-utilizados-antes-crisis/20151031004951048655.html)
-- [José María Gay, el economista indignado](https://youtu.be/cby2vsK8O6k)
+- [José María Gay, el economista indignado 🌟](https://youtu.be/cby2vsK8O6k)
 - Keiser Report en español:
 	- [Una economía de casino (E715)](https://youtu.be/guLunFqJYw4)
 	- [Una economía momificada (E718)](https://youtu.be/4wZNfZ5j_Ck)
@@ -292,11 +292,11 @@ ________________________________________________________________________________
 - [El sarcasmo de Niño Becerra con la economía española y su visión sobre la recesión mundial](http://www.bolsamania.com/noticias/economia/el-sarcasmo-de-nino-becerra-con-la-economia-espanola--1029719.html)
 - [Economistas frente a la crisis](http://economistasfrentealacrisis.com/)
     - [Crisis generacional. Los jóvenes dejan de buscar empleo en España](http://economistasfrentealacrisis.com/crisis-generacional-los-jovenes-dejan-de-buscar-empleo-en-espana/) 
-- [¿Va a estallar Silicon Valley?](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
+- [¿Va a estallar Silicon Valley? 🌟](http://www.elmundo.es/tecnologia/2016/01/15/568f99eeca4741b7398b466f.html) "En realidad, me preocupa mucho más que España sufra por la falta de digitalización y de productividad que por su exceso"
 - [Desmontando los mitos sobre la inflación y la creación de dinero 🌟](http://eduardogarzon.net/desmontando-los-mitos-sobre-la-inflacion-y-la-creacion-de-dinero/)
 - [El gran desajuste: "Las empresas germanas son 16 veces más eficientes que los gigantes tecnológicos americanos generando empleo" 🌟🌟🌟](http://xavierferras.blogspot.com.es/2016/02/el-gran-desajuste.html)
 - [Capitalismo clientelista](https://es.wikipedia.org/wiki/Capitalismo_clientelista)
-- [“El clientelismo amenaza el futuro económico de España”](http://www.lavanguardia.com/ciencia/20160207/301978772341/clientelismo-corrupcion-amiguismo-economia-espanola.html)
+- [“El clientelismo amenaza el futuro económico de España” 🌟](http://www.lavanguardia.com/ciencia/20160207/301978772341/clientelismo-corrupcion-amiguismo-economia-espanola.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lynZYPTVelw" frameborder="0" allowfullscreen class="video"></iframe>
