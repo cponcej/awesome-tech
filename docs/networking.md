@@ -67,7 +67,32 @@
 - [reddit: Does a Trunk Port have to part of a VLAN?](https://www.reddit.com/r/networking/comments/3h8iwm/does_a_trunk_port_have_to_part_of_a_vlan/)
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/woUH1LrmGxdttE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rushikesh8880/vlan-57463204" title="VLAN" target="_blank">VLAN</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/rushikesh8880">rushikesh8880</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ewthrRXT9V8mb5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CYBERINTELLIGENTS/day-142-inter-vlan" title="Day 14.2 inter vlan" target="_blank">Day 14.2 inter vlan</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/CYBERINTELLIGENTS">CYBERINTELLIGENTS</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sSKbHqYwHg55WT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RamakantTyagi1/lan-vlan" title="Lan &amp; vlan" target="_blank">Lan &amp; vlan</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/RamakantTyagi1">Bharat Sanchar Nigam Limited</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/s68uyoIvpVKMCy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sanss40/vlan-10706040" title="Vlan " target="_blank">Vlan </a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/sanss40">sanss40</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/s68uyoIvpVKMCy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sanss40/vlan-10706040" title="Vlan " target="_blank">Vlan </a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/sanss40">sanss40</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Dtgipf6eTAR37G" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/malepaz14/vlans-11773196" title="Vlans" target="_blank">Vlans</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/malepaz14">malepaz14</a></strong> </div>
 </div>
 <br/>
 
