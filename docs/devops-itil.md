@@ -219,6 +219,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Warning: Things are about to get dangerously productive with this board of <a href="https://twitter.com/hashtag/TrelloTips?src=hash">#TrelloTips</a> <a href="https://t.co/ZhwopBgAhj">https://t.co/ZhwopBgAhj</a> <a href="https://t.co/irysVm5Qh7">pic.twitter.com/irysVm5Qh7</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/700417017937985537">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">At over 50% remote, here are some tools &amp; tips that help us manage our teams - <a href="https://t.co/epV8CRF7qU">https://t.co/epV8CRF7qU</a> <a href="https://t.co/N8i3h0VODy">pic.twitter.com/N8i3h0VODy</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/700749202591092737">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
 <div class="container">
