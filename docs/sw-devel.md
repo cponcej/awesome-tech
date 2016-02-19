@@ -286,7 +286,7 @@
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
 - [simple-talk.com: Script Loading between HTTP/1.1 and HTTP/2](https://www.simple-talk.com/dotnet/asp.net/script-loading-between-http1.1-and-http2/)
-- [developerblog.redhat.com - Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend](http://developerblog.redhat.com/2016/02/19/apps-101-an-absolute-beginners-guide-to-integrating-with-a-node-js-backend/)
+- [developerblog.redhat.com - Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend 🌟](http://developerblog.redhat.com/2016/02/19/apps-101-an-absolute-beginners-guide-to-integrating-with-a-node-js-backend/)
 
 ### Open Source Web Font Families
 - [Red Hat introduces new open source 'Overpass' Font (Web+TTF)](http://overpassfont.org/)
