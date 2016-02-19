@@ -40,6 +40,7 @@
 	- [Anaconda Analytics 🌟](anaconda.md)
 	- [Big Bang Data 🌟🌟🌟](bigbangdata.md)
 13. [Networking](networking.md)
+    - [Virtual LAN](VLAN.md)
     - [Next Generation Firewalls (NGFW)](NGFW.md)
 	- [Network Forensics 🌟](nw_forensics.md)
 14. [Servers, Storage and Backup](servers-storage-backup.md)
