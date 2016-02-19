@@ -8,6 +8,7 @@
     - [Business process improvement](#business-process-improvement)
     - [Economy Videos](#economy-videos)
     - [Live News](#live-news)
+    - [World Press Photo](#world-press-photo)
     - [Quote](#quote)
 
 <!-- /MarkdownTOC -->
@@ -264,6 +265,9 @@ ________________________________________________________________________________
 
 ## Live News
 - [Live News](live-news.md)
+
+## World Press Photo
+- [World Press Photo](world-press-photo.md)
 
 ## Quote
 - [Quote](mkeiser.md)
