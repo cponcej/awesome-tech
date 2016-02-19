@@ -14,9 +14,7 @@
 
 <!-- /MarkdownTOC -->
 
-
 # Servers, Storage and Backup
-
 ## Dell
 - [Dell Community](http://community.dell.com/)
 - [New PowerEdge R930: Powerful and reliable, ideal for customers migrating to more innovative x86 platforms from proprietary UNIX](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-r930-server)
@@ -78,6 +76,7 @@
 - [12 best NAS drives 2015/2016 UK: What's the best network storage you can buy in the UK?](http://www.pcadvisor.co.uk/test-centre/pc-peripheral/12-best-nas-drives-2015-2016-uk-3217608/)
 - [Soluciones de almacenamiento Flash Array basadas en Dell y en Supermicro](http://searchdatacenter.techtarget.com/feature/Rethinking-data-center-components-as-commodities)
 - [All Flash Buying Guide](http://www.infostor.com/disk-arrays/all-flash-buying-guide.html)
+- [opensource.com: 5 open source web app alternatives to Google Drive 🌟](https://opensource.com/life/15/12/5-open-source-web-apps-self-hosted)
 
 [![synology logo](images/synology_logo.jpg)](https://www.synology.com)
 
@@ -90,6 +89,9 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/biH5xgyj1vU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Need a self-hosted alternative to Google Drive? Check out these <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> options: <a href="https://t.co/VxgHUh6Kzd">https://t.co/VxgHUh6Kzd</a> <a href="https://t.co/kIq5YBmWWO">pic.twitter.com/kIq5YBmWWO</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/700591151191949313">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Linux LVM Logical Volume Management and FileSystems
 - [RHEL6 doc: LVM Administrator Guide](https://access.redhat.com/knowledge/docs/en-US/Red_Hat_Enterprise_Linux/6/html-single/Logical_Volume_Manager_Administration/index.html)
