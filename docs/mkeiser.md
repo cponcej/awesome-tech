@@ -211,6 +211,7 @@ ________________________________________________________________________________
 
 - [The World Press Photo 🌟](http://www.worldpressphoto.org)
 	- [2015 Multimedia Contest 🌟](http://www.worldpressphoto.org/collection/mm/2015)
+- [OECD Job quality 🌟🌟🌟🌟](http://www.oecd.org/statistics/job-quality.htm)
 - [data.oecd.org](https://data.oecd.org)
 	- [twitter.com/OECD 🌟🌟🌟🌟](https://twitter.com/OECD)
 	- [twitter.com/OECD_Centre](https://twitter.com/OECD_Centre) 
