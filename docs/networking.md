@@ -19,6 +19,11 @@
 
 ![michael jordan](images/air_jordan.gif)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YgGuK9cuSU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # Networking
 ## Next Generation Firewalls (NGFW)
 - [Next Generation Firewalls (NGFW)](NGFW.md)
