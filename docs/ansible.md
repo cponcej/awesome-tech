@@ -157,6 +157,9 @@
 ## Network Automation with Ansible
 - [ansible.com/networks](https://www.ansible.com/networks)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">. <a href="https://twitter.com/redhat">@RedHat</a> <a href="https://twitter.com/ansible">@Ansible</a> applies its IT automation capabilities to the network <a href="https://t.co/pjHwvSjlKx">https://t.co/pjHwvSjlKx</a></p>&mdash; The New Stack (@thenewstack) <a href="https://twitter.com/thenewstack/status/700391369190338560">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat Brings DevOps to the Network with New Ansible Capabilities  <a href="https://t.co/QKPt4K6Eqk">https://t.co/QKPt4K6Eqk</a></p>&mdash; Ansible (@ansible) <a href="https://twitter.com/ansible/status/700261052794142720">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -176,6 +179,15 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ansible 2.0 Windows automation is better and faster than 1.x. Time to upgrade <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://t.co/7YUxLRAuLX">pic.twitter.com/7YUxLRAuLX</a></p>&mdash; tbarr (@tbarr) <a href="https://twitter.com/tbarr/status/700285887947603968">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why Cisco loves <a href="https://twitter.com/ansible">@ansible</a> <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://t.co/SacP0DxZiH">pic.twitter.com/SacP0DxZiH</a></p>&mdash; tbarr (@tbarr) <a href="https://twitter.com/tbarr/status/700356782288293888">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cisco slide from <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> Better Together <a href="https://t.co/gD40Rka8t9">pic.twitter.com/gD40Rka8t9</a></p>&mdash; tbarr (@tbarr) <a href="https://twitter.com/tbarr/status/700356300815773696">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Moving to the <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> model and network automation. Read the blog: <a href="https://t.co/A63B0o7tY8">https://t.co/A63B0o7tY8</a> <a href="https://twitter.com/mscohen">@mscohen</a> <a href="https://twitter.com/shanecorban">@shanecorban</a> <a href="https://t.co/Vk15AMDcOT">pic.twitter.com/Vk15AMDcOT</a></p>&mdash; Cisco Cloud (@CiscoCloud) <a href="https://twitter.com/CiscoCloud/status/700354479498117120">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/jjKfzzzhxu5DrcjAf25xLg/138976713666" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://yourreactiongifs.tumblr.com/post/138976713666">http://yourreactiongifs.tumblr.com/post/138976713666</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>

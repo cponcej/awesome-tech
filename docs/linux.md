@@ -247,6 +247,7 @@
 - [A Shell Primer: Master Your Linux, OS X, Unix Shell Environment](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/)
 - [Monkeying around on the bash command line in 2016](http://www.computerworld.com/article/3018637/open-source-tools/monkeying-around-on-the-bash-command-line-in-2016.html)
 - [Linux/UNIX: Find Out If File Exists With Conditional Expressions](http://www.cyberciti.biz/tips/find-out-if-file-exists-with-conditional-expressions.html)
+- [Linux/UNIX Recursively Search All Files For A String](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
 
 ## Command line text manipulation tools 
 - [AWK](https://en.wikipedia.org/wiki/AWK)

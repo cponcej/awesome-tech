@@ -107,6 +107,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New SonicAlert: Microsoft Windows&amp;trade; OS HTTP User-Agents (1/29/2016) by <a href="https://twitter.com/DellSecurity">@DellSecurity</a> Threats Research: <a href="https://t.co/hkm4abXYd4">https://t.co/hkm4abXYd4</a></p>&mdash; Dell Security (@DellSecurity) <a href="https://twitter.com/DellSecurity/status/694192990206697472">febrero 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The best way to visualize encryption to those who don&#39;t understand it over the Internet. Key Exchange <a href="https://t.co/6fwikgx9jc">https://t.co/6fwikgx9jc</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700618789440782336">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 

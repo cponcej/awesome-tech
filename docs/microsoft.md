@@ -9,6 +9,9 @@
 
 [![azure rhel](images/azure_rhel.png)](http://betanews.com/2016/02/18/rhel-azure-marketplace/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RHEL?src=hash">#RHEL</a> is now available on-demand in the <a href="https://twitter.com/Azure">@Azure</a> Marketplace. Learn more: <a href="https://t.co/eubi8A09po">https://t.co/eubi8A09po</a>  <a href="https://t.co/t3gZ5FQZDO">https://t.co/t3gZ5FQZDO</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/700426316647108610">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Microsoft
 - [zdnet: Linux and open source have won, get over it](http://www.zdnet.com/article/linux-and-open-source-have-won-get-over-it/) 2015 was the year Linux and open-source software took over the IT world, but many open-source and proprietary software fans still haven't figured it out.
 - [SSH for Windows open sourced by Microsoft. What's going on?](https://github.com/PowerShell/Win32-OpenSSH)

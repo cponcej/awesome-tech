@@ -82,6 +82,9 @@
 
 [![Cloud computing goes hybrid as the norm](images/VMs_running_in_cloud.png)](http://www.zdnet.com/article/cloud-computing-goes-hybrid-as-the-norm-aws-vmware-azure-duke-it-out/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Google and Red Hat announce cloud-based scalable file servers <a href="https://t.co/qiF4RjlnHc">https://t.co/qiF4RjlnHc</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/cloudcomputing?src=hash">#cloudcomputing</a> <a href="https://t.co/ti6R5T5NGK">pic.twitter.com/ti6R5T5NGK</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700385625078308864">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Cloud Pricing
 - [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)
 	- [Amazon's AWS simple monthly calculator](http://calculator.s3.amazonaws.com/index.html)
