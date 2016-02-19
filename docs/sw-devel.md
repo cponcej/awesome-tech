@@ -286,6 +286,7 @@
 - [Ur/Web makes writing Web applications easier — and more secure](http://bostinno.streetwise.co/2014/12/23/urweb-new-programming-language-out-of-mit/)
 - [Hipster Ipsum, Artisanal filler text for your site or project](http://hipsum.co/)
 - [simple-talk.com: Script Loading between HTTP/1.1 and HTTP/2](https://www.simple-talk.com/dotnet/asp.net/script-loading-between-http1.1-and-http2/)
+- [developerblog.redhat.com - Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend](http://developerblog.redhat.com/2016/02/19/apps-101-an-absolute-beginners-guide-to-integrating-with-a-node-js-backend/)
 
 ### Open Source Web Font Families
 - [Red Hat introduces new open source 'Overpass' Font (Web+TTF)](http://overpassfont.org/)
@@ -332,6 +333,9 @@
 - [aprendiendo-javascript.readthedocs.org](http://aprendiendo-javascript.readthedocs.org)
 
 [![Hello World](images/hello_world.png)](https://twitter.com/nixcraft)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend <a href="https://t.co/vEbdJxG2mA">https://t.co/vEbdJxG2mA</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/700678314445271040">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### HTML5 and Static Site Generators vs Dynamic CMSs
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
