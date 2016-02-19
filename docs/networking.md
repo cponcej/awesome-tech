@@ -67,6 +67,11 @@
 - [reddit: Does a Trunk Port have to part of a VLAN?](https://www.reddit.com/r/networking/comments/3h8iwm/does_a_trunk_port_have_to_part_of_a_vlan/)
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/s68uyoIvpVKMCy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sanss40/vlan-10706040" title="Vlan " target="_blank">Vlan </a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/sanss40">sanss40</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GiGqRy5zgCM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
