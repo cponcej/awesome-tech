@@ -23,7 +23,7 @@
 - [Dell PowerEdge R930](http://www.dell.com/es/empresas/p/poweredge-r930/pd?~ck=anav)
 - [The Forecast for UNIX: Hazy and Overcast, so reach for your Umbrella and Red Hat](http://www.gartner.com/technology/media-products/newsletters/red_hat/vol2_issue1/index.html) Why Red Hat Enterprise Linux is the optimal choice when migrating from proprietary UNIX systems
 - [Dell launches PowerEdge entry-level servers for SMBs](http://www.infotechlead.com/networking/dell-launches-entry-level-servers-for-smbs-36295)
-- [Dell PowerEdge solutions for SMBs and suggested uses](http://blog.neweggbusiness.com/buying-guides/windows-server-2012-migration-dell-poweredge-solutions/)
+- [Dell PowerEdge solutions for SMBs and suggested uses 🌟](http://blog.neweggbusiness.com/buying-guides/windows-server-2012-migration-dell-poweredge-solutions/)
 - [Dell Announces 13th Generation PowerEdge Servers](http://www.mellanox.com/blog/2014/09/dell-announces-13th-generation-poweredge-servers/)
 - [storagereview.com Dell PowerEdge 13G R730 Server Review](http://www.storagereview.com/dell_poweredge_13g_r730_server_review)
 	- [Red Hat Enterprise Linux achieves 2-processor world record result on two-tier SAP® Sales and Distribution standard application benchmark](http://www.redhat.com/en/about/blog/red-hat-enterprise-linux-achieves-2-processor-world-record-result-two-tier-sap%C2%AE-sales-and-distribution-standard-application-benchmark)
