@@ -110,6 +110,7 @@
 - [agile-testing.tumblr.com 🌟](http://agile-testing.tumblr.com)
 - [keepcalmandprogram.tumblr.com](http://keepcalmandprogram.tumblr.com)
 - [forbes.tumblr.com 🌟](http://forbes.tumblr.com)
+- [reuters.tumblr.com 🌟](http://reuters.tumblr.com)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/iFjXucMPOIj7OILspk20NQ/139349373443" data-did="5dd8a6e68839131313adbfc57df3235ac774fc3f"><a href="http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a">http://devopsreactions.tumblr.com/post/139349373443/thinking-of-leaving-the-company-and-get-handed-a</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
