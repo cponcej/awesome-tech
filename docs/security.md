@@ -34,8 +34,9 @@
 		- [HTTPS Bicycle Attack](#https-bicycle-attack)
 		- [Backdoors](#backdoors)
 		- [Linode SSH](#linode-ssh)
-		- [Container security. Who’s fixing containers?](#container-security-who’s-fixing-containers)
+		- [glibc stack-based buffer overflow 🌟](#glibc-stack-based-buffer-overflow-🌟)
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
+		- [Container security. Who’s fixing containers?](#container-security-who’s-fixing-containers)
 
 <!-- /MarkdownTOC -->
 
@@ -292,14 +293,16 @@
 ### Linode SSH
 - [Linode SSH key blunder left virtual servers open to man-in-the-middle fiddles for months](http://www.theregister.co.uk/2016/02/09/linode_ssh_security/)
 
-### Container security. Who’s fixing containers?
-- [Container scanning: The thinnest of paper tigers](http://www.redhat.com/en/about/blog/container-scanning-thinnest-paper-tigers)
+### glibc stack-based buffer overflow 🌟
 - [Critical security flaw: glibc stack-based buffer overflow in getaddrinfo() (CVE-2015-7547) 🌟](https://access.redhat.com/articles/2161461)
 
 ## Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments
 - [techpageone.co.uk: Top security initiatives for 2016. Encryption is the new “minimum” security](http://www.techpageone.co.uk/technology-uk-en/top-security-initiatives-2016/)
 - [techpageone.co.uk: The top 5 IT security threats for 2016](http://www.techpageone.co.uk/technology-uk-en/top-5-security-threats-2016)
+
+### Container security. Who’s fixing containers?
+- [Container scanning: The thinnest of paper tigers](http://www.redhat.com/en/about/blog/container-scanning-thinnest-paper-tigers)
 
 
 [![hot potato windows privilege escalation](images/hot_potato.png)](http://foxglovesecurity.com/2016/01/16/hot-potato/)
