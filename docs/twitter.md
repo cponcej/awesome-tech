@@ -1,5 +1,6 @@
 <!-- MarkdownTOC -->
 
+- [Newsletters](#newsletters)
 - [Newsfeeds (RSS Readers)](#newsfeeds-rss-readers)
 	- [Feedly](#feedly)
 	- [Paper.li LinuxSec](#paperli-linuxsec)
@@ -60,6 +61,9 @@
 
 <!-- /MarkdownTOC -->
 
+
+# Newsletters
+- [keepupwithtechnology.com  🌟🌟🌟](http://www.keepupwithtechnology.com) Keeping up with technology made easier! This newsletter is a summary of the week's top content in the new technologies ecosystem. It helps you to discover new concepts, programming languages, frameworks, and to keep track of what is going on. It's aimed at innovators in the IT field or those trying to keep on top of the latest new technologies.
 
 # Newsfeeds (RSS Readers)
 - [Social Media Impact](http://socialmediaimpact.com/) The #1 Most Trusted Social Media News Site
