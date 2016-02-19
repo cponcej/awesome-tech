@@ -19,17 +19,17 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ULQiCN0YNmw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j4_tyEl84IQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aS6tNw3xi2o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ULQiCN0YNmw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
