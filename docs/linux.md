@@ -45,7 +45,6 @@
 
 <!-- /MarkdownTOC -->
 
-
 [![The most popular Linux distribution](images/most_popular_linux_distributions.png)](http://w3techs.com/technologies/details/os-linux/all/all)
 
 ![sysadmin no trabajar demasiado](images/sysadmin_no_trabajar_demasiado.png)

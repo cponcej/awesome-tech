@@ -49,6 +49,7 @@
 16. [Desktop Tools and Presentations](desktop-tools.md)
 17. [E-Learning 🌟🌟🌟](e-learning.md)
 18. [Economy](economy.md)
+    - [Economy Videos](economy-videos.md)
     - [Live News](live-news.md)
     - [Quote](mkeiser.md)
 
