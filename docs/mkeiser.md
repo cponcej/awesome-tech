@@ -80,7 +80,13 @@ ________________________________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Machines may replace half of human jobs <a href="https://t.co/eG4UM5H2KY">https://t.co/eG4UM5H2KY</a> <a href="https://t.co/wLEPMYJL0i">pic.twitter.com/wLEPMYJL0i</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/699604520414945281">febrero 16, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">There&#39;s a grim chart going around. And it&#39;s comparing the 08&#39; crash to today: <a href="https://t.co/Lfsb8nJkaA">https://t.co/Lfsb8nJkaA</a><a href="https://twitter.com/search?q=%24SPY&amp;src=ctag">$SPY</a> <a href="https://twitter.com/search?q=%24TLT&amp;src=ctag">$TLT</a> <a href="https://t.co/ggdYLYMfWt">pic.twitter.com/ggdYLYMfWt</a></p>&mdash; StockTwits (@StockTwits) <a href="https://twitter.com/StockTwits/status/700424616339075072">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Unemployment in the UK down by 60,000 between October and December to 1.69 million, latest figures show <a href="https://t.co/KkJBXmHt9m">https://t.co/KkJBXmHt9m</a></p>&mdash; BBC Breaking News (@BBCBreaking) <a href="https://twitter.com/BBCBreaking/status/699889334711951360">febrero 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries which have officially adopted metric system <a href="https://t.co/7JFA67A8BE">pic.twitter.com/7JFA67A8BE</a></p>&mdash; Terrible Maps (@TerribleMaps) <a href="https://twitter.com/TerribleMaps/status/695745094239023104">febrero 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Recession. Countries by GDP per Capita in 2014](images/Countries_by_GDP_Per_Capita_in_2014.png)](https://en.wikipedia.org/wiki/Recession)
@@ -164,6 +170,9 @@ ________________________________________________________________________________
 [![stocks in 2015](images/stocks_2015.png)](https://twitter.com/intlspectator)
 
 [![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US spends $640 billion on its military; more than China, Russia, Saudi, France, UK, India and Germany combined. <a href="https://t.co/YSHHIqWpBg">pic.twitter.com/YSHHIqWpBg</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/700417049864982529">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![top countries with the most people living overseas](images/top_countries_with_most_people_living_overseas.png)](http://www.forbes.com/sites/niallmccarthy/2016/01/15/the-countries-with-the-most-native-born-people-living-abroad-infographic/)
 
