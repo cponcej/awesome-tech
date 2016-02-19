@@ -26,15 +26,16 @@
 		- [Windows](#windows)
 		- [Linux](#linux)
 		- [LastPass](#lastpass)
-		- [SQL injection](#sql-injection)
-		- [Heartbleed](#heartbleed)
-		- [Shellshock](#shellshock)
+		- [SQL injection 🌟](#sql-injection-🌟)
+		- [Heartbleed 🌟](#heartbleed-🌟)
+		- [Shellshock 🌟](#shellshock-🌟)
 		- [OpenSSH Roaming Bug](#openssh-roaming-bug)
 		- [OpenSSL](#openssl)
 		- [HTTPS Bicycle Attack](#https-bicycle-attack)
 		- [Backdoors](#backdoors)
 		- [Linode SSH](#linode-ssh)
-		- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
+		- [Container security. Who’s fixing containers?](#container-security-who’s-fixing-containers)
+	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
 
 <!-- /MarkdownTOC -->
 
@@ -108,6 +109,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The best way to visualize encryption to those who don&#39;t understand it over the Internet. Key Exchange <a href="https://t.co/6fwikgx9jc">https://t.co/6fwikgx9jc</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700618789440782336">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Who&#39;s fixing containers? <a href="https://t.co/vltcct17s7">https://t.co/vltcct17s7</a> <a href="https://twitter.com/hashtag/glibc?src=hash">#glibc</a> <a href="https://twitter.com/hashtag/ITsecurity?src=hash">#ITsecurity</a> <a href="https://twitter.com/hashtag/containers?src=hash">#containers</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/700711544871645185">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Security Podcasts
@@ -247,14 +251,14 @@
 - [LastPass](https://www.seancassidy.me/lostpass.html) I have discovered a phishing attack against LastPass that allows an attacker to steal a LastPass user's email, password, and even two-factor auth code, giving full access to all passwords and documents stored in LastPass. I call this attack LostPass. 
 - [ZDNet: LastPass phishing attack avoids two-factor authentication in data theft](http://www.zdnet.com/article/lastpass-phishing-attack-avoids-two-factor-authentication-to-steal-your-data/) The exploited security flaw is severe enough that successful attacks compromise two-factor authentication codes.
 
-### SQL injection
+### SQL injection 🌟
 - [SQL injection](sql_injection.md)
 
-### Heartbleed
+### Heartbleed 🌟
 - [Red Hat security blog: Heartbleed](https://securityblog.redhat.com/tag/heartbleed/)
 - [Fixing Heartbleed with Ansible](http://www.ansible.com/blog/fixing-heartbleed-with-ansible)
 
-### Shellshock
+### Shellshock 🌟
 - [Shellshock: Bash bug 'bigger than Heartbleed' could undermine security of millions of websites – and there's nothing you can do to protect yourself](http://www.independent.co.uk/life-style/gadgets-and-tech/shell-shock-bash-bug-bigger-than-heartbleed-could-undermine-security-of-millions-of-websites-9754720.html)
 - [Ansible.com shellshock](http://www.ansible.com/blog/shellshock)
 - [Patch Shellshock with Ansible](https://raymii.org/s/articles/Patch_CVE-2014-6271_Shellshock_with_Ansible.html)
@@ -288,7 +292,11 @@
 ### Linode SSH
 - [Linode SSH key blunder left virtual servers open to man-in-the-middle fiddles for months](http://www.theregister.co.uk/2016/02/09/linode_ssh_security/)
 
-### Top security initiatives for 2016
+### Container security. Who’s fixing containers?
+- [Container scanning: The thinnest of paper tigers](http://www.redhat.com/en/about/blog/container-scanning-thinnest-paper-tigers)
+- [Critical security flaw: glibc stack-based buffer overflow in getaddrinfo() (CVE-2015-7547) 🌟](https://access.redhat.com/articles/2161461)
+
+## Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments
 - [techpageone.co.uk: Top security initiatives for 2016. Encryption is the new “minimum” security](http://www.techpageone.co.uk/technology-uk-en/top-security-initiatives-2016/)
 - [techpageone.co.uk: The top 5 IT security threats for 2016](http://www.techpageone.co.uk/technology-uk-en/top-5-security-threats-2016)

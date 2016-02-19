@@ -133,11 +133,18 @@
 - [TecMint.com](https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ)
 
 ## Linux on Twitter
-- [@nixcraft](https://twitter.com/nixcraft)
-- [UnixToolTip](https://twitter.com/UnixToolTip)
-- [Command Line Magic](https://twitter.com/climagic)
+- [@nixcraft 🌟🌟🌟🌟🌟](https://twitter.com/nixcraft)
+- [UnixToolTip 🌟](https://twitter.com/UnixToolTip)
+- [Command Line Magic 🌟🌟🌟🌟](https://twitter.com/climagic)
+- Commandlinefu:
+	- [commandlinefu](http://twitter.com/commandlinefu)
+	- [commandlinefu3](http://twitter.com/commandlinefu3)
+	- [commandlinefu10 🌟🌟🌟🌟🌟](http://twitter.com/commandlinefu10)
 - [Shell OSS](https://twitter.com/oss_sh)
-- [Tecmint](https://twitter.com/tecmint)
+- [Tecmint 🌟🌟🌟🌟🌟](https://twitter.com/tecmint)
+- [Open Source Way 🌟](https://twitter.com/opensourceway) Discover an open source world. Tweets from http://opensource.com
+- [SysAdmHowto 🌟](https://twitter.com/SysAdmHowto)
+- [twitter.com/linuxtutorials 🌟](https://twitter.com/linuxtutorials)
 - [RegexTip](https://twitter.com/RegexTip)
 - [github](https://twitter.com/github)
 - [twitter.com/linuxfoundation](twitter.com/linuxfoundation)

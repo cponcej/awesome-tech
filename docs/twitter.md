@@ -363,6 +363,7 @@
 	- [commandlinefu10 🌟🌟🌟🌟🌟](http://twitter.com/commandlinefu10)
 - [Shell OSS](https://twitter.com/oss_sh)
 - [Tecmint 🌟🌟🌟🌟🌟](https://twitter.com/tecmint)
+- [Open Source Way 🌟](https://twitter.com/opensourceway) Discover an open source world. Tweets from http://opensource.com
 - [SysAdmHowto 🌟](https://twitter.com/SysAdmHowto)
 - [RegexTip](https://twitter.com/RegexTip)
 - [twitter.com/linuxtutorials 🌟](https://twitter.com/linuxtutorials)
