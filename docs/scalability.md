@@ -13,7 +13,8 @@
 
 # Scalability
 ## Scalability and Data Center Blogs
-- [highscalability.com](http://highscalability.com/)
+- [highscalability.com 🌟🌟](http://highscalability.com/)
+	- [highscalability.com: Building nginx and Tarantool based services 🌟](http://highscalability.com/blog/2016/2/17/building-nginx-and-tarantool-based-services.html)
 - [All Things Distributed. Werner Vogels' weblog on building scalable and robust distributed systems](http://www.allthingsdistributed.com/)
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 - [Youtube: Iceland - A Growing Data Center Hub](https://www.youtube.com/watch?v=LH5lj4sARI0)
@@ -38,7 +39,6 @@
 	- Database schema should be in version control
 	- Everything you do should be in version control
 - [slides: Scalable Web Architectures: Common Patterns and Approaches](http://es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches)
-- [highscalability.com](http://highscalability.com/)
 - [video: Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
 - [book: Building Scalable Web Sites - Cal Henderson](http://shop.oreilly.com/product/9780596102357.do)
 - [book: Site Reliability Engineering. How Google Runs Production Systems - 2016](http://shop.oreilly.com/product/0636920041528.do)

@@ -35,13 +35,13 @@
 
 ## HTTP/2
 - [SPDY & HTTP 2 with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=WkLBrHW4NhQ)
-	- [cURL mantainer: http2 explained](http://http2-explained.haxx.se/)
+	- [cURL mantainer: http2 explained 🌟](http://http2-explained.haxx.se/)
 	- [cURL mantainer: curl and HTTP/2 by default](http://daniel.haxx.se/blog/2015/12/14/curl-and-http2-by-default/)
 	- [cURL mantainer: A 2015 retrosprective](http://daniel.haxx.se/blog/2015/12/20/a-2015-retrospective/)
-	- [http2.github.io HTTP/2](https://http2.github.io)
-	- [http2.github.io HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/)
+	- [http2.github.io HTTP/2 🌟](https://http2.github.io)
+	- [http2.github.io HTTP/2 Frequently Asked Questions 🌟](https://http2.github.io/faq/)
 	- [HTTP/2 resources](https://pinboard.in/u:rmurphey/t:http2/)
-	- [A Simple Performance Comparison of HTTPS, SPDY and HTTP/2](https://blog.httpwatch.com/2015/01/16/a-simple-performance-comparison-of-https-spdy-and-http2/comment-page-1/)
+	- [A Simple Performance Comparison of HTTPS, SPDY and HTTP/2 🌟](https://blog.httpwatch.com/2015/01/16/a-simple-performance-comparison-of-https-spdy-and-http2/comment-page-1/)
 	- [blog.cloudflare.com - Tools for debugging, testing and using HTTP/2](https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/)
 	- [blog.cloudflare.com - HTTP/2 For Web Developers](https://blog.cloudflare.com/http-2-for-web-developers/)
 - [HTTP/2 With JBoss EAP 7 - Tech Preview](http://blog.eisele.net/2015/11/http2-with-jboss-eap-7.html)
@@ -95,12 +95,13 @@
 - [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
-- [cyberciti.biz: Top 20 Nginx WebServer Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
+- [cyberciti.biz: Top 20 Nginx WebServer Best Security Practices 🌟](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
 - [scriptrock.com: 10 Tips For Securing Your Nginx Deployment](https://www.scriptrock.com/articles/10-tips-for-securing-your-nginx-deployment)
 - [dzone: The Benefits of Microcaching with NGINX](https://dzone.com/articles/the-benefits-of-microcaching-with-nginx)
-- [nginx.com: Scaling Web Applications with NGINX – Part I: Load Balancing](https://www.nginx.com/blog/scaling-web-applications-nginx-part-load-balancing/)
+- [nginx.com: Scaling Web Applications with NGINX – Part I: Load Balancing 🌟](https://www.nginx.com/blog/scaling-web-applications-nginx-part-load-balancing/)
 	- [dzone: Scaling Web Applications with NGINX – Part II: Caching and Monitoring](https://dzone.com/articles/scaling-web-applications-with-nginx-part-ii-cachin)
-- [Nginx: a caching, thumbnailing, reverse proxying image server?](http://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/)
+- [Nginx: a caching, thumbnailing, reverse proxying image server? 🌟](http://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/)
+- [highscalability.com: Building nginx and Tarantool based services 🌟](http://highscalability.com/blog/2016/2/17/building-nginx-and-tarantool-based-services.html)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/Mu2STrGXh1IB86" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tuxtoti/nginx-tips-and-tricks-13087831" title="Nginx - Tips and Tricks." target="_blank">Nginx - Tips and Tricks.</a> </strong> from <strong><a href="//www.slideshare.net/tuxtoti" target="_blank">Harish S</a></strong> </div>
