@@ -2,9 +2,9 @@
 <!-- MarkdownTOC -->
 
 - [WebApp](#webapp)
-	- [HTTP Status Codes](#http-status-codes)
 	- [HTTP/2](#http2)
 	- [WebSockets](#websockets)
+	- [HTTP Status Codes](#http-status-codes)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
 		- [Elasticsearch](#elasticsearch)
 	- [HAProxy](#haproxy)
@@ -21,18 +21,9 @@
 	- [Distributed Messaging System. Message oriented middleware](#distributed-messaging-system-message-oriented-middleware)
 
 <!-- /MarkdownTOC -->
-
+[![dilbert](images/dilbert.jpg)](http://dilbert.com/)
 
 # WebApp
-## HTTP Status Codes
-- [wikipedia: List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-- [slideshare: Http Status Code Errors in SEO](http://www.slideshare.net/AdelaRoger/http-status-code-errors-in-seo)
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/gYWUVIcqW40OUn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mainstreethost/http-status-codes-cheat-sheet" title="HTTP Status Codes Cheat Sheet: An Exhaustive List" target="_blank">HTTP Status Codes Cheat Sheet: An Exhaustive List</a> </strong> from <strong><a href="//www.slideshare.net/mainstreethost" target="_blank">Mainstreethost</a></strong> </div>
-</div>
-<br/>
-
 ## HTTP/2
 - [SPDY & HTTP 2 with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=WkLBrHW4NhQ)
 	- [cURL mantainer: http2 explained 🌟](http://http2-explained.haxx.se/)
@@ -71,6 +62,15 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/J3GFdDQf8wm4fW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ramisayar/state-of-web-sockets" title="The State of WebSockets in Django" target="_blank">The State of WebSockets in Django</a> </strong> from <strong><a href="//www.slideshare.net/ramisayar" target="_blank">Rami Sayar</a></strong> </div>
+</div>
+<br/>
+
+## HTTP Status Codes
+- [wikipedia: List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+- [slideshare: Http Status Code Errors in SEO](http://www.slideshare.net/AdelaRoger/http-status-code-errors-in-seo)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gYWUVIcqW40OUn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mainstreethost/http-status-codes-cheat-sheet" title="HTTP Status Codes Cheat Sheet: An Exhaustive List" target="_blank">HTTP Status Codes Cheat Sheet: An Exhaustive List</a> </strong> from <strong><a href="//www.slideshare.net/mainstreethost" target="_blank">Mainstreethost</a></strong> </div>
 </div>
 <br/>
 
@@ -221,4 +221,3 @@
 </div> 
 <br/>
 
-[![dilbert](images/dilbert.jpg)](http://dilbert.com/)
