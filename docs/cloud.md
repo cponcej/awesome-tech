@@ -22,9 +22,6 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Just ordered new stickers <a href="https://t.co/MfGpBWjRAp">https://t.co/MfGpBWjRAp</a>. They will be here soon :) <a href="https://twitter.com/hashtag/cloudcomputing?src=hash">#cloudcomputing</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/oUO9tiNm7N">pic.twitter.com/oUO9tiNm7N</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700706657190309888">febrero 19, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Cloud
 - [Cloud automation should be the heart of enterprise support -- it will decrease downtime, increase flexibility, and dramatically improve your provider’s ability to rapidly respond to service requests](https://www.linkedin.com/pulse/uk-cios-dissatisfied-cloud-providers-ryan-kroonenburg)
 - [Netflix: Linux performance analysis in 60 seconds](http://www.infoworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
@@ -86,6 +83,9 @@
 [![Cloud computing goes hybrid as the norm](images/VMs_running_in_cloud.png)](http://www.zdnet.com/article/cloud-computing-goes-hybrid-as-the-norm-aws-vmware-azure-duke-it-out/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Google and Red Hat announce cloud-based scalable file servers <a href="https://t.co/qiF4RjlnHc">https://t.co/qiF4RjlnHc</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/cloudcomputing?src=hash">#cloudcomputing</a> <a href="https://t.co/ti6R5T5NGK">pic.twitter.com/ti6R5T5NGK</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700385625078308864">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Just ordered new stickers <a href="https://t.co/MfGpBWjRAp">https://t.co/MfGpBWjRAp</a>. They will be here soon :) <a href="https://twitter.com/hashtag/cloudcomputing?src=hash">#cloudcomputing</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/oUO9tiNm7N">pic.twitter.com/oUO9tiNm7N</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700706657190309888">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Cloud Pricing
