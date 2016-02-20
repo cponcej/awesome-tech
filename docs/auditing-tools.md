@@ -1,17 +1,22 @@
 <!-- MarkdownTOC -->
 
 - [Open Source security auditing tools](#open-source-security-auditing-tools)
-    - [OpenSCAP and Lynis](#openscap-and-lynis)
-    - [Slides](#slides)
+    - [OpenSCAP](#openscap)
+    - [Lynis](#lynis)
+    - [Slides and Videos](#slides-and-videos)
 
 <!-- /MarkdownTOC -->
 
 # Open Source security auditing tools
-## OpenSCAP and Lynis
+## OpenSCAP
 - [OpenSCAP 🌟](https://www.open-scap.org) Tools, Security Policies and Standards
-- [Lynis: Security auditing tool for Unix/Linux systems 🌟](https://cisofy.com/lynis/)
+- [Red Hat Network Satellite: OpenSCAP](https://access.redhat.com/documentation/en-US/Red_Hat_Network_Satellite/5.5/html/User_Guide/chap-Red_Hat_Network_Satellite-User_Guide-OpenSCAP.html)
+- [RHEL 7: Using oscap](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Security_Guide/sect-Using_oscap.html)
 
-## Slides
+## Lynis
+- [Lynis: Security auditing tool for Unix/Linux systems 🌟🌟](https://cisofy.com/lynis/)
+
+## Slides and Videos
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/d1eNuYKOapWrM7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MichaelBoelen/linux-security-from-concept-to-tooling-57133462" title="Linux Security, from Concept to Tooling" target="_blank">Linux Security, from Concept to Tooling</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MichaelBoelen">Michael Boelen</a></strong> </div>
 </div>
