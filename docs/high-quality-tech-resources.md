@@ -4,6 +4,7 @@
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
+	- [Shared presentations](#shared-presentations)
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
 	- [DZone](#dzone)
 	- [Java Code Geeks](#java-code-geeks)
@@ -116,6 +117,25 @@
 - [WomenWhoCode/guidelines-resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
 
 [![awesome logo](images/awesome_logo.png)](https://github.com/sindresorhus/awesome)
+
+## Shared presentations
+- [slideshare.net 🌟🌟🌟🌟](http://www.slideshare.net)
+- [speakerdeck.com 🌟🌟](https://speakerdeck.com)
+- [prezi.com 🌟](https://prezi.com)
+- [scribd.com 🌟](https://scribd.com)
+- [issuu.com](https://issuu.com) leading digital publishing platform delivering exceptional reading experiences of magazines, catalogs, and newspapers....
+- [glisser.com](http://www.glisser.com) Interactive presentation software made easy
+- [slidecorner.com](http://www.slidecorner.com)
+- [emaze.com](https://www.emaze.com)
+- [slidedeck.io](http://slidedeck.io) repository of great HTML presentations
+
+[![slideshare](images/slideshare_logo.png)](http://www.slideshare.net)
+
+[![speakerdeck](images/speakerdeck_logo.jpg)](https://speakerdeck.com)
+
+[![prezi logo](images/prezi_logo.png)](https://prezi.com)
+
+[![scribd](images/scribd.png)](https://scribd.com)
 
 ## Stack Exchange family of Q&A websites
 - [stackoverflow.com 🌟🌟🌟🌟🌟](http://stackoverflow.com/)
@@ -240,7 +260,7 @@
 - [Meta WCG](http://www.webcodegeeks.com/category/meta-wcg/)
 
 ## stackshare.io: Discover and discuss the best software tools and services
-- [stackshare.io 🌟🌟🌟](http://stackshare.io/)
+- [stackshare.io 🌟](http://stackshare.io/)
 	- [whatsnew.com - stackshare.io - para saber la tecnología que usan las grandes empresas de Internet](http://wwwhatsnew.com/2014/11/07/stackshare-para-saber-la-tecnologia-que-usan-las-grandes-empresas-de-internet/)
 - [Amazon ECS vs Joyent Triton Elastic Container Infrastructure](http://stackshare.io/convox/amazon-ecs-vs-joyent-triton)
 	- [Joyent Triton Elastic Container Infrastructure](https://www.joyent.com/)
@@ -292,8 +312,8 @@
 - [Wireshark](https://www.reddit.com/r/wireshark/)
 
 ## Screencasts
-- [sysadmincasts.com 🌟🌟🌟🌟🌟](https://sysadmincasts.com)
-- [build-podcast.com 🌟🌟🌟🌟](http://build-podcast.com)
+- [sysadmincasts.com 🌟🌟🌟🌟](https://sysadmincasts.com)
+- [build-podcast.com 🌟🌟🌟](http://build-podcast.com)
 	- [git-flow 🌟](http://build-podcast.com/git-flow/)
 
 [![sysadmincasts](images/sysadmincasts.png)](https://sysadmincasts.com)
@@ -322,7 +342,7 @@
 
 ### Cloud Computing Podcasts
 - [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
-	- [The Cloudcast 🌟🌟🌟🌟🌟](http://www.thecloudcast.net/)
+	- [The Cloudcast 🌟🌟🌟](http://www.thecloudcast.net/)
 		- [The Cloudcast: Cloud Computing Whiteboard Videos](http://www.thecloudcast.net/2012/01/new-cloud-computing-whiteboard-videos.html)
 		- [The Cloudcast youtube channel](https://www.youtube.com/user/TheCloudcastNET)
 	- [Cloud Computing Podcast](http://www.cloudtp.com/insights/cloud-computing-weekly-podcast/)
@@ -348,7 +368,7 @@
 - [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
 
 ### Spanish podcasts
-- [We.Developers: El podcast para desarrolladores en castellano 🌟🌟🌟🌟](http://wedevelopers.com/)
+- [We.Developers: El podcast para desarrolladores en castellano 🌟🌟🌟](http://wedevelopers.com/)
 	- [twitter.com/WeDevelopers](https://twitter.com/WeDevelopers)
 	- [Trabajo en Remoto 🌟🌟🌟🌟](http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/)
 	- [De cero a la App Store](http://wedevelopers.com/2013/03/01/we-developers-017-de-cero-a-la-app-store/)
@@ -364,7 +384,7 @@
 
 ## TLDP.org The Linux Documentation Project
 - [tldp.org](http://tldp.org/)
-- [Advanced Bash-Scripting Guide 🌟🌟🌟](http://tldp.org/LDP/abs/html/index.html) An in-depth exploration of the art of shell scripting
+- [Advanced Bash-Scripting Guide 🌟🌟](http://tldp.org/LDP/abs/html/index.html) An in-depth exploration of the art of shell scripting
 - [LVM HOWTO](http://www.tldp.org/HOWTO/html_single/LVM-HOWTO/)
 - [TCP Keepalive HOWTO 🌟](http://www.tldp.org/HOWTO/html_single/TCP-Keepalive-HOWTO/)
 - [Linux Security HOWTO](http://www.tldp.org/HOWTO/html_single/Security-HOWTO/)
@@ -372,7 +392,7 @@
 ## Wikibooks
 >The main difference between the two "wikis" is that Wikipedia is composed of weakly connected separate pages and Wikibooks contains e-books built of multiple hierarchically linked pages. So who has a bigger idea (philosophy) for a particular area of ​​knowledge prefers to work in Wikibooks. 
 
-- [The Linux Kernel Book - A Linux kernel API and internals Reference 🌟🌟🌟🌟](https://en.wikibooks.org/wiki/The_Linux_Kernel)
+- [The Linux Kernel Book - A Linux kernel API and internals Reference 🌟](https://en.wikibooks.org/wiki/The_Linux_Kernel)
 - [Computing](https://en.wikibooks.org/wiki/Subject:Computing)
 - [ITIL v3 (Information Technology Infrastructure Library)](https://en.wikibooks.org/wiki/ITIL_v3_%28Information_Technology_Infrastructure_Library%29)
 - [Python](https://en.wikibooks.org/wiki/Python)
@@ -390,7 +410,7 @@
 <br/>
 
 ## Webcomics
-- [commitstrip.com 🌟🌟](http://www.commitstrip.com)
+- [commitstrip.com 🌟](http://www.commitstrip.com)
 - [dilbert.com](http://dilbert.com/)
 - [GeeksFun](http://geeksfun.blogspot.com)
 - [Geek & Poke](http://geek-and-poke.com)
@@ -400,7 +420,7 @@
 ## Reactions. When words aren't enough, say it with animations
 - [Infosec Reactions](http://securityreactions.tumblr.com/)
 	- [twitter.com/sec_reactions](https://twitter.com/sec_reactions)
-- [DevOps Reactions 🌟🌟](http://devopsreactions.tumblr.com/)
+- [DevOps Reactions 🌟](http://devopsreactions.tumblr.com/)
 	- [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 - [9gag.com](http://9gag.com)
 
