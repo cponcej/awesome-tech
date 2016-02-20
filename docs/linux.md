@@ -76,6 +76,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Microsoft isn&#39;t evil, they just make really crappy operating systems. - Linus Torvalds</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/701060245414481920">febrero 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Linux and FOSS Blogs and Forums
 
 ### Best Linux Blogs
