@@ -22,7 +22,7 @@
 8. [Security 🌟](security.md)
 	- [Next Generation Firewalls (NGFW)](NGFW.md)
 	- [HTTPs and HSTS 🌟](https.md)
-	- [OpenSCAP and Lynis. Security auditing tools 🌟](auditing-tools.md)
+	- [Security auditing tools 🌟](auditing-tools.md)
 	- [Security Toolkits and Policies. Penetration Testing](pen_testing.md)
 	- [SQL injection 🌟](sql_injection.md)
 9. [Configuration Management and Orchestration. Microservices 🌟🌟](config-mgmt.md)
