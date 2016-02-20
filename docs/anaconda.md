@@ -6,6 +6,8 @@
 <!-- /MarkdownTOC -->
 [![anaconda is](images/anaconda-is.jpg)](https://www.continuum.io/why-anaconda)
 
+[![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)](https://www.continuum.io/why-anaconda)
+
 # Anaconda Analytics
 - [docs.continuum.io](http://docs.continuum.io/anaconda/index)
 - [Python: The Next Big Thing in Big Data 🌟](https://dzone.com/articles/python-the-next-big-thing-in-big-data)
@@ -52,8 +54,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Anaconda?src=hash">#Anaconda</a> 2.5 is out! Now with MKL Optimizations for improved performance: <a href="https://t.co/VSb6dltzc0">https://t.co/VSb6dltzc0</a> <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a> <a href="https://t.co/ozV4Zswvlz">pic.twitter.com/ozV4Zswvlz</a></p>&mdash; Continuum Analytics (@ContinuumIO) <a href="https://twitter.com/ContinuumIO/status/695659218867589122">febrero 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[![anaconda vs traditional analytics](images/anaconda-vs-traditional-analytics.jpg)](https://www.continuum.io/why-anaconda)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xb5r_495_-k?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
