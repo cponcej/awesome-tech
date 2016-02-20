@@ -42,6 +42,9 @@
 - [startup-resources.zeef.com](https://startup-resources.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/whydevops?src=hash">#whydevops</a> RT &quot;<a href="https://twitter.com/StartupLJackson">@StartupLJackson</a>: The Internet is no longer a technology. The Internet is a psychology experiment. <a href="http://t.co/AI84hYuhdz">http://t.co/AI84hYuhdz</a>&quot;</p>&mdash; Eric Callen (@cogitoergoBOFH) <a href="https://twitter.com/cogitoergoBOFH/status/478927401573834752">junio 17, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## IT remuneration
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
 

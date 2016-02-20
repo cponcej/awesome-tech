@@ -17,9 +17,6 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/b6s2R1_Wkej5SrmH7rhroA/138983952737" data-did="45cd22d444008b0e97409954091352a43c5843d0"><a href="http://nixcraft.tumblr.com/post/138983952737/the-linux-user-experience-via">http://nixcraft.tumblr.com/post/138983952737/the-linux-user-experience-via</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/whydevops?src=hash">#whydevops</a> RT &quot;<a href="https://twitter.com/StartupLJackson">@StartupLJackson</a>: The Internet is no longer a technology. The Internet is a psychology experiment. <a href="http://t.co/AI84hYuhdz">http://t.co/AI84hYuhdz</a>&quot;</p>&mdash; Eric Callen (@cogitoergoBOFH) <a href="https://twitter.com/cogitoergoBOFH/status/478927401573834752">junio 17, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Desktop Tools
 - [41 Awesome Productivity Tools to Help Grow Your Brand](http://www.seanogle.com/guest-posts/41-productivity-tools)
 - [How to avoid 'death by PowerPoint'](http://www.bbc.com/news/technology-35038429) These days, there are plenty of alternatives to PowerPoint - [Keynote](http://www.apple.com/mac/keynote/), [Slides](https://slides.com/), [Prezi](https://prezi.com), [SlideRocket](http://www.sliderocket.com/), [Easel.ly](http://easel.ly/), [Emaze](https://www.emaze.com), [Slidedog](http://slidedog.com/), to name but a few - many of which are freely available online.
