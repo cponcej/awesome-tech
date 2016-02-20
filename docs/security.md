@@ -4,6 +4,7 @@
 - [Security](#security)
 	- [Awesome Lists](#awesome-lists)
 	- [CVE Common Vulnerabilities and Exposures](#cve-common-vulnerabilities-and-exposures)
+	- [OpenSCAP and Lynis. Open Source security auditing tools](#openscap-and-lynis-open-source-security-auditing-tools)
 	- [Security Blogs](#security-blogs)
 		- [Blogs de Seguridad Informática](#blogs-de-seguridad-informática)
 		- [Network Security](#network-security)
@@ -56,12 +57,17 @@
 	- [CVE List Main Page](http://cve.mitre.org/cve/)
 - [National Vulnerability Database 🌟](https://nvd.nist.gov)
 	- [Search CVE and CCE Vulnerability Database 🌟](https://web.nvd.nist.gov/view/vuln/search)
+- [SCAP (Security Content Automation Protocol)](http://scap.nist.gov/)
+
+## OpenSCAP and Lynis. Open Source security auditing tools
+- [OpenSCAP and Lynis. Open Source security auditing tools  🌟🌟🌟🌟](auditing-tools.md)
 
 ## Security Blogs
 - [HaCoder.com 🌟](http://www.hacoder.com) 
 - [seclists.org 🌟](http://seclists.org/)
 - [ehacking.net 🌟](http://www.ehacking.net)
 - [Sucuri Blog 🌟](https://blog.sucuri.net/)
+- [linux-audit.com 🌟🌟](http://linux-audit.com) Linux security: Auditing, Hardening and Compliance
 - [Blackmoreops.com 🌟](http://blackmoreops.com)
 - [k4linux.com](http://www.k4linux.com) Kali Linux 2.0 tutorials Technology and News of penetration testing and security Hacking Wifi Facebook Website.
 - [net-security.org](http://www.net-security.org)

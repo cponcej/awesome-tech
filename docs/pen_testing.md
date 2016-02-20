@@ -6,9 +6,8 @@
 <!-- /MarkdownTOC -->
 
 ## Security Toolkits and Policies. Penetration Testing
-- [OpenSCAP](https://www.open-scap.org) Tools, Security Policies and Standards
-- [Network Security Toolkit](http://www.networksecuritytoolkit.org)
-- [Metasploit](http://www.metasploit.com/)
+- [Network Security Toolkit 🌟](http://www.networksecuritytoolkit.org)
+- [Metasploit 🌟🌟](http://www.metasploit.com/)
 	- [slideshare: Metasploit for Penetration Testing: Beginner Class](http://es.slideshare.net/georgiaweidman/metasploit-for-penetration-testing-beginner-class)
 	- [slideshare: Pentest with Metasploit](http://es.slideshare.net/fl3xu5/pentest-with-metasploit-fl3xu5)
 - [Penetration Testing scripts](https://github.com/averagesecurityguy/scripts)
@@ -25,11 +24,6 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XI1QcQL4qQ8?list=PLHYsrwTE3Rofwk_cc7641QNhSF8JzPprE" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b7jW9X9UqiY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
@@ -40,8 +34,8 @@
 <br/>
 
 ### Kali Linux
-- [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
-- [k4linux.com: Kali Linux tutorials](http://www.k4linux.com//search/label/kali%20linux/)
+- [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution 🌟🌟🌟](https://www.kali.org/)
+- [k4linux.com: Kali Linux tutorials 🌟](http://www.k4linux.com//search/label/kali%20linux/)
 - [blackmoreops.com: Crack passwords in Kali Linux with Hydra](http://www.blackmoreops.com/2015/12/23/crack-passwords-in-kali-linux-with-hydra/)
 - [blackmoreops.com: Man in the Middle Attack using Kali Linux – MITM attack](http://www.blackmoreops.com/2015/12/22/man-in-the-middle-attack-using-kali-linux/)
 - [Kali Linux NetHunter 3.0 Android Mobile Penetration Testing Platform Out Now](http://news.softpedia.com/news/kali-linux-nethunter-3-0-android-mobile-penetration-testing-platform-out-now-498555.shtml)

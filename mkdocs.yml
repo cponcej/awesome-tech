@@ -31,6 +31,7 @@ pages:
 - Security: security.md
 - Next Generation Firewalls (NGFW): NGFW.md
 - HTTPs and HSTS: https.md
+- OpenSCAP and Lynis. Security auditing tools: auditing-tools.md
 - Security Toolkits and Policies. Penetration Testing: pen_testing.md
 - SQL Injection: sql_injection.md
 - Configuration Management and Orchestration. Microservices: config-mgmt.md
