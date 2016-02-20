@@ -191,6 +191,7 @@
 ## Red Hat Mobile Application Platform: Feed Henry
 - [Feed Henry](http://feedhenry.org/)
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
+- [developerblog.redhat.com Apps 101: An Absolute Beginner’s Guide to building a Mobile App](http://developerblog.redhat.com/2016/02/17/apps-101-an-absolute-beginners-guide-to-building-a-mobile-app/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5_qsqPOi6kE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -201,6 +202,9 @@
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/5KbMVQTd3ks?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apps 101: An Absolute Beginner’s Guide to building a Mobile App <a href="https://t.co/1VhQ2438Vs">https://t.co/1VhQ2438Vs</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/700042783046762496">febrero 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Java 8 and Git
 - [tecadmin.net: How to Install JAVA 8 (JDK/JRE 8u72) on CentOS/RHEL and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
