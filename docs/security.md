@@ -3,6 +3,7 @@
 
 - [Security](#security)
 	- [Awesome Lists](#awesome-lists)
+	- [CVE Common Vulnerabilities and Exposures](#cve-common-vulnerabilities-and-exposures)
 	- [Security Blogs](#security-blogs)
 		- [Blogs de Seguridad Informática](#blogs-de-seguridad-informática)
 		- [Network Security](#network-security)
@@ -48,6 +49,13 @@
 - [awesome security talks](https://github.com/PaulSec/awesome-sec-talks)
 - [awesome penetration testing](https://github.com/enaqx/awesome-pentest)
 - [awesome android security](https://github.com/ashishb/android-security-awesome)
+
+## CVE Common Vulnerabilities and Exposures
+- Common Vulnerability Enumeration is a repository of security software flaws managed by NIST in the National Vulnerability Database (NVD) as part of SCAP (Security Content Automation Protocol)
+- [CVE database: Common Vulnerabilities and Exposures 🌟🌟🌟](http://cve.mitre.org/) The Standard for Information Security Vulnerability Names
+	- [CVE List Main Page](http://cve.mitre.org/cve/)
+- [National Vulnerability Database 🌟](https://nvd.nist.gov)
+	- [Search CVE and CCE Vulnerability Database 🌟](https://web.nvd.nist.gov/view/vuln/search)
 
 ## Security Blogs
 - [HaCoder.com 🌟](http://www.hacoder.com) 

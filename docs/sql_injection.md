@@ -47,3 +47,18 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n8_b1aHz4VE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fCTTYyJ5yUO9Jz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/blueinfy/sql-injection-basics" title="SQL injection basics" target="_blank">SQL injection basics</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/blueinfy">Blueinfy Solutions</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vll73VQKosHCl2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/blueinfy/blind-sql-injection-54373345" title="Blind SQL Injection" target="_blank">Blind SQL Injection</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/blueinfy">Blueinfy Solutions</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KRQDNQttiwVTfz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/securing-against-sql-injection-attacks-with-mariadb-maxscale" title="Securing Against SQL Injection Attacks with MariaDB MaxScale" target="_blank">Securing Against SQL Injection Attacks with MariaDB MaxScale</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MariaDB">MariaDB</a></strong> </div>
+</div>
+<br/>
