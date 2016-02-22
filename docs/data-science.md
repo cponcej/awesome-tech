@@ -139,12 +139,18 @@
 - [datanami.com](http://www.datanami.com)
 - [What's The Big Data?](http://whatsthebigdata.com/)
 - [DZone Big Data Zone](https://dzone.com/big-data-analytics-tutorials-tools-news)
+- [Dataconomy.com 🌟](http://dataconomy.com)
+	- [Best TED Talks On Why “Data Is Beautiful” 🌟](http://dataconomy.com/best-ted-talks-on-why-data-is-beautiful/)
+	- [SQL vs. NoSQL- What You Need to Know 🌟](http://dataconomy.com/sql-vs-nosql-need-know/)
+	- [Top 10 Big Data Videos on Youtube 🌟🌟🌟](http://dataconomy.com/10-best-big-data-videos-on-youtube/)
 - [Data Science Central - the online resource for big data practitioners](http://www.datasciencecentral.com)
 - [BDAhttp://examples.javacodegeeks.com/enterprise-java/apache-hadoop/apache-hadoop-cluster-setup-example-virtual-machines/N: Big Data Analytics News](http://bigdataanalyticsnews.com/)
 - [topdata.news: Big Data News](http://topdata.news/)
 - [DataFloq](https://datafloq.com)
 - [KDnuggets: Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
 - [smartdatacollective.com](http://www.smartdatacollective.com/)
+
+[![Dataconomy](images/dataconomy.png)](http://dataconomy.com)
 
 [![job trends analytics](images/job-trends-analytics.jpg)](http://www.indeed.com/jobtrends/BI%2C+analytics%2C+data+mining.html)
 

@@ -164,6 +164,7 @@
 
 ### Alternative editors
 - [Atom 1.1 is out 🌟](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
+	- [emezeta.com: Cómo configurar Atom Editor (y sus mejores plugins)](http://www.emezeta.com/articulos/como-configurar-atom-editor-y-sus-mejores-plugins)
 - [Lime Text](http://limetext.org/) Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text. 
 - [Android Studio 2.0](http://developer.android.com/sdk/index.html)
 	- [Say hello to a faster Android emulator](https://infinum.co/the-capsized-eight/articles/say-hello-to-a-faster-android-emulator)
