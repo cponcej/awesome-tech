@@ -63,6 +63,8 @@
 - [SDxCentral’s Top 10 News Stories of 2015](https://www.sdxcentral.com/articles/news/sdxcentrals-top-10-news-stories-of-2015/2016/01/)
 - [sdxcentral.com: The Top NFV & Telecom Influencers in 2015](https://www.sdxcentral.com/articles/news/top-nfv-influencers-2015/)
 - [aunclicdelastic.com: SDN, NFV y los fundamentos de las redes del futuro](http://www.aunclicdelastic.com/sdn-nfv-y-los-fundamentos-de-las-redes-del-futuro/)
+- [Open Source MANO](http://osm.etsi.org) Open Source Mano is an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV.
+	- [Telefónica se une a otras 22 operadoras y proveedores de equipos para crear una comunidad global de Open Source Mano (OSM)](https://www.telefonica.com/es/web/sala-de-prensa/-/telefonica-se-une-a-otras-22-operadoras-y-proveedores-de-equipos-para-crear-una-comunidad-global-de-open-source-mano-osm-)
 
 ## IPv4
 - [wikipedia: IPv4](https://en.wikipedia.org/wiki/IPv4)
@@ -81,6 +83,9 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/NTUP0U3kq421kQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nilmenon/ccna-1-routing-and-switching-v50-chapter-9" title="CCNA 1 Routing and Switching v5.0 Chapter 9" target="_blank">CCNA 1 Routing and Switching v5.0 Chapter 9</a> </strong> from <strong><a href="//www.slideshare.net/nilmenon" target="_blank">Nil Menon</a></strong> </div>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Telefónica se une a 22 operadoras y proveedores de equipos para crear una comunidad global Open Source Mano <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> <a href="https://t.co/gCRmbpHduW">https://t.co/gCRmbpHduW</a></p>&mdash; Telefónica (@Telefonica) <a href="https://twitter.com/Telefonica/status/701724993441415168">febrero 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## IPv6
 - [wikipedia: IPv6](https://en.wikipedia.org/wiki/IPv6)
