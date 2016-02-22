@@ -159,6 +159,7 @@
 
 ## Network Automation with Ansible
 - [ansible.com/networks](https://www.ansible.com/networks)
+- [Ansible charges into network automation with Cisco, Juniper](http://www.theregister.co.uk/2016/02/18/ansible_dives_into_network_automation/) But where's Huawei? 
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">. <a href="https://twitter.com/redhat">@RedHat</a> <a href="https://twitter.com/ansible">@Ansible</a> applies its IT automation capabilities to the network <a href="https://t.co/pjHwvSjlKx">https://t.co/pjHwvSjlKx</a></p>&mdash; The New Stack (@thenewstack) <a href="https://twitter.com/thenewstack/status/700391369190338560">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
