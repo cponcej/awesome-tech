@@ -42,7 +42,6 @@
 - [javacodegeeks.com: Java 8 Features Tutorial – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/05/java-8-features-tutorial.html)
 - [Profile of successful Java developer in 2016](http://www.javacodegeeks.com/2015/12/profile-successful-java-developer-2016.html)
 - [Introduction to Docker for Java Developers – Getting started with Docker](http://examples.javacodegeeks.com/devops/introduction-docker-java-developers/)
-- ["Learn Python" Overtakes "Learn Java" on Google Trends 🌟🌟🌟](https://dzone.com/articles/learn-python-overtakes-learn-java)
 - [dzone: High-Performance Immutable Business Objects](https://dzone.com/articles/high-performance-immutable-business-objects)
 - [dzone: Java Annotated Monthly – January 2016.](https://dzone.com/articles/java-annotated-monthly-january-2016) All the latest interesting news and blogs around Java and the JVM languages, including the OpenJDK Android news and some thoughts from Mark Reinhold.
 - [javacodegeeks.com: 10 Examples of using ArrayList in Java – Tutorial](http://www.javacodegeeks.com/2016/01/10-examples-using-arraylist-java-tutorial.html)
@@ -53,10 +52,6 @@
 - [Multithreading and Concurrency Interview Questions and Answers – The ULTIMATE List (PDF Download)](http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html)
 - [DZone: Spring Data Mongodb and Spring Boot](https://dzone.com/articles/spring-data-mongodb-spring-boot) You really can quickly develop a microservice to access MongoDB from Java 8 with little coding. Give it a try... easy like Sunday morning.
 - [slideshare: Troubleshooting Live Java Web Applications](http://www.slideshare.net/SpringCentral/puls-spring-one2gx)
-
-[![Learn java python](images/learn-java-python.png)](https://dzone.com/articles/learn-python-overtakes-learn-java)
-
-[![developer python java](images/developer-python-java.png)](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WAy9mgEYb6o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

@@ -18,6 +18,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![Learn java python](images/learn-java-python.png)](https://dzone.com/articles/learn-python-overtakes-learn-java)
+
 # Python
 ## Python Blogs and Forums
 - [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
@@ -72,6 +74,7 @@
 - [devbattles.com: Python: sorting lists by .sort () with - in simple words](http://www.devbattles.com/en/sand/post-1752-Python_sorting_lists_by_sort__with__in_simple_words)
 - [Create a GUI Application Using Qt and Python in Minutes: Example Web Browser](http://www.digitalpeer.com/blog/create-a-gui-application-using-qt-and-python-in-minutes-example-web-browser)
 - [Python command line oneliners](http://www.vurt.ru/2013/02/python-command-line-oneliners)
+- ["Learn Python" Overtakes "Learn Java" on Google Trends 🌟🌟🌟](https://dzone.com/articles/learn-python-overtakes-learn-java)
 - [Python gains the upper hand against Perl, PHP, and Ruby](http://www.infoworld.com/article/3029681/java/python-gains-the-upper-hand-against-perl-php-and-ruby.html)
 
 [![The four primary reasons developers write tests](images/reasons_developers_write_tests.png)](https://twitter.com/sarahmei)
@@ -135,6 +138,8 @@
 
 ### PandasDatabase
 - [PandasDatabase is a RESTful database engine application built on top of Pandas](https://pypi.python.org/pypi/pddb/)
+
+[![developer python java](images/developer-python-java.png)](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
 ## Python standard library Modules and Code
 - [Python 3 standard library Module of the Week, Doug Hellmann](https://pymotw.com)
