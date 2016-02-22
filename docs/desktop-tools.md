@@ -131,6 +131,7 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Thunderbird
+- [emailmafia.net](http://emailmafia.net)
 - [twitter.com/mozthunderbird](https://twitter.com/mozthunderbird)
 - [twitter.com/mozcalendar](https://twitter.com/mozcalendar)
 - [support.mozilla.org](https://support.mozilla.org)
