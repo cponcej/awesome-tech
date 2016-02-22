@@ -55,6 +55,7 @@
 - [Bristoleños: vivir en UK 🌟](http://bristolenos.com)
 - [Espanish in London 🌟](http://www.espanishinlondon.com)
 - ["I was born in London but I no longer recognise this city" 🌟🌟](http://www.economist.com/news/books-and-arts/21689519-how-british-capital-being-remade-beyond-glitter)
+- [London, I love you, but you’re bringing me down 🌟](http://matadornetwork.com/notebook/london-love-youre-bringing/)
 - [Para vivir en Irlanda](http://www.paravivirenirlanda.com)
 - [Quiero ir a vivir a Dublin](http://quieroiraviviradublin.blogspot.com.es)
 - [Berlín en español](http://berlinenespanol.net)
