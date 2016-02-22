@@ -163,6 +163,7 @@
 - [Think Scrum is Only for Developers? Think Again](https://www.linkedin.com/pulse/20140917144235-128811924-think-scrum-is-only-for-developers-think-again)
 - [dzone.com: 5 Issues with Agile and What’s Next](https://dzone.com/articles/5-issues-with-agile-and-whats-next) Agile is increasingly popular, but it isn't perfect. Check out these 5 issues with Agile, and learn how the space will further evolve. Problems include lack of software architecture focus, and unclear definition of self-organization.
 - [enterprisersproject.com: A conversation with Gene Kim on DevOps, waterfall development, and containers](https://enterprisersproject.com/article/2015/4/conversation-gene-kim-devops-waterfall-development-and-containers)
+- [opensource.com - Scrum is dead: breaking down the new open development method](https://opensource.com/business/15/11/open-development-method)
 
 [![agile manifesto](images/agile_manifesto.png)](http://www.agilemanifesto.org/)
 

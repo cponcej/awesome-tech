@@ -258,6 +258,10 @@
 
 		egrep -w 'warning|error|critical' /var/log/messages
 
+- Search for names and build a frequency count for each name.
+
+		egrep -wo "(Donnie|Frank|Roberta|Grandma)" story.txt |sort|uniq -c|sort -r 
+
 - [The following is Juniper screenOS authentication backdoor - master ssh password:](https://t.co/IQOGT33oTC)
 
 		<<< %s(un='%s') = %u
