@@ -265,6 +265,7 @@
 - [Linux/UNIX Recursively Search All Files For A String](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
 - [How To Find and Overcome Shell Command Line Length Limitations](http://www.cyberciti.biz/faq/argument-list-too-long-error-solution/)
 - [Linux/UNIX Recursively Search All Files For A String](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
+- [HowTo: Use cat Command In Linux/UNIX](http://www.cyberciti.biz/faq/howto-use-cat-command-in-unix-linux-shell-script/)
 
 ## Command line text manipulation tools 
 - [AWK](https://en.wikipedia.org/wiki/AWK)
@@ -370,6 +371,7 @@
 - [zmap.io](https://zmap.io/)
 - [Masscan](https://github.com/robertdavidgraham/masscan) TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes
 	- [Masscan: the entire Internet in 3 minutes](http://blog.erratasec.com/2013/09/masscan-entire-internet-in-3-minutes.html)
+- [cyberciti.biz - ss: Display Linux TCP / UDP Network and Socket Information](http://www.cyberciti.biz/tips/linux-investigate-sockets-network-connections.html)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 

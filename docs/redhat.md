@@ -171,6 +171,7 @@
 ## Red Hat Storage
 - [redhat.com/storage](http://redhat.com/storage)
 - [redhat.lookbookhq.com: Is Open, Software-defined Storage Right for Your Organization?](http://redhat.lookbookhq.com/sds/asset1)
+- [UK goes all-in on cloud as Google & Red Hat partner for flexible, open source storage](http://www.cbronline.com/news/cloud/public/uk-heads-all-in-on-cloud-as-google-red-hat-partner-for-flexible-open-source-storage-4816365)
 
 <div class="container">
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/lvYQlLnuyNY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -278,11 +279,15 @@
 	- [Getting Started With The JBoss EAP 7 Quickstarts](http://blog.eisele.net/2015/12/getting-started-with-jboss-eap-7.html)
 	- [Red Hat JBoss Engineers about Java EE, Container, Microservices and Testing](http://blog.eisele.net/2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html)
 - [middlewareblog.redhat.com: Containers, cloud, and Java apps: A new video on development stacks 🌟](http://middlewareblog.redhat.com/2016/02/17/containers-cloud-and-java-apps/)
+- [developerblog.redhat.com: Getting started with EAP 7 and JBoss Developer Studio](http://developerblog.redhat.com/2016/02/15/getting-started-with-eap-7-and-jboss-developer-studio/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Getting started with <a href="https://twitter.com/hashtag/EAP7?src=hash">#EAP7</a> and <a href="https://twitter.com/hashtag/JBoss?src=hash">#JBoss</a> Developer Studio by <a href="https://twitter.com/myfear">@myfear</a> <a href="https://t.co/QWeqKIQR69">https://t.co/QWeqKIQR69</a> <a href="https://t.co/ZdD8iqBNAB">pic.twitter.com/ZdD8iqBNAB</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/701666594695602176">febrero 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### JBoss BPM Suite and JBoss BRMS
 - [Red Hat Updates JBoss BPM Suite and JBoss BRMS Products](http://www.redhat.com/de/about/blog/red-hat-updates-jboss-bpm-suite-and-jboss-brms-products)

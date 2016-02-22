@@ -93,6 +93,10 @@
 
 		du -sh */ | sort -h 
 
+- Show the total space used on all your local disk partitions. 🌟
+
+		df -lP |awk '{sum += $3} END {printf "%d GiB\n", sum/2**20}' 
+
 - Print disk space used on all ext3 or 4 FS in GiB.
 
 		df -Pl -t ext3 -t ext4 | tail -n+2 | awk '{ sum+=$3 } END { print sum/2**20 }'
@@ -127,6 +131,10 @@
 - Quickly find the largest 5 files in the CWD tree without crossing filesystem boundaries 🌟🌟🌟
 
 		find . -xdev -ls | sort -n -k 7 | tail -5
+
+- Use the */ trick to get only the directories, then use ${dir%/} to remove the trailing / you get
+
+		for dir in */ ; do echo "${dir%/}" ; done
 
 - Move current year pics to 2015 directory.
 
@@ -177,6 +185,10 @@
 - Replace foo with bar only on lines that contain 'bang'. Use in pipeline or with file args. 🌟
 
 		sed "/bang/ s/foo/bar/" 
+
+- Watch web server access log for HTTP status code 500 & display entry generated that code: 🌟
+
+		tail -f access.log | awk '$9 == 500 { print $0 }'
 
 - list top 50 404's in descending order.
 
