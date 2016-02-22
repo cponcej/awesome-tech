@@ -43,6 +43,7 @@ pages:
 - Elasticsearch: elasticsearch.md
 - Software Development: sw-devel.md
 - Sublime Text Editor: sublime.md
+- Java: java.md
 - Python: python.md
 - Data Science and Big Data: data-science.md
 - SQL and Databases: databases.md
