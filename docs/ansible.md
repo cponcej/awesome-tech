@@ -19,6 +19,9 @@
 
 [![Red Hat acquires Ansible](images/redhat-ansible.png)](https://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Impressions from <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> London 2016 <a href="https://t.co/Xbr1FkkB0q">https://t.co/Xbr1FkkB0q</a></p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/700724093214130177">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Ansible
 - [releases.ansible.com](http://releases.ansible.com)
 - [fast.wistia.net: Ansible video tutorial](http://fast.wistia.net/embed/iframe/qrqfj371b6)

@@ -263,6 +263,7 @@
 - [Monkeying around on the bash command line in 2016](http://www.computerworld.com/article/3018637/open-source-tools/monkeying-around-on-the-bash-command-line-in-2016.html)
 - [Linux/UNIX: Find Out If File Exists With Conditional Expressions](http://www.cyberciti.biz/tips/find-out-if-file-exists-with-conditional-expressions.html)
 - [Linux/UNIX Recursively Search All Files For A String](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
+- [How To Find and Overcome Shell Command Line Length Limitations](http://www.cyberciti.biz/faq/argument-list-too-long-error-solution/)
 
 ## Command line text manipulation tools 
 - [AWK](https://en.wikipedia.org/wiki/AWK)
@@ -325,6 +326,8 @@
 - [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
 - [linuxjournal.com: Examining Load Average](http://www.linuxjournal.com/article/9001?page=0,1) A practical interpretation of Linux's load averages but also illuminates some of the dark mathematical shadows behind them 
 - [The many load averages of Unix(es)](https://utcc.utoronto.ca/~cks/space/blog/unix/ManyLoadAveragesOfUnix)
+- [How to measure your CPU time: clock_gettime! 🌟](http://jvns.ca/blog/2016/02/20/measuring-cpu-time-with-clock-gettime/)
+- [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
 
 ### htop
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)

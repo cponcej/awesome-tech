@@ -6,6 +6,7 @@
 	- [Excel](#excel)
 	- [Evernote](#evernote)
 		- [Evernote on Twitter](#evernote-on-twitter)
+	- [Trello](#trello)
 	- [Thunderbird](#thunderbird)
 		- [Thunderbird Extensions](#thunderbird-extensions)
 	- [Firefox](#firefox)
@@ -114,6 +115,19 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Instructions for how to create and customize tables in Evernote: <a href="https://t.co/CmId15SGVW">https://t.co/CmId15SGVW</a> <a href="https://twitter.com/hashtag/EvernoteTips?src=hash">#EvernoteTips</a> <a href="https://t.co/Eum74BZP6Z">pic.twitter.com/Eum74BZP6Z</a></p>&mdash; Evernote Helps (@evernotehelps) <a href="https://twitter.com/evernotehelps/status/676793901538127872">diciembre 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Trello
+- [trello.com](https://trello.com)
+- [Using Trello For A Job Search: Less Stress, More Process](http://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">At over 50% remote, here are some tools &amp; tips that help us manage our teams - <a href="https://t.co/epV8CRF7qU">https://t.co/epV8CRF7qU</a> <a href="https://t.co/N8i3h0VODy">pic.twitter.com/N8i3h0VODy</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/700749202591092737">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Agile isn&#39;t just for devs! Learn how to implement the <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> process with your team - <a href="https://t.co/TNI2UpCCWu">https://t.co/TNI2UpCCWu</a> <a href="https://t.co/s7uy1DQDqT">pic.twitter.com/s7uy1DQDqT</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/700592660801679361">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">On the job hunt this weekend? Organize applications &amp; interviews in Trello <a href="https://t.co/HAotII6v6J">https://t.co/HAotII6v6J</a> <a href="https://t.co/rj93N8KPL2">pic.twitter.com/rj93N8KPL2</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/701073876701175808">febrero 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Thunderbird

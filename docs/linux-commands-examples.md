@@ -24,6 +24,18 @@
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">awk -F: {&#39;print $1 &quot;:&quot; $2&#39;} messages |uniq -c # Count syslog hits per minute in your messages log file. Useful for doing quick stats.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/698996908224700416">February 14, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">grep -P -o &#39;(?&lt;=href=&quot;)http:\S+(?=&quot;)&#39; *.html # Use perl regex (negative look-behind/look-ahead assertions) to get URLs.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/701504023661309952">febrero 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sed &quot;/bang/ s/foo/bar/&quot; # Replace foo with bar only on lines that contain &#39;bang&#39;. Use in pipeline or with file args. Thanks <a href="https://twitter.com/Agarri_FR">@Agarri_FR</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/701130794958503937">febrero 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">less +F filename.log # Using +F option or pressing F in less is similar to `tail -f filename.log` but can use less&#39;s features. Thx <a href="https://twitter.com/gazoombo">@gazoombo</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/700559802267738112">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">rig # rig is this cool little program that generates random identities.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/700781228736249860">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/xkDQZITioJ">https://t.co/xkDQZITioJ</a> - du with colored bar graph (point_to_null) <a href="https://twitter.com/hashtag/space?src=hash">#space</a> <a href="https://twitter.com/hashtag/awk?src=hash">#awk</a> <a href="https://twitter.com/hashtag/du?src=hash">#du</a> <a href="https://twitter.com/hashtag/graph?src=hash">#graph</a> <a href="https://twitter.com/hashtag/disk?src=hash">#disk</a></p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/698497131561115648">febrero 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -65,6 +77,10 @@
 - Edit a file on a remote server using vim from your local *nix desktop
 
 		vim scp://user@server1//etc/httpd/httpd.conf 
+
+- Using +F option or pressing F in less is similar to `tail -f filename.log` but can use less's features. 🌟🌟
+
+		less +F filename.log 
 
 - Find out which of your directories(below the current directory) occupy at least 1GB of space. 🌟🌟
 
@@ -153,11 +169,19 @@
 
 		ssh -D 8989 you@remotehost 
 
+- After all the host keys and auth, you'll be on server3.
+
+		ssh -t user1@server1 'ssh -t user2@server2 "ssh -t user3@server3"'
+
 - The awk variable $1 contains the first field in a record, $2 the second, $3 the third, etc. $0 contains all fields.
 
 - List 10 largest open file on Unix:
 
 		lsof /|awk '{ if($7>1048576) print $7/1048576 "MB" " " $9 " " $1 }'|sort -nu|tail 
+
+- Replace foo with bar only on lines that contain 'bang'. Use in pipeline or with file args. 🌟
+
+		sed "/bang/ s/foo/bar/" 
 
 - list top 50 404's in descending order.
 
@@ -273,6 +297,10 @@
 - Start a web service on port 8000 that uses the current directory as its document root
 
 		python -m SimpleHTTPServer
+
+- Use perl regex (negative look-behind/look-ahead assertions) to get URLs.
+
+		grep -P -o '(?<=href=")http:\S+(?=")' *.html 
 
 - Make slideshow from *.jpg
 

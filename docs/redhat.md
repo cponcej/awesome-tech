@@ -27,6 +27,7 @@
 		- [JBoss Data Virtualization](#jboss-data-virtualization)
 		- [JBoss Data Grid](#jboss-data-grid)
 	- [Red Hat Development](#red-hat-development)
+		- [Red Hat Container Development Kit](#red-hat-container-development-kit)
 	- [Red Hat Varnish](#red-hat-varnish)
 	- [Red Hat Videos](#red-hat-videos)
 
@@ -321,6 +322,9 @@
 	- [Reddit: Red Hat Software Collections (SCL) is not provided with RHEL Server/Workstation, Self Support](https://www.reddit.com/r/redhat/comments/39kk0s/red_hat_software_collections_scl_is_not_provided/)
 - [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 - [dzone.com: Red Hat Explores Node.js and Java Integration Options and Partners With Azure](https://dzone.com/articles/red-hat-explores-nodejs-and-java-integration-optio)
+
+### Red Hat Container Development Kit
+- [Red Hat Container Development Kit 2](http://developerblog.redhat.com/2016/02/08/update-red-hat-container-development-kit-2-beta/)
 
 ## Red Hat Varnish
 - [Varnish Cache](https://www.varnish-cache.org/)

@@ -11,6 +11,7 @@
 	- [Editors](#editors)
 		- [Sublime Text Editor](#sublime-text-editor)
 		- [Alternative editors](#alternative-editors)
+			- [Neovim](#neovim)
 		- [Diff Tools](#diff-tools)
 	- [Regular expressions](#regular-expressions)
 	- [Bash](#bash)
@@ -41,6 +42,7 @@
 		- [Selenium](#selenium)
 			- [Selenium on Twitter](#selenium-on-twitter)
 		- [Arquillian Testing Platform](#arquillian-testing-platform)
+		- [Issue tracking tools](#issue-tracking-tools)
 
 <!-- /MarkdownTOC -->
 
@@ -173,6 +175,10 @@
 - [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
 - [thimble.mozilla.org: Thimble is an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/)
 - [Code::Blocks - A free C, C++ and Fortran IDE](http://sourceforge.net/projects/codeblocks/)
+
+#### Neovim
+- [neovim.io](https://neovim.io)
+- [Neovim tutorial](http://patrickmarchand.com/posts/neovim-tuto.html)
 
 [![Be like Bill](images/be_like_bill.jpg)](https://twitter.com/nixcraft)
 
@@ -337,6 +343,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend <a href="https://t.co/vEbdJxG2mA">https://t.co/vEbdJxG2mA</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/700678314445271040">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">🔥 Use a variable to hold and call your methods instead of using if statements <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a> <a href="https://t.co/rH2ygKeBSr">pic.twitter.com/rH2ygKeBSr</a></p>&mdash; Wes Bos (@wesbos) <a href="https://twitter.com/wesbos/status/701450025944145920">febrero 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### HTML5 and Static Site Generators vs Dynamic CMSs
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
 	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
@@ -439,6 +448,9 @@
 
 ### Arquillian Testing Platform
 - [Arquillian references in this blog](redhat.md#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
+
+### Issue tracking tools
+- [Top 4 open source issue tracking tools](https://opensource.com/business/16/2/top-issue-support-and-bug-tracking-tools)
 
 ________________________________________________________________________________________________________________________________
 

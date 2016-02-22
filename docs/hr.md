@@ -51,6 +51,7 @@
 - [cityam.com: Why you should stop trying to make your team like you](http://www.cityam.com/234743/why-you-should-stop-trying-to-make-your-team-like-you)
 - [‘Flexible Work Policies Shouldn’t Just Be About Parents’ 🌟](http://motto.time.com/4219863/parental-leave-flexible-work-policies-for-non-parents) People without children have personal lives that matter, too 
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
+- [Employer Loved Me... Then Rejected Me](https://www.linkedin.com/pulse/employer-loved-me-rejected-j-t-o-donnell)
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
@@ -72,6 +73,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">17 signs your boss is about to quit <a href="https://t.co/sielMFFp1q">https://t.co/sielMFFp1q</a> <a href="https://t.co/yCiUljiHCL">pic.twitter.com/yCiUljiHCL</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/699651429959598081">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How loyal are millennial employees? <a href="https://t.co/uaNXKspauh">https://t.co/uaNXKspauh</a> <a href="https://twitter.com/hashtag/work?src=hash">#work</a> <a href="https://t.co/LYBQbboeD2">pic.twitter.com/LYBQbboeD2</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/701055035623526400">febrero 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Office Politics

@@ -99,6 +99,7 @@
 - [At the Intersection of Git and DevOps](http://devops.com/2016/02/10/at-the-intersection-of-git-and-devops/) IT managers face the challenge of reconciling the needs of developers with the needs of the larger organization, especially when it comes to DevOps. In this article, we will examine some of these challenges and suggest best practices that can alleviate them.
 - [opensource.com: Version control isn't just for programmers](https://opensource.com/life/16/2/version-control-isnt-just-programmers)
 - [opensource.com: Using Git in the classroom 🌟](https://opensource.com/education/16/1/git-education-classroom)
+- [medium: Understanding git for real by exploring the .git directory](https://medium.com/@pierreda/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807)
 
 [![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/) 
 
@@ -106,6 +107,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You might want to hug this book: <a href="https://twitter.com/FunnelFiasco">@funnelfiasco</a> reviews &quot;Git for Teams&quot; <a href="https://t.co/9mnrQVBZL2">https://t.co/9mnrQVBZL2</a> <a href="https://t.co/wvoWJPWyKv">pic.twitter.com/wvoWJPWyKv</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/700234046941466625">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">“Understanding git for real by exploring the .git directory” by <a href="https://twitter.com/PierreDeWulf">@PierreDeWulf</a> <a href="https://t.co/19QmkyK5JT">https://t.co/19QmkyK5JT</a></p>&mdash; Rebecca Slatkin (@RebeccaSlatkin) <a href="https://twitter.com/RebeccaSlatkin/status/701496411150356480">febrero 21, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
