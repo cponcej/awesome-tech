@@ -264,6 +264,7 @@
 - [Linux/UNIX: Find Out If File Exists With Conditional Expressions](http://www.cyberciti.biz/tips/find-out-if-file-exists-with-conditional-expressions.html)
 - [Linux/UNIX Recursively Search All Files For A String](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
 - [How To Find and Overcome Shell Command Line Length Limitations](http://www.cyberciti.biz/faq/argument-list-too-long-error-solution/)
+- [Linux/UNIX Recursively Search All Files For A String](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
 
 ## Command line text manipulation tools 
 - [AWK](https://en.wikipedia.org/wiki/AWK)
