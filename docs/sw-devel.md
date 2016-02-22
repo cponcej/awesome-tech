@@ -286,6 +286,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">🔥 Use a variable to hold and call your methods instead of using if statements <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a> <a href="https://t.co/rH2ygKeBSr">pic.twitter.com/rH2ygKeBSr</a></p>&mdash; Wes Bos (@wesbos) <a href="https://twitter.com/wesbos/status/701450025944145920">febrero 21, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![Learning Javascript](images/Learning-JavaScript.png)](http://www.wowebook.org/learning-javascript-3rd-edition.html)
+
 ### HTML5 and Static Site Generators vs Dynamic CMSs
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)
 	- [Initializr: Start an HTML5 project in 15 seconds!](http://www.initializr.com/)
