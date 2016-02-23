@@ -208,6 +208,7 @@
 - [Las denuncias por cesión ilegal de empleados caen por miedo al despido](http://ccaa.elpais.com/ccaa/2015/01/10/catalunya/1420916172_146008.html)
 - [elmundo.es: Trabajar de informático ya no es lo que era 🌟](http://www.elmundo.es/tecnologia/2014/05/17/5375ce54268e3edb7a8b456d.html)
     - [Ser informático ya no es lo que era](http://www.readwriteweb.es/ser-informatico/)
+    - [nubelo.com: Las empresas TIC y el BodyShopping en España](http://www.nubelo.com/blog/las-empresas-tic-bodyshopping-espana/)
 - [¿Qué dificultad tienen las distintas carreras universitarias según los propios estudiantes?](http://www.dudasbecasmec.com/2016/02/que-dificultad-tienen-las-distintas.html)
 - [forbes.es: Antes de aceptar una oferta de empleo, piensa en estas seis cosas](http://www.forbes.es/actualizacion/5381/antes-de-aceptar-una-oferta-de-empleo-piensa-en-estas-seis-cosas)
 - [La sombra de las entrevistas de trabajo es alargada 🌟](http://yoriento.com/2010/03/la-sombra-de-las-entrevistas-de-trabajo-es-alargada-685.html/)
