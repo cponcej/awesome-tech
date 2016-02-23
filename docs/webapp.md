@@ -7,8 +7,8 @@
 	- [HTTP Status Codes](#http-status-codes)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
 		- [Elasticsearch](#elasticsearch)
+	- [AMP Accelerated Mobile Pages](#amp-accelerated-mobile-pages)
 	- [Caching](#caching)
-		- [AMP Accelerated Mobile Pages](#amp-accelerated-mobile-pages)
 		- [HAProxy](#haproxy)
 		- [Varnish](#varnish)
 		- [Memcached](#memcached)
@@ -87,17 +87,17 @@
 ### Elasticsearch
 - [Elasticsearch](elasticsearch.md)
 
+## AMP Accelerated Mobile Pages
+- A free, open source service that does all the work to make sites load fast
+- [Google’s plan to speed up the mobile Web: Burn it down 🌟](http://thenextweb.com/insider/2015/10/07/googles-plan-to-speed-up-the-mobile-web-burn-it-down/)
+- [ampproject.org](https://www.ampproject.org) Accelerated Mobile Pages Project
+- [github.com/ampproject](https://github.com/ampproject)
+
 ## Caching
 - [Wikipedia: Web cache](https://en.wikipedia.org/wiki/Web_cache)
 - [Wikipedia: CDN Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
 - [Wikipedia: Dynamic site acceleration](https://en.wikipedia.org/wiki/Dynamic_site_acceleration)
 - [Slideshare: Caching](http://www.slideshare.net/NasceniaIT/brown-bag-caching-rafi-faisal-48694442)
-
-### AMP Accelerated Mobile Pages
-- A free, open source service that does all the work to make sites load fast
-- [Google’s plan to speed up the mobile Web: Burn it down 🌟](http://thenextweb.com/insider/2015/10/07/googles-plan-to-speed-up-the-mobile-web-burn-it-down/)
-- [ampproject.org](https://www.ampproject.org) Accelerated Mobile Pages Project
-- [github.com/ampproject](https://github.com/ampproject)
 
 ### HAProxy
 - [HAProxy](http://www.haproxy.org)
