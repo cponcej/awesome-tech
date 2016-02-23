@@ -7,8 +7,11 @@
 	- [HTTP Status Codes](#http-status-codes)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
 		- [Elasticsearch](#elasticsearch)
-	- [HAProxy](#haproxy)
-	- [Varnish](#varnish)
+	- [Caching](#caching)
+		- [HAProxy](#haproxy)
+		- [Varnish](#varnish)
+		- [Memcached](#memcached)
+		- [Redis](#redis)
 	- [Apache and Tomcat](#apache-and-tomcat)
 	- [Nginx](#nginx)
 	- [GlassFish](#glassfish)
@@ -83,7 +86,13 @@
 ### Elasticsearch
 - [Elasticsearch](elasticsearch.md)
 
-## HAProxy
+## Caching
+- [Wikipedia: Web cache](https://en.wikipedia.org/wiki/Web_cache)
+- [Wikipedia: CDN Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
+- [Wikipedia: Dynamic site acceleration](https://en.wikipedia.org/wiki/Dynamic_site_acceleration)
+- [Slideshare: Caching](http://www.slideshare.net/NasceniaIT/brown-bag-caching-rafi-faisal-48694442)
+
+### HAProxy
 - [HAProxy](http://www.haproxy.org)
 - [slideshare: Haproxy web performance](http://www.slideshare.net/haproxytech/haproxy-web-performance-55536394)
 - [slideshare: Load Balancing MySQL with HAProxy](http://www.slideshare.net/Severalnines/load-balancing-mysql-with-haproxy-webinar-replay-english-44071270)
@@ -96,7 +105,7 @@
 </div>
 <br/>
 
-## Varnish
+### Varnish
 - [Varnish Cache](https://www.varnish-cache.org/)
 - [fedoramagazine.org: Varnish: Your site faster and more stable](https://fedoramagazine.org/varnish-site-faster-stable/)
 - [Red Hat Developer Blog. Tag: Varnish](https://developerblog.redhat.com/tag/varnish/)
@@ -117,6 +126,29 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/crhLrhAgnlZmLv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/samanthaquinonestembies/superchargin-varnish" title="Supercharging Content Delivery with Varnish" target="_blank">Supercharging Content Delivery with Varnish</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/samanthaquinonestembies">Samantha Quiñones</a></strong> </div>
+</div>
+<br/>
+
+### Memcached
+- [memcached.org](http://memcached.org)
+- [Slideshare: Introduction to memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rqpOlUNkU6NOvo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/oemebamo/introduction-to-memcached" title="Introduction to memcached" target="_blank">Introduction to memcached</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/oemebamo">Jurriaan Persyn</a></strong> </div>
+</div>
+<br/>
+
+### Redis
+- [redis.io](http://redis.io)
+- [Slideshare: Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3nvYR34GEVLEei" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dvirsky/introduction-to-redis" title="Introduction to Redis" target="_blank">Introduction to Redis</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dvirsky">Dvir Volk</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/42WDX39CPeO9e6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NasceniaIT/brown-bag-caching-rafi-faisal-48694442" title="Caching" target="_blank">Caching</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/NasceniaIT">Nascenia IT</a></strong> </div>
 </div>
 <br/>
 
