@@ -88,7 +88,8 @@
 
 ## Job Search
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
-- [The difference between contracting and consulting, and why it matters](http://www.techrepublic.com/blog/it-consultant/the-difference-between-contracting-and-consulting-and-why-it-matters-125429/)
+- [The difference between contracting and consulting, and why it matters 🌟🌟🌟](http://www.techrepublic.com/blog/it-consultant/the-difference-between-contracting-and-consulting-and-why-it-matters-125429/)
+- [The 23 cities with the best quality of life in the world 🌟](http://uk.businessinsider.com/mercer-2016-quality-of-living-worldwide-city-rankings-2016-2)
 - [Eures Job Search](https://ec.europa.eu/eures/)
 - [make-it-in-germany.com](http://www.make-it-in-germany.com/)
 - [prospects.ac.uk](http://www.prospects.ac.uk/)
