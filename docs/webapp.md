@@ -12,6 +12,7 @@
 	- [Apache and Tomcat](#apache-and-tomcat)
 	- [Nginx](#nginx)
 	- [GlassFish](#glassfish)
+	- [Wordpress](#wordpress)
 	- [WebLogic](#weblogic)
 		- [Oracle Blogs: Middleware and Java](#oracle-blogs-middleware-and-java)
 		- [WebLogic Resources](#weblogic-resources)
@@ -153,6 +154,9 @@
 
 ## GlassFish
 - [twitter.com/glassfish](https://twitter.com/glassfish)
+
+## Wordpress
+- [stosu.com](https://stosu.com) Free How-To Tutorials for WordPress and Windows Users
 
 ## WebLogic
 ### Oracle Blogs: Middleware and Java

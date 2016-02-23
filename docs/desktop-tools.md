@@ -141,6 +141,7 @@
 - [Saving bandwidth on Google Chrome and Mozilla Thunderbird](http://jjamwal.in/yayavar/saving-bandwidth-on-google-chrome-and-mozilla-thunderbird/)
 - [Safe Mode Thunderbird](https://support.mozilla.org/en-US/kb/safe-mode-thunderbird)
 - [Configurar correo de Office 365 en Mozilla Thunderbird](http://blog.jgaitpro.com/configurar-correo-de-office-365-en-mozilla-thunderbird/)
+- [How to Merge Email Threads in Mozilla Thunderbird](https://stosu.com/how-to-merge-email-threads-in-mozilla-thunderbird/)
 
 ### Thunderbird Extensions
 - [Provider for Google Calendar](https://addons.mozilla.org/thunderbird/addon/provider-for-google-calendar)
