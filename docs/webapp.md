@@ -95,7 +95,7 @@
 
 ### AMP Accelerated Mobile Pages
 - A free, open source service that does all the work to make sites load fast
-- [Google’s plan to speed up the mobile Web: Burn it down](http://thenextweb.com/insider/2015/10/07/googles-plan-to-speed-up-the-mobile-web-burn-it-down/)
+- [Google’s plan to speed up the mobile Web: Burn it down 🌟](http://thenextweb.com/insider/2015/10/07/googles-plan-to-speed-up-the-mobile-web-burn-it-down/)
 - [ampproject.org](https://www.ampproject.org) Accelerated Mobile Pages Project
 - [github.com/ampproject](https://github.com/ampproject)
 
