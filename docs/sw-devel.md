@@ -36,6 +36,7 @@
 		- [JSON](#json)
 		- [Mozilla Tools](#mozilla-tools)
 	- [QA. Software Testing](#qa-software-testing)
+		- [JUnit](#junit)
 		- [Selenium](#selenium)
 			- [Selenium on Twitter](#selenium-on-twitter)
 		- [Arquillian Testing Platform](#arquillian-testing-platform)
@@ -368,7 +369,6 @@
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
 - [TestNG: Run tests sequentially with @DataProvider inside one test class](http://www.javacodegeeks.com/2014/01/testng-run-tests-sequentially-with-dataprovider-inside-one-test-class.html)
 - [thenewstack.io: How Vagrant Eases Software Research and Testing](http://thenewstack.io/vagrant-developers-researchers/)
-- [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
 - [Free online Book: O'Reilly® Test-Driven Development with Python](http://freecomputerbooks.com/Test-Driven-Development-with-Python.html)
 - [eBook: Testing Python. Applying Unit Testing, TDD, BDD and Acceptance Testing](http://it-ebooks.info/book/3778/)
 - [pyvideo.org: TDD with Django, from scratch: a beginner's intro to testing and web development](http://www.pyvideo.org/video/3509/tdd-with-django-from-scratch-a-beginners-intro)
@@ -386,6 +386,10 @@
 	- [runscope.com](https://www.runscope.com/)
 - [Why Automated Testing is the key to rapid product development](https://nothingventured.rocks/why-automated-testing-is-the-key-to-rapid-product-development-e8b0a3d3040)
 - [certifications.bcs.org: ISTQB Certified Tester](http://certifications.bcs.org/category/15574)
+
+### JUnit
+- [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
+- [JUnit 5: Setup, Build Tool Support, and Writing Your First Test](https://dzone.com/articles/junit-5-setup)
 
 ### Selenium
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
