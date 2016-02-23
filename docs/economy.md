@@ -269,7 +269,6 @@ ________________________________________________________________________________
 
 [![15 documentaries on Netflix that will make you smarter about business](images/netflix_business_documentaries.png)](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
 
-- [15 documentaries on Netflix that will make you smarter about business](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
 - [The Italian Tech Sector Is Getting A Boost From Big U.S. Partners](http://techcrunch.com/2016/02/04/the-italian-tech-sector-is-getting-a-boost-from-big-u-s-partners)
 - [OECD: Benefiting from the Next Production Revolution 🌟](http://oecdinsights.org/2016/02/23/benefiting-from-the-next-production-revolution/)
 

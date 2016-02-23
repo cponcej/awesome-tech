@@ -3,7 +3,7 @@
 
 - [Startups](#startups)
 	- [Startup related links](#startup-related-links)
-		- [Startup Blogs](#startup-blogs)
+		- [Startup Blogs, Documentaries and Talks](#startup-blogs-documentaries-and-talks)
 	- [IT remuneration](#it-remuneration)
 	- [Trabajar por el mundo](#trabajar-por-el-mundo)
 		- [Barcelona startups](#barcelona-startups)
@@ -44,9 +44,11 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - [Mark Cuban's 12 Rules for Startups 🌟](http://www.entrepreneur.com/article/222524)
 
-### Startup Blogs
+### Startup Blogs, Documentaries and Talks
 - [entrepreneur.com 🌟](http://www.entrepreneur.com)
 - [soyentrepreneur.com](http://www.soyentrepreneur.com)
+- [15 documentaries on Netflix that will make you smarter about business](http://www.businessinsider.com/business-documentaries-on-netflix-watch-instantly-2016-1)
+- [7 TED Talks you should watch if you want to be an entrepreneur](http://www.businessinsider.com/ted-talks-you-should-watch-if-you-want-to-be-an-entrepreneur-2016-2)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/whydevops?src=hash">#whydevops</a> RT &quot;<a href="https://twitter.com/StartupLJackson">@StartupLJackson</a>: The Internet is no longer a technology. The Internet is a psychology experiment. <a href="http://t.co/AI84hYuhdz">http://t.co/AI84hYuhdz</a>&quot;</p>&mdash; Eric Callen (@cogitoergoBOFH) <a href="https://twitter.com/cogitoergoBOFH/status/478927401573834752">junio 17, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
