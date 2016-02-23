@@ -160,6 +160,8 @@
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [git-scm clients](http://git-scm.com/downloads)
 - [TortoiseGit](https://tortoisegit.org/)
+- [Git for Windows](https://git-for-windows.github.io)
+    - [Need an SSH client on Windows? Don't use Putty or CygWin...use Git](http://www.hurryupandwait.io/blog/need-an-ssh-client-on-windows-dont-use-putty-or-cygwinuse-git)
 - [Git Extensions](http://sourceforge.net/projects/gitextensions/) Git Extensions is a toolkit aimed at making working with Git on Windows more intuitive
 
 [![git image](images/git.png)](http://www.cyberciti.biz/)
