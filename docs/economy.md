@@ -249,7 +249,6 @@ ________________________________________________________________________________
 	- [Mentiras, evasivas, disparates, odios y esquizofrenia (E839)](https://youtu.be/yWoeZsZdaxs)
 	- [Época de recesiones (E840) 🌟](https://youtu.be/esnj2lfr4zA)
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
-- [Ser informático ya no es lo que era](http://www.readwriteweb.es/ser-informatico/)
 - [El sarcasmo de Niño Becerra con la economía española y su visión sobre la recesión mundial](http://www.bolsamania.com/noticias/economia/el-sarcasmo-de-nino-becerra-con-la-economia-espanola--1029719.html)
 - [Economistas frente a la crisis](http://economistasfrentealacrisis.com/)
     - [Crisis generacional. Los jóvenes dejan de buscar empleo en España](http://economistasfrentealacrisis.com/crisis-generacional-los-jovenes-dejan-de-buscar-empleo-en-espana/) 
