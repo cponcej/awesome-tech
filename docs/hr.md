@@ -206,7 +206,7 @@
 - [¿Es bueno tener equipos estables? (vamos, que no rote constantemente la gente)](http://www.javiergarzas.com/2015/09/es-bueno-tener-equipos-estables-vamos-que-no-rote-constantemente-la-gente.html)
 - [El oscuro secreto del proceso de selección 🌟](http://zumodeempleo.com/el-oscuro-secreto-del-proceso-de-seleccion/)
 - [Las denuncias por cesión ilegal de empleados caen por miedo al despido](http://ccaa.elpais.com/ccaa/2015/01/10/catalunya/1420916172_146008.html)
-- [elmundo.es: Trabajar de informático ya no es lo que era](http://www.elmundo.es/tecnologia/2014/05/17/5375ce54268e3edb7a8b456d.html)
+- [elmundo.es: Trabajar de informático ya no es lo que era 🌟](http://www.elmundo.es/tecnologia/2014/05/17/5375ce54268e3edb7a8b456d.html)
     - [Ser informático ya no es lo que era](http://www.readwriteweb.es/ser-informatico/)
 - [¿Qué dificultad tienen las distintas carreras universitarias según los propios estudiantes?](http://www.dudasbecasmec.com/2016/02/que-dificultad-tienen-las-distintas.html)
 - [forbes.es: Antes de aceptar una oferta de empleo, piensa en estas seis cosas](http://www.forbes.es/actualizacion/5381/antes-de-aceptar-una-oferta-de-empleo-piensa-en-estas-seis-cosas)
