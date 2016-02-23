@@ -157,6 +157,7 @@
 - [twitter.com/RemoteWorkingCo](https://twitter.com/RemoteWorkingCo)
 - [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
 - [43 Best Job Search Websites 2016](http://careersherpa.net/43-best-job-search-websites-2016/)
+- [The rise of LinkedIn fraud 🌟](http://www.csoonline.com/article/3036072/social-networking/the-rise-of-linkedin-fraud.html)
 
 [![boss vs leader](images/boss_vs_leader.png)](http://www.presentationgo.com/presentation/differences-boss-leader-powerpoint/)
 
