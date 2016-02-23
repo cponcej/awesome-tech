@@ -34,6 +34,7 @@
 
 ### MongoDB on Twitter
 - [twitter.com/MongoDB](https://twitter.com/MongoDB)
+- [3T Software Labs](https://twitter.com/3tsoftwarelabs) MongoDB Tools for developers
 
 ### MongoDB Tools and MongoDB as a Service
 - [MongoDB Tools - Admin GUIs, Monitoring and Other Good Stuff](http://mongodb-tools.com/)
@@ -68,6 +69,9 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">SQL or NoSQL<a href="https://t.co/ilNZTJJOcG">https://t.co/ilNZTJJOcG</a><br><br>Story of a company starting with MongoDB and quickly after hitting it&#39;s limits.</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/691609991531347968">enero 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Build <a href="https://twitter.com/hashtag/MongoDB?src=hash">#MongoDB</a> Map-Reduce queries with ease! Preview the data at any stage! Use <a href="https://twitter.com/hashtag/MongoChef?src=hash">#MongoChef</a> <a href="https://t.co/u7h33BSItn">https://t.co/u7h33BSItn</a> <a href="https://t.co/mF5K62T9lz">pic.twitter.com/mF5K62T9lz</a></p>&mdash; 3T Software Labs (@3TSoftwareLabs) <a href="https://twitter.com/3TSoftwareLabs/status/694905949509808128">febrero 3, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Redis, Coudhdb, and others
