@@ -1,10 +1,10 @@
 <!-- MarkdownTOC -->
 
 - [Network Forensics](#network-forensics)
-    - [Network Forensics Blogs](#network-forensics-blogs)
-    - [Network Forensics and Wireshark on Twitter](#network-forensics-and-wireshark-on-twitter)
-    - [Network Forensics Docs](#network-forensics-docs)
-    - [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
+	- [Network Forensics Blogs](#network-forensics-blogs)
+	- [Network Forensics and Wireshark on Twitter](#network-forensics-and-wireshark-on-twitter)
+	- [Network Forensics Docs](#network-forensics-docs)
+	- [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
 
 <!-- /MarkdownTOC -->
 
@@ -45,7 +45,7 @@
 <br>
 
 ## Network Forensics Docs
-- [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/)
+- [Digital Attack Map. Top daily DDoS attacks worldwide 🌟🌟🌟](http://www.digitalattackmap.com/)
 	- [radware.com: DDoS Handbook](https://www.radware.com/social/ddoshandbook/)
 - [WireEdit. First-Of-A-Kind and The Only Full Stack WYSIWYG Packet Editor Edit L2 - L7 with just a few clicks](https://wireedit.com/)
 - [Optimal Wireshark Setup | Enhance Your Wireshark Experience](https://www.youtube.com/watch?v=F4l3CedRlJc)

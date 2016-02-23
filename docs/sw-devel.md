@@ -52,6 +52,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A good programmer can get more done than 10 bad programmers, but a bad programmer&#39;s code can keep 10 good programmers busy for years.</p>&mdash; Ed Weissman (@edw519) <a href="https://twitter.com/edw519/status/463675238673170432">mayo 6, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/701785024257851392">febrero 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![commitstrip legacy project](images/commitstrip_legacy_project.jpg)](http://www.commitstrip.com/en/2016/02/15/our-companys-greatest-project/)
 
 # Software Development
@@ -73,6 +76,10 @@
 - [DZone/DevOps Zone: 13 Experts Share Their 2016 Software Industry Predictions](https://dzone.com/articles/13-experts-share-their-2016-software-industry-pred)
 - [6 ways to code faster and with less bugs](www.webcodegeeks.com/web-development/6-ways-code-faster-less-bugs/)
 - [The Developer Struggle is Real: What Our Family and Friends Think We Do](https://dzone.com/articles/the-developer-struggle-is-real-what-our-family-and) What our friends and family think we do is quite different from what we actually do. Their misconceptions lead to hilarious exchanges.
+- [Which programming language should I learn first? 🌟🌟🌟](http://i.cubeupload.com/dxUuH1.png)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which programming language should I learn first? Large version <a href="https://t.co/JxKrY4rYUD">https://t.co/JxKrY4rYUD</a> <a href="https://t.co/O51aIH5EcM">pic.twitter.com/O51aIH5EcM</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/701895847731032064">febrero 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Blogs and Forums
 - [DZone 🌟🌟🌟🌟🌟](http://dzone.com)

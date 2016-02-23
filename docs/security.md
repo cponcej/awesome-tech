@@ -2,9 +2,10 @@
 <!-- MarkdownTOC -->
 
 - [Security](#security)
-	- [Awesome Lists](#awesome-lists)
+	- [Awesome Security Lists](#awesome-security-lists)
 	- [CVE Common Vulnerabilities and Exposures](#cve-common-vulnerabilities-and-exposures)
 	- [OpenSCAP and Lynis. Open Source security auditing tools](#openscap-and-lynis-open-source-security-auditing-tools)
+	- [Cisco Security Advisories and Responses 🌟🌟🌟](#cisco-security-advisories-and-responses-🌟🌟🌟)
 	- [Security Blogs](#security-blogs)
 		- [Blogs de Seguridad Informática](#blogs-de-seguridad-informática)
 		- [Network Security](#network-security)
@@ -23,29 +24,29 @@
 	- [Email security. Anti Spam protection](#email-security-anti-spam-protection)
 	- [Server Hardening](#server-hardening)
 	- [Next Generation Firewalls](#next-generation-firewalls)
-	- [Major security issues](#major-security-issues)
-		- [Java Serialization Vulnerability](#java-serialization-vulnerability)
-		- [Windows](#windows)
-		- [Linux](#linux)
-		- [LastPass](#lastpass)
+	- [Major Security Vulnerabilities](#major-security-vulnerabilities)
+		- [Java Serialization Vulnerability. November 2015](#java-serialization-vulnerability-november-2015)
+		- [Windows Vulnerabilities](#windows-vulnerabilities)
+		- [Linux Vulnerabilities](#linux-vulnerabilities)
+		- [LastPass. January 2016](#lastpass-january-2016)
 		- [SQL injection 🌟](#sql-injection-🌟)
-		- [Heartbleed 🌟](#heartbleed-🌟)
-		- [Shellshock 🌟](#shellshock-🌟)
-		- [OpenSSH Roaming Bug](#openssh-roaming-bug)
-		- [OpenSSL](#openssl)
-		- [HTTPS Bicycle Attack](#https-bicycle-attack)
-		- [Backdoors](#backdoors)
-		- [Linode SSH](#linode-ssh)
-		- [glibc stack-based buffer overflow 🌟](#glibc-stack-based-buffer-overflow-🌟)
+		- [Heartbleed. April 2014 🌟](#heartbleed-april-2014-🌟)
+		- [Shellshock. September 2014 🌟](#shellshock-september-2014-🌟)
+		- [OpenSSH Roaming Bug. January 2016](#openssh-roaming-bug-january-2016)
+		- [OpenSSL. January 2016](#openssl-january-2016)
+		- [HTTPS Bicycle Attack. December 2015](#https-bicycle-attack-december-2015)
+		- [Backdoors. December 2015](#backdoors-december-2015)
+		- [Linode SSH. February 2016](#linode-ssh-february-2016)
+		- [glibc stack-based buffer overflow. February 2016 🌟](#glibc-stack-based-buffer-overflow-february-2016-🌟)
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
-		- [Container security. Who’s fixing containers?](#container-security-who’s-fixing-containers)
+		- [Container security. Who’s fixing containers? February 2016](#container-security-who’s-fixing-containers-february-2016)
 
 <!-- /MarkdownTOC -->
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135125776940" data-did="9e79099acd0b5daa3f8b74dc625a47adf3422f39"><a href="http://securityreactions.tumblr.com/post/135125776940/management-is-so-busy-developing-security-metrics">http://securityreactions.tumblr.com/post/135125776940/management-is-so-busy-developing-security-metrics</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 # Security
-## Awesome Lists
+## Awesome Security Lists
 - [awesome security](https://github.com/sbilly/awesome-security)
 - [awesome security talks](https://github.com/PaulSec/awesome-sec-talks)
 - [awesome penetration testing](https://github.com/enaqx/awesome-pentest)
@@ -61,6 +62,9 @@
 
 ## OpenSCAP and Lynis. Open Source security auditing tools
 - [OpenSCAP and Lynis. Open Source security auditing tools  🌟🌟🌟🌟](auditing-tools.md)
+
+## Cisco Security Advisories and Responses 🌟🌟🌟
+- [Cisco Security Advisories and Responses](https://tools.cisco.com/security/center/publicationListing.x)
 
 ## Security Blogs
 - [HaCoder.com 🌟](http://www.hacoder.com) 
@@ -241,39 +245,37 @@
 ## Next Generation Firewalls
 - [Next Generation Firewalls](networking.md#next-generation-firewalls-ngfw)
 
-## Major security issues
-- [Digital Attack Map. Top daily DDoS attacks worldwide](http://www.digitalattackmap.com/#anim=1&color=2&country=ALL&list=0&time=16064&view=map)
-- [keychain: Set Up Secure Passwordless SSH Access For Backup Scripts](http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
-- [PuTTY vulnerability vuln-ech-overflow](http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-ech-overflow.html)
-- [Drupal Hardens Its Security in Response to Criticism](http://www.eweek.com/security/drupal-hardens-its-security-in-response-to-criticism.html)
-- [New attacks on Network Time Protocol can defeat HTTPS and create chaos](http://arstechnica.com/security/2015/10/new-attacks-on-network-time-protocol-can-defeat-https-and-create-chaos/)
+## Major Security Vulnerabilities
+- [PuTTY vulnerability vuln-ech-overflow. November 2015](http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-ech-overflow.html)
+- [Drupal Hardens Its Security in Response to Criticism. January 2016](http://www.eweek.com/security/drupal-hardens-its-security-in-response-to-criticism.html)
+- [New attacks on Network Time Protocol can defeat HTTPS and create chaos. October 2015](http://arstechnica.com/security/2015/10/new-attacks-on-network-time-protocol-can-defeat-https-and-create-chaos/)
 - [seguridadapple.com: Las apps bancarias en iOS siguen teniendo debilidades respecto a 2013](http://www.seguridadapple.com/2015/12/las-apps-bancarias-en-ios-siguen.html)
 
-### Java Serialization Vulnerability
+### Java Serialization Vulnerability. November 2015
 - [dzone.com - Java Serialization Vulnerability Threatens Millions of Applications . Contrast security is promoting their solution for a vulnerability that affects WebLogic, WebSphere, JBoss, Jenkins, and OpenNMS.](https://dzone.com/articles/java-serialization-vulnerability-threatens-million)
 - [zdnet.com: Oracle ordered to blitz users with Java security warnings](http://www.zdnet.com/article/oracle-ordered-to-blitz-users-with-java-security-warnings/)
 - [dzone.com - This Java Vulnerability Makes Heartbleed Look Tame.Find out what the big deal is with the Java serialization security flaw that the community is buzzing about](https://dzone.com/articles/point-of-viewwhy-the-java-serialization-vulnerabil)
 
-### Windows
-- [Hot Potato – Windows Privilege Escalation](http://foxglovesecurity.com/2016/01/16/hot-potato/)
+### Windows Vulnerabilities
+- [Hot Potato – Windows Privilege Escalation - January 2016](http://foxglovesecurity.com/2016/01/16/hot-potato/)
 
-### Linux 
-- [Patching the GHOST glibc gethostbyname CVE-2015-0235 bug](https://sysadmincasts.com/episodes/44-patching-the-ghost-glibc-gethostbyname-cve-2015-0235-bug)
-- [Analysis and exploitation of a Linux Kernel vulnerability (CVE-2016-0728)](http://perception-point.io/2016/01/14/analysis-and-exploitation-of-a-linux-kernel-vulnerability-cve-2016-0728/)
+### Linux Vulnerabilities 
+- [Patching the GHOST glibc gethostbyname CVE-2015-0235 bug - January 2015](https://sysadmincasts.com/episodes/44-patching-the-ghost-glibc-gethostbyname-cve-2015-0235-bug)
+- [Analysis and exploitation of a Linux Kernel vulnerability (CVE-2016-0728) - January 2016](http://perception-point.io/2016/01/14/analysis-and-exploitation-of-a-linux-kernel-vulnerability-cve-2016-0728/)
 - [Serious 0-day Linux kernel vulnerability released. Apply fix ASAP. How To Patch and Protect Linux Kernel Zero Day Vulnerability CVE-2016-0728 (19/Jan/2016)](http://www.cyberciti.biz/faq/linux-cve-2016-0728-0-day-local-privilege-escalation-vulnerability-fix/)
 
-### LastPass
+### LastPass. January 2016
 - [LastPass](https://www.seancassidy.me/lostpass.html) I have discovered a phishing attack against LastPass that allows an attacker to steal a LastPass user's email, password, and even two-factor auth code, giving full access to all passwords and documents stored in LastPass. I call this attack LostPass. 
 - [ZDNet: LastPass phishing attack avoids two-factor authentication in data theft](http://www.zdnet.com/article/lastpass-phishing-attack-avoids-two-factor-authentication-to-steal-your-data/) The exploited security flaw is severe enough that successful attacks compromise two-factor authentication codes.
 
 ### SQL injection 🌟
 - [SQL injection](sql_injection.md)
 
-### Heartbleed 🌟
+### Heartbleed. April 2014 🌟
 - [Red Hat security blog: Heartbleed](https://securityblog.redhat.com/tag/heartbleed/)
 - [Fixing Heartbleed with Ansible](http://www.ansible.com/blog/fixing-heartbleed-with-ansible)
 
-### Shellshock 🌟
+### Shellshock. September 2014 🌟
 - [Shellshock: Bash bug 'bigger than Heartbleed' could undermine security of millions of websites – and there's nothing you can do to protect yourself](http://www.independent.co.uk/life-style/gadgets-and-tech/shell-shock-bash-bug-bigger-than-heartbleed-could-undermine-security-of-millions-of-websites-9754720.html)
 - [Ansible.com shellshock](http://www.ansible.com/blog/shellshock)
 - [Patch Shellshock with Ansible](https://raymii.org/s/articles/Patch_CVE-2014-6271_Shellshock_with_Ansible.html)
@@ -284,40 +286,44 @@
 - [Lynda.com: Protect Your System from the Shellshock Bash Exploit](http://www.lynda.com/articles/shellshock-bash-exploit)
 - [Red Hat security blog: Frequently Asked Questions about the Shellshock Bash flaws](https://securityblog.redhat.com/2014/09/26/frequently-asked-questions-about-the-shellshock-bash-flaws/)
 
-### OpenSSH Roaming Bug
+### OpenSSH Roaming Bug. January 2016
 - [scriptrock.com: Fixing The New OpenSSH Roaming Bug](https://www.scriptrock.com/blog/fixing-the-new-openssh-roaming-bug) A bug in a test feature of the OpenSSH client was found to be highly vulnerable to exploitation today, potentially leaking cryptographic keys to malicious attackers. First discovered and announced by the Qualys Security Team, the vulnerability affects OpenSSH versions 5.4 through 7.1.
 - [OpenSSH: client bugs CVE-2016-0777 and CVE-2016-0778](http://undeadly.org/cgi?action=article&sid=20160114142733)
 - [redhat.com: OpenSSH: Information-leak vulnerability (CVE-2016-0777)](https://access.redhat.com/articles/2123781)
 - [Using Puppet to address the new SSH client vulnerability](https://puppetlabs.com/blog/using-puppet-address-new-ssh-client-vulnerability)
 
-### OpenSSL
+### OpenSSL. January 2016
 - [High-severity bug in OpenSSL allows attackers to decrypt HTTPS traffic](http://arstechnica.com/security/2016/01/high-severity-bug-in-openssl-allows-attackers-to-decrypt-https-traffic/) OpenSSL maintainers release update that fixes key-recovery bug. Patch now. People using OpenSSL version 1.0.2 should upgrade to 1.0.2f, while those still using version 1.0.1 should install 1.0.1r.
 - [New High Severity OpenSSL Vulnerabilities Announced: CVE-2015-0291 & CVE-2015-0204](http://www.tripwire.com/state-of-security/vulnerability-management/new-high-severity-openssl-vulnerabilities-announced-cve-2015-0291-cve-2015-0204/)
 
-### HTTPS Bicycle Attack
+### HTTPS Bicycle Attack. December 2015
 - [guidovranken.wordpress.com: HTTPS Bicycle Attack](https://guidovranken.wordpress.com/2015/12/30/https-bicycle-attack/)
 - [New HTTPS Bicycle Attack Reveals Details About Passwords, GPS Coordinates](http://news.softpedia.com/news/new-https-bicycle-attack-reveals-details-about-passwords-gps-coordinates-498488.shtml)
 
-### Backdoors
+### Backdoors. December 2015
 - [On the Juniper backdoor](http://blog.cryptographyengineering.com/2015/12/on-juniper-backdoor.html)
 - [CVE-2015-7755: Juniper ScreenOS Authentication Backdoor](https://community.rapid7.com/community/infosec/blog/2015/12/20/cve-2015-7755-juniper-screenos-authentication-backdoor)
 - [Juniper drops NSA-developed code following new backdoor revelations](http://arstechnica.com/security/2016/01/juniper-drops-nsa-developed-code-following-new-backdoor-revelations/)
 - [SSH Backdoor for FortiGate OS Version 4.x up to 5.0.7](http://seclists.org/fulldisclosure/2016/Jan/26)
 
-### Linode SSH
+### Linode SSH. February 2016
 - [Linode SSH key blunder left virtual servers open to man-in-the-middle fiddles for months](http://www.theregister.co.uk/2016/02/09/linode_ssh_security/)
 
-### glibc stack-based buffer overflow 🌟
-- [Critical security flaw: glibc stack-based buffer overflow in getaddrinfo() (CVE-2015-7547) 🌟](https://access.redhat.com/articles/2161461)
+### glibc stack-based buffer overflow. February 2016 🌟
+- [redhat.com: Critical security flaw: glibc stack-based buffer overflow in getaddrinfo() (CVE-2015-7547) 🌟](https://access.redhat.com/articles/2161461)
+- [Linux Vulnerability Rattles Open Source Community](http://www.enterprisetech.com/2016/02/19/linux-vulnerability-rattles-open-source-community/)
+- [cisco.com: Vulnerability in GNU glibc Affecting Cisco Products: February 2016](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160218-glibc)
 
 ## Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments
 - [techpageone.co.uk: Top security initiatives for 2016. Encryption is the new “minimum” security](http://www.techpageone.co.uk/technology-uk-en/top-security-initiatives-2016/)
 - [techpageone.co.uk: The top 5 IT security threats for 2016](http://www.techpageone.co.uk/technology-uk-en/top-5-security-threats-2016)
 
-### Container security. Who’s fixing containers?
+### Container security. Who’s fixing containers? February 2016
 - [Container scanning: The thinnest of paper tigers](http://www.redhat.com/en/about/blog/container-scanning-thinnest-paper-tigers)
+- [App Containers Get a Needed Security Boost](http://www.enterprisetech.com/2016/02/05/app-containers-get-a-needed-security-boost/)
 
+[![glibc vulnerability docker](images/glibc_vulnerability_docker.png)](https://www.hastexo.com/blogs/florian/2016/02/21/containers-just-because-everyone-else/)
 
 [![hot potato windows privilege escalation](images/hot_potato.png)](http://foxglovesecurity.com/2016/01/16/hot-potato/)
 

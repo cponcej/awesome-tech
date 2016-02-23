@@ -329,7 +329,8 @@
 - [dzone.com: Red Hat Explores Node.js and Java Integration Options and Partners With Azure](https://dzone.com/articles/red-hat-explores-nodejs-and-java-integration-optio)
 
 ### Red Hat Container Development Kit
-- [Red Hat Container Development Kit 2](http://developerblog.redhat.com/2016/02/08/update-red-hat-container-development-kit-2-beta/)
+- [developerblog.redhat.com: Red Hat Container Development Kit 2](http://developerblog.redhat.com/2016/02/08/update-red-hat-container-development-kit-2-beta/)
+- [planet.jboss.org: How to install Red Hat Container Development Kit (CDK) in minutes 🌟](http://planet.jboss.org/post/how_to_install_red_hat_container_development_kit_cdk_in_minutes)
 
 ## Red Hat Varnish
 - [Varnish Cache](https://www.varnish-cache.org/)

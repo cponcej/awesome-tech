@@ -4,6 +4,7 @@
     - [Ansible on Twitter](#ansible-on-twitter)
     - [Ansible Support and Forums](#ansible-support-and-forums)
     - [Is ansible replacing puppet?](#is-ansible-replacing-puppet)
+    - [Ansible Videos and Slides](#ansible-videos-and-slides)
     - [Apache via Ansible](#apache-via-ansible)
     - [WebLogic via Ansible](#weblogic-via-ansible)
     - [Drupal via Ansible](#drupal-via-ansible)
@@ -121,6 +122,11 @@
 <iframe width="420" height="315" src="https://www.youtube.com/embed/sy8i4VXIVEE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## Ansible Videos and Slides
+- [Youtube: Livestream von codecentric AG](https://www.youtube.com/watch?v=B7K1ETPyzoQ)
+    - [Speakerdeck: Multi Stage Deployment with Ansible 2016](https://speakerdeck.com/kontrafiktion/multi-stage-deployment-with-ansible-2016)
+    - [Slideshare: Ansible module development 101. Feb 2016](http://de.slideshare.net/yfauser/ansible-module-development-101-58580867)
 
 ## Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
