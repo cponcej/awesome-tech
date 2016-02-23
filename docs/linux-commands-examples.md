@@ -64,6 +64,8 @@
 
 		PS1="# $PS1"
 
+- In bash, cd - takes you back to your previous directory.
+
 - Tired of repeatedly pressing 'y' through some shell process? Try the 'yes' command: 🌟
 
 		yes | rm *.txt 
@@ -84,6 +86,10 @@
 - List of empty subdirectories of current directory.
 
 		find . -empty -type d
+
+- Find and long list mp3 files in Music dir older than a year and larger than 10MB.
+
+		find music -name '*.mp3' -mtime +365 -a -size +10M -ls 
 
 - Like ping, but it uses an ARP request to check, which gets around host firewalls blocking ICMP. Only works on same subnet
 
@@ -360,6 +366,11 @@
 - Suspend and reattach a process to screen
 
 		longcmd ; [Ctrl-Z] ; bg ; disown ; screen ; reptyr $( pidof longcmd )
+
+- Want to clean metadata from images and other files on Linux? Try 
+
+		mat -d file.jpg # Display it 
+		mat file.jpg # Clean it
 
 - Apparently according to testing, this is the fastest way to delete millions of small files.
 

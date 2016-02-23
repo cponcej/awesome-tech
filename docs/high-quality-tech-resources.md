@@ -24,6 +24,7 @@
 	- [Wikibooks](#wikibooks)
 	- [Webcomics](#webcomics)
 	- [Reactions. When words aren't enough, say it with animations](#reactions-when-words-arent-enough-say-it-with-animations)
+	- [Openclipart public domain images](#openclipart-public-domain-images)
 
 <!-- /MarkdownTOC -->
 
@@ -424,6 +425,10 @@
 - [DevOps Reactions 🌟](http://devopsreactions.tumblr.com/)
 	- [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 - [9gag.com](http://9gag.com)
+
+## Openclipart public domain images
+- [openclipart.org](https://openclipart.org)
+- [Openclipart: A library of public domain images](https://opensource.com/life/16/2/create-on-openclipart)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E5G31VO1c0U" frameborder="0" allowfullscreen class="video"></iframe>
