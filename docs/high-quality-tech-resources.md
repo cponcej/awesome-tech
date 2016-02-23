@@ -310,6 +310,7 @@
 - [OpenStack](https://www.reddit.com/r/openstack)
 - [Rackspace](https://www.reddit.com/r/rackspace)
 - [Wireshark](https://www.reddit.com/r/wireshark/)
+- [Google 🌟](https://www.reddit.com/r/google)
 
 ## Screencasts
 - [sysadmincasts.com 🌟🌟🌟🌟](https://sysadmincasts.com)

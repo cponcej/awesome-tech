@@ -4,10 +4,10 @@
 - [WebApp](#webapp)
 	- [HTTP/2](#http2)
 	- [WebSockets](#websockets)
+	- [AMP Accelerated Mobile Pages](#amp-accelerated-mobile-pages)
 	- [HTTP Status Codes](#http-status-codes)
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
 		- [Elasticsearch](#elasticsearch)
-	- [AMP Accelerated Mobile Pages](#amp-accelerated-mobile-pages)
 	- [Caching](#caching)
 		- [HAProxy](#haproxy)
 		- [Varnish](#varnish)
@@ -71,6 +71,16 @@
 </div>
 <br/>
 
+## AMP Accelerated Mobile Pages
+- A free, open source service that does all the work to make sites load fast
+- [Google’s plan to speed up the mobile Web: Burn it down 🌟](http://thenextweb.com/insider/2015/10/07/googles-plan-to-speed-up-the-mobile-web-burn-it-down/)
+- [ampproject.org](https://www.ampproject.org) Accelerated Mobile Pages Project
+- [github.com/ampproject](https://github.com/ampproject)
+- [Introducing the Accelerated Mobile Pages Project, for a faster, open mobile web](https://googleblog.blogspot.com.es/2015/10/introducing-accelerated-mobile-pages.html)
+- [How AMP Speeds Up Performance](https://www.ampproject.org/docs/get_started/technical_overview.html)
+- [Google to Roll Out Accelerated Mobile Pages to Everyone, Get Your Content Ready Now](https://www.searchenginejournal.com/google-to-roll-out-accelerated-mobile-pages-to-everyone-get-your-content-ready-now/)
+- [Google Rolls Out The Accelerated Mobile Pages Project To Help Webpages Load Instantaneously On Your Phone Or Tablet](http://www.androidpolice.com/2015/10/07/google-rolls-out-the-accelerated-mobile-pages-project-to-help-webpages-load-instantaneously-on-your-phone-or-tablet/)
+
 ## HTTP Status Codes
 - [wikipedia: List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 - [slideshare: Http Status Code Errors in SEO](http://www.slideshare.net/AdelaRoger/http-status-code-errors-in-seo)
@@ -86,12 +96,6 @@
 
 ### Elasticsearch
 - [Elasticsearch](elasticsearch.md)
-
-## AMP Accelerated Mobile Pages
-- A free, open source service that does all the work to make sites load fast
-- [Google’s plan to speed up the mobile Web: Burn it down 🌟](http://thenextweb.com/insider/2015/10/07/googles-plan-to-speed-up-the-mobile-web-burn-it-down/)
-- [ampproject.org](https://www.ampproject.org) Accelerated Mobile Pages Project
-- [github.com/ampproject](https://github.com/ampproject)
 
 ## Caching
 - [Wikipedia: Web cache](https://en.wikipedia.org/wiki/Web_cache)
