@@ -50,8 +50,6 @@
 - [MongoDB Cloud Manager](https://youtu.be/bB57HKeOvmw)
 - [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
 	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
-	- Effortless CSV import into MongoDB with MongoChef 3.2 (click to see the video). You can export your collections to CSV:
-[![Effortless CSV import into MongoDB with MongoChef 3.2](images/mongochef_csv.png)](http://pbs.twimg.com/tweet_video/CVZd6XkWIAAwvwS.mp4)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CvIr-2lMLsk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -69,6 +67,9 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">SQL or NoSQL<a href="https://t.co/ilNZTJJOcG">https://t.co/ilNZTJJOcG</a><br><br>Story of a company starting with MongoDB and quickly after hitting it&#39;s limits.</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/691609991531347968">enero 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Effortless CSV import into <a href="https://twitter.com/hashtag/MongoDB?src=hash">#MongoDB</a> with <a href="https://twitter.com/hashtag/MongoChef?src=hash">#MongoChef</a> 3.2. Get your free download now! <a href="https://t.co/tPEY0vg0xk">https://t.co/tPEY0vg0xk</a> <a href="https://t.co/Y8WxwnECfi">pic.twitter.com/Y8WxwnECfi</a></p>&mdash; 3T Software Labs (@3TSoftwareLabs) <a href="https://twitter.com/3TSoftwareLabs/status/672828453700378624">diciembre 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Build <a href="https://twitter.com/hashtag/MongoDB?src=hash">#MongoDB</a> Map-Reduce queries with ease! Preview the data at any stage! Use <a href="https://twitter.com/hashtag/MongoChef?src=hash">#MongoChef</a> <a href="https://t.co/u7h33BSItn">https://t.co/u7h33BSItn</a> <a href="https://t.co/mF5K62T9lz">pic.twitter.com/mF5K62T9lz</a></p>&mdash; 3T Software Labs (@3TSoftwareLabs) <a href="https://twitter.com/3TSoftwareLabs/status/694905949509808128">febrero 3, 2016</a></blockquote>
