@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Microsoft](#microsoft)
+    - [SSH client for Windows](#ssh-client-for-windows)
     - [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
 
 <!-- /MarkdownTOC -->
@@ -14,9 +15,8 @@
 
 # Microsoft
 - [zdnet: Linux and open source have won, get over it](http://www.zdnet.com/article/linux-and-open-source-have-won-get-over-it/) 2015 was the year Linux and open-source software took over the IT world, but many open-source and proprietary software fans still haven't figured it out.
-- [SSH for Windows open sourced by Microsoft. What's going on?](https://github.com/PowerShell/Win32-OpenSSH)
 - [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
-- [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
+- [Microsoft has released over 100 Free Ebooks 🌟🌟🌟](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
 - [Windows Migration Best Practices and Resources from Dell & Microsoft](http://www.migrationexpertzone.com/)
 - [deals.slashdot.org: Microsoft Certified Solutions Engineer: Server Infrastructure Bundle](https://deals.slashdot.org/sales/microsoft-certified-solutions-engineer-server-infrastructure-bundle)
 - [computerworld.com: Microsoft's new tally for Windows 10: 200M](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
@@ -26,6 +26,11 @@
 - [Acompli is now Outlook app. Microsoft acquires Acompli, provider of innovative mobile email apps](https://www.acompli.com/)
 - [ChatOps on Windows with Hubot and PowerShell](https://hodgkins.io/chatops-on-windows-with-hubot-and-powershell/)
 - [Microsoft opens up its deep-learning toolkit on GitHub](http://www.pcworld.com/article/3026236/microsoft-opens-up-its-deep-learning-toolkit-on-github.html)
+
+## SSH client for Windows
+- [SSH for Windows open sourced by Microsoft. What's going on? 🌟](https://github.com/PowerShell/Win32-OpenSSH)
+- [MobaXterm](http://mobaxterm.mobatek.net/)
+- [Need an SSH client on Windows? Don't use Putty or CygWin...use Git](http://www.hurryupandwait.io/blog/need-an-ssh-client-on-windows-dont-use-putty-or-cygwinuse-git)
 
 [![number of running windows dec 2015](images/number_of_win10.jpg)](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
 
