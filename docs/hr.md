@@ -52,6 +52,7 @@
 - [‘Flexible Work Policies Shouldn’t Just Be About Parents’ 🌟](http://motto.time.com/4219863/parental-leave-flexible-work-policies-for-non-parents) People without children have personal lives that matter, too 
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
 - [Employer Loved Me... Then Rejected Me](https://www.linkedin.com/pulse/employer-loved-me-rejected-j-t-o-donnell)
+- [VW damaged by a culture of fear 🌟](https://www.linkedin.com/pulse/vw-damaged-culture-fear-l-david-marquet)
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
