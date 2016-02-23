@@ -226,6 +226,7 @@
 ## Swift
 - [medium.com: 100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.2onig73ur)
 - [dzone: Using a C Library in Swift](https://dzone.com/articles/using-a-c-library-in-swift)
+- [IBM just made Swift available as a server side language, and that's a big deal for enterprise developers](http://www.computerworld.com/article/3036530/apple-ios/ibm-just-gave-apple-even-more-enterprise-credibility.html)
 
 ## C programming
 - [How to C in 2016](https://matt.sh/howto-c)
