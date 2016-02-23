@@ -5,7 +5,7 @@
 	- [Awesome Security Lists](#awesome-security-lists)
 	- [CVE Common Vulnerabilities and Exposures](#cve-common-vulnerabilities-and-exposures)
 	- [OpenSCAP and Lynis. Open Source security auditing tools](#openscap-and-lynis-open-source-security-auditing-tools)
-	- [Cisco Security Advisories and Responses 🌟🌟🌟](#cisco-security-advisories-and-responses-🌟🌟🌟)
+	- [Cisco Security Advisories and Responses](#cisco-security-advisories-and-responses)
 	- [Security Blogs](#security-blogs)
 		- [Blogs de Seguridad Informática](#blogs-de-seguridad-informática)
 		- [Network Security](#network-security)
@@ -63,8 +63,8 @@
 ## OpenSCAP and Lynis. Open Source security auditing tools
 - [OpenSCAP and Lynis. Open Source security auditing tools  🌟🌟🌟🌟](auditing-tools.md)
 
-## Cisco Security Advisories and Responses 🌟🌟🌟
-- [Cisco Security Advisories and Responses](https://tools.cisco.com/security/center/publicationListing.x)
+## Cisco Security Advisories and Responses
+- [Cisco Security Advisories and Responses 🌟🌟🌟](https://tools.cisco.com/security/center/publicationListing.x)
 
 ## Security Blogs
 - [HaCoder.com 🌟](http://www.hacoder.com) 
