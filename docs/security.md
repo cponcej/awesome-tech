@@ -29,15 +29,15 @@
 		- [Windows Vulnerabilities](#windows-vulnerabilities)
 		- [Linux Vulnerabilities](#linux-vulnerabilities)
 		- [LastPass. January 2016](#lastpass-january-2016)
-		- [SQL injection 🌟](#sql-injection-🌟)
-		- [Heartbleed. April 2014 🌟](#heartbleed-april-2014-🌟)
-		- [Shellshock. September 2014 🌟](#shellshock-september-2014-🌟)
+		- [SQL injection](#sql-injection)
+		- [Heartbleed. April 2014](#heartbleed-april-2014)
+		- [Shellshock. September 2014](#shellshock-september-2014)
 		- [OpenSSH Roaming Bug. January 2016](#openssh-roaming-bug-january-2016)
 		- [OpenSSL. January 2016](#openssl-january-2016)
 		- [HTTPS Bicycle Attack. December 2015](#https-bicycle-attack-december-2015)
 		- [Backdoors. December 2015](#backdoors-december-2015)
 		- [Linode SSH. February 2016](#linode-ssh-february-2016)
-		- [glibc stack-based buffer overflow. February 2016 🌟](#glibc-stack-based-buffer-overflow-february-2016-🌟)
+		- [glibc stack-based buffer overflow. February 2016](#glibc-stack-based-buffer-overflow-february-2016)
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
 		- [Container security. Who’s fixing containers? February 2016](#container-security-who’s-fixing-containers-february-2016)
 
@@ -268,15 +268,15 @@
 - [LastPass](https://www.seancassidy.me/lostpass.html) I have discovered a phishing attack against LastPass that allows an attacker to steal a LastPass user's email, password, and even two-factor auth code, giving full access to all passwords and documents stored in LastPass. I call this attack LostPass. 
 - [ZDNet: LastPass phishing attack avoids two-factor authentication in data theft](http://www.zdnet.com/article/lastpass-phishing-attack-avoids-two-factor-authentication-to-steal-your-data/) The exploited security flaw is severe enough that successful attacks compromise two-factor authentication codes.
 
-### SQL injection 🌟
-- [SQL injection](sql_injection.md)
+### SQL injection
+- [SQL injection 🌟](sql_injection.md)
 
-### Heartbleed. April 2014 🌟
-- [Red Hat security blog: Heartbleed](https://securityblog.redhat.com/tag/heartbleed/)
+### Heartbleed. April 2014
+- [Red Hat security blog: Heartbleed 🌟](https://securityblog.redhat.com/tag/heartbleed/)
 - [Fixing Heartbleed with Ansible](http://www.ansible.com/blog/fixing-heartbleed-with-ansible)
 
-### Shellshock. September 2014 🌟
-- [Shellshock: Bash bug 'bigger than Heartbleed' could undermine security of millions of websites – and there's nothing you can do to protect yourself](http://www.independent.co.uk/life-style/gadgets-and-tech/shell-shock-bash-bug-bigger-than-heartbleed-could-undermine-security-of-millions-of-websites-9754720.html)
+### Shellshock. September 2014
+- [Shellshock: Bash bug 'bigger than Heartbleed' could undermine security of millions of websites – and there's nothing you can do to protect yourself 🌟](http://www.independent.co.uk/life-style/gadgets-and-tech/shell-shock-bash-bug-bigger-than-heartbleed-could-undermine-security-of-millions-of-websites-9754720.html)
 - [Ansible.com shellshock](http://www.ansible.com/blog/shellshock)
 - [Patch Shellshock with Ansible](https://raymii.org/s/articles/Patch_CVE-2014-6271_Shellshock_with_Ansible.html)
 - [servercheck.in: Secure your servers from Shellshock Bash vulnerability using Ansible](https://servercheck.in/blog/secure-your-servers-shellshock-bash-vulnerability)
@@ -309,7 +309,7 @@
 ### Linode SSH. February 2016
 - [Linode SSH key blunder left virtual servers open to man-in-the-middle fiddles for months](http://www.theregister.co.uk/2016/02/09/linode_ssh_security/)
 
-### glibc stack-based buffer overflow. February 2016 🌟
+### glibc stack-based buffer overflow. February 2016
 - [redhat.com: Critical security flaw: glibc stack-based buffer overflow in getaddrinfo() (CVE-2015-7547) 🌟](https://access.redhat.com/articles/2161461)
 - [Linux Vulnerability Rattles Open Source Community](http://www.enterprisetech.com/2016/02/19/linux-vulnerability-rattles-open-source-community/)
 - [cisco.com: Vulnerability in GNU glibc Affecting Cisco Products: February 2016](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160218-glibc)
