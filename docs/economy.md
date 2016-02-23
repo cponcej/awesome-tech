@@ -45,6 +45,7 @@
 - [Global house prices 🌟](http://www.economist.com/blogs/dailychart/2011/11/global-house-prices)
 - [Property in San Francisco](http://www.economist.com/news/united-states/21677989-capital-disruption-fears-it-may-be-experiencing-too-much-golden-gates)
 - [Why are house prices cheaper today than ever before?](https://contrarianstraighttalker.wordpress.com/2015/10/18/why-are-house-prices-cheaper-today-than-ever-before-2/)
+- [Londoners need 266% pay rise to buy home in the city, National Housing Federation claims](http://www.independent.co.uk/news/business/news/londoners-need-a-266-pay-rise-to-buy-a-home-in-the-city-national-housing-federation-claims-a6891116.html)
 
 ## Charts and tweets
 
