@@ -3,8 +3,11 @@
 - [Docker](#docker)
     - [Docker on Twitter](#docker-on-twitter)
     - [Docker references](#docker-references)
+    - [Referencias Docker](#referencias-docker)
         - [Docker Networking](#docker-networking)
     - [Docker Tools. Docker Machine. Docker Toolbox](#docker-tools-docker-machine-docker-toolbox)
+        - [Docker and Eclipse IDE](#docker-and-eclipse-ide)
+        - [Docker and Sublime Text](#docker-and-sublime-text)
     - [MySQL via Docker](#mysql-via-docker)
     - [PostgreSQL via Docker](#postgresql-via-docker)
     - [WebLogic via Docker](#weblogic-via-docker)
@@ -35,7 +38,7 @@
 - [github.com: Docker Official Images](https://github.com/docker-library/official-images)
 - [docs.docker.com: Official Repositories on Docker Hub](https://docs.docker.com/docker-hub/official_repos/)
 - [github.com: Docker Library](https://github.com/docker-library/)
-- [Awesome Docker. A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
+- [Awesome Docker. A curated list of Docker resources and projects 🌟🌟🌟](https://github.com/veggiemonk/awesome-docker)
 - [medium.com: Review of @nigelpoulton's course on @Docker and #Containers](https://medium.com/@vinrandazzo/docker-and-containers-do-you-want-to-design-beautiful-apps-99ad61d82168#.yfeaa5iiu)
 - [DZone Refcard: Getting started with docker](https://dzone.com/refcardz/getting-started-with-docker-1)
 - [10 Awesome Docker Tutorials to Kick-Start your DevOps Projects](http://www.javacodegeeks.com/2015/11/10-awesome-docker-tutorials-to-kick-start-your-devops-projects.html)
@@ -97,6 +100,9 @@
 - [redhat.com: Great intro to container best practices on RHEL (and in general)..](https://access.redhat.com/documentation/en/red-hat-enterprise-linux-atomic-host/7/recommended-practices-for-container-development/recommended-practices-for-container-development) Best Practices Guide for Container Development
 - [Containers: Just Because Everyone Else is Doing Them Wrong, Doesn't Mean You Have To (Feb 2016) 🌟🌟🌟](https://www.hastexo.com/blogs/florian/2016/02/21/containers-just-because-everyone-else/)
 
+### Referencias Docker
+- [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)
+
 #### Docker Networking
 - [Deploying Containers with Docker Swarm and Docker Networking](http://www.javacodegeeks.com/2015/11/deploying-containers-docker-swarm-docker-networking.html)
 - [Docker networking overview 🌟](http://filipv.net/2016/02/17/docker-networking-overview/)
@@ -116,6 +122,16 @@
 	- [chocolatey.org](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind.
 - [Runc Containers on the Desktop](https://blog.jessfraz.com/post/runc-containers-on-the-desktop/)
 - [DLite: Simplifying Docker on OS X](https://blog.andyet.com/2016/01/25/easy-docker-on-osx/)
+
+#### Docker and Eclipse IDE
+- [DZone: New Tools for Using Docker in Eclipse](https://dzone.com/articles/new-tools-for-using-docker-in-eclipse)
+- [eclipse.org: Eclipse for Docker](https://www.eclipse.org/community/eclipse_newsletter/2015/june/article3.php)
+    - [Docker Tooling User Guide](https://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling/User_Guide)
+- [Doclipser in GitHub](https://github.com/domeide/doclipser)
+    - [Doclipser or how I’ve put Docker in your favorite IDE](https://jaxenter.com/doclipser-or-how-ive-put-docker-in-your-favorite-ide-124167.html)
+
+#### Docker and Sublime Text
+- [sublime-docker](https://github.com/domeide/sublime-docker)
 
 [![Docker toolbox docker hub](images/docker_hub_images_docker_toolbox.png)](https://www.docker.com/docker-toolbox)
 
