@@ -34,6 +34,10 @@
 [![cloud job market](images/cloud_job_market.png)](http://cloudacademy.com/blog/cloud-computing-salary/)
 
 # Amazon Web Services
+- [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
+- [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
+- [AWS Support](https://aws.amazon.com/en/premiumsupport/)
+
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 
@@ -193,6 +197,10 @@
 - [AWS Lambda, Echo, and the Future of Cloud Automation](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/) A fantastic blog article by Logicworks on Lambda, the coming move to serverless architecture and even the possibility of using Amazon's Echo to launch entire AWS environments by using just your voice
 - [Serverless: The Future of Software Architecture?](https://read.acloud.guru/serverless-the-future-of-software-architecture-d4473ffed864#.uk7setw47)
 - [npmjs.com: Lambda load test](https://www.npmjs.com/package/lambda-load-test)
+- [AWS Lambda Limits](http://docs.aws.amazon.com/lambda/latest/dg/limits.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/awslambda?src=hash">#awslambda</a> ups code storage limit from 1.5GB to 75GB for everyone. Create all the Lambda functions you need! <a href="https://t.co/NMduXKMPUn">https://t.co/NMduXKMPUn</a></p>&mdash; Tim Wagner (@timallenwagner) <a href="https://twitter.com/timallenwagner/status/701963091639029760">febrero 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![AWS Lambda](images/aws_lambda.png)](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/)
 
@@ -224,9 +232,13 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### AWS IoT
+- [aws.amazon.com/en/iot](https://aws.amazon.com/en/iot)
 - [What Is AWS IoT?](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> now supports MQTT over the WebSocket protocol. Learn more: <a href="https://t.co/b9u9BtbAgn">https://t.co/b9u9BtbAgn</a> <a href="https://t.co/srNA7UgsQX">pic.twitter.com/srNA7UgsQX</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698581730744111104">febrero 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">RE add <a href="https://twitter.com/hashtag/mqtt?src=hash">#mqtt</a> or <a href="https://twitter.com/hashtag/websocket?src=hash">#websocket</a> support to your <a href="https://twitter.com/hashtag/android?src=hash">#android</a> apps using <a href="https://twitter.com/hashtag/aws?src=hash">#aws</a> <a href="https://twitter.com/hashtag/iot?src=hash">#iot</a> <a href="https://t.co/fFQ3T4jaS1">https://t.co/fFQ3T4jaS1</a></p>&mdash; Kyle Roche (@kylemroche) <a href="https://twitter.com/kylemroche/status/701992286268166144">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## AWS Partner Network (APN)
