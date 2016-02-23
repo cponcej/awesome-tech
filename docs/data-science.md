@@ -151,6 +151,7 @@
 - [DataFloq](https://datafloq.com)
 - [KDnuggets: Data Mining, Analytics, Big Data, and Data Science](http://www.kdnuggets.com/)
 - [smartdatacollective.com](http://www.smartdatacollective.com/)
+- [Becoming a Data Scientist 🌟](http://www.becomingadatascientist.com)
 
 [![Dataconomy](images/dataconomy.png)](http://dataconomy.com)
 
