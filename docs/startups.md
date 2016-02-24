@@ -106,6 +106,7 @@
 - [The difference between contracting and consulting, and why it matters 🌟🌟🌟](http://www.techrepublic.com/blog/it-consultant/the-difference-between-contracting-and-consulting-and-why-it-matters-125429/)
 - [The 23 cities with the best quality of life in the world 🌟](http://uk.businessinsider.com/mercer-2016-quality-of-living-worldwide-city-rankings-2016-2)
 - [Eures Job Search](https://ec.europa.eu/eures/)
+	- [Eures network: helping people to find a job in another EU country](http://www.europarl.europa.eu/news/en/news-room/20150622STO69009/Eures-network-helping-people-to-find-a-job-in-another-EU-country)
 - [make-it-in-germany.com](http://www.make-it-in-germany.com/)
 - [prospects.ac.uk](http://www.prospects.ac.uk/)
 - [gumtree.com/computing-it-jobs](https://www.gumtree.com/computing-it-jobs)

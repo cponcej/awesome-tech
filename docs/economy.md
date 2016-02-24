@@ -161,6 +161,8 @@
 
 [![uk.businessinsider.com: Animated map shows the history of immigration to the US](images/USA_immigration.png)](http://uk.businessinsider.com/animated-map-shows-history-us-immigration-2015-12)
 
+[![eurostat unemployment rates December 2015](images/eurostat_unemployment_rates_dec_2015.jpg)](http://www.europarl.europa.eu/news/en/news-room/20150622STO69009/Eures-network-helping-people-to-find-a-job-in-another-EU-country)
+
 [![China use of cement](images/china_use_of_cement.png)](https://twitter.com/intlspectator)
 
 [![First languages spoken](images/first_languages_spoken.png)](https://twitter.com/intlspectator)
