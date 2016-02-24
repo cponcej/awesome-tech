@@ -6,7 +6,7 @@
 	- [Description](#description)
 	- [Cultura DevOps](#cultura-devops)
 	- [DevOps Tools 2016](#devops-tools-2016)
-		- [Server Automation (provisioning)](#server-automation-provisioning)
+		- [Server Provisioning and Automation: Red Hat Satellite, Katello, Foreman, Cobbler and others](#server-provisioning-and-automation-red-hat-satellite-katello-foreman-cobbler-and-others)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Javier Garzas](#javier-garzas)
 		- [Project Management](#project-management)
@@ -154,7 +154,19 @@
 
 ![always that way](images/always_that_way.jpg)
 
-### Server Automation (provisioning)
+### Server Provisioning and Automation: Red Hat Satellite, Katello, Foreman, Cobbler and others 
+- [nixCraft: Top 5 Open Source Linux Server Provisioning Software](http://www.cyberciti.biz/tips/server-provisioning-software.html)
+- [Red Hat Satellite](https://access.redhat.com/products/red-hat-satellite)
+	- [redhat.com: Product Documentation for Red Hat Network Satellite](https://access.redhat.com/documentation/en/red-hat-network-satellite/)
+	- [community.dell.com: Red Hat Network Satellite administration tips](http://en.community.dell.com/techcenter/os-applications/w/wiki/red-hat-network-satellite-administration-tips)
+	- [Satellite 6 and Foreman re-provisioning](https://chruz.wordpress.com/2015/11/23/satellite-6-and-foreman-re-provisioning/)
+- [Katello](http://www.katello.org/)
+	- [The Katello project is the Open Source, upstream equivalent of the new iteration of Red Hat’s Satellite Server](http://itnerdchronicles.com/katello-one-cloud-to-rule-them-all/)
+- [Foreman is a complete lifecycle management tool](http://www.theforeman.org/)
+- [Cobbler](http://cobbler.github.io/)
+- [Candlepin](http://www.candlepinproject.org/)
+- [Pulp](http://www.pulpproject.org/)
+- [Puppetlabs' Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning](https://github.com/puppetlabs/razor-server)
 - [Provisioning the Entire Stack](http://devops.sys-con.com/node/3692599)
 	- [stackiq.com](http://www.stackiq.com)
 	- [stacki.com](http://www.stacki.com) Stacki 3 is Here. The World's Fastest Linux Provisioning Tool.
@@ -162,6 +174,8 @@
 > There are several very good application provisioning tools on the market – Puppet, Chef, Saltstack, Ansible to name a few. A server provisioning tool, as the first step that runs in server-up datacenter automation, should be able to work reliably with all of these.
 >  It is easy enough to poke at products and determine if they suit the needs of your level of automation. A good example is that only about half of the products on the market make any attempt at RAID configuration as part of server provisioning. But if operators have to sit and configure RAID before an automated installation, then it’s not really fully automated, is it?
 > And of course I recommend that you consider automation. Partially because my employer plays in the space, but moreso because there are far more impactful things operations could be doing than sitting and watching an OS install, or typing in IP addresses, masks, and gateways.
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134927085230" data-did="bb1e1b59231f5382026568844e915c19da08f253"><a href="http://securityreactions.tumblr.com/post/134927085230/when-client-confidently-references-sneakernet">http://securityreactions.tumblr.com/post/134927085230/when-client-confidently-references-sneakernet</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ## Agile planning: Scrum, Kanban, Lean
 - [Manifesto for Agile Software Development 🌟🌟🌟🌟🌟](http://agilemanifesto.org)
