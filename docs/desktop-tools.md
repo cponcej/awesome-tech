@@ -29,6 +29,7 @@
 - [This new Samsung laptop is shockingly thin and light](http://www.techinsider.io/samsung-notebook-9-2016-1)
 - [cyberciti.biz: 10 Places To Buy A Laptop With Linux Preloaded](http://www.cyberciti.biz/hardware/laptop-computers-with-linux-installed-or-preloaded/)
 - [zdnet: CES 2016: These are the best laptops, tablets, and portable PCs](http://www.zdnet.com/pictures/best-new-laptops-tablets-gadgets-ces-2016-pictures/)
+- [15 must-have apps if you’re new to Linux](http://www.gadgette.com/2016/02/23/15-linux-apps/)
 
 ## Internet speed. Test de velocidad
 - [speedtest.net](http://www.speedtest.net)
@@ -38,6 +39,7 @@
 - [Test de Velocidad](http://www.internautas.org/testvelocidad/)
 - [Apps para hacer test de velocidad en Android: Speedtest, Movispeed…](http://foromoviles.com/apps-para-hacer-test-de-velocidad-en-android-speedtest-movispeed/)
 - [¿Tienes realmente la velocidad de Internet que has contratado?](http://www.lavanguardia.com/tecnologia/20160216/302202649248/medir-velocidad-internet-contratada.html)
+- [nixCraft: How To Install Speedtest-cli On a CentOS/RHEL/Scientific/Fedora Linux To Check Internet Speed](http://www.cyberciti.biz/faq/install-speedtest-cli-on-centos-redhat-fedoa-scientific-to-measure-internetspeed/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Check out my <a href="https://twitter.com/Ookla">@Ookla</a> Speedtest result! What&#39;s your speed? <a href="https://t.co/gDhttuUPA1">https://t.co/gDhttuUPA1</a> <a href="https://twitter.com/hashtag/speedtest?src=hash">#speedtest</a></p>&mdash; ThePrussianPrince (@PrussianPrince1) <a href="https://twitter.com/PrussianPrince1/status/696671216808153088">febrero 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -120,6 +122,7 @@
 ## Trello
 - [trello.com](https://trello.com)
 - [Using Trello For A Job Search: Less Stress, More Process](http://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process/)
+- [GitHub And Trello: Integrate Your Commits](http://blog.trello.com/github-and-trello-integrate-your-commits/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">At over 50% remote, here are some tools &amp; tips that help us manage our teams - <a href="https://t.co/epV8CRF7qU">https://t.co/epV8CRF7qU</a> <a href="https://t.co/N8i3h0VODy">pic.twitter.com/N8i3h0VODy</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/700749202591092737">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

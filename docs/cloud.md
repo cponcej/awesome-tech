@@ -119,6 +119,7 @@
 - [linux.com: Get an OpenStack sandbox environment up and running with minimal or zero cost](https://www.linux.com/learn/tutorials/866101-how-to-test-drive-openstack)
 - [opensource.com: OpenStack News January 2016. Landing a Summit talk, troubleshooting Neutron, and more OpenStack news](https://opensource.com/business/16/1/openstack-news-january-11)
 - [opensource.com: An introduction to OpenStack clouds for beginners](https://opensource.com/business/16/1/scale14x-interview-anthony-chow)
+- [What’s Behind Rackspace’s Private OpenStack Cloud Partnership with Red Hat](http://www.datacenterknowledge.com/archives/2016/02/11/whats-behind-rackspaces-private-openstack-cloud-partnership-with-red-hat/)
 
 [![openstack cluster](images/openstack-cluster.png)](https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html)
 

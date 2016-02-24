@@ -322,6 +322,7 @@
 ### Container security. Who’s fixing containers? February 2016
 - [Container scanning: The thinnest of paper tigers](http://www.redhat.com/en/about/blog/container-scanning-thinnest-paper-tigers)
 - [App Containers Get a Needed Security Boost](http://www.enterprisetech.com/2016/02/05/app-containers-get-a-needed-security-boost/)
+- [Red Hat Insider: Securing containers before they take over the world](https://thestack.com/security/2016/01/21/red-hat-insider-securing-containers-before-they-take-over-the-world/)
 
 [![glibc vulnerability docker](images/glibc_vulnerability_docker.png)](https://www.hastexo.com/blogs/florian/2016/02/21/containers-just-because-everyone-else/)
 

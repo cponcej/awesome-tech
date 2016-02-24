@@ -194,6 +194,7 @@
 - [Feed Henry](http://feedhenry.org/)
 - [Open sourcing Red Hat Mobile Application Platform – Unified Push Server](http://developerblog.redhat.com/2015/12/16/open-sourcing-red-hat-mobile-application-platform-unified-push-server)
 - [developerblog.redhat.com Apps 101: An Absolute Beginner’s Guide to building a Mobile App](http://developerblog.redhat.com/2016/02/17/apps-101-an-absolute-beginners-guide-to-building-a-mobile-app/)
+- [developerblog.redhat.com Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend](http://developerblog.redhat.com/2016/02/19/apps-101-an-absolute-beginners-guide-to-integrating-with-a-node-js-backend/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5_qsqPOi6kE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -331,6 +332,9 @@
 ### Red Hat Container Development Kit
 - [developerblog.redhat.com: Red Hat Container Development Kit 2](http://developerblog.redhat.com/2016/02/08/update-red-hat-container-development-kit-2-beta/)
 - [planet.jboss.org: How to install Red Hat Container Development Kit (CDK) in minutes 🌟](http://planet.jboss.org/post/how_to_install_red_hat_container_development_kit_cdk_in_minutes)
+- [rhelblog.redhat.com: The Red Hat Ecosystem for Microservice and Container Development 🌟](http://rhelblog.redhat.com/2016/02/23/the-red-hat-ecosystem-for-microservice-and-container-development/)
+
+[![red hat container ecosystem](images/container_ecosystem.png)](http://rhelblog.redhat.com/2016/02/23/the-red-hat-ecosystem-for-microservice-and-container-development/)
 
 ## Red Hat Varnish
 - [Varnish Cache](https://www.varnish-cache.org/)

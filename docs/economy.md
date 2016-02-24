@@ -107,6 +107,15 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Witness an actual Grexit: how big tax rises are driving companies out of the country <a href="https://t.co/nGwlmEIN5E">https://t.co/nGwlmEIN5E</a> <a href="https://t.co/1vmh3wIZRu">pic.twitter.com/1vmh3wIZRu</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/701060358019149824">febrero 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las 20 Mayores Economías del Mundo en 2030 <a href="https://t.co/Ulq1cxm4Xb">pic.twitter.com/Ulq1cxm4Xb</a></p>&mdash; Comunidad Financiera (@comunidadfinan) <a href="https://twitter.com/comunidadfinan/status/702261095621382145">febrero 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The gig economy attracts many workers, few full-time jobs <a href="https://t.co/q76qFZF5Fg">https://t.co/q76qFZF5Fg</a> <a href="https://t.co/utzF0EzV9m">pic.twitter.com/utzF0EzV9m</a></p>&mdash; Real Time Economics (@WSJecon) <a href="https://twitter.com/WSJecon/status/702238896873205764">febrero 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Gender pay gap:<br>S Korea 37%<br>Japan 27<br>Turkey 20<br>US 18<br>Swiss, Chile 17<br>Spain 9<br>New Zealand 6<a href="https://t.co/keVLfd5Mjd">https://t.co/keVLfd5Mjd</a> <a href="https://t.co/gURsefDoQQ">pic.twitter.com/gURsefDoQQ</a></p>&mdash; Dina Pomeranz (@dinapomeranz) <a href="https://twitter.com/dinapomeranz/status/701563247875465216">febrero 22, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries which have officially adopted metric system <a href="https://t.co/7JFA67A8BE">pic.twitter.com/7JFA67A8BE</a></p>&mdash; Terrible Maps (@TerribleMaps) <a href="https://twitter.com/TerribleMaps/status/695745094239023104">febrero 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -171,6 +180,15 @@
 [![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US spends $640 billion on its military; more than China, Russia, Saudi, France, UK, India and Germany combined. <a href="https://t.co/YSHHIqWpBg">pic.twitter.com/YSHHIqWpBg</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/700417049864982529">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">2016 share of world GDP<br><br>China: 17.3%<br>US: 16%<br>India: 7.4%<br>Japan: 4.2%<br>Germany: 3.3%<br>Russia: 2.9%<br>Brazil: 2.8%<br>Indonesia: 2.6%<br>UK: 2.3%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702259169584283648">febrero 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Price, past year<br><br>Crude oil: -43%<br>Natural gas: -32%<br>Gold: +1.2%<br>Silver: -7%<br>Copper: -22%<br>Iron: -29%<br>Nickel: -48%<br>Coal: -28%<br>Steel: -56%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702251619598008321">febrero 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Share of global economy<br><br>US<br>1980: 25%<br>2014: 19.2%<br><br>EU<br>1980: 30.9%<br>2014: 18.4%<br><br>China<br>1980: 2.2%<br>2014: 16.6%<br><br>India<br>1980: 2.54%<br>2014: 5.96%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702236512746758145">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![top countries with the most people living overseas](images/top_countries_with_most_people_living_overseas.png)](http://www.forbes.com/sites/niallmccarthy/2016/01/15/the-countries-with-the-most-native-born-people-living-abroad-infographic/)

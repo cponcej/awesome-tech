@@ -55,6 +55,8 @@
 - [infoworld.com](http://www.infoworld.com)
 - [cio.com 🌟](http://www.cio.com)
 - [vigilantguy.com](http://www.vigilantguy.com) CIO leadership
+- [AppDeveloperMagazine.com](https://appdevelopermagazine.com)
+- [thestack.com](https://thestack.com) Security, IoT, Cloud and the latest tech news
 
 [![simon sinek progress](images/simonsinek_progress.png)](https://www.facebook.com/simonsinek/)
 

@@ -177,6 +177,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Now configure Auto Scaling to operate on a schedule using the AWS management console. <a href="https://t.co/PbIxj5kBf0">https://t.co/PbIxj5kBf0</a> <a href="https://t.co/56ChzqdB2E">pic.twitter.com/56ChzqdB2E</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/692822523457589248">enero 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Route 53&#39;s health checks now support SNI for checking websites over HTTPS! <a href="https://t.co/ktdeKCjNjc">https://t.co/ktdeKCjNjc</a> <a href="https://t.co/8INseaC48e">pic.twitter.com/8INseaC48e</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/702208599016083457">febrero 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### AWS EC2 Container Registry (Docker)
 - [A Better Dev/Test Experience: Docker and AWS](https://medium.com/aws-activate-startup-blog/a-better-dev-test-experience-docker-and-aws-291da5ab1238)
 - [Amazon EC2 Container Registry Documentation](http://aws.amazon.com/es/documentation/ecr/)
@@ -200,6 +203,9 @@
 - [AWS Lambda Limits](http://docs.aws.amazon.com/lambda/latest/dg/limits.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/awslambda?src=hash">#awslambda</a> ups code storage limit from 1.5GB to 75GB for everyone. Create all the Lambda functions you need! <a href="https://t.co/NMduXKMPUn">https://t.co/NMduXKMPUn</a></p>&mdash; Tim Wagner (@timallenwagner) <a href="https://twitter.com/timallenwagner/status/701963091639029760">febrero 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Using <a href="https://twitter.com/hashtag/AWS?src=hash">#AWS</a> Lambda for Cheap S3 Content Processing - <a href="https://t.co/EZyizCOhIG">https://t.co/EZyizCOhIG</a> &quot;intelligently post-process objects..&quot; <a href="https://t.co/JETthXiYyH">pic.twitter.com/JETthXiYyH</a></p>&mdash; Jeff Barr (@jeffbarr) <a href="https://twitter.com/jeffbarr/status/702170697674567680">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![AWS Lambda](images/aws_lambda.png)](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/)

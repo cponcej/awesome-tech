@@ -11,6 +11,7 @@
 		- [Project Management](#project-management)
 			- [Product Owner](#product-owner)
 			- [Scrum Master. Scrum Cheat Sheet](#scrum-master-scrum-cheat-sheet)
+			- [Open Project](#open-project)
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 			- [Continuous Integration Tools](#continuous-integration-tools)
 	- [Metrics](#metrics)
@@ -203,6 +204,7 @@
 - [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)
 - [20 Product Owners anti patterns in scrum](http://lmsgoncalves.com/2014/09/29/product-owner-anti-patterns/)
 - [¿Cuantos Product Owner puede tener un equipo? 🌟](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
+- [The Product Owner Role When Scaling Scrum](https://appdevelopermagazine.com/3666/2016/2/23/The-Product-Owner-Role-When-Scaling-Scrum)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/xrf0i_XPmm5oWp5icmI4JA/131683232219" data-did="1bd906eabfc838fb9ba4388bc874a3ed11cc2e63"><a href="http://uxreactions.com/post/131683232219/working-with-a-product-owner-whos-new-to-agile">http://uxreactions.com/post/131683232219/working-with-a-product-owner-whos-new-to-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
@@ -242,6 +244,10 @@
 <br/>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/7Nb42z8Qyb7M_uh_S2AImA/131735580276" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://my-twisted-code.tumblr.com/post/131735580276">http://my-twisted-code.tumblr.com/post/131735580276</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+#### Open Project
+- [openproject.org 🌟](https://www.openproject.org)
+- [OpenProject: An open source project management solution](https://opensource.com/business/16/2/openproject-open-source-project-management-solution)
 
 ### Continuous Integration and Delivery
 - [Martin Fowler. Continuous Delivery 🌟🌟🌟🌟](https://www.youtube.com/watch?v=aoMfbgF2D_4)

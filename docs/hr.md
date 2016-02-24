@@ -53,6 +53,7 @@
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
 - [Employer Loved Me... Then Rejected Me](https://www.linkedin.com/pulse/employer-loved-me-rejected-j-t-o-donnell)
 - [VW damaged by a culture of fear 🌟](https://www.linkedin.com/pulse/vw-damaged-culture-fear-l-david-marquet)
+- [Forbes: Seven Ways To Inspire Your Team To Collaborate 🌟🌟🌟](http://www.forbes.com/sites/carolkinseygoman/2016/02/21/seven-ways-to-inspire-your-team-to-collaborate) “How many of you are totally comfortable sharing information with others in your organization?”
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
@@ -77,6 +78,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How loyal are millennial employees? <a href="https://t.co/uaNXKspauh">https://t.co/uaNXKspauh</a> <a href="https://twitter.com/hashtag/work?src=hash">#work</a> <a href="https://t.co/LYBQbboeD2">pic.twitter.com/LYBQbboeD2</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/701055035623526400">febrero 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Show me a person who has never made a mistake and I&#39;ll show you somebody who has never achieved much. ~ Joan Collins</p>&mdash; Zen Moments (@Zen_Moments) <a href="https://twitter.com/Zen_Moments/status/702151633334046720">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Office Politics
