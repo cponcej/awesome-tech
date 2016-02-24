@@ -12,6 +12,9 @@
 
 # Linux Commands Examples
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Tip: Ctrl-u is also useful for clearing password mistakes at login prompts and for throwing off shoulder snoops (Yeah, you behind me)</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/702529453772169216">febrero 24, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Greg&#39;s BASH FAQ is a great place for BASH questions and teaches you &quot;the right way&quot; to do things. <a href="https://t.co/nP2EdOBwsJ">https://t.co/nP2EdOBwsJ</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/699383729395884032">February 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

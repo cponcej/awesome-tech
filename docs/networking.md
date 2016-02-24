@@ -65,6 +65,7 @@
 - [aunclicdelastic.com: SDN, NFV y los fundamentos de las redes del futuro](http://www.aunclicdelastic.com/sdn-nfv-y-los-fundamentos-de-las-redes-del-futuro/)
 - [Open Source MANO](http://osm.etsi.org) Open Source Mano is an ETSI-hosted project to develop an Open Source NFV Management and Orchestration (MANO) software stack aligned with ETSI NFV.
 	- [Telefónica se une a otras 22 operadoras y proveedores de equipos para crear una comunidad global de Open Source Mano (OSM)](https://www.telefonica.com/es/web/sala-de-prensa/-/telefonica-se-une-a-otras-22-operadoras-y-proveedores-de-equipos-para-crear-una-comunidad-global-de-open-source-mano-osm-)
+- [2016 Survey Shows More and Diverse SDN Use Cases Being Deployed by Open SDN Power Users](https://www.opendaylight.org/news/blogs/2016/02/2016-survey-shows-more-and-diverse-sdn-use-cases-being-deployed-open-sdn-power)
 
 ## IPv4
 - [wikipedia: IPv4](https://en.wikipedia.org/wiki/IPv4)
