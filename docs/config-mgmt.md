@@ -9,7 +9,8 @@
 	- [Puppet](#puppet)
 		- [Application Orchestration](#application-orchestration)
 		- [WebLogic via Puppet](#weblogic-via-puppet)
-	- [Chef and SAP](#chef-and-sap)
+	- [Chef](#chef)
+		- [Chef and SAP](#chef-and-sap)
 	- [Capistrano](#capistrano)
 	- [SaltStack](#saltstack)
 
@@ -104,11 +105,18 @@
 	- [puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module](https://forge.puppetlabs.com/biemond/wls)
 	- [middlewaresnippets.blogspot.com - Install and Configure a WebLogic Server Environment using Puppet](http://middlewaresnippets.blogspot.com/2015/03/install-and-configure-weblogic-server.html)
 
-## Chef and SAP
+## Chef
+- [CHEF](https://www.chef.io/chef/)
+	- [docs.chef.io](https://docs.chef.io/)
+	- [DevOps by Chef](https://www.chef.io/solutions/devops/)
 - [twitter.com/chef](https://twitter.com/chef)
-- [docs.chef.io](https://docs.chef.io/)
+- [slideshare: Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps](http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction)
+- [Chef Launches Partner Cookbook Program to Expand DevOps-Ready Technology Ecosystem](https://www.chef.io/blog/2016/02/23/chef-launches-partner-cookbook-program-to-expand-devops-ready-technology-ecosystem/)
+	- [partner cookbooks: supermarket.chef.io](https://supermarket.chef.io)
+	- [Chef Partner Engineering guide for writing quality cookbooks](https://github.com/chef-partners/cookbook-guide)
+
+### Chef and SAP
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)
-- [Chef for DevOps - an Introduction. This slide deck Introduces Chef and its role in DevOps](http://www.slideshare.net/sanjeev-sharma/chef-for-dev-ops-an-introduction)
 
 ## Capistrano
 - [Capistrano](http://capistranorb.com)
