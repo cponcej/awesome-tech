@@ -161,10 +161,14 @@
 - [Tag Toolbar](https://addons.mozilla.org/es/thunderbird/addon/tag-toolbar/)
 - [ProfileSwitcher](https://addons.mozilla.org/es/thunderbird/addon/profileswitcher/)
 - [Maximize Message Pane](https://addons.mozilla.org/es/thunderbird/addon/maximize-message-pane/)
-- [Contact Tabs](https://addons.mozilla.org/es/thunderbird/addon/contact-tabs/)
 - [ConfigDate](https://addons.mozilla.org/es/thunderbird/addon/configdate/)
 - [Calendar Tweaks](https://addons.mozilla.org/es/thunderbird/addon/calendar-tweaks/)
 - [Autohide Folders panel](https://addons.mozilla.org/es/thunderbird/addon/auto-hide-folders-panel/)
+- [AddressBookTab](https://addons.mozilla.org/es/thunderbird/addon/addressbooktab)
+- [Google Calendar Tab](https://addons.mozilla.org/es/thunderbird/addon/google-calendar-tab/)
+- [Contact Tabs](https://addons.mozilla.org/es/thunderbird/addon/contact-tabs/)
+- [Stationery](https://addons.mozilla.org/es/thunderbird/addon/stationery/)
+- [Subject Manager](https://addons.mozilla.org/es/thunderbird/addon/subject-manager/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Thunderbird continues to grow, exceeding 10,000,000 active daily users for the first time ever on November 30 2015.</p>&mdash; Thunderbird (@mozthunderbird) <a href="https://twitter.com/mozthunderbird/status/673715529350123521">diciembre 7, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
