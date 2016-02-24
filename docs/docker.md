@@ -101,6 +101,7 @@
 - [redhat.com: Great intro to container best practices on RHEL (and in general)..](https://access.redhat.com/documentation/en/red-hat-enterprise-linux-atomic-host/7/recommended-practices-for-container-development/recommended-practices-for-container-development) Best Practices Guide for Container Development
 - [Containers: Just Because Everyone Else is Doing Them Wrong, Doesn't Mean You Have To (Feb 2016) 🌟🌟🌟](https://www.hastexo.com/blogs/florian/2016/02/21/containers-just-because-everyone-else/)
 - [10 things to avoid in docker containers 🌟🌟](http://developerblog.redhat.com/2016/02/24/10-things-to-avoid-in-docker-containers/)
+- [cio.com: FAQ What are containers and why do you need them? 🌟](http://www.cio.com/article/2924995/enterprise-software/what-are-containers-and-why-do-you-need-them.html)
 
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)
