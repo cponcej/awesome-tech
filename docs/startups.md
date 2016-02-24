@@ -104,6 +104,7 @@
 ## Job Search
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [The difference between contracting and consulting, and why it matters 🌟🌟🌟](http://www.techrepublic.com/blog/it-consultant/the-difference-between-contracting-and-consulting-and-why-it-matters-125429/)
+- [techrepublic.com: 10 routes to IT job security 🌟](http://www.techrepublic.com/blog/10-things/10-routes-to-job-security/)
 - [The 23 cities with the best quality of life in the world 🌟](http://uk.businessinsider.com/mercer-2016-quality-of-living-worldwide-city-rankings-2016-2)
 - [Eures Job Search](https://ec.europa.eu/eures/)
 	- [Eures network: helping people to find a job in another EU country](http://www.europarl.europa.eu/news/en/news-room/20150622STO69009/Eures-network-helping-people-to-find-a-job-in-another-EU-country)
