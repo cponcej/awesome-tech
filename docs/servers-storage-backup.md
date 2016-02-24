@@ -15,6 +15,8 @@
 <!-- /MarkdownTOC -->
 
 # Servers, Storage and Backup
+- [opensource.com: Linux monitoring tools to keep your hardware cool 🌟](https://opensource.com/life/15/11/linux-temperature-monitoring-tools)
+
 ## Dell
 - [Dell Community](http://community.dell.com/)
 - [New PowerEdge R930: Powerful and reliable, ideal for customers migrating to more innovative x86 platforms from proprietary UNIX](http://www.dell.com/learn/us/en/uscorp1/press-releases/2015-04-28-dell-r930-server)

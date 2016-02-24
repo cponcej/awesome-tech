@@ -252,6 +252,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">RE add <a href="https://twitter.com/hashtag/mqtt?src=hash">#mqtt</a> or <a href="https://twitter.com/hashtag/websocket?src=hash">#websocket</a> support to your <a href="https://twitter.com/hashtag/android?src=hash">#android</a> apps using <a href="https://twitter.com/hashtag/aws?src=hash">#aws</a> <a href="https://twitter.com/hashtag/iot?src=hash">#iot</a> <a href="https://t.co/fFQ3T4jaS1">https://t.co/fFQ3T4jaS1</a></p>&mdash; Kyle Roche (@kylemroche) <a href="https://twitter.com/kylemroche/status/701992286268166144">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Internet of Things has gone too far <a href="https://t.co/IPD3VmFdOU">https://t.co/IPD3VmFdOU</a> <a href="https://t.co/a1pF66qcgE">pic.twitter.com/a1pF66qcgE</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/702564712010141696">24 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## AWS Partner Network (APN)
 - [AWS Partner Network](https://aws.amazon.com/partners/)
 	- [APN Technology Partners](https://aws.amazon.com/partners/technology/)
