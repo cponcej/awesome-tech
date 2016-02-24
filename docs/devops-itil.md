@@ -6,6 +6,7 @@
 	- [Description](#description)
 	- [Cultura DevOps](#cultura-devops)
 	- [DevOps Tools 2016](#devops-tools-2016)
+		- [Server Automation (provisioning)](#server-automation-provisioning)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Javier Garzas](#javier-garzas)
 		- [Project Management](#project-management)
@@ -152,6 +153,15 @@
 [![agile to market themselves](images/agile_to_market_themselves.png)](https://kenschwaber.wordpress.com/2014/07/30/agile/)
 
 ![always that way](images/always_that_way.jpg)
+
+### Server Automation (provisioning)
+- [Provisioning the Entire Stack](http://devops.sys-con.com/node/3692599)
+	- [stackiq.com](http://www.stackiq.com)
+	- [stacki.com](http://www.stacki.com) Stacki 3 is Here. The World's Fastest Linux Provisioning Tool.
+> When speccing out a datacenter automation or DevOps automation project, look for a server provisioning tool that can hand off to the application provisioning tool of choice, has some subset of application provisioning for complex systems (unless your application provisioning tool is already taking care of that of course), and can be fully automated.
+> There are several very good application provisioning tools on the market – Puppet, Chef, Saltstack, Ansible to name a few. A server provisioning tool, as the first step that runs in server-up datacenter automation, should be able to work reliably with all of these.
+>  It is easy enough to poke at products and determine if they suit the needs of your level of automation. A good example is that only about half of the products on the market make any attempt at RAID configuration as part of server provisioning. But if operators have to sit and configure RAID before an automated installation, then it’s not really fully automated, is it?
+> And of course I recommend that you consider automation. Partially because my employer plays in the space, but moreso because there are far more impactful things operations could be doing than sitting and watching an OS install, or typing in IP addresses, masks, and gateways.
 
 ## Agile planning: Scrum, Kanban, Lean
 - [Manifesto for Agile Software Development 🌟🌟🌟🌟🌟](http://agilemanifesto.org)
