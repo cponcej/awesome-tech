@@ -162,6 +162,8 @@
 - [dba.stackexchange.com - encryption tag](http://dba.stackexchange.com/questions/tagged/encryption)
 
 ## Identity Management
+- [FreeIPA.org – an open-source project sponsored by Red Hat 🌟🌟](https://www.freeipa.org) 
+	- [Wikipedia FreeIPA](https://en.wikipedia.org/wiki/FreeIPA)
 - [rhelblog.redhat.com - Ten New Identity Management (IdM) Features in Red Hat Enterprise Linux 7.1](http://rhelblog.redhat.com/2015/03/25/ten-new-identity-management-idm-features-in-red-hat-enterprise-linux-7-1/)
 - [redhat.com - Improvements to Identity Management (IdM) in RHEL 7.1](http://www.redhat.com/en/about/press-releases/red-hat-continues-platform-innovation-general-availability-first-minor-release-red-hat-enterprise-linux-7)
 - [Dell Authentication Services](http://software.dell.com/products/authentication-services/)
