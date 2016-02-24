@@ -24,7 +24,7 @@
 	- [Wikibooks](#wikibooks)
 	- [Webcomics](#webcomics)
 	- [Reactions. When words aren't enough, say it with animations](#reactions-when-words-arent-enough-say-it-with-animations)
-	- [Openclipart public domain images](#openclipart-public-domain-images)
+	- [Public domain images](#public-domain-images)
 
 <!-- /MarkdownTOC -->
 
@@ -124,6 +124,7 @@
 - [speakerdeck.com 🌟🌟](https://speakerdeck.com)
 - [prezi.com 🌟](https://prezi.com)
 - [scribd.com 🌟](https://scribd.com)
+- [PresentationGo 🌟🌟](http://www.presentationgo.com) The free PowerPoint library
 - [issuu.com](https://issuu.com) leading digital publishing platform delivering exceptional reading experiences of magazines, catalogs, and newspapers....
 - [glisser.com](http://www.glisser.com) Interactive presentation software made easy
 - [slidecorner.com](http://www.slidecorner.com)
@@ -426,9 +427,12 @@
 	- [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 - [9gag.com](http://9gag.com)
 
-## Openclipart public domain images
-- [openclipart.org](https://openclipart.org)
-- [Openclipart: A library of public domain images](https://opensource.com/life/16/2/create-on-openclipart)
+## Public domain images
+- [Wikipedia: Public domain images resources](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
+- [openclipart.org 🌟](https://openclipart.org)
+	- [Openclipart: A library of public domain images](https://opensource.com/life/16/2/create-on-openclipart)
+- [clker.com](http://www.clker.com)
+- [brandsoftheworld.com](http://www.brandsoftheworld.com)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E5G31VO1c0U" frameborder="0" allowfullscreen class="video"></iframe>
