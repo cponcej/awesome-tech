@@ -326,6 +326,7 @@
 - [App Containers Get a Needed Security Boost](http://www.enterprisetech.com/2016/02/05/app-containers-get-a-needed-security-boost/)
 - [Red Hat Insider: Securing containers before they take over the world](https://thestack.com/security/2016/01/21/red-hat-insider-securing-containers-before-they-take-over-the-world/)
 - [Containers and security: Docker, Red Hat & Linux: How containers can boost business and save time for developers 🌟](http://www.cbronline.com/news/enterprise-it/software/docker-red-hat-linux-how-containers-can-boost-business-and-save-time-for-developers-4816851)
+- [Adopt Continuous Security With OpenShift – Save Yourself From The Next glibc 🌟](https://blog.openshift.com/save-yourself-from-the-next-glibc/)
 
 [![glibc vulnerability docker](images/glibc_vulnerability_docker.png)](https://www.hastexo.com/blogs/florian/2016/02/21/containers-just-because-everyone-else/)
 
