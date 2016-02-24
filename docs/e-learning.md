@@ -101,11 +101,12 @@
 ![postureo ibiza one cookie](images/postureo_ibiza_one_cookie.png)
 
 ## Download Free Legal eBooks
-- [wowebook.org: Download Free Legal eBooks](http://www.wowebook.org/)
+- [wowebook.org: Download Free Legal eBooks 🌟🌟🌟](http://www.wowebook.org/)
 	- [Amazon Web Services in Action](http://www.wowebook.org/amazon-web-services-in-action.html)
 - [it-ebooks.info](https://it-ebooks.info/)
 - [webcodegeeks.tradepub.com](http://webcodegeeks.tradepub.com/)
-- [Microsoft has released over 100 Free Ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
+- [Microsoft has released over 100 Free Ebooks 🌟](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
+- [OpenLibra.com 🌟](https://openlibra.com) La Biblioteca Libre online: libros y ebooks en PDF gratis
 
 [![wow ebook](images/wowebook.gif)](http://www.wowebook.org)
 
