@@ -176,8 +176,6 @@
 - [twitter.com/f0g 🌟🌟](https://twitter.com/f0g)
 - [twitter.com/mglacey 🌟🌟](https://twitter.com/mglacey)
 
-[![not my job](images/not_my_job.jpg)](https://www.linkedin.com/pulse/silo-mentality-ruining-your-business-neal-woodson)
-
 ## Git on Twitter
 - [twitter.com/github 🌟🌟](https://twitter.com/github)
 - [twitter.com/githubstatus](https://twitter.com/githubstatus)

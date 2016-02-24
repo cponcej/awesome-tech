@@ -26,6 +26,8 @@
 
 [![Hiring for DevOps: Look beyond the gurus and ninjas](images/devops_beyond_gurus_ninjas.png)](http://techbeacon.com/devops-experts-hiring)
 
+[![not my job](images/not_my_job.jpg)](https://www.linkedin.com/pulse/silo-mentality-ruining-your-business-neal-woodson)
+
 # DevOps
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
