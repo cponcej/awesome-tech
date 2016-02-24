@@ -11,6 +11,7 @@
 [![linux skill](images/linuxskill.png)](https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg)
 
 # Linux Commands Examples
+- [nixCraft: My 10 UNIX Command Line Mistakes](http://www.cyberciti.biz/tips/my-10-unix-command-line-mistakes.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Tip: Ctrl-u is also useful for clearing password mistakes at login prompts and for throwing off shoulder snoops (Yeah, you behind me)</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/702529453772169216">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -210,7 +210,7 @@
 [![goto-dinosaur](images/goto-dinosaur.jpeg)](https://twitter.com/nixcraft)
 
 ## PHP 
-- [How to install PHP 7 on Ubuntu Linux 14.04 LTS](http://www.cyberciti.biz/faq/ubuntu-linux-14-04-install-php7-using-apt-get-command/)
+- [nixCraft: How to install PHP 7 on Ubuntu Linux 14.04 LTS 🌟](http://www.cyberciti.biz/faq/ubuntu-linux-14-04-install-php7-using-apt-get-command/)
 
 ### PHP on Twitter
 - [twitter.com/php_net](https://twitter.com/php_net)

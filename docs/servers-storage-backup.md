@@ -82,6 +82,7 @@
 - [Soluciones de almacenamiento Flash Array basadas en Dell y en Supermicro](http://searchdatacenter.techtarget.com/feature/Rethinking-data-center-components-as-commodities)
 - [All Flash Buying Guide](http://www.infostor.com/disk-arrays/all-flash-buying-guide.html)
 - [opensource.com: 5 open source web app alternatives to Google Drive 🌟](https://opensource.com/life/15/12/5-open-source-web-apps-self-hosted)
+- [nixCraft: 7 Awesome Open Source Cloud Storage Software For Your Privacy and Security 🌟](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 
 [![synology logo](images/synology_logo.jpg)](https://www.synology.com)
 

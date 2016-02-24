@@ -118,6 +118,8 @@
 
 ### Varnish
 - [Varnish Cache](https://www.varnish-cache.org/)
+- [varnish-software.com](https://www.varnish-software.com) Varnish Software is the company behind Varnish Cache, the open source HTTP accelerator.
+	- [The Varnish Book](http://info.varnish-software.com/the-varnish-book) Download the Varnish Book to learn how you can optimize your Varnish instance.
 - [fedoramagazine.org: Varnish: Your site faster and more stable](https://fedoramagazine.org/varnish-site-faster-stable/)
 - [Red Hat Developer Blog. Tag: Varnish](https://developerblog.redhat.com/tag/varnish/)
 - [Red Hat Enterprise Linux Blog. Tag: Varnish](http://rhelblog.redhat.com/tag/varnish/)

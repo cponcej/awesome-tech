@@ -9,7 +9,8 @@
 		- [Alternatives](#alternatives)
 	- [FOSS youtube channels](#foss-youtube-channels)
 	- [Linux on Twitter](#linux-on-twitter)
-	- [Linux 2016](#linux-2016)
+	- [Linux in 2016](#linux-in-2016)
+		- [PHP 7](#php-7)
 	- [Linux web tools](#linux-web-tools)
 	- [BashHub Bash History in the Cloud](#bashhub-bash-history-in-the-cloud)
 	- [Linux storage](#linux-storage)
@@ -157,10 +158,13 @@
 </div>
 <br>
 
-## Linux 2016
+## Linux in 2016
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
 - [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)
 - [Linux Command: Show Linux Version](http://www.cyberciti.biz/faq/command-to-show-linux-version/)
+
+### PHP 7
+- [nixCraft: How to install PHP 7 on Ubuntu Linux 14.04 LTS 🌟](http://www.cyberciti.biz/faq/ubuntu-linux-14-04-install-php7-using-apt-get-command/)
 
 ## Linux web tools
 - [curl Command Resume Broken Download](http://www.cyberciti.biz/faq/curl-command-resume-broken-download/)
