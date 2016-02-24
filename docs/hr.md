@@ -73,6 +73,11 @@
 </div>
 <br>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qHw9e3iVhKQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 [![culture shaped by worst behavior](images/culture_shaped_by_worst_behavior.jpg)](http://ricklochner.com/the-culture-of-any-organization-is-shaped/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Diversity in the workplace should be celebrated. But not the box-ticking kind <a href="https://t.co/u9sBkBTFLy">https://t.co/u9sBkBTFLy</a> <a href="https://t.co/gk0i6jgteb">pic.twitter.com/gk0i6jgteb</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/699642973957595137">febrero 16, 2016</a></blockquote>
