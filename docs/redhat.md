@@ -121,7 +121,7 @@
 
 ## Red Hat OpenShift PaaS
 - [Enterprise OpenShift](https://enterprise.openshift.com/)
-- [blog.openshift.com](https://blog.openshift.com)
+- [blog.openshift.com 🌟🌟](https://blog.openshift.com)
 - [OpenShift Dedicated, a new Amazon-based option for deploying its open source PaaS applications platform, with the aid of Google’s Kubernetes](http://www.cmswire.com/information-management/red-hat-bids-to-drive-openshift-deeper-into-enterprises/)
 	- [OpenShift Dedicated](https://www.openshift.com/dedicated/)
 	- [Red Hat OpenShift 3.1 Opens the Door for Both .NET and JBoss Middleware](http://thenewstack.io/openshift-3-1-opens-door-net-jboss-middleware/)
@@ -132,6 +132,7 @@
 - [opensourcerers.org: First Fuse application on OpenShift V3.1](http://www.opensourcerers.org/first-fuse-application-on-openshift-v3-1/)
 - [DZone/Integration Zone: Red Hat Launches OpenShift v3.1, Full of Docker/Kubernetes Goodness](https://dzone.com/articles/red-hat-launches-openshift-v31-full-of-dockerkuber)
 - [blog.openshift.com: From zero to container deployment hero with OpenShift 3 🌟🌟](https://blog.openshift.com/openshift-3-walkthrough/)
+- [blog.openshift.com: Using OpenShift 3 on your local environment 🌟](https://blog.openshift.com/using-openshift-3-on-your-local-environment/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qUTP0wDDEH9bVo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/greghoelzer7/red-hat-openshift-v3-overview-and-deep-dive" title="Red Hat OpenShift V3 Overview and Deep Dive" target="_blank">Red Hat OpenShift V3 Overview and Deep Dive</a> </strong> from <strong><a href="//www.slideshare.net/greghoelzer7" target="_blank">Greg Hoelzer</a></strong> </div>
