@@ -66,7 +66,7 @@
 - [ossmentor.com](http://www.ossmentor.com)
 - [Fedora Magazine](http://fedoramagazine.org/)
 - [Red Hat Developer Blog 🌟](http://developerblog.redhat.com)
-- [Red Hat Developers 🌟](http://developers.redhat.com)
+- [Red Hat Developers 🌟🌟](http://developers.redhat.com)
 - [Planet JBoss Developer](http://planet.jboss.org/)
 - [opensourcerers.org](http://www.opensourcerers.org/)
 
