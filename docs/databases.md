@@ -214,7 +214,7 @@
 - [twitter.com/ScriptingMySQL](https://twitter.com/ScriptingMySQL)
 
 ### MySQL Blogs
-- [MySQL Server Team](http://mysqlserverteam.com/)
+- [MySQL Server Team 🌟](http://mysqlserverteam.com/)
 - [InsideMySQL.com](http://insidemysql.com)
 
 ### MySQL Tutorials
