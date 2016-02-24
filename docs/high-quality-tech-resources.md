@@ -427,6 +427,9 @@
 	- [twitter.com/devopsreactions](https://twitter.com/devopsreactions)
 - [9gag.com](http://9gag.com)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When my wife asked why I had to have computers set up all over the house via <a href="https://t.co/BiX2xfAS3h">https://t.co/BiX2xfAS3h</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://t.co/cS0MgoRRVl">pic.twitter.com/cS0MgoRRVl</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702578433570672640">24 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Public domain images
 - [Wikipedia: Public domain images resources](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources)
 - [openclipart.org 🌟](https://openclipart.org)
