@@ -181,6 +181,7 @@
 - [How To Ask For An Introduction On LinkedIn (And Get It!)](http://careerhmo.com/ask-introduction-linkedin/)
 - [The one question you should always ask at the end of a job interview 🌟](http://www.businessinsider.com/the-one-question-you-should-always-ask-at-the-end-of-a-job-interview-2016-2) One question all job candidates should always ask, no matter what: "Who succeeds in this position?". Another way to phrase it: "How would you define success for this position?"
 - [9 signs you just nailed that job interview](http://www.businessinsider.com/how-to-know-if-i-nailed-an-interview-2016-2-19)
+- [opensource.com: How to interview for culture fit 🌟🌟](https://opensource.com/open-organization/16/2/how-hire-people-who-just-get-it)
 
 <a href="https://openclipart.org/detail/155107/job-interview"><img src="https://openclipart.org/download/155107/job-interview.svg" /></a>
 

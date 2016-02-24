@@ -57,6 +57,7 @@
 - [vigilantguy.com](http://www.vigilantguy.com) CIO leadership
 - [AppDeveloperMagazine.com](https://appdevelopermagazine.com)
 - [thestack.com](https://thestack.com) Security, IoT, Cloud and the latest tech news
+- [opensource.com 🌟🌟🌟](https://opensource.com)
 
 [![simon sinek progress](images/simonsinek_progress.png)](https://www.facebook.com/simonsinek/)
 
