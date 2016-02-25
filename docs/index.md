@@ -53,7 +53,7 @@
 17. [E-Learning 🌟🌟🌟](e-learning.md)
 18. [Economy](economy.md)
     - [Economy Videos](economy-videos.md)
-    - [Live News](live-news.md)
+    - [Live News 🌟](live-news.md)
     - [World Press Photo 🌟🌟🌟](world-press-photo.md)
     - [Quote](mkeiser.md)
 
