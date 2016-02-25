@@ -41,6 +41,11 @@
 - [twitter.com/RDOcommunity](https://twitter.com/RDOcommunity)
 - [twitter.com/Rackspace](https://twitter.com/Rackspace)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WMy1xch2fOU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## The Twelve-Factor App methodology for building apps in modern cloud environments
 - [The Twelve-Factor App](http://12factor.net/)
 - [slideshare: 12 Factor (Cloud Native) Apps for Spring Developers](http://www.slideshare.net/SpringCentral/12-factor-cloud-native-apps-for-spring-developers)
