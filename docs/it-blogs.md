@@ -60,6 +60,7 @@
 - [thestack.com 🌟](https://thestack.com) Security, IoT, Cloud and the latest tech news
 - [opensource.com 🌟🌟🌟](https://opensource.com)
 - [blogs.vmware.com](http://blogs.vmware.com/)
+- [mashable.com/apps-software](http://mashable.com/apps-software)
 
 [![simon sinek progress](images/simonsinek_progress.png)](https://www.facebook.com/simonsinek/)
 
