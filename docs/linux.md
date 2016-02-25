@@ -546,7 +546,12 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # VirtualBox
+- [twitter.com/virtualbox](https://twitter.com/virtualbox)
+- [VirtualBoxImages.com](https://virtualboximages.com)
 - [10 ways to get the most from VirtualBox](http://www.techrepublic.com/blog/10-things/10-ways-to-get-the-most-from-virtualbox/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">FRIDAY SPOTLIGHT: <a href="https://twitter.com/hashtag/OracleVM?src=hash">#OracleVM</a> <a href="https://twitter.com/hashtag/VirtualBox?src=hash">#VirtualBox</a> Takes the Spotlight  <a href="https://twitter.com/hashtag/VDI?src=hash">#VDI</a> <a href="https://t.co/P5Ku1QOj7x">https://t.co/P5Ku1QOj7x</a> <a href="https://t.co/H4uMKCB6OG">pic.twitter.com/H4uMKCB6OG</a></p>&mdash; OracleVirtualization (@ORCL_Virtualize) <a href="https://twitter.com/ORCL_Virtualize/status/693119134385569793">29 de enero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Apple OS X
 - [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
