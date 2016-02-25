@@ -71,6 +71,7 @@
 - [Ansible subreddit](https://www.reddit.com/r/ansible/)
 - [ansible-tips-and-tricks.readthedocs.org](http://ansible-tips-and-tricks.readthedocs.org)
 - [ansible-flow.readthedocs.org])(http://ansible-flow.readthedocs.org)
+- [Google Groups ansible-announce 🌟](https://groups.google.com/forum/#!forum/ansible-announce)
 
 ## Is ansible replacing puppet?
 - [redhat subreddit: Is ansible replacing puppet?](https://www.reddit.com/r/redhat/comments/3xj6ja/is_ansible_replacing_puppet/)
