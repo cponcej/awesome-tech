@@ -65,6 +65,7 @@
 - [L. David Marquet](https://davidmarquet.wordpress.com/blog-posts/)
     - [L. David Marquet: Control In An Emergency 🌟](https://www.linkedin.com/pulse/control-emergency-l-david-marquet)
 - [careerealism.com: 5 Networking Tips Every Job Seeker Needs](http://www.careerealism.com/networking-tips-job-seeker-needs/)
+- [businessinsider.com: 27 jobs to avoid if you hate stress](http://www.businessinsider.com/jobs-to-avoid-if-you-hate-stress-2015-9)
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
