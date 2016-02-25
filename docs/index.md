@@ -10,7 +10,7 @@
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)
 	- [Newsfeeds and Twitter resources 😀](twitter.md)  
 	- [Miscellaneous. IT Blogs, Support](it-blogs.md)
-2. [Startups, Jobs, In-Demand Skills](startups.md)
+2. [Startups and IT Jobs, In-Demand Skills](startups.md)
 3. [Human Resources, Interviews, Leadership 🙈 🙉 🙊](hr.md)
 4. [Scalability and Reliability, Web Performance 🌟](scalability.md)
 5. [Linux](linux.md)

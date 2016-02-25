@@ -1,7 +1,7 @@
 **Table of Contents**
 <!-- MarkdownTOC -->
 
-- [Startups](#startups)
+- [Startups and IT Jobs](#startups-and-it-jobs)
 	- [Startup related links](#startup-related-links)
 		- [Startup Blogs, Documentaries and Talks](#startup-blogs-documentaries-and-talks)
 	- [IT remuneration](#it-remuneration)
@@ -13,7 +13,7 @@
 		- [Portales de empleo](#portales-de-empleo)
 	- [Freelance jobs](#freelance-jobs)
 		- [Trabajos Freelance](#trabajos-freelance)
-	- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
+- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 
 <!-- /MarkdownTOC -->
 
@@ -23,7 +23,7 @@
 
 [![linkedin sales pitch meme](images/LinkedIn-Meme-sales-pitch.png)](http://www.ringdna.com/blog/meme-selling-on-LinkedIn)
 
-# Startups
+# Startups and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)
 - [Global Technology Adoption Index 2015](https://powermore.dell.com/2015-global-technology-adoption-index/)
@@ -91,6 +91,7 @@
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
 - [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong 🌟](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
+- [Tres días de infierno vendiendo 'startups' en la mayor feria mundial del móvil 🌟](http://www.elconfidencial.com/tecnologia/2016-02-25/tres-dias-de-infierno-vendiendo-startups-en-la-mayor-feria-de-telefonia-del-mundo_1157974/)
 
 [![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.grifolsacademy.com/)
 
@@ -210,7 +211,7 @@
 ### Trabajos Freelance
 - [computerhoy.com: Las 10 mejores webs donde conseguir trabajo como freelance](http://computerhoy.com/listas/internet/8-mejores-webs-donde-conseguir-trabajo-como-freelance-8742)
 
-## Skills That Can Get You Hired in 2016
+# Skills That Can Get You Hired in 2016
 - [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
 - [9 enterprise tech trends for 2016 and beyond](http://www.infoworld.com/article/3007057/cloud-computing/9-enterprise-tech-trends-for-2016-and-beyond.html)
 - [The Best Tech Skills to List on Your Resume](http://www.businessnewsdaily.com/4932-tech-skills-resume.html)
