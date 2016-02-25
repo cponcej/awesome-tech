@@ -52,6 +52,7 @@
 - [Bitcoin News](http://btc.posthaven.com/)
 - [information-age.com](http://www.information-age.com/)
 - [The Next Web - International technology news, business & culture 🌟](http://thenextweb.com/)
+- [nextplatform.com 🌟🌟](http://www.nextplatform.com)
 - [infoworld.com](http://www.infoworld.com)
 - [cio.com 🌟](http://www.cio.com)
 - [vigilantguy.com](http://www.vigilantguy.com) CIO leadership
