@@ -49,6 +49,7 @@
 - [twitter.com/fedora](https://twitter.com/fedora)
 - [twitter.com/openshift](https://twitter.com/openshift)
 - [twitter.com/RedHatAtomic](https://twitter.com/RedHatAtomic)
+- [twitter.com/JBoss](https://twitter.com/JBoss)
 
 ## Red Hat Blogs and Forums
 - [RedHat.com Blog](http://www.redhat.com/en/about/blog)
@@ -133,6 +134,7 @@
 - [DZone/Integration Zone: Red Hat Launches OpenShift v3.1, Full of Docker/Kubernetes Goodness](https://dzone.com/articles/red-hat-launches-openshift-v31-full-of-dockerkuber)
 - [blog.openshift.com: From zero to container deployment hero with OpenShift 3 🌟🌟](https://blog.openshift.com/openshift-3-walkthrough/)
 - [blog.openshift.com: Using OpenShift 3 on your local environment 🌟](https://blog.openshift.com/using-openshift-3-on-your-local-environment/)
+- [planet.jboss.org: How to install OpenShift as your private PaaS](http://planet.jboss.org/post/how_to_install_openshift_as_your_private_paas)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qUTP0wDDEH9bVo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/greghoelzer7/red-hat-openshift-v3-overview-and-deep-dive" title="Red Hat OpenShift V3 Overview and Deep Dive" target="_blank">Red Hat OpenShift V3 Overview and Deep Dive</a> </strong> from <strong><a href="//www.slideshare.net/greghoelzer7" target="_blank">Greg Hoelzer</a></strong> </div>
@@ -308,6 +310,10 @@
 ### JBoss Fuse - Enterprise Service Bus (ESB)
 - [JBoss Fuse Description](http://www.jboss.org/products/fuse/overview/)
 - [planet.jboss.org - JBoss Developer - Red Hat JBoss Fuse - Integrating Database, Java Bean and Restful Services in EAP, Spring DSL](http://planet.jboss.org/post/red_hat_jboss_fuse_integrating_database_java_bean_and_restful_services_in_eap_spring_dsl)
+- [pdf download: How customers are using the power of integration to drive competitive edge with JBossFuse](http://www.redhat.com/en/resources/power-integration) Organizations in manufacturing, healthcare, transportation, construction, and media are connecting their enterprises with Red Hat® JBoss®Fuse. With standard, proven integration patterns and more than 150 ready-to-use connectors, Red Hat JBoss Fuse lets organizations integrate applications, services, processes, and data to gain competitive advantage, reduce time-to-market, and lower total cost of ownership.
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How customers are using the power of integration to drive competitive edge with <a href="https://twitter.com/hashtag/JBossFuse?src=hash">#JBossFuse</a> <a href="https://t.co/iSr4PuOwiA">https://t.co/iSr4PuOwiA</a> <a href="https://t.co/7LuWVdG5rw">pic.twitter.com/7LuWVdG5rw</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/702806604920573953">25 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### JBoss Data Virtualization
 - [ossmentor.com - JBoss Data Virtualization 6.1](http://www.ossmentor.com/2015/04/data-virtualization-61-getting-started.html)

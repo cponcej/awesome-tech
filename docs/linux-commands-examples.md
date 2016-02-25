@@ -34,6 +34,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sed &quot;/bang/ s/foo/bar/&quot; # Replace foo with bar only on lines that contain &#39;bang&#39;. Use in pipeline or with file args. Thanks <a href="https://twitter.com/Agarri_FR">@Agarri_FR</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/701130794958503937">febrero 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">tail -f *.log # You can actually follow more than one log at once and get new updates on them. Use -q to not print filename header.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/702605207411277824">24 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">less +F filename.log # Using +F option or pressing F in less is similar to `tail -f filename.log` but can use less&#39;s features. Thx <a href="https://twitter.com/gazoombo">@gazoombo</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/700559802267738112">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -199,6 +202,10 @@
 - Watch web server access log for HTTP status code 500 & display entry generated that code: 🌟
 
 		tail -f access.log | awk '$9 == 500 { print $0 }'
+
+- You can actually follow more than one log at once and get new updates on them. Use -q to not print filename header.  🌟
+
+		tail -f *.log 
 
 - list top 50 404's in descending order.
 

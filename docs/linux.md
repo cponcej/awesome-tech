@@ -40,10 +40,11 @@
 		- [Emacs](#emacs)
 			- [Jed](#jed)
 		- [Python Idle](#python-idle)
-	- [Apple OS X](#apple-os-x)
 	- [Ubuntu](#ubuntu)
 	- [Linux interview questions](#linux-interview-questions)
+- [ArchLinux](#archlinux)
 - [VirtualBox](#virtualbox)
+- [Apple OS X](#apple-os-x)
 
 <!-- /MarkdownTOC -->
 
@@ -80,6 +81,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Microsoft isn&#39;t evil, they just make really crappy operating systems. - Linus Torvalds</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/701060245414481920">febrero 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
 
 ## Linux and FOSS Blogs and Forums
 
@@ -255,7 +258,7 @@
 	- [ack-grep](http://beyondgrep.com/)
 - [ibm.com: Learn Linux, 101: Customize and use the shell environment](http://www.ibm.com/developerworks/linux/library/l-lpic1-105-1/index.html)
 - [Rich’s sh (POSIX shell) tricks](http://www.etalabs.net/sh_tricks.html)
-- [Learning bash scripting for beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
+- [nixCraft: Learning bash scripting for beginners 🌟](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
 - [How to undefine and unset a bash environment variable on Linux or Unix](www.cyberciti.biz/faq/linux-osx-bsd-unix-bash-undefine-environment-variable/)
 - [30 Handy Bash Shell Aliases For Linux/Unix/Mac OS X](http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html)
 - [Bash For Loop Examples](http://www.cyberciti.biz/faq/bash-for-loop/)
@@ -270,7 +273,7 @@
 - [Linux Run Command As Another User](http://www.cyberciti.biz/open-source/command-line-hacks/linux-run-command-as-different-user/)
 - [Much faster incremental apt updates](https://juliank.wordpress.com/2015/12/26/much-faster-incremental-apt-updates/)
 - [Linux/UNIX: Convert Hexadecimal to Decimal Number](http://www.cyberciti.biz/faq/linux-unix-convert-hex-to-decimal-number/)
-- [A Shell Primer: Master Your Linux, OS X, Unix Shell Environment](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/)
+- [nixCraft - A Shell Primer: Master Your Linux, OS X, Unix Shell Environment 🌟](http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/)
 - [Monkeying around on the bash command line in 2016](http://www.computerworld.com/article/3018637/open-source-tools/monkeying-around-on-the-bash-command-line-in-2016.html)
 - [Linux/UNIX: Find Out If File Exists With Conditional Expressions](http://www.cyberciti.biz/tips/find-out-if-file-exists-with-conditional-expressions.html)
 - [Linux/UNIX Recursively Search All Files For A String](http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/)
@@ -518,12 +521,6 @@
 
 [![vim,emacs,nano](images/vim_emacs.png)](https://twitter.com/nixcraft)
 
-## Apple OS X
-- [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
-- [How to enable colorized output for the ls command in Mac OS X Terminal](http://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/)
-
-[![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
-
 ## Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
 - [forbes: 10 Reasons Why Ubuntu Is Killing It In The Cloud](http://www.forbes.com/sites/janakirammsv/2016/01/12/10-reasons-why-ubuntu-is-killing-it-in-the-cloud/#2715e4857a0b19d6c8d819a2)
@@ -541,8 +538,19 @@
 </div>
 <br/>
 
+# ArchLinux
+- [ArchLinux.org](https://www.archlinux.org/)
+- [Install ArchLinux Cheat Sheet](http://i.cubeupload.com/On0hJE.jpg)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Install <a href="https://twitter.com/archlinux">@ArchLinux</a> Cheat Sheet. Large version <a href="https://t.co/cpCrYEFnYY">https://t.co/cpCrYEFnYY</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://t.co/AB0WtSLyyH">pic.twitter.com/AB0WtSLyyH</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702628943644352512">24 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # VirtualBox
 - [10 ways to get the most from VirtualBox](http://www.techrepublic.com/blog/10-things/10-ways-to-get-the-most-from-virtualbox/)
+
+# Apple OS X
+- [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)
+- [How to enable colorized output for the ls command in Mac OS X Terminal](http://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PLVmO9TMtno?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
