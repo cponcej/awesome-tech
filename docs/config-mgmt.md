@@ -79,6 +79,10 @@
 - [Docker](docker.md)
 
 ## Puppet
+- [The Puppet Labs Issue Tracker](https://tickets.puppetlabs.com)
+- [Google Groups puppet-bugs](https://groups.google.com/forum/#!forum/puppet-bugs)
+- [Google Groups puppet-users](https://groups.google.com/forum/#!forum/puppet-users)
+- [r/puppet](https://www.reddit.com/r/puppet)
 - [Download the Learning VM](https://puppetlabs.com/download-learning-vm)
 	- [Bringing application orchestration to the Learning VM](https://puppetlabs.com/blog/bringing-application-orchestration-to-learning-vm)
 - [sysadmincasts.com: Learning Puppet with Vagrant](http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant)
