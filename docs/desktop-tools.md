@@ -10,6 +10,7 @@
 	- [Thunderbird](#thunderbird)
 		- [Thunderbird Extensions](#thunderbird-extensions)
 	- [Firefox](#firefox)
+		- [Firefox Extensions](#firefox-extensions)
 	- [Chrome](#chrome)
 	- [Monitors](#monitors)
 - [Presentations](#presentations)
@@ -199,6 +200,15 @@
 - [Keyboard shortcuts - Perform common Firefox tasks quickly](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 - [Top 10 Firefox shortcut keys everyone should know](http://www.computerhope.com/tips/tip83.htm)
 - [accessfirefox.org: Firefox Keyboard and Mouse Shortcuts](https://www.accessfirefox.org/Firefox_Keyboard_and_Mouse_Shortcuts.html)
+
+### Firefox Extensions
+- [Click&Clean](https://addons.mozilla.org/en-US/firefox/addon/clickclean)
+- [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes)
+- [Lightbeam](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
+- [ProfileSwitcher](https://addons.mozilla.org/en-US/firefox/addon/profileswitcher)
+- [Tile View](https://addons.mozilla.org/en-US/firefox/addon/tile-view/)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [Zoom Page](https://addons.mozilla.org/en-US/firefox/addon/zoom-page)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You can make the Internet safer! Having updated software defends against threats <a href="https://t.co/scOGWM2nkt">https://t.co/scOGWM2nkt</a> <a href="https://twitter.com/hashtag/DPD16?src=hash">#DPD16</a> <a href="https://t.co/szMhL1brBM">pic.twitter.com/szMhL1brBM</a></p>&mdash; Firefox (@firefox) <a href="https://twitter.com/firefox/status/692791712905838593">enero 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
