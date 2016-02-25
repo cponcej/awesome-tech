@@ -100,8 +100,12 @@
 - [opensource.com: Version control isn't just for programmers](https://opensource.com/life/16/2/version-control-isnt-just-programmers)
 - [opensource.com: Using Git in the classroom 🌟](https://opensource.com/education/16/1/git-education-classroom)
 - [medium: Understanding git for real by exploring the .git directory](https://medium.com/@pierreda/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807)
+- [Git Cheat Sheet for Sysadmin/DevOps 🌟](http://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet.png)
 
 [![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/) 
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Git Commands &amp; Best Practices Cheat Sheet For Sysadmin/DevOPS. Large version  <a href="https://t.co/Df4PQfXugz">https://t.co/Df4PQfXugz</a> <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a> <a href="https://t.co/mBqSOfYEaH">pic.twitter.com/mBqSOfYEaH</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702915958118060033">25 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Version control isn&#39;t just for programmers <a href="https://t.co/crPQTGPyiP">https://t.co/crPQTGPyiP</a> by <a href="https://twitter.com/monsterjavaguns">@monsterjavaguns</a> <a href="https://t.co/Bh7oGvWb20">pic.twitter.com/Bh7oGvWb20</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/700666648349376513">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

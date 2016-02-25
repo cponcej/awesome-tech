@@ -19,6 +19,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Greg&#39;s BASH FAQ is a great place for BASH questions and teaches you &quot;the right way&quot; to do things. <a href="https://t.co/nP2EdOBwsJ">https://t.co/nP2EdOBwsJ</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/699383729395884032">February 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">xdotool # This is an X automation tool that allows you to script your keyboard and mouse.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/702867362895233024">25 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">jq is a command line processor for JSON data. <a href="https://t.co/r1GmmzXMLL">https://t.co/r1GmmzXMLL</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/700209161813037056">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
