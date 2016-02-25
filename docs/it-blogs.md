@@ -56,8 +56,9 @@
 - [cio.com 🌟](http://www.cio.com)
 - [vigilantguy.com](http://www.vigilantguy.com) CIO leadership
 - [AppDeveloperMagazine.com](https://appdevelopermagazine.com)
-- [thestack.com](https://thestack.com) Security, IoT, Cloud and the latest tech news
+- [thestack.com 🌟](https://thestack.com) Security, IoT, Cloud and the latest tech news
 - [opensource.com 🌟🌟🌟](https://opensource.com)
+- [blogs.vmware.com](http://blogs.vmware.com/)
 
 [![simon sinek progress](images/simonsinek_progress.png)](https://www.facebook.com/simonsinek/)
 
@@ -66,7 +67,7 @@
 - [javiergarzas.com 🌟🌟🌟](http://www.javiergarzas.com/)
 - [Pymes y autónomos](http://www.pymesyautonomos.com)
 - [unpocodejava.wordpress.com 🌟🌟🌟](https://unpocodejava.wordpress.com/)
-- [jreypo.wordpress.com 🌟](https://jreypo.wordpress.com/)
+- [blog.jreypo.io 🌟](http://blog.jreypo.io/)
 - [dbigcloud.com 🌟](http://www.dbigcloud.com/)
 - [Aprendiendo a virtualizar](http://aprendiendoavirtualizar.com/)
 - [josemariagonzalez.es: Virtualización & Cloud Computing](http://www.josemariagonzalez.es/)

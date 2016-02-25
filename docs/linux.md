@@ -7,6 +7,7 @@
 	- [Linux and FOSS Blogs and Forums](#linux-and-foss-blogs-and-forums)
 		- [Best Linux Blogs](#best-linux-blogs)
 		- [Alternatives](#alternatives)
+		- [Spanish Linux Blogs](#spanish-linux-blogs)
 	- [FOSS youtube channels](#foss-youtube-channels)
 	- [Linux on Twitter](#linux-on-twitter)
 	- [Linux in 2016](#linux-in-2016)
@@ -122,6 +123,12 @@
 - [chruz.wordpress.com](https://chruz.wordpress.com) Linux, OpenStack & Provisioning
 - [climagic.org](http://www.climagic.org)
 - [unixmages.com](http://unixmages.com) Unix Mages started in the summer of 2005 with the purpose of teaching Unix and Linux by using stories of wizards, mages, magic, and spells.
+
+### Spanish Linux Blogs
+- [systemadmin.es 🌟](http://systemadmin.es/)
+- [muylinux.com 🌟](http://www.muylinux.com/)
+- [linuxadictos.com 🌟](http://www.linuxadictos.com)
+- [systemadmin.es 🌟](http://systemadmin.es/)
 
 [![nixcraft logo](images/nixcraft_logo.jpg)](http://www.cyberciti.biz/)
 
