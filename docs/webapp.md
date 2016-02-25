@@ -9,6 +9,7 @@
 	- [Enterprise Search Platforms](#enterprise-search-platforms)
 		- [Elasticsearch](#elasticsearch)
 	- [Caching](#caching)
+		- [CDN Content delivery network](#cdn-content-delivery-network)
 		- [HAProxy](#haproxy)
 		- [Varnish](#varnish)
 		- [Memcached](#memcached)
@@ -99,9 +100,17 @@
 
 ## Caching
 - [Wikipedia: Web cache](https://en.wikipedia.org/wiki/Web_cache)
-- [Wikipedia: CDN Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
 - [Wikipedia: Dynamic site acceleration](https://en.wikipedia.org/wiki/Dynamic_site_acceleration)
 - [Slideshare: Caching](http://www.slideshare.net/NasceniaIT/brown-bag-caching-rafi-faisal-48694442)
+
+### CDN Content delivery network
+- [Wikipedia: CDN Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
+	- [Traditional commercial CDNs 🌟](https://en.wikipedia.org/wiki/Content_delivery_network#Traditional_commercial_CDNs)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4YHPYy918c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ### HAProxy
 - [HAProxy](http://www.haproxy.org)
@@ -310,4 +319,3 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4LiXl3TsDw9N9O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/opensourcementor/webinar-maximize" title="Maximize information exchange in your enterprise with AMQP" target="_blank">Maximize information exchange in your enterprise with AMQP</a> </strong> from <strong><a href="//www.slideshare.net/opensourcementor" target="_blank">Kenneth Peeples</a></strong> </div>
 </div> 
 <br/>
-
