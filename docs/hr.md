@@ -1,24 +1,32 @@
 <!-- MarkdownTOC -->
 
 - [Human Resources](#human-resources)
+    - [HR Blogs](#hr-blogs)
+    - [Articles](#articles)
     - [Office Politics](#office-politics)
     - [Talks](#talks)
     - [Leadership Blogs](#leadership-blogs)
     - [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
     - [Interview Preparation Guide](#interview-preparation-guide)
     - [Technical Resume](#technical-resume)
-    - [Recursos Humanos](#recursos-humanos)
-    - [Orientación laboral](#orientación-laboral)
+- [Recursos Humanos](#recursos-humanos)
+    - [RRHH Blogs](#rrhh-blogs)
+    - [Orientacion laboral](#orientacion-laboral)
+    - [Articulos](#articulos)
 
 <!-- /MarkdownTOC -->
 
 [![live chat](images/human-resources-cover.png)](https://www.livechatinc.com/livechat-for-human-resources/)
 
 # Human Resources 
+## HR Blogs
 - [careerealism.com](http://www.careerealism.com/)
 - [careersherpa.net](http://careersherpa.net)
 - [hbr.org: Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/)
 - [Undercover Recruiter - Career and Recruitment Blog](http://theundercoverrecruiter.com/)
+- [L. David Marquet](https://davidmarquet.wordpress.com/blog-posts/)
+
+## Articles
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
 - [9 Signs You Should Run Away From That Job Offer](http://www.inc.com/jt-odonnell/9-signs-you-should-run-away-from-that-job-offer.html)
@@ -45,7 +53,7 @@
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
 - [How To Tell If Your Boss Is a Bully or Just Tough](https://www.hrbartender.com/2012/leadership-and-management/how-to-tell-if-your-boss-is-a-bully-or-just-tough/)
 - [Examples of Bullying in the Workplace](https://www.linkedin.com/pulse/20140723143757-143588541-examples-of-bullying-in-the-workplace)
-- [Forbes: Addicted To Ambition: 3 Ways Millennials Can Manage Their Stress](Addicted To Ambition: 3 Ways Millennials Can Manage Their Stress)
+- [Forbes: Addicted To Ambition: 3 Ways Millennials Can Manage Their Stress](http://www.forbes.com/sites/carolinebeaton/2016/02/10/addicted-to-ambition-3-ways-millennials-can-manage-their-stress/)
 - [Forbes: How To Successfully Manage A Multigenerational Team 🌟](http://www.forbes.com/sites/adp/2016/02/12/how-to-successfully-manage-a-multigenerational-team)
 - [cityam.com: "Ghosting" is the new skiving as nine per cent of UK workers admit to giving their employers the silent treatment](http://www.cityam.com/234699/ghosting-is-the-new-skiving-as-nine-per-cent-of-uk-workers-admit-to-giving-their-employers-the-silent-treatment)
 - [cityam.com: Why you should stop trying to make your team like you](http://www.cityam.com/234743/why-you-should-stop-trying-to-make-your-team-like-you)
@@ -56,6 +64,7 @@
 - [Forbes: Seven Ways To Inspire Your Team To Collaborate 🌟🌟🌟](http://www.forbes.com/sites/carolkinseygoman/2016/02/21/seven-ways-to-inspire-your-team-to-collaborate) “How many of you are totally comfortable sharing information with others in your organization?”
 - [L. David Marquet](https://davidmarquet.wordpress.com/blog-posts/)
     - [L. David Marquet: Control In An Emergency 🌟](https://www.linkedin.com/pulse/control-emergency-l-david-marquet)
+- [careerealism.com: 5 Networking Tips Every Job Seeker Needs](http://www.careerealism.com/networking-tips-job-seeker-needs/)
 
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
@@ -203,11 +212,21 @@
 
 [![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
 
-## Recursos Humanos
+# Recursos Humanos
+## RRHH Blogs
 - [elblogderrhh.com](http://www.elblogderrhh.com/)
-	- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [equiposytalento.com](http://www.equiposytalento.com/)
 - [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
+- [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
+
+## Orientacion laboral
+- [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
+    - [Webinar | Cómo enamorar a tu seleccionador](https://orientacion-laboral.infojobs.net/webinar-como-enamorar-al-seleccionador)
+- [¿Os habéis arrepentido en alguna ocasión de no preguntar determinadas cosas en la entrevista de trabajo?](http://www.elblogderrhh.com/2011/02/%C2%BFos-habeis-arrepentido-en-alguna-ocasion-de-no-preguntar-determinadas-cosas-en-la-entrevista-de-trabajo.html)
+- [Los sueldos informáticos en Europa](http://www.think-progress.com/es/blog/posts/los-sueldos-informaticos-en-europa/)
+
+## Articulos
+- [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
 - [El jefe de RRHH de Google es tajante: "El expediente académico no sirve para nada"](http://www.elconfidencial.com/alma-corazon-vida/2013-06-28/el-expediente-academico-no-sirve-para-nada-asegura-el-responsable-de-rrhh-de-google_501910/)
 - [Nepotismo y amiguismo: lo bueno y lo malo de los favores en el trabajo 🌟](http://www.bbc.com/mundo/noticias/2015/10/151011_vert_cap_nepotismo_en_empreas_yv)
@@ -235,12 +254,6 @@
     - [Cómo se gestionan las malas referencias](http://www.expansion.com/2012/11/30/empleo/desarrollo-de-carrera/1354301718.html)
     - [Problemas legales por dar malas referencias laborales](http://www.ehowenespanol.com/problemas-legales-dar-malas-referencias-laborales-info_406759/)
 - [10 verdades personales sobre los portales de empleo 🌟🌟](http://yoriento.com/2009/09/10-verdades-sobre-los-portales-de-empleo-602.html/)
-
-## Orientación laboral
-- [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
-	- [Webinar | Cómo enamorar a tu seleccionador](https://orientacion-laboral.infojobs.net/webinar-como-enamorar-al-seleccionador)
-- [¿Os habéis arrepentido en alguna ocasión de no preguntar determinadas cosas en la entrevista de trabajo?](http://www.elblogderrhh.com/2011/02/%C2%BFos-habeis-arrepentido-en-alguna-ocasion-de-no-preguntar-determinadas-cosas-en-la-entrevista-de-trabajo.html)
-- [Los sueldos informáticos en Europa](http://www.think-progress.com/es/blog/posts/los-sueldos-informaticos-en-europa/)
 
 [![25 preguntas entrevista trabajo](images/25_preguntas_entrevista_trabajo.jpg)](https://twitter.com/Forbes_es)
 
