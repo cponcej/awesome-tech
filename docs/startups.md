@@ -217,6 +217,9 @@
 - [forbes.com: 8 Tech Trends Changing How We Work In 2016](http://www.forbes.com/sites/ajagrawal/2016/01/11/8-tech-trends-changing-how-we-work-in-2016/#2715e4857a0b6a27c0767013)
 - [businessinsider.com: 17 common mistakes to avoid when you're networking](http://www.businessinsider.com/networking-mistakes-youre-making-2016-1)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Remember F**ked Company? This is the new site that tracks startup down rounds: <a href="https://t.co/qOHmhWYlZk">https://t.co/qOHmhWYlZk</a> <a href="https://t.co/70jRREd7up">pic.twitter.com/70jRREd7up</a></p>&mdash; Forbes Tech News (@ForbesTech) <a href="https://twitter.com/ForbesTech/status/702600141946167300">24 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![google on motorola](images/google-on-motorola-sign.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-hp-and-autonomy-google-and-motorola-and-more/)
 
 [![Oracle buys Sun](images/oracle-sun.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)

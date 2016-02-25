@@ -113,6 +113,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The gig economy attracts many workers, few full-time jobs <a href="https://t.co/q76qFZF5Fg">https://t.co/q76qFZF5Fg</a> <a href="https://t.co/utzF0EzV9m">pic.twitter.com/utzF0EzV9m</a></p>&mdash; Real Time Economics (@WSJecon) <a href="https://twitter.com/WSJecon/status/702238896873205764">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">81% of adults in <a href="https://twitter.com/hashtag/OECD?src=hash">#OECD</a> might use the <a href="https://twitter.com/hashtag/internet?src=hash">#internet</a>, but there are still gaps between age groups <a href="https://t.co/WacVHqMAU9">https://t.co/WacVHqMAU9</a> <a href="https://t.co/ZEJ4IldezE">pic.twitter.com/ZEJ4IldezE</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/702892226293178369">25 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Gender pay gap:<br>S Korea 37%<br>Japan 27<br>Turkey 20<br>US 18<br>Swiss, Chile 17<br>Spain 9<br>New Zealand 6<a href="https://t.co/keVLfd5Mjd">https://t.co/keVLfd5Mjd</a> <a href="https://t.co/gURsefDoQQ">pic.twitter.com/gURsefDoQQ</a></p>&mdash; Dina Pomeranz (@dinapomeranz) <a href="https://twitter.com/dinapomeranz/status/701563247875465216">febrero 22, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -191,6 +194,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Share of global economy<br><br>US<br>1980: 25%<br>2014: 19.2%<br><br>EU<br>1980: 30.9%<br>2014: 18.4%<br><br>China<br>1980: 2.2%<br>2014: 16.6%<br><br>India<br>1980: 2.54%<br>2014: 5.96%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702236512746758145">febrero 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Primary education quality, 2015<br><br>1. Finland<br>2. Belgium<br>3. Singapore<br><br>10. Japan<br>22. Germany<br>30. UK<br>36. US<br>59. China<br>88. India<br>141. Egypt<br><br>WEF</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702893343122919424">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![top countries with the most people living overseas](images/top_countries_with_most_people_living_overseas.png)](http://www.forbes.com/sites/niallmccarthy/2016/01/15/the-countries-with-the-most-native-born-people-living-abroad-infographic/)
@@ -285,6 +291,9 @@ ________________________________________________________________________________
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Niño Becerra: &#39;¿Por qué la economía tiene que crecer cada año? Seguimos como en los años 60&#39; <a href="https://t.co/ZxkoLx8DaD">https://t.co/ZxkoLx8DaD</a> <a href="https://t.co/Eo8Vawznfd">pic.twitter.com/Eo8Vawznfd</a></p>&mdash; Bolsamanía (@bolsamania) <a href="https://twitter.com/bolsamania/status/702253251341766657">febrero 23, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;La nueva era será la de las corporaciones, la de la tecnología desconocida&quot;, dice <a href="https://twitter.com/sninobecerra">@sninobecerra</a> | <a href="https://t.co/v3CesdR5CZ">https://t.co/v3CesdR5CZ</a></p>&mdash; Bolsamanía (@bolsamania) <a href="https://twitter.com/bolsamania/status/702893530407149568">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ______________________________________________________________________________________________________________________________________
 
