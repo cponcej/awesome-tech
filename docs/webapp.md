@@ -16,6 +16,7 @@
 		- [Redis](#redis)
 	- [Apache and Tomcat](#apache-and-tomcat)
 	- [Nginx](#nginx)
+	- [F5 Load Balancer](#f5-load-balancer)
 	- [GlassFish](#glassfish)
 	- [Wordpress](#wordpress)
 	- [WebLogic](#weblogic)
@@ -210,6 +211,22 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Nginx: a caching, thumbnailing, reverse proxying image server? <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/python?src=hash">#python</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/O9Es1SN3jV">https://t.co/O9Es1SN3jV</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700407777483591680">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/r7xrFvrgNxPApd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ING-IT/nginx-conference-2015" title="Nginx conference 2015" target="_blank">Nginx conference 2015</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/ING-IT">ING-IT</a></strong> </div>
+</div>
+<br/>
+
+## F5 Load Balancer
+- [youtube: F5 Load Balancer introduction](https://www.youtube.com/watch?v=bttiksfO7RA)
+- [youtube 1/78: F5 Network Functions Virtualization Architecture Overview](https://www.youtube.com/watch?v=j4zeAUb9MM4&list=PLbAAkHwBLCggK0qQqV3vM36i4PjbUUjyK)
+- [youtube 1/22: F5 LTM load balancer training series 🌟](https://www.youtube.com/watch?v=4mRGF_nBht4&list=PLjsSoP29dLx5XTH1Ksa_Sr99TSbqQNLny)
+- [youtube 1/35: F5 LoadBalancer](https://www.youtube.com/watch?v=eMDUJ8xFmKM&list=PL24891E022115318C)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bttiksfO7RA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## GlassFish
 - [twitter.com/glassfish](https://twitter.com/glassfish)
