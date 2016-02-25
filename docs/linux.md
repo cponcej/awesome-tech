@@ -40,9 +40,9 @@
 		- [Emacs](#emacs)
 			- [Jed](#jed)
 		- [Python Idle](#python-idle)
-	- [Ubuntu](#ubuntu)
-	- [Linux interview questions](#linux-interview-questions)
+- [Ubuntu](#ubuntu)
 - [ArchLinux](#archlinux)
+- [Linux interview questions](#linux-interview-questions)
 - [VirtualBox](#virtualbox)
 - [Apple OS X](#apple-os-x)
 
@@ -521,12 +521,19 @@
 
 [![vim,emacs,nano](images/vim_emacs.png)](https://twitter.com/nixcraft)
 
-## Ubuntu
+# Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
 - [forbes: 10 Reasons Why Ubuntu Is Killing It In The Cloud](http://www.forbes.com/sites/janakirammsv/2016/01/12/10-reasons-why-ubuntu-is-killing-it-in-the-cloud/#2715e4857a0b19d6c8d819a2)
 
-## Linux interview questions
-- [http://www.tecmint.com/category/interview-questions/](http://www.tecmint.com/category/interview-questions/)
+# ArchLinux
+- [ArchLinux.org](https://www.archlinux.org/)
+- [Install ArchLinux Cheat Sheet](http://i.cubeupload.com/On0hJE.jpg)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Install <a href="https://twitter.com/archlinux">@ArchLinux</a> Cheat Sheet. Large version <a href="https://t.co/cpCrYEFnYY">https://t.co/cpCrYEFnYY</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://t.co/AB0WtSLyyH">pic.twitter.com/AB0WtSLyyH</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702628943644352512">24 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Linux interview questions
+- [tecmint.com: interview questions/](http://www.tecmint.com/category/interview-questions/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/rfkDOrkHNRjrok" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hirist/top-100-linux-interview-questions-and-answers-2014" title="Top 100 Linux Interview Questions and Answers 2014" target="_blank">Top 100 Linux Interview Questions and Answers 2014</a> </strong> from <strong><a href="//www.slideshare.net/hirist" target="_blank">hirist.com</a></strong> </div>
@@ -537,13 +544,6 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/NsYzEq2VPlC3nn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/linuxtutorial/top-linux-interview-questions-and-answers-job-interview-tips" title="Top linux interview questions and answers job interview tips" target="_blank">Top linux interview questions and answers job interview tips</a> </strong> from <strong><a href="//www.slideshare.net/linuxtutorial" target="_blank">linuxtutorial</a></strong> </div>
 </div>
 <br/>
-
-# ArchLinux
-- [ArchLinux.org](https://www.archlinux.org/)
-- [Install ArchLinux Cheat Sheet](http://i.cubeupload.com/On0hJE.jpg)
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Install <a href="https://twitter.com/archlinux">@ArchLinux</a> Cheat Sheet. Large version <a href="https://t.co/cpCrYEFnYY">https://t.co/cpCrYEFnYY</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://t.co/AB0WtSLyyH">pic.twitter.com/AB0WtSLyyH</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702628943644352512">24 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # VirtualBox
 - [twitter.com/virtualbox](https://twitter.com/virtualbox)
