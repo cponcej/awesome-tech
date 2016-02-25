@@ -8,6 +8,7 @@
     - [Leadership Blogs](#leadership-blogs)
     - [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
     - [Interview Preparation Guide](#interview-preparation-guide)
+        - [Salary Negotiation](#salary-negotiation)
     - [Technical Resume](#technical-resume)
 - [Recursos Humanos](#recursos-humanos)
     - [RRHH Blogs](#rrhh-blogs)
@@ -174,9 +175,6 @@
 - [7 Essential Questions To Ask In Your Job Interview 🌟](http://www.careerealism.com/job-interview-essential-questions-ask/)
 - [7 Lies Employers Use To Trick You Into Working For Them](https://www.linkedin.com/pulse/7-lies-employers-use-trick-you-working-them-j-t-o-donnell)
 - [10 Questions Never to Ask in an Interview](http://www.mjms.net/blog/10-questions-never-to-ask-in-an-interview/)
-- [Sorry, Recruiters! My Salary History Is None of Your Business](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
-- [Mapping the European ICT Poles of Excellence: The Atlas of ICT Activity in Europe](http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=7140)
-	- [robertwalters.co.uk Salary Survey](https://www.robertwalters.co.uk/salarysurvey.html)
 - [Resume Dilemma: Employment Gaps and Job-Hopping](http://career-advice.monster.com/resumes-cover-letters/resume-writing-tips/resume-dilemma-employment-gaps/article.aspx)
 - [10 Questions to Ask Before You Take a New Job](http://www.levo.com/articles/career-advice/10-questions-to-ask-before-you-take-a-new-job)
 - [5 Reasons You May Not Want to Work for Google](https://www.linkedin.com/pulse/20140603115508-7668018-5-reasons-you-may-not-want-to-work-for-google)
@@ -193,6 +191,14 @@
 - [opensource.com: How to interview for culture fit 🌟🌟](https://opensource.com/open-organization/16/2/how-hire-people-who-just-get-it)
 - [mashable.com: 3 professional ways to bring up your personal life during the job search](http://mashable.com/2016/02/25/talk-personal-life-job-search/)
 
+### Salary Negotiation 
+- [Sorry, Recruiters! My Salary History Is None of Your Business 🌟](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
+- [4 Steps to Negotiating a Great Salary](http://www.inc.com/jt-odonnell/4-steps-to-negotiating-a-great-salary.html) Here's how to get employers to pay you what you want.
+- [robertwalters.co.uk Salary Survey](https://www.robertwalters.co.uk/salarysurvey.html)
+- [Achieve the Job Offer You Deserve by Avoiding These 10 Salary Negotiation Mistakes](http://www.quintcareers.com/salary-negotiation-mistakes/)
+- [How to Negotiate Salary: 37 Tips You Need to Know](https://www.themuse.com/advice/how-to-negotiate-salary-37-tips-you-need-to-know)
+- [Forbes: How To Negotiate Your Salary Once You Have The Job Offer 🌟](www.forbes.com/sites/susanadams/2014/06/26/how-to-negotiate-your-salary-once-you-have-the-job-offer/)
+
 <a href="https://openclipart.org/detail/155107/job-interview"><img src="https://openclipart.org/download/155107/job-interview.svg" /></a>
 
 ![war room](images/war_room.gif)
@@ -202,6 +208,11 @@
 [![dificultad entrevistas por empresa](images/dificultad_entrevistas_por_empresa.png)](http://www.expansion.com/emprendedores-empleo/2016/02/07/56b084b3268e3eaf678b4607.html)
 
 [![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
+
+<div class="container">
+<iframe src='//players.brightcove.net/2097119709001/NJOvFZMYl_default/index.html?videoId=4618648648001' allowfullscreen frameborder=0 class="video"></iframe>
+</div>
+<br/>
 
 ## Technical Resume
 - [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
