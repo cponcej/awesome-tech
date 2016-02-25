@@ -34,6 +34,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Building a Wireless Pentest Environment Using <a href="https://twitter.com/docker">@Docker</a> by <a href="https://twitter.com/awhitehatter">@awhitehatter</a>: <a href="https://t.co/sLqt8QaxXa">https://t.co/sLqt8QaxXa</a> via <a href="https://twitter.com/foxglovesec">@foxglovesec</a> <a href="https://t.co/9JMSf89AJK">pic.twitter.com/9JMSf89AJK</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/702822365789622272">25 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Kali Linux
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution 🌟🌟🌟](https://www.kali.org/)
 - [k4linux.com: Kali Linux tutorials 🌟](http://www.k4linux.com//search/label/kali%20linux/)
