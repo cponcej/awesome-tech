@@ -178,8 +178,3 @@
 <br>
 
 [![backup condition](images/backup_condition.png)](http://www.cyberciti.biz/)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ek-QHMf0DIs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
