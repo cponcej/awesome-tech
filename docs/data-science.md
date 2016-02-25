@@ -228,3 +228,8 @@
 [![Learning IPython](images/Learning-IPython-for-Interactive-Computing-and-Data-Visualization.png)](http://www.wowebook.org/learning-ipython-for-interactive-computing-and-data-visualization.html)
 
 [![Python for Data Analysis](images/Python-for-Data-Analysis.jpg)](http://www.wowebook.org/python-for-data-analysis.html)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UzLHrNb7hwc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
