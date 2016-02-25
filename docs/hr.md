@@ -210,7 +210,7 @@
 [![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
 
 <div class="container">
-<iframe src='//players.brightcove.net/2097119709001/NJOvFZMYl_default/index.html?videoId=4618648648001' allowfullscreen frameborder=0 class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XCJ4L2so118?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
