@@ -55,17 +55,18 @@
 [![t-shirt size](images/tshirt_size.jpg)](https://en.wikipedia.org/wiki/Linux_Symposium)
 
 # Sysadmin Blogs
-- [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
-	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
 - [The 79 Best Tech Blogs for sysadmins to follow](http://www.gfi.com/blog/the-79-best-tech-blogs-for-sysadmins-to-follow/)
 - [The Lone SysAdmin](https://lonesysadmin.net)
 	- [Interesting Dell iDRAC Tricks](https://lonesysadmin.net/2015/08/13/interesting-dell-idrac-tricks/)
 - [Standalone Sysadmin](http://www.standalone-sysadmin.com) A blog for IT Admins who do everything by an IT Admin who does everything
 - [planetsysadmin.com](http://planetsysadmin.com)
+- [systemadmin.es 🌟](http://systemadmin.es/)
 - [elmundoenbits.com](http://www.elmundoenbits.com)
 - [Blog de un sysadmin](http://ernestogamez.es)
 
 # Sysadmin Forums
+- [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
+	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
 - [alt.sysadmin.recovery: Getting over the trauma of system administration](https://groups.google.com/forum/#!forum/alt.sysadmin.recovery) Alt.sysadmin.recovery is for discussion by recovered and recovering sysadmins. It is a forum for mutual support and griping over idiot lusers, stupid tech support, brain dead hardware and generally how stupid this idiotic job is. Think of it as a virtual pub, where we can all go after hours and gripe about our job. Since the concept of "after hours" (or, for that matter, "pubs") is an anathema for your average sysadmin, we have this instead. 
 
 # Linux

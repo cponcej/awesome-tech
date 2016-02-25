@@ -73,6 +73,7 @@
 - [blog.jooq.org](http://blog.jooq.org/) Java, SQL and jOOQ. Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ.
 - [iLearnSQL](http://www.ilearnsql.com)
 - [awesomesql.wordpress.com](https://awesomesql.wordpress.com)
+- [mundosql.es](http://www.mundosql.es)
 
 ## SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
