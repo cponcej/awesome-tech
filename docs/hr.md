@@ -5,13 +5,12 @@
     - [Articles](#articles)
         - [Flexible Work Policies](#flexible-work-policies)
         - [Management](#management)
-        - [Coworkers](#coworkers)
+        - [Work environment issues](#work-environment-issues)
         - [Code of conduct](#code-of-conduct)
         - [Job hunting](#job-hunting)
         - [Restructuring](#restructuring)
             - [How to Fire](#how-to-fire)
         - [Networking](#networking)
-        - [Bullying](#bullying)
         - [Culture and collaboration](#culture-and-collaboration)
     - [Office Politics](#office-politics)
     - [Talks](#talks)
@@ -59,12 +58,14 @@
 - [The 17 things you should never say to your boss](http://www.news.com.au/finance/small-business/the-17-things-you-should-never-say-to-your-boss/story-fn9evb64-1226726850961)
 - [8 phrases to eliminate from your work vocabulary](http://www.businessinsider.com/phrases-to-eliminate-from-your-work-vocab-2016-1)
 
-### Coworkers
+### Work environment issues
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
 - [businessinsider.com: 19 signs your coworkers secretly hate you](http://www.businessinsider.com/signs-your-colleagues-secretly-hate-you-2016-1)
 - [Don't let 'jerks' ruin your day — here's how to overcome their bad energy at work](http://www.businessinsider.com/avoid-jerks-work-bad-energy-2016-1)
 - [It’s Better to Avoid a Toxic Employee than Hire a Superstar](https://hbr.org/2015/12/its-better-to-avoid-a-toxic-employee-than-hire-a-superstar)
 - [cityam.com: "Ghosting" is the new skiving as nine per cent of UK workers admit to giving their employers the silent treatment](http://www.cityam.com/234699/ghosting-is-the-new-skiving-as-nine-per-cent-of-uk-workers-admit-to-giving-their-employers-the-silent-treatment)
+- [Examples of Bullying in the Workplace](https://www.linkedin.com/pulse/20140723143757-143588541-examples-of-bullying-in-the-workplace)
+- [How To Tell If Your Boss Is a Bully or Just Tough](https://www.hrbartender.com/2012/leadership-and-management/how-to-tell-if-your-boss-is-a-bully-or-just-tough/)
 
 ### Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
@@ -85,10 +86,6 @@
 ### Networking
 - [5 Networking Mistakes And How To Easily Avoid Them](http://www.careerealism.com/networking-mistakes-avoid-easily/)
 - [How NOT to Contact Recruiters on LinkedIn](http://theundercoverrecruiter.com/how-not-to-contact-recruiters-on-linkedin-10-ways/)
-
-### Bullying
-- [Examples of Bullying in the Workplace](https://www.linkedin.com/pulse/20140723143757-143588541-examples-of-bullying-in-the-workplace)
-- [How To Tell If Your Boss Is a Bully or Just Tough](https://www.hrbartender.com/2012/leadership-and-management/how-to-tell-if-your-boss-is-a-bully-or-just-tough/)
 
 ### Culture and collaboration
 - [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
