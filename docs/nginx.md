@@ -1,21 +1,36 @@
 <!-- MarkdownTOC -->
 
 - [Nginx](#nginx)
+    - [Nginx Virtual Hosts](#nginx-virtual-hosts)
+    - [Nginx Load Balancing](#nginx-load-balancing)
+    - [Nginx Web Caching](#nginx-web-caching)
+    - [Nginx Security](#nginx-security)
 
 <!-- /MarkdownTOC -->
 
 # Nginx
+- [Wikipedia Nginx](https://en.wikipedia.org/wiki/Nginx)
+- [nginx.org](http://nginx.org/)
+- [nginx.com](https://www.nginx.com/)
+- [nextplatform.com: How Apache Is Losing The Web To NGINX 🌟🌟](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
+
+## Nginx Virtual Hosts
 - [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
+
+## Nginx Load Balancing
 - [TCP Load Balancing in NGINX Plus r5 - NGINX](http://nginx.com/blog/tcp-load-balancing-in-nginx-plus-r5/)
+
+## Nginx Web Caching
 - [Nginxconf 2014. When Dynamic Becomes Static:The Next Step in Web Caching Techniques: Wim Godden](https://www.youtube.com/watch?v=OssIuHbgzJY)
-- [cyberciti.biz: Top 20 Nginx WebServer Best Security Practices 🌟](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
-- [scriptrock.com: 10 Tips For Securing Your Nginx Deployment](https://www.scriptrock.com/articles/10-tips-for-securing-your-nginx-deployment)
 - [dzone: The Benefits of Microcaching with NGINX](https://dzone.com/articles/the-benefits-of-microcaching-with-nginx)
 - [nginx.com: Scaling Web Applications with NGINX – Part I: Load Balancing 🌟](https://www.nginx.com/blog/scaling-web-applications-nginx-part-load-balancing/)
-	- [dzone: Scaling Web Applications with NGINX – Part II: Caching and Monitoring](https://dzone.com/articles/scaling-web-applications-with-nginx-part-ii-cachin)
+    - [dzone: Scaling Web Applications with NGINX – Part II: Caching and Monitoring](https://dzone.com/articles/scaling-web-applications-with-nginx-part-ii-cachin)
 - [Nginx: a caching, thumbnailing, reverse proxying image server? 🌟](http://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/)
 - [highscalability.com: Building nginx and Tarantool based services 🌟](http://highscalability.com/blog/2016/2/17/building-nginx-and-tarantool-based-services.html)
-- [nextplatform.com: How Apache Is Losing The Web To NGINX 🌟🌟](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
+
+## Nginx Security
+- [cyberciti.biz: Top 20 Nginx WebServer Best Security Practices 🌟](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
+- [scriptrock.com: 10 Tips For Securing Your Nginx Deployment](https://www.scriptrock.com/articles/10-tips-for-securing-your-nginx-deployment)
 
 [![How Apache Is Losing The Web To NGINX](images/nginx-netcraft-data.jpg)](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
 
