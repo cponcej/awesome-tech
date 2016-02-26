@@ -14,6 +14,8 @@
 	- [Chrome](#chrome)
 	- [Monitors](#monitors)
 - [Presentations](#presentations)
+- [HP Mini PC](#hp-mini-pc)
+- [This is my desk at Red Hat](#this-is-my-desk-at-red-hat)
 
 <!-- /MarkdownTOC -->
 
@@ -282,6 +284,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Influx WiFi Maximizing Router dock: Significant signal strength increase for $60 <a href="https://t.co/FaH3sscE1Q">https://t.co/FaH3sscE1Q</a> <a href="https://twitter.com/palmsolo">@palmsolo</a> <a href="https://t.co/uifljSBZNI">pic.twitter.com/uifljSBZNI</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/699581012125286400">febrero 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+# HP Mini PC
+
 [![hp mini pc](images/hp_mini.jpg)](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
+
+# This is my desk at Red Hat
+- [reddit: This is my desk at Red Hat!](https://www.reddit.com/r/redhat/comments/45na8c/this_is_my_desk_at_red_hat/)
 
 [![This is my desk at Red Hat! Source](images/redhat_desk.jpg)](https://www.reddit.com/r/redhat/comments/45na8c/this_is_my_desk_at_red_hat/)
