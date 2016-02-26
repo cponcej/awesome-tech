@@ -81,6 +81,7 @@
 <br/>
 
 ### Zabbix
+- [Zabbix Documentation 3.2](https://www.zabbix.com/documentation/3.2/)
 - [tecmint.com: Installing and Configuring Zabbix 2.4.5 on Debian 8 and RHEL/CentOS 7 🌟](http://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/)
 - [All the slides of Zabbix Conference 2015](http://www.zabbix.com/conf2015_agenda.php)
 - [Zabbix for Beginners webinar](https://www.youtube.com/watch?v=uqFaz2HyxVM)
@@ -95,7 +96,7 @@
 
 [![share zabbix](images/share_zabbix.png)](https://share.zabbix.com/)
 
-[![zabbix cookbook](images/zabbix-cookbook.jpg)](https://www.zabbix.com/documentation/3.0/)
+[![zabbix cookbook](images/zabbix-cookbook.jpg)](https://www.zabbix.com/documentation/3.2/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/90LdTg7tcBMxaF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Zabbix/zabbix-30-and-beyond-fisl-2015-zabbix-30-and-beyond" title="Zabbix 3.0 and beyond - FISL 2015" target="_blank">Zabbix 3.0 and beyond - FISL 2015</a> </strong> from <strong><a href="//www.slideshare.net/Zabbix" target="_blank">Zabbix</a></strong> </div>
