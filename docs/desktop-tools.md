@@ -148,6 +148,7 @@
 - [Saving bandwidth on Google Chrome and Mozilla Thunderbird](http://jjamwal.in/yayavar/saving-bandwidth-on-google-chrome-and-mozilla-thunderbird/)
 - [Safe Mode Thunderbird](https://support.mozilla.org/en-US/kb/safe-mode-thunderbird)
 - [How to Merge Email Threads in Mozilla Thunderbird](https://stosu.com/how-to-merge-email-threads-in-mozilla-thunderbird/)
+- [Global Search 🌟](https://support.mozilla.org/en-US/kb/global-search)
 - [New in Thunderbird 38.0 🌟](https://support.mozilla.org/en-US/kb/new-thunderbird-38)
 	- [Expanded Folder Pane columns 🌟](https://support.mozilla.org/en-US/kb/new-thunderbird-38#w_expanded-folder-pane-columns)
 - [Novedades de Thunderbird 38.0](https://support.mozilla.org/es/kb/novedades-de-thunderbird-38)
