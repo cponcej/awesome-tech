@@ -21,7 +21,8 @@
 ## CDN Content delivery network
 - [Wikipedia: CDN Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
 	- [Traditional commercial CDNs 🌟](https://en.wikipedia.org/wiki/Content_delivery_network#Traditional_commercial_CDNs)
-- [The Essential CDN Guide | Incapsula 🌟](https://www.incapsula.com/cdn-guide/cdn-caching.html)
+- [The Essential CDN Guide | Incapsula 🌟🌟](https://www.incapsula.com/cdn-guide/)
+    - [chapter 3: CDN Caching 🌟](https://www.incapsula.com/cdn-guide/cdn-caching.html)
 - [nczonline: How content delivery networks (CDNs) work - Nov 2011](https://www.nczonline.net/blog/2011/11/29/how-content-delivery-networks-cdns-work/)
 - [Multi CDN Strategy: Key Performance](http://key-performance.eu/web_new/index.php/features/cdn)
 
