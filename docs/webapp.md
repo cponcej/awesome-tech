@@ -197,12 +197,23 @@
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135651440303" data-did="71388c85aaa3dbabd324ee9a8d32e830cc3a9972"><a href="http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay">http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ## Video
+- [List of streaming media systems](https://en.wikipedia.org/wiki/List_of_streaming_media_systems)
+- [Wikipedia: Wowza Streaming Engine](https://en.wikipedia.org/wiki/Wowza_Streaming_Engine)
+- [wowza.com](https://www.wowza.com)
+- [slideshare: Wowza installation](http://www.slideshare.net/AstinChoi/wowza-installation-16296376)
+- [slideshare: Live Audio Broadcast with Wowza Media Server](http://www.slideshare.net/neevtech/live-audio-broadcast-with-wowza-media-server)
+- [slideshare: AWS Webcast - Live Streaming using Amazon CloudFront and Wowza Media Server](http://www.slideshare.net/AmazonWebServices/2013-1023wowzalivestreamingwebinarniharchris)
 - [kaltura.org](http://www.kaltura.org)
 - [BBC R&D: H.265/HEVC vs H.264/AVC: 50% bit rate savings verified](http://www.bbc.co.uk/rd/blog/2016/01/h-dot-265-slash-hevc-vs-h-dot-264-slash-avc-50-percent-bit-rate-savings-verified) A research team from the BBC has done a series of tests to confirm earlier computations showing a ~50% savings in bit rate for H.265/HEVC compared to video using H.264/AVC at comparable quality. 
 - [emezeta.com: Cómo usar ffmpeg para editar video](http://www.emezeta.com/articulos/como-usar-ffmpeg-para-editar-video)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why HBO is so scared of Netflix <a href="https://t.co/AVwt6IfP72">https://t.co/AVwt6IfP72</a> <a href="https://t.co/ZmBfSkE1Dg">pic.twitter.com/ZmBfSkE1Dg</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/699642563486203904">febrero 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/x1wiZ4pS36i1b" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/2013-1023wowzalivestreamingwebinarniharchris" title="AWS Webcast - Live Streaming using Amazon CloudFront and Wowza Media Server" target="_blank">AWS Webcast - Live Streaming using Amazon CloudFront and Wowza Media Server</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/AmazonWebServices">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
 
 ## Distributed Messaging System. Message oriented middleware 
 - [RabbitMQ](https://www.rabbitmq.com/)
