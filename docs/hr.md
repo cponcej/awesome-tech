@@ -196,6 +196,7 @@
 - [9 signs you just nailed that job interview](http://www.businessinsider.com/how-to-know-if-i-nailed-an-interview-2016-2-19)
 - [opensource.com: How to interview for culture fit 🌟🌟](https://opensource.com/open-organization/16/2/how-hire-people-who-just-get-it)
 - [mashable.com: 3 professional ways to bring up your personal life during the job search](http://mashable.com/2016/02/25/talk-personal-life-job-search/)
+- [The (Depressing) Truth About Applying To Jobs Online 🌟](https://www.linkedin.com/pulse/depressing-truth-applying-jobs-online-j-t-o-donnell)
 
 ### Salary Negotiation 
 - [Sorry, Recruiters! My Salary History Is None of Your Business 🌟](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
