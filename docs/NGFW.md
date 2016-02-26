@@ -13,6 +13,7 @@
 <br>
 
 # Next Generation Firewalls (NGFW)
+- [Encryption increasingly used to hide attacks, says new report (Feb 2016) 🌟🌟](http://www.scmagazine.com/encryption-increasingly-used-to-hide-attacks-says-new-report/article/478532/)
 - [Firewalls.com](http://www.firewalls.com/)
 	- [youtube channel: Firewalls.com](https://www.youtube.com/user/firewallsDotCom)
 - [sonicwallonline.co.uk TZ Series](http://www.sonicwallonline.co.uk/ranges/TZ-Series/)

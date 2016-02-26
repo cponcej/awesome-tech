@@ -89,6 +89,14 @@
 
 		less +F filename.log 
 
+- Make less more like more, but still more than more. Percent of file in prompt, etc. 
+
+		export LESS='-sCmqPm--Less--(?eEND:%pb\%.)'
+
+- This environment variable will invoke 'less' with these options when it is used. Like when viewing a man page.
+
+		export LESS="-S -j10 -i" 
+
 - Find out which of your directories(below the current directory) occupy at least 1GB of space. 🌟🌟
 
 		du -h . | grep "^[0-9\.]\+G"

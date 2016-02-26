@@ -54,3 +54,5 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Control user access by setting up field and document level security in <a href="https://twitter.com/hashtag/Shield?src=hash">#Shield</a>: <a href="https://t.co/UkErfWoNem">https://t.co/UkErfWoNem</a> <a href="https://t.co/Iu8jHZ81Ry">pic.twitter.com/Iu8jHZ81Ry</a></p>&mdash; elastic (@elastic) <a href="https://twitter.com/elastic/status/695276342498181120">febrero 4, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[! [you can't write code without knowing how to log](images/Strip-Log-nonstandard.jpg)](http://www.commitstrip.com/en/2016/02/25/you-cant-write-code-without-knowing-how-to-log/)

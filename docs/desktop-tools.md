@@ -127,6 +127,7 @@
 - [trello.com](https://trello.com)
 - [Using Trello For A Job Search: Less Stress, More Process](http://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process/)
 - [GitHub And Trello: Integrate Your Commits](http://blog.trello.com/github-and-trello-integrate-your-commits/)
+- [Using Trello for Agile Software Development: The Complete Guide 🌟](https://rexadrivan.wordpress.com/2015/07/26/using-trello-for-agile-developments/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">At over 50% remote, here are some tools &amp; tips that help us manage our teams - <a href="https://t.co/epV8CRF7qU">https://t.co/epV8CRF7qU</a> <a href="https://t.co/N8i3h0VODy">pic.twitter.com/N8i3h0VODy</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/700749202591092737">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
