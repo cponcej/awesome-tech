@@ -8,9 +8,9 @@
         - [Work environment issues](#work-environment-issues)
         - [Code of conduct](#code-of-conduct)
         - [Job hunting](#job-hunting)
+            - [Networking](#networking)
         - [Restructuring](#restructuring)
             - [How to Fire](#how-to-fire)
-        - [Networking](#networking)
         - [Culture and collaboration](#culture-and-collaboration)
     - [Office Politics](#office-politics)
     - [Talks](#talks)
@@ -78,6 +78,10 @@
 - [9 Signs You Should Run Away From That Job Offer](http://www.inc.com/jt-odonnell/9-signs-you-should-run-away-from-that-job-offer.html)
 - [modelviewculture.com: The Full-Stack Employee and The Glorification of Generalization](https://modelviewculture.com/news/the-full-stack-employee-and-the-glorification-of-generalization)
 - [Employer Loved Me... Then Rejected Me](https://www.linkedin.com/pulse/employer-loved-me-rejected-j-t-o-donnell)
+
+#### Networking
+- [5 Networking Mistakes And How To Easily Avoid Them](http://www.careerealism.com/networking-mistakes-avoid-easily/)
+- [How NOT to Contact Recruiters on LinkedIn](http://theundercoverrecruiter.com/how-not-to-contact-recruiters-on-linkedin-10-ways/)
 - [careerealism.com: 5 Networking Tips Every Job Seeker Needs](http://www.careerealism.com/networking-tips-job-seeker-needs/)
 
 ### Restructuring
@@ -85,10 +89,6 @@
 
 #### How to Fire
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
-
-### Networking
-- [5 Networking Mistakes And How To Easily Avoid Them](http://www.careerealism.com/networking-mistakes-avoid-easily/)
-- [How NOT to Contact Recruiters on LinkedIn](http://theundercoverrecruiter.com/how-not-to-contact-recruiters-on-linkedin-10-ways/)
 
 ### Culture and collaboration
 - [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
