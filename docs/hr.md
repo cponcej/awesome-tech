@@ -28,6 +28,9 @@
 
 [![live chat](images/human-resources-cover.png)](https://www.livechatinc.com/livechat-for-human-resources/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> is the best place to work according to <a href="https://twitter.com/Glassdoor">@Glassdoor</a> <a href="https://twitter.com/TriangleBIZJrnl">@TriangleBIZJrnl</a> &amp; <a href="https://twitter.com/NCTA">@NCTA</a> read more in our Awards Roundup <a href="https://t.co/RnBwdH2B3m">https://t.co/RnBwdH2B3m</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/703296727374106624">26 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Human Resources 
 ## HR Blogs
 - [careerealism.com](http://www.careerealism.com/)
