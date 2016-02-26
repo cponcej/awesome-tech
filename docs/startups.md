@@ -232,4 +232,6 @@
 </div>
 <br/>
 
+- [European Patent Office Annual Reports](https://www.epo.org/about-us/annual-reports-statistics/annual-report.html)
+
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
