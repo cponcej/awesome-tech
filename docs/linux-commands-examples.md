@@ -206,6 +206,10 @@
 
 		lsof /|awk '{ if($7>1048576) print $7/1048576 "MB" " " $9 " " $1 }'|sort -nu|tail 
 
+- *"Attempt"* to recover an accidentally removed file. 🌟🌟
+
+		fgrep --binary-files=text -C 2000 "string in file" /dev/sda > recovereddata.out 
+
 - Replace foo with bar only on lines that contain 'bang'. Use in pipeline or with file args. 🌟
 
 		sed "/bang/ s/foo/bar/" 
