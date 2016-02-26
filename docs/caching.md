@@ -9,6 +9,10 @@
 
 <!-- /MarkdownTOC -->
 
+[![incapsula CDN caching](images/incapsula_cdn_caching.png)](https://www.incapsula.com/cdn-guide/cdn-caching.html)
+
+[![nczonline CDN diagram](images/nczonline_cdn2.png)](https://www.nczonline.net/blog/2011/11/29/how-content-delivery-networks-cdns-work/)
+
 # Caching
 - [Wikipedia: Web cache](https://en.wikipedia.org/wiki/Web_cache)
 - [Wikipedia: Dynamic site acceleration](https://en.wikipedia.org/wiki/Dynamic_site_acceleration)
@@ -17,6 +21,9 @@
 ## CDN Content delivery network
 - [Wikipedia: CDN Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
 	- [Traditional commercial CDNs 🌟](https://en.wikipedia.org/wiki/Content_delivery_network#Traditional_commercial_CDNs)
+- [The Essential CDN Guide | Incapsula 🌟](https://www.incapsula.com/cdn-guide/cdn-caching.html)
+- [nczonline: How content delivery networks (CDNs) work - Nov 2011](https://www.nczonline.net/blog/2011/11/29/how-content-delivery-networks-cdns-work/)
+- [Multi CDN Strategy: Key Performance](http://key-performance.eu/web_new/index.php/features/cdn)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P4YHPYy918c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
