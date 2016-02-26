@@ -34,6 +34,8 @@
 		- [Networking FOSS Tools](#networking-foss-tools)
 		- [Networking CLI and settings](#networking-cli-and-settings)
 	- [Linux Security](#linux-security)
+		- [Rsync](#rsync)
+		- [iptables](#iptables)
 		- [SELinux, AppArmor and OpenSCAP](#selinux-apparmor-and-openscap)
 	- [Vim and Emacs](#vim-and-emacs)
 		- [Vim](#vim)
@@ -350,6 +352,7 @@
 - [The many load averages of Unix(es)](https://utcc.utoronto.ca/~cks/space/blog/unix/ManyLoadAveragesOfUnix)
 - [How to measure your CPU time: clock_gettime! 🌟](http://jvns.ca/blog/2016/02/20/measuring-cpu-time-with-clock-gettime/)
 - [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
+- [nixCraft: Linux: Check Ram Speed and Type](http://www.cyberciti.biz/faq/check-ram-speed-linux/)
 
 ### htop
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
@@ -441,8 +444,6 @@
 - [keychain: Set Up Secure Passwordless SSH Access For Backup Scripts 🌟🌟🌟](http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
 - [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
 - [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
-- [Rsync](https://en.wikipedia.org/wiki/Rsync)
-	- [How to exclude directories while using rsync](http://supportex.net/2011/07/exceptions-copying-directory-rsync/)
 - [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
 - [Top 20 OpenSSH Server Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 - [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
@@ -453,15 +454,22 @@
 - [certsimple.com: You won't remember the options for OpenSSL, so here's bash shortcuts for everything](https://certsimple.com/blog/openssl-shortcuts)
 - [Software with the most vulnerabilities in 2015: Mac OS X, iOS, and Flash](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
 - [howtoforge.com: How to install ProFTPd with TLS support on Ubuntu 15.10](https://www.howtoforge.com/tutorial/install-proftpd-with-tls-on-ubuntu-15-10/)
-- [cyberciti.biz: Linux Netfilter Tutorials (iptables)](http://www.cyberciti.biz/faq/category/iptables/)
-	- [Linux: 20 Iptables Examples For New SysAdmins](http://www.cyberciti.biz/tips/linux-iptables-examples.html)
-	- [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
 - [How to block an IP address with ufw on Ubuntu Linux server](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
 - [How Do I Drop or Block Attackers IP Address With Null Routes On a Linux?](http://www.cyberciti.biz/tips/how-do-i-drop-or-block-attackers-ip-with-null-routes.html)
 - [Secure Your Linux Desktop and SSH Login Using Two Factor Google Authenticator](http://www.cyberciti.biz/open-source/howto-protect-linux-ssh-login-with-google-authenticator/)
 - [Find Out If Patch Number (CVE) Has Been Applied To RHEL/CentOS Linux](http://www.cyberciti.biz/faq/linux-find-out-patch-can-cve-applied/)
+
+### Rsync
+- [Rsync](https://en.wikipedia.org/wiki/Rsync)
+- [How to exclude directories while using rsync](http://supportex.net/2011/07/exceptions-copying-directory-rsync/)
+
+### iptables
+- [cyberciti.biz: Linux Netfilter Tutorials (iptables)](http://www.cyberciti.biz/faq/category/iptables/)
+- [Linux: 20 Iptables Examples For New SysAdmins](http://www.cyberciti.biz/tips/linux-iptables-examples.html)
+- [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
+- [nixCraft: Iptables MAC Address Filtering](http://www.cyberciti.biz/tips/iptables-mac-address-filtering.html)
 
 ### SELinux, AppArmor and OpenSCAP
 - [Red Hat Security: Celebrating 15 Years of SELinux](http://www.redhat.com/en/about/blog/celebrating-15-years-selinux)

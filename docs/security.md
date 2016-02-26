@@ -38,6 +38,7 @@
 		- [Backdoors. December 2015](#backdoors-december-2015)
 		- [Linode SSH. February 2016](#linode-ssh-february-2016)
 		- [glibc stack-based buffer overflow. February 2016](#glibc-stack-based-buffer-overflow-february-2016)
+	- [DDos and Project Shield](#ddos-and-project-shield)
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
 		- [Container security. Who’s fixing containers? February 2016](#container-security-who’s-fixing-containers-february-2016)
 
@@ -315,6 +316,9 @@
 - [redhat.com: Critical security flaw: glibc stack-based buffer overflow in getaddrinfo() (CVE-2015-7547) 🌟](https://access.redhat.com/articles/2161461)
 - [Linux Vulnerability Rattles Open Source Community](http://www.enterprisetech.com/2016/02/19/linux-vulnerability-rattles-open-source-community/)
 - [cisco.com: Vulnerability in GNU glibc Affecting Cisco Products: February 2016](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160218-glibc)
+
+## DDos and Project Shield
+- [Project Shield 🌟](https://projectshield.withgoogle.com) Google Releases Project Shield To Fight Against DDoS Attacks 
 
 ## Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments
