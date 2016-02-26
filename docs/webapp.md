@@ -203,6 +203,7 @@
 - [slideshare: Wowza installation](http://www.slideshare.net/AstinChoi/wowza-installation-16296376)
 - [slideshare: Live Audio Broadcast with Wowza Media Server](http://www.slideshare.net/neevtech/live-audio-broadcast-with-wowza-media-server)
 - [slideshare: AWS Webcast - Live Streaming using Amazon CloudFront and Wowza Media Server](http://www.slideshare.net/AmazonWebServices/2013-1023wowzalivestreamingwebinarniharchris)
+- [slideshare: Video Streaming Services](http://www.slideshare.net/oodlestech/video-streaming-26933089)
 - [kaltura.org](http://www.kaltura.org)
 - [BBC R&D: H.265/HEVC vs H.264/AVC: 50% bit rate savings verified](http://www.bbc.co.uk/rd/blog/2016/01/h-dot-265-slash-hevc-vs-h-dot-264-slash-avc-50-percent-bit-rate-savings-verified) A research team from the BBC has done a series of tests to confirm earlier computations showing a ~50% savings in bit rate for H.265/HEVC compared to video using H.264/AVC at comparable quality. 
 - [emezeta.com: Cómo usar ffmpeg para editar video](http://www.emezeta.com/articulos/como-usar-ffmpeg-para-editar-video)
