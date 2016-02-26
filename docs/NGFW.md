@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Next Generation Firewalls (NGFW)](#next-generation-firewalls-ngfw)
+    - [Encryption increasingly used to hide attacks](#encryption-increasingly-used-to-hide-attacks)
     - [Dell SonicWall TZ Series 5th Generation. Escrito en primavera 2015](#dell-sonicwall-tz-series-5th-generation-escrito-en-primavera-2015)
     - [Dell SonicWall TotalSecure and CGSS Bundles](#dell-sonicwall-totalsecure-and-cgss-bundles)
     - [Dell SonicWall TZ Series 6th Generation](#dell-sonicwall-tz-series-6th-generation)
@@ -13,13 +14,16 @@
 <br>
 
 # Next Generation Firewalls (NGFW)
-- [Encryption increasingly used to hide attacks, says new report (Feb 2016) 🌟🌟](http://www.scmagazine.com/encryption-increasingly-used-to-hide-attacks-says-new-report/article/478532/)
 - [Firewalls.com](http://www.firewalls.com/)
 	- [youtube channel: Firewalls.com](https://www.youtube.com/user/firewallsDotCom)
 - [sonicwallonline.co.uk TZ Series](http://www.sonicwallonline.co.uk/ranges/TZ-Series/)
 - [Fortinet Fortigate](http://www.fortinet.com/products/fortigate/)
 - [Cisco ASA 5500-X Series Firewalls](http://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/index.html)
 - [PaloAlto Firewall Platforms](https://paloaltonetworks.com/products/platforms/firewalls.html)
+
+## Encryption increasingly used to hide attacks
+- [Encryption increasingly used to hide attacks, says new report (Feb 2016) 🌟🌟](http://www.scmagazine.com/encryption-increasingly-used-to-hide-attacks-says-new-report/article/478532/)
+- [Encrypted Internet Traffic a Key Cybersecurity Threat](http://www.afcea.org/content/?q=Article-encrypted-internet-traffic-key-cybersecurity-threat)
 
 ## Dell SonicWall TZ Series 5th Generation. Escrito en primavera 2015
 >Una característica muy conveniente de los NGFW es la de "3G/4G Modem Failover", que junto al balanceo de varias conexiones simultáneas WAN nos garantiza una conexión permanente a Internet de alta disponibilidad. No olvidemos el punto crítico para nuestro negocio que supone la conexión a Internet con el auge de VoIP IP-PBX (en la nube ó alojado en nuestra infraestructura), donde una caída de Internet puede suponer la incomunicación telefónica del negocio. En cualquier caso existen en el mercados productos balanceadores WAN/ADSL expécíficos con 3G/4G failover, como por ejemplo los balanceadores "Peplink Balance" (http://www.wifisafe.com/balanceadores-adsl.html)
