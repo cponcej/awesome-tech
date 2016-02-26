@@ -17,7 +17,7 @@
 	- [Red Hat 🌟](redhat.md)
 	- [Linux Commands Examples 🌟](linux-commands-examples.md)
 6. [Microsoft](microsoft.md)
-7. [WebApp, HTTP/2, Caching, e-mail, Middleware, JVM, Video 🌟](webapp.md)
+7. [WebApp, HTTP/2, e-mail, Middleware, JVM, Video 🌟](webapp.md)
     - [Caching 🌟](caching.md)
     - [Nginx 🌟](nginx.md)
     - [F5 Load Balancer](f5lb.md)
