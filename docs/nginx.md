@@ -8,6 +8,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![How Apache Is Losing The Web To NGINX](images/nginx-netcraft-data.jpg)](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
+
 # Nginx
 - [Wikipedia Nginx](https://en.wikipedia.org/wiki/Nginx)
 - [nginx.org](http://nginx.org/)
@@ -31,8 +33,6 @@
 ## Nginx Security
 - [cyberciti.biz: Top 20 Nginx WebServer Best Security Practices 🌟](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
 - [scriptrock.com: 10 Tips For Securing Your Nginx Deployment](https://www.scriptrock.com/articles/10-tips-for-securing-your-nginx-deployment)
-
-[![How Apache Is Losing The Web To NGINX](images/nginx-netcraft-data.jpg)](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/Mu2STrGXh1IB86" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tuxtoti/nginx-tips-and-tricks-13087831" title="Nginx - Tips and Tricks." target="_blank">Nginx - Tips and Tricks.</a> </strong> from <strong><a href="//www.slideshare.net/tuxtoti" target="_blank">Harish S</a></strong> </div>
