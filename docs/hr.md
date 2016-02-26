@@ -3,6 +3,16 @@
 - [Human Resources](#human-resources)
     - [HR Blogs](#hr-blogs)
     - [Articles](#articles)
+        - [Flexible Work Policies](#flexible-work-policies)
+        - [Management](#management)
+        - [Coworkers](#coworkers)
+        - [Code of conduct](#code-of-conduct)
+        - [Job hunting](#job-hunting)
+        - [Restructuring](#restructuring)
+            - [How to Fire](#how-to-fire)
+        - [Networking](#networking)
+        - [Bullying](#bullying)
+        - [Culture and collaboration](#culture-and-collaboration)
     - [Office Politics](#office-politics)
     - [Talks](#talks)
     - [Leadership Blogs](#leadership-blogs)
@@ -29,46 +39,67 @@
 
 ## Articles
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
+
+### Flexible Work Policies
+- [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
+- [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
+- [‘Flexible Work Policies Shouldn’t Just Be About Parents’ 🌟](http://motto.time.com/4219863/parental-leave-flexible-work-policies-for-non-parents) People without children have personal lives that matter, too 
+
+### Management
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
-- [9 Signs You Should Run Away From That Job Offer](http://www.inc.com/jt-odonnell/9-signs-you-should-run-away-from-that-job-offer.html)
 - [Good vs Bad Leader](http://vladmihalcea.com/2013/12/28/good-vs-bad-leader/)
 - [Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst 🌟](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
 - [9 Signs You’ve Got a Bad Boss](http://www.learnvest.com/2012/02/9-signs-youve-got-a-bad-boss/)
 - [Can You Be Friends With Your Boss?](https://hbr.org/2014/11/can-you-be-friends-with-your-boss)
 - [21 Signs That Your Boss Doesn't Like You 🌟](http://www.inc.com/business-insider/signs-your-boss-does-not-like-you.html) The signals may be subtle--but if you know what to look for, they are usually easy to spot.
 - [When Your Manager Doesn't Want You To Succeed](https://www.linkedin.com/pulse/when-your-manager-doesnt-want-you-succeed-liz-ryan)
-- [The 17 things you should never say to your boss](http://www.news.com.au/finance/small-business/the-17-things-you-should-never-say-to-your-boss/story-fn9evb64-1226726850961)
-- [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
-- [modelviewculture.com: The Full-Stack Employee and The Glorification of Generalization](https://modelviewculture.com/news/the-full-stack-employee-and-the-glorification-of-generalization)
-- [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
-- [8 phrases to eliminate from your work vocabulary](http://www.businessinsider.com/phrases-to-eliminate-from-your-work-vocab-2016-1)
-- [Don't let 'jerks' ruin your day — here's how to overcome their bad energy at work](http://www.businessinsider.com/avoid-jerks-work-bad-energy-2016-1)
-- [It’s Better to Avoid a Toxic Employee than Hire a Superstar](https://hbr.org/2015/12/its-better-to-avoid-a-toxic-employee-than-hire-a-superstar)
 - [24 signs you have a terrible boss](http://www.businessinsider.com/signs-you-have-a-bad-boss-2016-2-4)
 - [How to Manage the 3 Worst Types of Bosses](http://www.inc.com/larry-alton/how-to-manage-the-3-worst-types-of-bosses.html) It's hard to find a good boss, so it's important to know how to handle a bad one.
-- [GitHub is undergoing a full-blown overhaul as execs and employees depart — and we have the full inside story](http://www.businessinsider.com/github-the-full-inside-story-2016-2)
 - [enterprisersproject.com: Why too much talent is wasted by managers not daring to lose control](https://enterprisersproject.com/article/2014/11/cios-and-ctos-empower-your-teams)
-- [5 Networking Mistakes And How To Easily Avoid Them](http://www.careerealism.com/networking-mistakes-avoid-easily/)
-- [How NOT to Contact Recruiters on LinkedIn](http://theundercoverrecruiter.com/how-not-to-contact-recruiters-on-linkedin-10-ways/)
-- [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
+- [The 17 things you should never say to your boss](http://www.news.com.au/finance/small-business/the-17-things-you-should-never-say-to-your-boss/story-fn9evb64-1226726850961)
+- [8 phrases to eliminate from your work vocabulary](http://www.businessinsider.com/phrases-to-eliminate-from-your-work-vocab-2016-1)
+
+### Coworkers
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
 - [businessinsider.com: 19 signs your coworkers secretly hate you](http://www.businessinsider.com/signs-your-colleagues-secretly-hate-you-2016-1)
+- [Don't let 'jerks' ruin your day — here's how to overcome their bad energy at work](http://www.businessinsider.com/avoid-jerks-work-bad-energy-2016-1)
+- [It’s Better to Avoid a Toxic Employee than Hire a Superstar](https://hbr.org/2015/12/its-better-to-avoid-a-toxic-employee-than-hire-a-superstar)
+- [cityam.com: "Ghosting" is the new skiving as nine per cent of UK workers admit to giving their employers the silent treatment](http://www.cityam.com/234699/ghosting-is-the-new-skiving-as-nine-per-cent-of-uk-workers-admit-to-giving-their-employers-the-silent-treatment)
+
+### Code of conduct
+- [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
+- [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
+
+### Job hunting
+- [9 Signs You Should Run Away From That Job Offer](http://www.inc.com/jt-odonnell/9-signs-you-should-run-away-from-that-job-offer.html)
+- [modelviewculture.com: The Full-Stack Employee and The Glorification of Generalization](https://modelviewculture.com/news/the-full-stack-employee-and-the-glorification-of-generalization)
+- [Employer Loved Me... Then Rejected Me](https://www.linkedin.com/pulse/employer-loved-me-rejected-j-t-o-donnell)
+- [careerealism.com: 5 Networking Tips Every Job Seeker Needs](http://www.careerealism.com/networking-tips-job-seeker-needs/)
+
+### Restructuring
+- [GitHub is undergoing a full-blown overhaul as execs and employees depart — and we have the full inside story](http://www.businessinsider.com/github-the-full-inside-story-2016-2)
+
+#### How to Fire
+- [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
+
+### Networking
+- [5 Networking Mistakes And How To Easily Avoid Them](http://www.careerealism.com/networking-mistakes-avoid-easily/)
+- [How NOT to Contact Recruiters on LinkedIn](http://theundercoverrecruiter.com/how-not-to-contact-recruiters-on-linkedin-10-ways/)
+
+### Bullying
+- [Examples of Bullying in the Workplace](https://www.linkedin.com/pulse/20140723143757-143588541-examples-of-bullying-in-the-workplace)
+- [How To Tell If Your Boss Is a Bully or Just Tough](https://www.hrbartender.com/2012/leadership-and-management/how-to-tell-if-your-boss-is-a-bully-or-just-tough/)
+
+### Culture and collaboration
+- [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
 - [deloitte: Cultivating the IT Workforce of the Future](http://deloitte.wsj.com/cio/2015/10/20/cultivating-the-it-workforce-of-the-future/)
 - [businessinsider.com: 8 mistakes that make great employees leave](http://www.businessinsider.com/8-mistakes-that-make-great-employees-leave-2016-2)
-- [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
-- [How To Tell If Your Boss Is a Bully or Just Tough](https://www.hrbartender.com/2012/leadership-and-management/how-to-tell-if-your-boss-is-a-bully-or-just-tough/)
-- [Examples of Bullying in the Workplace](https://www.linkedin.com/pulse/20140723143757-143588541-examples-of-bullying-in-the-workplace)
 - [Forbes: Addicted To Ambition: 3 Ways Millennials Can Manage Their Stress](http://www.forbes.com/sites/carolinebeaton/2016/02/10/addicted-to-ambition-3-ways-millennials-can-manage-their-stress/)
 - [Forbes: How To Successfully Manage A Multigenerational Team 🌟](http://www.forbes.com/sites/adp/2016/02/12/how-to-successfully-manage-a-multigenerational-team)
-- [cityam.com: "Ghosting" is the new skiving as nine per cent of UK workers admit to giving their employers the silent treatment](http://www.cityam.com/234699/ghosting-is-the-new-skiving-as-nine-per-cent-of-uk-workers-admit-to-giving-their-employers-the-silent-treatment)
 - [cityam.com: Why you should stop trying to make your team like you](http://www.cityam.com/234743/why-you-should-stop-trying-to-make-your-team-like-you)
-- [‘Flexible Work Policies Shouldn’t Just Be About Parents’ 🌟](http://motto.time.com/4219863/parental-leave-flexible-work-policies-for-non-parents) People without children have personal lives that matter, too 
-- [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
-- [Employer Loved Me... Then Rejected Me](https://www.linkedin.com/pulse/employer-loved-me-rejected-j-t-o-donnell)
 - [VW damaged by a culture of fear 🌟](https://www.linkedin.com/pulse/vw-damaged-culture-fear-l-david-marquet)
 - [Forbes: Seven Ways To Inspire Your Team To Collaborate 🌟🌟🌟](http://www.forbes.com/sites/carolkinseygoman/2016/02/21/seven-ways-to-inspire-your-team-to-collaborate) “How many of you are totally comfortable sharing information with others in your organization?”
 - [L. David Marquet: Control In An Emergency 🌟](https://www.linkedin.com/pulse/control-emergency-l-david-marquet)
-- [careerealism.com: 5 Networking Tips Every Job Seeker Needs](http://www.careerealism.com/networking-tips-job-seeker-needs/)
 - [businessinsider.com: 27 jobs to avoid if you hate stress](http://www.businessinsider.com/jobs-to-avoid-if-you-hate-stress-2015-9)
 
 [![good boss bad boss](images/good_boss_bad_boss.jpg)](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
