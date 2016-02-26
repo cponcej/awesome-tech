@@ -159,6 +159,7 @@
 - [gContactSync](https://addons.mozilla.org/thunderbird/addon/gcontactsync/)
 - [ThunderSec](https://addons.mozilla.org/en-US/thunderbird/addon/thundersec/)
 - [EnigMail OpenPGP Email Security](https://www.enigmail.net)
+- [Today's messages](https://addons.mozilla.org/es/thunderbird/addon/todays-messages)
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider
 - [FoxClocks](https://addons.mozilla.org/en-US/thunderbird/addon/foxclocks/)
 - [quickFilters](https://addons.mozilla.org/en-US/thunderbird/addon/quickfilters/)
@@ -177,6 +178,8 @@
 - [Stationery](https://addons.mozilla.org/en-US/thunderbird/addon/stationery/)
 - [Subject Manager](https://addons.mozilla.org/en-US/thunderbird/addon/subject-manager/)
 - [Return Receipt Toolbar Button](https://addons.mozilla.org/en-US/thunderbird/addon/return-receipt-toolbar-button/)
+- [Zoom button](https://addons.mozilla.org/es/thunderbird/addon/zoom-button-for-thunderbird)
+- [Toolbar Buttons](https://addons.mozilla.org/es/thunderbird/addon/toolbar-buttons)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Thunderbird continues to grow, exceeding 10,000,000 active daily users for the first time ever on November 30 2015.</p>&mdash; Thunderbird (@mozthunderbird) <a href="https://twitter.com/mozthunderbird/status/673715529350123521">diciembre 7, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
