@@ -147,13 +147,16 @@
 - [Thunderbird Daily on Youtube: Some great productivity tips for Thunderbird](https://www.youtube.com/channel/UCCiqw9IULdRxig5e-fcPo6A)
 - [Saving bandwidth on Google Chrome and Mozilla Thunderbird](http://jjamwal.in/yayavar/saving-bandwidth-on-google-chrome-and-mozilla-thunderbird/)
 - [Safe Mode Thunderbird](https://support.mozilla.org/en-US/kb/safe-mode-thunderbird)
-- [Configurar correo de Office 365 en Mozilla Thunderbird](http://blog.jgaitpro.com/configurar-correo-de-office-365-en-mozilla-thunderbird/)
 - [How to Merge Email Threads in Mozilla Thunderbird](https://stosu.com/how-to-merge-email-threads-in-mozilla-thunderbird/)
-
+- [New in Thunderbird 38.0 🌟](https://support.mozilla.org/en-US/kb/new-thunderbird-38)
+	- [Expanded Folder Pane columns 🌟](https://support.mozilla.org/en-US/kb/new-thunderbird-38#w_expanded-folder-pane-columns)
+- [Novedades de Thunderbird 38.0](https://support.mozilla.org/es/kb/novedades-de-thunderbird-38)
+	- [Columnas del panel de carpetas](https://support.mozilla.org/es/kb/novedades-de-thunderbird-38#w_columnas-del-panel-de-carpetas)
+- [Configurar correo de Office 365 en Mozilla Thunderbird](http://blog.jgaitpro.com/configurar-correo-de-office-365-en-mozilla-thunderbird/)
+	
 ### Thunderbird Extensions
 - [Provider for Google Calendar](https://addons.mozilla.org/thunderbird/addon/provider-for-google-calendar)
 - [gContactSync](https://addons.mozilla.org/thunderbird/addon/gcontactsync/)
-- [Google Tasks Sync](https://addons.mozilla.org/thunderbird/addon/google-tasks-sync/?src=search)
 - [ThunderSec](https://addons.mozilla.org/en-US/thunderbird/addon/thundersec/)
 - [EnigMail OpenPGP Email Security](https://www.enigmail.net)
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider
