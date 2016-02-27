@@ -1,22 +1,30 @@
 <!-- MarkdownTOC -->
 
-- [HTTPS and HSTS](#https-and-hsts)
+- [HTTPS, HSTS and OpenSSL](#https-hsts-and-openssl)
     - [HSTS](#hsts)
+    - [OpenSSL](#openssl)
     - [SSL Server Test](#ssl-server-test)
 
 <!-- /MarkdownTOC -->
 
-# HTTPS and HSTS
+# HTTPS, HSTS and OpenSSL
 - [letsencrypt.org free ssl](https://letsencrypt.org) Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
     - [Let’s Encrypt — A Free Security Certificate for Your Website 🌟](https://stosu.com/lets-encrypt-a-free-security-certificate-for-your-website/)
 - [Enabling HTTPS Without Sacrificing Your Web Performance](http://moz.com/blog/enabling-https-without-sacrificing-web-performance)
-	- [As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet](http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/)
-	- [Microsoft may block SHA1 certificates sooner than expected](http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/)
-	- [Google is about to start favoring HTTPS sites in search results](http://thenextweb.com/insider/2015/12/17/unsecured-websites-are-about-to-get-hammered-in-googles-search-ranking/)
-	- [Dead-simple HTTPS Set up with Docker and Let's Encrypt](http://steveltn.me/2015/12/18/nginx-acme/)
+- [As sites move to SHA2 encryption, millions face HTTPS lock-out | ZDNet](http://www.zdnet.com/article/as-sha1-winds-down-sha2-leap-will-leave-millions-stranded/)
+- [Microsoft may block SHA1 certificates sooner than expected](http://www.zdnet.com/article/as-attacks-near-microsoft-mulls-banning-sha1-certificates/)
+- [Google is about to start favoring HTTPS sites in search results](http://thenextweb.com/insider/2015/12/17/unsecured-websites-are-about-to-get-hammered-in-googles-search-ranking/)
+- [Dead-simple HTTPS Set up with Docker and Let's Encrypt](http://steveltn.me/2015/12/18/nginx-acme/)
 
 ## HSTS
 - [HTTP Strict Transport Security (HSTS)](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is a web security policy mechanism which helps to protect websites against protocol downgrade attacks and cookie hijacking.
+
+## OpenSSL
+- [openssl.org](https://www.openssl.org)
+- [openssl-announce](https://mta.openssl.org/pipermail/openssl-announce/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Forthcoming OpenSSL releases fixes many security bugs <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://t.co/ctpfCb8hhu">https://t.co/ctpfCb8hhu</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702901573148520448">25 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/KDYbKY2sFxwXCF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/guypod/https-what-why-and-how-smashingconf-freiburg-sep-2015" title="HTTPS: What, Why and How (SmashingConf Freiburg, Sep 2015)" target="_blank">HTTPS: What, Why and How (SmashingConf Freiburg, Sep 2015)</a> </strong> from <strong><a href="//www.slideshare.net/guypod" target="_blank">Guy Podjarny</a></strong> </div>

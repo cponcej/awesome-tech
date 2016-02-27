@@ -13,6 +13,7 @@
 # Network Forensics
 ## Network Forensics Blogs
 - [wireshark.org](http://wireshark.org/)
+- [sharkfest.wireshark.org](https://sharkfest.wireshark.org)
 - [wiresharktraining.com](http://wiresharktraining.com)
 - [packetbomb.com](http://packetbomb.com/)
 - [blog.packet-foo.com](https://blog.packet-foo.com)

@@ -11,6 +11,7 @@
 	- [Amazon Web Services](#amazon-web-services)
 	- [OpenStack private cloud](#openstack-private-cloud)
 	- [IBM Bluemix](#ibm-bluemix)
+	- [Google Cloud](#google-cloud)
 	- [AWS Gartner Report](#aws-gartner-report)
 
 <!-- /MarkdownTOC -->
@@ -26,6 +27,7 @@
 - [Cloud automation should be the heart of enterprise support -- it will decrease downtime, increase flexibility, and dramatically improve your provider’s ability to rapidly respond to service requests](https://www.linkedin.com/pulse/uk-cios-dissatisfied-cloud-providers-ryan-kroonenburg)
 - [Netflix: Linux performance analysis in 60 seconds](http://www.infoworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
 - [Three things to remember when moving to the cloud in 2016](http://www.zdnet.com/article/three-things-to-remember-when-moving-to-the-cloud-in-2016/) Switching to cloud-based services can create flexibility -- but the move is not necessarily without its own challenges.
+- [Seven secrets of success in your cloud migration plan 🌟🌟](http://diginomica.com/2016/02/25/seven-secrets-of-success-in-your-cloud-migration-plan/)  It’s not migration, it’s transformation. Cloud will change your business
 
 ## Cloud Bogs
 - [Thoughts On Cloud](http://www.thoughtsoncloud.com/)
@@ -130,6 +132,10 @@
 
 ## IBM Bluemix
 - [IBM Cloud computing. Technical resources for developing in the cloud](https://www.ibm.com/developerworks/cloud/)
+
+## Google Cloud
+- [googlecloudplatform.blogspot.com](http://googlecloudplatform.blogspot.com)
+	- [Google seeks new disks for data centers](http://googlecloudplatform.blogspot.com.es/2016/02/Google-seeks-new-disks-for-data-centers.html)
 
 ## AWS Gartner Report
 - [Gartner Critical Capabilities - Learn More ](https://aws.amazon.com/resources/gartner-cc-learn-more/)

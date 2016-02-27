@@ -243,6 +243,7 @@
 - [Daily Scrum – Tips & Tactics](http://www.barryovereem.com/daily-scrum-tips-tactics/)
 - [Ponga un Scrum Master en su vida](https://www.beeva.com/beeva-view/metodologiasagiles/ponga-un-scrum-master-en-su-vida/)
 - [blog.trello.com: Tips For Managing A Remote Team](http://blog.trello.com/tips-for-managing-a-remote-team/)
+- [Meetings are not just about status updates! Never forget the "why" at the Daily](https://hbr.org/2016/02/the-perils-of-overmonitoring-your-behavior-and-goals)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to build a visual, shared editorial calendar &amp; content management system <a href="https://t.co/LgmtS0WOtO">https://t.co/LgmtS0WOtO</a> <a href="https://t.co/aYYKruFA7q">pic.twitter.com/aYYKruFA7q</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/699367622857531392">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -251,6 +252,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">At over 50% remote, here are some tools &amp; tips that help us manage our teams - <a href="https://t.co/epV8CRF7qU">https://t.co/epV8CRF7qU</a> <a href="https://t.co/N8i3h0VODy">pic.twitter.com/N8i3h0VODy</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/700749202591092737">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Meetings are not just about status updates! Never forget the &quot;why&quot; at the Daily <a href="https://twitter.com/hashtag/Scrum?src=hash">#Scrum</a>, <a href="https://twitter.com/hashtag/Sprint?src=hash">#Sprint</a> <a href="https://twitter.com/hashtag/Retrospective?src=hash">#Retrospective</a> etc. <a href="https://t.co/1asZMoxiIo">https://t.co/1asZMoxiIo</a></p>&mdash; Scrum.org (@Scrumdotorg) <a href="https://twitter.com/Scrumdotorg/status/702899793748738048">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)

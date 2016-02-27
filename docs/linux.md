@@ -347,6 +347,7 @@
 - [How To Stress Test CPU and Memory (VM) On a Linux and Unix With Stress-ng](http://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
 	- [Forcing out kernel bugs with stress-ng](http://smackerelofopinion.blogspot.co.uk/2016/01/forcing-out-bugs-with-stress-ng.html)
 - [Julia Evans: How CPU load averages work (and using them to triage webserver performance!)](http://jvns.ca/blog/2016/02/07/cpu-load-averages/)
+- [Julia Evans - perf top: an awesome way to spu on CPU usage](http://jvns.ca/blog/2016/02/24/perf-top-my-new-best-friend/)
 - [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
 - [linuxjournal.com: Examining Load Average](http://www.linuxjournal.com/article/9001?page=0,1) A practical interpretation of Linux's load averages but also illuminates some of the dark mathematical shadows behind them 
 - [The many load averages of Unix(es)](https://utcc.utoronto.ca/~cks/space/blog/unix/ManyLoadAveragesOfUnix)

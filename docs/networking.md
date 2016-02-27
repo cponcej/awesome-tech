@@ -9,6 +9,7 @@
 	- [IPv4](#ipv4)
 	- [IPv6](#ipv6)
 	- [Network Forensics](#network-forensics)
+	- [Network Performance](#network-performance)
 	- [VoIP](#voip)
 	- [MPLS Multi Protocol Label Switching (IP VPN)](#mpls-multi-protocol-label-switching-ip-vpn)
 	- [WiFi security](#wifi-security)
@@ -107,6 +108,9 @@
 
 ## Network Forensics
 - [Network Forensics](nw_forensics.md)
+
+## Network Performance
+- [infoworld.com: 10 tips for boosting network performance 🌟](http://www.infoworld.com/article/2627174/network-monitoring/10-tips-for-boosting-network-performance.html)
 
 ## VoIP
 - [VoIP Planning: Calculate Your Bandwidth Before Adding SIP Trunk Service](http://it.toolbox.com/blogs/voip-news/voip-planning-calculate-your-bandwidth-before-adding-sip-trunk-service-66093)

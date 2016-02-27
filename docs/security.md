@@ -298,6 +298,7 @@
 ### OpenSSL. January 2016
 - [High-severity bug in OpenSSL allows attackers to decrypt HTTPS traffic](http://arstechnica.com/security/2016/01/high-severity-bug-in-openssl-allows-attackers-to-decrypt-https-traffic/) OpenSSL maintainers release update that fixes key-recovery bug. Patch now. People using OpenSSL version 1.0.2 should upgrade to 1.0.2f, while those still using version 1.0.1 should install 1.0.1r.
 - [New High Severity OpenSSL Vulnerabilities Announced: CVE-2015-0291 & CVE-2015-0204](http://www.tripwire.com/state-of-security/vulnerability-management/new-high-severity-openssl-vulnerabilities-announced-cve-2015-0291-cve-2015-0204/)
+- [OpenSSL 1.0.2g and 1.0.1s security releases due 1st Mar 2016](https://mta.openssl.org/pipermail/openssl-announce/2016-February/000063.html)
 
 ### HTTPS Bicycle Attack. December 2015
 - [guidovranken.wordpress.com: HTTPS Bicycle Attack](https://guidovranken.wordpress.com/2015/12/30/https-bicycle-attack/)

@@ -61,6 +61,7 @@
 - [opensource.com 🌟🌟🌟](https://opensource.com)
 - [blogs.vmware.com](http://blogs.vmware.com/)
 - [mashable.com/apps-software](http://mashable.com/apps-software)
+- [diginomica.com](http://diginomica.com) business insights for the digital enterprise
 
 [![simon sinek progress](images/simonsinek_progress.png)](https://www.facebook.com/simonsinek/)
 

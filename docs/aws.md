@@ -12,21 +12,22 @@
     - [Closed groups for AWS certified professionals](#closed-groups-for-aws-certified-professionals)
     - [AWS re:Invent 2015](#aws-reinvent-2015)
     - [AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start](#aws-architecture-blog-official-blog-aws-labs-aws-quick-start)
-        - [AWS New Features](#aws-new-features)
-        - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
-        - [AWS RDS](#aws-rds)
-        - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
-        - [AWS Latency](#aws-latency)
-        - [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
-            - [AWS CLI](#aws-cli)
-            - [AWS Developer Blog](#aws-developer-blog)
-            - [AWS Lambda](#aws-lambda)
-            - [AWS Cloud Formation](#aws-cloud-formation)
-        - [AWS Security](#aws-security)
-            - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
-        - [AWS Backup and Recovery](#aws-backup-and-recovery)
-        - [AWS BigData](#aws-bigdata)
-            - [AWS IoT](#aws-iot)
+    - [AWS tips](#aws-tips)
+    - [AWS New Features](#aws-new-features)
+    - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
+    - [AWS RDS](#aws-rds)
+    - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
+    - [AWS Latency](#aws-latency)
+    - [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
+    - [AWS CLI](#aws-cli)
+    - [AWS Developer Blog](#aws-developer-blog)
+    - [AWS Lambda](#aws-lambda)
+    - [AWS Cloud Formation](#aws-cloud-formation)
+    - [AWS Security](#aws-security)
+    - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
+    - [AWS Backup and Recovery](#aws-backup-and-recovery)
+    - [AWS BigData](#aws-bigdata)
+    - [AWS IoT](#aws-iot)
     - [AWS Partner Network (APN)](#aws-partner-network-apn)
     - [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 
@@ -99,7 +100,11 @@
 - [InfoWorld Review – Amazon Aurora Rocks MySQL](https://aws.amazon.com/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/)
 - [AWS Cost Explorer Update – Access to EC2 Usage Data](https://aws.amazon.com/blogs/aws/aws-cost-explorer-update-access-to-ec2-usage-data/)
 
-### AWS New Features
+## AWS tips
+- [AWS Tips I Wish I'd Known Before I Started (Feb 2014) 🌟🌟🌟](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/) A collection of random tips for Amazon Web Services (AWS) that I wish I'd been told a few years ago, based on what I've learned by building and deploying various applications on AWS.
+- [Amazon AWS Tips and Gotchas – Part 1 (Feb 2016)](http://www.tekhead.org/blog/2016/02/amazon-aws-tips-and-gotchas-part-1/)
+
+## AWS New Features
 - [aws.amazon.com/releasenotes](https://aws.amazon.com/releasenotes)
 - [Amazon EFS: Amazon Elastic File System – Shared File Storage for Amazon EC2](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-shared-file-storage-for-amazon-ec2/)
 - [New – Encrypted EBS Boot Volumes](https://aws.amazon.com/blogs/aws/new-encrypted-ebs-boot-volumes)
@@ -110,14 +115,15 @@
 - [London Calling! An AWS Region is coming to the UK!](http://www.allthingsdistributed.com/2015/11/aws-announces-uk-region.html)
 - [New – Scheduled Reserved Instances](https://aws.amazon.com/blogs/aws/new-scheduled-reserved-instances/)
 
-### AWS Schema Conversion Tool
+## AWS Schema Conversion Tool
 - [cloudacademy.com: Migrating Data to AWS Using the AWS Schema Conversion Tool: A Preview](http://cloudacademy.com/blog/migrating-data-to-aws/)
 - [AWS Schema Conversion Tool now supports PostgreSQL as conversion target](http://aws.amazon.com/about-aws/whats-new/2016/01/aws-schema-conversion-tool-postgresql-support/)
 
-### AWS RDS
+## AWS RDS
 - [Tutorial: Restoring a DB Instance from a DB Snapshot](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.RestoringFromSnapshot.html)
+- [Partitioning MySQL on RDS: "How We Partitioned Airbnb’s Main Database in Two Weeks" 🌟](https://medium.com/airbnb-engineering/how-we-partitioned-airbnb-s-main-database-in-two-weeks-55f7e006ff21)
 
-### AWS DevOps. AWS CodePipeline
+## AWS DevOps. AWS CodePipeline
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)
 - [Setting Up the Jenkins Plugin for AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy)
 - [Continuous Delivery for a PHP Application Using AWS CodePipeline, AWS Elastic Beanstalk, and Solano Labs](https://blogs.aws.amazon.com/application-management/post/TxYSRRBH57NP2P/Continuous-Delivery-for-a-PHP-Application-Using-AWS-CodePipeline-AWS-Elastic-Bea)
@@ -126,7 +132,7 @@
 - [blazemeter.com: Three Ways DevOps Benefit from AWS CodePipeline](https://blazemeter.com/blog/three-ways-devops-benefit-aws-codepipeline)
 - [AWS Partner Network - CodePipeline Integrations](https://aws.amazon.com/es/codepipeline/product-integrations/)
 
-### AWS Latency
+## AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.
 - [Linkedin Discussion](https://www.linkedin.com/groups/49531/49531-6092152919937794052)
 >1. Don't do just a single check, the first check will be a lot slower as DNS lookups will need to be done, etc.
@@ -181,27 +187,28 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Route 53&#39;s health checks now support SNI for checking websites over HTTPS! <a href="https://t.co/ktdeKCjNjc">https://t.co/ktdeKCjNjc</a> <a href="https://t.co/8INseaC48e">pic.twitter.com/8INseaC48e</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/702208599016083457">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### AWS EC2 Container Registry (Docker)
+## AWS EC2 Container Registry (Docker)
 - [A Better Dev/Test Experience: Docker and AWS](https://medium.com/aws-activate-startup-blog/a-better-dev-test-experience-docker-and-aws-291da5ab1238)
 - [Amazon EC2 Container Registry Documentation](http://aws.amazon.com/es/documentation/ecr/)
 - [Get started with Amazon EC2 Container Registry (Amazon ECR)](http://docs.aws.amazon.com/AmazonECR/latest/userguide/ECR_GetStarted.html)
 
-#### AWS CLI
+## AWS CLI
 - [AWS CLI Command Reference](http://docs.aws.amazon.com/cli/latest/index.html)
 - [New usage examples have been added to the CLI for CodePipeline API Reference](http://docs.aws.amazon.com/cli/latest/reference/codepipeline/index.html)
 - [ec2-ssh-yplan: A pair of command line utilities for finding and SSH-ing into your Amazon EC2 instances by tag (such as ‘Name’)](https://pypi.python.org/pypi/ec2-ssh-yplan/)
 
-#### AWS Developer Blog
+## AWS Developer Blog
 - [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)
 - [Create an API Using the Swagger Specification and the API Gateway Extensions](http://docs.aws.amazon.com/apigateway/latest/developerguide/create-api-using-import-export-api.html)
 
-#### AWS Lambda
+## AWS Lambda
 - [you can use Python with AWS Lambda](http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
 - [Build a Python Microservice with Amazon Web Services Lambda & API Gateway](http://www.giantflyingsaucer.com/blog/?p=5730)
 - [AWS Lambda, Echo, and the Future of Cloud Automation](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/) A fantastic blog article by Logicworks on Lambda, the coming move to serverless architecture and even the possibility of using Amazon's Echo to launch entire AWS environments by using just your voice
 - [Serverless: The Future of Software Architecture?](https://read.acloud.guru/serverless-the-future-of-software-architecture-d4473ffed864#.uk7setw47)
 - [npmjs.com: Lambda load test](https://www.npmjs.com/package/lambda-load-test)
 - [AWS Lambda Limits](http://docs.aws.amazon.com/lambda/latest/dg/limits.html)
+- [blog.powerupcloud.com: AWS inventory details in CSV using lambda 🌟](http://blog.powerupcloud.com/2016/02/07/aws-inventory-details-in-csv-using-lambda)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/awslambda?src=hash">#awslambda</a> ups code storage limit from 1.5GB to 75GB for everyone. Create all the Lambda functions you need! <a href="https://t.co/NMduXKMPUn">https://t.co/NMduXKMPUn</a></p>&mdash; Tim Wagner (@timallenwagner) <a href="https://twitter.com/timallenwagner/status/701963091639029760">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -211,10 +218,10 @@
 
 [![AWS Lambda](images/aws_lambda.png)](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/)
 
-#### AWS Cloud Formation
+## AWS Cloud Formation
 - [AWS Cloud Formation Release History](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)
 
-### AWS Security
+## AWS Security
 - [AWS Security Blog](http://blogs.aws.amazon.com/security)
 - [Tutorial: Configure Apache Web Server on Amazon Linux to use SSL/TLS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-an-instance.html)
 - [The Most Popular AWS Security Blog Posts in 2015](http://blogs.aws.amazon.com/security/post/Tx4QX7W51NDSLO/The-Most-Popular-AWS-Security-Blog-Posts-in-2015)
@@ -223,16 +230,16 @@
 - [How to Record and Govern Your IAM Resource Configurations Using AWS Config](http://blogs.aws.amazon.com/security/post/Tx14ADBJOCAT9NS/How-to-Record-and-Govern-Your-IAM-Resource-Configurations-Using-AWS-Config)
 - [Amazon’s customer service backdoor](https://medium.com/@espringe/amazon-s-customer-service-backdoor-be375b3428c4#.qyixu5mu3)
 
-#### AWS WAF Web Application Firewall
+## AWS WAF Web Application Firewall
 - [AWS WAF - Web Application Firewall](https://aws.amazon.com/waf/)
 - [How to Automatically Update Your Security Groups for Amazon CloudFront and AWS WAF by Using AWS Lambda (boto3 python)](http://blogs.aws.amazon.com/security/post/Tx1LPI2H6Q6S5KC/How-to-Automatically-Update-Your-Security-Groups-for-Amazon-CloudFront-and-AWS-W)
 - [How to Use AWS WAF to Block IP Addresses That Generate Bad Requests 🌟](http://blogs.aws.amazon.com/security/post/Tx223ZW25YRPRKV/How-to-Use-AWS-WAF-to-Block-IP-Addresses-That-Generate-Bad-Requests)
 
-### AWS Backup and Recovery
+## AWS Backup and Recovery
 - [Quantum Taps AWS for Cloud-Powered Disaster Recovery](http://www.infostor.com/backup-and_recovery/quantum-taps-aws-for-cloud-powered-disaster-recovery.html)
 - [Linkedin discussion: Need help on Backup and restore methods of EC2 using s3 services](https://www.linkedin.com/groups/49531/49531-6093375473969090562)
 
-### AWS BigData 
+## AWS BigData 
 - [blogs.aws.amazon.com/bigdata](http://blogs.aws.amazon.com/bigdata/)
 - [Querying Amazon Kinesis Streams Directly with SQL and Spark Streaming](http://blogs.aws.amazon.com/bigdata/post/Tx3916WCIUPVA3T/Querying-Amazon-Kinesis-Streams-Directly-with-SQL-and-Spark-Streaming)
 
@@ -242,7 +249,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New on the AWS <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> blog: &quot;Big Data Analytics Options on AWS: Updated White Paper&quot; <a href="https://t.co/p7AUlClnEy">https://t.co/p7AUlClnEy</a> <a href="https://t.co/Lp7lg2ofOx">pic.twitter.com/Lp7lg2ofOx</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698238715718668288">febrero 12, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### AWS IoT
+## AWS IoT
 - [aws.amazon.com/en/iot](https://aws.amazon.com/en/iot)
 - [What Is AWS IoT?](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 
