@@ -228,7 +228,7 @@
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oabxBtR4F8Q?list=PLF9F2FAB5D4F230E8&amp;controls=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oabxBtR4F8Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
