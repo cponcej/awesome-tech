@@ -8,6 +8,7 @@
 		- [Evernote on Twitter](#evernote-on-twitter)
 	- [Trello](#trello)
 	- [Thunderbird](#thunderbird)
+		- [Thunderbird and GMail](#thunderbird-and-gmail)
 		- [Thunderbird Extensions](#thunderbird-extensions)
 	- [Firefox](#firefox)
 		- [Firefox Extensions](#firefox-extensions)
@@ -158,6 +159,11 @@
 - [Novedades de Thunderbird 38.0](https://support.mozilla.org/es/kb/novedades-de-thunderbird-38)
 	- [Columnas del panel de carpetas](https://support.mozilla.org/es/kb/novedades-de-thunderbird-38#w_columnas-del-panel-de-carpetas)
 - [Configurar correo de Office 365 en Mozilla Thunderbird](http://blog.jgaitpro.com/configurar-correo-de-office-365-en-mozilla-thunderbird/)
+
+### Thunderbird and GMail
+- [thunderbird and gmail](https://support.mozilla.org/en-US/kb/thunderbird-and-gmail)
+- [Recommended IMAP client settings 🌟](https://support.google.com/mail/answer/78892)
+- [Enable IMAP in your Gmail settings](https://support.google.com/mail/answer/77695)
 	
 ### Thunderbird Extensions
 - [Provider for Google Calendar](https://addons.mozilla.org/thunderbird/addon/provider-for-google-calendar)
