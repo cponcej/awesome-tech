@@ -126,11 +126,6 @@
 </div>
 <br/>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H_7sP85gInk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 [![parque el capricho](images/parque-el-capricho.jpg)](http://www.madridtourist.info/caprice_park.html)
 
 ## Worst tech mergers and acquisitions
