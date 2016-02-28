@@ -95,9 +95,43 @@
 
 [![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.grifolsacademy.com/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bHNNUZ-Ikfw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qmS6Lz2W7c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6V5z2boEKWA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+[![carretera de les aigues barcelona](images/carretera-de-les-aigues-barcelona.jpg)](http://www.quesecueceenbcn.com/2013/03/01/fin-de-semana-en-barcelona-carretera-de-les-aigues/)
+
 ### Madrid startups
 - [tetuanvalley.com: Tetuan Valley Madrid](http://tetuanvalley.com/)
 - [campus.co/madrid: Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkEGCA40RV0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFeo22j08e8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_7sP85gInk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+[![parque el capricho](images/parque-el-capricho.jpg)](http://www.madridtourist.info/caprice_park.html)
 
 ## Worst tech mergers and acquisitions
 - [Worst tech mergers and acquisitions: Oracle and Sun, and the sad tale of Palm](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
