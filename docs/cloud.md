@@ -10,6 +10,8 @@
 	- [Cloud Pricing](#cloud-pricing)
 	- [Amazon Web Services](#amazon-web-services)
 	- [OpenStack private cloud](#openstack-private-cloud)
+		- [Red Hat OpenStack](#red-hat-openstack)
+		- [OpenStack refs](#openstack-refs)
 	- [IBM Cloud. IBM Bluemix](#ibm-cloud-ibm-bluemix)
 	- [Google Cloud](#google-cloud)
 	- [AWS Gartner Report](#aws-gartner-report)
@@ -107,6 +109,10 @@
 - [Amazon Web Services](aws.md)
 
 ## OpenStack private cloud
+### Red Hat OpenStack
+- [Red Hat OpenStack](redhat_openstack.md)
+
+### OpenStack refs
 - [openstack.org](http://openstack.org)
 - [trystack.org](http://trystack.org/)
 - [OpenStack Architecture Design Guide](http://docs.openstack.org/arch/)

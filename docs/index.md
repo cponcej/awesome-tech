@@ -15,6 +15,7 @@
 4. [Scalability and Reliability, Web Performance 🌟](scalability.md)
 5. [Linux](linux.md)
 	- [Red Hat 🌟](redhat.md)
+		- [Red Hat OpenStack](redhat_openstack.md)
 	- [Linux Commands Examples 🌟](linux-commands-examples.md)
 6. [Microsoft](microsoft.md)
 7. [WebApp, HTTP/2, e-mail, Middleware, JVM, Video 🌟](webapp.md)

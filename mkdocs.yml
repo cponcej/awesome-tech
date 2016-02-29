@@ -24,6 +24,7 @@ pages:
 - Scalability and Reliability, Web Performance: scalability.md
 - Linux: linux.md
 - Red Hat: redhat.md
+- Red Hat OpenStack: redhat_openstack.md
 - Linux Commands Examples: linux-commands-examples.md
 - Microsoft: microsoft.md
 - WebApp, HTTP/2, e-mail, Middleware, JVM, Video: webapp.md
