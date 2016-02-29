@@ -20,7 +20,7 @@
 
 ![michael jordan](images/air_jordan.gif)
 
-[! [telcos vs web giants](images/telcos_vs_web_giants_spain.png)](http://www.zdnet.com/article/telcos-vs-the-web-giants-is-the-playing-field-a-fair-one-and-does-it-matter/)
+[![telcos vs web giants](images/telcos_vs_web_giants_spain.png)](http://www.zdnet.com/article/telcos-vs-the-web-giants-is-the-playing-field-a-fair-one-and-does-it-matter/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4YgGuK9cuSU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
