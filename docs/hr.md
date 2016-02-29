@@ -64,6 +64,7 @@
 - [The 17 things you should never say to your boss](http://www.news.com.au/finance/small-business/the-17-things-you-should-never-say-to-your-boss/story-fn9evb64-1226726850961)
 - [8 phrases to eliminate from your work vocabulary](http://www.businessinsider.com/phrases-to-eliminate-from-your-work-vocab-2016-1)
 - [9 Things Managers Do That Make Good Employees Quit](http://www.entrepreneur.com/article/249903)
+- [Learning as A Leader: The Good, the Bad and the Ugly (Part 2)](https://www.linkedin.com/pulse/learning-leader-good-bad-ugly-part-2-marla-kaplowitz)
 
 ### Work environment issues
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
