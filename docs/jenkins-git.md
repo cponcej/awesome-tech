@@ -42,8 +42,12 @@
 
 ### softwarefactory-project.io
 - [softwarefactory-project.io](http://softwarefactory-project.io) 
-- [Introduction to Software Factory](http://softwarefactory-project.io/docs/intro.html)
+    - [Introduction to Software Factory](http://softwarefactory-project.io/docs/intro.html)
 - [github 🌟](https://github.com/redhat-cip/software-factory)
+
+[![software factory heading](images/software_factory_heading.png)](http://softwarefactory-project.io)
+
+[![software factory testing](images/software_factory_testing.png)](http://softwarefactory-project.io/docs/testing.html)
 
 ## CI Docker
 - [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine
