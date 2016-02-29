@@ -41,7 +41,7 @@ pages:
 - Ansible: ansible.md
 - Docker: docker.md
 - DevOps and ITIL: devops-itil.md
-- Continuous Integration Tools: jenkins-git.md
+- Continuous Integration Tools. Jenkins, Git: jenkins-git.md
 - Metrics: metrics.md
 - Elasticsearch: elasticsearch.md
 - Software Development: sw-devel.md

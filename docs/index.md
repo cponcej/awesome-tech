@@ -32,7 +32,7 @@
 	- [Ansible 🌟🌟](ansible.md)
 	- [Docker 🌟](docker.md)
 10. [DevOps and ITIL 🌟🌟🌟](devops-itil.md)
-	- [Continuous Integration Tools](jenkins-git.md)
+	- [Continuous Integration Tools. Jenkins, Git](jenkins-git.md)
 	- [Metrics 🌟](metrics.md)
 	- [Elasticsearch](elasticsearch.md)
 11. [Software Development](sw-devel.md)
