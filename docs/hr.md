@@ -238,6 +238,7 @@
 - [The one question you should always ask at the end of a job interview 🌟](http://www.businessinsider.com/the-one-question-you-should-always-ask-at-the-end-of-a-job-interview-2016-2) One question all job candidates should always ask, no matter what: "Who succeeds in this position?". Another way to phrase it: "How would you define success for this position?"
 - [9 signs you just nailed that job interview](http://www.businessinsider.com/how-to-know-if-i-nailed-an-interview-2016-2-19)
 - [opensource.com: How to interview for culture fit 🌟🌟](https://opensource.com/open-organization/16/2/how-hire-people-who-just-get-it)
+- [careerealism.com: How To Spot A Jerk Boss During An Interview](http://www.careerealism.com/jerk-boss-interview/)
 - [mashable.com: 3 professional ways to bring up your personal life during the job search](http://mashable.com/2016/02/25/talk-personal-life-job-search/)
 - [The (Depressing) Truth About Applying To Jobs Online 🌟](https://www.linkedin.com/pulse/depressing-truth-applying-jobs-online-j-t-o-donnell)
 
