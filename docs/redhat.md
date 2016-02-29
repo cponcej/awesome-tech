@@ -114,6 +114,11 @@
 - [Apple Dumps VMware Licensing Agreement, Will Step Up Deployment Of Open-Source KVM Virtualization](http://www.crn.com/news/data-center/300078323/sources-apple-dumps-vmware-licensing-agreement-will-step-up-deployment-of-open-source-kvm-virtualization.htm)
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HsqtHT8auxg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F2lxJTdfVy8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
@@ -157,6 +162,41 @@
 - [redhat-cloudstrategy.com: Elephant In The Room: What’s The Total Cost Ownership For An OpenStack Cloud?](http://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/)
 
 [![red hat cloud strategy blog](images/redhat_cloudstrategy_blog.png)](http://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CSYkIu988AFtf4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KRainLeander/build-a-basic-cloud-using-rdomanager" title="Build a Basic Cloud Using RDO-manager" target="_blank">Build a Basic Cloud Using RDO-manager</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/KRainLeander">K Rain Leander</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MvqRlk8uaYdxh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/flepied/rpm-factory-for-rdo" title="RPM Factory for RDO" target="_blank">RPM Factory for RDO</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/flepied">Frédéric Lepied</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2zKRBsugzXdfdm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/arthurberezin/openstack-best-practices-and-considerations-terasky-tech-day" title="OpenStack Best Practices and Considerations - terasky tech day" target="_blank">OpenStack Best Practices and Considerations - terasky tech day</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/arthurberezin">Arthur Berezin</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dkTKbcigcENeCZ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SadiquePuthen/introduction-openstackmeetupnov28-55695579" title="Introduction openstack-meetup-nov-28" target="_blank">Introduction openstack-meetup-nov-28</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/SadiquePuthen">Sadique Puthen</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BqmR0TjmlyjE80" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/anandnande/red-hat-openstack-platform-director" title="Red Hat Openstack Platform Director" target="_blank">Red Hat Openstack Platform Director</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/anandnande">Anand Nande</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gR8g7KoIxbEDyr" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NicolasBarcet/os-summit-transformingtoopenstack" title="Transforming to OpenStack: a sample roadmap to DevOps" target="_blank">Transforming to OpenStack: a sample roadmap to DevOps</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/NicolasBarcet">Nicolas (Nick) Barcet</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/7XgHoSr1bQ8KwI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/flepied/openstack-summit-vancouver-lessons-learned-on-upgrades" title="OpenStack Summit Vancouver: Lessons learned on upgrades" target="_blank">OpenStack Summit Vancouver: Lessons learned on upgrades</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/flepied">Frédéric Lepied</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/AcCT6LfBvwE9w7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AnimeshSingh/caps-whats-best-for-deploying-and-managing-openstack-chef-vs-ansible-vs-puppet-vs-salt-57941706" title="CAPS: What&#x27;s best for deploying and managing OpenStack? Chef vs. Ansible vs. Puppet vs. Salt" target="_blank">CAPS: What&#x27;s best for deploying and managing OpenStack? Chef vs. Ansible vs. Puppet vs. Salt</a> </strong> from <strong><a href="//www.slideshare.net/AnimeshSingh" target="_blank">Animesh Singh</a></strong> </div>

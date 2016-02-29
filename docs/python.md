@@ -15,6 +15,7 @@
 	- [Python Tools](#python-tools)
 		- [Web Scraping with Python](#web-scraping-with-python)
 	- [Jython](#jython)
+	- [Eclipse IDE](#eclipse-ide)
 
 <!-- /MarkdownTOC -->
 
@@ -170,3 +171,6 @@
 
 ## Jython 
 - [Jython is a language that makes it easy to create projects with libraries from Python and Java.](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20151112?pg=43#pg43)
+
+## Eclipse IDE
+- [opensource.com: How to use Python to hack your Eclipse IDE](https://opensource.com/life/16/2/how-use-python-hack-your-ide)

@@ -119,6 +119,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Gender pay gap:<br>S Korea 37%<br>Japan 27<br>Turkey 20<br>US 18<br>Swiss, Chile 17<br>Spain 9<br>New Zealand 6<a href="https://t.co/keVLfd5Mjd">https://t.co/keVLfd5Mjd</a> <a href="https://t.co/gURsefDoQQ">pic.twitter.com/gURsefDoQQ</a></p>&mdash; Dina Pomeranz (@dinapomeranz) <a href="https://twitter.com/dinapomeranz/status/701563247875465216">febrero 22, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">By population and output, London is the EU&#39;s largest city. It could be bigger still <a href="https://t.co/nI16hgNU8z">https://t.co/nI16hgNU8z</a> <a href="https://t.co/mtbcq3Zh0i">pic.twitter.com/mtbcq3Zh0i</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/703933265397325824">28 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries which have officially adopted metric system <a href="https://t.co/7JFA67A8BE">pic.twitter.com/7JFA67A8BE</a></p>&mdash; Terrible Maps (@TerribleMaps) <a href="https://twitter.com/TerribleMaps/status/695745094239023104">febrero 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -185,6 +188,9 @@
 [![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US spends $640 billion on its military; more than China, Russia, Saudi, France, UK, India and Germany combined. <a href="https://t.co/YSHHIqWpBg">pic.twitter.com/YSHHIqWpBg</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/700417049864982529">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A map of all the battles fought around the world over the last 4,000 years <a href="https://t.co/5qiHQNknei">https://t.co/5qiHQNknei</a> <a href="https://t.co/JOONDQTgip">pic.twitter.com/JOONDQTgip</a></p>&mdash; indy100 (@indy100) <a href="https://twitter.com/indy100/status/703930964301520896">28 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">2016 share of world GDP<br><br>China: 17.3%<br>US: 16%<br>India: 7.4%<br>Japan: 4.2%<br>Germany: 3.3%<br>Russia: 2.9%<br>Brazil: 2.8%<br>Indonesia: 2.6%<br>UK: 2.3%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702259169584283648">febrero 23, 2016</a></blockquote>

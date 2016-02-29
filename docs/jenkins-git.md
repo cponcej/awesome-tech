@@ -4,6 +4,7 @@
     - [CI Jenkins, Travis](#ci-jenkins-travis)
         - [Jenkins on Twitter](#jenkins-on-twitter)
         - [Travis on Twitter](#travis-on-twitter)
+        - [softwarefactory-project.io](#softwarefactory-projectio)
     - [CI Docker](#ci-docker)
     - [CI RPM build](#ci-rpm-build)
     - [CI Maven and Gradle](#ci-maven-and-gradle)
@@ -13,6 +14,11 @@
         - [Git clients](#git-clients)
 
 <!-- /MarkdownTOC -->
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/t5cxqF1ihOgF2u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/flepied/ci-is-dead-long-live-ci" title="CI is dead, long live CI" target="_blank">CI is dead, long live CI</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/flepied">Frédéric Lepied</a></strong> </div>
+</div>
+<br/>
 
 # Continuous Integration Tools
 ## CI Jenkins, Travis
@@ -33,6 +39,11 @@
 ### Travis on Twitter
 - [twitter.com/travisci](https://twitter.com/travisci)
 - [twitter.com/traviscistatus](https://twitter.com/traviscistatus)
+
+### softwarefactory-project.io
+- [softwarefactory-project.io](http://softwarefactory-project.io) 
+- [Introduction to Software Factory](http://softwarefactory-project.io/docs/intro.html)
+- [github 🌟](https://github.com/redhat-cip/software-factory)
 
 ## CI Docker
 - [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine

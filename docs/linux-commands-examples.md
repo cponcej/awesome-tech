@@ -156,6 +156,10 @@
 
 		find . -xdev -ls | sort -n -k 7 | tail -5
 
+- counts files in the current path by modification month
+
+		find . -maxdepth 1 -type f -printf '%TY-%Tm\n' | sort | uniq -c 
+
 - Use the */ trick to get only the directories, then use ${dir%/} to remove the trailing / you get
 
 		for dir in */ ; do echo "${dir%/}" ; done
@@ -163,6 +167,10 @@
 - Move current year pics to 2015 directory.
 
 		find . -maxdepth 1 -daystart -type f -name '*.jpg' -mtime -$( date +%j ) -exec mv -v {} 2015/ \;
+
+- Lower case all files in a folder.
+
+		for f in *; do b=$(echo "$f" | tr '[A-Z]' '[a-z]'); mv "$f" "$b"; done
 
 - Print the day of the year. Can be useful with things like find.
 
@@ -202,6 +210,10 @@
 
 - The awk variable $1 contains the first field in a record, $2 the second, $3 the third, etc. $0 contains all fields.
 
+- Print all from 3rd field to end of line. Very useful for log parsing.
+
+		awk '{ print substr($0, index($0,$3)) }' mail.log
+		
 - List 10 largest open file on Unix:
 
 		lsof /|awk '{ if($7>1048576) print $7/1048576 "MB" " " $9 " " $1 }'|sort -nu|tail 
@@ -388,6 +400,10 @@
 - I find brace expansion useful for renaming files. This cmd expands to "mv Picture.jpg Picture-of-my-cat.jpg"
 
 		mv Picture{,-of-my-cat}.jpg
+
+- Show % reports of CPU statistics for every active task in the server at two second intervals. 🌟
+
+		pidstat 2 5
 
 - Suspend and reattach a process to screen
 

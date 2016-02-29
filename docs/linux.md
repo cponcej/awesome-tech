@@ -23,9 +23,11 @@
 		- [Downgrade or Rollback Updates](#downgrade-or-rollback-updates)
 	- [man pages on steroids with examples](#man-pages-on-steroids-with-examples)
 	- [Linux bash](#linux-bash)
+	- [Linux Tips](#linux-tips)
 	- [Command line text manipulation tools](#command-line-text-manipulation-tools)
 	- [Linux Terminals](#linux-terminals)
-		- [Linux Virtualization](#linux-virtualization)
+		- [Terminal Multiplexers](#terminal-multiplexers)
+	- [Linux Virtualization](#linux-virtualization)
 	- [FOSS Software](#foss-software)
 	- [Linux Performance](#linux-performance)
 		- [htop](#htop)
@@ -289,6 +291,12 @@
 - [Bash History: Correct/Repeat The Last Command With a Substitution](http://www.cyberciti.biz/faq/bash-history-repeat-substitution-command-syntax/)
 - [computerworld.com: 9 really odd linux commands](http://www.computerworld.com/article/3035480/linux/9-really-odd-linux-commands.html)
 
+## Linux Tips
+- [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The smallest things like missing ; in Unix/Linux config file can cause greatest pain. But u can chk for syntax error <a href="https://t.co/HgYfKs7VcQ">https://t.co/HgYfKs7VcQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/703553266160766977">27 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Command line text manipulation tools 
 - [AWK](https://en.wikipedia.org/wiki/AWK)
 - [Sed](https://en.wikipedia.org/wiki/Sed)
@@ -305,7 +313,16 @@
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)
 - [Pymux: A terminal multiplexer (like tmux) in Python](https://github.com/jonathanslenders/pymux)
 
-### Linux Virtualization
+### Terminal Multiplexers
+- [wikipedia: Terminal multiplexer](https://en.wikipedia.org/wiki/Terminal_multiplexer)
+- [An introduction to Tmux](http://perltricks.com/article/an-introduction-to-tmux/)
+- [tmux.github.io](https://tmux.github.io)
+- [linuxcommand.org Terminal Multiplexers](http://linuxcommand.org/lc3_adv_termmux.php)
+- [screen](http://michael-prokop.at/screen/index.php3)
+
+[![tmux](images/tmux.png)](https://tmux.github.io/)
+
+## Linux Virtualization
 - [Linux & Unix Virtualization Guides](http://www.cyberciti.biz/faq/category/virtualization/)
 - [Troubleshooting KVM Virtualization Problem With Log Files](http://www.cyberciti.biz/faq/troubleshooting-kvm-virtualization-problem-with-log-files/)
 - [linuxpitstop.com: Install and Configure KVM (Kernel Based Virtual Machine) On Ubuntu Linux 15.04](http://linuxpitstop.com/install-kvm-on-ubuntu-linux-15-04/)

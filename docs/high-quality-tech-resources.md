@@ -37,6 +37,7 @@
 - [The history of open source and a glimpse at its future. Open source changed startups, and then startups turned around and changed open source. Open source became the default, not an alternative 🌟🌟🌟🌟🌟](https://medium.com/@nayafia/we-re-in-a-brave-new-post-open-source-world-56ef46d152a3) Two startups, in particular: GitHub and Stack Overflow. Together, they launched a new chapter for software technology. And the decisions we make from here will determine how the next 5–10 years of software unfold. But to understand why, we have to start at the beginning.
 	- [Choosing an open source license 🌟🌟🌟](http://choosealicense.com) GitHub started taking a stance on licensing in 2013. They now suggest a license when creating a new project, and they made a microsite to help project owners choose.
 - [Why There Will Never Be Another RedHat: The Economics Of Open Source 🌟](http://techcrunch.com/2014/02/13/please-dont-tell-me-you-want-to-be-the-next-red-hat/)
+- [8 advantages of using open source in the enterprise](https://enterprisersproject.com/article/2015/1/top-advantages-open-source-offers-over-proprietary-solutions)
 
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com 🌟🌟🌟🌟🌟](https://zeef.com)

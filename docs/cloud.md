@@ -10,7 +10,7 @@
 	- [Cloud Pricing](#cloud-pricing)
 	- [Amazon Web Services](#amazon-web-services)
 	- [OpenStack private cloud](#openstack-private-cloud)
-	- [IBM Bluemix](#ibm-bluemix)
+	- [IBM Cloud. IBM Bluemix](#ibm-cloud-ibm-bluemix)
 	- [Google Cloud](#google-cloud)
 	- [AWS Gartner Report](#aws-gartner-report)
 
@@ -127,15 +127,18 @@
 - [opensource.com: OpenStack News January 2016. Landing a Summit talk, troubleshooting Neutron, and more OpenStack news](https://opensource.com/business/16/1/openstack-news-january-11)
 - [opensource.com: An introduction to OpenStack clouds for beginners](https://opensource.com/business/16/1/scale14x-interview-anthony-chow)
 - [What’s Behind Rackspace’s Private OpenStack Cloud Partnership with Red Hat](http://www.datacenterknowledge.com/archives/2016/02/11/whats-behind-rackspaces-private-openstack-cloud-partnership-with-red-hat/)
+- [opensource.com: A compilation of 7 new OpenStack tutorials (Feb 2016) 🌟](https://opensource.com/business/16/2/compilation-best-new-openstack-tutorials)
 
 [![openstack cluster](images/openstack-cluster.png)](https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html)
 
-## IBM Bluemix
+## IBM Cloud. IBM Bluemix
 - [IBM Cloud computing. Technical resources for developing in the cloud](https://www.ibm.com/developerworks/cloud/)
+- [slideshare: New IBM Mainframe 2016 - Z13](http://www.slideshare.net/fgonza93/new-ibm-mainframe-2016-z13) According to @IBM, the 2016 Z13 mainframe can run up to 8,000 Linux virtual servers on a single system
 
 ## Google Cloud
 - [googlecloudplatform.blogspot.com](http://googlecloudplatform.blogspot.com)
 	- [Google seeks new disks for data centers](http://googlecloudplatform.blogspot.com.es/2016/02/Google-seeks-new-disks-for-data-centers.html)
+	- [Spotify chooses Google Cloud Platform to power data infrastructure](http://googlecloudplatform.blogspot.com.es/2016/02/Spotify-chooses-Google-Cloud-Platform-to-power-data-infrastructure.html)
 
 ## AWS Gartner Report
 - [Gartner Critical Capabilities - Learn More ](https://aws.amazon.com/resources/gartner-cc-learn-more/)

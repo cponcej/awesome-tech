@@ -7,6 +7,7 @@
 	- [Evernote](#evernote)
 		- [Evernote on Twitter](#evernote-on-twitter)
 	- [Trello](#trello)
+	- [Outlook](#outlook)
 	- [Thunderbird](#thunderbird)
 		- [Thunderbird and GMail](#thunderbird-and-gmail)
 		- [Thunderbird Extensions](#thunderbird-extensions)
@@ -142,6 +143,13 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">On the job hunt this weekend? Organize applications &amp; interviews in Trello <a href="https://t.co/HAotII6v6J">https://t.co/HAotII6v6J</a> <a href="https://t.co/rj93N8KPL2">pic.twitter.com/rj93N8KPL2</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/701073876701175808">febrero 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Outlook
+- [Email Client Market Share](https://emailclientmarketshare.com)
+- [Outlook 2016’s New POP3 Bug Deletes Your Emails!](http://wp.josh.com/2016/02/24/outlook-2016s-new-pop3-bug-deletes-your-emails/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Heads up for the email server admins. Outlook 2016’s New POP3 Bug Deletes Your Emails <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a> <a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a>  <a href="https://t.co/vLbphMvlSj">https://t.co/vLbphMvlSj</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/703838533413285888">28 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Thunderbird
 - [emailmafia.net](http://emailmafia.net)
 - [twitter.com/mozthunderbird](https://twitter.com/mozthunderbird)
@@ -150,6 +158,7 @@
 	- [Support Mozilla on twitter](https://twitter.com/SUMO_Mozilla)
 - [Filelink for Large Attachments](https://support.mozilla.org/en-US/kb/filelink-large-attachments)
 - [Thunderbird Daily on Youtube: Some great productivity tips for Thunderbird](https://www.youtube.com/channel/UCCiqw9IULdRxig5e-fcPo6A)
+	- [Check out this video to learn how to automatically tag email using the quickFilters add-on for Thunderbird](https://www.youtube.com/watch?v=aSfPVi6g8RY)
 - [Saving bandwidth on Google Chrome and Mozilla Thunderbird](http://jjamwal.in/yayavar/saving-bandwidth-on-google-chrome-and-mozilla-thunderbird/)
 - [Safe Mode Thunderbird](https://support.mozilla.org/en-US/kb/safe-mode-thunderbird)
 - [How to Merge Email Threads in Mozilla Thunderbird](https://stosu.com/how-to-merge-email-threads-in-mozilla-thunderbird/)
@@ -199,6 +208,11 @@
 - [CompactHeader](https://addons.mozilla.org/en-US/thunderbird/addon/compactheader)
 - [Get all mails](https://addons.mozilla.org/en-US/thunderbird/addon/get-all-mails/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aSfPVi6g8RY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Thunderbird continues to grow, exceeding 10,000,000 active daily users for the first time ever on November 30 2015.</p>&mdash; Thunderbird (@mozthunderbird) <a href="https://twitter.com/mozthunderbird/status/673715529350123521">diciembre 7, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -215,6 +229,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Creating an email template in <a href="https://twitter.com/hashtag/Thunderbird?src=hash">#Thunderbird</a> without extension<a href="https://t.co/e7baEc8ULI">https://t.co/e7baEc8ULI</a></p>&mdash; Michal Zuber (@michalzuber) <a href="https://twitter.com/michalzuber/status/686450113510772736">enero 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Andalusian Heath Service is migrating from Microsoft Outlook to Mozilla Thunderbird: <a href="https://t.co/HgXQArZxpC">https://t.co/HgXQArZxpC</a></p>&mdash; Thunderbird (@mozthunderbird) <a href="https://twitter.com/mozthunderbird/status/702657216512335872">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Firefox

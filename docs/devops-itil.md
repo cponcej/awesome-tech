@@ -5,6 +5,7 @@
 	- [DevOps Blogs](#devops-blogs)
 	- [Description](#description)
 	- [Cultura DevOps](#cultura-devops)
+	- [Collaborative tools](#collaborative-tools)
 	- [DevOps Tools 2016](#devops-tools-2016)
 		- [Server Provisioning and Automation: Red Hat Satellite, Katello, Foreman, Cobbler and others](#server-provisioning-and-automation-red-hat-satellite-katello-foreman-cobbler-and-others)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
@@ -131,6 +132,10 @@
 [![cultura startup](images/cultura_startup_devops.png)](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian)
 
 [![cultura sobre la tecnología: la clave del éxito de DevOps](images/devops_cultura_exito.png)](http://www.cloudcomputing-news.net/news/2016/jan/21/culture-over-technology-key-devops-success/)
+
+## Collaborative tools
+- [etherpad.org 🌟](http://etherpad.org)
+- [ethercalc.org 🌟](https://ethercalc.org)
 
 ## DevOps Tools 2016
 - [Top 10 DevOps Tools to look out for in 2016](https://www.linkedin.com/pulse/top-10-devops-tools-look-out-2016-matthew-smith)
@@ -291,6 +296,7 @@
 	- [DevOps and Continuous Delivery Reference Architectures (including Nexus and other popular tools)](http://www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery)
 	- [DevOps and Continuous Delivery Reference Architectures - Volume 2](http://www.slideshare.net/SonatypeCorp/devops-and-continuous-delivery-reference-architectures)
 	- [Experts Share DevOps/CD Reference Architectures](https://youtu.be/deQ_EcMXh7o)
+- [DZone: Continuous Delivery: The Atlassian Way 🌟](https://dzone.com/articles/continuous-delivery-the-atlassian-way) Sonatype's Mark Miller catches up with Ian Buchanan at Atlassian to discuss DevOps leadership, ChatOps, and usage of tools in the continuous delivery pipeline.
 
 [![visualizations continuous delivery](images/visualizations_continuous_delivery.png)](http://continuousdelivery.com/2014/02/visualizations-of-continuous-delivery/)
 
@@ -317,6 +323,7 @@
 - [DevOps does not negate ITIL or ITSM; they can be leveraged for greater agility](http://www.itworldcanada.com/article/devops-does-not-negate-itil-or-itsm-they-can-be-leveraged-for-greater-agility)
 - [Operations is Dead, but Please Don’t Replace it with DevOps](http://diversity.net.nz/operations-is-dead-but-please-dont-replace-it-with-devops/2013/05/15/)
 - [ITSM vs. DevOps – Agility vs. Control – is this really battle royale?](http://www.vigilantguy.com/itsm-vs-devops-agility-vs-control-is-this-really-battle-royale/)
+- [ABCs of ITIL®](http://www.globalknowledge.com/training/whitepaperdetail.asp?pageid=502&wpid=1428)
 
 [![vandalismo car2go](images/car2go.jpg)](http://www.elmundo.es/madrid/2016/01/09/569179e6268e3e25218b462a.html)
 

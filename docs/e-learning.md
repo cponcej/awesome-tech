@@ -19,6 +19,7 @@
 
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
+- [Six Certification Exam Mistakes to Avoid](http://www.globalknowledge.com/training/generic.asp?pageid=3833)
 
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [twitter.com/udemy](https://twitter.com/udemy)
