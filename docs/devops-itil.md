@@ -121,6 +121,8 @@
 
 [![Puppet Labs 2015 State of DevOps Report](images/puppetlabs_state_of_devops_report_2015.jpg)](https://puppetlabs.com/2015-devops-report)
 
+[![DevOps for Dummies 2nd ed](images/DevOps_For_Dummies_2nd_ed_cover.jpg)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/tOdsxSB4MfwWj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CAinc/busting-the-five-biggest-devops-myths" title="Busting the Five Biggest DevOps Myths" target="_blank">Busting the Five Biggest DevOps Myths</a> </strong> from <strong><a href="//www.slideshare.net/CAinc" target="_blank">CA Technologies</a></strong> </div>
 </div>
