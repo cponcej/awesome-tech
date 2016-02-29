@@ -228,7 +228,7 @@
 - [Ofertas laborales para informáticos en Dubái](http://www.consejosgratis.es/ofertas-laborales-para-informaticos-en-dubai/)
 - [Lanzaderas de empleo 🌟](http://lanzaderasdeempleo.es/)
 	- [twitter.com/Lanzaderas_EES](https://twitter.com/Lanzaderas_EES)
-	- [Evaluación del impacto social de las Lanzaderas de Empleo](http://www.fundaciontelefonica.com/arte_cultura/publicaciones-listado/pagina-item-publicaciones/itempubli/486/)
+	- [Evaluación del impacto social de las Lanzaderas de Empleo 🌟](http://www.fundaciontelefonica.com/arte_cultura/publicaciones-listado/pagina-item-publicaciones/itempubli/486/)
 
 ![fight club](images/fight_club.gif)
 
