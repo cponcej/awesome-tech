@@ -113,11 +113,6 @@
 - [Docker, Red Hat & Linux: How containers can boost business and save time for developers](http://www.cbronline.com/news/enterprise-it/software/docker-red-hat-linux-how-containers-can-boost-business-and-save-time-for-developers-4816851)
 - [video: Dockerize your Development Workstation 🌟](http://nauts.io/videos/2016/02/09/dockerize-your-development-workstation/)
 
-<div class="container">
-<iframe width="960" height="540" src="https://www.youtube.com/embed/WVGRaApIwkU" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)
 
@@ -129,6 +124,11 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/Dk9c8VYYykVABw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/robertreiz/docker-ansible-51576034" title="Infrastructure Deployment with Docker &amp; Ansible" target="_blank">Infrastructure Deployment with Docker &amp; Ansible</a> </strong> from <strong><a href="//www.slideshare.net/robertreiz" target="_blank">Robert Reiz</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="960" height="540" src="https://www.youtube.com/embed/WVGRaApIwkU" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
