@@ -13,6 +13,9 @@
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134533644467" data-did="5149c43f6654210e160397d04d6c754abcfbba41"><a href="http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall">http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El día que Dywane Wade le hizo esto a Carmelo Anthony: <a href="https://t.co/ktjJhVtsyH">https://t.co/ktjJhVtsyH</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/704079484908146688">28 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Next Generation Firewalls (NGFW)
 - [Firewalls.com](http://www.firewalls.com/)
 	- [youtube channel: Firewalls.com](https://www.youtube.com/user/firewallsDotCom)
