@@ -45,6 +45,10 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - [Mark Cuban's 12 Rules for Startups 🌟](http://www.entrepreneur.com/article/222524)
 
+[![zdnet spain](images/zdnet_logo.png)](http://www.zdnet.com/blog/iberia/)
+
+[![barcelona vs madrid vs everywhere else](images/bcn_vs_madrid_startups.png)](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
+
 ### Startup Blogs, Documentaries and Talks
 - [entrepreneur.com 🌟](http://www.entrepreneur.com)
 - [soyentrepreneur.com](http://www.soyentrepreneur.com)
