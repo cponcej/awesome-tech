@@ -139,6 +139,7 @@
 - [googlecloudplatform.blogspot.com](http://googlecloudplatform.blogspot.com)
 	- [Google seeks new disks for data centers](http://googlecloudplatform.blogspot.com.es/2016/02/Google-seeks-new-disks-for-data-centers.html)
 	- [Spotify chooses Google Cloud Platform to power data infrastructure](http://googlecloudplatform.blogspot.com.es/2016/02/Spotify-chooses-Google-Cloud-Platform-to-power-data-infrastructure.html)
+- [zdnet: Spotify to move to Google Cloud](http://www.zdnet.com/article/spotify-to-switch-from-aws-to-google-cloud/) Spotify said its experience with Google's data platform and tools convinced the company to switch its so-called 'traditional' infrastructure to Google Cloud.
 
 ## AWS Gartner Report
 - [Gartner Critical Capabilities - Learn More ](https://aws.amazon.com/resources/gartner-cc-learn-more/)

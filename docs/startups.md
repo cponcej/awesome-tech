@@ -222,6 +222,7 @@
 - [portalparados.es](http://www.portalparados.es/)
 - [¿Cuáles son los países que más están contratando?](http://www.expansion.com/emprendedores-empleo/empleo/2016/01/04/568ac17b22601d123b8b4635.html)
 - [Ofertas laborales para informáticos en Dubái](http://www.consejosgratis.es/ofertas-laborales-para-informaticos-en-dubai/)
+- [Lanzaderas de empleo 🌟](http://lanzaderasdeempleo.es/)
 
 ![fight club](images/fight_club.gif)
 

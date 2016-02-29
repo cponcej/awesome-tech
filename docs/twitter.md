@@ -63,7 +63,7 @@
 
 
 # Newsletters
-- [keepupwithtechnology.com  🌟🌟🌟](http://www.keepupwithtechnology.com) Keeping up with technology made easier! This newsletter is a summary of the week's top content in the new technologies ecosystem. It helps you to discover new concepts, programming languages, frameworks, and to keep track of what is going on. It's aimed at innovators in the IT field or those trying to keep on top of the latest new technologies.
+- [keepupwithtechnology.com  🌟](http://www.keepupwithtechnology.com) Keeping up with technology made easier! This newsletter is a summary of the week's top content in the new technologies ecosystem. It helps you to discover new concepts, programming languages, frameworks, and to keep track of what is going on. It's aimed at innovators in the IT field or those trying to keep on top of the latest new technologies.
 
 # Newsfeeds (RSS Readers)
 - [Social Media Impact](http://socialmediaimpact.com/) The #1 Most Trusted Social Media News Site
@@ -125,14 +125,14 @@
 
 # Twitter Resources
 - Add twitter resources to your custom twitter lists or subscribe to someone else's lists.
-- [TweetDeck 🌟🌟🌟](https://tweetdeck.twitter.com)
+- [TweetDeck 🌟](https://tweetdeck.twitter.com)
 	- [TweetDeck, an easy way to monitor Twitter](http://www.kaleo.org/features/the-byte-tweetdeck-an-easy-way-to-monitor-twitter/article_eab23b50-bffd-11e5-836e-b7830032ddb4.html)
 - [Commun.it](https://commun.it) Easy Social Media Management
 
 ## Marketing Digital
 - [twitter.com/carlosblanco 🌟](https://twitter.com/carlosblanco)
 - [twitter.com/MATrabado](https://twitter.com/MATrabado)
-- [twitter.com/chemaalonso 🌟🌟🌟](https://twitter.com/chemaalonso)
+- [twitter.com/chemaalonso 🌟](https://twitter.com/chemaalonso)
 - [twitter.com/jose_garde](https://twitter.com/jose_garde)
 - [twitter.com/seniormanager](https://twitter.com/seniormanager)
 
@@ -140,7 +140,7 @@
 - [European IT Careers](https://twitter.com/EU_IT_Careers)
 
 ## IT Leaders
-- [twitter.com/martinfowler 🌟🌟🌟🌟🌟](https://twitter.com/martinfowler)
+- [twitter.com/martinfowler 🌟🌟🌟](https://twitter.com/martinfowler)
 
 ## Tech on Twitter
 - [twitter.com/DZone 🌟](https://twitter.com/DZone)
@@ -152,7 +152,7 @@
 - [twitter.com/devbattles](https://twitter.com/devbattles)
 
 ## DevOps on Twitter
-- [twitter.com/devopsdotcom 🌟🌟🌟](https://twitter.com/devopsdotcom)
+- [twitter.com/devopsdotcom 🌟](https://twitter.com/devopsdotcom)
 - [twitter.com/devopscube](https://twitter.com/devopscube)
 - [twitter.com/DevOpsSummit](https://twitter.com/DevOpsSummit)
 - [Enterprise DevOps](https://twitter.com/entdevops)
@@ -196,7 +196,7 @@
 - [twitter.com/SublimePackages 🌟](https://twitter.com/SublimePackages)
 
 ## Ansible on Twitter
-- [twitter.com/ansible 🌟🌟🌟🌟](https://twitter.com/ansible)
+- [twitter.com/ansible 🌟🌟](https://twitter.com/ansible)
 - [twitter.com/ansible4devops 🌟🌟](https://twitter.com/ansible4devops)
 	- [twitter.com/geerlingguy](https://twitter.com/geerlingguy)
 - [twitter.com/ansiblebook](https://twitter.com/ansiblebook)
@@ -218,9 +218,9 @@
 - [twitter.com/saltstack](https://twitter.com/saltstack)
 
 ## Docker on Twitter
-- [twitter.com/docker 🌟🌟🌟](https://twitter.com/docker)
-- [twitter.com/dockernews 🌟🌟🌟](https://twitter.com/dockernews)
-- [twitter.com/dockermachine 🌟🌟🌟🌟🌟](https://twitter.com/dockermachine)
+- [twitter.com/docker 🌟](https://twitter.com/docker)
+- [twitter.com/dockernews 🌟](https://twitter.com/dockernews)
+- [twitter.com/dockermachine 🌟🌟🌟](https://twitter.com/dockermachine)
 - [twitter.com/solomonstre](https://twitter.com/solomonstre)
 - [twitter.com/ContainerBlog](https://twitter.com/ContainerBlog)
 - [twitter.com/DockerCon](https://twitter.com/DockerCon)
@@ -270,14 +270,14 @@
 
 ## Cloud on Twitter
 ### AWS on Twitter
-- [twitter.com/awscloud 🌟🌟🌟](https://twitter.com/awscloud)
+- [twitter.com/awscloud 🌟](https://twitter.com/awscloud)
 - [twitter.com/AWSreInvent](https://twitter.com/AWSreInvent)
 - [twitter.com/jeffbarr](https://twitter.com/jeffbarr)
 - [twitter.com/AWSstartups 🌟](https://twitter.com/AWSstartups)
 - [twitter.com/AWS_Partners](https://twitter.com/AWS_Partners)
 
 #### AWS training on Twitter
-- [twitter.com/acloudguru 🌟🌟🌟🌟🌟](https://twitter.com/acloudguru)
+- [twitter.com/acloudguru 🌟🌟🌟](https://twitter.com/acloudguru)
 - [CloudAcademy twitter.com/CloudRank](https://twitter.com/CloudRank)
 
 ### Non AWS Clouds on Twitter
@@ -296,10 +296,10 @@
 [![CommitStrip Daily Stand-up](images/Strip-Daily-Standup.jpg)](http://www.commitstrip.com/en/2016/01/29/the-daily-stand-up/)
 
 ## Security on Twitter
-- [twitter.com/LinuxSec 🌟🌟🌟](https://twitter.com/LinuxSec)
-- [twitter.com/linuxs3c 🌟🌟🌟](https://twitter.com/linuxs3c)
-- [twitter.com/HackerNews 🌟🌟🌟](https://twitter.com/HackerNews)
-- [twitter.com/seclists 🌟🌟🌟](https://twitter.com/seclists)
+- [twitter.com/LinuxSec 🌟](https://twitter.com/LinuxSec)
+- [twitter.com/linuxs3c 🌟](https://twitter.com/linuxs3c)
+- [twitter.com/HackerNews 🌟](https://twitter.com/HackerNews)
+- [twitter.com/seclists 🌟](https://twitter.com/seclists)
 - [twitter.com/ehackingdotnet 🌟🌟](https://twitter.com/ehackingdotnet)
 - [twitter.com/sucurisecurity](https://twitter.com/sucurisecurity)
 - [twitter.com/csoonline](https://twitter.com/csoonline)
@@ -323,25 +323,25 @@
 
 ### Seguridad en Twitter
 - [twitter.com/Cryptodata 🌟🌟](https://twitter.com/Cryptodata) Informático enamorado del software libre. Seguridad, administración de sistemas.
-- [twitter.com/chemaalonso 🌟🌟🌟🌟🌟](https://twitter.com/chemaalonso)
+- [twitter.com/chemaalonso 🌟🌟🌟](https://twitter.com/chemaalonso)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136960409675" data-did="406ff527f71d482429b92a84fe7ed5c8c507cfd5"><a href="http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior">http://securityreactions.tumblr.com/post/136960409675/a-trojan-horse-trying-to-imitate-normal-behavior</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ### Firewalls on Twitter
-- [twitter.com/dellsecurity 🌟🌟🌟🌟🌟](https://twitter.com/dellsecurity)
+- [twitter.com/dellsecurity 🌟🌟🌟](https://twitter.com/dellsecurity)
 - [twitter.com/Fortinet](https://twitter.com/Fortinet)
 	- [twitter.com/fortiguardlabs](https://twitter.com/fortiguardlabs)
 
 ## Network Forensics on Twitter
-- [twitter.com/LauraChappell 🌟🌟🌟🌟🌟](https://twitter.com/LauraChappell)
+- [twitter.com/LauraChappell 🌟🌟🌟](https://twitter.com/LauraChappell)
 - [twitter.com/WiresharkNews 🌟](https://twitter.com/WiresharkNews)
 - [twitter.com/wiresharktweets](https://twitter.com/wiresharktweets)
 - [twitter.com/wiresharku](https://twitter.com/wiresharku)
-- [twitter.com/seguridadyredes 🌟🌟🌟🌟](https://twitter.com/seguridadyredes)
+- [twitter.com/seguridadyredes 🌟🌟](https://twitter.com/seguridadyredes)
 - [VividCortex: Network Forensics and Monitoring for MySQL and PostgreSQL](https://twitter.com/VividCortex)
-- [twitter.com/packetbomb 🌟🌟🌟🌟🌟](https://twitter.com/packetbomb)
+- [twitter.com/packetbomb 🌟🌟🌟](https://twitter.com/packetbomb)
 - [twitter.com/PacketJay](https://twitter.com/PacketJay)
-- [twitter.com/packetlife 🌟🌟🌟🌟🌟](https://twitter.com/packetlife/)
+- [twitter.com/packetlife 🌟🌟🌟](https://twitter.com/packetlife/)
 - [twitter.com/packetpushers](https://twitter.com/packetpushers)
 - [twitter.com/networkingnerd](https://twitter.com/networkingnerd)
 - [twitter.com/SharkFest_2016](https://twitter.com/SharkFest_2016)
@@ -354,15 +354,15 @@
 [![do not use wireshark](images/dont_use_wireshark.png)](https://twitter.com/packetbomb)
 
 ## Linux on Twitter
-- [@nixcraft 🌟🌟🌟🌟🌟](https://twitter.com/nixcraft)
+- [@nixcraft 🌟🌟🌟](https://twitter.com/nixcraft)
 - [UnixToolTip 🌟](https://twitter.com/UnixToolTip)
-- [Command Line Magic 🌟🌟🌟🌟](https://twitter.com/climagic)
+- [Command Line Magic 🌟🌟](https://twitter.com/climagic)
 - Commandlinefu:
 	- [commandlinefu](http://twitter.com/commandlinefu)
 	- [commandlinefu3](http://twitter.com/commandlinefu3)
-	- [commandlinefu10 🌟🌟🌟🌟🌟](http://twitter.com/commandlinefu10)
+	- [commandlinefu10 🌟🌟🌟](http://twitter.com/commandlinefu10)
 - [Shell OSS](https://twitter.com/oss_sh)
-- [Tecmint 🌟🌟🌟🌟🌟](https://twitter.com/tecmint)
+- [Tecmint 🌟🌟🌟](https://twitter.com/tecmint)
 - [Open Source Way 🌟](https://twitter.com/opensourceway) Discover an open source world. Tweets from http://opensource.com
 - [SysAdmHowto 🌟](https://twitter.com/SysAdmHowto)
 - [RegexTip](https://twitter.com/RegexTip)
@@ -378,11 +378,11 @@
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
 
 ## Red Hat on Twitter
-- [twitter.com/RedHatNews 🌟🌟🌟](https://twitter.com/RedHatNews)
+- [twitter.com/RedHatNews 🌟](https://twitter.com/RedHatNews)
 - [twitter.com/RedHatPartners](https://twitter.com/RedHatPartners)
 - [Red Hat Community 🌟](https://twitter.com/redhatopen)
 - [twitter.com/RedHat_Training](https://twitter.com/RedHat_Training)
-- [twitter.com/RHELdevelop 🌟🌟🌟](https://twitter.com/RHELdevelop)
+- [twitter.com/RHELdevelop 🌟](https://twitter.com/RHELdevelop)
 - [twitter.com/RedHatCloud](https://twitter.com/RedHatCloud)
 - [twitter.com/openshift](https://twitter.com/openshift)
 - [twitter.com/RedHatAtomic](https://twitter.com/RedHatAtomic)
@@ -449,9 +449,9 @@
 - [twitter.com/oracle_em](https://twitter.com/oracle_em)
 
 ## SQL and Big Data on Twitter. Data Analysis
-- [twitter.com/SciDataAnalytix 🌟🌟🌟](https://twitter.com/SciDataAnalytix)
-- [essentialsql.com's twitter 🌟🌟🌟🌟🌟](https://twitter.com/sqlkris)
-- [twitter.com/SQLPerfTips 🌟🌟🌟🌟](https://twitter.com/SQLPerfTips)
+- [twitter.com/SciDataAnalytix 🌟](https://twitter.com/SciDataAnalytix)
+- [essentialsql.com's twitter 🌟🌟🌟](https://twitter.com/sqlkris)
+- [twitter.com/SQLPerfTips 🌟🌟](https://twitter.com/SQLPerfTips)
 - [twitter.com/BigDataBlogs 🌟](https://twitter.com/BigDataBlogs)
 - [twitter.com/MySQL 🌟](https://twitter.com/MySQL)
 - [twitter.com/ScriptingMySQL 🌟](https://twitter.com/ScriptingMySQL)
@@ -471,6 +471,9 @@
 	11. [twitter.com/bethnoveck](https://twitter.com/bethnoveck)
 
 ![best datascience quote](images/jeff_hammerbacher.jpg)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Raspberry Pi 3 out now: Still $35 but up to 50 percent faster <a href="https://t.co/xSYE4hEGoH">https://t.co/xSYE4hEGoH</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/NickJHeath">@NickJHeath</a> <a href="https://t.co/ZX1qLIFg5k">pic.twitter.com/ZX1qLIFg5k</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/704281702118457344">29 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Clean code advocates. 
 - [David Whittaker 🌟](https://twitter.com/rundavidrun) Clean code advocate
@@ -500,10 +503,10 @@
 ## Python Django on Twitter
 - [twitter.com/djangoproject](https://twitter.com/djangoproject)
 - [twitter.com/TopDjangoNews](https://twitter.com/TopDjangoNews)
-- [twitter.com/AwesomeDjango 🌟🌟🌟](https://twitter.com/AwesomeDjango)
+- [twitter.com/AwesomeDjango 🌟](https://twitter.com/AwesomeDjango)
 
 ## Python and Data Science on Twitter
-- [Anaconda twitter.com/continuumio 🌟🌟🌟](https://twitter.com/continuumio)
+- [Anaconda twitter.com/continuumio 🌟](https://twitter.com/continuumio)
 - [twitter.com/IPythonDev 🌟](https://twitter.com/IPythonDev)
 - [twitter.com/PyData 🌟](https://twitter.com/PyData)
 - [twitter.com/analyticsvidhya](https://twitter.com/analyticsvidhya)
@@ -520,7 +523,7 @@
 - [twitter.com/javacodegeeks 🌟](https://twitter.com/javacodegeeks)
 - [twitter.com/Oraclejavamag 🌟](https://twitter.com/Oraclejavamag)
 - [twitter.com/javacert](https://twitter.com/javacert)
-- [twitter.com/JavaPerformance 🌟🌟🌟](https://twitter.com/JavaPerformance)
+- [twitter.com/JavaPerformance 🌟](https://twitter.com/JavaPerformance)
 - [twitter.com/JavaOneConf](https://twitter.com/JavaOneConf)
 - [Java StackOverflow](https://twitter.com/StackJava)
 - [Top Java at StackOverflow 🌟🌟](https://twitter.com/JavaTopSO)
@@ -550,8 +553,8 @@
 ![test code in production](images/test_code_in_production.jpg)
 
 ## Podcasts on Twitter
-- [twitter.com/WeDevelopers 🌟🌟🌟](https://twitter.com/WeDevelopers)
-- [thecloudcast.net 🌟🌟🌟](http://thecloudcast.net)
+- [twitter.com/WeDevelopers 🌟](https://twitter.com/WeDevelopers)
+- [thecloudcast.net 🌟](http://thecloudcast.net)
 	- [twitter.com/aarondelp](https://twitter.com/aarondelp)
 	- [https://twitter.com/bgracely](https://twitter.com/bgracely)
 - [twitter.com/talkpython](https://twitter.com/talkpython)

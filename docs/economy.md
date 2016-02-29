@@ -199,6 +199,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Price, past year<br><br>Crude oil: -43%<br>Natural gas: -32%<br>Gold: +1.2%<br>Silver: -7%<br>Copper: -22%<br>Iron: -29%<br>Nickel: -48%<br>Coal: -28%<br>Steel: -56%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702251619598008321">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Steel price.<br><br>June, 2008: $1,265<br><br>February, 2016: $210 <a href="https://t.co/3tWUA97xaL">pic.twitter.com/3tWUA97xaL</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/704285857881071616">29 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Share of global economy<br><br>US<br>1980: 25%<br>2014: 19.2%<br><br>EU<br>1980: 30.9%<br>2014: 18.4%<br><br>China<br>1980: 2.2%<br>2014: 16.6%<br><br>India<br>1980: 2.54%<br>2014: 5.96%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702236512746758145">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
