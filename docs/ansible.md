@@ -56,6 +56,7 @@
 - [Puppet is out, in comes Ansible](https://kanarip.wordpress.com/2016/01/28/puppet-is-out-in-comes-ansible/)
 - [F5 Deployment Automation Demo with Ansible](https://www2.wwt.com/f5-deployment-automation-demo-with-ansible/)
 - [Enabling DevOps Approach with Cisco NX-OS and Ansible](http://blogs.cisco.com/datacenter/devops)
+- [Deploying a Mesos based visual effects studios with Ansible](https://www.ansible.com/ansible-mesos-visual-effects)
 
 ## Ansible on Twitter
 - [twitter.com/ansible](https://twitter.com/ansible)

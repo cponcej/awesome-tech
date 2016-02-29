@@ -390,6 +390,7 @@
 	- [runscope.com](https://www.runscope.com/)
 - [Why Automated Testing is the key to rapid product development](https://nothingventured.rocks/why-automated-testing-is-the-key-to-rapid-product-development-e8b0a3d3040)
 - [certifications.bcs.org: ISTQB Certified Tester](http://certifications.bcs.org/category/15574)
+- [JavaScript Unit Test Code Coverage Using NodeJS](https://dzone.com/articles/javascript-unit-test-code-coverage-using-nodejs-1) Allow me to show you how to use Node.js to provide JavaScript unit test code coverage. The main tools we will be using to pull this off are Karma and Istanbul. The test we write will be using Jasmine.
 
 ### JUnit
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)

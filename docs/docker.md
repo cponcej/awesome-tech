@@ -112,6 +112,7 @@
 - [infoworld.com: Are containers ready for prime time yet? 🌟](http://www.infoworld.com/article/3019136/cloud-computing/are-containers-ready-for-prime-time-yet.html) "Is now really the right time to be adopting containers? Hell no"
 - [Docker, Red Hat & Linux: How containers can boost business and save time for developers](http://www.cbronline.com/news/enterprise-it/software/docker-red-hat-linux-how-containers-can-boost-business-and-save-time-for-developers-4816851)
 - [video: Dockerize your Development Workstation 🌟](http://nauts.io/videos/2016/02/09/dockerize-your-development-workstation/)
+- [Techniques and tools to reduce Docker image size](http://chrisstump.online/2016/02/23/docker-image-reduction-techniques-and-tools/)
 
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)

@@ -89,6 +89,10 @@
 
 		less +F filename.log 
 
+- Show the first and last 5 lines of the file 'log'.
+
+		(head -5; tail -5) < log
+		
 - Make less more like more, but still more than more. Percent of file in prompt, etc. 
 
 		export LESS='-sCmqPm--Less--(?eEND:%pb\%.)'
@@ -213,7 +217,7 @@
 - Print all from 3rd field to end of line. Very useful for log parsing.
 
 		awk '{ print substr($0, index($0,$3)) }' mail.log
-		
+
 - List 10 largest open file on Unix:
 
 		lsof /|awk '{ if($7>1048576) print $7/1048576 "MB" " " $9 " " $1 }'|sort -nu|tail 
