@@ -33,7 +33,7 @@
 	- [Docker 🌟](docker.md)
 10. [DevOps and ITIL 🌟🌟🌟](devops-itil.md)
 	- [Continuous Integration Tools. Jenkins, Git](jenkins-git.md)
-	- [Metrics 🌟](metrics.md)
+	- [Metrics. JMeter, Zabbix, APM 🌟](metrics.md)
 	- [Elasticsearch](elasticsearch.md)
 11. [Software Development](sw-devel.md)
     - [Sublime Text Editor 🌟](sublime.md)
