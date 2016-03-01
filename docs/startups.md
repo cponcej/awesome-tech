@@ -73,7 +73,7 @@
 	- [Tips para crear un buen curriculum para trabajar en Londres 🌟🌟](http://trabajarporelmundo.org/tips-para-crear-un-buen-curriculum-para-trabajar-en-londres/)
 - [spaniards.es](http://www.spaniards.es)
 - [Bristoleños: vivir en UK 🌟](http://bristolenos.com)
-	- [Guía definitiva para vivir en UK: Leer antes de emigrar](http://bristolenos.com/2015/06/08/guia-definitiva-para-vivir-en-uk-leer-antes-de-emigrar/)
+	- [Guía definitiva para vivir en UK: Leer antes de emigrar 🌟](http://bristolenos.com/2015/06/08/guia-definitiva-para-vivir-en-uk-leer-antes-de-emigrar/)
 	- [Los 30 lugares más desconocidos de Londres](http://bristolenos.com/2016/03/01/los-30-lugares-mas-desconocidos-de-londres/)
 - [Espanish in London 🌟](http://www.espanishinlondon.com)
 - ["I was born in London but I no longer recognise this city" 🌟🌟](http://www.economist.com/news/books-and-arts/21689519-how-british-capital-being-remade-beyond-glitter)
