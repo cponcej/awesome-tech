@@ -32,6 +32,8 @@
 - [MobaXterm](http://mobaxterm.mobatek.net/)
 - [Need an SSH client on Windows? Don't use Putty or CygWin...use Git](http://www.hurryupandwait.io/blog/need-an-ssh-client-on-windows-dont-use-putty-or-cygwinuse-git)
 
+[![pirates of silicon valley](images/pirates_of_silicon_valley.jpg)](https://vimeo.com/55439991)
+
 [![number of running windows dec 2015](images/number_of_win10.jpg)](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
 
 <div class="container">
