@@ -1,6 +1,8 @@
 **Table of Contents**
 <!-- MarkdownTOC -->
 
+- [Data Centers](#data-centers)
+	- [Centros de datos](#centros-de-datos)
 - [Cloud](#cloud)
 	- [Cloud Bogs](#cloud-bogs)
 	- [Non AWS Clouds on Twitter](#non-aws-clouds-on-twitter)
@@ -24,6 +26,21 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/17iFA4MCdt9EZx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TableauSoftware/top-10-cloud-trends-for-2016" title="Top 10 Cloud Trends for 2016" target="_blank">Top 10 Cloud Trends for 2016</a> </strong> from <strong><a href="//www.slideshare.net/TableauSoftware" target="_blank">Tableau Software</a></strong> </div>
 </div>
 <br/>
+
+# Data Centers
+- [datacentermap.com 🌟](http://www.datacentermap.com)
+- [Data Center Knowledge](http://www.datacenterknowledge.com/)
+- [Youtube: Iceland - A Growing Data Center Hub](https://www.youtube.com/watch?v=LH5lj4sARI0)
+- [RackTables.org - a datacenter asset management system](http://racktables.org/)
+
+## Centros de datos
+- [centrodedatos-datacenter.es](http://www.centrodedatos-datacenter.es)
+
+[![cdmon blog](images/cdmon_blog-748x350.jpg)](https://www.cdmon.com)
+
+[![ackstorm logo](images/ack_storm_logo.png)](http://www.ackstorm.com/)
+
+[![gigas company](images/gigas_company.png)](https://gigas.com/)
 
 # Cloud
 - [Cloud automation should be the heart of enterprise support -- it will decrease downtime, increase flexibility, and dramatically improve your provider’s ability to rapidly respond to service requests](https://www.linkedin.com/pulse/uk-cios-dissatisfied-cloud-providers-ryan-kroonenburg)

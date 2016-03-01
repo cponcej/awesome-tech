@@ -2,7 +2,6 @@
 <!-- MarkdownTOC -->
 
 - [Scalability](#scalability)
-	- [Scalability and Data Center Blogs](#scalability-and-data-center-blogs)
 	- [Scalability and Reliability. Distributed Systems](#scalability-and-reliability-distributed-systems)
 	- [Web Performance](#web-performance)
 	- [Scalability Solutions](#scalability-solutions)
@@ -12,13 +11,9 @@
 [![Bicycle parking at Delft Central Station](images/logo-bicycle-dutch.jpg)](https://bicycledutch.wordpress.com/2015/06/02/bicycle-parking-at-delft-central-station/)
 
 # Scalability
-## Scalability and Data Center Blogs
 - [highscalability.com 🌟🌟](http://highscalability.com/)
 	- [highscalability.com: Building nginx and Tarantool based services 🌟](http://highscalability.com/blog/2016/2/17/building-nginx-and-tarantool-based-services.html)
 - [All Things Distributed. Werner Vogels' weblog on building scalable and robust distributed systems](http://www.allthingsdistributed.com/)
-- [Data Center Knowledge](http://www.datacenterknowledge.com/)
-- [Youtube: Iceland - A Growing Data Center Hub](https://www.youtube.com/watch?v=LH5lj4sARI0)
-- [RackTables.org - a datacenter asset management system](http://racktables.org/)
 - [iheavy.com Scalable Startups](http://www.iheavy.com/) MySQL, AWS & Scalability Expert NYC
 
 [![If you think it's expensive to hire a professional](images/If-you-think-its-expensive-to-hire-a-professional.jpg)](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
