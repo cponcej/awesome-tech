@@ -15,6 +15,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![JFK economic growth](images/JFK_economic_growth.jpg)](http://izquotes.com/)
+
 # Economy
 - [World Economic Forum](http://www.weforum.org/)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing

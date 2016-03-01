@@ -6,6 +6,8 @@
 
 <!-- /MarkdownTOC -->
 
+![voltaire money](images/voltaire_money.jpg)
+
 # Economy Videos
 
 <div class="container">
