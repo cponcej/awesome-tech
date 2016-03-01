@@ -25,6 +25,7 @@
 	- [Server Hardening](#server-hardening)
 	- [Next Generation Firewalls](#next-generation-firewalls)
 	- [Major Security Vulnerabilities](#major-security-vulnerabilities)
+		- [Red Hat Vulnerabilities Catalog. Red Hat CVE Database.](#red-hat-vulnerabilities-catalog-red-hat-cve-database)
 		- [SQL injection](#sql-injection)
 		- [Windows Vulnerabilities](#windows-vulnerabilities)
 		- [Linux Vulnerabilities](#linux-vulnerabilities)
@@ -256,6 +257,9 @@
 - [Drupal Hardens Its Security in Response to Criticism. January 2016](http://www.eweek.com/security/drupal-hardens-its-security-in-response-to-criticism.html)
 - [New attacks on Network Time Protocol can defeat HTTPS and create chaos. October 2015](http://arstechnica.com/security/2015/10/new-attacks-on-network-time-protocol-can-defeat-https-and-create-chaos/)
 - [seguridadapple.com: Las apps bancarias en iOS siguen teniendo debilidades respecto a 2013](http://www.seguridadapple.com/2015/12/las-apps-bancarias-en-ios-siguen.html)
+
+### Red Hat Vulnerabilities Catalog. Red Hat CVE Database.
+- [Vulnerability Responses 🌟🌟](https://access.redhat.com/security/vulnerabilities/) Large scale security vulnerabilities like the ones below receive special attention from Red Hat Product Security. In order to create the best experience possible for our customers during these critical moments, a specialized vulnerability page is created within the Red Hat Product Security Center which aggregates information, diagnostic tools, and updates in one easy-to-use interface. This list is a catalog of these pages.
 
 ### SQL injection
 - [SQL injection 🌟](sql_injection.md)
