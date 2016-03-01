@@ -249,6 +249,7 @@
 - [businessinsider.com: The 13 worst things about Silicon Valley](http://www.businessinsider.com/the-dark-side-of-silicon-valley-2016-1)
 - [Laid-off IT workers muzzled as H-1B debate heats up](http://www.cio.com/article/3027539/outsourcing/laid-off-it-workers-muzzled-as-h-1b-debate-heats-up.html)
 
+[![bill clinton](images/bill_clinton_new_economy.png)](http://www.relatably.com/q/economy-quotes)
 ______________________________________________________________________________________________________________________________________
 
 ## Referencias 
