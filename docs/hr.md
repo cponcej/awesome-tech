@@ -246,6 +246,8 @@
 - [The (Depressing) Truth About Applying To Jobs Online 🌟](https://www.linkedin.com/pulse/depressing-truth-applying-jobs-online-j-t-o-donnell)
 - [businessinsider.com: The CEO of billion-dollar startup Slack starts every job interview with this question — and it reveals a lot about him](http://www.businessinsider.com/slack-ceo-starts-job-interviews-with-this-question-2016-2)
 
+[![Voltaire judge a man by his questions](images/voltaire_judge_a_man_by_his_questions.jpg)](http://statusmind.com/)
+
 ### Salary Negotiation 
 - [Sorry, Recruiters! My Salary History Is None of Your Business 🌟](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
 - [4 Steps to Negotiating a Great Salary](http://www.inc.com/jt-odonnell/4-steps-to-negotiating-a-great-salary.html) Here's how to get employers to pay you what you want.

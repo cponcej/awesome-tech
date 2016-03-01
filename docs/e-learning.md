@@ -81,6 +81,8 @@
 </div>
 <br/>
 
+[![voltaire education](images/voltaire_education.jpg)](http://statusmind.com/)
+
 ## Free e-learning
 - [e-learning.zeef.com: list of free e-learning tools](https://e-learning.zeef.com)
 - [Flo-Joe: THE place on the web for Cambridge exam preparation](http://www.flo-joe.co.uk/) 
@@ -139,3 +141,5 @@
 [![a cloud  guru](images/acloudguru_black.png)](https://acloud.guru)
 
 [![dilbert sales](images/dilbert_sales.jpg)](http://dilbert.com/)
+
+[![Ralph Emerson to work productively](images/ralph_emerson_work_productively.jpg)](http://statusmind.com/)
