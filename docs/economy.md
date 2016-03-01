@@ -290,6 +290,7 @@ ________________________________________________________________________________
 	- [La muerte del comercio mundial y sobredosis de heroína (E835)](https://youtu.be/1m_NODT6I8g)
 	- [Mentiras, evasivas, disparates, odios y esquizofrenia (E839)](https://youtu.be/yWoeZsZdaxs)
 	- [Época de recesiones (E840) 🌟](https://youtu.be/esnj2lfr4zA)
+    - [La extinción del universo financiero (E880) 🌟](https://www.youtube.com/watch?v=UWfzb0l1jV4)
 - [Una de mates: Media y mediana (sueldos)](https://youtu.be/lynZYPTVelw)
 - [El sarcasmo de Niño Becerra con la economía española y su visión sobre la recesión mundial](http://www.bolsamania.com/noticias/economia/el-sarcasmo-de-nino-becerra-con-la-economia-espanola--1029719.html)
 - [Economistas frente a la crisis](http://economistasfrentealacrisis.com/)

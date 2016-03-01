@@ -321,6 +321,7 @@
 - [10 verdades personales sobre los portales de empleo 🌟🌟](http://yoriento.com/2009/09/10-verdades-sobre-los-portales-de-empleo-602.html/)
 - [Esto es lo que Google ha averiguado sobre por qué hay equipos de trabajo que fracasan y otros que funcionan](http://magnet.xataka.com/en-diez-minutos/esto-es-lo-que-google-ha-averiguado-sobre-por-que-hay-equipos-de-trabajo-que-fracasan-y-otros-que-funcionan)
 - [¿Por qué no te contratan si eres el candidato perfecto?](http://www.eleconomista.es/emprendedores-pymes/noticias/6784455/06/15/Por-que-no-te-contratan-si-eres-el-candidato-perfecto.html)
+- [Hacer la pelota al jefe es malo para el negocio, dicen expertos](http://www.eleconomista.es/mercados-cotizaciones/noticias/1165153/04/09/Hacer-la-pelota-al-jefe-es-malo-para-el-negocio-dicen-expertos.html)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
