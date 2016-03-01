@@ -241,6 +241,7 @@
 - [careerealism.com: How To Spot A Jerk Boss During An Interview](http://www.careerealism.com/jerk-boss-interview/)
 - [mashable.com: 3 professional ways to bring up your personal life during the job search](http://mashable.com/2016/02/25/talk-personal-life-job-search/)
 - [The (Depressing) Truth About Applying To Jobs Online 🌟](https://www.linkedin.com/pulse/depressing-truth-applying-jobs-online-j-t-o-donnell)
+- [businessinsider.com: The CEO of billion-dollar startup Slack starts every job interview with this question — and it reveals a lot about him](http://www.businessinsider.com/slack-ceo-starts-job-interviews-with-this-question-2016-2)
 
 ### Salary Negotiation 
 - [Sorry, Recruiters! My Salary History Is None of Your Business 🌟](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
