@@ -92,6 +92,8 @@
 ### Barcelona startups
 - [Barcinno.com: Barcelona Tech, Startups and Innovation 🌟](http://www.barcinno.com/)
 - [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
+- [Barcelona Activa](http://www.barcelonactiva.cat/barcelonactiva)
+	- [Barcelona Activa - Parc Tecnològic](http://empresa.barcelonactiva.cat/empresa/cat/serveis/parc/index.jsp)
 - [Eurecat TIC](http://eurecat.org/en/sectors/itc/)
 - [BCNanalytics.com](http://bcnanalytics.com/)
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
@@ -100,6 +102,11 @@
 - [Tres días de infierno vendiendo 'startups' en la mayor feria mundial del móvil 🌟](http://www.elconfidencial.com/tecnologia/2016-02-25/tres-dias-de-infierno-vendiendo-startups-en-la-mayor-feria-de-telefonia-del-mundo_1157974/)
 
 [![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.grifolsacademy.com/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhO-ar0la-s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4qmS6Lz2W7c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
