@@ -77,3 +77,4 @@
 </div>
 <br>
 
+[![economy navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
