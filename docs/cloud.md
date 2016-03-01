@@ -29,6 +29,7 @@
 
 # Data Centers
 - [datacentermap.com 🌟](http://www.datacentermap.com)
+	- [datacentermap.com/spain](http://www.datacentermap.com/spain/)
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 - [Youtube: Iceland - A Growing Data Center Hub](https://www.youtube.com/watch?v=LH5lj4sARI0)
 - [RackTables.org - a datacenter asset management system](http://racktables.org/)
