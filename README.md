@@ -20,5 +20,5 @@ A curated list of awesome IT projects and resources collected between 2014 and 2
 
 # License
 
-This work is licensed under a [MIT](https://opensource.org/licenses/MIT) license.
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
