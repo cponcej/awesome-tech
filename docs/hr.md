@@ -164,6 +164,8 @@
 - [workplace.stackexchange.com: Staying late for appearance?](http://workplace.stackexchange.com/questions/50655/staying-late-for-appearance)
 - [cityam.com: I've been passed over for a promotion: Should I move jobs? 🌟](http://www.cityam.com/234517/debretts-ask-the-expert-ive-been-passed-over-for-a-promotion-should-i-move-jobs) 
 
+![voltaire disagreement](images/voltaire_disagreement.jpg)
+
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
 <div class="container">
