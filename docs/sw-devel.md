@@ -160,8 +160,6 @@
 	- [eclipse marketplace: IBM Monitoring and Diagnostic Tools - Health Center](http://marketplace.eclipse.org/content/ibm-monitoring-and-diagnostic-tools-health-center)
 - [IntelliJ IDEA 16 EAP Improves Debugger and Adds Git Worktree Support](https://dzone.com/articles/intellij-idea-16-eap-improves-debugger-and-adds-gi) A new patch brings several new features to IntelliJ, including the use of Groovy expressions when debugging a Java application and VC integration.
 
-[![how i feel after 15 years of vim](images/vim_after_15years.png)](https://www.youtube.com/watch?v=PjeKA_ttPMU&feature=youtu.be&t=31m15s)
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I feel after ~15 yrs using VIM: <a href="https://t.co/CwQCt54MRK">https://t.co/CwQCt54MRK</a></p>&mdash; Stephen Beck (@altphi) <a href="https://twitter.com/altphi/status/688542838385192961">17 de enero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
