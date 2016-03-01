@@ -19,6 +19,8 @@
 
 [![Ronald Reagan economy](images/ronald_reagan_economy.jpg)](http://izquotes.com/)
 
+[![nikita khrushchev economics](images/nikita-khrushchev_economics.jpg)](http://izquotes.com/)
+
 # Economy
 - [World Economic Forum](http://www.weforum.org/)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
