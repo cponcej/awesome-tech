@@ -19,4 +19,4 @@
 </div>
 <br/>
 
-[![voltaire optimism](images/voltaire_optimism.jpg)](http://statusmind.com/)
+

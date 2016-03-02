@@ -50,4 +50,5 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 </div>
 <br/>
 
+[![voltaire optimism](images/voltaire_optimism.jpg)](http://statusmind.com/)
 
