@@ -332,6 +332,7 @@
 - [drownattack.com 🌟](https://drownattack.com)
 - [Red Hat Article - DROWN: Cross-protocol attack on TLS using SSLv2 (CVE-2016-0800)](https://access.redhat.com/articles/2176731) 
 - [Red Hat Vulnerability Article](https://access.redhat.com/security/vulnerabilities/drown)
+- [Patching your systems for DROWN doesn’t have to be a big deal thanks to Ansible](https://www.ansible.com/blog/drown-openssl-vulnerability)
 
 ## Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments

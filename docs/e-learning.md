@@ -126,6 +126,8 @@
 - [CloudAcademy](https://cloudacademy.com/)
 	- [AWS Certification Books: free e-book downloads](http://cloudacademy.com/blog/aws-certification-book/)
 	- [AWS Certified Developer Fundamentals](https://cloudacademy.com/learning-paths/aws-certified-developer-fundamentals/)
+- [Global Knowledge is named as Amazon Web Services (AWS) Authorized Training Provider in the UK 🌟](http://www.trainingpressreleases.com/news/global-knowledge/2016/global-knowledge-is-named-as-amazon-web-services-aws-authorized-training-provider-in-the-uk)
+	- [www.globalknowledge.co.uk/aws 🌟🌟](http://www.globalknowledge.co.uk/aws)
 - [AWS Solutions Architect – Education options. Good blog on AWS certification options](http://nimbusarchitect.us/blog/?p=7)
 - [deals.slashdot.org: AWS Engineer Certification Bundle](https://deals.slashdot.org/sales/aws-associate-certification-bundle)
 - [slashdot.org: Project Management Certification Bundle](https://deals.slashdot.org/sales/pmp-certification-bundle) 6 Foolproof Training Courses: Ace the Globally-Recognized Project Management Professional Exam

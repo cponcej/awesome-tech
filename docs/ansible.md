@@ -14,6 +14,7 @@
     - [Oracle via Ansible](#oracle-via-ansible)
     - [Elasticsearch via Ansible](#elasticsearch-via-ansible)
     - [Provisioning Docker containers with Ansible](#provisioning-docker-containers-with-ansible)
+    - [Security with Ansible](#security-with-ansible)
     - [Network Automation with Ansible](#network-automation-with-ansible)
 
 <!-- /MarkdownTOC -->
@@ -165,6 +166,11 @@
 
 ## Provisioning Docker containers with Ansible
 - [ibm.com: Provisioning Docker containers with Ansible](https://www.ibm.com/developerworks/cloud/library/cl-provision-docker-containers-ansible/)
+
+## Security with Ansible
+- [Fixing Heartbleed with Ansible](http://www.ansible.com/blog/fixing-heartbleed-with-ansible)
+- [Ansible.com shellshock](http://www.ansible.com/blog/shellshock)
+- [Patching your systems for DROWN doesn’t have to be a big deal thanks to Ansible](https://www.ansible.com/blog/drown-openssl-vulnerability)
 
 ## Network Automation with Ansible
 - [ansible.com/networks](https://www.ansible.com/networks)
