@@ -32,6 +32,7 @@
 	- [datacentermap.com/spain](http://www.datacentermap.com/spain/)
 - [Data Center Knowledge](http://www.datacenterknowledge.com/)
 - [Youtube: Iceland - A Growing Data Center Hub](https://www.youtube.com/watch?v=LH5lj4sARI0)
+- [hostgeni.net](http://www.hostgeni.net) Discover who is hosting any website 
 - [RackTables.org - a datacenter asset management system](http://racktables.org/)
 
 ## Centros de datos

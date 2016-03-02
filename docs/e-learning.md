@@ -140,6 +140,8 @@
 
 [![aba english](images/logo-aba-english.png)](http://www.abaenglish.com)
 
+[![tagus casadellibro](images/tagus_reader.jpg)](http://www.casadellibro.com/Mundo-Tagus)
+
 [![a cloud  guru](images/acloudguru_black.png)](https://acloud.guru)
 
 [![dilbert sales](images/dilbert_sales.jpg)](http://dilbert.com/)

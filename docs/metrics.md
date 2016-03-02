@@ -18,7 +18,6 @@
 
 <!-- /MarkdownTOC -->
 
-
 # Metrics
 ## Performance Testing. Traffic injectors
 ### JMeter

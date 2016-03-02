@@ -151,6 +151,8 @@
 ## WiFi Products
 - [twitter.com/wifisafespain](https://twitter.com/wifisafespain)
 
+[![wifisafe](images/wifisafe-marca.jpg)](https://www.wifisafe.com/)
+
 ## WebPerf and Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
 	- [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
