@@ -3,6 +3,7 @@
 - [Barcelona Tech, Startups and Innovation](#barcelona-tech-startups-and-innovation)
 
 <!-- /MarkdownTOC -->
+[![carretera de les aigues barcelona](images/carretera-de-les-aigues-barcelona.jpg)](http://www.quesecueceenbcn.com/2013/03/01/fin-de-semana-en-barcelona-carretera-de-les-aigues/)
 
 # Barcelona Tech, Startups and Innovation
 - [Barcinno.com: Barcelona Tech, Startups and Innovation 🌟](http://www.barcinno.com/)
@@ -87,5 +88,3 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Our story featured on <a href="https://twitter.com/FT">@FT</a> about how we help companies grow - thanks <a href="https://twitter.com/richnewton">@richnewton</a> <a href="https://t.co/UvFDGDQeYt">https://t.co/UvFDGDQeYt</a> <a href="https://twitter.com/Brian_Pallas">@Brian_Pallas</a> <a href="https://twitter.com/enricasgh">@enricasgh</a> <a href="https://twitter.com/hashtag/weareON?src=hash">#weareON</a></p>&mdash; Opportunity Network (@OpportNetwork) <a href="https://twitter.com/OpportNetwork/status/701786268045287424">22 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[![carretera de les aigues barcelona](images/carretera-de-les-aigues-barcelona.jpg)](http://www.quesecueceenbcn.com/2013/03/01/fin-de-semana-en-barcelona-carretera-de-les-aigues/)
