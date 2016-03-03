@@ -44,6 +44,8 @@
 
 [![gigas company](images/gigas_company.png)](https://gigas.com/)
 
+[![fintech spain](images/fintech_spain.jpg)](http://cincodias.com/cincodias/2016/03/02/mercados/1456946299_157115.html)
+
 # Cloud
 - [Cloud automation should be the heart of enterprise support -- it will decrease downtime, increase flexibility, and dramatically improve your provider’s ability to rapidly respond to service requests](https://www.linkedin.com/pulse/uk-cios-dissatisfied-cloud-providers-ryan-kroonenburg)
 - [Netflix: Linux performance analysis in 60 seconds](http://www.infoworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
