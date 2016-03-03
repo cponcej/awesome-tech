@@ -177,6 +177,7 @@
 - [Ansible charges into network automation with Cisco, Juniper](http://www.theregister.co.uk/2016/02/18/ansible_dives_into_network_automation/) But where's Huawei? 
 - [Moving to the DevOps Model with Cisco and Ansible](http://blogs.cisco.com/cloud/moving-to-the-devops-model-with-cisco-and-ansible)
 - [ansible.com: Managing your Cisco data center network with ansible](https://www.ansible.com/ansible-cisco-data-center)
+- [Arista + Ansible: A Dramatically Simple New Approach](https://eos.arista.com/arista-ansible-a-dramatically-simple-new-approach/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">. <a href="https://twitter.com/redhat">@RedHat</a> <a href="https://twitter.com/ansible">@Ansible</a> applies its IT automation capabilities to the network <a href="https://t.co/pjHwvSjlKx">https://t.co/pjHwvSjlKx</a></p>&mdash; The New Stack (@thenewstack) <a href="https://twitter.com/thenewstack/status/700391369190338560">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
