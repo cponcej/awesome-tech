@@ -195,6 +195,10 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 11 AWS IAM Best Practices <a href="https://t.co/VnLgDpCo5c">https://t.co/VnLgDpCo5c</a></p>&mdash; Gin soaked boy (@integralist) <a href="https://twitter.com/integralist/status/692697411014234112">enero 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Big news: We acquired Critical Path making us undisputed leader in white-label messaging systems <a href="https://twitter.com/hashtag/acquisition?src=hash">#acquisition</a> <a href="https://twitter.com/hashtag/pe?src=hash">#pe</a> <a href="http://t.co/ekq2da5Thr">http://t.co/ekq2da5Thr</a></p>&mdash; Openwave Messaging (@owMessaging) <a href="https://twitter.com/owMessaging/status/408234441564114944">4 de diciembre de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cable/broadband operators fear losing content to OTT players but still take the risk says Incognito Software survey <a href="http://t.co/VjVL3DRorO">http://t.co/VjVL3DRorO</a></p>&mdash; Openwave Messaging (@owMessaging) <a href="https://twitter.com/owMessaging/status/363444597038383104">2 de agosto de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Big Data Security
 - [[2014] Big Data y Privacidad por Chema Alonso](https://youtu.be/_oeqjepFkEY)
 - [Panopticlick.eff.org: Is your browser safe against tracking?](https://panopticlick.eff.org/)
