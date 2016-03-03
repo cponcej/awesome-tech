@@ -6,6 +6,7 @@
 [![carretera de les aigues barcelona](images/carretera-de-les-aigues-barcelona.jpg)](http://www.quesecueceenbcn.com/2013/03/01/fin-de-semana-en-barcelona-carretera-de-les-aigues/)
 
 # Barcelona Tech, Startups and Innovation
+- [Grupo Intercom](http://www.grupointercom.com/)
 - [Barcinno.com: Barcelona Tech, Startups and Innovation 🌟](http://www.barcinno.com/)
 - [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
 - [Barcelona Activa](http://www.barcelonactiva.cat/barcelonactiva)
@@ -54,6 +55,8 @@
 </div>
 <br/>
 
+<div  style="width:100%;padding-top:64%;position:relative;border-bottom:1px solid #aaa;display:inline-block;background:#eee;background:rgba(255,255,255,0.9);"  >    <iframe frameborder="0" src="http://www.rtve.es/drmn/embed/video/3359074"            name="Projectes: Scytl, Votar on line " scrolling="no" style="width:100%;height:90%;position:absolute;left:0;top:0;overflow:hidden;"  ></iframe>    <div style="position:absolute;bottom:0;left:0;font-family:arial,helvetica,sans-serif;font-size:12px;line-height:1.833;display:inline-block;padding:5px 0 5px 10px;">        <span style="float:left;margin-right:10px;"><img                style="height:20px;width:auto;background: transparent;padding:0;margin:0;"                src="http://img.irtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVEes.png"></span> <a            style="color:#333;font-weight:bold;" title="Projectes: Scytl, Votar on line "            href="http://www.rtve.es/alacarta/videos/tinc-una-idea/tinc-idea-projectes-scytl-votar-on-line/3359074/"><strong>Projectes: Scytl, Votar on line </strong></a></div></div>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Courses?src=hash">#Courses</a>@CRG: Biological Super-Resolution Microscopy, 2-5 May 2016. Registration deadline: March 4, 2016 <a href="https://t.co/LRXeKqzxn9">https://t.co/LRXeKqzxn9</a></p>&mdash; CRG (@CRGenomica) <a href="https://twitter.com/CRGenomica/status/705095807712763907">2 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -88,3 +91,15 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Our story featured on <a href="https://twitter.com/FT">@FT</a> about how we help companies grow - thanks <a href="https://twitter.com/richnewton">@richnewton</a> <a href="https://t.co/UvFDGDQeYt">https://t.co/UvFDGDQeYt</a> <a href="https://twitter.com/Brian_Pallas">@Brian_Pallas</a> <a href="https://twitter.com/enricasgh">@enricasgh</a> <a href="https://twitter.com/hashtag/weareON?src=hash">#weareON</a></p>&mdash; Opportunity Network (@OpportNetwork) <a href="https://twitter.com/OpportNetwork/status/701786268045287424">22 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fórmate en Contabilidad, Secretariado, Facturación y Almacén por tan sólo 25 € con <a href="https://twitter.com/KDLFormacion">@KDLFormacion</a>. <a href="https://t.co/vE3XBuZvMj">https://t.co/vE3XBuZvMj</a>.</p>&mdash; Emagister (@emagister) <a href="https://twitter.com/emagister/status/678368218164035584">20 de diciembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Gmail?src=hash">#Gmail</a>&#39;s new security feature you should know about. <a href="https://t.co/Eb7hmbjZyh">https://t.co/Eb7hmbjZyh</a></p>&mdash; Softonic (@softonic) <a href="https://twitter.com/softonic/status/697570760295063552">11 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Guía para un viaje <a href="https://twitter.com/hashtag/LowCost?src=hash">#LowCost</a> a <a href="https://twitter.com/hashtag/Barcelona?src=hash">#Barcelona</a> <a href="https://t.co/6W6tTMv8JF">https://t.co/6W6tTMv8JF</a> <a href="https://twitter.com/hashtag/gu%C3%ADas?src=hash">#guías</a> <a href="https://t.co/Vu2v4nPSVr">pic.twitter.com/Vu2v4nPSVr</a></p>&mdash; eDreams España (@eDreams_es) <a href="https://twitter.com/eDreams_es/status/705325601532436481">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Our CEO is speaking at the Apple Store of Pg. de Gràcia, on Friday. Sign up here <a href="https://t.co/9ueTxo5zmR">https://t.co/9ueTxo5zmR</a> <a href="https://twitter.com/hashtag/AppleStore?src=hash">#AppleStore</a> <a href="https://t.co/4aJY3QTwEK">pic.twitter.com/4aJY3QTwEK</a></p>&mdash; Social Point (@socialpoint) <a href="https://twitter.com/socialpoint/status/673912129255272448">7 de diciembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
