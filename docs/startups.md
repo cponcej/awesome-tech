@@ -151,6 +151,8 @@
 </div>
 <br/>
 
+[![fintech spain](images/fintech_spain.jpg)](http://cincodias.com/cincodias/2016/03/02/mercados/1456946299_157115.html)
+
 [![parque el capricho](images/parque-el-capricho.jpg)](http://www.madridtourist.info/caprice_park.html)
 
 ## Worst tech mergers and acquisitions
