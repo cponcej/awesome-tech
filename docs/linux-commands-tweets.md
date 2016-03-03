@@ -52,8 +52,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">apropos is a useful utility when you don&#39;t know which man page it is you need on. Find command that remove file:<br><br>apropos remove<br>man -k word</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700277112985382912">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Prepend cd to directory names &amp; correct spelling errors too on a Unix/Linux bash shell:<br><br>shopt -s autocd<br>shopt -s dirspell<br>shopt -s cdspell</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705113908839755776">2 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux / UNIX  Recursively Search All Files For A String <a href="https://t.co/8FajUKEba7">https://t.co/8FajUKEba7</a></p>&mdash; M Akbar Marwan (@akbardotinfo) <a href="https://twitter.com/akbardotinfo/status/700165166193778688">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Prepend cd to directory names &amp; correct spelling errors too on a Unix/Linux bash shell:<br><br>shopt -s autocd<br>shopt -s dirspell<br>shopt -s cdspell</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705113908839755776">2 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
