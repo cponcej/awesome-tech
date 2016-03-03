@@ -36,7 +36,12 @@
 <br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/aaTeTVrvv02Lm6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Ericsson_ES/el-camino-hacia-la-5-g-rev-a" title="El camino hacia la 5G - Isidro Nieto from Ericsson at VI Jornadas Cátedras Telefonica UPM (Nov 6, Madrid)" target="_blank">El camino hacia la 5G - Isidro Nieto from Ericsson at VI Jornadas Cátedras Telefonica UPM (Nov 6, Madrid)</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/Ericsson_ES">Ericsson España</a></strong> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rpE2H7XKMkE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aDGzPMI5DDw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
