@@ -79,7 +79,7 @@
 - [London, I love you, but you’re bringing me down 🌟](http://matadornetwork.com/notebook/london-love-youre-bringing/)
 - [Para vivir en Irlanda](http://www.paravivirenirlanda.com)
 - [Quiero ir a vivir a Dublin](http://quieroiraviviradublin.blogspot.com.es)
-	- [nodogmapodcast: #41 Ken Finnegan, What Ireland Offers the Tech World 🌟](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
+	- [no dogma podcast: What Ireland Offers the Tech World 🌟](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
 - [Berlín en español](http://berlinenespanol.net)
 - [Asociación española de profesionales en Holanda](http://profesionalesholanda.org)
 
