@@ -36,6 +36,7 @@
 		- [Networking FOSS Tools](#networking-foss-tools)
 		- [Networking CLI and settings](#networking-cli-and-settings)
 	- [Linux Security](#linux-security)
+		- [Linux SSH](#linux-ssh)
 		- [Rsync](#rsync)
 		- [iptables](#iptables)
 		- [SELinux, AppArmor and OpenSCAP](#selinux-apparmor-and-openscap)
@@ -459,11 +460,7 @@
 ## Linux Security
 - [tecmint.com: 25 Hardening Security Tips for Linux Servers](http://www.tecmint.com/linux-server-hardening-security-tips/)
 - [CentOS 7 Server Hardening Guide](https://www.smittix.co.uk/centos-7-server-hardening-guide/)
-- [keychain: Set Up Secure Passwordless SSH Access For Backup Scripts 🌟🌟🌟](http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
-- [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
 - [Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands](http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/)
-- [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
-- [Top 20 OpenSSH Server Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 - [20 Linux Server Hardening Security Tips](http://www.cyberciti.biz/tips/linux-security.html)
 - [Top 20 Nginx WebServer Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
 - [Mitigating DDoS Attacks with NGINX and NGINX Plus](https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/)
@@ -475,9 +472,17 @@
 - [7 Awesome Open Source Cloud Storage Software For Your Privacy and Security](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [webcodegeeks.tradepub.com free ebook: Securing & Optimizing Linux: The Hacking Solution (v.3.0)](http://webcodegeeks.tradepub.com/free/w_opeb01/)
 - [How to block an IP address with ufw on Ubuntu Linux server](http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/)
+- [How To: Ubuntu Linux Firewall Open Port Command 🌟](http://www.cyberciti.biz/faq/how-to-open-firewall-port-on-ubuntu-linux-12-04-14-04-lts/)
 - [How Do I Drop or Block Attackers IP Address With Null Routes On a Linux?](http://www.cyberciti.biz/tips/how-do-i-drop-or-block-attackers-ip-with-null-routes.html)
-- [Secure Your Linux Desktop and SSH Login Using Two Factor Google Authenticator](http://www.cyberciti.biz/open-source/howto-protect-linux-ssh-login-with-google-authenticator/)
 - [Find Out If Patch Number (CVE) Has Been Applied To RHEL/CentOS Linux](http://www.cyberciti.biz/faq/linux-find-out-patch-can-cve-applied/)
+
+### Linux SSH
+- [keychain: Set Up Secure Passwordless SSH Access For Backup Scripts 🌟🌟🌟](http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/)
+- [ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys](http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/)
+- [Top 20 OpenSSH Server Best Security Practices](http://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
+- [Secure Your Linux Desktop and SSH Login Using Two Factor Google Authenticator](http://www.cyberciti.biz/open-source/howto-protect-linux-ssh-login-with-google-authenticator/)
+- [Building Effective SSH User Key Management: Three Best Practices](http://it.tmcnet.com/topics/it/articles/2016/02/25/418060-building-effective-ssh-user-key-management-three-best.htm)
+- [When privileged access means controlling the lock: Best practices to protect what's yours](http://gsnmagazine.com/article/46166/when_privileged_access_means_controlling_lock_best)
 
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)

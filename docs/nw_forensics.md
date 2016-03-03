@@ -85,6 +85,7 @@
 	- [HTCIA | High Technology Crime Investigation Association](https://www.htcia.org/)
 - [Fiddler is an HTTP debugging proxy server that complements Firefox or Chrome devtools (F12 key)](http://www.telerik.com/fiddler)
 	- [Fiddler, un proxy para depurar aplicaciones](http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones)
+	- [slideshare: Debugging with Fiddler](http://www.slideshare.net/idof/debugging-with-fiddler)
 - [TRANSUM Wireshark Plugin. Some Wireshark dissectors provide response time measurement values, but what gets measured is not ideal for performance analysis work](http://www.tribelabzero.com/transum)
 	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
 - [Corvil.com Network Data Analsysis. Free eBook: Understanding Packet Loss](http://corvil.com/resources/white-papers/ebook-understanding-packet-loss)
@@ -111,6 +112,11 @@
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Mp1hpMOjk6c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MoJJdezWYicCvT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/idof/debugging-with-fiddler" title="Debugging with Fiddler" target="_blank">Debugging with Fiddler</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/idof">Ido Flatow</a></strong> </div>
 </div>
 <br>
 
