@@ -15,13 +15,13 @@
 
 <!-- /MarkdownTOC -->
 
+![voltaire comfort of the rich](images/voltaire_comfort_of_the_rich.jpg)
+
 [![JFK economic growth](images/JFK_economic_growth.jpg)](http://izquotes.com/)
 
 [![Ronald Reagan economy](images/ronald_reagan_economy.jpg)](http://izquotes.com/)
 
 [![nikita khrushchev economics](images/nikita-khrushchev_economics.jpg)](http://izquotes.com/)
-
-![voltaire comfort of the rich](images/voltaire_comfort_of_the_rich.jpg)
 
 # Economy
 - [World Economic Forum](http://www.weforum.org/)
