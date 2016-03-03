@@ -175,6 +175,8 @@
 
 [![An Introvert's Guide to Surviving Team Lunches](images/lets_grab_lunch.png)](http://goingconcern.com/post/introverts-guide-surviving-team-lunches)
 
+[![voltaire jealousy commits crimes](images/jealousy_commits_crimes.jpg)](http://statusmind.com)
+
 ## Talks
 - [Apple CEO Tim Cook on Collaboration](https://youtu.be/EZPYLZ7I6gs)
 - [Ted Talks. Susan Cain: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts)

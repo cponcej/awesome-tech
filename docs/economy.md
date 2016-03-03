@@ -21,6 +21,8 @@
 
 [![nikita khrushchev economics](images/nikita-khrushchev_economics.jpg)](http://izquotes.com/)
 
+![voltaire comfort of the rich](voltaire_comfort_of_the_rich.jpg)
+
 # Economy
 - [World Economic Forum](http://www.weforum.org/)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
@@ -243,7 +245,6 @@
 - [The End of Work: The Decline of the Global Labor Force and the Dawn of the Post-Market Era. Jeremy Rifkin](https://en.wikipedia.org/wiki/The_End_of_Work)
 - [blogs.wsj.com: Six Years Later, 93% of U.S. Counties Haven’t Recovered From Recession, Study Finds](http://blogs.wsj.com/economics/2016/01/12/six-years-later-93-of-u-s-counties-havent-recovered-from-recession-study-finds/)
 - [businessinsider.com: Watch 1,400 US workers learn their jobs are moving to Mexico](http://www.businessinsider.com/carrier-workers-learn-jobs-are-moving-to-mexico-2016-2)
-
 
 ## IT
 - [IT Jobs Watch, Tracking the IT Job Market](http://www.itjobswatch.co.uk/)
