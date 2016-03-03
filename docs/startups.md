@@ -195,9 +195,6 @@
 
 ![fight club](images/fight_club.gif)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">[GRATIS] Informe de evaluación sobre impacto social <a href="https://twitter.com/Lanzaderas_EES">@Lanzaderas_EES</a> <a href="https://twitter.com/hashtag/TodosIncluidos?src=hash">#TodosIncluidos</a> <a href="https://t.co/lBfHuj4xSO">https://t.co/lBfHuj4xSO</a> <a href="https://t.co/O30La66zWv">pic.twitter.com/O30La66zWv</a></p>&mdash; Fundación Telefónica (@fundacionTef) <a href="https://twitter.com/fundacionTef/status/704289855430336512">29 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Freelance jobs
 - [reddit.com/r/freelance](https://www.reddit.com/r/freelance)
 - [crunch.co.uk: The very best freelance job sites](https://www.crunch.co.uk/blog/freelancer-advice/2015/07/24/best-freelance-job-boards-to-find-work/)
