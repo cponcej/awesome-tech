@@ -53,4 +53,10 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Zhilabs granted Spark Certification from Databricks.  <a href="https://t.co/swEPhVhIuK">https://t.co/swEPhVhIuK</a> <a href="https://t.co/eBAgdhT32r">pic.twitter.com/eBAgdhT32r</a></p>&mdash; Zhilabs (@Zhilabs) <a href="https://twitter.com/Zhilabs/status/698447100359659521">13 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ABA&#39;s <a href="https://twitter.com/hashtag/quicktips?src=hash">#quicktips</a> to learn <a href="https://twitter.com/hashtag/English?src=hash">#English</a>: Practice really does make perfect (or close to perfect) <a href="https://twitter.com/hashtag/learn?src=hash">#learn</a> <a href="https://t.co/xnRl8tQ8EK">pic.twitter.com/xnRl8tQ8EK</a></p>&mdash; ABA English (@ABAEnglish) <a href="https://twitter.com/ABAEnglish/status/701852015606046732">22 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![carretera de les aigues barcelona](images/carretera-de-les-aigues-barcelona.jpg)](http://www.quesecueceenbcn.com/2013/03/01/fin-de-semana-en-barcelona-carretera-de-les-aigues/)
