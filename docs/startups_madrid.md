@@ -54,6 +54,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">[GRATIS] Informe de evaluación sobre impacto social <a href="https://twitter.com/Lanzaderas_EES">@Lanzaderas_EES</a> <a href="https://twitter.com/hashtag/TodosIncluidos?src=hash">#TodosIncluidos</a> <a href="https://t.co/lBfHuj4xSO">https://t.co/lBfHuj4xSO</a> <a href="https://t.co/O30La66zWv">pic.twitter.com/O30La66zWv</a></p>&mdash; Fundación Telefónica (@fundacionTef) <a href="https://twitter.com/fundacionTef/status/704289855430336512">29 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Fon <a href="https://twitter.com/hashtag/WiFi?src=hash">#WiFi</a> hotspot city <a href="https://twitter.com/hashtag/Paris?src=hash">#Paris</a> was the biggest winner in .<a href="https://twitter.com/Forbes">@Forbes</a> <a href="https://twitter.com/hashtag/travel?src=hash">#travel</a> awards last week! <a href="https://t.co/sccel8CLwU">https://t.co/sccel8CLwU</a> <a href="https://t.co/UG0udiajNS">pic.twitter.com/UG0udiajNS</a></p>&mdash; Fon (@Fon) <a href="https://twitter.com/Fon/status/705408104675020800">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![fintech spain](images/fintech_spain.jpg)](http://cincodias.com/cincodias/2016/03/02/mercados/1456946299_157115.html)
 
 [![parque el capricho](images/parque-el-capricho.jpg)](http://www.madridtourist.info/caprice_park.html)
