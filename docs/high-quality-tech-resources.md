@@ -109,6 +109,8 @@
 - [Awesome big data 🌟](https://github.com/onurakpolat/awesome-bigdata)
 - [Awesome sql](https://github.com/danhuss/awesome-sql)
 - [Awesome database](https://github.com/numetriclabz/awesome-db)
+- [Awesome NoSQL](https://github.com/jasonkying/awesome-NoSQL)
+- [Awesome MongoDB](https://github.com/ximaoxo/awesome-mongodb)
 - [Awesome openstack](http://ramitsurana.github.io/awesome-openstack/)
 - [Awesome java](https://github.com/akullpp/awesome-java)
 - [Awesome django](https://gitlab.com/rosarior/awesome-django)

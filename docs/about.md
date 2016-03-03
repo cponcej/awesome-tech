@@ -24,6 +24,8 @@
 - [Awesome Chef](https://github.com/obazoud/awesome-chef)
 - [Awesome sql](https://github.com/danhuss/awesome-sql)
 - [Awesome database](https://github.com/numetriclabz/awesome-db)
+- [Awesome NoSQL](https://github.com/jasonkying/awesome-NoSQL)
+- [Awesome MongoDB](https://github.com/ximaoxo/awesome-mongodb)
 - [Awesome django](https://gitlab.com/rosarior/awesome-django)
 - [Awesome python](https://github.com/vinta/awesome-python/)
 - [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
