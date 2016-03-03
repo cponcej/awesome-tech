@@ -21,7 +21,7 @@
 
 [![nikita khrushchev economics](images/nikita-khrushchev_economics.jpg)](http://izquotes.com/)
 
-![voltaire comfort of the rich](voltaire_comfort_of_the_rich.jpg)
+![voltaire comfort of the rich](images/voltaire_comfort_of_the_rich.jpg)
 
 # Economy
 - [World Economic Forum](http://www.weforum.org/)
