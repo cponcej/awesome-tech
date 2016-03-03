@@ -6,8 +6,8 @@
 		- [Startup Blogs, Documentaries and Talks](#startup-blogs-documentaries-and-talks)
 	- [IT remuneration](#it-remuneration)
 	- [Trabajar por el mundo](#trabajar-por-el-mundo)
-		- [Barcelona startups](#barcelona-startups)
-		- [Madrid startups](#madrid-startups)
+		- [Barcelona Tech, Startups and Innovation](#barcelona-tech-startups-and-innovation)
+		- [Madrid Tech, Startups and Innovation](#madrid-tech-startups-and-innovation)
 	- [Worst tech mergers and acquisitions](#worst-tech-mergers-and-acquisitions)
 	- [Job Search](#job-search)
 		- [Portales de empleo](#portales-de-empleo)
@@ -89,74 +89,13 @@
 
 [![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)](http://www.creativebloq.com/advertising/web-developer-job-ad-chart-11618853)
 
-### Barcelona startups
-- [Barcinno.com: Barcelona Tech, Startups and Innovation 🌟](http://www.barcinno.com/)
-- [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
-- [Barcelona Activa](http://www.barcelonactiva.cat/barcelonactiva)
-	- [Barcelona Activa - Parc Tecnològic](http://empresa.barcelonactiva.cat/empresa/cat/serveis/parc/index.jsp)
-- [Eurecat TIC](http://eurecat.org/en/sectors/itc/)
-- [BCNanalytics.com](http://bcnanalytics.com/)
-- [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
-	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
-- [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong 🌟](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
-- [Tres días de infierno vendiendo 'startups' en la mayor feria mundial del móvil 🌟](http://www.elconfidencial.com/tecnologia/2016-02-25/tres-dias-de-infierno-vendiendo-startups-en-la-mayor-feria-de-telefonia-del-mundo_1157974/)
-
-[![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.grifolsacademy.com/)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PhO-ar0la-s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qmS6Lz2W7c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bHNNUZ-Ikfw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EfSpoSLCrNg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1w0nk5ZPLSc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6V5z2boEKWA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
+### Barcelona Tech, Startups and Innovation
+- [Barcelona Tech, Startups and Innovation](startups_bcn.md)
 
 [![carretera de les aigues barcelona](images/carretera-de-les-aigues-barcelona.jpg)](http://www.quesecueceenbcn.com/2013/03/01/fin-de-semana-en-barcelona-carretera-de-les-aigues/)
 
-### Madrid startups
-- [tetuanvalley.com: Tetuan Valley Madrid](http://tetuanvalley.com/)
-- [campus.co/madrid: Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
-- [Wayra start-up accelerator](http://wayra.co)
-	- [Wikipedia: Wayra](https://en.wikipedia.org/wiki/Wayra)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QkEGCA40RV0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFeo22j08e8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f8Qaxh6myi4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-[![fintech spain](images/fintech_spain.jpg)](http://cincodias.com/cincodias/2016/03/02/mercados/1456946299_157115.html)
+### Madrid Tech, Startups and Innovation
+- [Madrid Tech, Startups and Innovation](startups_madrid.md)
 
 [![parque el capricho](images/parque-el-capricho.jpg)](http://www.madridtourist.info/caprice_park.html)
 
