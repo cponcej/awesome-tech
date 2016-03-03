@@ -88,6 +88,8 @@
 - [adslzone.net](http://www.adslzone.net)
 - [innovaspain.com 🌟](http://www.innovaspain.com)
 - [emezeta.com](http://www.emezeta.com)
+- [ecommerce-news.es 🌟](http://ecommerce-news.es)
+	- [Mercadona pierde entre 30 y 40 M€ al año en su canal online](http://ecommerce-news.es/actualidad/mercadona-pierde-30-40-me-al-ano-canal-online-38119.html)
 
 ## Blog Hosting
 - [How to Start a Blog with WordPress (Step by Step Guide for Blog Hosting)](http://www.webcodegeeks.com/wordpress/how-to-start-blog-wordpress-hosting/)
