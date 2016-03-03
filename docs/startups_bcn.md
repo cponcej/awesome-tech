@@ -53,6 +53,12 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Courses?src=hash">#Courses</a>@CRG: Biological Super-Resolution Microscopy, 2-5 May 2016. Registration deadline: March 4, 2016 <a href="https://t.co/LRXeKqzxn9">https://t.co/LRXeKqzxn9</a></p>&mdash; CRG (@CRGenomica) <a href="https://twitter.com/CRGenomica/status/705095807712763907">2 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Miquel Camprodon de Kernel e Israel Saeta de <a href="https://twitter.com/leadratings">@leadratings</a> presentando <a href="https://twitter.com/hashtag/statsmodels?src=hash">#statsmodels</a> en la <a href="https://twitter.com/PyConES">@PyConES</a> 2015 <a href="https://t.co/F3NKAFBmNM">https://t.co/F3NKAFBmNM</a></p>&mdash; Kernel Analytics (@KernelAnalytics) <a href="https://twitter.com/KernelAnalytics/status/697375146747760640">10 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Zhilabs granted Spark Certification from Databricks.  <a href="https://t.co/swEPhVhIuK">https://t.co/swEPhVhIuK</a> <a href="https://t.co/eBAgdhT32r">pic.twitter.com/eBAgdhT32r</a></p>&mdash; Zhilabs (@Zhilabs) <a href="https://twitter.com/Zhilabs/status/698447100359659521">13 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -75,6 +81,12 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¡Envío Gratis en Sport! Hoy: adidas, O&#39;Neill, DUUO, CMP, Napapijri, Pepe Jeans y más. ▶ <a href="https://t.co/qPoQzuhNMF">https://t.co/qPoQzuhNMF</a> <a href="https://t.co/w8UOzEabso">pic.twitter.com/w8UOzEabso</a></p>&mdash; Privalia España (@Privalia_es) <a href="https://twitter.com/Privalia_es/status/703480977214087168">27 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La conexión bidireccional XML entre <a href="http://t.co/BbjRKxlH68">http://t.co/BbjRKxlH68</a> &lt;&gt; Witbooking ya está online! - <a href="http://t.co/qeO6E9eJLA">http://t.co/qeO6E9eJLA</a></p>&mdash; witbooking (@witbooking) <a href="https://twitter.com/witbooking/status/604226132947386368">29 de mayo de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/KPMG?src=hash">#KPMG</a> explains why <a href="https://twitter.com/OpportNetwork">@OpportNetwork</a> has been so successful introducing UHNW families to Small-Mid size companies<br> <a href="https://t.co/R2HY8OTYx3">https://t.co/R2HY8OTYx3</a></p>&mdash; Alan Reid (@JAlanReid) <a href="https://twitter.com/JAlanReid/status/704387768827260928">29 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![carretera de les aigues barcelona](images/carretera-de-les-aigues-barcelona.jpg)](http://www.quesecueceenbcn.com/2013/03/01/fin-de-semana-en-barcelona-carretera-de-les-aigues/)
