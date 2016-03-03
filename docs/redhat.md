@@ -105,6 +105,9 @@
 - [linoxide.com: How to Install Cockpit on Linux CentOS 7](http://linoxide.com/linux-how-to/install-cockpit-linux-centos-7/)
 - [Youtube. Jupiter Broadcasting: Fedora 23 from the Cockpit](https://youtu.be/xMMNRSxdNvQ) Fedora 23 has hit the web and we think this is the release that changes everything, forever. Find out why we think the changes made in Fedora 23 make this nearly a future proof distribution in some work cases. 
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/cockpit?src=hash">#cockpit</a> is so cool, makes server APIs usable/discoverable for non Linux Experts.  Cgroups, Perf Profiles, Containers, K8s... <a href="https://twitter.com/ProjectAtomic">@ProjectAtomic</a></p>&mdash; Daniel Walsh (@rhatdan) <a href="https://twitter.com/rhatdan/status/695916324015468545">6 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/NHwfxNVkzmw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
