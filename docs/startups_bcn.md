@@ -12,15 +12,17 @@
 
 # Barcelona Tech, Startups and Innovation
 - [Grupo Intercom](http://www.grupointercom.com/)
+- [twitter.com/accio_cat](https://twitter.com/accio_cat) ACCIÓ és l’agència per a la competitivitat de l'empresa de la Generalitat de Catalunya.
+- [twitter.com/JOBBCN](https://twitter.com/JOBBCN) JOBarcelona'16: III Congreso Internacional de #empleo y #orientaciónlaboral 
 - [Barcinno.com: Barcelona Tech, Startups and Innovation 🌟](http://www.barcinno.com/)
 - [bdigital.org: Barcelona Digital Technology Centre](http://www.bdigital.org/en/)
-- [Barcelona Activa](http://www.barcelonactiva.cat/barcelonactiva)
+- [Barcelona Activa 🌟](http://www.barcelonactiva.cat/barcelonactiva)
 	- [Barcelona Activa - Parc Tecnològic](http://empresa.barcelonactiva.cat/empresa/cat/serveis/parc/index.jsp)
 - [Eurecat TIC](http://eurecat.org/en/sectors/itc/)
 - [BCNanalytics.com](http://bcnanalytics.com/)
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
-- [twitter.com/JOBBCN](https://twitter.com/JOBBCN) JOBarcelona'16: III Congreso Internacional de #empleo y #orientaciónlaboral para universitarios y titulados júnior
+para universitarios y titulados júnior
 - [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong 🌟](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
 - [Tres días de infierno vendiendo 'startups' en la mayor feria mundial del móvil 🌟](http://www.elconfidencial.com/tecnologia/2016-02-25/tres-dias-de-infierno-vendiendo-startups-en-la-mayor-feria-de-telefonia-del-mundo_1157974/)
 
