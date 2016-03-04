@@ -70,6 +70,16 @@ para universitarios y titulados júnior
 
 <div  style="width:100%;padding-top:64%;position:relative;border-bottom:1px solid #aaa;display:inline-block;background:#eee;background:rgba(255,255,255,0.9);"  >    <iframe frameborder="0" src="http://www.rtve.es/drmn/embed/video/3359074"            name="Projectes: Scytl, Votar on line " scrolling="no" style="width:100%;height:90%;position:absolute;left:0;top:0;overflow:hidden;"  ></iframe>    <div style="position:absolute;bottom:0;left:0;font-family:arial,helvetica,sans-serif;font-size:12px;line-height:1.833;display:inline-block;padding:5px 0 5px 10px;">        <span style="float:left;margin-right:10px;"><img                style="height:20px;width:auto;background: transparent;padding:0;margin:0;"                src="http://img.irtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVEes.png"></span> <a            style="color:#333;font-weight:bold;" title="Projectes: Scytl, Votar on line "            href="http://www.rtve.es/alacarta/videos/tinc-una-idea/tinc-idea-projectes-scytl-votar-on-line/3359074/"><strong>Projectes: Scytl, Votar on line </strong></a></div></div>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Znq5dSf19DY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2ASSPQHE9A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Courses?src=hash">#Courses</a>@CRG: Biological Super-Resolution Microscopy, 2-5 May 2016. Registration deadline: March 4, 2016 <a href="https://t.co/LRXeKqzxn9">https://t.co/LRXeKqzxn9</a></p>&mdash; CRG (@CRGenomica) <a href="https://twitter.com/CRGenomica/status/705095807712763907">2 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -123,5 +133,11 @@ para universitarios y titulados júnior
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Our CEO is speaking at the Apple Store of Pg. de Gràcia, on Friday. Sign up here <a href="https://t.co/9ueTxo5zmR">https://t.co/9ueTxo5zmR</a> <a href="https://twitter.com/hashtag/AppleStore?src=hash">#AppleStore</a> <a href="https://t.co/4aJY3QTwEK">pic.twitter.com/4aJY3QTwEK</a></p>&mdash; Social Point (@socialpoint) <a href="https://twitter.com/socialpoint/status/673912129255272448">7 de diciembre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Wifisafe es el único Gold <a href="https://twitter.com/hashtag/Certified?src=hash">#Certified</a> de <a href="https://twitter.com/hashtag/Peplink?src=hash">#Peplink</a> en España <a href="http://t.co/8pdNEJzQdM">http://t.co/8pdNEJzQdM</a></p>&mdash; Wifisafe Spain SL (@wifisafespain) <a href="https://twitter.com/wifisafespain/status/459732419588157440">25 de abril de 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Encontrar trabajo por enchufe o por recomendación por <a href="https://twitter.com/monicaventas">@monicaventas</a> <a href="https://t.co/s9At0WiNX5">https://t.co/s9At0WiNX5</a> <a href="https://t.co/teuE1hgkjJ">pic.twitter.com/teuE1hgkjJ</a></p>&mdash; InfoJobs (@InfoJobs) <a href="https://twitter.com/InfoJobs/status/705441505650085888">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/BuenosDias?src=hash">#BuenosDias</a>! ¿Te gustaria formar parte de nuestra red de <a href="https://twitter.com/hashtag/Franquicias?src=hash">#Franquicias</a> <a href="https://twitter.com/hashtag/Eurona?src=hash">#Eurona</a>!<br>Hablamos?<br>franquicias@eurona.net 📲 <a href="https://t.co/QRIqkXI8xN">pic.twitter.com/QRIqkXI8xN</a></p>&mdash; Grupo Eurona (@eurona_net) <a href="https://twitter.com/eurona_net/status/705653594507218944">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
