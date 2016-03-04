@@ -165,6 +165,7 @@
 	- [Google seeks new disks for data centers](http://googlecloudplatform.blogspot.com.es/2016/02/Google-seeks-new-disks-for-data-centers.html)
 	- [Spotify chooses Google Cloud Platform to power data infrastructure](http://googlecloudplatform.blogspot.com.es/2016/02/Spotify-chooses-Google-Cloud-Platform-to-power-data-infrastructure.html)
 - [zdnet: Spotify to move to Google Cloud](http://www.zdnet.com/article/spotify-to-switch-from-aws-to-google-cloud/) Spotify said its experience with Google's data platform and tools convinced the company to switch its so-called 'traditional' infrastructure to Google Cloud.
+- [How Google will beat Amazon's cloud 🌟](http://www.zdnet.com/article/how-google-will-beat-amazons-cloud/) Amazon Web Services (AWS) has a seemingly insurmountable lead with an 80+ percent market share. But the cloud game has barely begun, and Google has their own nearly insurmountable lead in technologies key to the evolution of the cloud. Here's how it will play out.
 
 ## AWS Gartner Report
 - [Gartner Critical Capabilities - Learn More ](https://aws.amazon.com/resources/gartner-cc-learn-more/)
