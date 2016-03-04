@@ -243,6 +243,7 @@
 ## AWS BigData 
 - [blogs.aws.amazon.com/bigdata](http://blogs.aws.amazon.com/bigdata/)
 - [Querying Amazon Kinesis Streams Directly with SQL and Spark Streaming](http://blogs.aws.amazon.com/bigdata/post/Tx3916WCIUPVA3T/Querying-Amazon-Kinesis-Streams-Directly-with-SQL-and-Spark-Streaming)
+- [Analyze Your Data on Amazon DynamoDB with Apache Spark 🌟🌟](http://blogs.aws.amazon.com/bigdata/post/Tx1G4SQRV049UL0/Analyze-Your-Data-on-Amazon-DynamoDB-with-Apache-Spark)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> Blog month in review: <a href="https://t.co/dsC9KNe95a">https://t.co/dsC9KNe95a</a> <a href="https://t.co/QrJV88ruLs">pic.twitter.com/QrJV88ruLs</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/694702660344107008">febrero 3, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
