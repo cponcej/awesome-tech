@@ -25,7 +25,7 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Ansible
-- [docs.ansible.com 🌟🌟🌟](http://docs.ansible.com/ansible/intro_installation.html)
+- [docs.ansible.com 🌟🌟🌟🌟](http://docs.ansible.com)
 - [releases.ansible.com](http://releases.ansible.com)
 - [fast.wistia.net: Ansible video tutorial](http://fast.wistia.net/embed/iframe/qrqfj371b6)
 - [Ansible, Just Use It - slide](https://speakerdeck.com/vranac/ansible-just-use-it)
