@@ -265,6 +265,8 @@
 
 <a href="https://openclipart.org/detail/155107/job-interview"><img src="https://openclipart.org/download/155107/job-interview.svg" /></a>
 
+[![pubpeer](images/pubpeer.png)](https://pubpeer.com/)
+
 ![war room](images/war_room.gif)
 
 [![Meagan Francis quote](images/meagan_francis_quote.png)](http://www.quietrev.com/3-tips-for-overcoming-fraud-syndrome/)
