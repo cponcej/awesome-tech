@@ -84,3 +84,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las aguas cristalinas de <a href="https://twitter.com/hashtag/RivieraMaya?src=hash">#RivieraMaya</a> te esperan hasta el 4 de marzo :¡Haz clic y entérate! <a href="https://t.co/QoUiSBSWPd">https://t.co/QoUiSBSWPd</a> <a href="https://t.co/VzV2XM1RCT">pic.twitter.com/VzV2XM1RCT</a></p>&mdash; Destinia (@Destinia) <a href="https://twitter.com/Destinia/status/705133243964760064">2 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">En 2016 seguiremos mejorando nuestro producto e innovando con la mejor tecnología en el ámbito de las comunicaciones <a href="https://t.co/T1PM1PQXxl">https://t.co/T1PM1PQXxl</a></p>&mdash; Equipo Tuenti (@Tuenti) <a href="https://twitter.com/Tuenti/status/694158517322784768">1 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
