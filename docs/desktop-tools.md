@@ -84,6 +84,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Think inside the borders. Press Ctrl+Shift+7 to put borders around cells. <a href="https://t.co/lZUIzNvsDR">https://t.co/lZUIzNvsDR</a> <a href="https://twitter.com/hashtag/ExcelTips?src=hash">#ExcelTips</a> <a href="https://t.co/TQF1sYK8lA">pic.twitter.com/TQF1sYK8lA</a></p>&mdash; Microsoft Excel (@msexcel) <a href="https://twitter.com/msexcel/status/692754008335867904">enero 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Windows 10 tip: Access symbols, emojis, and other special characters <a href="https://t.co/unu6DvMrDl">https://t.co/unu6DvMrDl</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/edbott">@edbott</a> <a href="https://t.co/jCTTJ1TNzG">pic.twitter.com/jCTTJ1TNzG</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/705807072265441280">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Video: How to use the Windows Software Licensing Management Tool <a href="https://t.co/XVr42usYXV">https://t.co/XVr42usYXV</a> <a href="https://twitter.com/edbott">@edbott</a> <a href="https://twitter.com/billdetwiler">@BillDetwiler</a> <a href="https://t.co/Rz1fm7KMal">pic.twitter.com/Rz1fm7KMal</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/705784929435648000">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Please RT <a href="https://twitter.com/SkypeSupport">@SkypeSupport</a>/<a href="https://twitter.com/Microsoft">@Microsoft</a> dropped support for Skype for Linux, we can no longer accept calls. <a href="https://t.co/fjXXuBG4qa">https://t.co/fjXXuBG4qa</a> <a href="https://twitter.com/hashtag/ThanksBill?src=hash">#ThanksBill</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702474274389372928">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
