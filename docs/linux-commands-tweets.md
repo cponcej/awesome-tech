@@ -52,10 +52,16 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="http://t.co/oqvwmPKo02">http://t.co/oqvwmPKo02</a> - list all file extensions in a directory (cp) <a href="https://twitter.com/hashtag/uniq?src=hash">#uniq</a> <a href="https://twitter.com/hashtag/ls?src=hash">#ls</a> <a href="https://twitter.com/hashtag/grep?src=hash">#grep</a></p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/615159728331591681">junio 28, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">find . -exec file -b --mime-type {} + | sort | uniq -c | sort -nr # Make stats of the top file types in this directory and below.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/705825565165522944">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&#39;t&#39; is for sticky &amp; &#39;t&#39; is for /tmp/. Lose sticky permission on /tmp/ &amp; see world burning. The correct perms:<br><br>chmod 1777 /tmp<a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700271274971439104">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">apropos is a useful utility when you don&#39;t know which man page it is you need on. Find command that remove file:<br><br>apropos remove<br>man -k word</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700277112985382912">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">shopt -u huponexit # in bash, set this option to make sure backgrounded jobs don&#39;t get killed when the parent shell exits</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/705474219111550976">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Prepend cd to directory names &amp; correct spelling errors too on a Unix/Linux bash shell:<br><br>shopt -s autocd<br>shopt -s dirspell<br>shopt -s cdspell</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705113908839755776">2 de marzo de 2016</a></blockquote>
@@ -65,6 +71,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">More tech support gore. <a href="https://twitter.com/hashtag/Truth?src=hash">#Truth</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://twitter.com/hashtag/Humor?src=hash">#Humor</a> <a href="https://t.co/RRKlEOHHL9">pic.twitter.com/RRKlEOHHL9</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705471785689427969">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Change &#39;lead&#39; to &#39;gold&#39; everywhere: sed &#39;s/lead/gold/g&#39; somefile</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/705810262155202560">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux / UNIX  Recursively Search All Files For A String <a href="https://t.co/8FajUKEba7">https://t.co/8FajUKEba7</a></p>&mdash; M Akbar Marwan (@akbardotinfo) <a href="https://twitter.com/akbardotinfo/status/700165166193778688">febrero 18, 2016</a></blockquote>

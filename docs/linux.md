@@ -271,7 +271,7 @@
 - [How to undefine and unset a bash environment variable on Linux or Unix](www.cyberciti.biz/faq/linux-osx-bsd-unix-bash-undefine-environment-variable/)
 - [30 Handy Bash Shell Aliases For Linux/Unix/Mac OS X](http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html)
 - [Bash For Loop Examples](http://www.cyberciti.biz/faq/bash-for-loop/)
-- [20 Unix Command Line Tricks – Part I](http://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/)
+- [20 Unix Command Line Tricks – Part I 🌟](http://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/)
 - [My 10 UNIX Command Line Mistakes](http://www.cyberciti.biz/tips/my-10-unix-command-line-mistakes.html)
 - [Understanding Linux/UNIX tr command](http://www.cyberciti.biz/faq/how-to-use-linux-unix-tr-command/)
 - [How to delete a single command from history on a Linux, OS X and Unix Bash shell](http://www.cyberciti.biz/faq/delete-command-from-history-linux-unix-osx-bash-shell/)

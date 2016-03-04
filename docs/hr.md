@@ -143,6 +143,9 @@
 
 [![culture shaped by worst behavior](images/culture_shaped_by_worst_behavior.jpg)](http://ricklochner.com/the-culture-of-any-organization-is-shaped/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">PHOTOS: The 10 happiest jobs: <a href="https://t.co/Dw88jn7gkY">https://t.co/Dw88jn7gkY</a> <a href="https://t.co/R1LYgpgOIT">pic.twitter.com/R1LYgpgOIT</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/705837970125950976">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Diversity in the workplace should be celebrated. But not the box-ticking kind <a href="https://t.co/u9sBkBTFLy">https://t.co/u9sBkBTFLy</a> <a href="https://t.co/gk0i6jgteb">pic.twitter.com/gk0i6jgteb</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/699642973957595137">febrero 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -252,6 +255,7 @@
 - [The (Depressing) Truth About Applying To Jobs Online 🌟](https://www.linkedin.com/pulse/depressing-truth-applying-jobs-online-j-t-o-donnell)
 - [businessinsider.com: The CEO of billion-dollar startup Slack starts every job interview with this question — and it reveals a lot about him](http://www.businessinsider.com/slack-ceo-starts-job-interviews-with-this-question-2016-2)
 - [theundercoverrecruiter.com: 10 Awesome Interview Tips from Actual Hiring Managers](http://theundercoverrecruiter.com/interviewing-tips-from-hiring-managers/)
+- [Big Misconception About Being 'Let Go' 🌟](https://www.linkedin.com/pulse/20140414200108-7668018-big-misconception-about-being-let-go)
 
 [![Voltaire judge a man by his questions](images/voltaire_judge_a_man_by_his_questions.jpg)](http://statusmind.com/)
 
@@ -345,6 +349,9 @@
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
 [![25 preguntas entrevista trabajo](images/25_preguntas_entrevista_trabajo.jpg)](https://twitter.com/Forbes_es)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">4 cosas por las que NO te contratan: aplicable a cualquier tipo de <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a>. Vía <a href="https://twitter.com/Domestika">@domestika</a> <a href="https://t.co/O06WegHZmd">https://t.co/O06WegHZmd</a> <a href="https://t.co/aLHewyDC1s">pic.twitter.com/aLHewyDC1s</a></p>&mdash; Belisa Bartra (@BelisaBartra) <a href="https://twitter.com/BelisaBartra/status/705335637742895104">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I see recruiters <br> <a href="https://t.co/M5BSseIqDl">https://t.co/M5BSseIqDl</a> <a href="https://t.co/WTdalBHu6q">pic.twitter.com/WTdalBHu6q</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/703286172043313154">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
