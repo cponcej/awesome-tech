@@ -97,6 +97,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Our story featured on <a href="https://twitter.com/FT">@FT</a> about how we help companies grow - thanks <a href="https://twitter.com/richnewton">@richnewton</a> <a href="https://t.co/UvFDGDQeYt">https://t.co/UvFDGDQeYt</a> <a href="https://twitter.com/Brian_Pallas">@Brian_Pallas</a> <a href="https://twitter.com/enricasgh">@enricasgh</a> <a href="https://twitter.com/hashtag/weareON?src=hash">#weareON</a></p>&mdash; Opportunity Network (@OpportNetwork) <a href="https://twitter.com/OpportNetwork/status/701786268045287424">22 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">“La época dorada del capitalismo ya es historia&quot;, <a href="https://twitter.com/hashtag/Postcapitalismo?src=hash">#Postcapitalismo</a> de <a href="https://twitter.com/paulmasonnews">@paulmasonnews</a> <a href="https://t.co/ZD2XjKi9CX">https://t.co/ZD2XjKi9CX</a> <a href="https://t.co/Qpqy9z8qxv">pic.twitter.com/Qpqy9z8qxv</a></p>&mdash; Casa del Libro (@casadellibro) <a href="https://twitter.com/casadellibro/status/705098124071669764">2 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fórmate en Contabilidad, Secretariado, Facturación y Almacén por tan sólo 25 € con <a href="https://twitter.com/KDLFormacion">@KDLFormacion</a>. <a href="https://t.co/vE3XBuZvMj">https://t.co/vE3XBuZvMj</a>.</p>&mdash; Emagister (@emagister) <a href="https://twitter.com/emagister/status/678368218164035584">20 de diciembre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
