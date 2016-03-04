@@ -233,6 +233,9 @@
 
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
+<p align="center">
+<a href="https://www.epo.org/about-us/annual-reports-statistics/annual-report.html">European Patent Office Annual Reports</a>
+</p>
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oabxBtR4F8Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -242,7 +245,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4zzPsjmBBYg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-- [European Patent Office Annual Reports](https://www.epo.org/about-us/annual-reports-statistics/annual-report.html)
 
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
