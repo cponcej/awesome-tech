@@ -256,6 +256,7 @@
 - [businessinsider.com: The CEO of billion-dollar startup Slack starts every job interview with this question — and it reveals a lot about him](http://www.businessinsider.com/slack-ceo-starts-job-interviews-with-this-question-2016-2)
 - [theundercoverrecruiter.com: 10 Awesome Interview Tips from Actual Hiring Managers](http://theundercoverrecruiter.com/interviewing-tips-from-hiring-managers/)
 - [Big Misconception About Being 'Let Go' 🌟](https://www.linkedin.com/pulse/20140414200108-7668018-big-misconception-about-being-let-go)
+- [7 (Really Hard) Interview Questions You Must Answer Properly 🌟](http://www.inc.com/jt-odonnell/7-intense-interview-questions-you-need-to-answer-correctly.html) Getting the interview is hard enough. Don't blow your chances by saying the wrong thing.
 
 [![Voltaire judge a man by his questions](images/voltaire_judge_a_man_by_his_questions.jpg)](http://statusmind.com/)
 
