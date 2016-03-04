@@ -346,12 +346,17 @@
 - [elconfidencial.com: Las prácticas de las empresas asiáticas en Europa (y se parecen mucho a las chinas)](http://www.elconfidencial.com/alma-corazon-vida/2016-03-01/las-practicas-de-las-empresas-asiaticas-en-europa-y-se-parece-mucho-a-china_1161447/) 
 - [kartcsainz.com: 10 claves para mejorar el ambiente laboral](http://www.kartcsainz.com/es/noticia/10-claves-para-mejorar-el-ambiente-laboral)
 - [Qué hacer si tu mentor bloquea tu carrera profesional](http://www.expansion.com/emprendedores-empleo/desarrollo-carrera/2016/03/03/56d883bd268e3ed7138b45c6.html)
+- [¿Por qué no se fomenta más el teletrabajo? 🌟](https://balcon40.com/2015/09/10/por-que-no-se-fomenta-mas-el-teletrabajo/)
+- [Sólo el 27% de las empresas españolas apuesta por el teletrabajo](http://www.computerworld.es/tendencias/solo-el-27-de-las-empresas-espanolas-apuesta-por-el-teletrabajo)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
 [![25 preguntas entrevista trabajo](images/25_preguntas_entrevista_trabajo.jpg)](https://twitter.com/Forbes_es)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">4 cosas por las que NO te contratan: aplicable a cualquier tipo de <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a>. Vía <a href="https://twitter.com/Domestika">@domestika</a> <a href="https://t.co/O06WegHZmd">https://t.co/O06WegHZmd</a> <a href="https://t.co/aLHewyDC1s">pic.twitter.com/aLHewyDC1s</a></p>&mdash; Belisa Bartra (@BelisaBartra) <a href="https://twitter.com/BelisaBartra/status/705335637742895104">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sólo el 27% de las empresas españolas apuesta por el teletrabajo: El bajo rendimiento de las conexiones remota... <a href="https://t.co/8nqDW1b9hg">https://t.co/8nqDW1b9hg</a></p>&mdash; ColegioOficialTeleco (@COGITTCV) <a href="https://twitter.com/COGITTCV/status/705780579178934274">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I see recruiters <br> <a href="https://t.co/M5BSseIqDl">https://t.co/M5BSseIqDl</a> <a href="https://t.co/WTdalBHu6q">pic.twitter.com/WTdalBHu6q</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/703286172043313154">26 de febrero de 2016</a></blockquote>
