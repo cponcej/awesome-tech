@@ -83,6 +83,8 @@
 - [Berlín en español](http://berlinenespanol.net)
 - [Asociación española de profesionales en Holanda](http://profesionalesholanda.org)
 
+[!['It's a graveyard': The software devs leaving Greece for good](images/sw_dev_leaving_greece.png)](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
+
 [![espanish in london](images/espanish_in_london.png)](http://www.espanishinlondon.com/)
 
 ![antes no sabia ingles y era lavaplatos](images/ingles_soy_dishwasher.jpg)
@@ -242,7 +244,5 @@
 <br/>
 
 - [European Patent Office Annual Reports](https://www.epo.org/about-us/annual-reports-statistics/annual-report.html)
-
-[!['It's a graveyard': The software devs leaving Greece for good](images/sw_dev_leaving_greece.png)](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
