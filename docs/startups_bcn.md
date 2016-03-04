@@ -80,6 +80,11 @@ para universitarios y titulados júnior
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r619_K421bI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Courses?src=hash">#Courses</a>@CRG: Biological Super-Resolution Microscopy, 2-5 May 2016. Registration deadline: March 4, 2016 <a href="https://t.co/LRXeKqzxn9">https://t.co/LRXeKqzxn9</a></p>&mdash; CRG (@CRGenomica) <a href="https://twitter.com/CRGenomica/status/705095807712763907">2 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -150,4 +155,7 @@ para universitarios y titulados júnior
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">All the highlights of our evening with <a href="https://twitter.com/KendallJenner">@KendallJenner</a> at the <a href="https://twitter.com/hashtag/TribalSpirit?src=hash">#TribalSpirit</a> party are here: <a href="https://t.co/V7v7cYpcOl">https://t.co/V7v7cYpcOl</a> <a href="https://t.co/Vpo4aU5eUL">pic.twitter.com/Vpo4aU5eUL</a></p>&mdash; MANGO (@Mango) <a href="https://twitter.com/Mango/status/695271247085703169">4 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Room with a view! <a href="https://twitter.com/hashtag/DesigualHQ?src=hash">#DesigualHQ</a> <a href="https://t.co/9F1w55ANIH">pic.twitter.com/9F1w55ANIH</a></p>&mdash; Desigual (@desigual) <a href="https://twitter.com/desigual/status/704682660015296512">1 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Check out the incredible makeover of <a href="https://twitter.com/hashtag/HotelClaris?src=hash">#HotelClaris</a> in Barcelona <a href="https://twitter.com/Derby_Hotels">@Derby_Hotels</a> <a href="https://t.co/Ul5PI7ig7W">https://t.co/Ul5PI7ig7W</a> <a href="https://t.co/6LZxEEPnAj">pic.twitter.com/6LZxEEPnAj</a></p>&mdash; Small Luxury Hotels (@SLHLuxuryHotels) <a href="https://twitter.com/SLHLuxuryHotels/status/705407412077883393">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
