@@ -36,6 +36,12 @@
 
 [![number of running windows dec 2015](images/number_of_win10.jpg)](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Video: How to use the Windows Software Licensing Management Tool <a href="https://t.co/XVr42usYXV">https://t.co/XVr42usYXV</a> <a href="https://twitter.com/edbott">@edbott</a> <a href="https://twitter.com/billdetwiler">@BillDetwiler</a> <a href="https://t.co/Rz1fm7KMal">pic.twitter.com/Rz1fm7KMal</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/705784929435648000">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Virtualizas con Hyper-V? Esta herramienta gratis de <a href="https://twitter.com/veeam">@veeam</a> te servirá <a href="https://t.co/FZvkgZOmVX">https://t.co/FZvkgZOmVX</a></p>&mdash; JGAITPro (@JGAITPro) <a href="https://twitter.com/JGAITPro/status/705594761621671936">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1IJ7nmqOKS7cZn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nishadsukumaran/active-directory-training" title="Active Directory Training" target="_blank">Active Directory Training</a> </strong> from <strong><a href="//www.slideshare.net/nishadsukumaran" target="_blank">Nishad Sukumaran</a></strong> </div>
 </div>
