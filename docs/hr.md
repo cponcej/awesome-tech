@@ -337,6 +337,7 @@
 - [eleconomista.es: ¿Por qué no te contratan si eres el candidato perfecto?](http://www.eleconomista.es/emprendedores-pymes/noticias/6784455/06/15/Por-que-no-te-contratan-si-eres-el-candidato-perfecto.html)
 - [eleconomista.es: Hacer la pelota al jefe es malo para el negocio, dicen expertos](http://www.eleconomista.es/mercados-cotizaciones/noticias/1165153/04/09/Hacer-la-pelota-al-jefe-es-malo-para-el-negocio-dicen-expertos.html)
 - [elconfidencial.com: Las prácticas de las empresas asiáticas en Europa (y se parecen mucho a las chinas)](http://www.elconfidencial.com/alma-corazon-vida/2016-03-01/las-practicas-de-las-empresas-asiaticas-en-europa-y-se-parece-mucho-a-china_1161447/) 
+- [kartcsainz.com: 10 claves para mejorar el ambiente laboral](http://www.kartcsainz.com/es/noticia/10-claves-para-mejorar-el-ambiente-laboral)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
