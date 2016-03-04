@@ -120,3 +120,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Our CEO is speaking at the Apple Store of Pg. de Gràcia, on Friday. Sign up here <a href="https://t.co/9ueTxo5zmR">https://t.co/9ueTxo5zmR</a> <a href="https://twitter.com/hashtag/AppleStore?src=hash">#AppleStore</a> <a href="https://t.co/4aJY3QTwEK">pic.twitter.com/4aJY3QTwEK</a></p>&mdash; Social Point (@socialpoint) <a href="https://twitter.com/socialpoint/status/673912129255272448">7 de diciembre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Encontrar trabajo por enchufe o por recomendación por <a href="https://twitter.com/monicaventas">@monicaventas</a> <a href="https://t.co/s9At0WiNX5">https://t.co/s9At0WiNX5</a> <a href="https://t.co/teuE1hgkjJ">pic.twitter.com/teuE1hgkjJ</a></p>&mdash; InfoJobs (@InfoJobs) <a href="https://twitter.com/InfoJobs/status/705441505650085888">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
