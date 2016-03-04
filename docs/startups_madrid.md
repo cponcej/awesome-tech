@@ -67,3 +67,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿A ti también te pasa? <a href="https://t.co/L1iDhFxEL9">pic.twitter.com/L1iDhFxEL9</a></p>&mdash; Casa del Libro (@casadellibro) <a href="https://twitter.com/casadellibro/status/704616517938368513">1 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El perfil del <a href="https://twitter.com/hashtag/directivo?src=hash">#directivo</a> más deseado por las <a href="https://twitter.com/hashtag/empresas?src=hash">#empresas</a> <a href="https://t.co/VQipAvvjZ0">https://t.co/VQipAvvjZ0</a> <a href="https://twitter.com/InfoJobs">@InfoJobs</a> <a href="https://t.co/FX51db8TIl">pic.twitter.com/FX51db8TIl</a></p>&mdash; Womenalia (@womenalia) <a href="https://twitter.com/womenalia/status/705498382735900673">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
