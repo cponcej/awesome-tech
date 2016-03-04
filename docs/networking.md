@@ -159,6 +159,9 @@
 - [10 emuladores WAN para que pruebes distintas condiciones de red](http://www.hackplayers.com/2015/10/10-emuladores-wan-para-que-pruebes.html)
 - [NEWfly, Redes Cisco y Packet Tracker: Network, ejercicios Packet Tracer y simulación de vuelo](https://newfly.wordpress.com/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Internet cables under the sea that connects continents together. This is how they put the cables. <a href="https://t.co/K8WbrgoOEW">pic.twitter.com/K8WbrgoOEW</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705260332982231041">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <p align="center">
 <a href="http://www.buzzfeed.com/lukebailey/satisfying-cables">23 Photos That Will Make Anyone Who Works In IT Satisfied</a>
 </p>

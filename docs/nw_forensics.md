@@ -120,6 +120,9 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn to write <a href="https://twitter.com/hashtag/Wireshark?src=hash">#Wireshark</a> dissectors at <a href="https://twitter.com/hashtag/SharkFest16?src=hash">#SharkFest16</a> <a href="https://t.co/krDz2SPD0R">https://t.co/krDz2SPD0R</a></p>&mdash; Laura Chappell (@LauraChappell) <a href="https://twitter.com/LauraChappell/status/705404824234434560">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Network Forensics and Monitoring for MySQL and PostgreSQL
 - [VividCortex](https://twitter.com/VividCortex)
 - [Announcing VividCortex's Free Network Analyzer Tools for MySQL and PostgreSQL](https://www.vividcortex.com/blog/2015/05/13/announcing-vividcortex-network-analyzer-mysql-postgresql/)

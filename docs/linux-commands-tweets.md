@@ -34,6 +34,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/xkDQZITioJ">https://t.co/xkDQZITioJ</a> - du with colored bar graph (point_to_null) <a href="https://twitter.com/hashtag/space?src=hash">#space</a> <a href="https://twitter.com/hashtag/awk?src=hash">#awk</a> <a href="https://twitter.com/hashtag/du?src=hash">#du</a> <a href="https://twitter.com/hashtag/graph?src=hash">#graph</a> <a href="https://twitter.com/hashtag/disk?src=hash">#disk</a></p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/698497131561115648">febrero 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">pgrep rsync | xargs ionice -c3 -p # Adjust all rsync processes on the system so that they have lower (idle) IO priority.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/705413109494624256">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">shopt -u huponexit # in bash, set this option to make sure backgrounded jobs don&#39;t get killed when the parent shell exits</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/705474219111550976">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

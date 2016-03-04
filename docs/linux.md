@@ -74,6 +74,9 @@
 	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
 - [alt.sysadmin.recovery: Getting over the trauma of system administration](https://groups.google.com/forum/#!forum/alt.sysadmin.recovery) Alt.sysadmin.recovery is for discussion by recovered and recovering sysadmins. It is a forum for mutual support and griping over idiot lusers, stupid tech support, brain dead hardware and generally how stupid this idiotic job is. Think of it as a virtual pub, where we can all go after hours and gripe about our job. Since the concept of "after hours" (or, for that matter, "pubs") is an anathema for your average sysadmin, we have this instead. 
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Life of a sysadmin :( <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/QEqEOgZaWZ">pic.twitter.com/QEqEOgZaWZ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705316661767700480">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 - [medium.com: I Moved to Linux and It’s Even Better Than I Expected](https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj)
