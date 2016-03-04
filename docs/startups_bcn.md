@@ -20,6 +20,7 @@
 - [BCNanalytics.com](http://bcnanalytics.com/)
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
+- [twitter.com/JOBBCN](https://twitter.com/JOBBCN) JOBarcelona'16: III Congreso Internacional de #empleo y #orientaciónlaboral para universitarios y titulados júnior
 - [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong 🌟](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
 - [Tres días de infierno vendiendo 'startups' en la mayor feria mundial del móvil 🌟](http://www.elconfidencial.com/tecnologia/2016-02-25/tres-dias-de-infierno-vendiendo-startups-en-la-mayor-feria-de-telefonia-del-mundo_1157974/)
 
@@ -89,6 +90,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Si no te gusta, si no lo usas, si tienes uno nuevo... Súbelo a <a href="https://twitter.com/hashtag/Wallapop?src=hash">#Wallapop</a>. <a href="https://t.co/bCd5L642ah">https://t.co/bCd5L642ah</a></p>&mdash; Wallapop (@wallapop) <a href="https://twitter.com/wallapop/status/685149216470134785">7 de enero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los amigos de <a href="https://twitter.com/accio_cat">@accio_cat</a> también nos han visitado en nuestro estand del <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> (8.1K48). ¿Y tú? <a href="https://t.co/OmM9ZtHn8Z">https://t.co/OmM9ZtHn8Z</a></p>&mdash; Tiendeo (@Tiendeo) <a href="https://twitter.com/Tiendeo/status/702892831376015362">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Nueva York: 5 Días + vuelos + hotel <a href="https://t.co/n6Sty8SmeH">https://t.co/n6Sty8SmeH</a> via <a href="https://twitter.com/groupaliaES">@GroupaliaES</a> <a href="https://t.co/FH7rj8vPTr">pic.twitter.com/FH7rj8vPTr</a></p>&mdash; Groupalia España (@groupaliaES) <a href="https://twitter.com/groupaliaES/status/704598373358301184">1 de marzo de 2016</a></blockquote>
