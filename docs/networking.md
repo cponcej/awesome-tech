@@ -78,11 +78,6 @@
 </div>
 <br/>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpLKU6-4T7Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 ## IPv4
 - [wikipedia: IPv4](https://en.wikipedia.org/wiki/IPv4)
 
@@ -168,3 +163,8 @@
 <a href="http://www.buzzfeed.com/lukebailey/satisfying-cables">23 Photos That Will Make Anyone Who Works In IT Satisfied</a>
 </p>
 [![cabling](images/cabling.jpg)](http://www.buzzfeed.com/lukebailey/satisfying-cables)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpLKU6-4T7Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
