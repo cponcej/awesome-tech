@@ -34,6 +34,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/xkDQZITioJ">https://t.co/xkDQZITioJ</a> - du with colored bar graph (point_to_null) <a href="https://twitter.com/hashtag/space?src=hash">#space</a> <a href="https://twitter.com/hashtag/awk?src=hash">#awk</a> <a href="https://twitter.com/hashtag/du?src=hash">#du</a> <a href="https://twitter.com/hashtag/graph?src=hash">#graph</a> <a href="https://twitter.com/hashtag/disk?src=hash">#disk</a></p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/698497131561115648">febrero 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">shopt -u huponexit # in bash, set this option to make sure backgrounded jobs don&#39;t get killed when the parent shell exits</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/705474219111550976">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://t.co/M3nRe9Z6B0">https://t.co/M3nRe9Z6B0</a> - Determine if a port is open with bash (zlemini)</p>&mdash; Commandlinefu 10 up (@commandlinefu10) <a href="https://twitter.com/commandlinefu10/status/677417732044816384">diciembre 17, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -53,6 +56,12 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Prepend cd to directory names &amp; correct spelling errors too on a Unix/Linux bash shell:<br><br>shopt -s autocd<br>shopt -s dirspell<br>shopt -s cdspell</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705113908839755776">2 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to ignore common commands spam from bash history on a Unix or Linux? Try<br><br>export HISTIGNORE=&quot;&amp;:[ ]*:exit:ls:bg:fg:history:clear&quot;</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705476556462817281">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">More tech support gore. <a href="https://twitter.com/hashtag/Truth?src=hash">#Truth</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://twitter.com/hashtag/Humor?src=hash">#Humor</a> <a href="https://t.co/RRKlEOHHL9">pic.twitter.com/RRKlEOHHL9</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705471785689427969">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux / UNIX  Recursively Search All Files For A String <a href="https://t.co/8FajUKEba7">https://t.co/8FajUKEba7</a></p>&mdash; M Akbar Marwan (@akbardotinfo) <a href="https://twitter.com/akbardotinfo/status/700165166193778688">febrero 18, 2016</a></blockquote>

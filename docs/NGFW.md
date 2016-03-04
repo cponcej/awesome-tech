@@ -86,6 +86,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Dell Services lanza en España su acelerador de IoT para el sector seguros <a href="https://twitter.com/hashtag/conocedell?src=hash">#conocedell</a> <a href="https://t.co/WHImatHMye">https://t.co/WHImatHMye</a></p>&mdash; Dell España (@DellSpain) <a href="https://twitter.com/DellSpain/status/705674506048819205">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When connection counts are high but you need <a href="https://twitter.com/hashtag/DPI?src=hash">#DPI</a>, enter the <a href="https://twitter.com/DellSecurity">@DellSecurity</a> <a href="https://twitter.com/SonicWall">@SonicWALL</a> <a href="https://twitter.com/hashtag/SuperMassive10400?src=hash">#SuperMassive10400</a> <a href="https://t.co/LZ8grGq95j">pic.twitter.com/LZ8grGq95j</a></p>&mdash; Jeremiah Johnson (@jjohnson757) <a href="https://twitter.com/jjohnson757/status/690297532119916544">enero 21, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

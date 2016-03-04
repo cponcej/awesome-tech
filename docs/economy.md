@@ -108,6 +108,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">There&#39;s a grim chart going around. And it&#39;s comparing the 08&#39; crash to today: <a href="https://t.co/Lfsb8nJkaA">https://t.co/Lfsb8nJkaA</a><a href="https://twitter.com/search?q=%24SPY&amp;src=ctag">$SPY</a> <a href="https://twitter.com/search?q=%24TLT&amp;src=ctag">$TLT</a> <a href="https://t.co/ggdYLYMfWt">pic.twitter.com/ggdYLYMfWt</a></p>&mdash; StockTwits (@StockTwits) <a href="https://twitter.com/StockTwits/status/700424616339075072">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Advancing versus declining stocks highest since 2009. Here’s the chart everyone is talking about: <a href="https://t.co/tfwuJZssMo">https://t.co/tfwuJZssMo</a></p>&mdash; StockTwits (@StockTwits) <a href="https://twitter.com/StockTwits/status/705585147551227908">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Unemployment in the UK down by 60,000 between October and December to 1.69 million, latest figures show <a href="https://t.co/KkJBXmHt9m">https://t.co/KkJBXmHt9m</a></p>&mdash; BBC Breaking News (@BBCBreaking) <a href="https://twitter.com/BBCBreaking/status/699889334711951360">febrero 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

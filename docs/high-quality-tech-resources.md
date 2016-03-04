@@ -38,6 +38,7 @@
 	- [Choosing an open source license 🌟🌟🌟](http://choosealicense.com) GitHub started taking a stance on licensing in 2013. They now suggest a license when creating a new project, and they made a microsite to help project owners choose.
 - [Why There Will Never Be Another RedHat: The Economics Of Open Source 🌟](http://techcrunch.com/2014/02/13/please-dont-tell-me-you-want-to-be-the-next-red-hat/)
 - [8 advantages of using open source in the enterprise](https://enterprisersproject.com/article/2015/1/top-advantages-open-source-offers-over-proprietary-solutions)
+- [First Timers Only](http://www.firsttimersonly.com/) Friendly Open Source projects should reserve specific issues for newbies.
 
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com 🌟🌟🌟🌟🌟](https://zeef.com)
