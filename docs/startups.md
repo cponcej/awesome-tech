@@ -77,6 +77,7 @@
 - [Espanish in London 🌟](http://www.espanishinlondon.com)
 - ["I was born in London but I no longer recognise this city" 🌟🌟](http://www.economist.com/news/books-and-arts/21689519-how-british-capital-being-remade-beyond-glitter)
 - [London, I love you, but you’re bringing me down 🌟](http://matadornetwork.com/notebook/london-love-youre-bringing/)
+- [cityam.com - London house prices: UK capital is most expensive place in the world for a company to employ staff, as real estate recovery shifts from east to west 🌟](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)
 - [Para vivir en Irlanda](http://www.paravivirenirlanda.com)
 - [Quiero ir a vivir a Dublin](http://quieroiraviviradublin.blogspot.com.es)
 	- [no dogma podcast: What Ireland Offers the Tech World 🌟](http://nodogmapodcast.bryanhogan.net/41-ken-finnegan-what-ireland-offers/)
@@ -168,6 +169,8 @@
 - [twitter.com/weworkremotely](https://twitter.com/weworkremotely)
 - [43 Best Job Search Websites 2016](http://careersherpa.net/43-best-job-search-websites-2016/)
 - [The rise of LinkedIn fraud 🌟](http://www.csoonline.com/article/3036072/social-networking/the-rise-of-linkedin-fraud.html)
+
+[![most expensive cities in the world](images/most_expensive_cities.png)](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)
 
 [![boss vs leader](images/boss_vs_leader.png)](http://www.presentationgo.com/presentation/differences-boss-leader-powerpoint/)
 
