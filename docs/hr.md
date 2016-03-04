@@ -348,6 +348,7 @@
 - [Qué hacer si tu mentor bloquea tu carrera profesional](http://www.expansion.com/emprendedores-empleo/desarrollo-carrera/2016/03/03/56d883bd268e3ed7138b45c6.html)
 - [¿Por qué no se fomenta más el teletrabajo? 🌟](https://balcon40.com/2015/09/10/por-que-no-se-fomenta-mas-el-teletrabajo/)
 - [Sólo el 27% de las empresas españolas apuesta por el teletrabajo](http://www.computerworld.es/tendencias/solo-el-27-de-las-empresas-espanolas-apuesta-por-el-teletrabajo)
+- [Comprando un Maserati 🌟](https://www.linkedin.com/pulse/comprando-un-maserati-frank-hidalgo-gato-dur%C3%A1n)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
