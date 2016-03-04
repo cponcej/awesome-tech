@@ -24,3 +24,11 @@ ________________________________________________________________________________
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UWfzb0l1jV4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+# Motivational Quotes
+- "Talent wins games, but teamwork and intelligence wins championships” Michael Jordan
+- "Our industry does not respect tradition - it only respects innovation" Satya Nadella,Microsoft's CEO
+- "It doesn’t make sense to hire smart people and tell them what to do;we hire smart people so they can tell us what to do." Steve Jobs
+- "Stop the madness for constant group work.Just stop it.We need much more privacy and much more freedom and much more autonomy at work"​ Susan Cain:quiet office,the power of introverts
+- "A team is not a group of people who work together.A team is a group of people who trust each other" Simon Sinek
+- "Lo importante es que hablen de ti, aunque sea bien" Salvador Dalí
