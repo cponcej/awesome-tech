@@ -348,6 +348,7 @@
     - [Mi antiguo jefe habla mal de mí](http://www.cnnexpansion.com/mi-carrera/2009/12/18/mi-antiguo-jefe-habla-mal-de-mi)
     - [Cómo se gestionan las malas referencias](http://www.expansion.com/2012/11/30/empleo/desarrollo-de-carrera/1354301718.html)
     - [Problemas legales por dar malas referencias laborales](http://www.ehowenespanol.com/problemas-legales-dar-malas-referencias-laborales-info_406759/)
+    - [seniorm.com: Cómo librarse de una mala referencia laboral](http://www.seniorm.com/como-librarse-de-una-mala-referencia-laboral/)
 - [yoriento.com: 10 verdades personales sobre los portales de empleo 🌟🌟](http://yoriento.com/2009/09/10-verdades-sobre-los-portales-de-empleo-602.html/)
 - [xataka.com: Esto es lo que Google ha averiguado sobre por qué hay equipos de trabajo que fracasan y otros que funcionan](http://magnet.xataka.com/en-diez-minutos/esto-es-lo-que-google-ha-averiguado-sobre-por-que-hay-equipos-de-trabajo-que-fracasan-y-otros-que-funcionan)
 - [eleconomista.es: ¿Por qué no te contratan si eres el candidato perfecto?](http://www.eleconomista.es/emprendedores-pymes/noticias/6784455/06/15/Por-que-no-te-contratan-si-eres-el-candidato-perfecto.html)
@@ -358,7 +359,6 @@
 - [¿Por qué no se fomenta más el teletrabajo? 🌟](https://balcon40.com/2015/09/10/por-que-no-se-fomenta-mas-el-teletrabajo/)
 - [Sólo el 27% de las empresas españolas apuesta por el teletrabajo](http://www.computerworld.es/tendencias/solo-el-27-de-las-empresas-espanolas-apuesta-por-el-teletrabajo)
 - [Comprando un Maserati 🌟](https://www.linkedin.com/pulse/comprando-un-maserati-frank-hidalgo-gato-dur%C3%A1n)
-- [seniorm.com: Cómo librarse de una mala referencia laboral](http://www.seniorm.com/como-librarse-de-una-mala-referencia-laboral/)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
