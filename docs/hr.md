@@ -302,6 +302,7 @@
 - [Forbes: Cover Letters Are Dead And Other 2016 Recruiting Trends](http://www.forbes.com/sites/lizryan/2016/02/04/cover-letters-are-dead-and-other-2016-recruiting-trends/)
 - [Linkedin: The One Thing Every Employer Wants to See On Your Resume](https://www.linkedin.com/pulse/one-thing-every-employer-wants-see-your-resume-brian-de-haaff)
 - [opensource.com: How to add open source experience to your resume 🌟](https://opensource.com/business/16/2/add-open-source-to-your-resume)
+- [Why Your Resume Is Making Recruiters Cringe](https://www.linkedin.com/pulse/why-your-resume-making-recruiters-cringe-j-t-o-donnell)
 
 [![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
 

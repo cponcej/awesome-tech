@@ -296,6 +296,9 @@
 - [computerworld.com: 9 really odd linux commands](http://www.computerworld.com/article/3035480/linux/9-really-odd-linux-commands.html)
 - [RHEL/Centos Linux 7: Change and Set Hostname Command](http://www.cyberciti.biz/faq/rhel-redhat-centos-7-change-hostname-command/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
 
@@ -560,6 +563,9 @@
 # Ubuntu
 - [twitter.com/ubuntu](https://twitter.com/ubuntu)
 - [forbes: 10 Reasons Why Ubuntu Is Killing It In The Cloud](http://www.forbes.com/sites/janakirammsv/2016/01/12/10-reasons-why-ubuntu-is-killing-it-in-the-cloud/#2715e4857a0b19d6c8d819a2)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Combining apt-get/apt-cache &amp; adds a progress bar using apt <a href="https://t.co/USBZOpb3rF">https://t.co/USBZOpb3rF</a> <a href="https://twitter.com/hashtag/debian?src=hash">#debian</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/ubuntu?src=hash">#ubuntu</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/Fmkw4xvG8b">pic.twitter.com/Fmkw4xvG8b</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706180656439566336">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # ArchLinux
 - [ArchLinux.org](https://www.archlinux.org/)
