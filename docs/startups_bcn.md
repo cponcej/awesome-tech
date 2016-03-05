@@ -68,8 +68,6 @@ para universitarios y titulados júnior
 </div>
 <br/>
 
-<div  style="width:100%;padding-top:64%;position:relative;border-bottom:1px solid #aaa;display:inline-block;background:#eee;background:rgba(255,255,255,0.9);"  >    <iframe frameborder="0" src="http://www.rtve.es/drmn/embed/video/3359074"            name="Projectes: Scytl, Votar on line " scrolling="no" style="width:100%;height:90%;position:absolute;left:0;top:0;overflow:hidden;"  ></iframe>    <div style="position:absolute;bottom:0;left:0;font-family:arial,helvetica,sans-serif;font-size:12px;line-height:1.833;display:inline-block;padding:5px 0 5px 10px;">        <span style="float:left;margin-right:10px;"><img                style="height:20px;width:auto;background: transparent;padding:0;margin:0;"                src="http://img.irtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVEes.png"></span> <a            style="color:#333;font-weight:bold;" title="Projectes: Scytl, Votar on line "            href="http://www.rtve.es/alacarta/videos/tinc-una-idea/tinc-idea-projectes-scytl-votar-on-line/3359074/"><strong>Projectes: Scytl, Votar on line </strong></a></div></div>
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znq5dSf19DY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -85,7 +83,15 @@ para universitarios y titulados júnior
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Courses?src=hash">#Courses</a>@CRG: Biological Super-Resolution Microscopy, 2-5 May 2016. Registration deadline: March 4, 2016 <a href="https://t.co/LRXeKqzxn9">https://t.co/LRXeKqzxn9</a></p>&mdash; CRG (@CRGenomica) <a href="https://twitter.com/CRGenomica/status/705095807712763907">2 de marzo de 2016</a></blockquote>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jIJhn3oKRhY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">&quot;El que més valorem de Barcelona Activa és la xarxa de contactes que et dóna&quot; 10 testimonis d&#39; <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a> <a href="https://t.co/UgKNMsxadJ">https://t.co/UgKNMsxadJ</a></p>&mdash; Barcelona Activa (@barcelonactiva) <a href="https://twitter.com/barcelonactiva/status/706013987096424448">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Biotech?src=hash">#Biotech</a> <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a> are looking to &#39;win the 21st century,&#39; the <a href="https://twitter.com/guardian">@guardian</a> reports <a href="https://t.co/R4DBGMp2xI">https://t.co/R4DBGMp2xI</a></p>&mdash; CRG (@CRGenomica) <a href="https://twitter.com/CRGenomica/status/702554925889429505">24 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Miquel Camprodon de Kernel e Israel Saeta de <a href="https://twitter.com/leadratings">@leadratings</a> presentando <a href="https://twitter.com/hashtag/statsmodels?src=hash">#statsmodels</a> en la <a href="https://twitter.com/PyConES">@PyConES</a> 2015 <a href="https://t.co/F3NKAFBmNM">https://t.co/F3NKAFBmNM</a></p>&mdash; Kernel Analytics (@KernelAnalytics) <a href="https://twitter.com/KernelAnalytics/status/697375146747760640">10 de febrero de 2016</a></blockquote>
@@ -158,4 +164,7 @@ para universitarios y titulados júnior
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you thinking about Easter plans? <a href="https://twitter.com/hashtag/London?src=hash">#London</a>, <a href="https://twitter.com/hashtag/Paris?src=hash">#Paris</a>, <a href="https://twitter.com/hashtag/Barcelona?src=hash">#Barcelona</a> or <a href="https://twitter.com/hashtag/Madrid?src=hash">#Madrid</a>... Book your room at Derby Hotels! <a href="https://t.co/9LSX9EnTix">pic.twitter.com/9LSX9EnTix</a></p>&mdash; Derby Hotels (@Derby_Hotels) <a href="https://twitter.com/Derby_Hotels/status/705022468210098176">2 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The &quot;D&quot; that makes the difference: <a href="https://t.co/TehArjkhwl">https://t.co/TehArjkhwl</a> <a href="https://twitter.com/hashtag/SaaS?src=hash">#SaaS</a> <a href="https://twitter.com/hashtag/Tech?src=hash">#Tech</a> <a href="https://twitter.com/hashtag/Energy?src=hash">#Energy</a> <a href="https://t.co/25mk5MYWdA">pic.twitter.com/25mk5MYWdA</a></p>&mdash; DEXMA (@dexma) <a href="https://twitter.com/dexma/status/686942045676638208">12 de enero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
