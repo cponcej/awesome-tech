@@ -370,6 +370,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you need experience to get a job but you need a job for experience 🙃 <a href="https://t.co/Xm37xnBcKP">pic.twitter.com/Xm37xnBcKP</a></p>&mdash; Nerd (@SmartInsults) <a href="https://twitter.com/SmartInsults/status/702547713573916672">24 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El periodo de prueba en el contrato <a href="https://twitter.com/hashtag/laboral?src=hash">#laboral</a> .Derechos del trabajador y la empresa. Prestaciones por desempleo <a href="https://t.co/nWF0Xj1BKn">https://t.co/nWF0Xj1BKn</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/702040241377570816">23 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cómo buscar <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> con <a href="https://twitter.com/hashtag/LinkedIn?src=hash">#LinkedIn</a>. Video vía <a href="https://twitter.com/TreceBits">@TreceBits</a> <a href="https://t.co/P7UjgtFIYe">https://t.co/P7UjgtFIYe</a> <a href="https://t.co/SdVPU1fsJO">pic.twitter.com/SdVPU1fsJO</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/704564344164581376">1 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <p align="center">
 <a href="http://www.citapreviainem.es/las-listas-negras-de-trabajadores-incomodos/">Las listas negras de trabajadores “incómodos”</a>
 </p>
