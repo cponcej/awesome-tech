@@ -70,6 +70,7 @@
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
 
 ## Trabajar por el mundo
+- [Las 10 ciudades más caras para vivir y trabajar](http://cnnespanol.cnn.com/2016/03/03/las-10-ciudades-mas-caras-para-vivir-y-trabajar/)
 - [trabajarporelmundo.org 🌟](http://trabajarporelmundo.org/)
 	- [Tips para crear un buen curriculum para trabajar en Londres 🌟🌟](http://trabajarporelmundo.org/tips-para-crear-un-buen-curriculum-para-trabajar-en-londres/)
 - [spaniards.es](http://www.spaniards.es)
