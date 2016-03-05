@@ -280,5 +280,6 @@
 
 [![Amazon's share price over the last 8 years](images/amazon-nasdaq.jpeg)](https://www.google.com/search?q=AMZN+Nasdaq)
 
-- [tradingview.com/chart/?symbol=AMZN](https://www.tradingview.com/chart/?symbol=AMZN)
-
+<p align="center">
+<a href="https://www.tradingview.com/chart/?symbol=AMZN">tradingview.com/chart/?symbol=AMZN</a>
+</p>

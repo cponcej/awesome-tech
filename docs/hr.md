@@ -79,6 +79,7 @@
 - [Examples of Bullying in the Workplace](https://www.linkedin.com/pulse/20140723143757-143588541-examples-of-bullying-in-the-workplace)
 - [How To Tell If Your Boss Is a Bully or Just Tough](https://www.hrbartender.com/2012/leadership-and-management/how-to-tell-if-your-boss-is-a-bully-or-just-tough/)
 - [How to Unlock the “Respect Me” Code at Work](https://www.linkedin.com/pulse/how-unlock-respect-me-code-work-j-t-o-donnell)
+- [Are You A Jerk At Work? (How To Know For Sure) 🌟](https://www.linkedin.com/pulse/you-jerk-work-how-know-sure-nathalie-salles)
 
 ### Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
