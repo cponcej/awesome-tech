@@ -370,6 +370,10 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you need experience to get a job but you need a job for experience 🙃 <a href="https://t.co/Xm37xnBcKP">pic.twitter.com/Xm37xnBcKP</a></p>&mdash; Nerd (@SmartInsults) <a href="https://twitter.com/SmartInsults/status/702547713573916672">24 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<p align="center">
+<a href="http://www.citapreviainem.es/las-listas-negras-de-trabajadores-incomodos/">Las listas negras de trabajadores “incómodos”</a>
+</p>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/w72a91uuCFY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
