@@ -355,9 +355,6 @@
 
 [![25 preguntas entrevista trabajo](images/25_preguntas_entrevista_trabajo.jpg)](https://twitter.com/Forbes_es)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">4 cosas por las que NO te contratan: aplicable a cualquier tipo de <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a>. Vía <a href="https://twitter.com/Domestika">@domestika</a> <a href="https://t.co/O06WegHZmd">https://t.co/O06WegHZmd</a> <a href="https://t.co/aLHewyDC1s">pic.twitter.com/aLHewyDC1s</a></p>&mdash; Belisa Bartra (@BelisaBartra) <a href="https://twitter.com/BelisaBartra/status/705335637742895104">3 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sólo el 27% de las empresas españolas apuesta por el teletrabajo: El bajo rendimiento de las conexiones remota... <a href="https://t.co/8nqDW1b9hg">https://t.co/8nqDW1b9hg</a></p>&mdash; ColegioOficialTeleco (@COGITTCV) <a href="https://twitter.com/COGITTCV/status/705780579178934274">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
