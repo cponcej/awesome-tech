@@ -50,6 +50,9 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135125776940" data-did="9e79099acd0b5daa3f8b74dc625a47adf3422f39"><a href="http://securityreactions.tumblr.com/post/135125776940/management-is-so-busy-developing-security-metrics">http://securityreactions.tumblr.com/post/135125776940/management-is-so-busy-developing-security-metrics</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">RT <a href="https://twitter.com/cloudsa">@cloudsa</a>: Want to know what the future holds for <a href="https://twitter.com/hashtag/cloudsecurity?src=hash">#cloudsecurity</a>? Listen to <a href="https://twitter.com/EMEACloudGuy">@EMEACloudGuy</a>&#39;s &amp; <a href="https://twitter.com/jimreavis">@jimreavis</a>&#39;s chat: <a href="https://t.co/R9GYrRr2ix">https://t.co/R9GYrRr2ix</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/706045423132262400">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Security
 ## Awesome Security Lists
 - [awesome security](https://github.com/sbilly/awesome-security)

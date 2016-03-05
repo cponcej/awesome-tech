@@ -163,6 +163,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I feel after ~15 yrs using VIM: <a href="https://t.co/CwQCt54MRK">https://t.co/CwQCt54MRK</a></p>&mdash; Stephen Beck (@altphi) <a href="https://twitter.com/altphi/status/688542838385192961">17 de enero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This is awesome. Someone make vim plugin :) Via <a href="https://t.co/NEb8i0ASRZ">https://t.co/NEb8i0ASRZ</a> <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a> <a href="https://t.co/MyIu8eamvQ">pic.twitter.com/MyIu8eamvQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706070594781982721">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
 
 [![Intellij IDEA](images/intellij-idea.png)](https://www.jetbrains.com/idea/)
@@ -219,6 +222,9 @@
 - [twitter.com/planetphp](https://twitter.com/planetphp)
 - [twitter.com/phpc](https://twitter.com/phpc)
 - [twitter.com/phpizer](https://twitter.com/phpizer)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">PHP 7.0.4 is available. This is a security release <a href="https://t.co/oeInvzumyA">https://t.co/oeInvzumyA</a> upgrade ASAP. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705904451421237248">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Python
 - [Python](python.md)
