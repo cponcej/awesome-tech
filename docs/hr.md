@@ -283,9 +283,9 @@
 
 [![dificultad entrevistas por empresa](images/dificultad_entrevistas_por_empresa.png)](http://www.expansion.com/emprendedores-empleo/2016/02/07/56b084b3268e3eaf678b4607.html)
 
-[![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
-
 ![soy mileurista](images/soy_mileurista.jpg)
+
+[![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCJ4L2so118?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
