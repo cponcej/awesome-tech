@@ -391,6 +391,10 @@
 </div>
 <br/>
 
+<p align="center">
+<a href="http://www.revistagq.com/actualidad/cine/articulos/20-anos-trainspotting-pelicula-que-cambio-el-cine-britanico/23481">20 años de 'Trainspotting', la película que transformó para siempre el cine británico</a>
+</p>
+
 [![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
 
 <div class="container">
