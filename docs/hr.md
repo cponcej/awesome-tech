@@ -256,12 +256,14 @@
 - [The (Depressing) Truth About Applying To Jobs Online 🌟](https://www.linkedin.com/pulse/depressing-truth-applying-jobs-online-j-t-o-donnell)
 - [businessinsider.com: The CEO of billion-dollar startup Slack starts every job interview with this question — and it reveals a lot about him](http://www.businessinsider.com/slack-ceo-starts-job-interviews-with-this-question-2016-2)
 - [theundercoverrecruiter.com: 10 Awesome Interview Tips from Actual Hiring Managers](http://theundercoverrecruiter.com/interviewing-tips-from-hiring-managers/)
-- [Big Misconception About Being 'Let Go' 🌟](https://www.linkedin.com/pulse/20140414200108-7668018-big-misconception-about-being-let-go)
-- [7 (Really Hard) Interview Questions You Must Answer Properly 🌟](http://www.inc.com/jt-odonnell/7-intense-interview-questions-you-need-to-answer-correctly.html) Getting the interview is hard enough. Don't blow your chances by saying the wrong thing.
-- [Are you using this highly effective interview technique?](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
+- [Linkedin: Big Misconception About Being 'Let Go' 🌟](https://www.linkedin.com/pulse/20140414200108-7668018-big-misconception-about-being-let-go)
+- [inc.com: 7 (Really Hard) Interview Questions You Must Answer Properly 🌟](http://www.inc.com/jt-odonnell/7-intense-interview-questions-you-need-to-answer-correctly.html) Getting the interview is hard enough. Don't blow your chances by saying the wrong thing.
+- [opensource.com: Are you using this highly effective interview technique?](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![focus on behavior](images/focus_on_behavior.png)](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
 
 [![Voltaire judge a man by his questions](images/voltaire_judge_a_man_by_his_questions.jpg)](http://statusmind.com/)
 
