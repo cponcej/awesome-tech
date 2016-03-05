@@ -10,6 +10,7 @@
 		- [Madrid Tech, Startups and Innovation](#madrid-tech-startups-and-innovation)
 	- [Worst tech mergers and acquisitions](#worst-tech-mergers-and-acquisitions)
 	- [Job Search](#job-search)
+	- [Leadership Styles Around the World](#leadership-styles-around-the-world)
 		- [Portales de empleo](#portales-de-empleo)
 	- [Freelance jobs](#freelance-jobs)
 		- [Trabajos Freelance](#trabajos-freelance)
@@ -172,6 +173,14 @@
 
 [![most expensive cities in the world](images/most_expensive_cities.png)](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)
 
+## Leadership Styles Around the World
+- [24 Charts Of Leadership Styles Around The World](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
+- [thindifference.com: Leadership Styles Around the World](https://www.thindifference.com/2014/11/leadership-styles-around-world/)
+- [tec.com.au: Different leadership styles from around the world](http://tec.com.au/resource/different-leadership-styles-from-around-the-world/)
+- [forbes.com: How Does Leadership Vary Across the Globe?](http://www.forbes.com/sites/joshbersin/2012/10/31/are-expat-programs-dead/)
+- [planningengineer.net: Graphs Of Leadership Types All over the world](http://www.planningengineer.net/graphs-of-leadership-types-all-over-the-world/)
+- [earthlymission.com: Leadership Styles Around the World](http://www.earthlymission.com/leadership-styles-around-the-world/)
+
 [![24 charts of Leadership Styles Around the world](images/BI_leadership_styles_around_the_world.png)](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
 
 [![boss vs leader](images/boss_vs_leader.png)](http://www.presentationgo.com/presentation/differences-boss-leader-powerpoint/)
@@ -179,6 +188,8 @@
 ![a person who feels appreciated](images/appreciated_person.jpg)
  
 ![richard branson](images/richardbranson.jpg)
+
+[![Leadership styles around the world](images/Leadership-Styles-Around-The-World.png)](http://www.planningengineer.net/graphs-of-leadership-types-all-over-the-world/)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/HL-TxDkEdkPu2r8TQU-xPQ/108034598717" data-did="8e73e902181d6dd615a6c4912854817fc42f0613"><a href="http://time-lord-vonnegut.tumblr.com/post/108034598717/to-all-the-people-on-here-looking-for-jobs">http://time-lord-vonnegut.tumblr.com/post/108034598717/to-all-the-people-on-here-looking-for-jobs</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
