@@ -87,3 +87,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Finding a File Containing a Particular Text String In Linux Server <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/8Itmk0YwEe">https://t.co/8Itmk0YwEe</a></p>&mdash; Kevin Saylor (@ksaylor11) <a href="https://twitter.com/ksaylor11/status/706164385056747522">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Test reachability of a cloud DNS server &amp; measure the round-trip time<br><br>for i in {1..4};do ping -q -c 4 ns-cloud-c${i}.googledomains.com;done</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706203762398920704">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

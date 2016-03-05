@@ -475,6 +475,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Raspberry Pi 3 out now: Still $35 but up to 50 percent faster <a href="https://t.co/xSYE4hEGoH">https://t.co/xSYE4hEGoH</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/NickJHeath">@NickJHeath</a> <a href="https://t.co/ZX1qLIFg5k">pic.twitter.com/ZX1qLIFg5k</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/704281702118457344">29 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wow! Worth reading!! The Untold History of Arduino <a href="https://t.co/JiPmZhEouS">https://t.co/JiPmZhEouS</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706210580567183362">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Clean code advocates. 
 - [David Whittaker 🌟](https://twitter.com/rundavidrun) Clean code advocate
 - [twitter.com/WomenWhoCode 🌟](https://twitter.com/WomenWhoCode)

@@ -370,6 +370,10 @@
 
 		rsync -a -delete empty/ foo/
 
+- Test reachability of a cloud DNS server & measure the round-trip time 🌟
+
+		for i in {1..4};do ping -q -c 4 ns-cloud-c${i}.googledomains.com;done
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">
