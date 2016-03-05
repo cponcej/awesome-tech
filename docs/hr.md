@@ -264,6 +264,7 @@
 - [Linkedin: Big Misconception About Being 'Let Go' 🌟](https://www.linkedin.com/pulse/20140414200108-7668018-big-misconception-about-being-let-go)
 - [inc.com: 7 (Really Hard) Interview Questions You Must Answer Properly 🌟](http://www.inc.com/jt-odonnell/7-intense-interview-questions-you-need-to-answer-correctly.html) Getting the interview is hard enough. Don't blow your chances by saying the wrong thing.
 - [opensource.com: Are you using this highly effective interview technique?](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
+- [The Perfect Way To Answer ‘Where Do You See Yourself In 5 Years?’ In A Job Interview](http://www.careerealism.com/job-interivew-where-see-youself-5-years/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
