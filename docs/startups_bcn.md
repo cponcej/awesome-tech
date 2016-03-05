@@ -168,3 +168,9 @@ para universitarios y titulados júnior
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The &quot;D&quot; that makes the difference: <a href="https://t.co/TehArjkhwl">https://t.co/TehArjkhwl</a> <a href="https://twitter.com/hashtag/SaaS?src=hash">#SaaS</a> <a href="https://twitter.com/hashtag/Tech?src=hash">#Tech</a> <a href="https://twitter.com/hashtag/Energy?src=hash">#Energy</a> <a href="https://t.co/25mk5MYWdA">pic.twitter.com/25mk5MYWdA</a></p>&mdash; DEXMA (@dexma) <a href="https://twitter.com/dexma/status/686942045676638208">12 de enero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">By 2017, every public space in <a href="https://twitter.com/hashtag/Seoul?src=hash">#Seoul</a> will be fitted with free <a href="https://twitter.com/hashtag/WiFi?src=hash">#WiFi</a> access. <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> goals. <a href="https://t.co/oLXZHG7Jb2">https://t.co/oLXZHG7Jb2</a> <a href="https://t.co/xoPAlx2cck">pic.twitter.com/xoPAlx2cck</a></p>&mdash; Fon (@Fon) <a href="https://twitter.com/Fon/status/704621341815734272">1 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="ro" dir="ltr">Ackstorm colabora como formador <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> con la Barcelona Technology School <a href="https://t.co/RD0PY57Vs8">https://t.co/RD0PY57Vs8</a></p>&mdash; ACK STORM, S.L. (@ackstormsl) <a href="https://twitter.com/ackstormsl/status/705339715784994816">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
