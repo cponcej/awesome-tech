@@ -197,7 +197,6 @@
 - [tec.com.au: Different leadership styles from around the world](http://tec.com.au/resource/different-leadership-styles-from-around-the-world/)
 - [forbes.com: How Does Leadership Vary Across the Globe?](http://www.forbes.com/sites/joshbersin/2012/10/31/are-expat-programs-dead/)
 - [planningengineer.net: Graphs Of Leadership Types All over the world](http://www.planningengineer.net/graphs-of-leadership-types-all-over-the-world/)
-- [earthlymission.com: Leadership Styles Around the World](http://www.earthlymission.com/leadership-styles-around-the-world/)
 
 [![24 charts of Leadership Styles Around the world](images/BI_leadership_styles_around_the_world.png)](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
 
