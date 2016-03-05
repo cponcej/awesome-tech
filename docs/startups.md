@@ -209,6 +209,11 @@
 
 [![Leadership styles around the world](images/Leadership-Styles-Around-The-World.png)](http://www.planningengineer.net/graphs-of-leadership-types-all-over-the-world/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6j0TVGQmVAc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/HL-TxDkEdkPu2r8TQU-xPQ/108034598717" data-did="8e73e902181d6dd615a6c4912854817fc42f0613"><a href="http://time-lord-vonnegut.tumblr.com/post/108034598717/to-all-the-people-on-here-looking-for-jobs">http://time-lord-vonnegut.tumblr.com/post/108034598717/to-all-the-people-on-here-looking-for-jobs</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/ebrI2txzsqZUlY_pj-z1ZQ/114944216680" data-did="5a1964be9c133b76877062dd2b8bc7e8a66aa3f6"><a href="http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew">http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
