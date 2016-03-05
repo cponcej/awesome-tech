@@ -172,6 +172,8 @@
 
 [![most expensive cities in the world](images/most_expensive_cities.png)](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)
 
+[![24 charts of Leadership Styles Around the world](images/BI_leadership_styles_around_the_world.png)](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
+
 [![boss vs leader](images/boss_vs_leader.png)](http://www.presentationgo.com/presentation/differences-boss-leader-powerpoint/)
 
 ![a person who feels appreciated](images/appreciated_person.jpg)
