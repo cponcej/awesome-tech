@@ -120,7 +120,7 @@
 - [prospects.ac.uk](http://www.prospects.ac.uk/)
 - [gumtree.com/computing-it-jobs](https://www.gumtree.com/computing-it-jobs)
 - [indeed.co.uk](http://www.indeed.co.uk/)
-- [monster.co.uk](http://www.monster.co.uk/)
+- [monster.co.uk 🌟](http://www.monster.co.uk/)
 - [talentclue.com 🌟](https://talentclue.com)
 - [AngelList jobs 🌟🌟🌟](https://angel.co)
 	- [AngelList jobs Barcelona](https://angel.co/barcelona)
