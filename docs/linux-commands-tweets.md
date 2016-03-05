@@ -84,3 +84,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A Deep Dive Into DNS Packet Sizes: Why Smaller Packet Sizes Keep The Internet Safe <a href="https://t.co/9a8duqMk5j">https://t.co/9a8duqMk5j</a> <a href="https://twitter.com/hashtag/networking?src=hash">#networking</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705859377907920896">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Finding a File Containing a Particular Text String In Linux Server <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/8Itmk0YwEe">https://t.co/8Itmk0YwEe</a></p>&mdash; Kevin Saylor (@ksaylor11) <a href="https://twitter.com/ksaylor11/status/706164385056747522">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
