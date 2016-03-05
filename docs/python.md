@@ -21,6 +21,8 @@
 
 [![Learn java python](images/learn-java-python.png)](https://dzone.com/articles/learn-python-overtakes-learn-java)
 
+[![Business Insider Python](images/BI_python.png)](http://www.businessinsider.com/learn-to-code-python-best-beginner-programming-language-2015-12)
+
 # Python
 ## Python Blogs and Forums
 - [Learn Python 'subreddit'](https://www.reddit.com/r/learnpython)
