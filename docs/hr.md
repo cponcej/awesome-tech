@@ -396,15 +396,13 @@
 <a href="http://www.citapreviainem.es/las-listas-negras-de-trabajadores-incomodos/">Las listas negras de trabajadores “incómodos”</a>
 </p>
 
-<div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/w72a91uuCFY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=w72a91uuCFY">Blacklisted: UK workers fighting job market ban</a>
+</p>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sVwvJxKWAFk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=sVwvJxKWAFk">Blacklisting: High Court conspiracy trial begins</a>
+</p>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/2VuH07iG6MOgR7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/clorissalepe/hollywood-blacklist" title="Hollywood blacklist" target="_blank">Hollywood blacklist</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/clorissalepe">Clorissa Lepe</a></strong> </div>
