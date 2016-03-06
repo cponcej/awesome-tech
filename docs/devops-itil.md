@@ -220,6 +220,9 @@
 - [Web del senado, costó 448.819€, pero la del Ayuntamiento de Madrid 100.000€ ¿Nuevo caso de populismo tecnológico?](http://www.javiergarzas.com/2015/10/web-del-senado-costo-448-819e-pero-la-del-ayuntamiento-de-madrid-100-000e-nuevo-caso-de-populismo-tecnologico.html)
 - [Los decoradores no saben crear equipos de trabajo potentes 🌟](http://www.javiergarzas.com/2016/01/los-decoradores-no-saben-crear-equipos-de-trabajo-potentes.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Maneras de usar un Gantt para matar un proyecto <a href="https://t.co/dUkacExFmr">https://t.co/dUkacExFmr</a> vía <a href="https://twitter.com/jgarzas">@jgarzas</a></p>&mdash; Johnny Bravo (@jbravot) <a href="https://twitter.com/jbravot/status/706515419348213761">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oShXAC26rcs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
