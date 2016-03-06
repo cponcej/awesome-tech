@@ -195,6 +195,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Forcing users to change their passwords may do more harm than good <a href="https://t.co/7F4SjQDQMF">https://t.co/7F4SjQDQMF</a> <a href="https://twitter.com/jackschofield">@jackschofield</a> <a href="https://t.co/cyTv9smkpH">pic.twitter.com/cyTv9smkpH</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/706230513720229893">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 11 AWS IAM Best Practices <a href="https://t.co/VnLgDpCo5c">https://t.co/VnLgDpCo5c</a></p>&mdash; Gin soaked boy (@integralist) <a href="https://twitter.com/integralist/status/692697411014234112">enero 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

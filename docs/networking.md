@@ -99,6 +99,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Telefónica se une a 22 operadoras y proveedores de equipos para crear una comunidad global Open Source Mano <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> <a href="https://t.co/gCRmbpHduW">https://t.co/gCRmbpHduW</a></p>&mdash; Telefónica (@Telefonica) <a href="https://twitter.com/Telefonica/status/701724993441415168">febrero 22, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The future of Wi-Fi Is 10,000 times more energy efficient <a href="https://t.co/uaAsPJ2J0R">https://t.co/uaAsPJ2J0R</a></p>&mdash; WIRED (@WIRED) <a href="https://twitter.com/WIRED/status/706244154184089600">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fibra óptica, el mejor vehículo para viajar hacia la nube ➡ <a href="https://t.co/zUq9TK7Smd">https://t.co/zUq9TK7Smd</a> <a href="https://twitter.com/hashtag/Conectividad?src=hash">#Conectividad</a> <a href="https://twitter.com/hashtag/Pymes?src=hash">#Pymes</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/706232959653830662">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## IPv6
 - [wikipedia: IPv6](https://en.wikipedia.org/wiki/IPv6)
 - [arstechnica.com: IPv6 celebrates its 20th birthday by reaching 10 percent deployment](http://arstechnica.com/business/2016/01/ipv6-celebrates-its-20th-birthday-by-reaching-10-percent-deployment/)

@@ -265,8 +265,13 @@
 - [inc.com: 7 (Really Hard) Interview Questions You Must Answer Properly 🌟](http://www.inc.com/jt-odonnell/7-intense-interview-questions-you-need-to-answer-correctly.html) Getting the interview is hard enough. Don't blow your chances by saying the wrong thing.
 - [opensource.com: Are you using this highly effective interview technique?](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
 - [The Perfect Way To Answer ‘Where Do You See Yourself In 5 Years?’ In A Job Interview](http://www.careerealism.com/job-interivew-where-see-youself-5-years/)
+- [How to Ask for a Reference That Will Get You Hired](https://www.linkedin.com/pulse/how-ask-reference-get-you-hired-bernard-marr)
+- [forbes: Five Questions That Make Job Interviewers Look Dumb 🌟🌟](http://www.forbes.com/sites/lizryan/2016/03/03/five-questions-that-make-job-interviewers-look-dumb)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why do so many job interviewers stick to the same, tired job interview script? <a href="https://t.co/SMCo4gqacU">https://t.co/SMCo4gqacU</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/706248424157552640">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![focus on behavior](images/focus_on_behavior.png)](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
