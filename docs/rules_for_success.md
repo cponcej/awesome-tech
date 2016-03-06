@@ -26,11 +26,6 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i3fQqUs5WSQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NidqtkXq9Yg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
