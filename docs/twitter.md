@@ -571,6 +571,9 @@
 ## Startups
 - [entrepreneur.com](http://www.entrepreneur.com/)
 ______________________________________________________________
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Still loving this by <a href="https://twitter.com/adams_cakes">@adams_cakes</a> <a href="http://t.co/taQz1GV5v7">pic.twitter.com/taQz1GV5v7</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/642646344075575296">12 de septiembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <p align="center">
 <a href="https://www.reddit.com/r/programming/comments/16qbxn/if_carpenters_were_hired_like_programmers/">If Carpenters Were Hired Like Programmers</a>
 </p>
