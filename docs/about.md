@@ -52,7 +52,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IvUU8joBb1Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
+_______________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">19 years ago today: <a href="https://t.co/qAz86wNAIn">https://t.co/qAz86wNAIn</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/631163195382607872">11 de agosto de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Here&#39;s the video for Hindu Times, shot 13 years ago in April 2002 by W.I.Z. <br>It went straight in at the no. 1 spot.<a href="https://t.co/icJ1s4LjBz">https://t.co/icJ1s4LjBz</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/593852349052887040">30 de abril de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
