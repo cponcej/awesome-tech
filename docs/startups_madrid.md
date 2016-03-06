@@ -12,6 +12,7 @@
 - [campus.co/madrid: Google’s space for entrepreneurs in Madrid](https://www.campus.co/madrid/en/about)
 - [Wayra start-up accelerator](http://wayra.co)
 	- [Wikipedia: Wayra](https://en.wikipedia.org/wiki/Wayra)
+- [España está "todavía muy lejos de ser un paraíso para los emprendedores", según Telefónica Open Future 🌟](http://www.europapress.es/economia/noticia-espana-todavia-muy-lejos-ser-paraiso-emprendedores-telefonica-open-future-20160306122536.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QkEGCA40RV0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
