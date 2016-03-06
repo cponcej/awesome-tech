@@ -401,6 +401,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2VuH07iG6MOgR7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/clorissalepe/hollywood-blacklist" title="Hollywood blacklist" target="_blank">Hollywood blacklist</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/clorissalepe">Clorissa Lepe</a></strong> </div>
+</div>
+<br/>
+
 <p align="center">
 <a href="http://www.revistagq.com/actualidad/cine/articulos/20-anos-trainspotting-pelicula-que-cambio-el-cine-britanico/23481">20 años de 'Trainspotting', la película que transformó para siempre el cine británico</a>
 </p>
