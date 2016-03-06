@@ -38,19 +38,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Oh, the places you can go with Google Street View <a href="https://t.co/p1UP4dN6YY">https://t.co/p1UP4dN6YY</a> by <a href="https://twitter.com/annaescher">@annaescher</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/706177710926630912">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">19 years ago today: <a href="https://t.co/qAz86wNAIn">https://t.co/qAz86wNAIn</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/631163195382607872">11 de agosto de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Here&#39;s the video for Hindu Times, shot 13 years ago in April 2002 by W.I.Z. <br>It went straight in at the no. 1 spot.<a href="https://t.co/icJ1s4LjBz">https://t.co/icJ1s4LjBz</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/593852349052887040">30 de abril de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Clint Eastwood riding a skateboard in 1971 <a href="https://t.co/VICk56QJXX">pic.twitter.com/VICk56QJXX</a></p>&mdash; Actor Trivia (@ActorTrivia) <a href="https://twitter.com/ActorTrivia/status/706549494113026051">6 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Watch the trailer for <a href="https://twitter.com/U2">@U2</a>: iNNOCENCE + eXPERIENCE Live in Paris, rescheduled for Dec. 7 at 9PM. <a href="https://twitter.com/hashtag/U2ieTour?src=hash">#U2ieTour</a> <a href="https://twitter.com/hashtag/U2onHBO?src=hash">#U2onHBO</a><a href="https://t.co/VVyya4RuRO">https://t.co/VVyya4RuRO</a></p>&mdash; HBO (@HBO) <a href="https://twitter.com/HBO/status/669307559375863808">25 de noviembre de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Buenos días Runners! Os dejamos con la segunda parte de la prueba a fondo de <a href="https://twitter.com/hashtag/Runtastic?src=hash">#Runtastic</a> PRO! <a href="https://twitter.com/hashtag/AporELViernes?src=hash">#AporELViernes</a> <a href="https://t.co/uNUfgsQ2CK">https://t.co/uNUfgsQ2CK</a></p>&mdash; WeRunBarcelona (@WeRunBarcelona) <a href="https://twitter.com/WeRunBarcelona/status/695515873969311744">5 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yKORsrlN-2k?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -65,3 +52,16 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IvUU8joBb1Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">19 years ago today: <a href="https://t.co/qAz86wNAIn">https://t.co/qAz86wNAIn</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/631163195382607872">11 de agosto de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Here&#39;s the video for Hindu Times, shot 13 years ago in April 2002 by W.I.Z. <br>It went straight in at the no. 1 spot.<a href="https://t.co/icJ1s4LjBz">https://t.co/icJ1s4LjBz</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/593852349052887040">30 de abril de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Clint Eastwood riding a skateboard in 1971 <a href="https://t.co/VICk56QJXX">pic.twitter.com/VICk56QJXX</a></p>&mdash; Actor Trivia (@ActorTrivia) <a href="https://twitter.com/ActorTrivia/status/706549494113026051">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Watch the trailer for <a href="https://twitter.com/U2">@U2</a>: iNNOCENCE + eXPERIENCE Live in Paris, rescheduled for Dec. 7 at 9PM. <a href="https://twitter.com/hashtag/U2ieTour?src=hash">#U2ieTour</a> <a href="https://twitter.com/hashtag/U2onHBO?src=hash">#U2onHBO</a><a href="https://t.co/VVyya4RuRO">https://t.co/VVyya4RuRO</a></p>&mdash; HBO (@HBO) <a href="https://twitter.com/HBO/status/669307559375863808">25 de noviembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Buenos días Runners! Os dejamos con la segunda parte de la prueba a fondo de <a href="https://twitter.com/hashtag/Runtastic?src=hash">#Runtastic</a> PRO! <a href="https://twitter.com/hashtag/AporELViernes?src=hash">#AporELViernes</a> <a href="https://t.co/uNUfgsQ2CK">https://t.co/uNUfgsQ2CK</a></p>&mdash; WeRunBarcelona (@WeRunBarcelona) <a href="https://twitter.com/WeRunBarcelona/status/695515873969311744">5 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
