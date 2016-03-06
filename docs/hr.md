@@ -277,6 +277,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why do so many job interviewers stick to the same, tired job interview script? <a href="https://t.co/SMCo4gqacU">https://t.co/SMCo4gqacU</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/706248424157552640">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Quote of the day: <a href="https://t.co/evmuW9Fqfr">https://t.co/evmuW9Fqfr</a> <a href="https://t.co/A2IggUSmxE">pic.twitter.com/A2IggUSmxE</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/706509897060450304">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![focus on behavior](images/focus_on_behavior.png)](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
 
 [![Voltaire judge a man by his questions](images/voltaire_judge_a_man_by_his_questions.jpg)](http://statusmind.com/)
