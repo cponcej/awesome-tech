@@ -85,6 +85,8 @@ __________________________________________________________________
 <a href="https://es.wikipedia.org/wiki/Facultad_de_Inform%C3%A1tica_de_San_Sebasti%C3%A1n">Facultad de Informática de San Sebastián</a>
 </p>
 
+[![facultad de informatica de san sebastian](images/informatika_fakultatea.jpg)](https://es.wikipedia.org/wiki/Facultad_de_Inform%C3%A1tica_de_San_Sebasti%C3%A1n)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/IxaTaldea">@IxaTaldea</a> <a href="https://twitter.com/HAP_LAP_Jobs">@HAP_LAP_Jobs</a>  <a href="https://t.co/burSK8VO63">https://t.co/burSK8VO63</a></p>&mdash; iñaki Alegria (@inakialegria) <a href="https://twitter.com/inakialegria/status/704689350920019968">1 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="eu" dir="ltr">Informatikako (<a href="https://twitter.com/txiomatika">@txiomatika</a>-ko) irakasle <a href="https://twitter.com/eagirre">@eagirre</a> sarituetako bat. Zorionak :) :) <a href="https://t.co/PPPZz46xML">https://t.co/PPPZz46xML</a></p>&mdash; UPV/EHU (@upvehu) <a href="https://twitter.com/upvehu/status/699971495708246016">17 de febrero de 2016</a></blockquote>
