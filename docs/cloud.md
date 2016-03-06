@@ -13,6 +13,7 @@
 	- [Amazon Web Services](#amazon-web-services)
 	- [OpenStack private cloud](#openstack-private-cloud)
 		- [Red Hat OpenStack](#red-hat-openstack)
+		- [Ubuntu OpenStack](#ubuntu-openstack)
 		- [OpenStack refs](#openstack-refs)
 	- [IBM Cloud. IBM Bluemix](#ibm-cloud-ibm-bluemix)
 	- [Google Cloud](#google-cloud)
@@ -130,6 +131,9 @@
 ## OpenStack private cloud
 ### Red Hat OpenStack
 - [Red Hat OpenStack](redhat_openstack.md)
+
+### Ubuntu OpenStack
+- [Ubuntu OpenStack installer](http://openstack.astokes.org/)
 
 ### OpenStack refs
 - [openstack.org](http://openstack.org)
