@@ -79,3 +79,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Christian Bale&#39;s Weight Transformation for Movies <a href="https://t.co/EGLQa81pe8">pic.twitter.com/EGLQa81pe8</a></p>&mdash; Actor Trivia (@ActorTrivia) <a href="https://twitter.com/ActorTrivia/status/706224250194161664">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La pareja O&#39;Neal - Kobe es una de las mejores de la historia, eran imparables: <a href="https://t.co/mfxTD0L65H">https://t.co/mfxTD0L65H</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/706561679241388032">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
