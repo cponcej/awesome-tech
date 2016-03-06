@@ -59,7 +59,13 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Watch the trailer for <a href="https://twitter.com/U2">@U2</a>: iNNOCENCE + eXPERIENCE Live in Paris, rescheduled for Dec. 7 at 9PM. <a href="https://twitter.com/hashtag/U2ieTour?src=hash">#U2ieTour</a> <a href="https://twitter.com/hashtag/U2onHBO?src=hash">#U2onHBO</a><a href="https://t.co/VVyya4RuRO">https://t.co/VVyya4RuRO</a></p>&mdash; HBO (@HBO) <a href="https://twitter.com/HBO/status/669307559375863808">25 de noviembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Me gustó un video de <a href="https://twitter.com/YouTube">@YouTube</a> de <a href="https://twitter.com/mecanopausia">@mecanopausia</a> <a href="https://t.co/z0EUE3EAxs">https://t.co/z0EUE3EAxs</a> Mecano - No hay marcha en Nueva York</p>&mdash; Guillermo Rojas (@GuillermoRoja28) <a href="https://twitter.com/GuillermoRoja28/status/703094806759649280">26 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Héroes del Silencio - La herida <a href="https://t.co/4lBc23jgYL">https://t.co/4lBc23jgYL</a></p>&mdash; ANA VEGA (@ANAVEGAWRITER) <a href="https://twitter.com/ANAVEGAWRITER/status/706563478815940609">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Aquí, en mi último día en la oficina escuchando a Heroes del Silencio <a href="https://twitter.com/hashtag/BuenosDias?src=hash">#BuenosDias</a> &quot;Maldito duende&quot; <a href="https://t.co/sIaWwlhNez">https://t.co/sIaWwlhNez</a></p>&mdash; Aliena Nieto (@AlienaNieto) <a href="https://twitter.com/AlienaNieto/status/703143200089702405">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://t.co/dDcDvMYOHZ">https://t.co/dDcDvMYOHZ</a> Versión especial de &quot;El universo sobre mí&quot; en <a href="https://twitter.com/NETxFOX">@NETxFOX</a>.</p>&mdash; Planeta Amaral (@PlanetaAmaral) <a href="https://twitter.com/PlanetaAmaral/status/705422805060489216">3 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
