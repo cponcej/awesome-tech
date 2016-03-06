@@ -212,6 +212,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Price, past year<br><br>Crude oil: -43%<br>Natural gas: -32%<br>Gold: +1.2%<br>Silver: -7%<br>Copper: -22%<br>Iron: -29%<br>Nickel: -48%<br>Coal: -28%<br>Steel: -56%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702251619598008321">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Oil price, March<br><br>2008: $117<br>2009: $53<br>2010: $88<br>2011: $109<br>2012: $106<br>2013: $98<br>2014: $102<br>2015: $48<br><br>Now: $35.9 <a href="https://t.co/IfKYFJNkEd">pic.twitter.com/IfKYFJNkEd</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/706443233040031744">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Steel price.<br><br>June, 2008: $1,265<br><br>February, 2016: $210 <a href="https://t.co/3tWUA97xaL">pic.twitter.com/3tWUA97xaL</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/704285857881071616">29 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
