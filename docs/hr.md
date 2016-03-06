@@ -267,6 +267,7 @@
 - [The Perfect Way To Answer ‘Where Do You See Yourself In 5 Years?’ In A Job Interview](http://www.careerealism.com/job-interivew-where-see-youself-5-years/)
 - [How to Ask for a Reference That Will Get You Hired](https://www.linkedin.com/pulse/how-ask-reference-get-you-hired-bernard-marr)
 - [forbes: Five Questions That Make Job Interviewers Look Dumb 🌟🌟](http://www.forbes.com/sites/lizryan/2016/03/03/five-questions-that-make-job-interviewers-look-dumb)
+- [Find out the ideal work style for your personality](http://www.businessinsider.com/quiz-ideal-work-style-for-your-personality)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
