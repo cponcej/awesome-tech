@@ -80,7 +80,22 @@ ________________________________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/La?src=hash">#La</a> Oreja de Van Gogh - Dulce Locura<a href="https://t.co/VVccsrI5kN">https://t.co/VVccsrI5kN</a></p>&mdash; Capitán Trueno (@josejua11) <a href="https://twitter.com/josejua11/status/705425962608041984">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+__________________________________________________________________
+<p align="center">
+<a href="https://es.wikipedia.org/wiki/Facultad_de_Inform%C3%A1tica_de_San_Sebasti%C3%A1n">Facultad de Informática de San Sebastián</a>
+</p>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/IxaTaldea">@IxaTaldea</a> <a href="https://twitter.com/HAP_LAP_Jobs">@HAP_LAP_Jobs</a>  <a href="https://t.co/burSK8VO63">https://t.co/burSK8VO63</a></p>&mdash; iñaki Alegria (@inakialegria) <a href="https://twitter.com/inakialegria/status/704689350920019968">1 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="eu" dir="ltr">Informatikako (<a href="https://twitter.com/txiomatika">@txiomatika</a>-ko) irakasle <a href="https://twitter.com/eagirre">@eagirre</a> sarituetako bat. Zorionak :) :) <a href="https://t.co/PPPZz46xML">https://t.co/PPPZz46xML</a></p>&mdash; UPV/EHU (@upvehu) <a href="https://twitter.com/upvehu/status/699971495708246016">17 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="eu" dir="ltr">APP bat itsuei bidean laguntzeko<br>Chieko Asakawa <a href="https://twitter.com/IBMResearch">@IBMResearch</a> <a href="https://twitter.com/EgokituzLab">@EgokituzLab</a> <a href="https://t.co/lwLu2ZL00X">https://t.co/lwLu2ZL00X</a> …<br>5:48tik aurrera <a href="https://t.co/IWGR6KRl17">pic.twitter.com/IWGR6KRl17</a></p>&mdash; Informatika UPV/EHU (@txiomatika) <a href="https://twitter.com/txiomatika/status/677192930478657536">16 de diciembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Informática: sexta carrera con mayor tasa de empleo (El Mundo) <br>Se necesitan informátic@s!<a href="https://t.co/eDcykTohI6">https://t.co/eDcykTohI6</a> <a href="https://t.co/1968vSjI4z">pic.twitter.com/1968vSjI4z</a></p>&mdash; Informatika UPV/EHU (@txiomatika) <a href="https://twitter.com/txiomatika/status/679571899475701760">23 de diciembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+______________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/MuseoGuggenheim">@MuseoGuggenheim</a> is one of the most beautiful museums in the  world.  <a href="https://twitter.com/CNTraveler">@CNTraveler</a>  <br> <a href="https://t.co/MG2XFS6aU5">https://t.co/MG2XFS6aU5</a> <a href="https://t.co/wTgQQuKKPC">pic.twitter.com/wTgQQuKKPC</a></p>&mdash; Visit Basque Country (@VisitBasqueCtry) <a href="https://twitter.com/VisitBasqueCtry/status/705367447025664001">3 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tubacex cierra 2015 con un descenso en ventas del 2,4% y un beneficio neto de 8,4 millones <a href="https://t.co/GYOcuQ5SPh">https://t.co/GYOcuQ5SPh</a></p>&mdash; Europa Press Euskadi (@EPEuskadi) <a href="https://twitter.com/EPEuskadi/status/703188248252837888">26 de febrero de 2016</a></blockquote>
@@ -88,7 +103,7 @@ ________________________________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tubos Reunidos presenta un ERE temporal para 398 trabajadores<a href="https://t.co/uzLxAxYNsw">https://t.co/uzLxAxYNsw</a></p>&mdash; El Correo (@elcorreo_com) <a href="https://twitter.com/elcorreo_com/status/702825596661981184">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+______________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Buenos días Runners! Os dejamos con la segunda parte de la prueba a fondo de <a href="https://twitter.com/hashtag/Runtastic?src=hash">#Runtastic</a> PRO! <a href="https://twitter.com/hashtag/AporELViernes?src=hash">#AporELViernes</a> <a href="https://t.co/uNUfgsQ2CK">https://t.co/uNUfgsQ2CK</a></p>&mdash; WeRunBarcelona (@WeRunBarcelona) <a href="https://twitter.com/WeRunBarcelona/status/695515873969311744">5 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Stanley Kubrik only won 1 Oscar in his lifetime.</p>&mdash; Actor Trivia (@ActorTrivia) <a href="https://twitter.com/ActorTrivia/status/706396421998555137">6 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
