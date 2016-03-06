@@ -13,6 +13,7 @@
 2. [Startups and IT Jobs, In-Demand Skills](startups.md)
 	- [Barcelona Tech, Startups and Innovation](startups_bcn.md)
 	- [Madrid Tech, Startups and Innovation](startups_madrid.md)
+	- [Rules for success](rules_for_success.md)
 3. [Human Resources, Interviews, Leadership 🙈 🙉 🙊](hr.md) Stimulating and provocative!
 4. [Scalability and Reliability, Web Performance 🌟](scalability.md)
 5. [Linux](linux.md)
