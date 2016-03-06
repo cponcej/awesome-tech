@@ -84,6 +84,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La Oreja de Van Gogh - 20 de Enero (Official Video) <a href="https://t.co/lzYOV4rx27">https://t.co/lzYOV4rx27</a>  quiero volver a este año</p>&mdash; Insanity  ☠ (@UnaDeRon) <a href="https://twitter.com/UnaDeRon/status/706574441929695238">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/La?src=hash">#La</a> Oreja de Van Gogh - Dulce Locura<a href="https://t.co/VVccsrI5kN">https://t.co/VVccsrI5kN</a></p>&mdash; Capitán Trueno (@josejua11) <a href="https://twitter.com/josejua11/status/705425962608041984">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Buenos días Runners! Os dejamos con la segunda parte de la prueba a fondo de <a href="https://twitter.com/hashtag/Runtastic?src=hash">#Runtastic</a> PRO! <a href="https://twitter.com/hashtag/AporELViernes?src=hash">#AporELViernes</a> <a href="https://t.co/uNUfgsQ2CK">https://t.co/uNUfgsQ2CK</a></p>&mdash; WeRunBarcelona (@WeRunBarcelona) <a href="https://twitter.com/WeRunBarcelona/status/695515873969311744">5 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Stanley Kubrik only won 1 Oscar in his lifetime.</p>&mdash; Actor Trivia (@ActorTrivia) <a href="https://twitter.com/ActorTrivia/status/706396421998555137">6 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
