@@ -187,6 +187,7 @@
 - [cityam.com: "Password", "123456" and "qwerty": These are the world's 25 worst passwords of 2015](http://www.cityam.com/232759/password-123456-and-qwerty-these-are-the-worlds-25-worst-passwords-of-2015)
 - [Most IT pros have seen potentially embarrassing information about their colleagues](http://www.net-security.org/secworld.php?id=19418) 
 - [techvisionresearch.com: The future of Identity Management](http://techvisionresearch.com/the-future-of-identity-management/)
+- [nixCraft: How to paste password easily when pasting into password input fields disabled on Google Chrome 🌟](http://www.cyberciti.biz/linux-news/google-chrome-extension-to-removes-password-paste-blocking-on-website/)
 
 ![passwords](images/passwords.jpg)
 

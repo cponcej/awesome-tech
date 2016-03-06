@@ -350,8 +350,12 @@
 - [developerblog.redhat.com: Red Hat Container Development Kit 2](http://developerblog.redhat.com/2016/02/08/update-red-hat-container-development-kit-2-beta/)
 - [planet.jboss.org: How to install Red Hat Container Development Kit (CDK) in minutes 🌟](http://planet.jboss.org/post/how_to_install_red_hat_container_development_kit_cdk_in_minutes)
 - [rhelblog.redhat.com: The Red Hat Ecosystem for Microservice and Container Development 🌟](http://rhelblog.redhat.com/2016/02/23/the-red-hat-ecosystem-for-microservice-and-container-development/)
+- [rhelblog.redhat.com: Getting Started with the Red Hat Container Development Kit (CDK)](http://rhelblog.redhat.com/2016/02/25/getting-started-with-the-red-hat-container-development-kit-cdk/)
 
 [![red hat container ecosystem](images/container_ecosystem.png)](http://rhelblog.redhat.com/2016/02/23/the-red-hat-ecosystem-for-microservice-and-container-development/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to get a Node.js and mongodb application running in <a href="https://twitter.com/hashtag/containers?src=hash">#containers</a> and deployed <a href="https://twitter.com/openshift">@OpenShift</a> via the Red Hat CDK - <a href="https://t.co/QlmFOhmaMa">https://t.co/QlmFOhmaMa</a></p>&mdash; Kimberly Craven (@kimberlycraven) <a href="https://twitter.com/kimberlycraven/status/702942857535946752">25 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Red Hat Varnish
 - [Varnish Cache](https://www.varnish-cache.org/)

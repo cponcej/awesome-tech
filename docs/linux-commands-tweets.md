@@ -90,3 +90,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Test reachability of a cloud DNS server &amp; measure the round-trip time<br><br>for i in {1..4};do ping -q -c 4 ns-cloud-c${i}.googledomains.com;done</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706203762398920704">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Pressing Ctrl+D conveniently exits Bash. Specify that it must be pressed twice to exit. Add in ~/.bashrc on a Unix/Linux<br><br>export IGNOREEOF=1</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706413486230798336">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
