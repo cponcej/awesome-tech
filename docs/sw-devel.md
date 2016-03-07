@@ -455,4 +455,7 @@ ________________________________________________________________________________
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sobre las vacunas, dos seres de ficción: La monja Forcades  (FAV) <a href="https://t.co/hBM8SMCcZK">https://t.co/hBM8SMCcZK</a> vs. el doctor House <a href="https://t.co/xjIyh0D9ZQ">https://t.co/xjIyh0D9ZQ</a> (RT)</p>&mdash; Santiago Navajas (@santiagonavajas) <a href="https://twitter.com/santiagonavajas/status/608706540829294592">10 de junio de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/f5Ambk3tSAzmwTFQgrEUqw/139044569770" data-did="eb9a18b0012d1238179ae41a992b0497a3ed51e0"><a href="http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile">http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
