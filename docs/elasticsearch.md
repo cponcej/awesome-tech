@@ -2,6 +2,7 @@
 
 - [Elasticsearch](#elasticsearch)
     - [Logstash, kibana and elasticsearch](#logstash-kibana-and-elasticsearch)
+- [Syslog ng](#syslog-ng)
 
 <!-- /MarkdownTOC -->
 
@@ -25,6 +26,10 @@
 - [Packetbeat | Real-Time Network Packet Analytics 🌟](https://www.elastic.co/products/beats/packetbeat) Packetbeat is the open source data shipper that integrates with Elasticsearch and Kibana to provide real-time analytics for web, database, and other network protocols. It’s extensible, letting IT operations, security, and business analysts rapidly add new protocols, metrics, and analytics, and has a cloud‑ready deployment model to ensure scalability as your applications evolve.
 - [adictosaltrabajo.com: Introducción a Kibana](http://www.adictosaltrabajo.com/tutoriales/introduccion-a-kibana/)
 - [How to deploy Elasticsearch with Docker in 10 steps 🌟](How to deploy Elasticsearch with Docker in 10 steps)
+
+# Syslog ng
+- [syslog-ng: Open Source log management solution with over a million users worldwide 🌟](https://syslog-ng.org/)
+- [syslog-ng.org: Introduction to disk-based buffering in syslog-ng Open Source Edition 🌟🌟](https://syslog-ng.org/493-2/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qSI2XvynhYU2MK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/prajalkulkarni/attack-monitoring-using-elasticsearch-logstash-and-kibana" title="Attack monitoring using ElasticSearch Logstash and Kibana" target="_blank">Attack monitoring using ElasticSearch Logstash and Kibana</a> </strong> from <strong><a href="//www.slideshare.net/prajalkulkarni" target="_blank">Prajal Kulkarni</a></strong> </div>
