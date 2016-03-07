@@ -35,6 +35,8 @@
 
 [![voltaire people judge hastily](images/voltaire_people_judge_hastily.jpg)](http://statusmind.com/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Once something is a passion, the motivation is there.&quot; ~ Michael Schumacher <a href="https://twitter.com/hashtag/quote?src=hash">#quote</a> <a href="https://twitter.com/hashtag/leadership?src=hash">#leadership</a> <a href="https://twitter.com/hashtag/inspiration?src=hash">#inspiration</a> <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/PSRLbjVqnt">pic.twitter.com/PSRLbjVqnt</a></p>&mdash; Tamara McCleary (@TamaraMcCleary) <a href="https://twitter.com/TamaraMcCleary/status/706243435376709632">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Human Resources 
 ## HR Blogs
 - [careerealism.com](http://www.careerealism.com/)
@@ -85,6 +87,9 @@
 - [How to Unlock the “Respect Me” Code at Work](https://www.linkedin.com/pulse/how-unlock-respect-me-code-work-j-t-o-donnell)
 - [Are You A Jerk At Work? (How To Know For Sure) 🌟](https://www.linkedin.com/pulse/you-jerk-work-how-know-sure-nathalie-salles)
 - [Why some teams don’t get along — and what we learned from the commander of the International Space Station](https://www.linkedin.com/pulse/why-some-teams-dont-get-along-what-we-learned-from-commander-elton)
+
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/F1VaultVideo?src=hash">#F1VaultVideo</a> - Part 2 of <a href="https://twitter.com/hashtag/Schumacher?src=hash">#Schumacher</a> vs <a href="https://twitter.com/hashtag/Coulthard?src=hash">#Coulthard</a>. Who was in the wrong? <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/f2x6QujJ2n">pic.twitter.com/f2x6QujJ2n</a></p>&mdash; F1 Fanzone (@F1FanzoneMag) <a href="https://twitter.com/F1FanzoneMag/status/705857928595636224">March 4, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
