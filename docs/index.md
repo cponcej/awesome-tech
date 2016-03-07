@@ -4,7 +4,7 @@
 <img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
 <div id="player"></div>
 </div>
-[![available for hire](images/available-for-hire.png)](http://about.me/inafev)
+[![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 
 **Table of Contents**
 
