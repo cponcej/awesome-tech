@@ -293,6 +293,7 @@
 	- [Red Hat JBoss Engineers about Java EE, Container, Microservices and Testing](http://blog.eisele.net/2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html)
 - [middlewareblog.redhat.com: Containers, cloud, and Java apps: A new video on development stacks 🌟](http://middlewareblog.redhat.com/2016/02/17/containers-cloud-and-java-apps/)
 - [developerblog.redhat.com: Getting started with EAP 7 and JBoss Developer Studio](http://developerblog.redhat.com/2016/02/15/getting-started-with-eap-7-and-jboss-developer-studio/)
+- [developers.redhat.com: What’s new with JPA 2.1 and Hibernate 5 in JBoss EAP 7](http://developers.redhat.com/blog/2016/03/07/whats-new-jpa-2-1-hibernate-5-jboss-eap-7)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
