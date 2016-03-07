@@ -211,6 +211,8 @@
 
 [![Leadership styles around the world](images/Leadership-Styles-Around-The-World.png)](http://www.planningengineer.net/graphs-of-leadership-types-all-over-the-world/)
 
+![management culture france](images/management_culture_france.png)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6j0TVGQmVAc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
