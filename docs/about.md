@@ -149,6 +149,12 @@ ______________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Christian Bale&#39;s Weight Transformation for Movies <a href="https://t.co/EGLQa81pe8">pic.twitter.com/EGLQa81pe8</a></p>&mdash; Actor Trivia (@ActorTrivia) <a href="https://twitter.com/ActorTrivia/status/706224250194161664">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How The X-Files changed television <a href="https://t.co/6uRdtNIvtH">https://t.co/6uRdtNIvtH</a> via <a href="https://twitter.com/BBC_Culture">@BBC_Culture</a></p>&mdash; Bleddyn. (@m0jito) <a href="https://twitter.com/m0jito/status/703302725899911169">26 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Maggot Brian In Doctor House <a href="https://t.co/FocRFLzUZP">https://t.co/FocRFLzUZP</a></p>&mdash; Bryan Maloney (@Winchester7314) <a href="https://twitter.com/Winchester7314/status/690742297688936449">23 de enero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La pareja O&#39;Neal - Kobe es una de las mejores de la historia, eran imparables: <a href="https://t.co/mfxTD0L65H">https://t.co/mfxTD0L65H</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/706561679241388032">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
