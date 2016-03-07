@@ -165,6 +165,9 @@
 - [What is the difference between WHERE and HAVING clauses?](http://www.essentialsql.com/what-is-the-difference-between-where-and-having-clauses)
 - [BI For Beginners – a Business Intelligence Interview with Brian Larson](http://www.essentialsql.com/bi-for-beginners-a-business-intelligence-interview-with-brian-larson)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Today, Microsoft announces that SQL Server is coming to Linux!&#13;&#13;<a href="https://t.co/HukIWadiqB">https://t.co/HukIWadiqB</a></p>&mdash; Gijs de Jong (@gijsdej) <a href="https://twitter.com/gijsdej/status/706960105519108099">7 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Lose your SQL manual?  Do worry, start here!  <a href="https://t.co/NnNDYLukrG">https://t.co/NnNDYLukrG</a></p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/692407774370779136">enero 27, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

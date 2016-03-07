@@ -37,6 +37,9 @@
 
 [![number of running windows dec 2015](images/number_of_win10.jpg)](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Today, Microsoft announces that SQL Server is coming to Linux!&#13;&#13;<a href="https://t.co/HukIWadiqB">https://t.co/HukIWadiqB</a></p>&mdash; Gijs de Jong (@gijsdej) <a href="https://twitter.com/gijsdej/status/706960105519108099">7 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Video: How to use the Windows Software Licensing Management Tool <a href="https://t.co/XVr42usYXV">https://t.co/XVr42usYXV</a> <a href="https://twitter.com/edbott">@edbott</a> <a href="https://twitter.com/billdetwiler">@BillDetwiler</a> <a href="https://t.co/Rz1fm7KMal">pic.twitter.com/Rz1fm7KMal</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/705784929435648000">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
