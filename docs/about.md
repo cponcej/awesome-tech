@@ -63,6 +63,9 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Me gustó un video de <a href="https://twitter.com/YouTube">@YouTube</a> <a href="https://t.co/plLrARN82S">https://t.co/plLrARN82S</a> Coldplay - Yellow</p>&mdash; Luciano (@vegettaculiao) <a href="https://twitter.com/vegettaculiao/status/706511373597962240">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/LynseyKondi">@LynseyKondi</a> <a href="https://twitter.com/alcissa">@alcissa</a> thought maybe Lynsey may just like this one             <a href="https://t.co/Gjw3MNcWrF">https://t.co/Gjw3MNcWrF</a></p>&mdash; GERARD JAMES HAY (@GERARDJAMESHAY) <a href="https://twitter.com/GERARDJAMESHAY/status/706924680490385408">7 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">No Doubt - Don&#39;t Speak... AMO ESTA CANCIÓN EN LA VIDA, m trae los mejores recuerdos 😍 un clásico total 🎧🗣 <a href="https://t.co/fw0xLApq9X">https://t.co/fw0xLApq9X</a></p>&mdash; Carla (@carladesi) <a href="https://twitter.com/carladesi/status/706021277417541632">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">19 years ago today: <a href="https://t.co/qAz86wNAIn">https://t.co/qAz86wNAIn</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/631163195382607872">11 de agosto de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
