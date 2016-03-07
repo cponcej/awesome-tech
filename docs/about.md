@@ -60,9 +60,6 @@ ________________________________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">myRockworld - On this day 1990, Sinead O&#39;Connor was at No.1 on the UK singles chart with &#39;Nothing Compares 2 U.&#39;... <a href="https://t.co/QzoHp2mOwZ">https://t.co/QzoHp2mOwZ</a></p>&mdash; myRockworld (@myRockworldonfb) <a href="https://twitter.com/myRockworldonfb/status/703117368222834691">26 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="es" dir="ltr">Buenas noches.<br><br>Sinead O&#39;Connor - Nothing Compares 2 U <a href="https://t.co/SHqDEdg6oR">https://t.co/SHqDEdg6oR</a></p>&mdash; Laga (@Lagavulin25) <a href="https://twitter.com/Lagavulin25/status/706621144120627200">March 6, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">No Doubt - Don&#39;t Speak... AMO ESTA CANCIÓN EN LA VIDA, m trae los mejores recuerdos 😍 un clásico total 🎧🗣 <a href="https://t.co/fw0xLApq9X">https://t.co/fw0xLApq9X</a></p>&mdash; Carla (@carladesi) <a href="https://twitter.com/carladesi/status/706021277417541632">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">19 years ago today: <a href="https://t.co/qAz86wNAIn">https://t.co/qAz86wNAIn</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/631163195382607872">11 de agosto de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
