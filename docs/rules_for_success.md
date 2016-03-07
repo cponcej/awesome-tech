@@ -1,5 +1,9 @@
 # Rules For Success 
 
+<p align="center">
+<a href="http://successstory.com/people/michael-schumacher">Michael Schumacher Success Story</a>
+</p>
+
 [![michael schumacher never gives up](images/michael_schumacher_never_give_up.jpg)](http://likesuccess.com/topics/24879/schumacher)
 
 <div class="container">
