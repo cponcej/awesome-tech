@@ -85,10 +85,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">29 common beginner Python errors on one page via <a href="https://t.co/Ctvy84KXKx">https://t.co/Ctvy84KXKx</a> <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/Programming?src=hash">#Programming</a> <a href="https://twitter.com/hashtag/Unix?src=hash">#Unix</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/vaZaJETNPU">pic.twitter.com/vaZaJETNPU</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706530828092731393">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<div class="container">
 <blockquote class="imgur-embed-pub" lang="en" data-id="WRuJV6r"><a href="//imgur.com/WRuJV6r">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</div>
-<br/>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/8cvSLR0lWRnZyS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Moment_of_Revelation/pep-8-cheatsheet-2009-32888711" title="Pep 8 cheatsheet (2009)" target="_blank">Pep 8 cheatsheet (2009)</a> </strong> from <strong><a href="//www.slideshare.net/Moment_of_Revelation" target="_blank">Moment_of_Revelation</a></strong> </div>
