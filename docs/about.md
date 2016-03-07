@@ -121,6 +121,12 @@ ______________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tubos Reunidos presenta un ERE temporal para 398 trabajadores<a href="https://t.co/uzLxAxYNsw">https://t.co/uzLxAxYNsw</a></p>&mdash; El Correo (@elcorreo_com) <a href="https://twitter.com/elcorreo_com/status/702825596661981184">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="http://t.co/1NxxXorO2D">http://t.co/1NxxXorO2D</a> los trabajadores de Gerdau-Basauri sorprendidos por la venta <a href="https://twitter.com/hashtag/sidenor?src=hash">#sidenor</a> <a href="https://twitter.com/hashtag/industria?src=hash">#industria</a></p>&mdash; Interneteando (@interneteando) <a href="https://twitter.com/interneteando/status/655089976070287363">16 de octubre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/MaikyLinares?src=hash">#MaikyLinares</a> Euskadi sufre la pérdida de los centros de decisión: El incierto futuro de la ACB y Sidenor, amb... <a href="https://t.co/gGow5PQJvB">https://t.co/gGow5PQJvB</a></p>&mdash; ∞  Tίρίcσ &amp; Ŧяαѕє;*♥ (@UnPoetaDicen) <a href="https://twitter.com/UnPoetaDicen/status/698787588996370433">14 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ______________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Buenos días Runners! Os dejamos con la segunda parte de la prueba a fondo de <a href="https://twitter.com/hashtag/Runtastic?src=hash">#Runtastic</a> PRO! <a href="https://twitter.com/hashtag/AporELViernes?src=hash">#AporELViernes</a> <a href="https://t.co/uNUfgsQ2CK">https://t.co/uNUfgsQ2CK</a></p>&mdash; WeRunBarcelona (@WeRunBarcelona) <a href="https://twitter.com/WeRunBarcelona/status/695515873969311744">5 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
