@@ -72,9 +72,6 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Cranberries - Zombie<a href="https://twitter.com/hashtag/music?src=hash">#music</a> <a href="https://twitter.com/hashtag/musica?src=hash">#musica</a><a href="https://t.co/ElzHBdn97E">https://t.co/ElzHBdn97E</a></p>&mdash; Peyman Nikoo (@PeymanNikoo) <a href="https://twitter.com/PeymanNikoo/status/703154020022484992">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Good Night, and Good Luck to all followers<br>   The Corrs - Breathless <a href="https://t.co/HXipMo9gXK">https://t.co/HXipMo9gXK</a></p>&mdash; El Puto Jefe (@SinSoSobre) <a href="https://twitter.com/SinSoSobre/status/706605150119600128">6 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://t.co/rPrX4f4xQp">https://t.co/rPrX4f4xQp</a> recordando un buena pelicula</p>&mdash; DJ Jeam® (@DJ_JEAM) <a href="https://twitter.com/DJ_JEAM/status/705802704229158912">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">15 years ago this week (2001) * Eminem featuring Dido - Stan* topped the Australian Chart <a href="https://t.co/UJctx2w3Gc">https://t.co/UJctx2w3Gc</a></p>&mdash; Ultimate Music Chart (@UltChart) <a href="https://twitter.com/UltChart/status/705683468487933953">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
