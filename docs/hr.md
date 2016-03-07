@@ -110,6 +110,8 @@
 
 [![recruitment-cvs-resumes-interviewer](images/recruitment-cvs-resumes-interviewer.jpg)](https://www.cartoonstock.com/directory/j/job_hunting.asp)
 
+[![job_interview-intimidation](images/job_interview-intimidation.jpg)](https://www.cartoonstock.com/directory/j/job_hunting.asp)
+
 ### Job Description
 - [4 Benefits of Accurate Job Descriptions for Small Businesses](http://www.mjms.net/blog/4-benefits-of-accurate-job-descriptions-for-small-businesses/)
 
