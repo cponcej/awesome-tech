@@ -103,8 +103,17 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Destiny&#39;s Child - Survivor (Official Video) ft. Da Brat. So fitting for this morning of work.  <a href="https://t.co/07AJgPlfVS">https://t.co/07AJgPlfVS</a></p>&mdash; Groth-GK (@Drgroth) <a href="https://twitter.com/Drgroth/status/706874808512946176">7 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/rebecca_judd">@rebecca_judd</a> Our national radio played this every hour and caller her &quot;a Rapper&quot; ever single time. ;( <a href="https://t.co/kotmkRZv2U">https://t.co/kotmkRZv2U</a></p>&mdash; Bernhard Hochrainer (@bernihochrainer) <a href="https://twitter.com/bernihochrainer/status/705459685881733120">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¡Buen día! Qué loco este test de Rorschach, ¿no?<br>Gnarls Barkley - Crazy <a href="https://t.co/L2AnNDOGCe">https://t.co/L2AnNDOGCe</a></p>&mdash; Jokin Urkiaga (@jokin_urkiaga) <a href="https://twitter.com/jokin_urkiaga/status/706438003745488896">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/0SnwiYKqFk">https://t.co/0SnwiYKqFk</a> - Evanescence - Bring Me To Life).</p>&mdash; † x F é t i r o † (@xFetiro) <a href="https://twitter.com/xFetiro/status/706962162498019328">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/NDnajQX2E1">https://t.co/NDnajQX2E1</a> - Linkin Park - Numb (Official Video)).</p>&mdash; Kiower&#39;( KIO) (@Kiower1) <a href="https://twitter.com/Kiower1/status/706976937986682881">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/Uz8JvEP4Qf">https://t.co/Uz8JvEP4Qf</a> - Linkin Park - In The End (Official Video)).</p>&mdash; Kiower&#39;( KIO) (@Kiower1) <a href="https://twitter.com/Kiower1/status/706977783877144576">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Sabes que &quot;Another Brick In The Wall&quot; de <a href="https://twitter.com/pinkfloyd">@PinkFloyd</a> está considerado uno de los mejores vídeo musicales?<a href="https://t.co/HXiZEdqBvQ">https://t.co/HXiZEdqBvQ</a></p>&mdash; Richi Music (@RichiMusicWorld) <a href="https://twitter.com/RichiMusicWorld/status/705685540637691904">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
