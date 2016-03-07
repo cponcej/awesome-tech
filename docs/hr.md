@@ -108,6 +108,8 @@
 - [3 Things You Need to Find a Job Faster](http://www.inc.com/jt-odonnell/these-3-things-will-help-you-find-a-job-faster.html)
 - [A hedge fund HR boss says too many young people are making this error and destroying their chances at a job](http://www.businessinsider.com/point-72-mike-butler-resume-errors-2016-2) More and more young candidates for hedge fund positions aren't being completely honest on their résumés.
 
+[![recruitment-cvs-resumes-interviewer](images/recruitment-cvs-resumes-interviewer.jpg)](https://www.cartoonstock.com/directory/j/job_hunting.asp)
+
 ### Job Description
 - [4 Benefits of Accurate Job Descriptions for Small Businesses](http://www.mjms.net/blog/4-benefits-of-accurate-job-descriptions-for-small-businesses/)
 
