@@ -118,6 +118,8 @@
 #### How to Fire
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
 
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Check out this HBR article on how to embrace complex change. | <a href="https://t.co/McNTpbrQwP">https://t.co/McNTpbrQwP</a> <a href="https://t.co/p8aMSXyauL">pic.twitter.com/p8aMSXyauL</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/706809624440266752">March 7, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Culture and collaboration
 - [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
 - [deloitte: Cultivating the IT Workforce of the Future](http://deloitte.wsj.com/cio/2015/10/20/cultivating-the-it-workforce-of-the-future/)
