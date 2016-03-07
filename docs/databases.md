@@ -7,7 +7,7 @@
 	- [SQL and Database Docs](#sql-and-database-docs)
 	- [Database Performance](#database-performance)
 	- [Database Security](#database-security)
-	- [EssentialSQL](#essentialsql)
+	- [EssentialSQL. SQL Server](#essentialsql-sql-server)
 	- [Use The Index, Luke](#use-the-index-luke)
 	- [Database Version Control](#database-version-control)
 	- [SQL replication](#sql-replication)
@@ -133,7 +133,7 @@
 ## Database Security
 - [SQL Server Security Checklist](https://www.mssqltips.com/sqlservertip/3159/sql-server-security-checklist/)
 
-## EssentialSQL 
+## EssentialSQL. SQL Server
 - [Do you have a desire to learn SQL?](http://www.sanssql.com/2014/05/do-you-have-desire-to-learn-sql.html)
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [Get Ready to Learn SQL: 1 Simple SELECT Queries with SQLite](http://www.essentialsql.com/get-ready-to-learn-sql-simple-select-queries)
