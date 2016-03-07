@@ -1,5 +1,7 @@
 # Rules For Success 
 
+[![michael schumacher never gives up](images/michael_schumacher_never_give_up.jpg)](http://likesuccess.com/topics/24879/schumacher)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHzAtxW3TzY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
