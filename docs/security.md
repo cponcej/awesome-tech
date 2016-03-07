@@ -159,6 +159,9 @@
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">More info on Transmission app and new Mac ransomware <a href="https://t.co/z54gbNicbi">https://t.co/z54gbNicbi</a> via <a href="https://twitter.com/aallan">@aallan</a><br><br>VirusTotal has more info <a href="https://t.co/s4LWzSTfsG">https://t.co/s4LWzSTfsG</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706561604700114945">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![software with most vulnerabilities](images/software_with_most_vulnerabilities.png)](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
 
 ## Private Browsing
