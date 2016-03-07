@@ -93,3 +93,5 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Pressing Ctrl+D conveniently exits Bash. Specify that it must be pressed twice to exit. Add in ~/.bashrc on a Unix/Linux<br><br>export IGNOREEOF=1</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706413486230798336">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Split a text file into files with 50 lines each: split --lines=50 foo.txt</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/706897419477327873">March 7, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
