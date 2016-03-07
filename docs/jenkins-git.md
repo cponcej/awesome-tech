@@ -187,3 +187,8 @@
 [![git image](images/git.png)](http://www.cyberciti.biz/)
 
 [![sourcetree on windows](images/sourcetree-on-windows.png)](https://www.sourcetreeapp.com)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mgme0yy9nXg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>

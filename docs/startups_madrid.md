@@ -82,6 +82,9 @@
 
 [![fintech spain](images/fintech_spain.jpg)](http://cincodias.com/cincodias/2016/03/02/mercados/1456946299_157115.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 7 Facets of a Digital Bank<a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://twitter.com/hashtag/digitalbank?src=hash">#digitalbank</a><a href="https://twitter.com/BankDirector">@bankdirector</a> <a href="https://t.co/WufP4TL3h5">https://t.co/WufP4TL3h5</a> <a href="https://t.co/UqQh5sIsVf">pic.twitter.com/UqQh5sIsVf</a></p>&mdash; Sebastien Meunier (@sbmeunier) <a href="https://twitter.com/sbmeunier/status/706388929134653441">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">[GRATIS] Informe de evaluación sobre impacto social <a href="https://twitter.com/Lanzaderas_EES">@Lanzaderas_EES</a> <a href="https://twitter.com/hashtag/TodosIncluidos?src=hash">#TodosIncluidos</a> <a href="https://t.co/lBfHuj4xSO">https://t.co/lBfHuj4xSO</a> <a href="https://t.co/O30La66zWv">pic.twitter.com/O30La66zWv</a></p>&mdash; Fundación Telefónica (@fundacionTef) <a href="https://twitter.com/fundacionTef/status/704289855430336512">29 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -70,6 +70,7 @@
 - [9 Things Managers Do That Make Good Employees Quit](http://www.entrepreneur.com/article/249903)
 - [Learning as A Leader: The Good, the Bad and the Ugly (Part 2)](https://www.linkedin.com/pulse/learning-leader-good-bad-ugly-part-2-marla-kaplowitz)
 - [businessinsider.com: Researchers discovered a surprising trait shared by the worst bosses](http://www.businessinsider.com/study-finds-the-worst-bosses-are-unpredictable-2016-3)
+- [Daniel Goleman: How to Coach A Dictatorial Leader 🌟](https://www.linkedin.com/pulse/how-coach-dictatorial-leader-daniel-goleman)
 
 ![voltaire good mood](images/voltaire_good_mood.jpg)
 
