@@ -75,6 +75,11 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Eminem - Lose Yourself [HD] <a href="https://t.co/K5MPXvTJ8L">https://t.co/K5MPXvTJ8L</a> vía <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; MARIO (@Mbarroso23) <a href="https://twitter.com/Mbarroso23/status/706463858991501313">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Me gustó un video de <a href="https://twitter.com/YouTube">@YouTube</a> <a href="https://t.co/ylVd2GkshR">https://t.co/ylVd2GkshR</a> Desireless - Voyage Voyage</p>&mdash; Yorgeberto RG (@YorgebertoRG) <a href="https://twitter.com/YorgebertoRG/status/705606620345200640">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr"><a href="https://twitter.com/hashtag/Ann%C3%A9es2000?src=hash">#Années2000</a> Bon... La je pouvais pas éviter une musique Française... 2003. In-grid, ça vous dit quelque chose ? <a href="https://t.co/zC9NhY2cx3">https://t.co/zC9NhY2cx3</a></p>&mdash; AuDeJe (@ADJland) <a href="https://twitter.com/ADJland/status/706589592296824832">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Franz Ferdinand- Take me Out- Glastonbury &#39;09 <a href="https://t.co/bvOUvd4DVN">https://t.co/bvOUvd4DVN</a></p>&mdash; kevin aguayo (@kevaaguayo) <a href="https://twitter.com/kevaaguayo/status/703123750653267968">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
