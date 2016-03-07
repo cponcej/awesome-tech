@@ -6,6 +6,8 @@
 </div>
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![available for hire](images/available-for-hire.png)](http://about.me/inafev)
+
 **Table of Contents**
 
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)
