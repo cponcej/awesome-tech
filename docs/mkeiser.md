@@ -25,6 +25,9 @@ ________________________________________________________________________________
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 7 Facets of a Digital Bank<a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://twitter.com/hashtag/digitalbank?src=hash">#digitalbank</a><a href="https://twitter.com/BankDirector">@bankdirector</a> <a href="https://t.co/WufP4TL3h5">https://t.co/WufP4TL3h5</a> <a href="https://t.co/UqQh5sIsVf">pic.twitter.com/UqQh5sIsVf</a></p>&mdash; Sebastien Meunier (@sbmeunier) <a href="https://twitter.com/sbmeunier/status/706388929134653441">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Motivational Quotes
 - "Talent wins games, but teamwork and intelligence wins championships” Michael Jordan
 - "Our industry does not respect tradition - it only respects innovation" Satya Nadella, Microsoft's CEO
