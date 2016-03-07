@@ -418,6 +418,8 @@
 <a href="http://www.expansion.com/emprendedores-empleo/desarrollo-carrera/2015/11/30/565c96beca47418a6f8b45ab.html">Cómo puedes salir de la lista negra de malos empleados</a>
 </p>
 
+[![el riesgo de estar fichado](images/el_riesgo_de_estar_fichado.png)](http://www.expansion.com/emprendedores-empleo/desarrollo-carrera/2015/11/30/565c96beca47418a6f8b45ab.html)
+
 <p align="center">
 <a href="https://www.youtube.com/watch?v=w72a91uuCFY">Blacklisted: UK workers fighting job market ban</a>
 </p>
