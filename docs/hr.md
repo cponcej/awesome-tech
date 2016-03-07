@@ -88,6 +88,7 @@
 - [How to Unlock the “Respect Me” Code at Work](https://www.linkedin.com/pulse/how-unlock-respect-me-code-work-j-t-o-donnell)
 - [Are You A Jerk At Work? (How To Know For Sure) 🌟](https://www.linkedin.com/pulse/you-jerk-work-how-know-sure-nathalie-salles)
 - [Why some teams don’t get along — and what we learned from the commander of the International Space Station](https://www.linkedin.com/pulse/why-some-teams-dont-get-along-what-we-learned-from-commander-elton)
+- [An Empathy Video That Asks You To Stand in Someone Else's Shoes 🌟](http://www.onbeing.org/blog/an-empathy-video-that-asks-you-to-stand-in-someone-elses-shoes/5063)
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
