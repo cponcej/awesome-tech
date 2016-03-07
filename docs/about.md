@@ -88,6 +88,10 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Robbie Williams - Rock DJ <a href="https://t.co/1KKJt1Fs2J">https://t.co/1KKJt1Fs2J</a> vía <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; antoniogall62 (@antoniogall62) <a href="https://twitter.com/antoniogall62/status/703314908050489345">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr">J&#39;aime une vidéo <a href="https://twitter.com/YouTube">@YouTube</a> : &quot;Garbage - &quot;Version 2.0&quot;(1998) (Full Album)&quot; à l&#39;adresse <a href="https://t.co/5Xtr0bsZ27">https://t.co/5Xtr0bsZ27</a>.</p>&mdash; lysian caron (@lysiancaron) <a href="https://twitter.com/lysiancaron/status/706794757536649216">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This cafe is playing Destiny&#39;s Child - Say my name and you guys shouldn&#39;t miss out on listening to it too <a href="https://t.co/UMTNtY1BZa">https://t.co/UMTNtY1BZa</a></p>&mdash; katrina (@katreeeena) <a href="https://twitter.com/katreeeena/status/705904487982993408">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Sabes que &quot;Another Brick In The Wall&quot; de <a href="https://twitter.com/pinkfloyd">@PinkFloyd</a> está considerado uno de los mejores vídeo musicales?<a href="https://t.co/HXiZEdqBvQ">https://t.co/HXiZEdqBvQ</a></p>&mdash; Richi Music (@RichiMusicWorld) <a href="https://twitter.com/RichiMusicWorld/status/705685540637691904">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
