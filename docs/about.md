@@ -106,6 +106,12 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Aquí, en mi último día en la oficina escuchando a Heroes del Silencio <a href="https://twitter.com/hashtag/BuenosDias?src=hash">#BuenosDias</a> &quot;Maldito duende&quot; <a href="https://t.co/sIaWwlhNez">https://t.co/sIaWwlhNez</a></p>&mdash; Aliena Nieto (@AlienaNieto) <a href="https://twitter.com/AlienaNieto/status/703143200089702405">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">A buen entendedor... <a href="https://twitter.com/susitravel">@susitravel</a> <a href="https://twitter.com/infarma_es">@infarma_es</a> <a href="https://t.co/6G7toFPK8V">https://t.co/6G7toFPK8V</a></p>&mdash; FarmaciaEspina® (@FarmaciaEspina) <a href="https://twitter.com/FarmaciaEspina/status/706605899444568070">6 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Amaral - Moriría por vos (vídeo oficial)<a href="https://t.co/v10rzhlNWK">https://t.co/v10rzhlNWK</a> vía <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Señorita Maestra (@teacher_day_83) <a href="https://twitter.com/teacher_day_83/status/704483475886383104">1 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://t.co/dDcDvMYOHZ">https://t.co/dDcDvMYOHZ</a> Versión especial de &quot;El universo sobre mí&quot; en <a href="https://twitter.com/NETxFOX">@NETxFOX</a>.</p>&mdash; Planeta Amaral (@PlanetaAmaral) <a href="https://twitter.com/PlanetaAmaral/status/705422805060489216">3 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://t.co/TpyUCjWD6Y">https://t.co/TpyUCjWD6Y</a> Loquillo - Feo fuerte y formal (2014 El Creyente) (En directo)</p>&mdash; olivia medina (@olivia_medina46) <a href="https://twitter.com/olivia_medina46/status/706496120462004226">6 de marzo de 2016</a></blockquote>
