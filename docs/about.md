@@ -100,6 +100,9 @@ ________________________________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This cafe is playing Destiny&#39;s Child - Say my name and you guys shouldn&#39;t miss out on listening to it too <a href="https://t.co/UMTNtY1BZa">https://t.co/UMTNtY1BZa</a></p>&mdash; katrina (@katreeeena) <a href="https://twitter.com/katreeeena/status/705904487982993408">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Destiny&#39;s Child - Survivor (Official Video) ft. Da Brat. So fitting for this morning of work.  <a href="https://t.co/07AJgPlfVS">https://t.co/07AJgPlfVS</a></p>&mdash; Groth-GK (@Drgroth) <a href="https://twitter.com/Drgroth/status/706874808512946176">7 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Sabes que &quot;Another Brick In The Wall&quot; de <a href="https://twitter.com/pinkfloyd">@PinkFloyd</a> está considerado uno de los mejores vídeo musicales?<a href="https://t.co/HXiZEdqBvQ">https://t.co/HXiZEdqBvQ</a></p>&mdash; Richi Music (@RichiMusicWorld) <a href="https://twitter.com/RichiMusicWorld/status/705685540637691904">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
