@@ -97,6 +97,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/Doctor?src=hash">#Doctor</a> <a href="https://twitter.com/hashtag/House?src=hash">#House</a> <a href="https://twitter.com/hashtag/Quotes?src=hash">#Quotes</a> - <a href="https://t.co/1W6ENWI9fq">https://t.co/1W6ENWI9fq</a><a href="https://twitter.com/hashtag/MovieTVShow?src=hash">#MovieTVShow</a> <a href="https://twitter.com/hashtag/Quote?src=hash">#Quote</a> <a href="https://t.co/dxjhdNKTpP">pic.twitter.com/dxjhdNKTpP</a></p>&mdash; Hikmet Gulsesli (@glsesli) <a href="https://twitter.com/glsesli/status/703239008479023104">26 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">VÍDEO | Bouhanni, DESCALIFICADO. Mejor verlo que tratar de explicarlo  <a href="https://twitter.com/hashtag/ParisNice?src=hash">#ParisNice</a> (via <a href="https://twitter.com/Eurosport_ES">@Eurosport_ES</a>) <a href="https://t.co/NzociigkDn">pic.twitter.com/NzociigkDn</a></p>&mdash; adriangroca (@adriangroca) <a href="https://twitter.com/adriangroca/status/707251488846958593">8 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
