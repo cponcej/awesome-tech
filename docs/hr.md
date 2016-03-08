@@ -309,6 +309,8 @@
 
 [![focus on behavior](images/focus_on_behavior.png)](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
 
+[![dos_entrevistadores.png](images/dos_entrevistadores.png)](http://www.mejorartucv.com/situaciones-en-las-entrevistas-de-trabajo-que-incomodan/)
+
 [![Voltaire judge a man by his questions](images/voltaire_judge_a_man_by_his_questions.jpg)](http://statusmind.com/)
 
 ### Salary Negotiation 
