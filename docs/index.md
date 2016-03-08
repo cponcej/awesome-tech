@@ -4,6 +4,11 @@
 <img alt="Utopia Eduardo Galeano" src="images/utopia_eduardo_galeano.png">
 <div id="player"></div>
 </div>
+
+<p align="center">
+I'm not interested in moving abroad 
+</p>
+
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 
 **Table of Contents**
