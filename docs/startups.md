@@ -265,6 +265,8 @@
 
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
+[![victim dot com bust](images/victim_dot_com_bust.png)](http://www.businessinsider.com/bonnie-crater-interview-2016-3)
+
 <p align="center">
 <a href="https://www.epo.org/about-us/annual-reports-statistics/annual-report.html">European Patent Office Annual Reports</a>
 </p>
