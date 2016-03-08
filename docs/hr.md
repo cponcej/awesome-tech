@@ -54,6 +54,8 @@
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
 - [‘Flexible Work Policies Shouldn’t Just Be About Parents’ 🌟](http://motto.time.com/4219863/parental-leave-flexible-work-policies-for-non-parents) People without children have personal lives that matter, too 
 
+[![bi_motherhood](images/bi_motherhood.png)](http://www.businessinsider.com/r-motherhood-penalty-daddy-bonus-new-british-parents-judged-at-work-2016-3)
+
 ### Management
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
 - [Good vs Bad Leader](http://vladmihalcea.com/2013/12/28/good-vs-bad-leader/)
