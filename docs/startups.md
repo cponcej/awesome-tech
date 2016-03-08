@@ -287,6 +287,11 @@
 
 [![victim dot com bust](images/victim_dot_com_bust.png)](http://www.businessinsider.com/bonnie-crater-interview-2016-3)
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ibuiUXOTE4M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <p align="center">
 <a href="https://www.epo.org/about-us/annual-reports-statistics/annual-report.html">European Patent Office Annual Reports</a>
 </p>
