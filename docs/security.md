@@ -228,6 +228,12 @@
 - [Estándar de exclusión de robots](https://es.wikipedia.org/wiki/Est%C3%A1ndar_de_exclusi%C3%B3n_de_robots)
 - [Robots Database](http://www.robotstxt.org/db.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Sawef - Send Attack Web Forms <a href="https://t.co/G2r90ecge6">https://t.co/G2r90ecge6</a> <a href="https://t.co/lxTp8HC4xY">pic.twitter.com/lxTp8HC4xY</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/707039212508282880">8 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Plecost - Wordpress Vulnerabilities Finder <a href="https://t.co/Dc2tOgOP9R">https://t.co/Dc2tOgOP9R</a> <a href="https://t.co/DprDrRxvOm">pic.twitter.com/DprDrRxvOm</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/707018756032045056">8 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//es.slideshare.net/slideshow/embed_code/key/XUythFr7ES5ap" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/EnclaveSecurity/benefits-of-web-application-firewalls" title="Benefits of web application firewalls" target="_blank">Benefits of web application firewalls</a> </strong> from <strong><a href="//es.slideshare.net/EnclaveSecurity" target="_blank">EnclaveSecurity</a></strong> </div>
 </div>

@@ -91,6 +91,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Microsoft isn&#39;t evil, they just make really crappy operating systems. - Linus Torvalds</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/701060245414481920">febrero 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;If Microsoft ever does applications for Linux it means I&#39;ve won.&quot;<br>--Linus Torvalds<a href="https://twitter.com/nixcraft">@nixcraft</a>  <a href="https://t.co/kHMvZhNXuE">https://t.co/kHMvZhNXuE</a></p>&mdash; Pepe Roni (@polkatwitt) <a href="https://twitter.com/polkatwitt/status/706954908302450688">7 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
 
 ## Linux and FOSS Blogs and Forums
@@ -296,6 +299,7 @@
 - [Bash History: Correct/Repeat The Last Command With a Substitution](http://www.cyberciti.biz/faq/bash-history-repeat-substitution-command-syntax/)
 - [computerworld.com: 9 really odd linux commands](http://www.computerworld.com/article/3035480/linux/9-really-odd-linux-commands.html)
 - [RHEL/Centos Linux 7: Change and Set Hostname Command](http://www.cyberciti.biz/faq/rhel-redhat-centos-7-change-hostname-command/)
+- [Small & opinionated selection of basic Bash configurations for an improved command-line user experience 🌟](http://mrzool.cc/writing/sensible-bash/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

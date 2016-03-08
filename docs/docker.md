@@ -26,6 +26,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The <a href="https://twitter.com/docker">@docker</a> documentation is absolutely excellent. Learning Docker is a breeze.</p>&mdash; Akbar Ahmed (@Akbar501) <a href="https://twitter.com/Akbar501/status/702963778200035328">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Google?src=hash">#Google</a>&#39;s new managed <a href="https://twitter.com/hashtag/containers?src=hash">#containers</a> are brought to you by <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://t.co/yJXtuvCUo8">https://t.co/yJXtuvCUo8</a> via <a href="https://twitter.com/infoworld">@infoworld</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/706987546434080768">7 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Docker
 ### Docker on Twitter
 - [twitter.com/docker](https://twitter.com/docker)
@@ -39,6 +42,9 @@
 - [twitter.com/DockerParis](https://twitter.com/DockerParis)
 - [twitter.com/SecureDocker](https://twitter.com/SecureDocker)
 - [twitter.com/DockerSwarm](https://twitter.com/DockerSwarm)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SwarmWeek?src=hash">#SwarmWeek</a>: Slides on <a href="https://twitter.com/docker">@Docker</a> as a Service and clustering with <a href="https://twitter.com/hashtag/DockerSwarm?src=hash">#DockerSwarm</a>: <a href="https://t.co/f8kbYjvs6u">https://t.co/f8kbYjvs6u</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/707081671695323136">8 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Docker references
 - [gettopical.com: Docker Latest News](http://gettopical.com/docker)
@@ -113,7 +119,7 @@
 - [DZone: Quick Java 8 or Java 7 Dev Environments With Docker](https://dzone.com/articles/docker-quick-java-8-or-java-7-dev-environment-with)
 - [Techniques and tools to reduce Docker image size](http://chrisstump.online/2016/02/23/docker-image-reduction-techniques-and-tools/)
 - [developmentalmadness.com: Working with Docker 🌟](http://www.developmentalmadness.com/2016/02/27/working-with-docker/)
-- [medium.freecodecamp.com: A Beginner-Friendly Introduction to Containers, VMs and Docker 🌟](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
+- [medium.freecodecamp.com: A Beginner-Friendly Introduction to Containers, VMs and Docker 🌟🌟🌟](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
 
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)

@@ -151,6 +151,11 @@
 - [twitter.com/medium](https://twitter.com/medium)
 - [twitter.com/devbattles](https://twitter.com/devbattles)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Nope! Nope!! Nope!!! Another example of stock photo. MT <a href="https://twitter.com/amyengineer">@amyengineer</a> <a href="https://twitter.com/gsuberland">@gsuberland</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/AtdT4a8FPy">pic.twitter.com/AtdT4a8FPy</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707178964809162753">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">They’re learning how to use the tar command syntax on a Unix/Linux ;) MT <a href="https://twitter.com/amyengineer">@amyengineer</a> / <a href="https://twitter.com/FIashur">@FIashur</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://t.co/ZGtWjap0ff">pic.twitter.com/ZGtWjap0ff</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707180160018034689">8 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## DevOps on Twitter
 - [twitter.com/devopsdotcom 🌟](https://twitter.com/devopsdotcom)
 - [twitter.com/devopscube](https://twitter.com/devopscube)

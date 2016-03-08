@@ -90,6 +90,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Please RT <a href="https://twitter.com/SkypeSupport">@SkypeSupport</a>/<a href="https://twitter.com/Microsoft">@Microsoft</a> dropped support for Skype for Linux, we can no longer accept calls. <a href="https://t.co/fjXXuBG4qa">https://t.co/fjXXuBG4qa</a> <a href="https://twitter.com/hashtag/ThanksBill?src=hash">#ThanksBill</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702474274389372928">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">So, <a href="https://twitter.com/Microsoft">@Microsoft</a> loves linux? But, Ignores skype users?. On a serious note Linux is winning the enterprise server market.</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706955049071546368">7 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Evernote
 - [Calendars are simple yet powerful motivational tools. Save these templates to Evernote](https://blog.evernote.com/blog/2015/12/26/resolve-to-stay-on-track-in-the-new-year/)
 
