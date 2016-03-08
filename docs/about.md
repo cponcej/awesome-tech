@@ -211,5 +211,8 @@ ______________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Eduard Punset: &quot;Somos lo que comemos&quot; <a href="https://t.co/vXiKd1tuIx">https://t.co/vXiKd1tuIx</a></p>&mdash; Redes (@RedesTV) <a href="https://twitter.com/RedesTV/status/660763450977701888">1 de noviembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Daniel Goleman, el padre de la inteligencia emocional <a href="http://t.co/VZhbZlGtap">http://t.co/VZhbZlGtap</a></p>&mdash; Redes (@RedesTV) <a href="https://twitter.com/RedesTV/status/638146610023800832">31 de agosto de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Carl Sagan Cosmos Intro <a href="https://t.co/0EE0W5Inqw">https://t.co/0EE0W5Inqw</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; I Grok (@friendofwatts) <a href="https://twitter.com/friendofwatts/status/706443654307684352">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
