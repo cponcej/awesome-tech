@@ -270,6 +270,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Meetings are not just about status updates! Never forget the &quot;why&quot; at the Daily <a href="https://twitter.com/hashtag/Scrum?src=hash">#Scrum</a>, <a href="https://twitter.com/hashtag/Sprint?src=hash">#Sprint</a> <a href="https://twitter.com/hashtag/Retrospective?src=hash">#Retrospective</a> etc. <a href="https://t.co/1asZMoxiIo">https://t.co/1asZMoxiIo</a></p>&mdash; Scrum.org (@Scrumdotorg) <a href="https://twitter.com/Scrumdotorg/status/702899793748738048">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Default to 30 minute meetings and remember why you&#39;re there <a href="https://twitter.com/opensourceway">@opensourceway</a> <a href="https://t.co/VvsyqstgEE">https://t.co/VvsyqstgEE</a> <a href="https://t.co/JDRdm0KpQQ">pic.twitter.com/JDRdm0KpQQ</a></p>&mdash; Jim Whitehurst (@JWhitehurst) <a href="https://twitter.com/JWhitehurst/status/707014321218461698">March 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
 <div class="container">

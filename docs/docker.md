@@ -120,6 +120,7 @@
 - [Techniques and tools to reduce Docker image size](http://chrisstump.online/2016/02/23/docker-image-reduction-techniques-and-tools/)
 - [developmentalmadness.com: Working with Docker 🌟](http://www.developmentalmadness.com/2016/02/27/working-with-docker/)
 - [medium.freecodecamp.com: A Beginner-Friendly Introduction to Containers, VMs and Docker 🌟🌟🌟](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
+- [The Do’s, Don’ts of Docker Containers 🌟](http://www.enterprisetech.com/2016/03/02/the-dos-donts-of-docker-containers/) Drawbacks and advantages of application containers. The initial problem argues Rafael Benevides, a senior software developer at Red Hat, is that many new users continue to treat containers like virtual machines.
 
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)
