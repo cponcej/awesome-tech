@@ -212,8 +212,7 @@ ______________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;Somos lo que comemos&quot; EDUARD PUNSET siempre tan interesante.<a href="https://t.co/3Kl8vUhEmw">https://t.co/3Kl8vUhEmw</a></p>&mdash; Comer por igual (@Comerporigual) <a href="https://twitter.com/Comerporigual/status/534087470883688448">16 de noviembre de 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Daniel Goleman, el padre de la inteligencia emocional <a href="http://t.co/VZhbZlGtap">http://t.co/VZhbZlGtap</a></p>&mdash; Redes (@RedesTV) <a href="https://twitter.com/RedesTV/status/638146610023800832">31 de agosto de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="es" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/JIjzSX7872">https://t.co/JIjzSX7872</a> - goleman Redes 130_ Aprender a gestionar las emociones - emociones).</p>&mdash; BEGOÑA ALBA (@NetBEGOA) <a href="https://twitter.com/NetBEGOA/status/703589412085624832">February 27, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El éxito llama al éxito - psicología vía <a href="https://twitter.com/RedesTV">@RedesTV</a>  <a href="http://t.co/x0BZ3zUech">http://t.co/x0BZ3zUech</a></p>&mdash; ✿ Mariló Urquiza ✿ (@mdurquiza) <a href="https://twitter.com/mdurquiza/status/635414373830426624">23 de agosto de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
