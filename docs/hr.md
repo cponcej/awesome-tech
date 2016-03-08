@@ -331,6 +331,8 @@
 
 [![interquest_group_temp_workers](images/interquest_group_temp_workers.png)](http://www.interquestgroup.com/)
 
+[![data_scientist_for_free](images/data_scientist_for_free.png)](http://www.businessinsider.com/databricks-ceo-offering-free-big-data-training-2016-3)
+
 [![technet_howto_negotiate_fair_salary](images/technet_howto_negotiate_fair_salary.png)](https://www.linkedin.com/pulse/why-how-negotiate-fair-salary-hansi-mehrotra-cfa)
 
 <div class="container">
