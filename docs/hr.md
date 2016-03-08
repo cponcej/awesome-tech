@@ -312,6 +312,7 @@
 - [Achieve the Job Offer You Deserve by Avoiding These 10 Salary Negotiation Mistakes](http://www.quintcareers.com/salary-negotiation-mistakes/)
 - [How to Negotiate Salary: 37 Tips You Need to Know](https://www.themuse.com/advice/how-to-negotiate-salary-37-tips-you-need-to-know)
 - [Forbes: How To Negotiate Your Salary Once You Have The Job Offer 🌟](www.forbes.com/sites/susanadams/2014/06/26/how-to-negotiate-your-salary-once-you-have-the-job-offer/)
+- [Why, and how, to negotiate a fair salary](https://www.linkedin.com/pulse/why-how-negotiate-fair-salary-hansi-mehrotra-cfa)
 
 <a href="https://openclipart.org/detail/155107/job-interview"><img src="https://openclipart.org/download/155107/job-interview.svg" /></a>
 
@@ -324,6 +325,13 @@
 ![soy mileurista](images/soy_mileurista.jpg)
 
 [![commitstrip.com questions you should never asked a coder in an interview](images/questions_never_ask.jpg)](http://www.commitstrip.com/en/2016/01/13/questions-you-should-never-ask-a-coder-in-an-interview/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Generation Y, Curling or Maybe: what the world calls millennials <a href="https://t.co/cQWAO8yyxe">https://t.co/cQWAO8yyxe</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/707102616032026629">8 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![interquest_group_temp_workers](images/interquest_group_temp_workers.png)](http://www.interquestgroup.com/)
+
+[![technet_howto_negotiate_fair_salary](images/technet_howto_negotiate_fair_salary.png)](https://www.linkedin.com/pulse/why-how-negotiate-fair-salary-hansi-mehrotra-cfa)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCJ4L2so118?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
