@@ -337,6 +337,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Generation Y, Curling or Maybe: what the world calls millennials <a href="https://t.co/cQWAO8yyxe">https://t.co/cQWAO8yyxe</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/707102616032026629">8 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/SD7G5BwnuV">https://t.co/SD7G5BwnuV</a> - &quot;Everybody Has a Number&quot; Clip - Wall Street: Money Never Sleeps).</p>&mdash; Artur Debat (@Arturdebat) <a href="https://twitter.com/Arturdebat/status/696084018647924736">6 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![interquest_group_temp_workers](images/interquest_group_temp_workers.png)](http://www.interquestgroup.com/)
 
 [![data_scientist_for_free](images/data_scientist_for_free.png)](http://www.businessinsider.com/databricks-ceo-offering-free-big-data-training-2016-3)
@@ -373,6 +376,8 @@
     - [Encontrar trabajo por enchufe o por recomendación 🌟](https://orientacion-laboral.infojobs.net/encontrar-trabajo-recomendacion)
 - [¿Os habéis arrepentido en alguna ocasión de no preguntar determinadas cosas en la entrevista de trabajo?](http://www.elblogderrhh.com/2011/02/%C2%BFos-habeis-arrepentido-en-alguna-ocasion-de-no-preguntar-determinadas-cosas-en-la-entrevista-de-trabajo.html)
 - [Los sueldos informáticos en Europa](http://www.think-progress.com/es/blog/posts/los-sueldos-informaticos-en-europa/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Entrepreneurs shouldn&#39;t cry (in public), <a href="https://twitter.com/peterpeele">@peterpeele</a> quotes Gordon Gekko from Wall Street: Money Never Sleeps <a href="https://t.co/KKj3CMNTRP">https://t.co/KKj3CMNTRP</a></p>&mdash; iAfrikan (@iafrikan) <a href="https://twitter.com/iafrikan/status/697137202728472577">9 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Articulos
 - [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
