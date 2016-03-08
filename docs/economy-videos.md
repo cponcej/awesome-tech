@@ -110,7 +110,8 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5eEAA37N_zw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe src="https://player.vimeo.com/video/78119270" width="500" height="277" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<p><a href="https://vimeo.com/78119270">Gordon Gekko Speech - Wall Street 2</a> from <a href="https://vimeo.com/user2104969">UpTraders</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 <br/>
 
