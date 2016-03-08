@@ -41,6 +41,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This transforming bike is perfect for active parents<a href="https://t.co/fZHudUfuaK">https://t.co/fZHudUfuaK</a></p>&mdash; INSIDER (@thisisinsider) <a href="https://twitter.com/thisisinsider/status/707261266931265536">8 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mi soñada bicicleta <a href="https://t.co/OQHWqFfxIz">https://t.co/OQHWqFfxIz</a></p>&mdash; Ricardo Trujillo (@rtrujillor) <a href="https://twitter.com/rtrujillor/status/706095627579629568">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yKORsrlN-2k?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
