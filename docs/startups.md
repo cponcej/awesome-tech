@@ -56,6 +56,8 @@
 
 [![barcelona vs madrid vs everywhere else](images/bcn_vs_madrid_startups.png)](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Spain’s startup ecosystem on a roll, especially in <a href="https://twitter.com/hashtag/Barcelona?src=hash">#Barcelona</a> &amp; <a href="https://twitter.com/hashtag/Madrid?src=hash">#Madrid</a>. Interesting post-recession effect. <a href="https://t.co/Q9aB5AaVO3">https://t.co/Q9aB5AaVO3</a></p>&mdash; Markus Schuller (@panthera_s) <a href="https://twitter.com/panthera_s/status/701290454424354816">21 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Startup Blogs, Documentaries and Talks
 - [entrepreneur.com 🌟](http://www.entrepreneur.com)
 - [soyentrepreneur.com](http://www.soyentrepreneur.com)
