@@ -7,6 +7,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![bi_learn_java](images/bi_learn_java.png)](http://www.businessinsider.com/beginner-java-coding-online-course-udemy-deal-2016-2)
+
 # Java
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)
