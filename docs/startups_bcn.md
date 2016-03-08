@@ -174,3 +174,8 @@ para universitarios y titulados júnior
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="ro" dir="ltr">Ackstorm colabora como formador <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> con la Barcelona Technology School <a href="https://t.co/RD0PY57Vs8">https://t.co/RD0PY57Vs8</a></p>&mdash; ACK STORM, S.L. (@ackstormsl) <a href="https://twitter.com/ackstormsl/status/705339715784994816">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Presentando la <a href="https://twitter.com/hashtag/RestaurantLoverWeek?src=hash">#RestaurantLoverWeek</a> en el restaurante Ajoblanco de Barcelona 😊🍴🍷 <a href="https://t.co/sNg5vE9Fri">pic.twitter.com/sNg5vE9Fri</a></p>&mdash; Atrápalo España (@atrapalo) <a href="https://twitter.com/atrapalo/status/704758111605821445">1 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">TOKIOTA, con <a href="https://twitter.com/pvelascodom">@pvelascodom</a> y <a href="https://twitter.com/_marcms_">@_marcms_</a>, presentando el workshop de <a href="https://twitter.com/Azure">@Azure</a> dentro del Executive MBA de IESE <a href="https://t.co/Letur7kZod">pic.twitter.com/Letur7kZod</a></p>&mdash; TOKIOTA (@tokiota_IT) <a href="https://twitter.com/tokiota_IT/status/695178964340469760">4 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
