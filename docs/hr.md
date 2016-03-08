@@ -452,6 +452,8 @@
 
 [![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
 
+[![sharapova nike](images/sharapova_nike.png)](http://www.bbc.com/news/business-35751916)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDDWvj_q-o8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
