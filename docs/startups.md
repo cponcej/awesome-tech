@@ -30,6 +30,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="http://t.co/y4bCU81M9H">pic.twitter.com/y4bCU81M9H</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/653631226687787009">12 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Wolf of Wall Street - Sell me this pen <a href="https://t.co/AIlb3rb71L">https://t.co/AIlb3rb71L</a></p>&mdash; はらぺこあおむし (@kusaman555) <a href="https://twitter.com/kusaman555/status/703273468016484352">26 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Startups and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)
@@ -73,6 +76,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/camXWnD4QcI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Perfect Answer to...<br>&quot;Sell Me This Pen&quot; - Wolf of Wall Street<a href="https://twitter.com/hashtag/Careers?src=hash">#Careers</a> <a href="https://twitter.com/hashtag/Sales?src=hash">#Sales</a> <a href="https://twitter.com/hashtag/Jobs?src=hash">#Jobs</a><a href="https://t.co/B5BZds1YyC">https://t.co/B5BZds1YyC</a></p>&mdash; Maverick Method (@MaverickMethod) <a href="https://twitter.com/MaverickMethod/status/699789490748059648">17 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## IT remuneration
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
