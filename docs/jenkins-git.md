@@ -23,6 +23,7 @@
 # Continuous Integration Tools
 ## CI Jenkins, Travis
 - [jenkins-ci.org](https://jenkins-ci.org)
+- [AWS continuous integration](https://aws.amazon.com/devops/continuous-integration/)
 - [Cloudbees Jenkins Platform](https://www.cloudbees.com/products/cloudbees-jenkins-platform)
 - [Latest Jenkins related links can be found on @reddit.com/r/jenkinsci](https://www.reddit.com/r/jenkinsci/)
 - [Jenkins User Conference West 2015 - Slides available](https://www.cloudbees.com/jenkins/juc-2015/us-west)
