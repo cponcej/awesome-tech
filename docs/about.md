@@ -179,6 +179,11 @@ ______________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tubacex cierra 2015 con un descenso en ventas del 2,4% y un beneficio neto de 8,4 millones <a href="https://t.co/GYOcuQ5SPh">https://t.co/GYOcuQ5SPh</a></p>&mdash; Europa Press Euskadi (@EPEuskadi) <a href="https://twitter.com/EPEuskadi/status/703188248252837888">26 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tubos Reunidos pierde 16,1 millones de euros en 2015: La deuda financiera neta del Grupo a diciembre de 2015 s... <a href="https://t.co/Jj27CHkhur">https://t.co/Jj27CHkhur</a></p>&mdash; aytalento (@aytalento) <a href="https://twitter.com/aytalento/status/704379665461325824">29 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">tubos reunidos<br>baja pretoleo se la pego fuerte<br>petroleo sube se animara <a href="https://t.co/ksOnNQLLVn">pic.twitter.com/ksOnNQLLVn</a></p>&mdash; especulata (@especulata) <a href="https://twitter.com/especulata/status/705533652181127168">3 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tubos Reunidos presenta un ERE temporal para 398 trabajadores<a href="https://t.co/uzLxAxYNsw">https://t.co/uzLxAxYNsw</a></p>&mdash; El Correo (@elcorreo_com) <a href="https://twitter.com/elcorreo_com/status/702825596661981184">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
