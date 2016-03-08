@@ -202,6 +202,9 @@ ______________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La pareja O&#39;Neal - Kobe es una de las mejores de la historia, eran imparables: <a href="https://t.co/mfxTD0L65H">https://t.co/mfxTD0L65H</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/706561679241388032">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Recordáis la 7ª etapa del <a href="https://twitter.com/hashtag/TDF?src=hash">#TDF</a> de 1995?<a href="https://t.co/peuja5BMpK">https://t.co/peuja5BMpK</a><a href="https://twitter.com/hashtag/Indurain?src=hash">#Indurain</a> <a href="https://twitter.com/hashtag/Lieja?src=hash">#Lieja</a> <a href="https://twitter.com/hashtag/ciclismo?src=hash">#ciclismo</a></p>&mdash; SubiendoPuertos (@SubiendoPuertos) <a href="https://twitter.com/SubiendoPuertos/status/668893091177373696">23 de noviembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The one and only Pete Sampras serve in slow motion. Free course - <a href="https://t.co/oytX9dEYn1">https://t.co/oytX9dEYn1</a> <a href="https://t.co/Ry4gfvdrgf">pic.twitter.com/Ry4gfvdrgf</a></p>&mdash; Top Tennis Training (@Tennis_Training) <a href="https://twitter.com/Tennis_Training/status/701148999483596801">20 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
