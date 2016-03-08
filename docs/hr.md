@@ -460,6 +460,8 @@
 
 [![au_pair_irlanda_condena](images/au_pair_irlanda_condena.png)](http://www.antena3.com/noticias/mundo/condenada-familia-irlanda-indemnizar-pair-espanola-explotacion_2016030800277.html)
 
+![surf_sponsors.png](images/surf_sponsors.png)
+
 [![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
 
 [![sharapova nike](images/sharapova_nike.png)](http://www.bbc.com/news/business-35751916)
