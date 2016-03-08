@@ -491,6 +491,7 @@
 - [Secure Your Linux Desktop and SSH Login Using Two Factor Google Authenticator](http://www.cyberciti.biz/open-source/howto-protect-linux-ssh-login-with-google-authenticator/)
 - [Building Effective SSH User Key Management: Three Best Practices](http://it.tmcnet.com/topics/it/articles/2016/02/25/418060-building-effective-ssh-user-key-management-three-best.htm)
 - [When privileged access means controlling the lock: Best practices to protect what's yours](http://gsnmagazine.com/article/46166/when_privileged_access_means_controlling_lock_best)
+- [nixCraft: create-ssh-config-file-on-linux-unix 🌟](http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/)
 
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)
