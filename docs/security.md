@@ -216,6 +216,9 @@
 - [[2014] Big Data y Privacidad por Chema Alonso](https://youtu.be/_oeqjepFkEY)
 - [Panopticlick.eff.org: Is your browser safe against tracking?](https://panopticlick.eff.org/)
 
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Take these steps to adopt a big data approach to security | <a href="https://t.co/YeanSkcT8R">https://t.co/YeanSkcT8R</a> <a href="https://t.co/vrsnN3luTA">pic.twitter.com/vrsnN3luTA</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/707172265540976640">March 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Application Security: Web App Firewall. Blocking bots
 - [dzone.com - The 2015 DZone Guide to Application Security](http://bit.ly/1RksReA)
 - [The 10 Most Common Application Attacks in Action (April 2015)](https://securityintelligence.com/the-10-most-common-application-attacks-in-action/)
