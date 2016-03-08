@@ -78,3 +78,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wall Street 2: Money Never Sleeps- <a href="https://t.co/QCuCTWPzxK">https://t.co/QCuCTWPzxK</a> via <a href="https://twitter.com/youtube_men">@YouTube_MEN</a>,WOMEN&amp; KIDS,THAT STEAL FROM THERE OWN KIDS,FAMILY &amp; FREINDS,,...</p>&mdash; JodieQ@COPYRIGHTED (@jodielynnQ) <a href="https://twitter.com/jodielynnQ/status/702967992695562240">25 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
