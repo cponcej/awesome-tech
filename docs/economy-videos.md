@@ -8,6 +8,7 @@
     - [Glengarry Glen Ross](#glengarry-glen-ross)
     - [Boiler Room](#boiler-room)
     - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
+    - [Paths of Glory](#paths-of-glory)
     - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
 
 <!-- /MarkdownTOC -->
@@ -150,9 +151,16 @@
 </div>
 <br/>
 
+## Paths of Glory
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Trump&#39;s handlers must have gotten through to his illegal orders decree by showing him Kubrick&#39;s Paths of Glory. <a href="https://t.co/3xJsPRXm98">https://t.co/3xJsPRXm98</a></p>&mdash; Sam Valley (@SamValley) <a href="https://twitter.com/SamValley/status/705831448113074176">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Antonio Gasset en Dias de Cine
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BR2RoK3Bb9Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+
