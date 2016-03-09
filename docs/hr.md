@@ -129,6 +129,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lv8BUJ_JodY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Job Description
 - [4 Benefits of Accurate Job Descriptions for Small Businesses](http://www.mjms.net/blog/4-benefits-of-accurate-job-descriptions-for-small-businesses/)
 
@@ -480,7 +485,22 @@
 
 [![au_pair_irlanda_condena](images/au_pair_irlanda_condena.png)](http://www.antena3.com/noticias/mundo/condenada-familia-irlanda-indemnizar-pair-espanola-explotacion_2016030800277.html)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3cBLbNcvaN0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/stHAVegvUhQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![thankyou_first_job.png](images/thankyou_first_job.png)](https://www.linkedin.com/pulse/tales-data-entry-clerk-thank-you-my-first-job-sameera-polavarapu)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z5avVsKjNyo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ![surf_sponsors.png](images/surf_sponsors.png)
 
