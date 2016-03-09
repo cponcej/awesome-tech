@@ -7,6 +7,8 @@
     - [The Wolf of Wall Street](#the-wolf-of-wall-street)
     - [Glengarry Glen Ross](#glengarry-glen-ross)
     - [Boiler Room](#boiler-room)
+    - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
+    - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
 
 <!-- /MarkdownTOC -->
 
@@ -138,5 +140,19 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w4Pu_JuPILw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## How I Learned to Stop Worrying and Love the Bomb
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/UAeqVGP-GPM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Antonio Gasset en Dias de Cine
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR2RoK3Bb9Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
