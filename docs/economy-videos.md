@@ -4,11 +4,13 @@
     - [IT Leaders](#it-leaders)
     - [Margin Call film](#margin-call-film)
     - [Wall Street film](#wall-street-film)
-    - [The Wolf of Wall Street](#the-wolf-of-wall-street)
-    - [Glengarry Glen Ross](#glengarry-glen-ross)
-    - [Boiler Room](#boiler-room)
-    - [Paths of Glory](#paths-of-glory)
+    - [The Wolf of Wall Street film](#the-wolf-of-wall-street-film)
+    - [Glengarry Glen Ross film](#glengarry-glen-ross-film)
+    - [Boiler Room film](#boiler-room-film)
+    - [Paths of Glory film](#paths-of-glory-film)
     - [Capitalism and Socialism](#capitalism-and-socialism)
+    - [The Hollywood Blacklist: 1947-1960](#the-hollywood-blacklist-1947-1960)
+    - [JFK film](#jfk-film)
     - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
     - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
 
@@ -116,7 +118,7 @@
 </div>
 <br/>
 
-## The Wolf of Wall Street
+## The Wolf of Wall Street film
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PQleT6BtCbE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -128,21 +130,21 @@
 </div>
 <br/>
 
-## Glengarry Glen Ross 
+## Glengarry Glen Ross film
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/v9XW6P0tiVc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-## Boiler Room
+## Boiler Room film
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w4Pu_JuPILw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-## Paths of Glory
+## Paths of Glory film
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="ja" dir="ltr">『突撃』(1957)予告編　Paths of Glory (1957) Trailer: <a href="https://t.co/6PgRy5IAN4">https://t.co/6PgRy5IAN4</a></p>&mdash; ジム・トンプスンbot (@jimthompson1280) <a href="https://twitter.com/jimthompson1280/status/700789209007652864">19 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -156,6 +158,25 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B3u4EFTwprM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## The Hollywood Blacklist: 1947-1960
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nJzV6-wJ3SQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## JFK film
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w16bYZ-4nmE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ol2sZNPqpo4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
