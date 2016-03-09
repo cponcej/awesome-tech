@@ -23,6 +23,8 @@
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
 para universitarios y titulados júnior
+- [smartcity.bcn.cat](http://smartcity.bcn.cat)
+    - [smartcityexpo.com/barcelona](http://www.smartcityexpo.com/barcelona)
 - [zdnet.com: Think big data is too big for SMEs? Barcelona's out to prove you wrong 🌟](http://www.zdnet.com/article/think-big-data-is-too-big-for-smes-barcelonas-out-to-prove-you-wrong/) The Catalan city has opened a big data center to accelerate business innovation - and hopefully become the most important data processing hub in southern Europe.
 - [Tres días de infierno vendiendo 'startups' en la mayor feria mundial del móvil 🌟](http://www.elconfidencial.com/tecnologia/2016-02-25/tres-dias-de-infierno-vendiendo-startups-en-la-mayor-feria-de-telefonia-del-mundo_1157974/)
 
