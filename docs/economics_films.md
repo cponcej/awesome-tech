@@ -1,25 +1,26 @@
 <!-- MarkdownTOC -->
 
 - [Economics films](#economics-films)
-    - [Margin Call film](#margin-call-film)
-    - [Wall Street film](#wall-street-film)
-    - [The Wolf of Wall Street film](#the-wolf-of-wall-street-film)
-    - [Glengarry Glen Ross film](#glengarry-glen-ross-film)
-    - [Boiler Room film](#boiler-room-film)
-    - [The Company Men film](#the-company-men-film)
-    - [The Pursuit Of Happyness film](#the-pursuit-of-happyness-film)
-    - [Los Lunes al sol film](#los-lunes-al-sol-film)
-    - [Paths of Glory film](#paths-of-glory-film)
+    - [Margin Call](#margin-call)
+    - [Wall Street](#wall-street)
+    - [The Wolf of Wall Street](#the-wolf-of-wall-street)
+    - [Glengarry Glen Ross](#glengarry-glen-ross)
+    - [Boiler Room](#boiler-room)
+    - [The Company Men](#the-company-men)
+    - [The Pursuit Of Happyness](#the-pursuit-of-happyness)
+    - [The navigators](#the-navigators)
+    - [Los Lunes al sol](#los-lunes-al-sol)
+    - [Paths of Glory](#paths-of-glory)
     - [Capitalism and Socialism](#capitalism-and-socialism)
     - [The Hollywood Blacklist: 1947-1960](#the-hollywood-blacklist-1947-1960)
-    - [JFK film](#jfk-film)
+    - [JFK](#jfk)
     - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
     - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
 
 <!-- /MarkdownTOC -->
 
 # Economics films
-## Margin Call film
+## Margin Call
 <div class="container">
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/IjZ-ke1kJrA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -37,23 +38,7 @@
 </div>
 <br>
 
-## Wall Street film
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wall Street - Trailer (Starring: Charlie Sheen, Michael Douglas, Tamara ... <a href="https://t.co/qQAnbcMUxC">https://t.co/qQAnbcMUxC</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Suzi (@suzi_sunshine99) <a href="https://twitter.com/suzi_sunshine99/status/651373854527463425">6 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wall Street 2: Money Never Sleeps- <a href="https://t.co/QCuCTWPzxK">https://t.co/QCuCTWPzxK</a> via <a href="https://twitter.com/youtube_men">@YouTube_MEN</a>,WOMEN&amp; KIDS,THAT STEAL FROM THERE OWN KIDS,FAMILY &amp; FREINDS,,...</p>&mdash; JodieQ@COPYRIGHTED (@jodielynnQ) <a href="https://twitter.com/jodielynnQ/status/702967992695562240">25 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wall Street (1987) - Gordon Gekko (Michael Douglas) to Bud Fox (Charlie Sheen):  Are You With Me?!    <a href="https://t.co/8oIYgmqKFI">https://t.co/8oIYgmqKFI</a></p>&mdash; TRAMP (@LT38) <a href="https://twitter.com/LT38/status/615553386344136704">29 de junio de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/DatesInMovies">@DatesInMovies</a> on February 3, 1637, the Dutch Tulip market crashes. (As seen in Wall Street: Money Never Sleeps) <a href="https://t.co/mcw9ZxJ02G">pic.twitter.com/mcw9ZxJ02G</a></p>&mdash; jspoke (@bobloblawla) <a href="https://twitter.com/bobloblawla/status/694924504586457088">3 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IVjCRWbvM4c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
+## Wall Street
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PF_iorX_MAw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -66,7 +51,7 @@
 </div>
 <br/>
 
-## The Wolf of Wall Street film
+## The Wolf of Wall Street
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PQleT6BtCbE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -78,42 +63,49 @@
 </div>
 <br/>
 
-## Glengarry Glen Ross film
+## Glengarry Glen Ross
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/v9XW6P0tiVc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-## Boiler Room film
+## Boiler Room
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w4Pu_JuPILw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-## The Company Men film
+## The Company Men
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NmzTGbPuyEU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-## The Pursuit Of Happyness film
+## The Pursuit Of Happyness
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bklNWWoJyzE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-## Los Lunes al sol film
+## The navigators
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/CJsiCOYRQl4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Los Lunes al sol
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ibk5kt6OokI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-## Paths of Glory film
+## Paths of Glory
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="ja" dir="ltr">『突撃』(1957)予告編　Paths of Glory (1957) Trailer: <a href="https://t.co/6PgRy5IAN4">https://t.co/6PgRy5IAN4</a></p>&mdash; ジム・トンプスンbot (@jimthompson1280) <a href="https://twitter.com/jimthompson1280/status/700789209007652864">19 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -132,7 +124,7 @@
 </div>
 <br/>
 
-## JFK film
+## JFK
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ol2sZNPqpo4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
