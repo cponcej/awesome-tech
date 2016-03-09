@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-I'm not interested neither in moving abroad nor becoming freelance
+I'm not interested neither in moving abroad nor becoming freelance.
 </p>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
