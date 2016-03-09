@@ -486,6 +486,8 @@
 <a href="https://www.youtube.com/watch?v=IF3n6L3P_f0">How Corrupt Is Russia?</a>
 </p>
 
+[![jobs in china](images/job_in_china.png)](http://www.businessinsider.com/at-least-10m-need-to-be-laid-off-in-china-2016-3)
+
 [![au_pair_irlanda_condena](images/au_pair_irlanda_condena.png)](http://www.antena3.com/noticias/mundo/condenada-familia-irlanda-indemnizar-pair-espanola-explotacion_2016030800277.html)
 
 <div class="container">
