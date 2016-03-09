@@ -11,7 +11,6 @@
     - [The navigators](#the-navigators)
     - [Los Lunes al sol](#los-lunes-al-sol)
     - [Paths of Glory](#paths-of-glory)
-    - [Capitalism and Socialism](#capitalism-and-socialism)
     - [The Hollywood Blacklist: 1947-1960](#the-hollywood-blacklist-1947-1960)
     - [JFK](#jfk)
     - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
@@ -39,6 +38,11 @@
 <br>
 
 ## Wall Street
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IVjCRWbvM4c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PF_iorX_MAw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -107,13 +111,8 @@
 
 ## Paths of Glory
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="ja" dir="ltr">『突撃』(1957)予告編　Paths of Glory (1957) Trailer: <a href="https://t.co/6PgRy5IAN4">https://t.co/6PgRy5IAN4</a></p>&mdash; ジム・トンプスンbot (@jimthompson1280) <a href="https://twitter.com/jimthompson1280/status/700789209007652864">19 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Capitalism and Socialism
-
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B3u4EFTwprM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmDA60X-f_A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
