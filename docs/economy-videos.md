@@ -7,8 +7,9 @@
     - [The Wolf of Wall Street film](#the-wolf-of-wall-street-film)
     - [Glengarry Glen Ross film](#glengarry-glen-ross-film)
     - [Boiler Room film](#boiler-room-film)
-    - [The Company Men](#the-company-men)
-    - [The Pursuit Of Happyness](#the-pursuit-of-happyness)
+    - [The Company Men film](#the-company-men-film)
+    - [The Pursuit Of Happyness film](#the-pursuit-of-happyness-film)
+    - [Los Lunes al sol film](#los-lunes-al-sol-film)
     - [Paths of Glory film](#paths-of-glory-film)
     - [Capitalism and Socialism](#capitalism-and-socialism)
     - [The Hollywood Blacklist: 1947-1960](#the-hollywood-blacklist-1947-1960)
@@ -146,17 +147,24 @@
 </div>
 <br/>
 
-## The Company Men
+## The Company Men film
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NmzTGbPuyEU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
-## The Pursuit Of Happyness
+## The Pursuit Of Happyness film
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bklNWWoJyzE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Los Lunes al sol film
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ibk5kt6OokI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
