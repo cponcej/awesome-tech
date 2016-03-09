@@ -10,6 +10,7 @@
     - [The Pursuit Of Happyness](#the-pursuit-of-happyness)
     - [The navigators](#the-navigators)
     - [Los Lunes al sol](#los-lunes-al-sol)
+    - [Pago justo](#pago-justo)
     - [Paths of Glory](#paths-of-glory)
     - [The Hollywood Blacklist: 1947-1960](#the-hollywood-blacklist-1947-1960)
     - [JFK](#jfk)
@@ -111,6 +112,13 @@
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ibk5kt6OokI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Pago justo
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ANbb17t4epY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
