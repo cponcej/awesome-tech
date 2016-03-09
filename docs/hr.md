@@ -97,6 +97,7 @@
 - [Why some teams don’t get along — and what we learned from the commander of the International Space Station](https://www.linkedin.com/pulse/why-some-teams-dont-get-along-what-we-learned-from-commander-elton)
 - [An Empathy Video That Asks You To Stand in Someone Else's Shoes 🌟](http://www.onbeing.org/blog/an-empathy-video-that-asks-you-to-stand-in-someone-elses-shoes/5063)
 - [cityam - Personality clash: Dealing with conflict in the workplace](http://www.cityam.com/235878/personality-clash-dealing-with-conflict-in-the-workplace)
+- [What it was like to leave Microsoft for a less stressful, lower-paying job](http://www.businessinsider.com/what-it-was-like-to-leave-microsoft-for-a-less-stressful-lower-paying-job-2016-3)
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
