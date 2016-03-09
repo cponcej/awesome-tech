@@ -153,7 +153,9 @@
 
 ## Paths of Glory
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Trump&#39;s handlers must have gotten through to his illegal orders decree by showing him Kubrick&#39;s Paths of Glory. <a href="https://t.co/3xJsPRXm98">https://t.co/3xJsPRXm98</a></p>&mdash; Sam Valley (@SamValley) <a href="https://twitter.com/SamValley/status/705831448113074176">4 de marzo de 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Trump&#39;s handlers must have gotten through to his illegal orders decree by showing him Kubrick&#39;s Paths of Glory. <a href="https://t.co/3xJsPRXm98">https://t.co/3xJsPRXm98</a></p>&mdash; Sam Valley (@SamValley) <a href="https://twitter.com/SamValley/status/705831448113074176">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">On March 2 at 7pm come and witness Kubrick&#39;s mastery on a big screen with the anti-war epic PATHS OF GLORY<a href="https://t.co/EPkzsbPIYn">https://t.co/EPkzsbPIYn</a> <a href="https://twitter.com/hashtag/FWW?src=hash">#FWW</a> <a href="https://twitter.com/hashtag/YYT?src=hash">#YYT</a></p>&mdash; The Rooms (@TheRooms_NL) <a href="https://twitter.com/TheRooms_NL/status/701025615957221376">20 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Antonio Gasset en Dias de Cine
