@@ -488,6 +488,8 @@
 
 [![jobs in china](images/job_in_china.png)](http://www.businessinsider.com/at-least-10m-need-to-be-laid-off-in-china-2016-3)
 
+[![queen_backs_brexit](images/queen_backs_brexit.jpg)](http://www.bbc.com/news/uk-politics-eu-referendum-35760912)
+
 [![au_pair_irlanda_condena](images/au_pair_irlanda_condena.png)](http://www.antena3.com/noticias/mundo/condenada-familia-irlanda-indemnizar-pair-espanola-explotacion_2016030800277.html)
 
 <div class="container">
