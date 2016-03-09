@@ -71,7 +71,7 @@
 ## Glengarry Glen Ross
 
 <div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/OEEQTCGZ8NM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="640" height="360" frameborder="0" src="http://chris.web.tv/embed/d6dyadewxhk" allowfullscreen="allowfullscreen" class="video"></iframe>
 </div>
 <br/>
 
