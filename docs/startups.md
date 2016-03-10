@@ -198,6 +198,22 @@
 
 [![singapore_most_espensive_city](images/singapore_most_espensive_city.png)](http://www.bbc.com/news/business-35765378)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The cheapest and most expensive cities in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> for <a href="https://twitter.com/hashtag/backpackers?src=hash">#backpackers</a> <a href="https://t.co/OIKgYLbhwq">https://t.co/OIKgYLbhwq</a> -east vs. west <a href="https://t.co/aspx8N8AyV">pic.twitter.com/aspx8N8AyV</a></p>&mdash; Klaava Travel Guide (@klaavamedia) <a href="https://twitter.com/klaavamedia/status/700669973702664194">febrero 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The most expensive cities in Europe --- <a href="http://t.co/RUcnlSXpfj">http://t.co/RUcnlSXpfj</a> <a href="http://t.co/VMhFaPuipY">pic.twitter.com/VMhFaPuipY</a></p>&mdash; Euro Travels (@TravelsEuro) <a href="https://twitter.com/TravelsEuro/status/649117780629917697">septiembre 30, 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ML Salaries in Europe: Given the field of ML/Data Mining is, at its core, all about data, I thought it was rat... <a href="http://t.co/oCEudlWfov">http://t.co/oCEudlWfov</a></p>&mdash; InfoSysDataSciReddit (@InfoSysReddit) <a href="https://twitter.com/InfoSysReddit/status/645497290719784960">septiembre 20, 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> salaries: “<a href="https://twitter.com/hashtag/Barcelona?src=hash">#Barcelona</a> is the most competitive city in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a>” <a href="http://t.co/S0y1ZHUOVw">http://t.co/S0y1ZHUOVw</a> via @investcatalonia <a href="http://t.co/HEGUTyjZpn">pic.twitter.com/HEGUTyjZpn</a></p>&mdash; This is Catalonia (@ThIsCatalonia) <a href="https://twitter.com/ThIsCatalonia/status/545889316086747137">diciembre 19, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Google ordered by Dutch court to divulge IP addresses of fake reviewers <a href="https://t.co/iP1lPzfD4o">https://t.co/iP1lPzfD4o</a></p>&mdash; Guardian Tech (@guardiantech) <a href="https://twitter.com/guardiantech/status/707600972453777408">marzo 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Amazon to create 1,000 jobs in Manchester at new fulfilment centre <a href="https://t.co/7DTiR9N861">https://t.co/7DTiR9N861</a></p>&mdash; Guardian Tech (@guardiantech) <a href="https://twitter.com/guardiantech/status/707561255578435584">marzo 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
