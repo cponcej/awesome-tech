@@ -154,7 +154,7 @@
 ## The pianist
 
 <div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/u_jE7-6Uv7E?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe src="https://player.vimeo.com/video/23290368" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
