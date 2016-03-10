@@ -196,6 +196,8 @@
 
 [![most expensive cities in the world](images/most_expensive_cities.png)](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)
 
+[![singapore_most_espensive_city](images/singapore_most_espensive_city.png)](http://www.bbc.com/news/business-35765378)
+
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
