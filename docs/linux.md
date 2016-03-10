@@ -57,6 +57,9 @@
 
 ![sysadmin no trabajar demasiado](images/sysadmin_no_trabajar_demasiado.png)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Consider single points of failure and how to deal with them should they fail. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/life?src=hash">#life</a> <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707865797947842561">marzo 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![t-shirt size](images/tshirt_size.jpg)](https://en.wikipedia.org/wiki/Linux_Symposium)
 
 # Sysadmin Blogs
@@ -92,6 +95,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;If Microsoft ever does applications for Linux it means I&#39;ve won.&quot;<br>--Linus Torvalds<a href="https://twitter.com/nixcraft">@nixcraft</a>  <a href="https://t.co/kHMvZhNXuE">https://t.co/kHMvZhNXuE</a></p>&mdash; Pepe Roni (@polkatwitt) <a href="https://twitter.com/polkatwitt/status/706954908302450688">7 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Breaking news: <a href="https://twitter.com/satyanadella">@satyanadella</a> and <a href="https://twitter.com/Microsoft">@Microsoft</a> Announces Windows 12. Based upon industry strenght <a href="https://twitter.com/ubuntu">@Ubuntu</a> Linux 21.04 LTS code base.</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707687944488747008">marzo 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
@@ -583,6 +589,7 @@
 
 # Linux interview questions
 - [tecmint.com: interview questions/](http://www.tecmint.com/category/interview-questions/)
+- [linuxfoundation.org: 10 Job Interview Questions for Linux System Administrators](http://www.linuxfoundation.org/news-media/blogs/browse/2015/07/10-job-interview-questions-linux-system-administrators)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/rfkDOrkHNRjrok" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hirist/top-100-linux-interview-questions-and-answers-2014" title="Top 100 Linux Interview Questions and Answers 2014" target="_blank">Top 100 Linux Interview Questions and Answers 2014</a> </strong> from <strong><a href="//www.slideshare.net/hirist" target="_blank">hirist.com</a></strong> </div>

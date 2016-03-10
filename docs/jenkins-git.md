@@ -20,6 +20,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Goodreads?src=hash">#Goodreads</a>: How We Build Code at <a href="https://twitter.com/netflix">@Netflix</a> <a href="https://t.co/FBdA5yshQg">https://t.co/FBdA5yshQg</a> <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707679713632759808">marzo 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Continuous Integration Tools
 ## CI Jenkins, Travis
 - [jenkins-ci.org](https://jenkins-ci.org)

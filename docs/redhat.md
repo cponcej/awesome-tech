@@ -137,6 +137,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">.<a href="https://twitter.com/vmherold">@vmherold</a> on modernizing your <a href="https://twitter.com/hashtag/datacenter?src=hash">#datacenter</a>: <a href="https://t.co/HnaKvxNYGc">https://t.co/HnaKvxNYGc</a> <a href="https://twitter.com/hashtag/moderndatacenters?src=hash">#moderndatacenters</a> <a href="https://twitter.com/hashtag/virtualization?src=hash">#virtualization</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/707174032135729153">March 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Red?src=hash">#Red</a> Hat Enterprise <a href="https://twitter.com/hashtag/Virtualization?src=hash">#Virtualization</a> 3.6 has new tools to ease <a href="https://twitter.com/hashtag/VMware?src=hash">#VMware</a> <a href="https://twitter.com/hashtag/vSphere?src=hash">#vSphere</a> migrations <a href="https://t.co/fkZTQHqnf9">https://t.co/fkZTQHqnf9</a> <a href="https://t.co/Vf8YW4kyu9">pic.twitter.com/Vf8YW4kyu9</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/707706032378634240">marzo 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![tecmint rhev 3.5](images/tecmint_rhev.png)](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 
 ## Red Hat OpenShift PaaS

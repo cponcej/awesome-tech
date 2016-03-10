@@ -15,6 +15,7 @@
     - [Elasticsearch via Ansible](#elasticsearch-via-ansible)
     - [Provisioning Docker containers with Ansible](#provisioning-docker-containers-with-ansible)
     - [Security with Ansible](#security-with-ansible)
+    - [Windows Automation with Ansible](#windows-automation-with-ansible)
     - [Network Automation with Ansible](#network-automation-with-ansible)
 
 <!-- /MarkdownTOC -->
@@ -173,6 +174,15 @@
 - [Ansible.com shellshock](http://www.ansible.com/blog/shellshock)
 - [Patching your systems for DROWN doesn’t have to be a big deal thanks to Ansible](https://www.ansible.com/blog/drown-openssl-vulnerability)
 
+## Windows Automation with Ansible
+- [How Ansible Makes Automating Windows Easier](https://www.ansible.com/blog/ansible-windows-features)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ansible 2.0 Windows automation is better and faster than 1.x. Time to upgrade <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://t.co/7YUxLRAuLX">pic.twitter.com/7YUxLRAuLX</a></p>&mdash; tbarr (@tbarr) <a href="https://twitter.com/tbarr/status/700285887947603968">febrero 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How Ansible Makes Automating Windows Easier by <a href="https://twitter.com/mattdavispdx">@mattdavispdx</a> <a href="https://t.co/cvJDKBu1qt">https://t.co/cvJDKBu1qt</a> <a href="https://t.co/TCzkkGteLG">pic.twitter.com/TCzkkGteLG</a></p>&mdash; Ansible by Red Hat (@ansible) <a href="https://twitter.com/ansible/status/707664939880726528">marzo 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Network Automation with Ansible
 - [ansible.com/networks](https://www.ansible.com/networks)
 - [Ansible charges into network automation with Cisco, Juniper](http://www.theregister.co.uk/2016/02/18/ansible_dives_into_network_automation/) But where's Huawei? 
@@ -200,9 +210,6 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The future of <a href="https://twitter.com/hashtag/Tower?src=hash">#Tower</a> will improve support for huge scale installations. <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://t.co/jlxv5DkpXs">pic.twitter.com/jlxv5DkpXs</a></p>&mdash; liquidat (@liquidat) <a href="https://twitter.com/liquidat/status/700274786728022017">febrero 18, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ansible 2.0 Windows automation is better and faster than 1.x. Time to upgrade <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://t.co/7YUxLRAuLX">pic.twitter.com/7YUxLRAuLX</a></p>&mdash; tbarr (@tbarr) <a href="https://twitter.com/tbarr/status/700285887947603968">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why Cisco loves <a href="https://twitter.com/ansible">@ansible</a> <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> <a href="https://t.co/SacP0DxZiH">pic.twitter.com/SacP0DxZiH</a></p>&mdash; tbarr (@tbarr) <a href="https://twitter.com/tbarr/status/700356782288293888">febrero 18, 2016</a></blockquote>

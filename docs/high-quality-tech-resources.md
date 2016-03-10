@@ -40,6 +40,9 @@
 - [8 advantages of using open source in the enterprise](https://enterprisersproject.com/article/2015/1/top-advantages-open-source-offers-over-proprietary-solutions)
 - [First Timers Only](http://www.firsttimersonly.com/) Friendly Open Source projects should reserve specific issues for newbies.
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Carlos Aguayo shares why <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> and <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> are the future: <a href="https://t.co/k1Xs1ZoDZO">https://t.co/k1Xs1ZoDZO</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/707265881781342208">marzo 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Zeef.com: Find and share quality development/tech resources
 - [Zeef.com 🌟🌟🌟🌟🌟](https://zeef.com)
 - [awesome-awesomeness.zeef.com](https://awesome-awesomeness.zeef.com)

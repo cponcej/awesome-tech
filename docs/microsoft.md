@@ -3,6 +3,7 @@
 - [Microsoft](#microsoft)
     - [SSH client for Windows](#ssh-client-for-windows)
     - [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
+        - [PowerShell](#powershell)
 
 <!-- /MarkdownTOC -->
 
@@ -11,6 +12,8 @@
 [![azure rhel](images/azure_rhel.png)](http://betanews.com/2016/02/18/rhel-azure-marketplace/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RHEL?src=hash">#RHEL</a> is now available on-demand in the <a href="https://twitter.com/Azure">@Azure</a> Marketplace. Learn more: <a href="https://t.co/eubi8A09po">https://t.co/eubi8A09po</a>  <a href="https://t.co/t3gZ5FQZDO">https://t.co/t3gZ5FQZDO</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/700426316647108610">febrero 18, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> is porting <a href="https://twitter.com/hashtag/SQL?src=hash">#SQL</a> <a href="https://twitter.com/hashtag/Server?src=hash">#Server</a> to <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/KoRc36ehZe">https://t.co/KoRc36ehZe</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/maryjofoley">@maryjofoley</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/707704520755666944">marzo 9, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![microsoft loves linux](images/microsoft_loves_linux.jpg)](http://www.businessinsider.com/microsoft-sql-server-on-linux-2016-3)
 
@@ -40,7 +43,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Today, Microsoft announces that SQL Server is coming to Linux!&#13;&#13;<a href="https://t.co/HukIWadiqB">https://t.co/HukIWadiqB</a></p>&mdash; Gijs de Jong (@gijsdej) <a href="https://twitter.com/gijsdej/status/706960105519108099">7 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Microsoft Released SQL Server on Linux and it porting server apps for Linux :O <a href="https://t.co/bjCOjGzwRG">https://t.co/bjCOjGzwRG</a> <a href="https://t.co/3kdkgHnmZF">pic.twitter.com/3kdkgHnmZF</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706953766273036288">7 de marzo de 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Microsoft Released SQL Server on Linux and it porting server apps for Linux :O <a href="https://t.co/bjCOjGzwRG">https://t.co/bjCOjGzwRG</a> <a href="https://t.co/3kdkgHnmZF">pic.twitter.com/3kdkgHnmZF</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706953766273036288">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">If you can&#39;t beat em join em. Microsoft has released a Debian Linux switch OS. Repeat, a Debian Linux switch OS <a href="https://t.co/rtydrzB2g8">https://t.co/rtydrzB2g8</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707680213379854336">marzo 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Video: How to use the Windows Software Licensing Management Tool <a href="https://t.co/XVr42usYXV">https://t.co/XVr42usYXV</a> <a href="https://twitter.com/edbott">@edbott</a> <a href="https://twitter.com/billdetwiler">@BillDetwiler</a> <a href="https://t.co/Rz1fm7KMal">pic.twitter.com/Rz1fm7KMal</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/705784929435648000">4 de marzo de 2016</a></blockquote>
@@ -82,8 +87,6 @@
 <br/>
 
 ## Microsoft Monitoring and Management
-- [PowerShell Magazine](http://www.powershellmagazine.com/)
-- [PowerShell.org](http://powershell.org)
 - [Simple Talk](https://www.simple-talk.com)
 - [simple-talk.com/sysadmin](https://www.simple-talk.com/sysadmin/)
 - [Spiceworks](http://www.spiceworks.com/)
@@ -96,6 +99,11 @@
 - [Windows Sysinternals](https://technet.microsoft.com/en-us/sysinternals)
 	- [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653)
 - [Windows Remote Management and WMI](https://msdn.microsoft.com/es-es/library/windows/desktop/aa384463%28v=vs.85%29.aspx)
+
+### PowerShell
+- [PowerShell Magazine](http://www.powershellmagazine.com/)
+- [PowerShell.org](http://powershell.org)
+- [Introduction to PowerShell for Unix people](https://www.penflip.com/powershellorg/a-unix-persons-guide-to-powershell)
 - [New Release of PowerShell Extension For Visual Studio Code](https://rkeithhill.wordpress.com/2016/02/09/new-release-of-powershell-extension-for-visual-studio-code)
 
 [![spiceworks](images/spiceworks-logo.png)](http://www.spiceworks.com/)

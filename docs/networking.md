@@ -22,6 +22,8 @@
 
 [![telcos vs web giants](images/telcos_vs_web_giants_spain.png)](http://www.zdnet.com/article/telcos-vs-the-web-giants-is-the-playing-field-a-fair-one-and-does-it-matter/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New NYC buses are getting Wi-Fi and USB charging ports <a href="https://t.co/eGYCfy9irR">https://t.co/eGYCfy9irR</a> <a href="https://t.co/TQOAuWziyT">pic.twitter.com/TQOAuWziyT</a></p>&mdash; Mashable Tech (@mashabletech) <a href="https://twitter.com/mashabletech/status/707857779600584704">marzo 10, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4YgGuK9cuSU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
