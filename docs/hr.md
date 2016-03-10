@@ -220,6 +220,8 @@
 
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
+[![getting_your_boss_to_love_you](images/getting_your_boss_to_love_you.png)](http://www.businessinsider.com/dave-kerpen-how-to-manage-up-2016-3)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EZPYLZ7I6gs" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
