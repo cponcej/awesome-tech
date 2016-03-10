@@ -14,6 +14,7 @@
     - [Paths of Glory](#paths-of-glory)
     - [The Hollywood Blacklist: 1947-1960](#the-hollywood-blacklist-1947-1960)
     - [JFK](#jfk)
+    - [Good Bye Lennin](#good-bye-lennin)
     - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
     - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
 
@@ -145,6 +146,18 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/txAIKhRUxmQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Good Bye Lennin
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u5hzmwGW4Ac?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/2-s-89H8v6Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
