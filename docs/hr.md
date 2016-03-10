@@ -76,14 +76,14 @@
 - [10 Things HR Doesn't Want You to Know (but I'll Tell You) 🌟🌟](http://www.inc.com/jt-odonnell/10-things-hr-doesn-t-want-you-to-know-but-i-ll-tell-you.html) HR and recruiting have some secrets you should know..
 - [Feels Like My Boss Doesn't Like Me (And, It's Hurting My Career) 🌟](https://www.linkedin.com/pulse/feels-like-my-boss-doesnt-me-its-hurting-career-j-t-o-donnell)
 
+![voltaire good mood](images/voltaire_good_mood.jpg)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;The only difference between a good day and a bad day is your attitude.&quot; -- Dennis Brown<a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://twitter.com/hashtag/quoteoftheday?src=hash">#quoteoftheday</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706214302244405248">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/c2UUSp4bkNs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-![voltaire good mood](images/voltaire_good_mood.jpg)
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;The only difference between a good day and a bad day is your attitude.&quot; -- Dennis Brown<a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://twitter.com/hashtag/quoteoftheday?src=hash">#quoteoftheday</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706214302244405248">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Work environment issues
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
