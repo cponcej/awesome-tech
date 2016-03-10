@@ -546,6 +546,8 @@
 </div>
 <br/>
 
+[![bi_outlook_on_life](images/bi_outlook_on_life.png)](http://www.businessinsider.com/happify-graphic-on-optimism-2016-3)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/llj7LzTULog?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
