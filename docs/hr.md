@@ -30,10 +30,10 @@
 
 [![live chat](images/human-resources-cover.png)](https://www.livechatinc.com/livechat-for-human-resources/)
 
+[![voltaire people judge hastily](images/voltaire_people_judge_hastily.jpg)](http://statusmind.com/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> is the best place to work according to <a href="https://twitter.com/Glassdoor">@Glassdoor</a> <a href="https://twitter.com/TriangleBIZJrnl">@TriangleBIZJrnl</a> &amp; <a href="https://twitter.com/NCTA">@NCTA</a> read more in our Awards Roundup <a href="https://t.co/RnBwdH2B3m">https://t.co/RnBwdH2B3m</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/703296727374106624">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[![voltaire people judge hastily](images/voltaire_people_judge_hastily.jpg)](http://statusmind.com/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Once something is a passion, the motivation is there.&quot; ~ Michael Schumacher <a href="https://twitter.com/hashtag/quote?src=hash">#quote</a> <a href="https://twitter.com/hashtag/leadership?src=hash">#leadership</a> <a href="https://twitter.com/hashtag/inspiration?src=hash">#inspiration</a> <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/PSRLbjVqnt">pic.twitter.com/PSRLbjVqnt</a></p>&mdash; Tamara McCleary (@TamaraMcCleary) <a href="https://twitter.com/TamaraMcCleary/status/706243435376709632">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
