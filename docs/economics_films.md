@@ -12,7 +12,7 @@
     - [Los Lunes al sol](#los-lunes-al-sol)
     - [Pago justo](#pago-justo)
     - [Paths of Glory](#paths-of-glory)
-    - [The Hollywood Blacklist: 1947-1960](#the-hollywood-blacklist-1947-1960)
+    - [Trumbo](#trumbo)
     - [JFK](#jfk)
     - [Good Bye Lennin](#good-bye-lennin)
     - [The lives of others](#the-lives-of-others)
@@ -131,10 +131,10 @@
 </div>
 <br/>
 
-## The Hollywood Blacklist: 1947-1960
+## Trumbo 
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nJzV6-wJ3SQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGdzsGvMn_4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
