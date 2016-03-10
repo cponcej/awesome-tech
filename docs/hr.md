@@ -465,9 +465,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las crisis 2.0¿Cómo solucionar una metedura de pata en las redes sociales,qué NO hacer nunca? Lo cuenta .<a href="https://twitter.com/TreceBits">@TreceBits</a> <a href="https://t.co/tUAsmmH0Tp">https://t.co/tUAsmmH0Tp</a></p>&mdash; A punto con La 2 (@apuntoconLa2) <a href="https://twitter.com/apuntoconLa2/status/705727435862634496">marzo 4, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Ya disponible el programa sobre las crisis 2.0, personales y corporativas, en <a href="https://twitter.com/apuntoconLa2">@apuntoconLa2</a> <a href="https://t.co/1S4V98uuvK">https://t.co/1S4V98uuvK</a> <a href="https://t.co/q73PRFQvgp">pic.twitter.com/q73PRFQvgp</a></p>&mdash; Manuel Moreno (@TreceBits) <a href="https://twitter.com/TreceBits/status/705328621989273600">marzo 3, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">CUIDAdo. El hábito de ser mejor persona! <a href="https://twitter.com/apuntoconLa2">@apuntoconLa2</a> Gracias <a href="https://twitter.com/Patri_Psicologa">@Patri_Psicologa</a> por tu lección <a href="https://twitter.com/hashtag/habitos?src=hash">#habitos</a> <a href="https://twitter.com/hashtag/saludables?src=hash">#saludables</a> <a href="https://t.co/xIYnPLIvxp">pic.twitter.com/xIYnPLIvxp</a></p>&mdash; Elisabet Carnicé (@EliCarnice) <a href="https://twitter.com/EliCarnice/status/704334220194349056">febrero 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
