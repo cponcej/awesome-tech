@@ -113,6 +113,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">VÍDEO | Bouhanni, DESCALIFICADO. Mejor verlo que tratar de explicarlo  <a href="https://twitter.com/hashtag/ParisNice?src=hash">#ParisNice</a> (via <a href="https://twitter.com/Eurosport_ES">@Eurosport_ES</a>) <a href="https://t.co/NzociigkDn">pic.twitter.com/NzociigkDn</a></p>&mdash; adriangroca (@adriangroca) <a href="https://twitter.com/adriangroca/status/707251488846958593">8 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">16 signs your job is ruining your marriage <a href="https://t.co/Y0f4b2JyXA">https://t.co/Y0f4b2JyXA</a> <a href="https://t.co/PCQgplEUdz">pic.twitter.com/PCQgplEUdz</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/708010250612436992">10 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
@@ -327,6 +329,7 @@
 - [The 3 questions one CEO hopes to hear from everyone he interviews — but hardly ever does](http://www.businessinsider.com/interview-questions-job-candidates-forget-to-ask-2016-3)
 - [A CEO says this is the best question you can ask when you meet an influential person](http://www.businessinsider.com/the-best-question-to-ask-when-you-meet-an-influential-person-2016-2)
 - [social.hays.com: Do you know when and how to say no?](https://social.hays.com/2015/08/31/do-you-know-when-and-how-to-say-no/)
+- [4 Things You Can’t Forget To Do Before Your Interview](http://www.careerealism.com/interview-cant-forget-do-before/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -556,6 +559,10 @@
 <br/>
 
 [![bi_outlook_on_life](images/bi_outlook_on_life.png)](http://www.businessinsider.com/happify-graphic-on-optimism-2016-3)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="pt" dir="ltr">Recursos humanos - Corto sobre mobbing. <a href="https://twitter.com/hashtag/RRHH?src=hash">#RRHH</a> <a href="https://twitter.com/hashtag/EMPLEO?src=hash">#EMPLEO</a> <a href="https://twitter.com/hashtag/TRABAJO?src=hash">#TRABAJO</a> <a href="https://twitter.com/hashtag/CV?src=hash">#CV</a> <a href="https://twitter.com/hashtag/LEGALES?src=hash">#LEGALES</a> <a href="https://t.co/wowq6AULrE">https://t.co/wowq6AULrE</a></p>&mdash; MOTTECLA (@ClaudiaMottet) <a href="https://twitter.com/ClaudiaMottet/status/693207648846663681">29 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Muy bueno - recomendado para mis estudiantes del Grado RRLL y RRHH: &quot;PECERA&quot;, el corto más reivindicativo del año. <a href="https://t.co/tdNSHbk0c4">https://t.co/tdNSHbk0c4</a></p>&mdash; Alberto R.Villaverde (@alberto_ugr) <a href="https://twitter.com/alberto_ugr/status/683382607699152897">2 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/llj7LzTULog?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

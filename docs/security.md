@@ -141,6 +141,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Who&#39;s fixing containers? <a href="https://t.co/vltcct17s7">https://t.co/vltcct17s7</a> <a href="https://twitter.com/hashtag/glibc?src=hash">#glibc</a> <a href="https://twitter.com/hashtag/ITsecurity?src=hash">#ITsecurity</a> <a href="https://twitter.com/hashtag/containers?src=hash">#containers</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/700711544871645185">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why we use adblockers: &#39;We need to have more control over what we&#39;re exposed to&#39; <a href="https://t.co/TvMoWgAExA">https://t.co/TvMoWgAExA</a> <a href="https://t.co/s6uwF5cPqh">pic.twitter.com/s6uwF5cPqh</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/708004842711678976">10 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 

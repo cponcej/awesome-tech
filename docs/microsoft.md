@@ -30,6 +30,7 @@
 - [Acompli is now Outlook app. Microsoft acquires Acompli, provider of innovative mobile email apps](https://www.acompli.com/)
 - [ChatOps on Windows with Hubot and PowerShell](https://hodgkins.io/chatops-on-windows-with-hubot-and-powershell/)
 - [Microsoft opens up its deep-learning toolkit on GitHub](http://www.pcworld.com/article/3026236/microsoft-opens-up-its-deep-learning-toolkit-on-github.html)
+- [zdnet: Why Microsoft's vulnerability severity ratings are obsolete 🌟](http://www.zdnet.com/article/microsofts-vulnerability-severity-ratings-are-obsolete/) The distinction between 'critical' and 'important' has become meaningless. It makes no sense to treat them differently. Patch Tuesday needs a patch.
 
 ## SSH client for Windows
 - [SSH for Windows open sourced by Microsoft. What's going on? 🌟](https://github.com/PowerShell/Win32-OpenSSH)

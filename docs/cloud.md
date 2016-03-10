@@ -35,6 +35,7 @@
 - [Youtube: Iceland - A Growing Data Center Hub](https://www.youtube.com/watch?v=LH5lj4sARI0)
 - [hostgeni.net](http://www.hostgeni.net) Discover who is hosting any website 
 - [RackTables.org - a datacenter asset management system](http://racktables.org/)
+- [Is It Down Righ Now? 🌟🌟](http://www.isitdownrightnow.com)
 
 ## Centros de datos
 - [centrodedatos-datacenter.es](http://www.centrodedatos-datacenter.es)
@@ -116,6 +117,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Just ordered new stickers <a href="https://t.co/MfGpBWjRAp">https://t.co/MfGpBWjRAp</a>. They will be here soon :) <a href="https://twitter.com/hashtag/cloudcomputing?src=hash">#cloudcomputing</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/oUO9tiNm7N">pic.twitter.com/oUO9tiNm7N</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700706657190309888">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Amazon is down! <a href="https://t.co/zUpSDrMD7w">https://t.co/zUpSDrMD7w</a> <a href="https://t.co/oy2G2l3sjj">pic.twitter.com/oy2G2l3sjj</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/708013055578411008">10 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Cloud Pricing
 - [EC2Instances.info Easy Amazon EC2 Instance Comparison](http://www.ec2instances.info/)

@@ -85,6 +85,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Si te ofrecen un nuevo proyecto &quot;Show Me the Money!&quot; Jerry Maguire (1996) HD <a href="https://t.co/Jq2uoxN1Zo">https://t.co/Jq2uoxN1Zo</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; josegarrido (@josegarrido) <a href="https://twitter.com/josegarrido/status/705165107110793216">2 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">An artistic rendering of today&#39;s employment <a href="https://t.co/bMVMy7QqHA">https://t.co/bMVMy7QqHA</a></p>&mdash; Faretta (@Michael_Faretta) <a href="https://twitter.com/Michael_Faretta/status/707023474686963713">8 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## IT remuneration
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
 
