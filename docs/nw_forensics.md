@@ -4,6 +4,15 @@
 	- [Network Forensics Blogs](#network-forensics-blogs)
 	- [Network Forensics and Wireshark on Twitter](#network-forensics-and-wireshark-on-twitter)
 	- [Network Forensics Docs](#network-forensics-docs)
+		- [WireEdit](#wireedit)
+		- [Wireshark](#wireshark)
+			- [Laura Chappell](#laura-chappell)
+			- [Sharkfest](#sharkfest)
+		- [Fiddler](#fiddler)
+		- [Transum wireshark plugin](#transum-wireshark-plugin)
+		- [Network Performance](#network-performance)
+		- [Manuales de Wireshark](#manuales-de-wireshark)
+		- [Wireshark 2.0](#wireshark-20)
 	- [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
 
 <!-- /MarkdownTOC -->
@@ -48,7 +57,11 @@
 ## Network Forensics Docs
 - [Digital Attack Map. Top daily DDoS attacks worldwide 🌟🌟🌟](http://www.digitalattackmap.com/)
 	- [radware.com: DDoS Handbook](https://www.radware.com/social/ddoshandbook/)
+
+### WireEdit
 - [WireEdit. First-Of-A-Kind and The Only Full Stack WYSIWYG Packet Editor Edit L2 - L7 with just a few clicks](https://wireedit.com/)
+
+### Wireshark 
 - [Optimal Wireshark Setup | Enhance Your Wireshark Experience](https://www.youtube.com/watch?v=F4l3CedRlJc)
 	- [Switches And Tool Placement (by Tony Fortunato). Ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs](http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html)
 - [Wireshark 101: Transmission Control Protocol, video tutorial](https://www.youtube.com/watch?v=iX44XIZafiw)
@@ -69,12 +82,16 @@
 	- [Understanding Application Performance on the Network – Part VII: TCP Window Size](http://apmblog.dynatrace.com/2014/08/12/understanding-application-performance-network-part-tcp-window-size/)
 - [Troubleshooting with Wireshark: Identifying SIP Errors](https://www.youtube.com/watch?v=bu6kpneLlFc)
 	- [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark](https://www.youtube.com/watch?v=OFpQLyQxt84)
+
+#### Laura Chappell
 - [Laura Chappell's Top Videos](https://www.youtube.com/user/thebitgirl/videos)
 	- [Wireshark Tip 10: Identify Separate TCP Conversations with TCP Stream Index (Laura Chappell)](https://www.youtube.com/watch?v=0dFndZwkDGY)
 	- [Wireshark profiles](https://www.youtube.com/watch?v=pxxcuR7fwXM)
 	- [PacketLife.net](http://packetlife.net/)
 	- [Sharkfest 2013 - Wireshark Network Forensics (Laura Chappell). Seguridad con Wireshark: ejemplos de ataques de seguridad DDoS (macof, DNS), filtros, perfiles, coloreado de frames y tshark para trazas largas](https://www.youtube.com/watch?v=UXAHvwouk6Q)
 	- [wireshark's colors, by Laura Chappell](http://bit.ly/nmapcolors)
+
+#### Sharkfest
 - [Sharkfest '14 Retrospective](http://sharkfest.wireshark.org/sharkfest.14/)
 	- [How to Use Wireshark to Analyze Video](http://sharkfest.wireshark.org/sharkfest.13/presentations/PA-11_How-to-Use-Wireshark-to-Analyze-Video_Betty-DuBois.pdf)
 	- [Sharkfest '14 presentation: Get started with HTTP Analysis](http://sharkfest.wireshark.org/sharkfest.14/presentations/B6-Get%20Started%20with%20HTTP%20Analysis.pdf)
@@ -83,14 +100,22 @@
 	- [Flood network with random MAC addresses with macof tool](https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/)
 	- ['itsoknoproblembro' Toolkit - The Beast that Beat Banks](http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html)
 	- [HTCIA | High Technology Crime Investigation Association](https://www.htcia.org/)
+
+### Fiddler
 - [Fiddler is an HTTP debugging proxy server that complements Firefox or Chrome devtools (F12 key)](http://www.telerik.com/fiddler)
 	- [Fiddler, un proxy para depurar aplicaciones](http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones)
 	- [slideshare: Debugging with Fiddler](http://www.slideshare.net/idof/debugging-with-fiddler)
+
+### Transum wireshark plugin
 - [TRANSUM Wireshark Plugin. Some Wireshark dissectors provide response time measurement values, but what gets measured is not ideal for performance analysis work](http://www.tribelabzero.com/transum)
 	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
+
+### Network Performance
 - [Corvil.com Network Data Analsysis. Free eBook: Understanding Packet Loss](http://corvil.com/resources/white-papers/ebook-understanding-packet-loss)
 - [What’s the performance meaning of 0-Windows?](http://blog.securactive.net/performance-meaning-0-windows/) When a machine starts to send more and more 0-win you have to investigate if there is enough resources, CPU, RAM …
 - [Great explanation on how performance metrics are calculated by Tony Fortunato (Tech firm)](http://www.lovemytool.com/blog/2015/10/application-performance-term-connect-time-by-tony-fortunato.html)
+
+### Manuales de Wireshark
 - [Manual básico de wireshark](http://www.slideshare.net/DIANYSS2012/manual-bsico-de-wireshark)
 - [Analisis de red mediante Wireshark y Tcpdump](http://www.slideshare.net/JavierMartinRivero/analisis-de-red-mediante-wireshark-y-tcpdump)
 - [Protocolo dns analizado con wireshark](http://www.slideshare.net/jopa001/protocolo-dns-con-wireshark)
@@ -102,11 +127,6 @@
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/N-n1n6WKmRs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qZL8kNj0E-A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
@@ -125,6 +145,20 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A Deep Dive Into DNS Packet Sizes: Why Smaller Packet Sizes Keep The Internet Safe <a href="https://t.co/9a8duqMk5j">https://t.co/9a8duqMk5j</a> <a href="https://twitter.com/hashtag/networking?src=hash">#networking</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705859377907920896">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### Wireshark 2.0 
+- [Wireshark 2.0 Follow TCP Stream (by Tony Fortunato)](http://www.lovemytool.com/blog/2016/03/wireshark-20-follow-tcp-stream-by-tony-fortunato.html)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qZL8kNj0E-A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPgCZwj446o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ## Network Forensics and Monitoring for MySQL and PostgreSQL
 - [VividCortex](https://twitter.com/VividCortex)
