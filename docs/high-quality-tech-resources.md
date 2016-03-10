@@ -246,6 +246,8 @@
 
 [![dzone](images/logo-dzone.png)](https://dzone.com)
 
+[![dzone_sw](images/dzone_sw.png)](http://www.dzonesoftware.com/)
+
 ## Java Code Geeks
 - [javacodegeeks.com](http://www.javacodegeeks.com/)
 - [Android](http://www.javacodegeeks.com/category/android/)
