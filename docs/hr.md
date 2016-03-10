@@ -499,6 +499,9 @@
 <a href="https://www.youtube.com/watch?v=IF3n6L3P_f0">How Corrupt Is Russia?</a>
 </p>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="https://t.co/cy63SwQAN4">https://t.co/cy63SwQAN4</a> The Lives of Others: A Joke Too Far Scene</p>&mdash; Ken Lee (@Koverptw) <a href="https://twitter.com/Koverptw/status/686393149632196609">enero 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![jobs in china](images/job_in_china.png)](http://www.businessinsider.com/at-least-10m-need-to-be-laid-off-in-china-2016-3)
 
 [![queen_backs_brexit](images/queen_backs_brexit.jpg)](http://www.bbc.com/news/uk-politics-eu-referendum-35760912)
