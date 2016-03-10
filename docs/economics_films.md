@@ -17,9 +17,12 @@
     - [Good Bye Lennin](#good-bye-lennin)
     - [The lives of others](#the-lives-of-others)
     - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
+    - [Trading Places](#trading-places)
     - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
 
 <!-- /MarkdownTOC -->
+
+[![margin call](images/margincall.jpg)](http://thoughtsofafinancestudent.blogspot.com.es/2015/11/margin-call-be-first-be-smart-or-cheat.html)
 
 # Economics films
 ## Margin Call
@@ -28,8 +31,6 @@
 </div>
 <br> 
 
-[![margin call](images/margincall.jpg)](http://thoughtsofafinancestudent.blogspot.com.es/2015/11/margin-call-be-first-be-smart-or-cheat.html)
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6WyN4z0VGc?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -37,6 +38,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v4P4cS5jKmQ?list=PL_U58TaSOS-VEg9U3ePdmkSu7VzIyrdW1" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/3nlQWRjBzcE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
@@ -183,6 +189,13 @@
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/UAeqVGP-GPM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Trading Places
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZjDbJQKDXCY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
