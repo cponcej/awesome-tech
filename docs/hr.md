@@ -466,6 +466,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Entrepreneurs shouldn&#39;t cry (in public), <a href="https://twitter.com/peterpeele">@peterpeele</a> quotes Gordon Gekko from Wall Street: Money Never Sleeps <a href="https://t.co/KKj3CMNTRP">https://t.co/KKj3CMNTRP</a></p>&mdash; iAfrikan (@iafrikan) <a href="https://twitter.com/iafrikan/status/697137202728472577">9 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jLfmBSJkFxo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Articulos
 - [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
