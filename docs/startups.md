@@ -77,6 +77,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">7 Consejos del Lobo de Wall Street.<a href="https://twitter.com/CoachMACMx">@CoachMACMx</a> Formando negocios con <a href="https://twitter.com/hashtag/exito?src=hash">#exito</a> <a href="https://t.co/7srgq3VHdV">https://t.co/7srgq3VHdV</a></p>&mdash; CoachMAC (@CoachMACMx) <a href="https://twitter.com/CoachMACMx/status/708304155819905025">11 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">1:Sell me this pen.<br>2:Write your name down<br>1:I can&#39;t I don&#39;t have a pen<br>2:And that my friend is supply and demand<br>- The Wolf Of Wall Street</p>&mdash; ItsYaBoy (@SquadLogan) <a href="https://twitter.com/SquadLogan/status/574669571904249856">8 de marzo de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
