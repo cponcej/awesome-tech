@@ -134,6 +134,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Machines may replace half of human jobs <a href="https://t.co/eG4UM5H2KY">https://t.co/eG4UM5H2KY</a> <a href="https://t.co/wLEPMYJL0i">pic.twitter.com/wLEPMYJL0i</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/699604520414945281">febrero 16, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top story: Apple could not afford to bring production to the US - Business Insi… <a href="https://t.co/tnjr4Jh0nH">https://t.co/tnjr4Jh0nH</a>, see more <a href="https://t.co/IoIQnbuajI">https://t.co/IoIQnbuajI</a></p>&mdash; WSI DOM voir @wsidom (@WSI_DOM) <a href="https://twitter.com/WSI_DOM/status/707653601490046976">9 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">There&#39;s a grim chart going around. And it&#39;s comparing the 08&#39; crash to today: <a href="https://t.co/Lfsb8nJkaA">https://t.co/Lfsb8nJkaA</a><a href="https://twitter.com/search?q=%24SPY&amp;src=ctag">$SPY</a> <a href="https://twitter.com/search?q=%24TLT&amp;src=ctag">$TLT</a> <a href="https://t.co/ggdYLYMfWt">pic.twitter.com/ggdYLYMfWt</a></p>&mdash; StockTwits (@StockTwits) <a href="https://twitter.com/StockTwits/status/700424616339075072">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
