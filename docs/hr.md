@@ -235,7 +235,10 @@
 
 [![getting_your_boss_to_love_you](images/getting_your_boss_to_love_you.png)](http://www.businessinsider.com/dave-kerpen-how-to-manage-up-2016-3)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Don&#39;t let that guy steal your stuff. Develop relationships. The Best Way to Play Office Politics<a href="http://t.co/SDwczdodEZ">http://t.co/SDwczdodEZ</a></p>&mdash; SupahDupah (@iamkarrencooper) <a href="https://twitter.com/iamkarrencooper/status/655111362130022401">16 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UGdRyPN3IRk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EZPYLZ7I6gs" frameborder="0" allowfullscreen class="video"></iframe>
