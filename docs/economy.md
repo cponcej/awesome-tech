@@ -23,12 +23,12 @@
 
 [![nikita khrushchev economics](images/nikita-khrushchev_economics.jpg)](http://izquotes.com/)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fragmento de la última entrevista a Carl Sagan <a href="https://t.co/cJIoOcXpAO">https://t.co/cJIoOcXpAO</a></p>&mdash; Albert Montserrat (@tenormontserrat) <a href="https://twitter.com/tenormontserrat/status/704633194830831616">1 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">A mi parecer, una de las partes más curiosas de la película &quot;El Pianista&quot;, Roman Polański.<br>Chopin, &quot;Ballade&quot; G Minor<a href="https://t.co/Ge6t9rmfrN">https://t.co/Ge6t9rmfrN</a></p>&mdash; Elena Esparcia (@elenaespartana) <a href="https://twitter.com/elenaespartana/status/704819359311642628">2 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="https://t.co/DseolgaQVy">https://t.co/DseolgaQVy</a> The 25th Anniversary of the Fall of the Berlin Wall Google Doodle</p>&mdash; DaHnA BeLLe (@donnabellknox) <a href="https://twitter.com/donnabellknox/status/707350965649854464">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fragmento de la última entrevista a Carl Sagan <a href="https://t.co/cJIoOcXpAO">https://t.co/cJIoOcXpAO</a></p>&mdash; Albert Montserrat (@tenormontserrat) <a href="https://twitter.com/tenormontserrat/status/704633194830831616">1 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Economy
 - [World Economic Forum](http://www.weforum.org/)
