@@ -271,6 +271,9 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Love your work and do good for others. <a href="https://t.co/Lv4zdPQwiG">https://t.co/Lv4zdPQwiG</a> <a href="https://twitter.com/hashtag/visie?src=hash">#visie</a> <a href="https://twitter.com/hashtag/leiderschap?src=hash">#leiderschap</a> <a href="https://twitter.com/hashtag/hrm?src=hash">#hrm</a> <a href="https://twitter.com/hashtag/simonsinek?src=hash">#simonsinek</a></p>&mdash; Martijn van Iersel (@MartijnvIersel) <a href="https://twitter.com/MartijnvIersel/status/651826680802189312">7 de octubre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
 [![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)](http://insights.com/)
