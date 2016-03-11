@@ -228,6 +228,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Amazon to create 1,000 jobs in Manchester at new fulfilment centre <a href="https://t.co/7DTiR9N861">https://t.co/7DTiR9N861</a></p>&mdash; Guardian Tech (@guardiantech) <a href="https://twitter.com/guardiantech/status/707561255578435584">marzo 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MO5EolWTGeo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
