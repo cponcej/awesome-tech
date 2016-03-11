@@ -554,6 +554,8 @@
 
 [![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
 
+[![iphones_assembled_in_china](images/iphones_assembled_in_china.png)](http://www.businessinsider.com/apple-production-trump-boycott-iphone-trump-2016-3)
+
 [![sharapova nike](images/sharapova_nike.png)](http://www.bbc.com/news/business-35751916)
 
 <div class="container">
