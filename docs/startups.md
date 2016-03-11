@@ -116,6 +116,8 @@
 
 [!['It's a graveyard': The software devs leaving Greece for good](images/sw_dev_leaving_greece.png)](http://www.zdnet.com/article/its-a-graveyard-the-software-devs-leaving-greece-for-good/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">MLK 🙌 <a href="https://t.co/cmBvC6EMVi">pic.twitter.com/cmBvC6EMVi</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/703653452447096832">27 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![volvemos org](images/volvemos_org.png)](http://www.elcorreo.com/bizkaia/sociedad/201603/07/queremos-volver-casa-20160301165042.html)
 
 [![espanish in london](images/espanish_in_london.png)](http://www.espanishinlondon.com/)
