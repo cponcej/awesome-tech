@@ -2,6 +2,7 @@
 
 - [Economics films](#economics-films)
     - [Margin Call](#margin-call)
+    - [Inside Job](#inside-job)
     - [Wall Street](#wall-street)
     - [The Wolf of Wall Street](#the-wolf-of-wall-street)
     - [Glengarry Glen Ross](#glengarry-glen-ross)
@@ -43,6 +44,18 @@
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/3nlQWRjBzcE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+## Inside Job
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93ewgPVBpK4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1Ize2i9ZgeA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
