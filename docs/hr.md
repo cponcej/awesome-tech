@@ -394,6 +394,8 @@
 - [opensource.com: How to add open source experience to your resume 🌟](https://opensource.com/business/16/2/add-open-source-to-your-resume)
 - [Why Your Resume Is Making Recruiters Cringe](https://www.linkedin.com/pulse/why-your-resume-making-recruiters-cringe-j-t-o-donnell)
 
+[![phrases_sabotaging_resume](images/phrases_sabotaging_resume.png)](http://www.businessinsider.com/phrases-that-are-sabotaging-your-rsum-2016-3)
+
 [![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
 
 # Recursos Humanos
