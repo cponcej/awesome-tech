@@ -54,11 +54,6 @@
 </div>
 <br>
 
-<div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/1Ize2i9ZgeA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
 ## Wall Street
 
 <div class="container">
