@@ -574,6 +574,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Muy bueno - recomendado para mis estudiantes del Grado RRLL y RRHH: &quot;PECERA&quot;, el corto más reivindicativo del año. <a href="https://t.co/tdNSHbk0c4">https://t.co/tdNSHbk0c4</a></p>&mdash; Alberto R.Villaverde (@alberto_ugr) <a href="https://twitter.com/alberto_ugr/status/683382607699152897">2 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">He añadido un vídeo a una lista de reproducción de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="http://t.co/d8RpLl0eyj">http://t.co/d8RpLl0eyj</a> - Entrevista laboral-Real como la vida misma).</p>&mdash; orientalan (@orientalan) <a href="https://twitter.com/orientalan/status/572374674656477185">2 de marzo de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dragui_nadie_es_joven_para_siempre](images/dragui_nadie_es_joven_para_siempre.png)](http://www.eleconomista.es/economia/noticias/7414223/03/16/El-mensaje-de-Draghi-para-Espana-el-mercado-laboral-protege-a-los-veteranos-y-perjudica-a-los-jovenes.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Draghi &quot;El mercado laboral protege a los veteranos y perjudica a los jóvenes&quot; <a href="https://t.co/4VFUqwMfjo">https://t.co/4VFUqwMfjo</a> <a href="https://t.co/vXeP0poboX">pic.twitter.com/vXeP0poboX</a></p>&mdash; elEconomista.es (@elEconomistaes) <a href="https://twitter.com/elEconomistaes/status/708273641885192192">11 de marzo de 2016</a></blockquote>
