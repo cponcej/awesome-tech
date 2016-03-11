@@ -344,3 +344,10 @@
 <iframe width="420" height="315" src="https://www.youtube.com/embed/rU5PrcxFln0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wanna know what life is really like as a freelancer? Let these movie at TV clips do the talking. <a href="https://twitter.com/hashtag/freelancing?src=hash">#freelancing</a> <a href="https://t.co/XnqDiy05Fo">https://t.co/XnqDiy05Fo</a></p>&mdash; Tonya (@Beachbudget) <a href="https://twitter.com/Beachbudget/status/636191059299602434">25 de agosto de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Osqtr0Mqfn0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
