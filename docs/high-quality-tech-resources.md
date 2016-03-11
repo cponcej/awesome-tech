@@ -455,7 +455,11 @@
 - [clker.com](http://www.clker.com)
 - [brandsoftheworld.com](http://www.brandsoftheworld.com)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">😉 <a href="https://t.co/se1e42KOpJ">pic.twitter.com/se1e42KOpJ</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/706680877456162816">7 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E5G31VO1c0U" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
