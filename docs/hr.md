@@ -166,6 +166,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Check out this HBR article on how to embrace complex change. | <a href="https://t.co/McNTpbrQwP">https://t.co/McNTpbrQwP</a> <a href="https://t.co/p8aMSXyauL">pic.twitter.com/p8aMSXyauL</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/706809624440266752">March 7, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u1zX5ftiI2U?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 #### How to Successfully Onboard Employees
 - [How to Successfully Onboard Employees](http://www.dzonesoftware.com/blog/how-to-successfully-onboard-employees)
 
@@ -173,6 +178,11 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![howto_onboard_employees](images/howto_onboard_employees.png)](http://www.dzonesoftware.com/blog/how-to-successfully-onboard-employees)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ga2zo_chWlQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ### Culture and collaboration
 - [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
