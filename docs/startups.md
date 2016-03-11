@@ -206,6 +206,8 @@
 
 [![singapore_most_espensive_city](images/singapore_most_espensive_city.png)](http://www.bbc.com/news/business-35765378)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="https://t.co/OSouk8Ferd">https://t.co/OSouk8Ferd</a> The Wolf of Wall Street - &quot;You Make A Lot of Money&quot; Clip</p>&mdash; Lucas Daher Tristão (@Lucasplay) <a href="https://twitter.com/Lucasplay/status/704919553889935360">2 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The cheapest and most expensive cities in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> for <a href="https://twitter.com/hashtag/backpackers?src=hash">#backpackers</a> <a href="https://t.co/OIKgYLbhwq">https://t.co/OIKgYLbhwq</a> -east vs. west <a href="https://t.co/aspx8N8AyV">pic.twitter.com/aspx8N8AyV</a></p>&mdash; Klaava Travel Guide (@klaavamedia) <a href="https://twitter.com/klaavamedia/status/700669973702664194">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
