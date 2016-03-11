@@ -84,6 +84,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Think inside the borders. Press Ctrl+Shift+7 to put borders around cells. <a href="https://t.co/lZUIzNvsDR">https://t.co/lZUIzNvsDR</a> <a href="https://twitter.com/hashtag/ExcelTips?src=hash">#ExcelTips</a> <a href="https://t.co/TQF1sYK8lA">pic.twitter.com/TQF1sYK8lA</a></p>&mdash; Microsoft Excel (@msexcel) <a href="https://twitter.com/msexcel/status/692754008335867904">enero 28, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tres trucos de Excel que te ahorrarán horas de trabajo <a href="https://t.co/TnuPWSKBHM">https://t.co/TnuPWSKBHM</a> <a href="https://t.co/EAE5GXGKca">pic.twitter.com/EAE5GXGKca</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/707275727050149888">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Windows 10 tip: Access symbols, emojis, and other special characters <a href="https://t.co/unu6DvMrDl">https://t.co/unu6DvMrDl</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/edbott">@edbott</a> <a href="https://t.co/jCTTJ1TNzG">pic.twitter.com/jCTTJ1TNzG</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/705807072265441280">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
