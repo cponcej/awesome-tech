@@ -61,6 +61,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Spain’s startup ecosystem on a roll, especially in <a href="https://twitter.com/hashtag/Barcelona?src=hash">#Barcelona</a> &amp; <a href="https://twitter.com/hashtag/Madrid?src=hash">#Madrid</a>. Interesting post-recession effect. <a href="https://t.co/Q9aB5AaVO3">https://t.co/Q9aB5AaVO3</a></p>&mdash; Markus Schuller (@panthera_s) <a href="https://twitter.com/panthera_s/status/701290454424354816">21 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Success is no accident. <a href="https://t.co/Fp3Q8zMtzU">pic.twitter.com/Fp3Q8zMtzU</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/704101309914476544">29 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Startup Blogs, Documentaries and Talks
 - [entrepreneur.com 🌟](http://www.entrepreneur.com)
 - [soyentrepreneur.com](http://www.soyentrepreneur.com)
@@ -346,6 +348,9 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wanna know what life is really like as a freelancer? Let these movie at TV clips do the talking. <a href="https://twitter.com/hashtag/freelancing?src=hash">#freelancing</a> <a href="https://t.co/XnqDiy05Fo">https://t.co/XnqDiy05Fo</a></p>&mdash; Tonya (@Beachbudget) <a href="https://twitter.com/Beachbudget/status/636191059299602434">25 de agosto de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">Yep. <a href="https://t.co/bh9n2aTgPF">pic.twitter.com/bh9n2aTgPF</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/705103000738598913">2 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Osqtr0Mqfn0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
