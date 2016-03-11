@@ -330,6 +330,7 @@
 - [A CEO says this is the best question you can ask when you meet an influential person](http://www.businessinsider.com/the-best-question-to-ask-when-you-meet-an-influential-person-2016-2)
 - [social.hays.com: Do you know when and how to say no?](https://social.hays.com/2015/08/31/do-you-know-when-and-how-to-say-no/)
 - [4 Things You Can’t Forget To Do Before Your Interview](http://www.careerealism.com/interview-cant-forget-do-before/)
+- [businessinsider.com: What hiring managers REALLY want to know when they ask these 4 common interview questions](http://www.businessinsider.com/what-the-hiring-manager-wants-to-know-when-they-ask-these-questions-in-job-interviews-2016-3)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
