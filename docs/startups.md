@@ -143,6 +143,7 @@
 - [Worst tech mergers and acquisitions: HP and Autonomy, Google and Motorola, and more](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-hp-and-autonomy-google-and-motorola-and-more/)
 
 ## Job Search
+- [businessculture.org 🌟](http://businessculture.org)
 - [glassdoor.com Best Places to Work](https://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm)
 - [The difference between contracting and consulting, and why it matters 🌟🌟🌟](http://www.techrepublic.com/blog/it-consultant/the-difference-between-contracting-and-consulting-and-why-it-matters-125429/)
 - [techrepublic.com: 10 routes to IT job security 🌟](http://www.techrepublic.com/blog/10-things/10-routes-to-job-security/)
