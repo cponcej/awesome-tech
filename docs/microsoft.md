@@ -102,6 +102,8 @@
 	- [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653)
 - [Windows Remote Management and WMI](https://msdn.microsoft.com/es-es/library/windows/desktop/aa384463%28v=vs.85%29.aspx)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Bill Gates is king! <a href="https://t.co/jtVcAdEIvX">pic.twitter.com/jtVcAdEIvX</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/705465462189113344">3 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### PowerShell
 - [PowerShell Magazine](http://www.powershellmagazine.com/)
 - [PowerShell.org](http://powershell.org)
