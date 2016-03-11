@@ -569,6 +569,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Muy bueno - recomendado para mis estudiantes del Grado RRLL y RRHH: &quot;PECERA&quot;, el corto más reivindicativo del año. <a href="https://t.co/tdNSHbk0c4">https://t.co/tdNSHbk0c4</a></p>&mdash; Alberto R.Villaverde (@alberto_ugr) <a href="https://twitter.com/alberto_ugr/status/683382607699152897">2 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mientras tanto, en una manifestación de Informáticos... <a href="http://t.co/V1SnNsGbNX">pic.twitter.com/V1SnNsGbNX</a></p>&mdash; El Amigo Informático (@E1Am1g01nf0rma1) <a href="https://twitter.com/E1Am1g01nf0rma1/status/621432877385928704">15 de julio de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Video humorístico sobre Coaching (&quot;Cámera Café&quot;) <a href="https://t.co/ewvHzFmc3T">https://t.co/ewvHzFmc3T</a></p>&mdash; Alberto Barbero (@Albarbero) <a href="https://twitter.com/Albarbero/status/706747489626537984">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Camera Café La entrevista <a href="http://t.co/UbXMUIRtnn">http://t.co/UbXMUIRtnn</a> vía <a href="https://twitter.com/YouTube">@youtube</a></p>&mdash; Carlos de Olagüe Sm. (@carlosdeolague) <a href="https://twitter.com/carlosdeolague/status/431917076580536320">7 de febrero de 2014</a></blockquote>
