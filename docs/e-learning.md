@@ -81,8 +81,7 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="pt" dir="ltr">Gostei de um vídeo <a href="https://twitter.com/YouTube">@YouTube</a> de <a href="https://twitter.com/driven_f1">@driven_f1</a> <a href="https://t.co/vW6LD8g7Ij">https://t.co/vW6LD8g7Ij</a> F1 2006 Michael Schumacher vs Alonso Istanbul Park Onboard Battle</p>&mdash; wiliam10 (@wiliamterroso) <a href="https://twitter.com/wiliamterroso/status/706126288910753792">March 5, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La revolución digital pide un nuevo modelo de formación <a href="https://t.co/epmputfc5y">https://t.co/epmputfc5y</a> <a href="https://t.co/nbC4rhjP3m">pic.twitter.com/nbC4rhjP3m</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/707861359254343680">10 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![fin de la titulitis](images/fin_de_la_titulitis.png)](http://economia.elpais.com/economia/2016/03/03/actualidad/1457024681_163769.html)
 
