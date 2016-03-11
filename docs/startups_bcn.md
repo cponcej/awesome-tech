@@ -182,3 +182,5 @@ para universitarios y titulados júnior
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">TOKIOTA, con <a href="https://twitter.com/pvelascodom">@pvelascodom</a> y <a href="https://twitter.com/_marcms_">@_marcms_</a>, presentando el workshop de <a href="https://twitter.com/Azure">@Azure</a> dentro del Executive MBA de IESE <a href="https://t.co/Letur7kZod">pic.twitter.com/Letur7kZod</a></p>&mdash; TOKIOTA (@tokiota_IT) <a href="https://twitter.com/tokiota_IT/status/695178964340469760">4 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![tagus casadellibro](images/tagus_reader.jpg)](http://www.casadellibro.com/Mundo-Tagus)
