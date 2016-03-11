@@ -370,6 +370,11 @@
 
 [![Voltaire judge a man by his questions](images/voltaire_judge_a_man_by_his_questions.jpg)](http://statusmind.com/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9rn5kuTpHw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Salary Negotiation 
 - [Sorry, Recruiters! My Salary History Is None of Your Business 🌟](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
 - [4 Steps to Negotiating a Great Salary](http://www.inc.com/jt-odonnell/4-steps-to-negotiating-a-great-salary.html) Here's how to get employers to pay you what you want.
