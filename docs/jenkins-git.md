@@ -15,13 +15,13 @@
 
 <!-- /MarkdownTOC -->
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Goodreads?src=hash">#Goodreads</a>: How We Build Code at <a href="https://twitter.com/netflix">@Netflix</a> <a href="https://t.co/FBdA5yshQg">https://t.co/FBdA5yshQg</a> <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707679713632759808">marzo 9, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/t5cxqF1ihOgF2u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/flepied/ci-is-dead-long-live-ci" title="CI is dead, long live CI" target="_blank">CI is dead, long live CI</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/flepied">Frédéric Lepied</a></strong> </div>
 </div>
 <br/>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Goodreads?src=hash">#Goodreads</a>: How We Build Code at <a href="https://twitter.com/netflix">@Netflix</a> <a href="https://t.co/FBdA5yshQg">https://t.co/FBdA5yshQg</a> <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707679713632759808">marzo 9, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Continuous Integration Tools
 ## CI Jenkins, Travis
