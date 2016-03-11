@@ -115,6 +115,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">16 signs your job is ruining your marriage <a href="https://t.co/Y0f4b2JyXA">https://t.co/Y0f4b2JyXA</a> <a href="https://t.co/PCQgplEUdz">pic.twitter.com/PCQgplEUdz</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/708010250612436992">10 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JWe829Jjlao?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
