@@ -7,8 +7,6 @@
 <!-- /MarkdownTOC -->
 
 # How to Fire and Onboard Employees
-- [How to Fire and Onboard](howto_fire_onboard.md)
-
 ## How to Fire
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
 
