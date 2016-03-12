@@ -12,7 +12,8 @@
 	- [Job Search](#job-search)
 		- [Portales de empleo](#portales-de-empleo)
 	- [Leadership Styles Around the World](#leadership-styles-around-the-world)
-	- [Freelance jobs](#freelance-jobs)
+- [Freelance jobs](#freelance-jobs)
+- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 
 <!-- /MarkdownTOC -->
 
@@ -257,8 +258,32 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/ebrI2txzsqZUlY_pj-z1ZQ/114944216680" data-did="5a1964be9c133b76877062dd2b8bc7e8a66aa3f6"><a href="http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew">http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
-## Freelance jobs
+# Freelance jobs
 - [Freelance jobs](freelance_jobs.md)
+
+# Skills That Can Get You Hired in 2016
+- [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
+- [9 enterprise tech trends for 2016 and beyond](http://www.infoworld.com/article/3007057/cloud-computing/9-enterprise-tech-trends-for-2016-and-beyond.html)
+- [The Best Tech Skills to List on Your Resume](http://www.businessnewsdaily.com/4932-tech-skills-resume.html)
+- [forbes.com: 8 Tech Trends Changing How We Work In 2016](http://www.forbes.com/sites/ajagrawal/2016/01/11/8-tech-trends-changing-how-we-work-in-2016/#2715e4857a0b6a27c0767013)
+- [businessinsider.com: 17 common mistakes to avoid when you're networking](http://www.businessinsider.com/networking-mistakes-youre-making-2016-1)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Remember F**ked Company? This is the new site that tracks startup down rounds: <a href="https://t.co/qOHmhWYlZk">https://t.co/qOHmhWYlZk</a> <a href="https://t.co/70jRREd7up">pic.twitter.com/70jRREd7up</a></p>&mdash; Forbes Tech News (@ForbesTech) <a href="https://twitter.com/ForbesTech/status/702600141946167300">24 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![google on motorola](images/google-on-motorola-sign.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-hp-and-autonomy-google-and-motorola-and-more/)
+
+[![Oracle buys Sun](images/oracle-sun.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
+
+[![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
+
+[![victim dot com bust](images/victim_dot_com_bust.png)](http://www.businessinsider.com/bonnie-crater-interview-2016-3)
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ibuiUXOTE4M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 
 <p align="center">
 <a href="https://www.epo.org/about-us/annual-reports-statistics/annual-report.html">European Patent Office Annual Reports</a>

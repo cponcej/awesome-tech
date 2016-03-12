@@ -2,7 +2,6 @@
 
 - [Freelance jobs](#freelance-jobs)
 	- [Trabajos Freelance](#trabajos-freelance)
-- [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 
 <!-- /MarkdownTOC -->
 
@@ -25,29 +24,6 @@
 
 ## Trabajos Freelance
 - [computerhoy.com: Las 10 mejores webs donde conseguir trabajo como freelance](http://computerhoy.com/listas/internet/8-mejores-webs-donde-conseguir-trabajo-como-freelance-8742)
-
-# Skills That Can Get You Hired in 2016
-- [The 25 Skills That Can Get You Hired in 2016](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
-- [9 enterprise tech trends for 2016 and beyond](http://www.infoworld.com/article/3007057/cloud-computing/9-enterprise-tech-trends-for-2016-and-beyond.html)
-- [The Best Tech Skills to List on Your Resume](http://www.businessnewsdaily.com/4932-tech-skills-resume.html)
-- [forbes.com: 8 Tech Trends Changing How We Work In 2016](http://www.forbes.com/sites/ajagrawal/2016/01/11/8-tech-trends-changing-how-we-work-in-2016/#2715e4857a0b6a27c0767013)
-- [businessinsider.com: 17 common mistakes to avoid when you're networking](http://www.businessinsider.com/networking-mistakes-youre-making-2016-1)
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Remember F**ked Company? This is the new site that tracks startup down rounds: <a href="https://t.co/qOHmhWYlZk">https://t.co/qOHmhWYlZk</a> <a href="https://t.co/70jRREd7up">pic.twitter.com/70jRREd7up</a></p>&mdash; Forbes Tech News (@ForbesTech) <a href="https://twitter.com/ForbesTech/status/702600141946167300">24 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[![google on motorola](images/google-on-motorola-sign.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-hp-and-autonomy-google-and-motorola-and-more/)
-
-[![Oracle buys Sun](images/oracle-sun.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
-
-[![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
-
-[![victim dot com bust](images/victim_dot_com_bust.png)](http://www.businessinsider.com/bonnie-crater-interview-2016-3)
-
-<div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/ibuiUXOTE4M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn from it! <a href="https://t.co/6SAMhrF9nH">pic.twitter.com/6SAMhrF9nH</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/703291137881145345">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
