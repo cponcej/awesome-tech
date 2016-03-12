@@ -18,6 +18,7 @@
     - [Leadership Blogs](#leadership-blogs)
     - [9 Box Model for classifying people in organizations](#9-box-model-for-classifying-people-in-organizations)
     - [Interview Preparation Guide](#interview-preparation-guide)
+    - [References](#references)
 - [Recursos Humanos](#recursos-humanos)
 
 <!-- /MarkdownTOC -->
@@ -142,6 +143,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ts0yeBheNbw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Job Description
 - [4 Benefits of Accurate Job Descriptions for Small Businesses](http://www.mjms.net/blog/4-benefits-of-accurate-job-descriptions-for-small-businesses/)
 
@@ -191,6 +197,9 @@
 
 ## Interview Preparation Guide
 - [Interview Preparation Guide](interview_preparation_guide.md)
+
+## References
+- [References](references.md)
 
 # Recursos Humanos
 - [Recursos Humanos](rrhh.md)

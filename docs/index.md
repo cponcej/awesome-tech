@@ -26,6 +26,7 @@ I'm not interested neither in moving abroad nor becoming freelance.
 	- [Office Politics](office_politics.md)
 	- [Leadership Blogs](leadership.md)
 	- [Interview Preparation Guide](interview_preparation_guide.md)
+	- [References.md](references.md)
 	- [Recursos Humanos](rrhh.md)
 4. [Scalability and Reliability, Web Performance 🌟](scalability.md)
 5. [Linux](linux.md)
