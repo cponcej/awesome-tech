@@ -17,6 +17,7 @@ I'm not interested neither in moving abroad nor becoming freelance.
 	- [Newsfeeds and Twitter resources 😀](twitter.md)  
 	- [Miscellaneous. IT Blogs, Support](it-blogs.md)
 2. [Startups and IT Jobs, In-Demand Skills](startups.md)
+	- [Leadership Styles Around the World 🌟](leadership_styles_around_world.md)
 	- [Barcelona Tech, Startups and Innovation](startups_bcn.md)
 	- [Madrid Tech, Startups and Innovation](startups_madrid.md)
 	- [Rules for success](rules_for_success.md)
