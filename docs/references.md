@@ -5,6 +5,17 @@
 <!-- /MarkdownTOC -->
 
 # References
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WqjpfJDqAlY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TXeYJYuhYdM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las &quot;listas negras&quot; de trabajadores incómodos para las empresas existen. Así se denuncian <a href="https://t.co/fnIStwbCoH">https://t.co/fnIStwbCoH</a> <a href="https://t.co/3LVCWdRcRJ">pic.twitter.com/3LVCWdRcRJ</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/668354083833688064">22 de noviembre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -42,16 +53,6 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WqjpfJDqAlY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TXeYJYuhYdM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OzVv4A3N30U?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
@@ -66,10 +67,10 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="https://t.co/cy63SwQAN4">https://t.co/cy63SwQAN4</a> The Lives of Others: A Joke Too Far Scene</p>&mdash; Ken Lee (@Koverptw) <a href="https://twitter.com/Koverptw/status/686393149632196609">enero 11, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gqrZ297e0E4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="https://t.co/cy63SwQAN4">https://t.co/cy63SwQAN4</a> The Lives of Others: A Joke Too Far Scene</p>&mdash; Ken Lee (@Koverptw) <a href="https://twitter.com/Koverptw/status/686393149632196609">enero 11, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
