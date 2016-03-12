@@ -54,6 +54,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">RT <a href="https://twitter.com/cloudsa">@cloudsa</a>: Want to know what the future holds for <a href="https://twitter.com/hashtag/cloudsecurity?src=hash">#cloudsecurity</a>? Listen to <a href="https://twitter.com/EMEACloudGuy">@EMEACloudGuy</a>&#39;s &amp; <a href="https://twitter.com/jimreavis">@jimreavis</a>&#39;s chat: <a href="https://t.co/R9GYrRr2ix">https://t.co/R9GYrRr2ix</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/706045423132262400">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![ddos_attacks_growing](images/ddos_attacks_growing.png)](http://www.businessinsider.com/ddos-attacks-grow-85-percent-year-on-year-q4-2014-2015-verisign-report-2016-3)
+
 # Security
 ## Awesome Security Lists
 - [awesome security](https://github.com/sbilly/awesome-security)
