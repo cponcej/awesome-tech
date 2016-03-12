@@ -21,6 +21,12 @@ I'm not interested neither in moving abroad nor becoming freelance.
 	- [Madrid Tech, Startups and Innovation](startups_madrid.md)
 	- [Rules for success](rules_for_success.md)
 3. [Human Resources, Interviews, Leadership 🙈 🙉 🙊](hr.md) Stimulating and provocative!
+	- [How to Fire and Onboard](howto_fire_onboard.md)
+	- [Culture and Collaboration](culture_collaboration.md)
+	- [Office Politics](office_politics.md)
+	- [Leadership Blogs](leadership.md)
+	- [Interview Preparation Guide](interview_preparation_guide.md)
+	- [Recursos Humanos](rrhh.md)
 4. [Scalability and Reliability, Web Performance 🌟](scalability.md)
 5. [Linux](linux.md)
 	- [Red Hat 🌟](redhat.md)
