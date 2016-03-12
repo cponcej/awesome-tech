@@ -284,6 +284,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn from it! <a href="https://t.co/6SAMhrF9nH">pic.twitter.com/6SAMhrF9nH</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/703291137881145345">26 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p align="center">
 <a href="https://www.epo.org/about-us/annual-reports-statistics/annual-report.html">European Patent Office Annual Reports</a>
