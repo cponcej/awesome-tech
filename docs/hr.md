@@ -226,6 +226,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SzBj0CNP3pA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
 
 [![iphones_assembled_in_china](images/iphones_assembled_in_china.png)](http://www.businessinsider.com/apple-production-trump-boycott-iphone-trump-2016-3)
