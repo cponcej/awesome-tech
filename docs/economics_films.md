@@ -87,7 +87,17 @@
 ## Glengarry Glen Ross
 
 <div class="container">
-<iframe width="640" height="360" frameborder="0" src="http://chris.web.tv/embed/d6dyadewxhk" allowfullscreen="allowfullscreen" class="video"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/v9XW6P0tiVc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<p align="center">
+<a href="http://chris.web.tv/video/glengarry-glen-ross-escena-de-ventas-subtitulada-webtv__d6dyadewxhk">glengarry glen ross escena de ventas subtitulada</a>
+</p>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/77972279" width="500" height="211" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<p><a href="https://vimeo.com/77972279">Glengarry Glen Ross - &quot;&Eacute;xito a cualquier precio&quot;</a> from <a href="https://vimeo.com/user3828274">Canaiman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 <br/>
 
