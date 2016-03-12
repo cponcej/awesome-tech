@@ -115,17 +115,7 @@
 [![au_pair_irlanda_condena](images/au_pair_irlanda_condena.png)](http://www.antena3.com/noticias/mundo/condenada-familia-irlanda-indemnizar-pair-espanola-explotacion_2016030800277.html)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lXXlBJ7aIsI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/doR3s0bNB4o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3cBLbNcvaN0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -134,27 +124,7 @@
 </div>
 <br/>
 
-[![thankyou_first_job.png](images/thankyou_first_job.png)](https://www.linkedin.com/pulse/tales-data-entry-clerk-thank-you-my-first-job-sameera-polavarapu)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z5avVsKjNyo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 ![surf_sponsors.png](images/surf_sponsors.png)
-
-[![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
-
-[![iphones_assembled_in_china](images/iphones_assembled_in_china.png)](http://www.businessinsider.com/apple-production-trump-boycott-iphone-trump-2016-3)
-
-[![sharapova nike](images/sharapova_nike.png)](http://www.bbc.com/news/business-35751916)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDDWvj_q-o8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-[![bi_outlook_on_life](images/bi_outlook_on_life.png)](http://www.businessinsider.com/happify-graphic-on-optimism-2016-3)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="pt" dir="ltr">Recursos humanos - Corto sobre mobbing. <a href="https://twitter.com/hashtag/RRHH?src=hash">#RRHH</a> <a href="https://twitter.com/hashtag/EMPLEO?src=hash">#EMPLEO</a> <a href="https://twitter.com/hashtag/TRABAJO?src=hash">#TRABAJO</a> <a href="https://twitter.com/hashtag/CV?src=hash">#CV</a> <a href="https://twitter.com/hashtag/LEGALES?src=hash">#LEGALES</a> <a href="https://t.co/wowq6AULrE">https://t.co/wowq6AULrE</a></p>&mdash; MOTTECLA (@ClaudiaMottet) <a href="https://twitter.com/ClaudiaMottet/status/693207648846663681">29 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -166,16 +136,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Draghi &quot;El mercado laboral protege a los veteranos y perjudica a los jóvenes&quot; <a href="https://t.co/4VFUqwMfjo">https://t.co/4VFUqwMfjo</a> <a href="https://t.co/vXeP0poboX">pic.twitter.com/vXeP0poboX</a></p>&mdash; elEconomista.es (@elEconomistaes) <a href="https://twitter.com/elEconomistaes/status/708273641885192192">11 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/llj7LzTULog?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mientras tanto, en una manifestación de Informáticos... <a href="http://t.co/V1SnNsGbNX">pic.twitter.com/V1SnNsGbNX</a></p>&mdash; El Amigo Informático (@E1Am1g01nf0rma1) <a href="https://twitter.com/E1Am1g01nf0rma1/status/621432877385928704">15 de julio de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -203,3 +203,43 @@
 
 # Recursos Humanos
 - [Recursos Humanos](rrhh.md)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lXXlBJ7aIsI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3cBLbNcvaN0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+[![thankyou_first_job.png](images/thankyou_first_job.png)](https://www.linkedin.com/pulse/tales-data-entry-clerk-thank-you-my-first-job-sameera-polavarapu)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z5avVsKjNyo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+[![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
+
+[![iphones_assembled_in_china](images/iphones_assembled_in_china.png)](http://www.businessinsider.com/apple-production-trump-boycott-iphone-trump-2016-3)
+
+[![sharapova nike](images/sharapova_nike.png)](http://www.bbc.com/news/business-35751916)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDDWvj_q-o8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+[![bi_outlook_on_life](images/bi_outlook_on_life.png)](http://www.businessinsider.com/happify-graphic-on-optimism-2016-3)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/llj7LzTULog?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
