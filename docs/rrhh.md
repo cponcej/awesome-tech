@@ -93,11 +93,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sólo el 27% de las empresas españolas apuesta por el teletrabajo: El bajo rendimiento de las conexiones remota... <a href="https://t.co/8nqDW1b9hg">https://t.co/8nqDW1b9hg</a></p>&mdash; ColegioOficialTeleco (@COGITTCV) <a href="https://twitter.com/COGITTCV/status/705780579178934274">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I see recruiters <br> <a href="https://t.co/M5BSseIqDl">https://t.co/M5BSseIqDl</a> <a href="https://t.co/WTdalBHu6q">pic.twitter.com/WTdalBHu6q</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/703286172043313154">26 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you need experience to get a job but you need a job for experience 🙃 <a href="https://t.co/Xm37xnBcKP">pic.twitter.com/Xm37xnBcKP</a></p>&mdash; Nerd (@SmartInsults) <a href="https://twitter.com/SmartInsults/status/702547713573916672">24 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El periodo de prueba en el contrato <a href="https://twitter.com/hashtag/laboral?src=hash">#laboral</a> .Derechos del trabajador y la empresa. Prestaciones por desempleo <a href="https://t.co/nWF0Xj1BKn">https://t.co/nWF0Xj1BKn</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/702040241377570816">23 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -109,8 +104,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">CUIDAdo. El hábito de ser mejor persona! <a href="https://twitter.com/apuntoconLa2">@apuntoconLa2</a> Gracias <a href="https://twitter.com/Patri_Psicologa">@Patri_Psicologa</a> por tu lección <a href="https://twitter.com/hashtag/habitos?src=hash">#habitos</a> <a href="https://twitter.com/hashtag/saludables?src=hash">#saludables</a> <a href="https://t.co/xIYnPLIvxp">pic.twitter.com/xIYnPLIvxp</a></p>&mdash; Elisabet Carnicé (@EliCarnice) <a href="https://twitter.com/EliCarnice/status/704334220194349056">febrero 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[![jobs in china](images/job_in_china.png)](http://www.businessinsider.com/at-least-10m-need-to-be-laid-off-in-china-2016-3)
 
 [![au_pair_irlanda_condena](images/au_pair_irlanda_condena.png)](http://www.antena3.com/noticias/mundo/condenada-familia-irlanda-indemnizar-pair-espanola-explotacion_2016030800277.html)
 

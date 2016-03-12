@@ -148,6 +148,11 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I see recruiters <br> <a href="https://t.co/M5BSseIqDl">https://t.co/M5BSseIqDl</a> <a href="https://t.co/WTdalBHu6q">pic.twitter.com/WTdalBHu6q</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/703286172043313154">26 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you need experience to get a job but you need a job for experience 🙃 <a href="https://t.co/Xm37xnBcKP">pic.twitter.com/Xm37xnBcKP</a></p>&mdash; Nerd (@SmartInsults) <a href="https://twitter.com/SmartInsults/status/702547713573916672">24 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Job Description
 - [4 Benefits of Accurate Job Descriptions for Small Businesses](http://www.mjms.net/blog/4-benefits-of-accurate-job-descriptions-for-small-businesses/)
 
@@ -224,6 +229,8 @@
 [![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
 
 [![iphones_assembled_in_china](images/iphones_assembled_in_china.png)](http://www.businessinsider.com/apple-production-trump-boycott-iphone-trump-2016-3)
+
+[![jobs in china](images/job_in_china.png)](http://www.businessinsider.com/at-least-10m-need-to-be-laid-off-in-china-2016-3)
 
 [![sharapova nike](images/sharapova_nike.png)](http://www.bbc.com/news/business-35751916)
 
