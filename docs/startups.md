@@ -255,6 +255,10 @@
 ## Leadership Styles Around the World
 - [Leadership Styles Around the World](leadership_styles_around_world.md)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/HL-TxDkEdkPu2r8TQU-xPQ/108034598717" data-did="8e73e902181d6dd615a6c4912854817fc42f0613"><a href="http://time-lord-vonnegut.tumblr.com/post/108034598717/to-all-the-people-on-here-looking-for-jobs">http://time-lord-vonnegut.tumblr.com/post/108034598717/to-all-the-people-on-here-looking-for-jobs</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/ebrI2txzsqZUlY_pj-z1ZQ/114944216680" data-did="5a1964be9c133b76877062dd2b8bc7e8a66aa3f6"><a href="http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew">http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
 ## Freelance jobs
 - [reddit.com/r/freelance](https://www.reddit.com/r/freelance)
 - [crunch.co.uk: The very best freelance job sites](https://www.crunch.co.uk/blog/freelancer-advice/2015/07/24/best-freelance-job-boards-to-find-work/)
