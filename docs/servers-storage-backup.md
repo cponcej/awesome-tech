@@ -137,8 +137,6 @@
 </div>
 <br/>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="yWfCliF"><a href="//imgur.com/yWfCliF">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> filesystem wallpaper for new users/sysadmin Large version <a href="https://t.co/MtIjtlMyUw">https://t.co/MtIjtlMyUw</a> via reddit user /u/threekun <a href="https://t.co/jPxxJJFu1w">pic.twitter.com/jPxxJJFu1w</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709027880345280512">13 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
