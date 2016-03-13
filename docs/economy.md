@@ -282,6 +282,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Least corrupt states<br><br>1. Denmark<br>2. NZ<br>3. Finland<br><br>12. Germany<br>14. UK<br>15. Japan<br>17. US<br>26. France<br>85. India<br>100. China<br>136. Russia<br><br>(TI)</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/706499585074552833">6 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Willing to fight for country.<br><br>Pakistan: 89%<br>India: 75%<br>Turkey: 73%<br>China: 71%<br>Russia: 59%<br>US: 44%<br>UK: 27%<br>Germany: 18%<br>Japan: 11%<br><br>(Gallup)</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/709026246869458944">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Productividad:<br>En <a href="https://twitter.com/hashtag/Francia?src=hash">#Francia</a> se trabajan MENOS horas que en Uk pero son MAS PRODUCTIVOS<a href="https://t.co/ZjWIvu76rZ">https://t.co/ZjWIvu76rZ</a> <a href="https://t.co/uMpeltlpJj">pic.twitter.com/uMpeltlpJj</a></p>&mdash; TrabajarenEuropa (@TrabajarEuropa) <a href="https://twitter.com/TrabajarEuropa/status/706555241060306945">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
