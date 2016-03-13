@@ -305,6 +305,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="https://embed-ssl.ted.com/talks/andrew_mcafee_what_will_future_jobs_look_like.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen class="video"></iframe>
+</div>
+<br>
+
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
 
 

@@ -262,6 +262,13 @@
 
 		iptables -L -n -v --line-numbers
 
+- Capture all port 123 traffic to a file on a Linux/Unix like system: 
+
+		tcpdump -s 1514 port 123 -w file 
+		
+		Read captured traffic: 
+		tcpdump -r file
+
 - Want to see whether there was an error after executing a command but no error message was displayed? $? shows the exit status. Try 
 
 		echo $?

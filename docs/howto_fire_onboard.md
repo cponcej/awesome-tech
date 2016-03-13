@@ -12,6 +12,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Check out this HBR article on how to embrace complex change. | <a href="https://t.co/McNTpbrQwP">https://t.co/McNTpbrQwP</a> <a href="https://t.co/p8aMSXyauL">pic.twitter.com/p8aMSXyauL</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/706809624440266752">March 7, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">19 unprofessional habits that could cost you a job <a href="https://t.co/RKXSzBZXLu">https://t.co/RKXSzBZXLu</a> <a href="https://t.co/9Aze2ABFJ5">pic.twitter.com/9Aze2ABFJ5</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/708699357487472641">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u1zX5ftiI2U?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

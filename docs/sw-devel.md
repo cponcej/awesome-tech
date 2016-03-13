@@ -33,6 +33,7 @@
 			- [Static Site Generators](#static-site-generators)
 			- [Markdown Editors](#markdown-editors)
 				- [Emojis](#emojis)
+		- [WebAssembly](#webassembly)
 		- [Oracle JET](#oracle-jet)
 		- [JSON](#json)
 		- [Mozilla Tools](#mozilla-tools)
@@ -56,6 +57,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/701785024257851392">febrero 22, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 13 <a href="https://twitter.com/hashtag/developer?src=hash">#developer</a> skills you need to master now - <a href="https://t.co/NbKKt4nvqo">https://t.co/NbKKt4nvqo</a> via <a href="https://twitter.com/CIOAsia">@CIOAsia</a> <a href="https://twitter.com/hashtag/JavaScript?src=hash">#JavaScript</a> <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/708784367615606784">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![commitstrip legacy project](images/commitstrip_legacy_project.jpg)](http://www.commitstrip.com/en/2016/02/15/our-companys-greatest-project/)
 
@@ -313,6 +316,7 @@
 
 [![Hello World](images/hello_world.png)](https://twitter.com/nixcraft)
 
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend <a href="https://t.co/vEbdJxG2mA">https://t.co/vEbdJxG2mA</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/700678314445271040">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -366,6 +370,12 @@
 <iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/XnPkdcBGBlw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+### WebAssembly
+- [What is WebAssembly? The Dawn of a New Era](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6) The future of the web platform looks brighter than ever.
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Heh.. I just feel so... dirty. Via <a href="https://t.co/j2lT06ldHG">https://t.co/j2lT06ldHG</a> <br><br>PS: I hope WebAssembly will fix this for all of us! <a href="https://t.co/ghbyGCjh0D">pic.twitter.com/ghbyGCjh0D</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/708697986830696448">12 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Oracle JET
 - [community.oracle.com - Oracle JET: Getting Started With Modern Web Development.](https://community.oracle.com/docs/DOC-984517) Oracle JET promises to be an enterprise-grade framework for end-to-end client-side web application development.

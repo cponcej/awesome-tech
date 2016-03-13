@@ -31,6 +31,8 @@ para universitarios y titulados júnior
 
 [![Grifols Plasmapheresis 1951](images/grifols.jpg)](http://www.grifolsacademy.com/)
 
+[![efintech_show_bcn](images/efintech_show_bcn.jpg)](http://efintechshow.com/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PhO-ar0la-s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -184,3 +186,6 @@ para universitarios y titulados júnior
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">TOKIOTA, con <a href="https://twitter.com/pvelascodom">@pvelascodom</a> y <a href="https://twitter.com/_marcms_">@_marcms_</a>, presentando el workshop de <a href="https://twitter.com/Azure">@Azure</a> dentro del Executive MBA de IESE <a href="https://t.co/Letur7kZod">pic.twitter.com/Letur7kZod</a></p>&mdash; TOKIOTA (@tokiota_IT) <a href="https://twitter.com/tokiota_IT/status/695178964340469760">4 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![tagus casadellibro](images/tagus_reader.jpg)](http://www.casadellibro.com/Mundo-Tagus)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Mobile Ecosystem will directly support 20m jobs by 2020. Know more  <a href="https://t.co/h64Rm5Qhyc">https://t.co/h64Rm5Qhyc</a> <a href="https://twitter.com/hashtag/MobileEconomy?src=hash">#MobileEconomy</a> <a href="https://t.co/WyN2lfBx42">pic.twitter.com/WyN2lfBx42</a></p>&mdash; GSMA (@GSMA) <a href="https://twitter.com/GSMA/status/708220141201399808">11 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

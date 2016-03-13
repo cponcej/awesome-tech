@@ -49,7 +49,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The script for a perfect job interview: <a href="https://t.co/ufmCIu3owU">https://t.co/ufmCIu3owU</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/708785138499493893">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why do so many job interviewers stick to the same, tired job interview script? <a href="https://t.co/SMCo4gqacU">https://t.co/SMCo4gqacU</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/706248424157552640">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which big tech companies employ the most women? <a href="https://t.co/JWV8NTv1iq">https://t.co/JWV8NTv1iq</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/708749654930952193">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Quote of the day: <a href="https://t.co/evmuW9Fqfr">https://t.co/evmuW9Fqfr</a> <a href="https://t.co/A2IggUSmxE">pic.twitter.com/A2IggUSmxE</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/706509897060450304">6 de marzo de 2016</a></blockquote>

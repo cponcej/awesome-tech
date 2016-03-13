@@ -25,6 +25,8 @@
 
 [![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The hidden costs of burnout <a href="https://t.co/kEuVbJi73L">https://t.co/kEuVbJi73L</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/708754688431280128">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -42,6 +44,8 @@
 
 [![culture shaped by worst behavior](images/culture_shaped_by_worst_behavior.jpg)](http://ricklochner.com/the-culture-of-any-organization-is-shaped/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Once someone starts disrespecting you.<br>It is so hard to ever get them to stop....best to just walk away. <a href="https://t.co/2tYzUf9f0Q">pic.twitter.com/2tYzUf9f0Q</a></p>&mdash; ✨Påυυιđå❤️ (@krua6497) <a href="https://twitter.com/krua6497/status/701213378069417984">21 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">PHOTOS: The 10 happiest jobs: <a href="https://t.co/Dw88jn7gkY">https://t.co/Dw88jn7gkY</a> <a href="https://t.co/R1LYgpgOIT">pic.twitter.com/R1LYgpgOIT</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/705837970125950976">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -58,4 +62,7 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Saying goodbye.<br>Kobe Bryant and Pau Gasol  (Getty)<a href="https://twitter.com/hashtag/photooftheday?src=hash">#photooftheday</a><a href="https://t.co/ioTwwikD1O">https://t.co/ioTwwikD1O</a> <a href="https://t.co/wcHxHi4otO">pic.twitter.com/wcHxHi4otO</a></p>&mdash; Paul Nisely (@SN_Paul_Nisely) <a href="https://twitter.com/SN_Paul_Nisely/status/701926990601781249">23 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Jason Kidd era un mago del balón. Magia en sus manos. 🔝😵 <a href="https://t.co/q3NqVMQwPJ">https://t.co/q3NqVMQwPJ</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/708752807676026880">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

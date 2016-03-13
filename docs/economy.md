@@ -98,6 +98,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Projection: The World&#39;s 10 Largest Economies 1970-2030 <a href="https://t.co/jWIl1Qxvcv">pic.twitter.com/jWIl1Qxvcv</a></p>&mdash; Aron Strandberg (@aronstrandberg) <a href="https://twitter.com/aronstrandberg/status/688121706360090626">15 de enero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="ro" dir="ltr">GDP (nominal)<br><br>Africa: $2.3 trillion<br>California: $2.3 trillion <a href="https://t.co/FrYIWJIaOH">pic.twitter.com/FrYIWJIaOH</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/708786390067187713">12 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Projection: Global GDP Distribution 1970-2030, with highlighted USA, <a href="https://twitter.com/hashtag/China?src=hash">#China</a> and <a href="https://twitter.com/hashtag/India?src=hash">#India</a> <a href="https://t.co/uGnIloxS4O">pic.twitter.com/uGnIloxS4O</a></p>&mdash; Aron Strandberg (@aronstrandberg) <a href="https://twitter.com/aronstrandberg/status/700076818041303041">17 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -170,6 +173,10 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries which have officially adopted metric system <a href="https://t.co/7JFA67A8BE">pic.twitter.com/7JFA67A8BE</a></p>&mdash; Terrible Maps (@TerribleMaps) <a href="https://twitter.com/TerribleMaps/status/695745094239023104">febrero 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Marcas que por alguna razón que desconozco cambian de nombre en UK vía <a href="https://twitter.com/amazingmap">@amazingmap</a> <a href="https://t.co/OnIsJxtmvu">pic.twitter.com/OnIsJxtmvu</a></p>&mdash; Roberto García Esteb (@72rge) <a href="https://twitter.com/72rge/status/708753750471606274">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Países con PIB inferior a la fortuna de Bill Gates vía <a href="https://twitter.com/amazingmap">@amazingmap</a></p>&mdash; Roberto García Esteb (@72rge) <a href="https://twitter.com/72rge/status/708754639475372033">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![queen_backs_brexit](images/queen_backs_brexit.jpg)](http://www.bbc.com/news/uk-politics-eu-referendum-35760912)
 
@@ -258,6 +265,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Share of global economy<br><br>US<br>1980: 25%<br>2014: 19.2%<br><br>EU<br>1980: 30.9%<br>2014: 18.4%<br><br>China<br>1980: 2.2%<br>2014: 16.6%<br><br>India<br>1980: 2.54%<br>2014: 5.96%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702236512746758145">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">China is world&#39;s largest producer of:<br><br>- Aluminum<br>- Gold<br>- Cement<br>- Iron<br>- Steel<br>- Coal<br>- Zinc<br>- Cotton<br>- Tobacco<br>- Cars<br>- Hi-tech exports</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/708699252902350848">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Primary education quality, 2015<br><br>1. Finland<br>2. Belgium<br>3. Singapore<br><br>10. Japan<br>22. Germany<br>30. UK<br>36. US<br>59. China<br>88. India<br>141. Egypt<br><br>WEF</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702893343122919424">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

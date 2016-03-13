@@ -24,6 +24,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New NYC buses are getting Wi-Fi and USB charging ports <a href="https://t.co/eGYCfy9irR">https://t.co/eGYCfy9irR</a> <a href="https://t.co/TQOAuWziyT">pic.twitter.com/TQOAuWziyT</a></p>&mdash; Mashable Tech (@mashabletech) <a href="https://twitter.com/mashabletech/status/707857779600584704">marzo 10, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Jump start <a href="https://twitter.com/hashtag/mobile?src=hash">#mobile</a> in your <a href="https://twitter.com/hashtag/enterprise?src=hash">#enterprise</a> <a href="https://t.co/S0ndPhWGa6">https://t.co/S0ndPhWGa6</a> (via <a href="https://twitter.com/cmswire">@CMSWire</a>)</p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/708692854495956992">12 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4YgGuK9cuSU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -56,6 +59,9 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GiGqRy5zgCM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I FOUND IT. I FOUND THE INTERNET SWITCH. <a href="https://t.co/7xdOxhimI7">pic.twitter.com/7xdOxhimI7</a></p>&mdash; Whitney Champion (@shortxstack) <a href="https://twitter.com/shortxstack/status/707637919809404928">9 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Virtual LAN
 - [Virtual LAN](VLAN.md)

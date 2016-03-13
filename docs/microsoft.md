@@ -91,6 +91,7 @@
 ## Microsoft Monitoring and Management
 - [Simple Talk](https://www.simple-talk.com)
 - [simple-talk.com/sysadmin](https://www.simple-talk.com/sysadmin/)
+- [chocolatey.org](https://chocolatey.org)
 - [Spiceworks](http://www.spiceworks.com/)
 	- [spiceworks.com/app](http://www.spiceworks.com/app/)
 	- [Spiceworks Overview,inventory & helpdesk](https://www.youtube.com/watch?v=kHnEXoPxiJ4)
@@ -103,6 +104,11 @@
 - [Windows Remote Management and WMI](https://msdn.microsoft.com/es-es/library/windows/desktop/aa384463%28v=vs.85%29.aspx)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Bill Gates is king! <a href="https://t.co/jtVcAdEIvX">pic.twitter.com/jtVcAdEIvX</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/705465462189113344">3 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![chocolatey](images/chocolatey.png)](https://chocolatey.org/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why didn&#39;t I know about <a href="https://twitter.com/hashtag/chocolatey?src=hash">#chocolatey</a> ? A package manager for <a href="https://twitter.com/hashtag/Windows?src=hash">#Windows</a> <a href="https://t.co/Lg7yXoZVXB">https://t.co/Lg7yXoZVXB</a> its amazing!</p>&mdash; John Roach (@johnroach) <a href="https://twitter.com/johnroach/status/708366744109223936">11 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### PowerShell
 - [PowerShell Magazine](http://www.powershellmagazine.com/)

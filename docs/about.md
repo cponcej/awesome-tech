@@ -206,6 +206,8 @@ ______________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">1st viewing of the good doctor House in 2016. Still no other character comes close to him. For me.  <a href="https://t.co/9NsRmk1NnB">https://t.co/9NsRmk1NnB</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Camelia Melescanu (@cami_melescanu) <a href="https://twitter.com/cami_melescanu/status/683413658161025024">2 de enero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Reestrenan la trilogía ‘Tres colores’ y nosotros te adelantamos lo que te pasará si las ves <a href="https://t.co/PyltIHfC3N">https://t.co/PyltIHfC3N</a> <a href="https://t.co/ETKUMelQGB">pic.twitter.com/ETKUMelQGB</a></p>&mdash; CINEMANIA_ES (@CINEMANIA_ES) <a href="https://twitter.com/CINEMANIA_ES/status/708754484437098496">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La pareja O&#39;Neal - Kobe es una de las mejores de la historia, eran imparables: <a href="https://t.co/mfxTD0L65H">https://t.co/mfxTD0L65H</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/706561679241388032">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
