@@ -77,10 +77,9 @@ ________________________________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Fatboy Slim - Weapon Of Choice <a href="https://t.co/7PJYOep5zu">https://t.co/7PJYOep5zu</a></p>&mdash; Elisa Day (@elisajour) <a href="https://twitter.com/elisajour/status/708836825243250688">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Needed a mid-afternoon wake-up. May have just danced round the living room to this. It&#39;s fine, I&#39;m alone..<a href="https://t.co/sgdChl5usB">https://t.co/sgdChl5usB</a></p>&mdash; Becky (@shadylady222) <a href="https://twitter.com/shadylady222/status/709029152230346758">13 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">(y) <a href="https://t.co/bPWaUKiZTa">https://t.co/bPWaUKiZTa</a></p>&mdash; lella falanga (@misslele2) <a href="https://twitter.com/misslele2/status/709087081851654144">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Needed a mid-afternoon wake-up. May have just danced round the living room to this. It&#39;s fine, I&#39;m alone..<a href="https://t.co/sgdChl5usB">https://t.co/sgdChl5usB</a></p>&mdash; Becky (@shadylady222) <a href="https://twitter.com/shadylady222/status/709029152230346758">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/RealWhitney">@RealWhitney</a> &amp; <a href="https://twitter.com/enriqueiglesias">@enriqueiglesias</a> <a href="https://t.co/lhiTxFNV1g">https://t.co/lhiTxFNV1g</a> - Could I Have This Kiss Forever</p>&mdash; Dhi (@dhi_teixeira) <a href="https://twitter.com/dhi_teixeira/status/706920552334802944">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
