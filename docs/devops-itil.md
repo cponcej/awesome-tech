@@ -294,6 +294,11 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/7Nb42z8Qyb7M_uh_S2AImA/131735580276" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="http://my-twisted-code.tumblr.com/post/131735580276">http://my-twisted-code.tumblr.com/post/131735580276</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5734B86up4wKLs" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/projectcareer/top-14-project-management-interview-questions-and-answers-33073123" title="175 project management interview questions and answers pdf" target="_blank">175 project management interview questions and answers pdf</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/projectcareer">projectcareer</a></strong> </div>
+</div>
+<br/>
+
 #### Open Project
 - [openproject.org 🌟](https://www.openproject.org)
 - [OpenProject: An open source project management solution](https://opensource.com/business/16/2/openproject-open-source-project-management-solution)

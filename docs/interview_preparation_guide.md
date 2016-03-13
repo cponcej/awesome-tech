@@ -71,6 +71,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CvuglPKjVFBXb0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Pmq150/top-10-hr-interview-questions-and-answers-for-freshers-54046963" title="Top 10 hr interview questions and answers for freshers" target="_blank">Top 10 hr interview questions and answers for freshers</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/Pmq150">Pmq150</a></strong> </div>
+</div>
+<br/>
+
 ## Salary Negotiation 
 - [Sorry, Recruiters! My Salary History Is None of Your Business 🌟](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
 - [4 Steps to Negotiating a Great Salary](http://www.inc.com/jt-odonnell/4-steps-to-negotiating-a-great-salary.html) Here's how to get employers to pay you what you want.

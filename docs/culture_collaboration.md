@@ -19,6 +19,21 @@
 
 [![good boss bad boss](images/good_boss_bad_boss.jpg)](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/32i7dUYEeZCEmm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Rypple/good-boss-bad-boss" title="Good Boss, Bad Boss - Robert Sutton from Stanford" target="_blank">Good Boss, Bad Boss - Robert Sutton from Stanford</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/Rypple">Work.com - A Salesforce Company</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Fkhw8cP5i7Rgbf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/amirsaiftaz/11-habits-of-bad-boss-presentation" title="11 Habits Of Bad Boss" target="_blank">11 Habits Of Bad Boss</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/amirsaiftaz">Self Creation </a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1Gx0ff7YjTyWca" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/12-characteristicsofhorribleboss" title="12 Characteristics of A Horrible Boss" target="_blank">12 Characteristics of A Horrible Boss</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>
+</div>
+<br/>
+
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
 [![Forbes: seven ways to inspire your team to collaborate](images/forbes_inspire_people_to_collaborate.png)](http://www.forbes.com/sites/carolkinseygoman/2016/02/21/seven-ways-to-inspire-your-team-to-collaborate)

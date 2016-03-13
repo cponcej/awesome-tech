@@ -103,6 +103,31 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gqrZ297e0E4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ebA0fasdfi4Mzq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/humancapitalmedia/226-tm-skillsurveyfinalslides" title="How to Avoid Bad Hires Through Reference Checking" target="_blank">How to Avoid Bad Hires Through Reference Checking</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/humancapitalmedia">Human Capital Media</a></strong> </div>
 </div>
 <br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cK3Iumulk6to9n" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/humancapitalmedia/how-automated-online-referencechecking-is-changing-the-hiring-game" title="How Automated Online Reference-Checking Is Changing the Hiring Game" target="_blank">How Automated Online Reference-Checking Is Changing the Hiring Game</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/humancapitalmedia">Human Capital Media</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/HNiwjAcyCy5rkT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Gwalter/how-to-make-sure-you-are-hiring-the-right-employees" title="How To Make Sure You Are Hiring The Right Employees" target="_blank">How To Make Sure You Are Hiring The Right Employees</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/Gwalter">ReliableResumes.com</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hS3RKngyDIX3ep" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ClarissaTjahtono/reference-check-template" title="Reference Check - Template" target="_blank">Reference Check - Template</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/ClarissaTjahtono">Clarissa Tjahtono</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FGLv4IrGePOUAq" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SueMcClounan/reference-check-form-suemc-tracy-zilm-1" title="Reference Check Form - SueMc - Tracy Zilm (1)" target="_blank">Reference Check Form - SueMc - Tracy Zilm (1)</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/SueMcClounan">Sue McClounan</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gqrZ297e0E4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
