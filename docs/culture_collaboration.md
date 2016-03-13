@@ -34,6 +34,21 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1H6fog0r6z2Kot" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/personality-traits-of-a-great-boss-44358501" title="12 Personality Traits Of A Great Boss " target="_blank">12 Personality Traits Of A Great Boss </a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hSoK6TTGrYXjje" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/how-to-be-happy-at-work-10-simple-tips-that-work" title="How to Be Happy at Work - 10 Simple Tips That Work" target="_blank">How to Be Happy at Work - 10 Simple Tips That Work</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IQkukxYFL4fH6l" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/difference-betweenbossvsleader" title="13 Personality Traits Of A Horrible Employee" target="_blank">13 Personality Traits Of A Horrible Employee</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>
+</div>
+<br/>
+
 [![Should I Quit, Or Wait For My Boss To Get Fired?](images/forbes_leadership.png)](http://www.forbes.com/sites/lizryan/2016/01/22/should-i-quit-or-wait-for-my-boss-to-get-fired/)
 
 [![Forbes: seven ways to inspire your team to collaborate](images/forbes_inspire_people_to_collaborate.png)](http://www.forbes.com/sites/carolkinseygoman/2016/02/21/seven-ways-to-inspire-your-team-to-collaborate)
