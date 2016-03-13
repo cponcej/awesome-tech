@@ -12,6 +12,9 @@
 - [Google, the United States and the EU ‘Right to Be Forgotten’: Strategies for Removing Harmful Google Search Results](http://www.defamationremovalattorneysblog.com/2015/07/google-the-united-states-and-the-eu-right-to-be-forgotten-strategies-for-removing-harmful-google-search-results/)
 - [Google defamation case highlights complex jurisdiction problem](http://www.abc.net.au/news/2015-10-29/google-responsible-for-linking-to-defamatory-websites/6894966)
 - [Google reaches out-of-court settlement in UK defamation case](http://www.reuters.com/article/us-google-britain-settlement-idUSKCN0J81K420141124)
+- [Could I be sued for writing a negative review on GlassDoor?](https://www.quora.com/Could-I-be-sued-for-writing-a-negative-review-on-GlassDoor)
+- [Former Employee Defamation: A Legal Introduction](http://kellywarnerlaw.com/former-employee-defamation/)
+- [Should companies respond to Glassdoor reviews?](http://www.askamanager.org/2014/08/should-companies-respond-to-glassdoor-reviews.html)
 - [Wikipedia: Derecho al olvido](https://es.wikipedia.org/wiki/Derecho_al_olvido)
 - [Google y el derecho al olvido en Europa: ya han eliminado más de 400.000 enlaces](http://www.xataka.com/legislacion-y-derechos/google-y-el-derecho-al-olvido-en-europa-ya-han-eliminado-mas-de-400-000-enlaces)
 
@@ -86,6 +89,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hZm0yeGnv8U?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8LnExr9chy4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
