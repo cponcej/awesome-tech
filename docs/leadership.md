@@ -29,4 +29,6 @@
 
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
+![the_goal_simon_sinek](images/the_goal_simon_sinek.png)
+
 [![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)](http://insights.com/)
