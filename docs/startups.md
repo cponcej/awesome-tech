@@ -228,6 +228,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Amazon to create 1,000 jobs in Manchester at new fulfilment centre <a href="https://t.co/7DTiR9N861">https://t.co/7DTiR9N861</a></p>&mdash; Guardian Tech (@guardiantech) <a href="https://twitter.com/guardiantech/status/707561255578435584">marzo 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">«Ir y quedarse». Artículo del académico <a href="https://twitter.com/amunozmolina">@amunozmolina</a> en <a href="https://twitter.com/babelia_elpais">@babelia_elpais</a> | <a href="https://t.co/HATYoW3QPv">https://t.co/HATYoW3QPv</a></p>&mdash; RAE (@RAEinforma) <a href="https://twitter.com/RAEinforma/status/708741921196417024">12 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MO5EolWTGeo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
