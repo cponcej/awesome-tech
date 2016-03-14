@@ -151,3 +151,6 @@
 [![dilbert sales](images/dilbert_sales.jpg)](http://dilbert.com/)
 
 [![Ralph Emerson to work productively](images/ralph_emerson_work_productively.jpg)](http://statusmind.com/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This is crazy. RT <a href="https://twitter.com/RearAdBsBlog">@RearAdBsBlog</a>: Wow RT <a href="https://twitter.com/dre_65">@dre_65</a>: Jack Nicholson preppin&#39; for The Shining <a href="https://t.co/REqW3iWc8y">https://t.co/REqW3iWc8y</a></p>&mdash; Toucher and Rich (@Toucherandrich) <a href="https://twitter.com/Toucherandrich/status/708824229312122880">13 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
