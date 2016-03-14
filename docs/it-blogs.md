@@ -102,6 +102,11 @@
 
 [![why indeed](images/why_indeed.png)](https://upvoted.com/2015/12/15/it-workers-share-the-most-idiotic-things-non-techies-have-told-them/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FyDLH9jfv239KT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bhavna123/handling-difficult-calls-presentation" title="Handling Difficult Calls" target="_blank">Handling Difficult Calls</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/bhavna123">Bhavana Agarwal</a></strong> </div>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Every effing developers vs sysadmin ;) Via <a href="https://t.co/T6G8dEZyke">https://t.co/T6G8dEZyke</a>? <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://t.co/dFW77Urdf4">pic.twitter.com/dFW77Urdf4</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707678435879964672">marzo 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
