@@ -110,6 +110,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apple, Google and Microsoft top the list of tech companies where women feel treated fairly: <a href="https://t.co/KjV9TbOj01">https://t.co/KjV9TbOj01</a> <a href="https://t.co/liDh0CTceA">pic.twitter.com/liDh0CTceA</a></p>&mdash; Forbes Tech News (@ForbesTech) <a href="https://twitter.com/ForbesTech/status/708699102058512384">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Adapt or Die. It&#39;s a data story - <a href="https://t.co/M8Nx3cATPY">https://t.co/M8Nx3cATPY</a></p>&mdash; Namster Travel (@namsterzw) <a href="https://twitter.com/namsterzw/status/709319654846697472">14 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
