@@ -4,6 +4,8 @@
 
 <!-- /MarkdownTOC -->
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">^^ <a href="https://t.co/wHyUrJlqVS">pic.twitter.com/wHyUrJlqVS</a></p>&mdash; Memes políticos (@PoliReac) <a href="https://twitter.com/PoliReac/status/706102689416011776">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Office Politics
 - [Forbes.com: Office Politics: Must You Play? A Handbook For Survival/Success](http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/)
 - [Setting up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
