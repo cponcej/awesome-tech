@@ -55,6 +55,9 @@
 - [DZone: Spring Data Mongodb and Spring Boot](https://dzone.com/articles/spring-data-mongodb-spring-boot) You really can quickly develop a microservice to access MongoDB from Java 8 with little coding. Give it a try... easy like Sunday morning.
 - [slideshare: Troubleshooting Live Java Web Applications](http://www.slideshare.net/SpringCentral/puls-spring-one2gx)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Found something in my cellar that seems to be aging well ;-) <a href="https://t.co/FSoZCBUntW">pic.twitter.com/FSoZCBUntW</a></p>&mdash; Mårten Mickos (@martenmickos) <a href="https://twitter.com/martenmickos/status/709086979959304192">13 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WAy9mgEYb6o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
