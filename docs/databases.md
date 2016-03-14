@@ -124,8 +124,7 @@
 	- [sqlperformance.com: Tuning : A Good Place to Start](http://sqlperformance.com/2016/01/io-subsystem/tuning-a-good-place-to-start) Tim Radney of SQLskills gives an overview of his approach to SQL Server performance tuning, from system configuration, to I/O latency, to high cost queries.
 - [Faster SQL Paging with jOOQ Using the Seek Method](http://blog.jooq.org/2013/10/26/faster-sql-paging-with-jooq-using-the-seek-method/)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MySQL—MariaDB—PostgreSQL Benchamarks<a href="https://t.co/ahTMtGf3JV">https://t.co/ahTMtGf3JV</a><br><br>MySQL/MariaDB are slightly faster at writing<br>PostgreSQL is faster at reading</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/699133157463998464">febrero 15, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MySQL—MariaDB—PostgreSQL Benchamarks<a href="https://t.co/ahTMtGf3JV">https://t.co/ahTMtGf3JV</a><br><br>MySQL/MariaDB are slightly faster at writing<br>PostgreSQL is faster at reading</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/699133157463998464">febrero 15, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MySQL 5.7 – HTTP Plugin for MySQL<br>It is official: MySQL listens to HTTP and speaks JSON.<a href="https://t.co/T6ra14kQw4">https://t.co/T6ra14kQw4</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/692882185099935744">enero 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -164,6 +163,7 @@
 - [What is a Database Index](http://www.essentialsql.com/what-is-a-database-index)
 - [What is the difference between WHERE and HAVING clauses?](http://www.essentialsql.com/what-is-the-difference-between-where-and-having-clauses)
 - [BI For Beginners – a Business Intelligence Interview with Brian Larson](http://www.essentialsql.com/bi-for-beginners-a-business-intelligence-interview-with-brian-larson)
+- [Ozar’s Hierarchy of Database Needs: a 6-Month DBA Training Plan 🌟](https://www.brentozar.com/archive/2011/06/ozar-hierarchy-database-needs/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Today, Microsoft announces that SQL Server is coming to Linux!&#13;&#13;<a href="https://t.co/HukIWadiqB">https://t.co/HukIWadiqB</a></p>&mdash; Gijs de Jong (@gijsdej) <a href="https://twitter.com/gijsdej/status/706960105519108099">7 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -176,6 +176,10 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 20 MySQL best practices  <a href="https://t.co/z28dx6gNHh">https://t.co/z28dx6gNHh</a></p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/692364513392353280">enero 27, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">R U an Accidentail DBA?  Freaked out?  Check out this free series.  <a href="https://t.co/5yrVx2PKaa">https://t.co/5yrVx2PKaa</a></p>&mdash; Kris Wenzel (@sqlkris) <a href="https://twitter.com/sqlkris/status/709348633406210048">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![dba-training-needs](images/dba-training-needs.png)](https://www.brentozar.com/archive/2011/06/ozar-hierarchy-database-needs/)
 
 [![sql-join-clauses](images/sql-join-clauses.png)](http://www.essentialsql.com)
 
