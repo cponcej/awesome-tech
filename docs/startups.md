@@ -234,6 +234,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> salaries: “<a href="https://twitter.com/hashtag/Barcelona?src=hash">#Barcelona</a> is the most competitive city in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a>” <a href="http://t.co/S0y1ZHUOVw">http://t.co/S0y1ZHUOVw</a> via @investcatalonia <a href="http://t.co/HEGUTyjZpn">pic.twitter.com/HEGUTyjZpn</a></p>&mdash; This is Catalonia (@ThIsCatalonia) <a href="https://twitter.com/ThIsCatalonia/status/545889316086747137">diciembre 19, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">30 years and this theme song still gets us excited. How many of you still watch the show? <a href="https://t.co/JPJlWJmbOR">https://t.co/JPJlWJmbOR</a> <a href="https://twitter.com/hashtag/MiamiVice?src=hash">#MiamiVice</a></p>&mdash; MIAMIVICE38KV (@MiamiVice38KV) <a href="https://twitter.com/MiamiVice38KV/status/706147689755504640">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MO5EolWTGeo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

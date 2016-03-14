@@ -225,6 +225,9 @@ ______________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Christian Bale&#39;s Weight Transformation for Movies <a href="https://t.co/EGLQa81pe8">pic.twitter.com/EGLQa81pe8</a></p>&mdash; Actor Trivia (@ActorTrivia) <a href="https://twitter.com/ActorTrivia/status/706224250194161664">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/WeNeedMusicBecause?src=hash">#WeNeedMusicBecause</a> Miami Vice and GTA Vice City would be uncool without it!<a href="https://t.co/2r3yUw1icU">https://t.co/2r3yUw1icU</a></p>&mdash; Bruno Bernier (@BrunoBernier1) <a href="https://twitter.com/BrunoBernier1/status/709111144892514304">13 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How The X-Files changed television <a href="https://t.co/6uRdtNIvtH">https://t.co/6uRdtNIvtH</a> via <a href="https://twitter.com/BBC_Culture">@BBC_Culture</a></p>&mdash; Bleddyn. (@m0jito) <a href="https://twitter.com/m0jito/status/703302725899911169">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
