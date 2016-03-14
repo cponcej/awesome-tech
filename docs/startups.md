@@ -249,6 +249,8 @@
 	- [twitter.com/Lanzaderas_EES](https://twitter.com/Lanzaderas_EES)
 	- [Evaluación del impacto social de las Lanzaderas de Empleo 🌟](http://www.fundaciontelefonica.com/arte_cultura/publicaciones-listado/pagina-item-publicaciones/itempubli/486/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las <a href="https://twitter.com/hashtag/pymes?src=hash">#pymes</a> españolas contrataron 255.000profesionales con <a href="https://twitter.com/hashtag/perfilesdigitales?src=hash">#perfilesdigitales</a> el último año <a href="https://t.co/sM04SfKPbz">https://t.co/sM04SfKPbz</a> <a href="https://twitter.com/tcanalysis">@tcanalysis</a> <a href="https://twitter.com/adigital_org">@adigital_org</a></p>&mdash; Ecommerce_es (@Ecommerce_es) <a href="https://twitter.com/Ecommerce_es/status/708273814694719489">11 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![fight club](images/fight_club.gif)
 
 ## Leadership Styles Around the World
