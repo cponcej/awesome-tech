@@ -76,6 +76,8 @@
 
 [![worlds most valuable sports teams](images/worlds-most-valuable-sports-teams.png)](http://dadaviz.com/i/4595)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I added a video to a <a href="https://twitter.com/YouTube">@YouTube</a> playlist <a href="https://t.co/znBOF9N3pq">https://t.co/znBOF9N3pq</a> Moneyball Trailer 2011 HD</p>&mdash; Mr S Sinclair (@businessbgs01) <a href="https://twitter.com/businessbgs01/status/704341618325897216">29 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Google Analytics
 - [Google Analytics para principiantes](http://www.contunegocio.es/tecnologia/google-analytics-para-principiantes-i/)
 

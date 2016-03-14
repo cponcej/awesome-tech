@@ -26,6 +26,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cuando estudias ciencias políticas y te dicen que House of Cards es realista. <a href="https://t.co/OCM9HApXwN">pic.twitter.com/OCM9HApXwN</a></p>&mdash; Memes políticos (@PoliReac) <a href="https://twitter.com/PoliReac/status/707571385778970626">9 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A bit of Philip Seymour Hoffman to brighten up your Friday...<a href="https://t.co/WNGDU7fHEE">https://t.co/WNGDU7fHEE</a></p>&mdash; Luke Massey (@LukeMassey) <a href="https://twitter.com/LukeMassey/status/705714882251984896">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UGdRyPN3IRk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

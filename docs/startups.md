@@ -92,6 +92,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">An artistic rendering of today&#39;s employment <a href="https://t.co/bMVMy7QqHA">https://t.co/bMVMy7QqHA</a></p>&mdash; Faretta (@Michael_Faretta) <a href="https://twitter.com/Michael_Faretta/status/707023474686963713">8 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Never give up inspirational scene from <a href="https://twitter.com/hashtag/moneyball?src=hash">#moneyball</a> <a href="https://twitter.com/hashtag/softball?src=hash">#softball</a>.  <a href="http://t.co/8xWdzpkY">http://t.co/8xWdzpkY</a></p>&mdash; Fordson Softball (@fordsonsoftball) <a href="https://twitter.com/fordsonsoftball/status/270859379287400448">20 de noviembre de 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## IT remuneration
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
 
