@@ -123,6 +123,7 @@
 - [Linkedin: The One Thing Every Employer Wants to See On Your Resume](https://www.linkedin.com/pulse/one-thing-every-employer-wants-see-your-resume-brian-de-haaff)
 - [opensource.com: How to add open source experience to your resume 🌟](https://opensource.com/business/16/2/add-open-source-to-your-resume)
 - [Why Your Resume Is Making Recruiters Cringe](https://www.linkedin.com/pulse/why-your-resume-making-recruiters-cringe-j-t-o-donnell)
+- [careerealism.com: What To Do If You’ve Lied On Your Resume](http://www.careerealism.com/lied-resume-what-to-do/)
 
 [![phrases_sabotaging_resume](images/phrases_sabotaging_resume.png)](http://www.businessinsider.com/phrases-that-are-sabotaging-your-rsum-2016-3)
 

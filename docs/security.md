@@ -164,6 +164,7 @@
 - [tomsguide.com: Best Antivirus Software and Apps 2016](http://www.tomsguide.com/us/best-antivirus,review-2588.html)
 - [Here is the 2015 list of the top 50 software products in order of total distinct vulnerabilities](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
 - [For the first time, Mac users have to worry about malware that locks their computer and demands a ransom](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
+- [Microsoft’s Windows 10 Wants To Replace Your PC Antivirus With WDATP](https://www.devbattles.com/en/sand/post-2462-Microsofts_Windows_10_Wants_To_Replace_Your_PC_Antivirus_With_WDATP)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 

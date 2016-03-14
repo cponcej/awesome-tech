@@ -38,6 +38,9 @@
 - [pyvideo.org](http://pyvideo.org)
 - [Talk Python To Me Podcast](http://talkpython.fm)
 	- [Transcript for Episode #39: Getting your first dev job as a Python developer (part 1)](http://talkpython.fm/episodes/transcript/39/getting-your-first-dev-job-as-a-python-developer-part-1)
+- [Microsoft: Python Engineering](https://blogs.msdn.microsoft.com/pythonengineering/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> Quietly Starts A <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a> Engineering Blog — Here’s Why You Need To Follow It <a href="https://t.co/8jLIjIsBnl">https://t.co/8jLIjIsBnl</a> <a href="https://t.co/hxKOPJtroj">pic.twitter.com/hxKOPJtroj</a></p>&mdash; Kisha (@GetKisha) <a href="https://twitter.com/GetKisha/status/708986328793407489">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Python docs
 - [Python progression path - From apprentice to guru](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)

@@ -16,6 +16,7 @@
 - [Google is about to start favoring HTTPS sites in search results](http://thenextweb.com/insider/2015/12/17/unsecured-websites-are-about-to-get-hammered-in-googles-search-ranking/)
 - [Dead-simple HTTPS Set up with Docker and Let's Encrypt](http://steveltn.me/2015/12/18/nginx-acme/)
 - [nixCraft: How to configure Nginx with free Let’s Encrypt SSL certificate on Debian or Ubuntu Linux](http://www.cyberciti.biz/faq/how-to-configure-nginx-with-free-lets-encrypt-ssl-certificate-on-debian-or-ubuntu-linux/)
+- [What ISPs Can See Even When Traffic Is Encrypted With HTTPS and Poor Implantation of VPN](https://www.teamupturn.com/reports/2016/what-isps-can-see)
 
 ## HSTS
 - [HTTP Strict Transport Security (HSTS)](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is a web security policy mechanism which helps to protect websites against protocol downgrade attacks and cookie hijacking.
@@ -24,8 +25,9 @@
 - [openssl.org](https://www.openssl.org)
 - [openssl-announce](https://mta.openssl.org/pipermail/openssl-announce/)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Forthcoming OpenSSL releases fixes many security bugs <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://t.co/ctpfCb8hhu">https://t.co/ctpfCb8hhu</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702901573148520448">25 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Forthcoming OpenSSL releases fixes many security bugs <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://t.co/ctpfCb8hhu">https://t.co/ctpfCb8hhu</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702901573148520448">25 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What ISPs Can See Even When Traffic Is Encrypted With HTTPS and Poor Implantation of VPN <a href="https://t.co/az6kv5hvR1">https://t.co/az6kv5hvR1</a> <a href="https://twitter.com/hashtag/privacy?src=hash">#privacy</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a> <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709097739301171201">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/KDYbKY2sFxwXCF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/guypod/https-what-why-and-how-smashingconf-freiburg-sep-2015" title="HTTPS: What, Why and How (SmashingConf Freiburg, Sep 2015)" target="_blank">HTTPS: What, Why and How (SmashingConf Freiburg, Sep 2015)</a> </strong> from <strong><a href="//www.slideshare.net/guypod" target="_blank">Guy Podjarny</a></strong> </div>

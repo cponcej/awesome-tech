@@ -132,6 +132,8 @@
 </div>
 <br/>
 
+[![nadal_defamation](images/nadal_defamation.png)](http://www.elmundo.es/deportes/2016/03/14/56e6722b22601d39318b45b0.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gqrZ297e0E4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
