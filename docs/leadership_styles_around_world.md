@@ -4,9 +4,6 @@
 
 <!-- /MarkdownTOC -->
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I look at my work now. Role Model and Leadership Moneyball <a href="http://t.co/q6LGFZehXu">http://t.co/q6LGFZehXu</a></p>&mdash; Paul Wilson (@PAW1015) <a href="https://twitter.com/PAW1015/status/577323235630587904">16 de marzo de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Leadership Styles Around the World
 - [24 Charts Of Leadership Styles Around The World](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
 - [thindifference.com: Leadership Styles Around the World](https://www.thindifference.com/2014/11/leadership-styles-around-world/)
@@ -55,3 +52,5 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How old were you when u watch this movie?<br>Full Metal Jacket Opening Scene <a href="https://t.co/uELnj7rOrz">https://t.co/uELnj7rOrz</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Gerardo Granados (@BN24GGranados) <a href="https://twitter.com/BN24GGranados/status/707623054302576640">9 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I look at my work now. Role Model and Leadership Moneyball <a href="http://t.co/q6LGFZehXu">http://t.co/q6LGFZehXu</a></p>&mdash; Paul Wilson (@PAW1015) <a href="https://twitter.com/PAW1015/status/577323235630587904">16 de marzo de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
