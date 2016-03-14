@@ -131,6 +131,8 @@
 
 [![london_fintech](images/london_fintech.png)](http://www.cityam.com/236380/three-ways-london-can-remain-the-fintech-capital-of-the-world)
 
+[![mobile_health](images/mobile_health.png)](http://www.economist.com/news/business/21694523-mobile-health-apps-are-becoming-more-capable-and-potentially-rather-useful-things-are-looking)
+
 ### Barcelona Tech, Startups and Innovation
 - [Barcelona Tech, Startups and Innovation](startups_bcn.md)
 

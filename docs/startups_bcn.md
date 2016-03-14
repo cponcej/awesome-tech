@@ -189,3 +189,6 @@ para universitarios y titulados júnior
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Mobile Ecosystem will directly support 20m jobs by 2020. Know more  <a href="https://t.co/h64Rm5Qhyc">https://t.co/h64Rm5Qhyc</a> <a href="https://twitter.com/hashtag/MobileEconomy?src=hash">#MobileEconomy</a> <a href="https://t.co/WyN2lfBx42">pic.twitter.com/WyN2lfBx42</a></p>&mdash; GSMA (@GSMA) <a href="https://twitter.com/GSMA/status/708220141201399808">11 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Conoces los beneficios de las <a href="https://twitter.com/hashtag/fresas?src=hash">#fresas</a> para la <a href="https://twitter.com/hashtag/salud?src=hash">#salud</a>? Nos lo cuenta <a href="https://twitter.com/AlexVidalNutri">@AlexVidalNutri</a>  <a href="https://t.co/HJdfQPuQAH">https://t.co/HJdfQPuQAH</a> <a href="https://t.co/HUYiu1MFeV">pic.twitter.com/HUYiu1MFeV</a></p>&mdash; tuMédico.es (@tuMedicoes) <a href="https://twitter.com/tuMedicoes/status/707863952391327744">10 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
