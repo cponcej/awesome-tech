@@ -85,7 +85,12 @@ ________________________________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/RealWhitney">@RealWhitney</a> &amp; <a href="https://twitter.com/enriqueiglesias">@enriqueiglesias</a> <a href="https://t.co/lhiTxFNV1g">https://t.co/lhiTxFNV1g</a> - Could I Have This Kiss Forever</p>&mdash; Dhi (@dhi_teixeira) <a href="https://twitter.com/dhi_teixeira/status/706920552334802944">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Until The End Of The World [Rock&#39;n&#39;Roll Hall Of Fame Induction Ceremony] <a href="http://t.co/lJ44PnMS">http://t.co/lJ44PnMS</a> <a href="https://twitter.com/hashtag/U2?src=hash">#U2</a></p>&mdash; Ultraviolet U2 (@ultravioletu2) <a href="https://twitter.com/ultravioletu2/status/223953528366964736">14 de julio de 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;You&#39;re kept awake dreaming someone elses dream...&quot; <a href="https://t.co/nuptiqikKE">https://t.co/nuptiqikKE</a></p>&mdash; Fockzio (@fockzio) <a href="https://twitter.com/fockzio/status/705969265766211584">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">U2 tribute to Aslan ...<a href="https://t.co/l39URR5oGU">https://t.co/l39URR5oGU</a> via <a href="https://twitter.com/YouTube">@youtube</a></p>&mdash; Maxwell Black (@Coreandor) <a href="https://twitter.com/Coreandor/status/708776929617420288">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">myRockworld - On this day 1990, Sinead O&#39;Connor was at No.1 on the UK singles chart with &#39;Nothing Compares 2 U.&#39;... <a href="https://t.co/QzoHp2mOwZ">https://t.co/QzoHp2mOwZ</a></p>&mdash; myRockworld (@myRockworldonfb) <a href="https://twitter.com/myRockworldonfb/status/703117368222834691">26 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
