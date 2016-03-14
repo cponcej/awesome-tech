@@ -29,6 +29,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="http://t.co/y4bCU81M9H">pic.twitter.com/y4bCU81M9H</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/653631226687787009">12 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Do you understand the problem? &quot;What&#39;s the Problem?&quot; Clip from &quot;Moneyball&quot;.mov <a href="http://t.co/UJvo8IbTdj">http://t.co/UJvo8IbTdj</a></p>&mdash; John Andrews (@Katadhin) <a href="https://twitter.com/Katadhin/status/604255188367482880">29 de mayo de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Wolf of Wall Street - Sell me this pen <a href="https://t.co/AIlb3rb71L">https://t.co/AIlb3rb71L</a></p>&mdash; はらぺこあおむし (@kusaman555) <a href="https://twitter.com/kusaman555/status/703273468016484352">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
