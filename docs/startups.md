@@ -129,6 +129,8 @@
 
 [![Guide to software developer job adevertisements](images/guide_sw_devel_job_ads.png)](http://www.creativebloq.com/advertising/web-developer-job-ad-chart-11618853)
 
+[![london_fintech](images/london_fintech.png)](http://www.cityam.com/236380/three-ways-london-can-remain-the-fintech-capital-of-the-world)
+
 ### Barcelona Tech, Startups and Innovation
 - [Barcelona Tech, Startups and Innovation](startups_bcn.md)
 
