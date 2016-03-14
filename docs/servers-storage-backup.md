@@ -111,6 +111,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Need a self-hosted alternative to Google Drive? Check out these <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> options: <a href="https://t.co/VxgHUh6Kzd">https://t.co/VxgHUh6Kzd</a> <a href="https://t.co/kIq5YBmWWO">pic.twitter.com/kIq5YBmWWO</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/700591151191949313">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Veritas se relanza tras independizarse de Symantec <a href="https://t.co/Z2TBg5lQPw">https://t.co/Z2TBg5lQPw</a> <a href="https://t.co/kDamQq3Qdo">pic.twitter.com/kDamQq3Qdo</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/709315094325268480">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Linux LVM Logical Volume Management and FileSystems
 - [RHEL6 doc: LVM Administrator Guide](https://access.redhat.com/knowledge/docs/en-US/Red_Hat_Enterprise_Linux/6/html-single/Logical_Volume_Manager_Administration/index.html)
 - [RHEL7 doc: LVM Administrator Guide](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html-single/Logical_Volume_Manager_Administration/index.html)
