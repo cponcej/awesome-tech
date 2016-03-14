@@ -37,11 +37,6 @@
 <br>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6hkNuykz2RE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sJQL8w-jgEs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>

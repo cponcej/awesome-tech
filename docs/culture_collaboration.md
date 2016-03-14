@@ -97,6 +97,11 @@
 
 [![economist_work_life_balance](images/economist_work_life_balance.png)](https://www.1843magazine.com/features/why-do-we-work-so-hard)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hkNuykz2RE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Saying goodbye.<br>Kobe Bryant and Pau Gasol  (Getty)<a href="https://twitter.com/hashtag/photooftheday?src=hash">#photooftheday</a><a href="https://t.co/ioTwwikD1O">https://t.co/ioTwwikD1O</a> <a href="https://t.co/wcHxHi4otO">pic.twitter.com/wcHxHi4otO</a></p>&mdash; Paul Nisely (@SN_Paul_Nisely) <a href="https://twitter.com/SN_Paul_Nisely/status/701926990601781249">23 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
