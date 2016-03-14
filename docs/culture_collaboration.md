@@ -100,5 +100,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Saying goodbye.<br>Kobe Bryant and Pau Gasol  (Getty)<a href="https://twitter.com/hashtag/photooftheday?src=hash">#photooftheday</a><a href="https://t.co/ioTwwikD1O">https://t.co/ioTwwikD1O</a> <a href="https://t.co/wcHxHi4otO">pic.twitter.com/wcHxHi4otO</a></p>&mdash; Paul Nisely (@SN_Paul_Nisely) <a href="https://twitter.com/SN_Paul_Nisely/status/701926990601781249">23 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Christian Bale: Heath Ledger&#39;s Performance as The Joker &#39;Ruined All My Plans&#39;: In a new interview, he says fee.. <a href="https://t.co/024tbsBzsr">https://t.co/024tbsBzsr</a></p>&mdash; Diamond Live (@BijouBijounet) <a href="https://twitter.com/BijouBijounet/status/705873205714673666">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Jason Kidd era un mago del balón. Magia en sus manos. 🔝😵 <a href="https://t.co/q3NqVMQwPJ">https://t.co/q3NqVMQwPJ</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/708752807676026880">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

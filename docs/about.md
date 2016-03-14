@@ -233,6 +233,9 @@ ______________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Reestrenan la trilogía ‘Tres colores’ y nosotros te adelantamos lo que te pasará si las ves <a href="https://t.co/PyltIHfC3N">https://t.co/PyltIHfC3N</a> <a href="https://t.co/ETKUMelQGB">pic.twitter.com/ETKUMelQGB</a></p>&mdash; CINEMANIA_ES (@CINEMANIA_ES) <a href="https://twitter.com/CINEMANIA_ES/status/708754484437098496">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/RosannaGG">@RosannaGG</a> aquí el momento en concreto...<a href="https://t.co/AD0FBZiBG2">https://t.co/AD0FBZiBG2</a></p>&mdash; Dani (@danigasivi) <a href="https://twitter.com/danigasivi/status/707246348681265152">8 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La pareja O&#39;Neal - Kobe es una de las mejores de la historia, eran imparables: <a href="https://t.co/mfxTD0L65H">https://t.co/mfxTD0L65H</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/706561679241388032">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

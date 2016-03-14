@@ -50,4 +50,6 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How old were you when u watch this movie?<br>Full Metal Jacket Opening Scene <a href="https://t.co/uELnj7rOrz">https://t.co/uELnj7rOrz</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Gerardo Granados (@BN24GGranados) <a href="https://twitter.com/BN24GGranados/status/707623054302576640">9 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/Hq7F1o8tHQ">https://t.co/Hq7F1o8tHQ</a> - Full Metal Jacket (1987): Pyle&#39;s death scene).</p>&mdash; Mr.X Paygox (@Mrxpaygox) <a href="https://twitter.com/Mrxpaygox/status/701120168521498624">20 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
