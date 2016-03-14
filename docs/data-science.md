@@ -200,6 +200,7 @@
 - [Introducing Spark Datasets with Spark 1.6](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
 - [DZone: Get Started With Spark 1.6 Right Away](https://dzone.com/articles/apache-spark-friday) Here's a short reference to show you where to go and what resources to use setting up the newly released Apache Spark 1.6
 - [DZone: SMACK Stack Guide (Spark++) [slides]](https://dzone.com/articles/smack-stack-guide)
+- [Top 30 Spark Interview Questions Asked in Most Interviews 🌟](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rvDpBTV89AM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
