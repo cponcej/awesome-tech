@@ -51,5 +51,4 @@
 
 [![voltaire jealousy commits crimes](images/jealousy_commits_crimes.jpg)](http://statusmind.com)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">U2 - SUNDAY BLOODY SUNDAY (SUBTITULOS EN ESPAÑOL) y así continúa el estando el mundo, hasta cuando???  <a href="http://t.co/cHBi1XO3po">http://t.co/cHBi1XO3po</a></p>&mdash; Raquel Moler (@Ra_Rachl) <a href="https://twitter.com/Ra_Rachl/status/646975082628313089">24 de septiembre de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
