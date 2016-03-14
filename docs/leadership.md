@@ -29,6 +29,8 @@
 
 [![david marquet great leaders](images/davidmarquet_greatleaders.png)](https://twitter.com/ldavidmarquet)
 
+[![david_marquet_2500_years_old_idea](images/david_marquet_2500_years_old_idea.png)](https://www.linkedin.com/pulse/use-2500-year-old-idea-build-great-culture-l-david-marquet)
+
 ![the_goal_simon_sinek](images/the_goal_simon_sinek.png)
 
 [![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)](http://insights.com/)
