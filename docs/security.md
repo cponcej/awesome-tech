@@ -129,6 +129,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Facebook, Google, and WhatsApp are all planning to increase encryption <a href="https://t.co/K0Roq7nENd">https://t.co/K0Roq7nENd</a> <a href="https://t.co/fK9xhW3jx5">pic.twitter.com/fK9xhW3jx5</a></p>&mdash; BI Tech (@SAI) <a href="https://twitter.com/SAI/status/709372723630362624">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> Webserver <a href="https://twitter.com/hashtag/Security?src=hash">#Security</a> is out! <a href="https://t.co/UcwrNmJIEm">https://t.co/UcwrNmJIEm</a> Stories via <a href="https://twitter.com/Dinosn">@Dinosn</a> <a href="https://twitter.com/sidekickhelps">@sidekickhelps</a> <a href="https://twitter.com/Akwelz">@Akwelz</a></p>&mdash; Linux Security News (@LinuxSec) <a href="https://twitter.com/LinuxSec/status/699037256724692993">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
