@@ -478,3 +478,6 @@ ________________________________________________________________________________
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/f5Ambk3tSAzmwTFQgrEUqw/139044569770" data-did="eb9a18b0012d1238179ae41a992b0497a3ed51e0"><a href="http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile">http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This has come up a few times this week: &quot;What would you say... you do here?&quot; The Bobs from Office Space <a href="https://t.co/sQwQpMXXhu">https://t.co/sQwQpMXXhu</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Joshua Cypess (@JoshuaCypess) <a href="https://twitter.com/JoshuaCypess/status/679800703032889344">23 de diciembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
