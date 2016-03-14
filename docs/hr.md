@@ -158,6 +158,8 @@
 ### Job Description
 - [4 Benefits of Accurate Job Descriptions for Small Businesses](http://www.mjms.net/blog/4-benefits-of-accurate-job-descriptions-for-small-businesses/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/MLoParis">@MLoParis</a> Or Michael Douglas in Falling Down <a href="https://t.co/m5HYjn4XWx">pic.twitter.com/m5HYjn4XWx</a></p>&mdash; Eileen Toomey-Wright (@ToomeyWright) <a href="https://twitter.com/ToomeyWright/status/676908732027129857">15 de diciembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Networking
 - [5 Networking Mistakes And How To Easily Avoid Them](http://www.careerealism.com/networking-mistakes-avoid-easily/)
 - [How NOT to Contact Recruiters on LinkedIn](http://theundercoverrecruiter.com/how-not-to-contact-recruiters-on-linkedin-10-ways/)

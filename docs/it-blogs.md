@@ -105,6 +105,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Every effing developers vs sysadmin ;) Via <a href="https://t.co/T6G8dEZyke">https://t.co/T6G8dEZyke</a>? <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://t.co/dFW77Urdf4">pic.twitter.com/dFW77Urdf4</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707678435879964672">marzo 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Straks Falling Down met Michael Douglas <a href="https://twitter.com/hashtag/SBS9?src=hash">#SBS9</a> met deze geweldige scene. And you ma&#39;am, how is the food? <a href="https://twitter.com/hashtag/bleblehbleh?src=hash">#bleblehbleh</a> <a href="https://t.co/IEOZu0iKk9">https://t.co/IEOZu0iKk9</a></p>&mdash; Richard van Meerten (@richardvmeerten) <a href="https://twitter.com/richardvmeerten/status/697501436263972865">10 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Non IT related Blogs
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)
 
