@@ -166,6 +166,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">$ git push --force origin master <a href="https://t.co/F2enmNzlTj">pic.twitter.com/F2enmNzlTj</a></p>&mdash; Jose Ignacio Andres (@joserobleda) <a href="https://twitter.com/joserobleda/status/707846636345683968">10 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Git on Twitter
 - [twitter.com/github](https://twitter.com/github)
 - [twitter.com/githubstatus](https://twitter.com/githubstatus)
