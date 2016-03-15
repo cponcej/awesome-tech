@@ -69,6 +69,7 @@
 - [Daniel Goleman: How to Coach A Dictatorial Leader 🌟](https://www.linkedin.com/pulse/how-coach-dictatorial-leader-daniel-goleman)
 - [10 Things HR Doesn't Want You to Know (but I'll Tell You) 🌟🌟](http://www.inc.com/jt-odonnell/10-things-hr-doesn-t-want-you-to-know-but-i-ll-tell-you.html) HR and recruiting have some secrets you should know..
 - [Feels Like My Boss Doesn't Like Me (And, It's Hurting My Career) 🌟](https://www.linkedin.com/pulse/feels-like-my-boss-doesnt-me-its-hurting-career-j-t-o-donnell)
+- [20 things the most respected bosses never say](http://www.businessinsider.com/20-things-the-most-respected-bosses-never-say-2016-3)
 
 ![voltaire good mood](images/voltaire_good_mood.jpg)
 

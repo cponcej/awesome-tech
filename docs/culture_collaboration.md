@@ -23,6 +23,8 @@
 
 [![good boss bad boss](images/good_boss_bad_boss.jpg)](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
 
+[![bi_20things_most_respected_bosses](images/bi_20things_most_respected_bosses.png)](http://www.businessinsider.com/20-things-the-most-respected-bosses-never-say-2016-3)
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/32i7dUYEeZCEmm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Rypple/good-boss-bad-boss" title="Good Boss, Bad Boss - Robert Sutton from Stanford" target="_blank">Good Boss, Bad Boss - Robert Sutton from Stanford</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/Rypple">Work.com - A Salesforce Company</a></strong> </div>
 </div>
