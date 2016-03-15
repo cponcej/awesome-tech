@@ -102,3 +102,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Capture all port 123 traffic to a file on a Linux/Unix like system:<br>tcpdump -s 1514 port 123 -w file<br><br>Read captured traffic:<br>tcpdump -r file</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/708703014060593152">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">lsof -Pan -i tcp -i udp # Show all programs listening TCP/UDP ports. You may want to run this with superuser privileges.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/709748993404833792">15 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
