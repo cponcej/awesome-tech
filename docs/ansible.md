@@ -25,6 +25,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Impressions from <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> London 2016 <a href="https://t.co/Xbr1FkkB0q">https://t.co/Xbr1FkkB0q</a></p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/700724093214130177">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![redhat_admins_wait_ansible_puppet](images/redhat_admins_wait_ansible_puppet.png)](http://searchdatacenter.techtarget.com/tip/Red-Hat-admins-await-an-Ansible-vs-Puppet-showdown)
+
 # Ansible
 - [docs.ansible.com 🌟🌟🌟🌟](http://docs.ansible.com)
 - [releases.ansible.com](http://releases.ansible.com)
