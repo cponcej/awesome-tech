@@ -18,6 +18,7 @@
     - [Good Bye Lennin](#good-bye-lennin)
     - [The lives of others](#the-lives-of-others)
     - [Fight Club](#fight-club)
+    - [The Clearing](#the-clearing)
     - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
     - [Trading Places](#trading-places)
     - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
@@ -213,6 +214,13 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DkVRL2po0Y8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## The Clearing
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/E7uAbhoKHe4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
