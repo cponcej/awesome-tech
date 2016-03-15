@@ -548,6 +548,7 @@
 - [Vim Commands Cheat Sheet](http://bullium.com/support/vim.html)
 - [gvim - Replace Tab with Spaces in VIM](http://stackoverflow.com/questions/426963/replace-tab-with-spaces-in-vim)
 - [Vim and Haskell in 2016](http://www.stephendiehl.com/posts/vim_2016.html)
+- [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 
 ### Emacs
 - [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)

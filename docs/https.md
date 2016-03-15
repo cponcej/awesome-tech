@@ -57,6 +57,7 @@
 ## SSL Server Test
 - [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest)
 - [SSL Report: bash.cyberciti.biz](https://www.ssllabs.com/ssltest/analyze.html?d=bash.cyberciti.biz)
+- [nixCraft: How To Verify SSL Certificate From A Shell Prompt](http://www.cyberciti.biz/faq/test-ssl-certificates-diagnosis-ssl-certificate/)
 
 <div id='scoopit-container-4059806440' align="center"><a href='http://www.scoop.it/t/d-n3n/p/4059806440/2016/02/16/why-i-stopped-using-startssl-hint-it-involves-a-chinese-company'>Why I stopped using StartSSL (Hint: it involves a Chinese company)</a></div><script type='text/javascript' src='http://www.scoop.it/embed-scoop/4059806440.js?maxwidth=457' ></script>
 <br/>

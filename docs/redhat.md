@@ -81,6 +81,8 @@
 - [State of the Red Hat Union is Secure. An exciting year ahead, from containeres to mobile](http://www.redhat.com/en/about/blog/state-red-hat-union-secure)
 - [How to Setup and Configure Network Bonding or Teaming in RHEL/CentOS 7](http://www.tecmint.com/configure-network-bonding-or-teaming-in-rhel-centos-7/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How To Install EPEL Repo on a CentOS and RHEL 7.x: <a href="https://t.co/FOuvWafDjj">https://t.co/FOuvWafDjj</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a></p>&mdash; Brian Reynolds (@breynoldz) <a href="https://twitter.com/breynoldz/status/709488307823058945">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![rhel 5,6,7 cheatsheet](images/rhel567_cheatsheet.png)](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
 
 ### Fedora
