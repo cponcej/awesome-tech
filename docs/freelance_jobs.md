@@ -24,7 +24,7 @@
 
 [![guru_com](images/guru_com.png)](http://www.guru.com/)
 
-![guru_com_grows_support_community](images/guru_com_grows_support_community.jpg)
+[![guru_com_grows_support_community](images/guru_com_grows_support_community.jpg)](http://www.dzonesoftware.com/)
 
 ## Trabajos Freelance
 - [computerhoy.com: Las 10 mejores webs donde conseguir trabajo como freelance](http://computerhoy.com/listas/internet/8-mejores-webs-donde-conseguir-trabajo-como-freelance-8742)
