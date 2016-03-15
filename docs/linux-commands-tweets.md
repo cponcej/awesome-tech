@@ -105,3 +105,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">lsof -Pan -i tcp -i udp # Show all programs listening TCP/UDP ports. You may want to run this with superuser privileges.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/709748993404833792">15 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">yes &quot;$(seq 231 -1 16)&quot; | while read i; do printf &quot;\x1b[48;5;${i}m\n&quot;; sleep .02; done # A rainbow in your shell.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/709773333387018241">15 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Sort a file in case-insensitive order: sort -f. &#39;f&#39; for &#39;fold,&#39; i.e. fold upper and lower case together</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/709781377248587776">15 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

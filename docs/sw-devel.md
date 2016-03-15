@@ -178,6 +178,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A Brief Glance at How Various Text Editors Manage Their Textual Data <a href="https://t.co/q7Gi8IKZ6o">https://t.co/q7Gi8IKZ6o</a> <a href="https://twitter.com/hashtag/vim?src=hash">#vim</a> <a href="https://twitter.com/hashtag/emacs?src=hash">#emacs</a> <a href="https://twitter.com/hashtag/sam?src=hash">#sam</a> <a href="https://twitter.com/hashtag/moe?src=hash">#moe</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707157345831268352">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Syntax Highlighting Off <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a> <a href="https://twitter.com/hashtag/practice?src=hash">#practice</a> <a href="https://twitter.com/hashtag/life?src=hash">#life</a>  <a href="https://t.co/O5XfVtOVw7">https://t.co/O5XfVtOVw7</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709829665246941184">15 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
 
 [![Intellij IDEA](images/intellij-idea.png)](https://www.jetbrains.com/idea/)
@@ -347,8 +350,12 @@
 	- [mkdocs.org release notes](http://www.mkdocs.org/about/release-notes)
 	- [mkdocs.org: Styling your docs](http://www.mkdocs.org/user-guide/styling-your-docs/#built-in-themes)
 - [gohugo.io](https://gohugo.io)
+- [Running Jekyll in Windows Using Docker 🌟](http://www.jamessturtevant.com/posts/Running-Jekyll-in-Windows-using-Docker/)
 
 [![jekyll static generator](images/jekyll.png)](http://formkeep.wpengine.com/?p=7)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Running <a href="https://twitter.com/jekyllrb">@jekyllrb</a> in <a href="https://twitter.com/Windows">@Windows</a> Using <a href="https://twitter.com/docker">@Docker</a> <a href="https://t.co/wgMkbTNQny">https://t.co/wgMkbTNQny</a> by <a href="https://twitter.com/Aspenwilder">@aspenwilder</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/709835065795153925">15 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![github pages](images/githubpages.png)](https://pages.github.com)
 

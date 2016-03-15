@@ -27,6 +27,9 @@
 
 [![redhat_admins_wait_ansible_puppet](images/redhat_admins_wait_ansible_puppet.png)](http://searchdatacenter.techtarget.com/tip/Red-Hat-admins-await-an-Ansible-vs-Puppet-showdown)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ansible grows headcount, international presence since Red Hat buyout - Triangle Business Journal <a href="https://t.co/bIQYSLeCfc">https://t.co/bIQYSLeCfc</a></p>&mdash; Ansible by Red Hat (@ansible) <a href="https://twitter.com/ansible/status/709811512995659776">15 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Ansible
 - [docs.ansible.com 🌟🌟🌟🌟](http://docs.ansible.com)
 - [releases.ansible.com](http://releases.ansible.com)
@@ -62,6 +65,10 @@
 - [F5 Deployment Automation Demo with Ansible](https://www2.wwt.com/f5-deployment-automation-demo-with-ansible/)
 - [Enabling DevOps Approach with Cisco NX-OS and Ansible](http://blogs.cisco.com/datacenter/devops)
 - [Deploying a Mesos based visual effects studios with Ansible](https://www.ansible.com/ansible-mesos-visual-effects)
+- [Learning DevOps: Automated setup and cloud VM provisioning with Ansible](http://techbeacon.com/learning-devops-automated-setup-cloud-vm-provisioning-ansible)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/ansible">@ansible</a> is the gateway drug to <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>. <a href="https://t.co/PlURr51Qio">https://t.co/PlURr51Qio</a> <a href="https://twitter.com/TechBeacon">@techbeacon</a></p>&mdash; Steven A. Lowe (@StevenALowe) <a href="https://twitter.com/StevenALowe/status/709795988198825985">15 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Ansible on Twitter
 - [twitter.com/ansible](https://twitter.com/ansible)

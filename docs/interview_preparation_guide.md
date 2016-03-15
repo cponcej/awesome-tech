@@ -6,6 +6,9 @@
 
 <!-- /MarkdownTOC -->
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Honest tech recruiter. <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a><br><br>h/t <a href="https://twitter.com/ThePracticalDev">@ThePracticalDev</a> <a href="https://t.co/HWqelL1sz4">pic.twitter.com/HWqelL1sz4</a></p>&mdash; Randy Olson (@randal_olson) <a href="https://twitter.com/randal_olson/status/708661402618228738">12 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
