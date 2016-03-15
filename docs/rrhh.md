@@ -125,6 +125,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Hay psicópatas en cualquier sitio. Interesante video: Protegerse de los Psicópatas (Capítulo REDES 436) <a href="https://t.co/KtRsUElMl2">https://t.co/KtRsUElMl2</a> vía <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Abril Lech♡ (@Abril7) <a href="https://twitter.com/Abril7/status/605461702340149248">1 de junio de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![surf_sponsors.png](images/surf_sponsors.png)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="pt" dir="ltr">Recursos humanos - Corto sobre mobbing. <a href="https://twitter.com/hashtag/RRHH?src=hash">#RRHH</a> <a href="https://twitter.com/hashtag/EMPLEO?src=hash">#EMPLEO</a> <a href="https://twitter.com/hashtag/TRABAJO?src=hash">#TRABAJO</a> <a href="https://twitter.com/hashtag/CV?src=hash">#CV</a> <a href="https://twitter.com/hashtag/LEGALES?src=hash">#LEGALES</a> <a href="https://t.co/wowq6AULrE">https://t.co/wowq6AULrE</a></p>&mdash; MOTTECLA (@ClaudiaMottet) <a href="https://twitter.com/ClaudiaMottet/status/693207648846663681">29 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
