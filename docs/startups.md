@@ -130,7 +130,7 @@
 
 [![pablito_alojamiento_uk](images/pablito_alojamiento_uk.png)](http://bristolenos.com)
 
-[![destinoreinounido](images/destinoreinounido.png)](https://twitter.com/destino_uk)
+[![destinoreinounido](images/destinoreinounido.png)](http://destinoreinounido.com)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">«Ir y quedarse». Artículo del académico <a href="https://twitter.com/amunozmolina">@amunozmolina</a> en <a href="https://twitter.com/babelia_elpais">@babelia_elpais</a> | <a href="https://t.co/HATYoW3QPv">https://t.co/HATYoW3QPv</a></p>&mdash; RAE (@RAEinforma) <a href="https://twitter.com/RAEinforma/status/708741921196417024">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
