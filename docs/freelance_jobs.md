@@ -18,9 +18,11 @@
 	- [toptal.com](http://www.toptal.com/)
 	- [elance.com](https://www.elance.com/)
 	- [freelancers.net](http://www.freelancers.net/)
-	- [guru.com](http://www.guru.com/)
+	- [guru.com 🌟🌟](http://www.guru.com/)
 	- [craigslist.com](http://craigslist.com)
 - [huffingtonpost.com: 10 Best Freelance Sites To Find Jobs](http://www.huffingtonpost.com/larry-alton/10-best-freelance-sites-t_b_7445126.html)
+
+[![guru_com](images/guru_com.png)](http://www.guru.com/)
 
 ## Trabajos Freelance
 - [computerhoy.com: Las 10 mejores webs donde conseguir trabajo como freelance](http://computerhoy.com/listas/internet/8-mejores-webs-donde-conseguir-trabajo-como-freelance-8742)
