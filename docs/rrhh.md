@@ -62,7 +62,7 @@
 - [¿Qué dificultad tienen las distintas carreras universitarias según los propios estudiantes?](http://www.dudasbecasmec.com/2016/02/que-dificultad-tienen-las-distintas.html)
 - [forbes.es: Antes de aceptar una oferta de empleo, piensa en estas seis cosas](http://www.forbes.es/actualizacion/5381/antes-de-aceptar-una-oferta-de-empleo-piensa-en-estas-seis-cosas)
 - [La sombra de las entrevistas de trabajo es alargada 🌟](http://yoriento.com/2010/03/la-sombra-de-las-entrevistas-de-trabajo-es-alargada-685.html/)
-- [Las preguntas ilegales en una entrevista de trabajo, ¡combátelas! 🌟](http://blog.jobandtalent.com/preguntas-ilegales-entrevista-trabajo-combatelas/)
+- [Las preguntas ilegales en una entrevista de trabajo, ¡combátelas!](http://blog.jobandtalent.com/preguntas-ilegales-entrevista-trabajo-combatelas/)
 - [30 preguntas para hacer y evitar en una entrevista de trabajo 🌟](http://www.forbes.com.mx/30-preguntas-para-hacer-y-evitar-en-una-entrevista-de-trabajo/)
 - [Cómo lidiar con las malas referencias](http://es.wikihow.com/lidiar-con-las-malas-referencias)
     - [Mi antiguo jefe habla mal de mí](http://www.cnnexpansion.com/mi-carrera/2009/12/18/mi-antiguo-jefe-habla-mal-de-mi)
