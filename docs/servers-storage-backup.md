@@ -46,6 +46,7 @@
 - [HP releases new servers and storage for SMEs](http://www.itwire.com/business-it-news/hardware-and-storage/67312-hp-releases-new-servers-and-storage-for-smes)
 - [HP Intros New StoreVirtual-Based Hyper-Converged Infrastructure Appliance](http://www.crn.com/news/storage/300077656/hp-intros-new-storevirtual-based-hyper-converged-infrastructure-appliance.htm)
 - [HP’s hyper-converged portfolio grows: meet the CS250-HC](http://www.bitcon.be/?p=3093)
+- [HPE launches midmarket hyperconverged system, bets on UI, integration](http://www.zdnet.com/article/hpe-launches-midmarket-hyperconverged-system-bets-on-ui-integration/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sb7nfmf4vVQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -61,6 +62,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MpUm2sWuQ0Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">HPE launches midmarket hyperconverged system, bets on UI, integration <a href="https://t.co/XwfsrawAPL">https://t.co/XwfsrawAPL</a> by <a href="https://twitter.com/ldignan">@ldignan</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/709706982836469761">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## RAID disks
 - [Practical RAID Choices for Spindle Based Arrays](http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)
