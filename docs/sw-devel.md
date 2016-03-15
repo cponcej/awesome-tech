@@ -438,6 +438,7 @@
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 - [selenium 2.49.0 released: Python bindings for Selenium](https://pypi.python.org/pypi/selenium/2.49.0)
 - [slideshare: Selenium Tips & Tricks](http://www.slideshare.net/tourdedave/selenium-tips-tricks)
+- [10 Tips For Faster Selenium Scripts](http://www.beacon.by/test-automation-for-manual-testers/10-tips-for-faster-selenium-scripts)
 
 #### Selenium on Twitter
 - [twitter.com/SeleniumHQ](https://twitter.com/SeleniumHQ)
