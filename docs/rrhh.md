@@ -145,6 +145,21 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/8HUAxF0dQgs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X-36-F4e9-w?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/YBsXGluewLs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mientras tanto, en una manifestación de Informáticos... <a href="http://t.co/V1SnNsGbNX">pic.twitter.com/V1SnNsGbNX</a></p>&mdash; El Amigo Informático (@E1Am1g01nf0rma1) <a href="https://twitter.com/E1Am1g01nf0rma1/status/621432877385928704">15 de julio de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
