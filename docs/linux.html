@@ -1,0 +1,1758 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>body {
+  width: 45em;
+  border: 1px solid #ddd;
+  outline: 1300px solid #fff;
+  margin: 16px auto;
+}
+
+body .markdown-body
+{
+  padding: 30px;
+}
+
+@font-face {
+  font-family: fontawesome-mini;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+@font-face {
+  font-family: octicons-anchor;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+.markdown-body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body b,
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body sub,
+.markdown-body sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+.markdown-body sup {
+  top: -0.5em;
+}
+.markdown-body sub {
+  bottom: -0.25em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body .codehilitetable {
+  border: 0;
+  border-spacing: 0;
+}
+
+.markdown-body .codehilitetable tr {
+  border: 0;
+}
+
+.markdown-body .codehilitetable pre,
+.markdown-body .codehilitetable div.codehilite {
+  margin: 0;
+}
+
+.markdown-body .linenos,
+.markdown-body .code,
+.markdown-body .codehilitetable td {
+  border: 0;
+  padding: 0;
+}
+
+.markdown-body td:not(.linenos) .linenodiv {
+  padding: 0 !important;
+}
+
+.markdown-body .code {
+  width: 100%;
+}
+
+.markdown-body .linenos div pre,
+.markdown-body .linenodiv pre,
+.markdown-body .linenodiv {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.markdown-body .code div pre,
+.markdown-body .code div {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+}
+
+.markdown-body a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before,
+.markdown-body hr:after {
+  display: table;
+  content: " ";
+}
+
+.markdown-body hr:after {
+  clear: both;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #e7e7e7;
+  background-image: -moz-linear-gradient(#fefefe, #e7e7e7);
+  background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);
+  background-image: linear-gradient(#fefefe, #e7e7e7);
+  background-repeat: repeat-x;
+  border-radius: 2px;
+  border: 1px solid #cfcfcf;
+  color: #000;
+  padding: 3px 5px;
+  line-height: 10px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  display: inline-block;
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body .headeranchor-link {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  padding-right: 6px;
+  padding-left: 30px;
+  margin-left: -30px;
+}
+
+.markdown-body .headeranchor-link:focus {
+  outline: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.markdown-body h1 .headeranchor,
+.markdown-body h2 .headeranchor,
+.markdown-body h3 .headeranchor,
+.markdown-body h4 .headeranchor,
+.markdown-body h5 .headeranchor,
+.markdown-body h6 .headeranchor {
+  display: none;
+  color: #000;
+  vertical-align: middle;
+}
+
+.markdown-body h1:hover .headeranchor-link,
+.markdown-body h2:hover .headeranchor-link,
+.markdown-body h3:hover .headeranchor-link,
+.markdown-body h4:hover .headeranchor-link,
+.markdown-body h5:hover .headeranchor-link,
+.markdown-body h6:hover .headeranchor-link {
+  height: 1em;
+  padding-left: 8px;
+  margin-left: -30px;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .headeranchor-link .headeranchor,
+.markdown-body h2:hover .headeranchor-link .headeranchor,
+.markdown-body h3:hover .headeranchor-link .headeranchor,
+.markdown-body h4:hover .headeranchor-link .headeranchor,
+.markdown-body h5:hover .headeranchor-link .headeranchor,
+.markdown-body h6:hover .headeranchor-link .headeranchor {
+  display: inline-block;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre,
+.markdown-body .admonition {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body code,
+.markdown-body samp {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .codehilite {
+  margin-bottom: 16px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .codehilite pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+/* Admonition */
+.markdown-body .admonition {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  border-left: 6px solid #333;
+  padding: 10px 10px 10px 30px;
+}
+
+.markdown-body .admonition table {
+  color: #333;
+}
+
+.markdown-body .admonition p {
+  padding: 0;
+}
+
+.markdown-body .admonition-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.markdown-body .admonition>.admonition-title {
+  color: #333;
+}
+
+.markdown-body .attention>.admonition-title {
+  color: #a6d796;
+}
+
+.markdown-body .caution>.admonition-title {
+  color: #d7a796;
+}
+
+.markdown-body .hint>.admonition-title {
+  color: #96c6d7;
+}
+
+.markdown-body .danger>.admonition-title {
+  color: #c25f77;
+}
+
+.markdown-body .question>.admonition-title {
+  color: #96a6d7;
+}
+
+.markdown-body .note>.admonition-title {
+  color: #d7c896;
+}
+
+.markdown-body .admonition:before,
+.markdown-body .attention:before,
+.markdown-body .caution:before,
+.markdown-body .hint:before,
+.markdown-body .danger:before,
+.markdown-body .question:before,
+.markdown-body .note:before {
+  font: normal normal 16px fontawesome-mini;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.5;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.markdown-body .admonition:before {
+  content: "\f056\00a0";
+  color: 333;
+}
+
+.markdown-body .attention:before {
+  content: "\f058\00a0";
+  color: #a6d796;
+}
+
+.markdown-body .caution:before {
+  content: "\f06a\00a0";
+  color: #d7a796;
+}
+
+.markdown-body .hint:before {
+  content: "\f05a\00a0";
+  color: #96c6d7;
+}
+
+.markdown-body .danger:before {
+  content: "\f057\00a0";
+  color: #c25f77;
+}
+
+.markdown-body .question:before {
+  content: "\f059\00a0";
+  color: #96a6d7;
+}
+
+.markdown-body .note:before {
+  content: "\f040\00a0";
+  color: #d7c896;
+}
+
+.markdown-body .admonition::after {
+  content: normal;
+}
+
+.markdown-body .attention {
+  border-left: 6px solid #a6d796;
+}
+
+.markdown-body .caution {
+  border-left: 6px solid #d7a796;
+}
+
+.markdown-body .hint {
+  border-left: 6px solid #96c6d7;
+}
+
+.markdown-body .danger {
+  border-left: 6px solid #c25f77;
+}
+
+.markdown-body .question {
+  border-left: 6px solid #96a6d7;
+}
+
+.markdown-body .note {
+  border-left: 6px solid #d7c896;
+}
+
+.markdown-body .admonition>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body .admonition>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* progress bar*/
+.markdown-body .progress {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+  height: 24px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #ededed;
+  position: relative;
+  box-shadow: inset -1px 1px 3px rgba(0, 0, 0, .1);
+}
+
+.markdown-body .progress-label {
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  width: 100%; margin: 0;
+  line-height: 24px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fefefe, -1px -1px 0 #fefefe, -1px 1px 0 #fefefe, 1px -1px 0 #fefefe, 0 1px 0 #fefefe, 0 -1px 0 #fefefe, 1px 0 0 #fefefe, -1px 0 0 #fefefe, 1px 1px 2px #000;
+  -webkit-font-smoothing: antialiased !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.markdown-body .progress-bar {
+  height: 24px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #96c6d7;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .5), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background-size: 30px 30px;
+  background-image: -webkit-linear-gradient(
+    135deg, rgba(255, 255, 255, .4) 27%,
+    transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%,
+    transparent 77%, transparent
+  );
+  background-image: -moz-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -ms-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -o-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+}
+
+.markdown-body .progress-100plus .progress-bar {
+  background-color: #a6d796;
+}
+
+.markdown-body .progress-80plus .progress-bar {
+  background-color: #c6d796;
+}
+
+.markdown-body .progress-60plus .progress-bar {
+  background-color: #d7c896;
+}
+
+.markdown-body .progress-40plus .progress-bar {
+  background-color: #d7a796;
+}
+
+.markdown-body .progress-20plus .progress-bar {
+  background-color: #d796a6;
+}
+
+.markdown-body .progress-0plus .progress-bar {
+  background-color: #c25f77;
+}
+
+.markdown-body .candystripe-animate .progress-bar{
+  -webkit-animation: animate-stripes 3s linear infinite;
+  -moz-animation: animate-stripes 3s linear infinite;
+  animation: animate-stripes 3s linear infinite;
+}
+
+@-webkit-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@-moz-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+.markdown-body .gloss .progress-bar {
+  box-shadow:
+    inset 0 4px 12px rgba(255, 255, 255, .7),
+    inset 0 -12px 0 rgba(0, 0, 0, .05);
+}
+
+/* Multimarkdown Critic Blocks */
+.markdown-body .critic_mark {
+  background: #ff0;
+}
+
+.markdown-body .critic_delete {
+  color: #c82829;
+  text-decoration: line-through;
+}
+
+.markdown-body .critic_insert {
+  color: #718c00 ;
+  text-decoration: underline;
+}
+
+.markdown-body .critic_comment {
+  color: #8e908c;
+  font-style: italic;
+}
+
+.markdown-body .headeranchor {
+  font: normal normal 16px octicons-anchor;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.headeranchor:before {
+  content: '\f05c';
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
+/* Media */
+@media only screen and (min-width: 480px) {
+  .markdown-body {
+    font-size:14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .markdown-body {
+    font-size:16px;
+  }
+}
+
+@media print {
+  .markdown-body * {
+    background: transparent !important;
+    color: black !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  .markdown-body {
+    font-size:12pt;
+    max-width:100%;
+    outline:none;
+    border: 0;
+  }
+
+  .markdown-body a,
+  .markdown-body a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-body .headeranchor-link {
+    display: none;
+  }
+
+  .markdown-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-body .ir a:after,
+  .markdown-body a[href^="javascript:"]:after,
+  .markdown-body a[href^="#"]:after {
+    content: "";
+  }
+
+  .markdown-body pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .markdown-body pre,
+  .markdown-body blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  .markdown-body .progress,
+  .markdown-body .progress-bar {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .markdown-body .progress {
+    border: 1px solid #ddd;
+  }
+
+  .markdown-body .progress-bar {
+    height: 22px;
+    border-right: 1px solid #ddd;
+  }
+
+  .markdown-body tr,
+  .markdown-body img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-body img {
+    max-width: 100% !important;
+  }
+
+  .markdown-body p,
+  .markdown-body h2,
+  .markdown-body h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .markdown-body h2,
+  .markdown-body h3 {
+    page-break-after: avoid;
+  }
+}
+</style><title>linux</title></head><body><article class="markdown-body"><p><strong>Table of Contents</strong><br />
+<!-- MarkdownTOC --></p>
+<ul>
+<li><a href="#sysadmin-blogs">Sysadmin Blogs</a></li>
+<li><a href="#sysadmin-forums">Sysadmin Forums</a></li>
+<li><a href="#linux">Linux</a><ul>
+<li><a href="#linux-and-foss-blogs-and-forums">Linux and FOSS Blogs and Forums</a><ul>
+<li><a href="#best-linux-blogs">Best Linux Blogs</a></li>
+<li><a href="#alternatives">Alternatives</a></li>
+<li><a href="#spanish-linux-blogs">Spanish Linux Blogs</a></li>
+</ul>
+</li>
+<li><a href="#foss-youtube-channels">FOSS youtube channels</a></li>
+<li><a href="#linux-on-twitter">Linux on Twitter</a></li>
+<li><a href="#linux-in-2016">Linux in 2016</a><ul>
+<li><a href="#php-7">PHP 7</a></li>
+</ul>
+</li>
+<li><a href="#linux-web-tools">Linux web tools</a></li>
+<li><a href="#bashhub-bash-history-in-the-cloud">BashHub Bash History in the Cloud</a></li>
+<li><a href="#linux-storage">Linux storage</a><ul>
+<li><a href="#linux-lvm-logical-volume-management-and-filesystems">Linux LVM Logical Volume Management and FileSystems</a></li>
+</ul>
+</li>
+<li><a href="#linux-processes">Linux processes</a></li>
+<li><a href="#linux-user-accounts">Linux user accounts</a></li>
+<li><a href="#linux-backups">Linux backups</a></li>
+<li><a href="#package-management">Package Management</a><ul>
+<li><a href="#downgrade-or-rollback-updates">Downgrade or Rollback Updates</a></li>
+</ul>
+</li>
+<li><a href="#man-pages-on-steroids-with-examples">man pages on steroids with examples</a></li>
+<li><a href="#linux-bash">Linux bash</a></li>
+<li><a href="#linux-tips">Linux Tips</a></li>
+<li><a href="#command-line-text-manipulation-tools">Command line text manipulation tools</a></li>
+<li><a href="#linux-terminals">Linux Terminals</a><ul>
+<li><a href="#terminal-multiplexers">Terminal Multiplexers</a></li>
+</ul>
+</li>
+<li><a href="#linux-virtualization">Linux Virtualization</a></li>
+<li><a href="#foss-software">FOSS Software</a></li>
+<li><a href="#linux-performance">Linux Performance</a><ul>
+<li><a href="#htop">htop</a></li>
+<li><a href="#glances">Glances</a></li>
+</ul>
+</li>
+<li><a href="#linux-networking">Linux Networking</a><ul>
+<li><a href="#networking-foss-tools">Networking FOSS Tools</a></li>
+<li><a href="#networking-cli-and-settings">Networking CLI and settings</a></li>
+</ul>
+</li>
+<li><a href="#linux-security">Linux Security</a><ul>
+<li><a href="#linux-ssh">Linux SSH</a></li>
+<li><a href="#rsync">Rsync</a></li>
+<li><a href="#iptables">iptables</a></li>
+<li><a href="#selinux-apparmor-and-openscap">SELinux, AppArmor and OpenSCAP</a></li>
+</ul>
+</li>
+<li><a href="#vim-and-emacs">Vim and Emacs</a><ul>
+<li><a href="#vim">Vim</a></li>
+<li><a href="#emacs">Emacs</a><ul>
+<li><a href="#jed">Jed</a></li>
+</ul>
+</li>
+<li><a href="#python-idle">Python Idle</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#ubuntu">Ubuntu</a></li>
+<li><a href="#archlinux">ArchLinux</a></li>
+<li><a href="#linux-interview-questions">Linux interview questions</a></li>
+<li><a href="#virtualbox">VirtualBox</a></li>
+<li><a href="#apple-os-x">Apple OS X</a></li>
+</ul>
+<!-- /MarkdownTOC -->
+
+<p><a href="http://w3techs.com/technologies/details/os-linux/all/all"><img alt="The most popular Linux distribution" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/most_popular_linux_distributions.png" /></a></p>
+<p><img alt="sysadmin no trabajar demasiado" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/sysadmin_no_trabajar_demasiado.png" /></p>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Consider single points of failure and how to deal with them should they fail. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/life?src=hash">#life</a> <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707865797947842561">marzo 10, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><a href="https://en.wikipedia.org/wiki/Linux_Symposium"><img alt="t-shirt size" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/tshirt_size.jpg" /></a></p>
+<h1 id="sysadmin-blogs"><a name="user-content-sysadmin-blogs" href="#sysadmin-blogs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Sysadmin Blogs</h1>
+<ul>
+<li><a href="http://www.gfi.com/blog/the-79-best-tech-blogs-for-sysadmins-to-follow/">The 79 Best Tech Blogs for sysadmins to follow</a></li>
+<li><a href="https://lonesysadmin.net">The Lone SysAdmin</a><ul>
+<li><a href="https://lonesysadmin.net/2015/08/13/interesting-dell-idrac-tricks/">Interesting Dell iDRAC Tricks</a></li>
+</ul>
+</li>
+<li><a href="http://www.standalone-sysadmin.com">Standalone Sysadmin</a> A blog for IT Admins who do everything by an IT Admin who does everything</li>
+<li><a href="http://planetsysadmin.com">planetsysadmin.com</a></li>
+<li><a href="http://systemadmin.es/">systemadmin.es 🌟</a></li>
+<li><a href="http://www.elmundoenbits.com">elmundoenbits.com</a></li>
+<li><a href="http://ernestogamez.es">Blog de un sysadmin</a></li>
+</ul>
+<h1 id="sysadmin-forums"><a name="user-content-sysadmin-forums" href="#sysadmin-forums" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Sysadmin Forums</h1>
+<ul>
+<li><a href="https://www.reddit.com/r/sysadmin/">sysadmin &lsquo;subreddit&rsquo;</a><ul>
+<li><a href="https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/">Sysadmin BestOf 2015 Results</a></li>
+</ul>
+</li>
+<li><a href="https://groups.google.com/forum/#!forum/alt.sysadmin.recovery">alt.sysadmin.recovery: Getting over the trauma of system administration</a> Alt.sysadmin.recovery is for discussion by recovered and recovering sysadmins. It is a forum for mutual support and griping over idiot lusers, stupid tech support, brain dead hardware and generally how stupid this idiotic job is. Think of it as a virtual pub, where we can all go after hours and gripe about our job. Since the concept of &ldquo;after hours&rdquo; (or, for that matter, &ldquo;pubs&rdquo;) is an anathema for your average sysadmin, we have this instead. </li>
+</ul>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Life of a sysadmin :( <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/QEqEOgZaWZ">pic.twitter.com/QEqEOgZaWZ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705316661767700480">3 de marzo de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/IVdfEjIpjP">pic.twitter.com/IVdfEjIpjP</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707869367766097920">marzo 10, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">&quot;Flight&quot; (2012 film) crash scene <a href="https://t.co/Su7LxSEvHZ">https://t.co/Su7LxSEvHZ</a></p>&mdash; Cardist (@JustACardist) <a href="https://twitter.com/JustACardist/status/702357188887474176">24 de febrero de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h1 id="linux"><a name="user-content-linux" href="#linux" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux</h1>
+<ul>
+<li><a href="https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career">7 Steps to Start Your Linux SysAdmin Career</a></li>
+<li><a href="https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj">medium.com: I Moved to Linux and It’s Even Better Than I Expected</a></li>
+<li><a href="http://www.datamation.com/open-source/best-linux-distros-for-newcomers.html">Best Linux Distros For Newcomers</a></li>
+<li><a href="http://www.theworldin.com/article/12077/what-next-linux">Predictably, it is hard to make money from something that is free. That includes Linux</a> Only one Linux company has made it big: Red Hat, which is expected to take about  $2 billion in its 2015 financial year, mostly by selling support services to users of the operating system and other open-source programs. The main beneficiaries of such software have been operators of huge data centres, such as Amazon, Facebook and Google, which wouldn’t be able to offer cheap cloud-computing services if they had to pay for the software.</li>
+</ul>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/XMm0HsmOTFI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Microsoft isn&#39;t evil, they just make really crappy operating systems. - Linus Torvalds</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/701060245414481920">febrero 20, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;If Microsoft ever does applications for Linux it means I&#39;ve won.&quot;<br>--Linus Torvalds<a href="https://twitter.com/nixcraft">@nixcraft</a>  <a href="https://t.co/kHMvZhNXuE">https://t.co/kHMvZhNXuE</a></p>&mdash; Pepe Roni (@polkatwitt) <a href="https://twitter.com/polkatwitt/status/706954908302450688">7 de marzo de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Breaking news: <a href="https://twitter.com/satyanadella">@satyanadella</a> and <a href="https://twitter.com/Microsoft">@Microsoft</a> Announces Windows 12. Based upon industry strenght <a href="https://twitter.com/ubuntu">@Ubuntu</a> Linux 21.04 LTS code base.</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707687944488747008">marzo 9, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><a href="https://twitter.com/nixcraft"><img alt="Linux is user friendly" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/tux_friendly.png" /></a></p>
+<h2 id="linux-and-foss-blogs-and-forums"><a name="user-content-linux-and-foss-blogs-and-forums" href="#linux-and-foss-blogs-and-forums" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux and FOSS Blogs and Forums</h2>
+<h3 id="best-linux-blogs"><a name="user-content-best-linux-blogs" href="#best-linux-blogs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Best Linux Blogs</h3>
+<ul>
+<li><a href="http://www.tecmint.com/">Tecmint.com Linux Howto&rsquo;s Guide  🌟🌟🌟🌟🌟</a><ul>
+<li><a href="http://www.tecmint.com/best-linux-distributions/">Linux Distributions 🌟🌟🌟</a></li>
+</ul>
+</li>
+<li><a href="http://www.cyberciti.biz/">nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog  🌟🌟🌟🌟🌟</a></li>
+<li><a href="http://sysadmincasts.com">Sysadmincasts.com  🌟🌟🌟</a><ul>
+<li><a href="https://sysadmincasts.com/episode-guide">Episode Guide</a></li>
+</ul>
+</li>
+<li><a href="http://commandlinefu.com/">commandlinefu.com  🌟🌟🌟</a></li>
+<li><a href="https://www.youtube.com/channel/UCmzTzKZT3yWaIiFvEyIHrOg">Linux Skill Youtube Channel</a></li>
+<li><a href="http://www.linuxnix.com">linuxnix.com 🌟🌟🌟</a></li>
+<li><a href="http://www.linuxhomenetworking.com/">Linux Home Networking | Tutorials and Forums</a></li>
+<li><a href="https://www.reddit.com/r/linuxadmin">Linuxadmin &lsquo;subreddit&rsquo;</a></li>
+<li><a href="https://www.howtoforge.com/">HowtoForge Linux Tutorials</a></li>
+<li><a href="http://linuxpitstop.com/">LinuxPitstop: Linux Tips, Techniques, HowTo&rsquo;s &amp; Open Source News</a></li>
+<li><a href="http://tecadmin.net">tecadmin.net</a></li>
+</ul>
+<p><a href="http://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/"><img alt="tecmint logo" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/tecmint-logo.png" /></a></p>
+<h3 id="alternatives"><a name="user-content-alternatives" href="#alternatives" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Alternatives</h3>
+<ul>
+<li><a href="http://fossforce.com/">FOSS Force</a></li>
+<li><a href="https://opensource.com/">opensource.com</a></li>
+<li><a href="http://www.linux.com/">Linux.com</a></li>
+<li><a href="http://www.linuxfoundation.org/">The Linux Foundation</a></li>
+<li><a href="http://www.linuxjournal.com">LinuxJournal</a></li>
+<li><a href="http://www.linuxtoday.com/">linuxtoday.com</a></li>
+<li><a href="http://xmodulo.com">Xmodulo - Linux FAQs, tips and tutorials</a></li>
+<li><a href="http://www.mylinuxsoftware.com/">MyLinuxSoftware.com: A Linux Software Directory for GUI and Console Apps</a></li>
+<li><a href="http://unixetc.co.uk/">unixetc.co.uk</a></li>
+<li><a href="http://lwn.net/">LWN.net</a></li>
+<li><a href="http://www.linux-tutorial.info/">Linux-tutorial.info</a></li>
+<li><a href="https://lonesysadmin.net/">The Lone Sysadmin</a></li>
+<li><a href="http://linux.101hacks.com/">Linux 101 Hacks</a></li>
+<li><a href="http://linoxide.com/">Linoxide.com</a></li>
+<li><a href="http://www.linuxlinks.com">LinuxLinks.com</a></li>
+<li><a href="http://www.thegeekstuff.com/">The Geek Stuff | Linux | DB | Open Source | Web</a></li>
+<li><a href="https://cathcam.wordpress.com/">cathcam.wordpress.com - blogger</a></li>
+<li><a href="http://tech.paulcz.net/#blog">tech.paulcz.net</a></li>
+<li><a href="http://bencane.com/">Benjamin Cane</a> A Systems Architect writing about Linux Systems Administration</li>
+<li><a href="https://chruz.wordpress.com">chruz.wordpress.com</a> Linux, OpenStack &amp; Provisioning</li>
+<li><a href="http://www.climagic.org">climagic.org</a></li>
+<li><a href="http://unixmages.com">unixmages.com</a> Unix Mages started in the summer of 2005 with the purpose of teaching Unix and Linux by using stories of wizards, mages, magic, and spells.</li>
+</ul>
+<h3 id="spanish-linux-blogs"><a name="user-content-spanish-linux-blogs" href="#spanish-linux-blogs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Spanish Linux Blogs</h3>
+<ul>
+<li><a href="http://systemadmin.es/">systemadmin.es 🌟</a></li>
+<li><a href="http://www.muylinux.com/">muylinux.com 🌟</a></li>
+<li><a href="http://www.linuxadictos.com">linuxadictos.com 🌟</a></li>
+<li><a href="http://systemadmin.es/">systemadmin.es 🌟</a></li>
+</ul>
+<p><a href="http://www.cyberciti.biz/"><img alt="nixcraft logo" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/nixcraft_logo.jpg" /></a></p>
+<h2 id="foss-youtube-channels"><a name="user-content-foss-youtube-channels" href="#foss-youtube-channels" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>FOSS youtube channels</h2>
+<ul>
+<li><a href="https://sysadmincasts.com/episode-guide">Sysadmincasts.com - Episode Guide</a></li>
+<li><a href="https://www.youtube.com/channel/UC4Y3JZq09X-xMYVbXH8xpZA">SourceForge</a></li>
+<li><a href="https://www.youtube.com/user/nixcraftcom">Linux/Unix Video Tutorials - nixCraft</a></li>
+<li><a href="https://www.youtube.com/channel/UCkiRkzdLvoGBtW_YArytJlQ">TecMint.com</a></li>
+</ul>
+<h2 id="linux-on-twitter"><a name="user-content-linux-on-twitter" href="#linux-on-twitter" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux on Twitter</h2>
+<ul>
+<li><a href="https://twitter.com/nixcraft">@nixcraft 🌟🌟🌟🌟🌟</a></li>
+<li><a href="https://twitter.com/UnixToolTip">UnixToolTip 🌟</a></li>
+<li><a href="https://twitter.com/climagic">Command Line Magic 🌟🌟🌟🌟</a></li>
+<li>Commandlinefu:<ul>
+<li><a href="http://twitter.com/commandlinefu">commandlinefu</a></li>
+<li><a href="http://twitter.com/commandlinefu3">commandlinefu3</a></li>
+<li><a href="http://twitter.com/commandlinefu10">commandlinefu10 🌟🌟🌟🌟🌟</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/oss_sh">Shell OSS</a></li>
+<li><a href="https://twitter.com/tecmint">Tecmint 🌟🌟🌟🌟🌟</a></li>
+<li><a href="https://twitter.com/opensourceway">Open Source Way 🌟</a> Discover an open source world. Tweets from <a href="http://opensource.com">http://opensource.com</a></li>
+<li><a href="https://twitter.com/SysAdmHowto">SysAdmHowto 🌟</a></li>
+<li><a href="https://twitter.com/linuxtutorials">twitter.com/linuxtutorials 🌟</a></li>
+<li><a href="https://twitter.com/RegexTip">RegexTip</a></li>
+<li><a href="https://twitter.com/github">github</a></li>
+<li><a href="twitter.com/linuxfoundation">twitter.com/linuxfoundation</a></li>
+<li><a href="https://twitter.com/LinuxDotCom">twitter.com/LinuxDotCom</a></li>
+<li><a href="https://twitter.com/linuxtoday">twitter.com/linuxtoday</a></li>
+<li><a href="https://twitter.com/LinuxDotCom">twitter.com/LinuxDotCom</a></li>
+<li><a href="https://twitter.com/LinuxUserMag">twitter.com/LinuxUserMag</a></li>
+<li><a href="https://twitter.com/Linux"><a href="https://twitter.com/Linux"><a href="https://twitter.com/Linux">https://twitter.com/Linux</a></a></a></li>
+</ul>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oBZ1-E_NcMg" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br></p>
+<h2 id="linux-in-2016"><a name="user-content-linux-in-2016" href="#linux-in-2016" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux in 2016</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/">Linux and Unix SysAdmins New Year’s Resolutions (2016)</a></li>
+<li><a href="https://certsimple.com/blog/deploy-node-on-linux">certsimple.com: How to deploy your node app on Linux, 2016 edition</a></li>
+<li><a href="http://www.cyberciti.biz/faq/command-to-show-linux-version/">Linux Command: Show Linux Version</a></li>
+</ul>
+<h3 id="php-7"><a name="user-content-php-7" href="#php-7" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>PHP 7</h3>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/ubuntu-linux-14-04-install-php7-using-apt-get-command/">nixCraft: How to install PHP 7 on Ubuntu Linux 14.04 LTS 🌟</a></li>
+</ul>
+<h2 id="linux-web-tools"><a name="user-content-linux-web-tools" href="#linux-web-tools" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux web tools</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/curl-command-resume-broken-download/">curl Command Resume Broken Download</a></li>
+<li><a href="http://www.cyberciti.biz/tips/wget-resume-broken-download.html">Wget: Resume Broken Download</a></li>
+<li><a href="http://goaccess.io/">GoAccess real time web log analyzer</a></li>
+<li><a href="http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/">A curl cheat sheet</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-unix-curl-command-with-proxy-username-password-http-options/">How to use curl command with proxy username and password on Linux or Unix</a></li>
+<li><a href="https://dzone.com/articles/quickly-share-a-folder-using-http-on-a-linux-host">DZone: Quickly Share a Folder Using HTTP On a Linux Host</a></li>
+<li><a href="http://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/">How to Optimize and Compress JPEG or PNG Images in Linux Commandline</a></li>
+</ul>
+<h2 id="bashhub-bash-history-in-the-cloud"><a name="user-content-bashhub-bash-history-in-the-cloud" href="#bashhub-bash-history-in-the-cloud" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>BashHub Bash History in the Cloud</h2>
+<ul>
+<li><a href="https://bashhub.com/">BashHub</a></li>
+<li><a href="https://twitter.com/bashhub">twitter.com/bashhub</a></li>
+</ul>
+<h2 id="linux-storage"><a name="user-content-linux-storage" href="#linux-storage" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux storage</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/linux-checking-sas-sata-disks-behind-adaptec-raid-controllers/">Linux: Use smartctl To Check Disk Behind Adaptec RAID Controllers</a></li>
+<li><a href="http://www.cyberciti.biz/open-source/command-line-hacks/pv-command-examples/">Linux/Unix pv Command: Monitor Progress of Data Sent Via a Pipe</a></li>
+<li><a href="http://www.cyberciti.biz/hardware/linux-find-and-recover-wasted-disk-space/">agedu: Unix/Linux Command For Tracking Down Wasted Disk Space</a></li>
+<li><a href="http://www.cyberciti.biz/faq/debian-ubuntu-linux-list-scsi-devices-hosts-attributes-lsscsi-command/">Linux lsscsi: See List Of All SCSI/SATA Hard Disks and CD/DVD Drives</a></li>
+<li><a href="http://www.cyberciti.biz/faq/reload-sysctl-conf-on-linux-using-sysctl/">How to reload sysctl.conf variables on Linux without rebooting the server</a> </li>
+</ul>
+<h3 id="linux-lvm-logical-volume-management-and-filesystems"><a name="user-content-linux-lvm-logical-volume-management-and-filesystems" href="#linux-lvm-logical-volume-management-and-filesystems" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux LVM Logical Volume Management and FileSystems</h3>
+<ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/servers-storage-backup.md#linux-lvm-logical-volume-management-and-filesystems">Linux LVM Logical Volume Management and FileSystems</a></li>
+</ul>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;{print $4}&#39; apache_log|sort -n|cut -c1-15|uniq -c|awk &#39;{b=&quot;&quot;;for(i=0;i&lt;$1/10;i++){b=b&quot;#&quot;}; print $0 &quot; &quot; b;}&#39; # Request by hour graph.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696591310266847232">febrero 8, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">du -h . | grep &quot;^[0-9\.]\+G&quot; # # Find out which of your directories(below the current directory) occupy at least 1GB of space.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696200949786767360">febrero 7, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ls -la --full-time |tr -s &quot; &quot; |cut -f6 -d &quot; &quot;|cut -c1-7 | sort | uniq -c # Make month histogram of dates of files in current directory.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/695843060119400448">febrero 6, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h2 id="linux-processes"><a name="user-content-linux-processes" href="#linux-processes" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux processes</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/what-process-has-open-linux-port/">Linux: Find Out Which Process Is Listening Upon a Port</a></li>
+<li><a href="http://www.tecmint.com/how-to-kill-a-process-in-linux/">tecmint.com: A Guide to Kill, Pkill and Killall Commands to Terminate a Process in Linux</a></li>
+<li><a href="https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes">Sysadmincasts.com: LVM Linear vs Striped Logical Volumes</a><ul>
+<li><a href="https://www.youtube.com/watch?v=nsdwScqjuCU">youtube: How To Install CentOS 6 Software RAID &amp; LVM </a></li>
+</ul>
+</li>
+<li><a href="http://unixetc.co.uk/2012/10/28/profiling-and-tracing-processes-in-linux/">unixetc.co.uk: Profiling and Tracing Processes in Linux</a></li>
+<li><a href="http://www.ibm.com/developerworks/linux/library/l-adfly/index.html">ibm.com: Use the /proc filesystem to get a handle on your system</a></li>
+<li><a href="http://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/">Linux Server See the Historical and Statistical Uptime of System With tuptime Utility</a></li>
+</ul>
+<h2 id="linux-user-accounts"><a name="user-content-linux-user-accounts" href="#linux-user-accounts" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux user accounts</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html">cyberciti.biz: Linux Find Out Last System Reboot Time and Date Command</a></li>
+</ul>
+<h2 id="linux-backups"><a name="user-content-linux-backups" href="#linux-backups" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux backups</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/tips/linux-set-io-scheduling-class-priority.html">cyberciti.biz: How To Avoid Sudden Outburst Of Backup Shell Script or Program Disk I/O on Linux</a></li>
+<li><a href="http://luckybackup.sourceforge.net/">luckybackup.sourceforge.net: is an application for data back-up and synchronization powered by the rsync tool</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-rsnapshot-backup-howto/">Debian/Ubuntu Linux Install and Configure Remote Filesystem Snapshot with rsnapshot Incremental Backup Utility</a></li>
+<li><a href="http://www.cyberciti.biz/hardware/unix-linux-basic-tape-management-commands/">15 Useful Linux and Unix Tape Managements Commands For Sysadmins</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-backup-restore-a-partition-table-with-sfdisk-command/">cyberciti.biz: Backup &amp; restore a partition table (including GPT) on Linux in case table get corrupted/modified/deleted by mistake</a></li>
+<li><a href="http://www.cyberciti.biz/cloud-computing/book-review-tarsnap-mastery-online-backup-for-the-truly-paranoid/">Book Review: Tarsnap Mastery Online Backup For the Truly Paranoid</a></li>
+<li><a href="https://github.com/bit-team/backintime">Back In Time - A simple backup tool for Linux written in Python3</a><ul>
+<li><a href="http://backintime.readthedocs.org">backintime.readthedocs.org</a></li>
+</ul>
+</li>
+<li><a href="http://www.cyberciti.biz/tips/linux-get-list-installed-software-reinstallation-restore.html">Linux Get List of Installed Software for Reinstallation / Restore All the Software Programs</a><ul>
+<li><a href="http://www.cyberciti.biz/faq/debian-ubuntu-linux-find-package-installed-updated-date/">How to find out when Debian or Ubuntu package installed or updated</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="package-management"><a name="user-content-package-management" href="#package-management" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Package Management</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/howto/question/linux/linux-rpm-cheat-sheet.php">rpm command cheat sheet for Linux</a></li>
+<li><a href="http://www.cyberciti.biz/howto/question/linux/apt-get-cheat-sheet.php">apt-get command cheat sheet for Debian Linux</a></li>
+<li><a href="http://www.cyberciti.biz/tips/linux-debian-package-management-cheat-sheet.html">Debian Linux apt-get package management cheat sheet</a></li>
+</ul>
+<h3 id="downgrade-or-rollback-updates"><a name="user-content-downgrade-or-rollback-updates" href="#downgrade-or-rollback-updates" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Downgrade or Rollback Updates</h3>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/howto-yum-downgrade-packages-on-rhel-centos-fedora-scientific-linux/">CentOS/RHEL Use yum Command To Downgrade or Rollback Updates</a></li>
+<li><a href="http://www.cyberciti.biz/howto/debian-linux/ubuntu-linux-rollback-an-apt-get-upgrade/">Rollback an apt-get upgrade if something goes wrong on Debian/Ubuntu Linux</a></li>
+</ul>
+<h2 id="man-pages-on-steroids-with-examples"><a name="user-content-man-pages-on-steroids-with-examples" href="#man-pages-on-steroids-with-examples" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>man pages on steroids with examples</h2>
+<ul>
+<li><a href="http://tldr-pages.github.io/">TLDR pages</a></li>
+<li><a href="http://bropages.org/">Bro pages</a></li>
+</ul>
+<h2 id="linux-bash"><a name="user-content-linux-bash" href="#linux-bash" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux bash</h2>
+<ul>
+<li><a href="https://bash.cyberciti.biz/">A Bash Shell Scripting Directory</a><ul>
+<li><a href="https://bash.cyberciti.biz/guide/Main_Page">bash.cyberciti.biz: Linux Shell Scripting Tutorial (LSST) v2.0</a></li>
+</ul>
+</li>
+<li><a href="http://explainshell.com">explainshell.com</a> match command-line arguments to their help text</li>
+<li><a href="http://mywiki.wooledge.org/BashFAQ">BashFAQ: BASH Frequently Asked Questions</a></li>
+<li><a href="https://wilsonericn.wordpress.com/2011/08/25/find-grep-sed-and-awk/">SlideShare: find, grep, sed, and awk</a></li>
+<li><a href="https://github.com/stephenturner/oneliners">Github: Bioinformatics one-liners. Useful bash one-liners useful for bioinformatics (and some, more generally useful)</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-list-all-environment-variables-env-command/">cyberciti.biz: List All Environment Variables Command</a></li>
+<li><a href="http://www.cyberciti.biz/faq/searching-multiple-words-string-using-grep/">cyberciti.biz: Search Multiple Words/String Pattern Using grep Command</a></li>
+<li><a href="https://ubuntulife.wordpress.com/2009/03/20/ack-grep-un-grep-mejorado-para-programadores/">ack-grep, un grep mejorado para programadores</a><ul>
+<li><a href="http://beyondgrep.com/">ack-grep</a></li>
+</ul>
+</li>
+<li><a href="http://www.ibm.com/developerworks/linux/library/l-lpic1-105-1/index.html">ibm.com: Learn Linux, 101: Customize and use the shell environment</a></li>
+<li><a href="http://www.etalabs.net/sh_tricks.html">Rich’s sh (POSIX shell) tricks</a></li>
+<li><a href="http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/">nixCraft: Learning bash scripting for beginners 🌟</a></li>
+<li><a href="www.cyberciti.biz/faq/linux-osx-bsd-unix-bash-undefine-environment-variable/">How to undefine and unset a bash environment variable on Linux or Unix</a></li>
+<li><a href="http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html">30 Handy Bash Shell Aliases For Linux/Unix/Mac OS X</a></li>
+<li><a href="http://www.cyberciti.biz/faq/bash-for-loop/">Bash For Loop Examples</a></li>
+<li><a href="http://www.cyberciti.biz/open-source/command-line-hacks/20-unix-command-line-tricks-part-i/">20 Unix Command Line Tricks – Part I 🌟</a></li>
+<li><a href="http://www.cyberciti.biz/tips/my-10-unix-command-line-mistakes.html">My 10 UNIX Command Line Mistakes</a></li>
+<li><a href="http://www.cyberciti.biz/faq/how-to-use-linux-unix-tr-command/">Understanding Linux/UNIX tr command</a></li>
+<li><a href="http://www.cyberciti.biz/faq/delete-command-from-history-linux-unix-osx-bash-shell/">How to delete a single command from history on a Linux, OS X and Unix Bash shell</a></li>
+<li><a href="http://www.cyberciti.biz/faq/hp-ux-change-systems-hostname-command/">How to change system’s hostname on HP-UX Unix system</a></li>
+<li><a href="http://www.cyberciti.biz/faq/unix-linux-bg-command-examples-usage-syntax/">Linux/Unix: bg Command Examples</a></li>
+<li><a href="http://www.cyberciti.biz/faq/unix-linux-jobs-command-examples-usage-syntax/">Linux/Unix: jobs Command Examples</a></li>
+<li><a href="http://www.cyberciti.biz/programming/color-terminal-highlighter-for-diff-files/">diff Command: Colorize Output On The Unix/Linux Command Line</a></li>
+<li><a href="http://www.cyberciti.biz/open-source/command-line-hacks/linux-run-command-as-different-user/">Linux Run Command As Another User</a></li>
+<li><a href="https://juliank.wordpress.com/2015/12/26/much-faster-incremental-apt-updates/">Much faster incremental apt updates</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-unix-convert-hex-to-decimal-number/">Linux/UNIX: Convert Hexadecimal to Decimal Number</a></li>
+<li><a href="http://www.cyberciti.biz/howto/shell-primer-configuring-your-linux-unix-osx-environment/">nixCraft - A Shell Primer: Master Your Linux, OS X, Unix Shell Environment 🌟</a></li>
+<li><a href="http://www.computerworld.com/article/3018637/open-source-tools/monkeying-around-on-the-bash-command-line-in-2016.html">Monkeying around on the bash command line in 2016</a></li>
+<li><a href="http://www.cyberciti.biz/tips/find-out-if-file-exists-with-conditional-expressions.html">Linux/UNIX: Find Out If File Exists With Conditional Expressions</a></li>
+<li><a href="http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/">Linux/UNIX Recursively Search All Files For A String 🌟</a></li>
+<li><a href="http://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/">Finding a File Containing a Particular Text String In Linux Server 🌟</a></li>
+<li><a href="http://www.cyberciti.biz/faq/argument-list-too-long-error-solution/">How To Find and Overcome Shell Command Line Length Limitations</a></li>
+<li><a href="http://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/">Linux/UNIX Recursively Search All Files For A String</a></li>
+<li><a href="http://www.cyberciti.biz/faq/howto-use-cat-command-in-unix-linux-shell-script/">HowTo: Use cat Command In Linux/UNIX</a></li>
+<li><a href="http://www.cyberciti.biz/faq/unix-linux-test-existence-of-file-in-bash/">Bash Shell: Check File Exists or Not</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-remove-user-command/">Linux: Delete/Remove User Account</a></li>
+<li><a href="http://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/">HowTo: Add Jobs To cron Under Linux or UNIX?</a></li>
+<li><a href="http://www.cyberciti.biz/faq/bash-history-repeat-substitution-command-syntax/">Bash History: Correct/Repeat The Last Command With a Substitution</a></li>
+<li><a href="http://www.computerworld.com/article/3035480/linux/9-really-odd-linux-commands.html">computerworld.com: 9 really odd linux commands</a></li>
+<li><a href="http://www.cyberciti.biz/faq/rhel-redhat-centos-7-change-hostname-command/">RHEL/Centos Linux 7: Change and Set Hostname Command</a></li>
+<li><a href="http://mrzool.cc/writing/sensible-bash/">Small &amp; opinionated selection of basic Bash configurations for an improved command-line user experience 🌟</a></li>
+</ul>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h2 id="linux-tips"><a name="user-content-linux-tips" href="#linux-tips" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux Tips</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html">nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors</a> Stop! Test Your Server Configuration Before Restarting Unix and Linux Services</li>
+</ul>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The smallest things like missing ; in Unix/Linux config file can cause greatest pain. But u can chk for syntax error <a href="https://t.co/HgYfKs7VcQ">https://t.co/HgYfKs7VcQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/703553266160766977">27 de febrero de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h2 id="command-line-text-manipulation-tools"><a name="user-content-command-line-text-manipulation-tools" href="#command-line-text-manipulation-tools" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Command line text manipulation tools</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AWK">AWK</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sed">Sed</a></li>
+<li><a href="https://code.google.com/p/pyp/">pyp: Python Power at the Prompt</a></li>
+<li><a href="https://github.com/gelisam/hawk">Hawk: Haskell text processor for the command-line</a></li>
+<li><a href="https://github.com/lukasmartinelli/hwk">Hwk: A Haskell based awk and sed alternative</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9OjHYI1AZXVGAf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EricWilson4/unix-commandline-tools" title="Unix command-line tools" target="_blank">Unix command-line tools</a> </strong> from <strong><a href="//www.slideshare.net/EricWilson4" target="_blank">Eric Wilson</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="linux-terminals"><a name="user-content-linux-terminals" href="#linux-terminals" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux Terminals</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/">15 Greatest Open Source Terminal Applications Of 2012</a></li>
+<li><a href="https://github.com/jonathanslenders/pymux">Pymux: A terminal multiplexer (like tmux) in Python</a></li>
+</ul>
+<h3 id="terminal-multiplexers"><a name="user-content-terminal-multiplexers" href="#terminal-multiplexers" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Terminal Multiplexers</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Terminal_multiplexer">wikipedia: Terminal multiplexer</a></li>
+<li><a href="http://perltricks.com/article/an-introduction-to-tmux/">An introduction to Tmux</a></li>
+<li><a href="https://tmux.github.io">tmux.github.io</a></li>
+<li><a href="http://linuxcommand.org/lc3_adv_termmux.php">linuxcommand.org Terminal Multiplexers</a></li>
+<li><a href="http://michael-prokop.at/screen/index.php3">screen</a></li>
+</ul>
+<p><a href="https://tmux.github.io/"><img alt="tmux" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/tmux.png" /></a></p>
+<h2 id="linux-virtualization"><a name="user-content-linux-virtualization" href="#linux-virtualization" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux Virtualization</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/category/virtualization/">Linux &amp; Unix Virtualization Guides</a></li>
+<li><a href="http://www.cyberciti.biz/faq/troubleshooting-kvm-virtualization-problem-with-log-files/">Troubleshooting KVM Virtualization Problem With Log Files</a></li>
+<li><a href="http://linuxpitstop.com/install-kvm-on-ubuntu-linux-15-04/">linuxpitstop.com: Install and Configure KVM (Kernel Based Virtual Machine) On Ubuntu Linux 15.04</a></li>
+</ul>
+<h2 id="foss-software"><a name="user-content-foss-software" href="#foss-software" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>FOSS Software</h2>
+<ul>
+<li><a href="http://www.cyberciti.biz/open-source/30-cool-best-open-source-softwares-of-2013/">30 Cool Open Source Software I Discovered in 2013</a></li>
+<li><a href="http://www.cyberciti.biz/tips/howto-postfix-flush-mail-queue.html">Postfix Flush the Mail Queue</a></li>
+<li><a href="https://owncloud.org/blog/owncloud-8-2-2-8-1-5-8-0-10-and-7-0-12-here-with-sharing-ldap-fixes/">ownCloud 8.2.2, 8.1.5, 8.0.10 and 7.0.12 here with Sharing, LDAP fixes</a></li>
+<li><a href="http://www.zentyal.org/">Zentyal Exchange email on Linux</a></li>
+<li><a href="http://www.cyberciti.biz/tips/open-source-project-management-software.html">Top 10 Open Source Web-Based Project Management Software</a></li>
+<li><a href="https://alternativeto.net/">alternativeto.net: A way to find alternative software, filters let you show only open source</a></li>
+<li><a href="https://github.com/jarun/Buku">Buku: cmdline bookmark manager&hellip; your mini web!</a> Buku (formerly markit) is a cmdline bookmark management utility written in Python3 and SQLite3. buku exists because of my monumental dependency on historious. I wanted the same database on my local system. However, I couldn&rsquo;t find an equally flexible cmdline solution. Hence, Buku! <ul>
+<li><a href="http://historio.us/">historious: bookmarking you can love</a> historious saves you time by helping you find webpages you saw before. Bookmark sites with a single click, then find them again by searching for any word in the content of the page! </li>
+</ul>
+</li>
+<li><a href="https://kolab.org/group-blog/2016/01/30/kolab-collabora/">GoogleApps  or Office365 replacement. Kolab + CloudSuite: It&rsquo;s collaborative all the way down</a></li>
+</ul>
+<h2 id="linux-performance"><a name="user-content-linux-performance" href="#linux-performance" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux Performance</h2>
+<ul>
+<li><a href="http://www.mylinuxsoftware.com/linux_monitoring_software.html">mylinuxsoftware.com: Linux Monitoring Software</a></li>
+<li><a href="http://www.tecmint.com/install-sysstat-in-linux/">tecmint.com: Sysstat – All-in-One System Performance and Usage Activity Monitoring Tool For Linux</a></li>
+<li><a href="http://www.tecmint.com/linux-performance-monitoring-and-file-system-statistics-reports/">tecmint.com: How to Produce and Deliver System Activity Reports Using Linux Toolsets</a></li>
+<li><a href="http://www.tecmint.com/linux-performance-monitoring-with-vmstat-and-iostat-commands/">tecmint.com: Linux Performance Monitoring with Vmstat and Iostat Commands</a></li>
+<li><a href="http://www.tecmint.com/sysstat-commands-to-monitor-linux/">tecmint.com: 20 Useful Commands of ‘Sysstat’ Utilities (mpstat, pidstat, iostat and sar) for Linux Performance Monitoring</a></li>
+<li><a href="http://www.tecmint.com/check-memory-usage-in-linux/">tecmint.com: 10 ‘free’ Commands to Check Memory Usage in Linux</a></li>
+<li><a href="http://www.linuxjournal.com/content/slow-system-iotop-your-friend">Slow System? iotop Is Your Friend</a></li>
+<li><a href="http://www.ibm.com/developerworks/aix/library/au-unix-perfmonsar.html">system activity reporter (SAR)</a></li>
+<li><a href="https://github.com/kdlucas/byte-unixbench">byte-unixbench: BYTE UNIX benchmark suite</a></li>
+<li><a href="https://github.com/raas/mbw/">mbw: Memory Bandwidth Benchmark</a></li>
+<li><a href="http://sourceforge.net/projects/tiobench/">tiobench: portable, fully-threaded I/O benchmark program</a></li>
+<li><a href="http://www.iozone.org/">IOzone Filesystem Benchmark</a></li>
+<li><a href="http://dag.wiee.rs/home-made/dstat/">Dstat, a versatile replacement for vmstat, iostat, netstat and ifstat</a></li>
+<li><a href="http://www.postgresql.org/docs/devel/static/pgbench.html">pgbench &ndash; run a benchmark test on PostgreSQL</a></li>
+<li><a href="http://www.linuxinsight.com/how_fast_is_your_disk.html">seeker: measuring disk performance in virtual machines</a></li>
+<li><a href="http://linux.101hacks.com/monitoring-performance/lsof-command-examples/">Linux.101hacks.com: lsof Command Examples</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-increase-the-maximum-number-of-open-files/">nixCraft: Linux Increase The Maximum Number Of Open Files/File Descriptors (FD)</a></li>
+<li><a href="http://www.rittmanmead.com/2014/12/linux-cluster-sysadmin-os-metric-monitoring-with-colmux/">rittmanmead.com: Linux cluster sysadmin — OS metric monitoring with colmux</a></li>
+<li><a href="http://www.cyberciti.biz/hardware/collecting-ubuntu-linux-system-information/">Collecting Ubuntu Linux System Information</a></li>
+<li><a href="https://www.howtoforge.com/tutorial/server-monitoring-with-munin-and-monit-on-ubuntu-14-04/">howtoforge.com: Server Monitoring with Munin and Monit on Ubuntu 14.04 LTS</a></li>
+<li><a href="https://github.com/halpomeranz/lmg">github: Script for automating Linux memory capture and analysis</a></li>
+<li><a href="http://www.slideshare.net/brendangregg/broken-linux-performance-tools-2016">slideshare.net: Broken Linux Performance Tools 2016</a></li>
+<li><a href="http://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/">How To Stress Test CPU and Memory (VM) On a Linux and Unix With Stress-ng</a><ul>
+<li><a href="http://smackerelofopinion.blogspot.co.uk/2016/01/forcing-out-bugs-with-stress-ng.html">Forcing out kernel bugs with stress-ng</a></li>
+</ul>
+</li>
+<li><a href="http://jvns.ca/blog/2016/02/07/cpu-load-averages/">Julia Evans: How CPU load averages work (and using them to triage webserver performance!)</a></li>
+<li><a href="http://jvns.ca/blog/2016/02/24/perf-top-my-new-best-friend/">Julia Evans - perf top: an awesome way to spu on CPU usage</a></li>
+<li><a href="https://opensource.com/life/16/2/open-source-tools-system-monitoring">opensource.com: 4 open source tools for Linux system monitoring</a></li>
+<li><a href="http://www.linuxjournal.com/article/9001?page=0,1">linuxjournal.com: Examining Load Average</a> A practical interpretation of Linux&rsquo;s load averages but also illuminates some of the dark mathematical shadows behind them </li>
+<li><a href="https://utcc.utoronto.ca/~cks/space/blog/unix/ManyLoadAveragesOfUnix">The many load averages of Unix(es)</a></li>
+<li><a href="http://jvns.ca/blog/2016/02/20/measuring-cpu-time-with-clock-gettime/">How to measure your CPU time: clock_gettime! 🌟</a></li>
+<li><a href="https://opensource.com/life/16/2/open-source-tools-system-monitoring">opensource.com: 4 open source tools for Linux system monitoring</a></li>
+<li><a href="http://www.cyberciti.biz/faq/check-ram-speed-linux/">nixCraft: Linux: Check Ram Speed and Type</a></li>
+</ul>
+<h3 id="htop"><a name="user-content-htop" href="#htop" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>htop</h3>
+<ul>
+<li><a href="http://hisham.hm/htop/">htop - an interactive process viewer for Unix</a></li>
+<li><a href="http://freedompenguin.com/articles/how-to/manage-your-linux-box-with-htop/">Manage your Linux Box with htop</a></li>
+</ul>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/b6s2R1_Wkej5SrmH7rhroA/139101622517" data-did="f5ed5731bd6cb168199437ff3815965a4179516a"><a href="http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd">http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd</a></div>
+
+<script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How CPU load averages work (and using them to triage webserver performance!) <a href="https://t.co/aK35G54ZU6">https://t.co/aK35G54ZU6</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/696798241984159745">febrero 8, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Use &quot;iotop&quot; command for measuring hard disk I/O (current read/write) usage per application on Linux. For more info <a href="https://t.co/2TZ2rYHdpq">https://t.co/2TZ2rYHdpq</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/696293052793491457">febrero 7, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The many load averages of Unix(es) <a href="https://t.co/7CWPcIc5CK">https://t.co/7CWPcIc5CK</a> <a href="https://twitter.com/hashtag/Unix?src=hash">#Unix</a> <a href="https://twitter.com/hashtag/FreeBSD?src=hash">#FreeBSD</a> <a href="https://twitter.com/hashtag/OpenBSD?src=hash">#OpenBSD</a> <a href="https://twitter.com/hashtag/NetBSD?src=hash">#NetBSD</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/GoodReads?src=hash">#GoodReads</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700151524119310336">febrero 18, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="glances"><a name="user-content-glances" href="#glances" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Glances</h3>
+<ul>
+<li><a href="https://nicolargo.github.io/glances">Glances</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/">cyberciti.biz: Linux - Keep An Eye On Your System With Glances Monitor</a></li>
+<li><a href="http://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/">tecmint.com: Glances – An Advanced Real Time System Monitoring Tool for Linux</a></li>
+</ul>
+<p><a href="http://www.cyberciti.biz/faq/linux-install-glances-monitoring-tool/"><img alt="glances ubuntu output" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/glances-ubuntu-output.png" /></a></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwhyLD-wquk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8F5OO2XVQUiemO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/brendangregg/broken-linux-performance-tools-2016" title="Broken Linux Performance Tools 2016" target="_blank">Broken Linux Performance Tools 2016</a> </strong> from <strong><a href="//www.slideshare.net/brendangregg" target="_blank">Brendan Gregg</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="linux-networking"><a name="user-content-linux-networking" href="#linux-networking" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux Networking</h2>
+<h3 id="networking-foss-tools"><a name="user-content-networking-foss-tools" href="#networking-foss-tools" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Networking FOSS Tools</h3>
+<ul>
+<li><a href="http://www.ntop.org/">ntop</a></li>
+<li><a href="http://angryip.org/">Angry IP Scanner (or simply ipscan)</a> Alternative to Nmap and cross-platform</li>
+<li><a href="http://www.observium.org/">observium.org: Network monitoring with intuition</a></li>
+<li><a href="https://zmap.io/">zmap.io</a></li>
+<li><a href="https://github.com/robertdavidgraham/masscan">Masscan</a> TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes<ul>
+<li><a href="http://blog.erratasec.com/2013/09/masscan-entire-internet-in-3-minutes.html">Masscan: the entire Internet in 3 minutes</a></li>
+</ul>
+</li>
+<li><a href="http://www.cyberciti.biz/tips/linux-investigate-sockets-network-connections.html">cyberciti.biz - ss: Display Linux TCP / UDP Network and Socket Information</a></li>
+<li><a href="http://www.cyberciti.biz/faq/install-speedtest-cli-on-centos-redhat-fedoa-scientific-to-measure-internetspeed/">nixCraft: How To Install Speedtest-cli On a CentOS/RHEL/Scientific/Fedora Linux To Check Internet Speed 🌟</a></li>
+<li><a href="http://www.cyberciti.biz/faq/rhel-debian-ubuntu-flush-clear-dns-cache/">How To Flush Linux/UNIX DNS Cache</a></li>
+<li><a href="http://www.tecmint.com/configure-network-connections-using-nmcli-tool-in-linux/">How to Configure and Manage Network Connections Using ‘nmcli’ Tool 🌟</a></li>
+</ul>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/136893048895" data-did="2464e7b95759f2e685bc6512099bf43d2fe5f51f"><a href="http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with">http://securityreactions.tumblr.com/post/136893048895/how-sysadmins-view-people-scanning-the-net-with</a></div>
+
+<script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<h3 id="networking-cli-and-settings"><a name="user-content-networking-cli-and-settings" href="#networking-cli-and-settings" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Networking CLI and settings</h3>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/">Linux ip Command Examples</a></li>
+<li><a href="http://xmodulo.com/useful-command-line-network-monitors-linux.html">What are useful command-line network monitors on Linux</a></li>
+<li><a href="http://conn-check.org/">conn-check, a deployment utility to check connectivity between services</a></li>
+<li><a href="http://bencane.com/2012/07/16/tc-adding-simulated-network-latency-to-your-linux-server/">tc command: adds latency to NIC for testing purposes</a></li>
+<li><a href="http://www.cyberciti.biz/faq/traceroute-tracepath-unix-linux-command/">&lsquo;traceroute&rsquo; in Linux is like &lsquo;route get&rsquo; in Solaris</a></li>
+<li><a href="https://support.logicboxes.com/helpdesk/index.php?/Knowledgebase/Article/View/11/37/using-tcp-traceroute-on-windows-and-linux">Using TCP Traceroute on Windows And Linux</a> TCPTraceroute to trace a path through the network, using a specific TCP port number. This tool is very useful for determining if a port is being blocked by a firewall. If it is being blocked, we can get an idea of where it is being blocked.</li>
+<li><a href="https://www.quora.com/Whats-the-difference-between-traceroute-and-tracepath">tracepath: What&rsquo;s the difference between traceroute and tracepath?</a></li>
+<li><a href="http://www.linuxhomenetworking.com/">LHN: linuxhomenetworking.com</a><ul>
+<li><a href="http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch03_:_Linux_Networking">Quick HOWTO : Ch03 : Linux Networking</a></li>
+<li><a href="http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting">Quick HOWTO : Ch04 : Simple Network Troubleshooting</a></li>
+<li><a href="http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting#Using_MTR_To_Detect_Network_Congestion">Quick HOWTO : Ch04 : Simple Network Troubleshooting : Using MTR To Detect Network Congestion</a></li>
+</ul>
+</li>
+<li><a href="http://www.cyberciti.biz/networking/nload-linux-command-to-monitor-network-traffic-bandwidth-usage/">Linux and Unix nload App: Monitor Network Traffic and Bandwidth Usage In Real Time</a></li>
+<li><a href="http://www.cyberciti.biz/faq/find-linux-what-running-on-port-80-command/">Linux: Find Out What Is Using TCP Port 80</a></li>
+<li><a href="http://prefetch.net/blog/index.php/2011/07/11/using-netstat-and-dropwatch-to-observe-packet-loss-on-linux-servers/">dropwatch: a monitoring utility that monitors packets dropped by the kernel</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-port-scanning/">Linux and Unix Port Scanning With netcat &lsquo;nc&rsquo; Command</a></li>
+<li><a href="http://www.tecmint.com/nmap-command-examples/">tecmint.com: 29 Practical Examples of Nmap Commands for Linux System/Network Administrators</a></li>
+<li><a href="http://www.cyberciti.biz/networking/nmap-command-examples-tutorials/">Top 30 Nmap Command Examples For Sys/Network Admins</a></li>
+<li><a href="http://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-speedup-ping-traceroute-command-probs/">cyberciti.biz: HowTo: Speedup ping and traceroute Command Responses under Linux/Unix</a></li>
+<li><a href="http://www.cyberciti.biz/faq/unix-ping-command-examples/">UNIX ping Command Examples</a></li>
+<li><a href="http://www.cyberciti.biz/tips/top-linux-monitoring-tools.html">20 Linux System Monitoring Tools Every SysAdmin Should Know</a></li>
+<li><a href="http://www.cyberciti.biz/faq/install-speedtest-cli-on-centos-redhat-fedoa-scientific-to-measure-internetspeed/">How To Install Speedtest-cli On a CentOS/RHEL/Scientific/Fedora Linux To Check Internet Speed</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-unix-curl-gzip-compression-test/">Linux/Unix Curl: Find Out If a Website Is Using Gzip/Deflate</a></li>
+<li><a href="http://www.cyberciti.biz/tips/linux-investigate-sockets-network-connections.html">ss: Display Linux TCP / UDP Network and Socket Information</a></li>
+<li><a href="https://boinkor.net/2016/01/deptyr-or-how-i-learned-to-love-unix-domain-sockets/">Deptyr, or how I learned to love UNIX domain sockets</a><ul>
+<li><a href="https://github.com/nelhage/reptyr">reptyr: Reparent a running program to a new terminal</a></li>
+<li><a href="https://github.com/antifuchs/deptyr">deptyr: Run your tty programs pseudo-headlessly under a process supervisor</a></li>
+</ul>
+</li>
+<li><a href="http://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/">HowTo: Compile And Run a C/C++ Code In Linux</a></li>
+<li><a href="https://opensource.com/business/16/1/scale-14x-interview-alex-juarez-rackspace">Using strace to track system calls in Linux</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-duplicate-address-detection-with-arping/">How to: Detect Duplicate IP Address With arping command under Linux</a></li>
+<li><a href="http://www.tecmint.com/configure-network-bonding-or-teaming-in-rhel-centos-7/">How to Setup and Configure Network Bonding or Teaming in RHEL/CentOS 7</a></li>
+<li><a href="http://www.cyberciti.biz/tips/configuring-static-routes-in-debian-or-red-hat-linux-systems.html">Configure Static Routes In Debian or Red Hat Enterprise Linux</a></li>
+</ul>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Z1IoXIxLJVE" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br></p>
+<h2 id="linux-security"><a name="user-content-linux-security" href="#linux-security" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux Security</h2>
+<ul>
+<li><a href="http://www.tecmint.com/linux-server-hardening-security-tips/">tecmint.com: 25 Hardening Security Tips for Linux Servers</a></li>
+<li><a href="https://www.smittix.co.uk/centos-7-server-hardening-guide/">CentOS 7 Server Hardening Guide</a></li>
+<li><a href="http://linoxide.com/how-tos/linux-set-access-control-list-using-setfacl-and-getfacl-commands/">Linoxide.com: Set Access Control List Using Setfacl And Getfacl Commands</a></li>
+<li><a href="http://www.cyberciti.biz/tips/linux-security.html">20 Linux Server Hardening Security Tips</a></li>
+<li><a href="http://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html">Top 20 Nginx WebServer Best Security Practices</a></li>
+<li><a href="https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/">Mitigating DDoS Attacks with NGINX and NGINX Plus</a></li>
+<li><a href="http://blog.cryptographyengineering.com/2015/12/on-juniper-backdoor.html">On the Juniper backdoor</a></li>
+<li><a href="http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html">Linux: 25 PHP Security Best Practices For Sys Admins</a></li>
+<li><a href="https://certsimple.com/blog/openssl-shortcuts">certsimple.com: You won&rsquo;t remember the options for OpenSSL, so here&rsquo;s bash shortcuts for everything</a></li>
+<li><a href="http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/">Software with the most vulnerabilities in 2015: Mac OS X, iOS, and Flash</a></li>
+<li><a href="https://www.howtoforge.com/tutorial/install-proftpd-with-tls-on-ubuntu-15-10/">howtoforge.com: How to install ProFTPd with TLS support on Ubuntu 15.10</a></li>
+<li><a href="http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/">7 Awesome Open Source Cloud Storage Software For Your Privacy and Security</a></li>
+<li><a href="http://webcodegeeks.tradepub.com/free/w_opeb01/">webcodegeeks.tradepub.com free ebook: Securing &amp; Optimizing Linux: The Hacking Solution (v.3.0)</a></li>
+<li><a href="http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/">How to block an IP address with ufw on Ubuntu Linux server</a></li>
+<li><a href="http://www.cyberciti.biz/faq/how-to-open-firewall-port-on-ubuntu-linux-12-04-14-04-lts/">How To: Ubuntu Linux Firewall Open Port Command 🌟</a></li>
+<li><a href="http://www.cyberciti.biz/tips/how-do-i-drop-or-block-attackers-ip-with-null-routes.html">How Do I Drop or Block Attackers IP Address With Null Routes On a Linux?</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-find-out-patch-can-cve-applied/">Find Out If Patch Number (CVE) Has Been Applied To RHEL/CentOS Linux</a></li>
+</ul>
+<h3 id="linux-ssh"><a name="user-content-linux-ssh" href="#linux-ssh" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux SSH</h3>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/ssh-passwordless-login-with-keychain-for-scripts/">keychain: Set Up Secure Passwordless SSH Access For Backup Scripts 🌟🌟🌟</a></li>
+<li><a href="http://www.cyberciti.biz/faq/install-ssh-identity-key-remote-host/">ssh-copy-id: Install/Append SSH Key In A Remote Linux/UNIX Servers Authorized_keys</a></li>
+<li><a href="http://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html">Top 20 OpenSSH Server Best Security Practices</a></li>
+<li><a href="http://www.cyberciti.biz/open-source/howto-protect-linux-ssh-login-with-google-authenticator/">Secure Your Linux Desktop and SSH Login Using Two Factor Google Authenticator</a></li>
+<li><a href="http://it.tmcnet.com/topics/it/articles/2016/02/25/418060-building-effective-ssh-user-key-management-three-best.htm">Building Effective SSH User Key Management: Three Best Practices</a></li>
+<li><a href="http://gsnmagazine.com/article/46166/when_privileged_access_means_controlling_lock_best">When privileged access means controlling the lock: Best practices to protect what&rsquo;s yours</a></li>
+<li><a href="http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/">nixCraft: create-ssh-config-file-on-linux-unix 🌟</a></li>
+</ul>
+<h3 id="rsync"><a name="user-content-rsync" href="#rsync" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Rsync</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Rsync">Rsync</a></li>
+<li><a href="http://supportex.net/2011/07/exceptions-copying-directory-rsync/">How to exclude directories while using rsync</a></li>
+</ul>
+<h3 id="iptables"><a name="user-content-iptables" href="#iptables" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>iptables</h3>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/category/iptables/">cyberciti.biz: Linux Netfilter Tutorials (iptables)</a></li>
+<li><a href="http://www.cyberciti.biz/tips/linux-iptables-examples.html">Linux: 20 Iptables Examples For New SysAdmins</a></li>
+<li><a href="http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/">How to list all iptables rules with line numbers on Linux</a></li>
+<li><a href="http://www.cyberciti.biz/tips/iptables-mac-address-filtering.html">nixCraft: Iptables MAC Address Filtering</a></li>
+</ul>
+<h3 id="selinux-apparmor-and-openscap"><a name="user-content-selinux-apparmor-and-openscap" href="#selinux-apparmor-and-openscap" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>SELinux, AppArmor and OpenSCAP</h3>
+<ul>
+<li><a href="http://www.redhat.com/en/about/blog/celebrating-15-years-selinux">Red Hat Security: Celebrating 15 Years of SELinux</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SELinux">SELinux</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AppArmor">AppArmor</a></li>
+<li><a href="https://www.open-scap.org">OpenSCAP</a></li>
+</ul>
+<p><a href="http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html"><img alt="last command" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/last_command.jpg" /></a></p>
+<p><a href="http://www.cyberciti.biz/faq/how-to-block-an-ip-address-with-ufw-on-ubuntu-linux-server/"><img alt="How to block an IP address with ufw on Ubuntu Linux server" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/ufw-status.jpg" /></a></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p4uNlzYld-Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br></p>
+<h2 id="vim-and-emacs"><a name="user-content-vim-and-emacs" href="#vim-and-emacs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Vim and Emacs</h2>
+<h3 id="vim"><a name="user-content-vim" href="#vim" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Vim</h3>
+<ul>
+<li><a href="http://www.tecmint.com/learn-vi-and-vim-editor-tips-and-tricks-in-linux/">tecmint.com: Learn Useful ‘Vi/Vim’ Editor Tips and Tricks to Enhance Your Skills – Part 1</a></li>
+<li><a href="http://www.tecmint.com/how-to-use-vi-and-vim-editor-in-linux/">tecmint.com: 8 Interesting ‘Vi/Vim’ Editor Tips and Tricks for Every Linux Administrator – Part 2</a></li>
+<li><a href="http://www.tecmint.com/vi-editor-usage/">tecmint.com: LFCS: How to Install and Use vi/vim as a Full Text Editor – Part 2</a></li>
+<li><a href="http://www.viemu.com/vi-vim-cheat-sheet.gif">vim graphical cheat sheet</a></li>
+<li><a href="http://www.semicomplete.com/presentations/vim/">Vim Essentials</a></li>
+<li><a href="http://www.thegeekstuff.com/2009/03/8-essential-vim-editor-navigation-fundamentals/">8 Essential Vim Editor Navigation Fundamentals</a></li>
+<li><a href="http://www.ibm.com/developerworks/aix/library/au-vitips.html">IBM: vi tips and tricks: Ten cool commands sure to impress your friends</a></li>
+<li><a href="http://tnerual.eriogerg.free.fr/vimqrc-es.html">Vim: carta de referencia rápida</a></li>
+<li><a href="https://github.com/matason/vimstuff/blob/master/.vimrc">.vimrc at master from matason&rsquo;s vimstuff - GitHub</a></li>
+<li><a href="https://www.drupal.org/node/29325">drupal.org: Configuring vim</a></li>
+<li><a href="http://www.cyberciti.biz/faq/turn-on-or-off-color-syntax-highlighting-in-vi-or-vim/">cyberciti.biz: Turn On or Off Color Syntax Highlighting In vi or vim Editor</a></li>
+<li><a href="http://vim.wikia.com/wiki/Highlight_all_search_pattern_matches">Highlight all search pattern matches - Vim Tips Wiki</a></li>
+<li><a href="http://bullium.com/support/vim.html">Vim Commands Cheat Sheet</a></li>
+<li><a href="http://stackoverflow.com/questions/426963/replace-tab-with-spaces-in-vim">gvim - Replace Tab with Spaces in VIM</a></li>
+<li><a href="http://www.stephendiehl.com/posts/vim_2016.html">Vim and Haskell in 2016</a></li>
+<li><a href="http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/">Learn Vim Progressively</a></li>
+</ul>
+<h3 id="emacs"><a name="user-content-emacs" href="#emacs" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Emacs</h3>
+<ul>
+<li><a href="https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf">Emacs cheat sheet</a></li>
+<li><a href="http://www.blackhats.es">Black Hats - GNU/Emacs</a><ul>
+<li><a href="http://www.blackhats.es/emacs/emacs-refcard.pdf">blackhats.es: emacs refcard</a></li>
+<li><a href="http://www.blackhats.es/wordpress/?p=3">supervivencia en emacs</a></li>
+</ul>
+</li>
+<li><a href="http://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html">Emacs org-mode examples and cookbook</a></li>
+<li><a href="http://kb.iu.edu/data/acqm.html">In Emacs, what does &ldquo;M-x command&rdquo; mean?</a></li>
+<li><a href="http://www.stylesen.org/emacs_goto_line">Emacs goto line | Stylesen</a></li>
+<li><a href="http://homepages.inf.ed.ac.uk/s0243221/emacs/">Simple Emacs Configuration</a></li>
+<li><a href="http://www.emacswiki.org/">EmacsWiki.org: Mapa Del Sitio</a></li>
+<li><a href="http://www.unexpected-vortices.com/emacs/quick-ref.html">emacs quick reference card</a></li>
+</ul>
+<h4 id="jed"><a name="user-content-jed" href="#jed" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Jed</h4>
+<ul>
+<li><a href="http://www.faqs.org/docs/ldev/0130091154_56.htm">Configuring Jed</a></li>
+<li><a href="http://www.jedsoft.org/jed/doc/jedfuns.html">Jed Intrinsic Function Reference Manual</a></li>
+<li><a href="http://www.cs.cmu.edu/%7Ejeliza/work/jed-intro.html">JED Editor Quick Reference</a></li>
+<li><a href="https://travelingfrontiers.wordpress.com/2010/07/03/how-to-show-line-numbers-and-tab-python-style-in-the-jed-editor/">How-to show current line number &amp; column number in the Jed editor status bar « Harbinger&rsquo;s Hollow</a></li>
+<li><a href="http://jedmodes.sourceforge.net/">JED Modes Repository</a><ul>
+<li><a href="http://jedmodes.sourceforge.net/modes/">Jedmodes - Modes</a></li>
+<li><a href="http://jedmodes.sourceforge.net/mode/ffap/">Jedmodes - Modes - ffap : Find File At Point</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="python-idle"><a name="user-content-python-idle" href="#python-idle" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Python Idle</h3>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/rhel-centos-debian-ubuntu-python-idle-linux-installation/">HowTo: Install Python idle IDE On Linux Operating System</a></li>
+</ul>
+<p><a href="https://twitter.com/nixcraft"><img alt="vim,emacs,nano" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/vim_emacs.png" /></a></p>
+<h1 id="ubuntu"><a name="user-content-ubuntu" href="#ubuntu" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Ubuntu</h1>
+<ul>
+<li><a href="https://twitter.com/ubuntu">twitter.com/ubuntu</a></li>
+<li><a href="http://www.forbes.com/sites/janakirammsv/2016/01/12/10-reasons-why-ubuntu-is-killing-it-in-the-cloud/#2715e4857a0b19d6c8d819a2">forbes: 10 Reasons Why Ubuntu Is Killing It In The Cloud</a></li>
+</ul>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Combining apt-get/apt-cache &amp; adds a progress bar using apt <a href="https://t.co/USBZOpb3rF">https://t.co/USBZOpb3rF</a> <a href="https://twitter.com/hashtag/debian?src=hash">#debian</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/ubuntu?src=hash">#ubuntu</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/Fmkw4xvG8b">pic.twitter.com/Fmkw4xvG8b</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706180656439566336">5 de marzo de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h1 id="archlinux"><a name="user-content-archlinux" href="#archlinux" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>ArchLinux</h1>
+<ul>
+<li><a href="https://www.archlinux.org/">ArchLinux.org</a></li>
+<li><a href="http://i.cubeupload.com/On0hJE.jpg">Install ArchLinux Cheat Sheet</a></li>
+</ul>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Install <a href="https://twitter.com/archlinux">@ArchLinux</a> Cheat Sheet. Large version <a href="https://t.co/cpCrYEFnYY">https://t.co/cpCrYEFnYY</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://t.co/AB0WtSLyyH">pic.twitter.com/AB0WtSLyyH</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702628943644352512">24 de febrero de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h1 id="linux-interview-questions"><a name="user-content-linux-interview-questions" href="#linux-interview-questions" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Linux interview questions</h1>
+<ul>
+<li><a href="http://www.tecmint.com/category/interview-questions/">tecmint.com: interview questions/</a></li>
+<li><a href="http://www.linuxfoundation.org/news-media/blogs/browse/2015/07/10-job-interview-questions-linux-system-administrators">linuxfoundation.org: 10 Job Interview Questions for Linux System Administrators</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rfkDOrkHNRjrok" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hirist/top-100-linux-interview-questions-and-answers-2014" title="Top 100 Linux Interview Questions and Answers 2014" target="_blank">Top 100 Linux Interview Questions and Answers 2014</a> </strong> from <strong><a href="//www.slideshare.net/hirist" target="_blank">hirist.com</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NsYzEq2VPlC3nn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/linuxtutorial/top-linux-interview-questions-and-answers-job-interview-tips" title="Top linux interview questions and answers job interview tips" target="_blank">Top linux interview questions and answers job interview tips</a> </strong> from <strong><a href="//www.slideshare.net/linuxtutorial" target="_blank">linuxtutorial</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h1 id="virtualbox"><a name="user-content-virtualbox" href="#virtualbox" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>VirtualBox</h1>
+<ul>
+<li><a href="https://www.virtualbox.org/">virtualbox.org</a></li>
+<li><a href="https://twitter.com/virtualbox">twitter.com/virtualbox</a></li>
+<li><a href="https://virtualboximages.com">VirtualBoxImages.com</a></li>
+<li><a href="http://www.techrepublic.com/blog/10-things/10-ways-to-get-the-most-from-virtualbox/">10 ways to get the most from VirtualBox 🌟</a></li>
+<li><a href="https://www.distelli.com/blog/building-virtual-servers-with-virtualbox-and-vagrant">Building Virtual Servers with VirtualBox and Vagrant 🌟</a></li>
+<li><a href="http://jonmoore.duckdns.org/index.php/linux-articles/67-get-the-latest-and-greatest-virtualbox">Get THE Latest and Greatest VirtualBox</a></li>
+</ul>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">FRIDAY SPOTLIGHT: <a href="https://twitter.com/hashtag/OracleVM?src=hash">#OracleVM</a> <a href="https://twitter.com/hashtag/VirtualBox?src=hash">#VirtualBox</a> Takes the Spotlight  <a href="https://twitter.com/hashtag/VDI?src=hash">#VDI</a> <a href="https://t.co/P5Ku1QOj7x">https://t.co/P5Ku1QOj7x</a> <a href="https://t.co/H4uMKCB6OG">pic.twitter.com/H4uMKCB6OG</a></p>&mdash; OracleVirtualization (@ORCL_Virtualize) <a href="https://twitter.com/ORCL_Virtualize/status/693119134385569793">29 de enero de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h1 id="apple-os-x"><a name="user-content-apple-os-x" href="#apple-os-x" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Apple OS X</h1>
+<ul>
+<li><a href="http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/">How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown</a></li>
+<li><a href="http://www.cyberciti.biz/faq/apple-mac-osx-terminal-color-ls-output-option/">How to enable colorized output for the ls command in Mac OS X Terminal</a></li>
+</ul>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLVmO9TMtno?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p></article></body></html>

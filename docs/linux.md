@@ -82,6 +82,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/IVdfEjIpjP">pic.twitter.com/IVdfEjIpjP</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707869367766097920">marzo 10, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Flight&quot; (2012 film) crash scene <a href="https://t.co/Su7LxSEvHZ">https://t.co/Su7LxSEvHZ</a></p>&mdash; Cardist (@JustACardist) <a href="https://twitter.com/JustACardist/status/702357188887474176">24 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Linux
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linux.com/news/featured-blogs/191-linux-training/834644-7-steps-to-start-your-linux-sysadmin-career)
 - [medium.com: I Moved to Linux and It’s Even Better Than I Expected](https://medium.com/backchannel/i-moved-to-linux-and-it-s-even-better-than-i-expected-9f2dcac3f8fb#.ifoqwzclj)
