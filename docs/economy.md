@@ -159,6 +159,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Slowest G20 GDP growth, 2016.<br><br>Brazil: -2.6<br>Russia: -0.3%<br>Argentina: 0.1%<br>Japan: 1.1%<br>Italy: 1.3%<br>France: 1.4%<br>S Africa: 1.5%<br>Germany: 1.7%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/708080061086244864">11 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GDP growth, 2016.<br><br>Poland: 3.5%<br>Turkey: 3.2%<br>Spain: 2.7%<br>UK: 2%<br>Netherlands: 1.7%<br>Germany: 1.5%<br>France: 1.3%<br>Italy: 1.1%<br>Russia: -1.3%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/709683440585547776">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The gig economy attracts many workers, few full-time jobs <a href="https://t.co/q76qFZF5Fg">https://t.co/q76qFZF5Fg</a> <a href="https://t.co/utzF0EzV9m">pic.twitter.com/utzF0EzV9m</a></p>&mdash; Real Time Economics (@WSJecon) <a href="https://twitter.com/WSJecon/status/702238896873205764">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -276,6 +278,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Denmark?src=hash">#Denmark</a> leads in life satisfaction; Today at OECD <a href="https://twitter.com/MaleneRydahl">@MaleneRydahl</a> explained <a href="https://twitter.com/hashtag/trust?src=hash">#trust</a> is key <a href="https://t.co/xBPhbLtVPP">https://t.co/xBPhbLtVPP</a> <a href="https://t.co/Ou2ybw4KA5">pic.twitter.com/Ou2ybw4KA5</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/702559308224065537">24 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What’s the health of your <a href="https://twitter.com/hashtag/health?src=hash">#health</a> workforce? Compare <a href="https://twitter.com/hashtag/doctors?src=hash">#doctors</a> per <a href="https://twitter.com/hashtag/OECD?src=hash">#OECD</a> country, see report <a href="https://t.co/PYyFOLqLeW">https://t.co/PYyFOLqLeW</a> <a href="https://t.co/5xO0VzBUGn">pic.twitter.com/5xO0VzBUGn</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/709682362964176896">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Japan, govt debt as % of GDP<br><br>1980: 52%<br>1985: 69%<br>1990: 69%<br>1995: 95%<br>2000: 144%<br>2005: 186%<br>2010: 216%<br>2015: 246% <a href="https://t.co/YkEGLO3niP">pic.twitter.com/YkEGLO3niP</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/706230311965700096">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
