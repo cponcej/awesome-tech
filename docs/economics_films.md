@@ -17,6 +17,7 @@
     - [JFK](#jfk)
     - [Good Bye Lennin](#good-bye-lennin)
     - [The lives of others](#the-lives-of-others)
+    - [Fight Club](#fight-club)
     - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
     - [Trading Places](#trading-places)
     - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
@@ -200,6 +201,18 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xH_tiIAk5Q8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Fight Club
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBot8SOLWBQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkVRL2po0Y8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

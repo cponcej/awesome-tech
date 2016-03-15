@@ -44,6 +44,10 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">American Beauty How to Quit a Job With Kevin Spacey. What a way to quit a job and start a new life.. <a href="http://t.co/On0SDsEe0e">http://t.co/On0SDsEe0e</a></p>&mdash; David J Harvey (@davidharvey192) <a href="https://twitter.com/davidharvey192/status/574684272298086401">8 de marzo de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="http://t.co/Fe1lPk58OR">http://t.co/Fe1lPk58OR</a> Fight Club (4/5) Movie CLIP - Jack&#39;s Smirking Revenge (1999) HD</p>&mdash; Flavor (@Flavorant) <a href="https://twitter.com/Flavorant/status/634471694351007744">20 de agosto de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## How to Successfully Onboard Employees
 - [How to Successfully Onboard Employees](http://www.dzonesoftware.com/blog/how-to-successfully-onboard-employees)
 

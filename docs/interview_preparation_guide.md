@@ -132,3 +132,4 @@
 [![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El método Gronholm&quot; Una <a href="https://twitter.com/hashtag/pel%C3%ADcula?src=hash">#película</a> para analizar el comportamiento humano ante una <a href="https://twitter.com/hashtag/entrevista?src=hash">#entrevista</a> de <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> <a href="http://t.co/wg6SqrTNd7">http://t.co/wg6SqrTNd7</a> <a href="https://twitter.com/hashtag/escalARTE?src=hash">#escalARTE</a></p>&mdash; Escala Psicologia (@escalapsi) <a href="https://twitter.com/escalapsi/status/580280463429890048">24 de marzo de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
