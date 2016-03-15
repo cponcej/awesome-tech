@@ -70,6 +70,7 @@
 - [10 Things HR Doesn't Want You to Know (but I'll Tell You) 🌟🌟](http://www.inc.com/jt-odonnell/10-things-hr-doesn-t-want-you-to-know-but-i-ll-tell-you.html) HR and recruiting have some secrets you should know..
 - [Feels Like My Boss Doesn't Like Me (And, It's Hurting My Career) 🌟](https://www.linkedin.com/pulse/feels-like-my-boss-doesnt-me-its-hurting-career-j-t-o-donnell)
 - [20 things the most respected bosses never say](http://www.businessinsider.com/20-things-the-most-respected-bosses-never-say-2016-3)
+- [businessinsider.com: 13 signs you're about to get a promotion at work 🌟](http://www.businessinsider.com/signs-youre-about-to-be-promoted-at-work-2016-3)
 
 ![voltaire good mood](images/voltaire_good_mood.jpg)
 
@@ -79,6 +80,8 @@
 <iframe width="420" height="315" src="https://www.youtube.com/embed/c2UUSp4bkNs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![bi_13signs_promotion](images/bi_13signs_promotion.png)](http://www.businessinsider.com/signs-youre-about-to-be-promoted-at-work-2016-3)
 
 ## Work environment issues
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
