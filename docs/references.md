@@ -7,6 +7,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Moneyball (Breaking Biases)<br><br>Amazing. Love this scene  <a href="http://t.co/5ngbsuMlpt">http://t.co/5ngbsuMlpt</a></p>&mdash; Harry Johnson (@avfc_johnson) <a href="https://twitter.com/avfc_johnson/status/625718364980277248">27 de julio de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">&quot;Cuando se descubrió que la información era un negocio, la verdad dejó de ser importante.&quot;  <br>- Ryszard Kapuściński <a href="https://twitter.com/hashtag/PrimerTweet?src=hash">#PrimerTweet</a></p>&mdash; Oído en redacción (@oidoredaccion1) <a href="https://twitter.com/oidoredaccion1/status/705843998221582336">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # References and online defamation
 - [wikipedia: Defamation](https://en.wikipedia.org/wiki/Defamation)
 - [wikipedia: Right to be forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten)

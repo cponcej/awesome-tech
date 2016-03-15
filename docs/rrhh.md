@@ -24,6 +24,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El enchufe como síntoma de un país estancado  <a href="https://t.co/mFIweLJLX9">https://t.co/mFIweLJLX9</a> Blog de <a href="https://twitter.com/jotaicabrera">@jotaicabrera</a> <a href="https://t.co/fRjzg0WPCr">pic.twitter.com/fRjzg0WPCr</a></p>&mdash; El Huffington Post (@ElHuffPost) <a href="https://twitter.com/ElHuffPost/status/704276216514269184">29 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">5 recomendaciones para mejorar la selección de personal en las <a href="https://twitter.com/hashtag/pymes?src=hash">#pymes</a> ➡ <a href="https://t.co/GrBuh2140F">https://t.co/GrBuh2140F</a> <a href="https://twitter.com/hashtag/rrhh?src=hash">#rrhh</a> <a href="https://t.co/NZ10KH0bEX">pic.twitter.com/NZ10KH0bEX</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/709771540083171329">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Entrepreneurs shouldn&#39;t cry (in public), <a href="https://twitter.com/peterpeele">@peterpeele</a> quotes Gordon Gekko from Wall Street: Money Never Sleeps <a href="https://t.co/KKj3CMNTRP">https://t.co/KKj3CMNTRP</a></p>&mdash; iAfrikan (@iafrikan) <a href="https://twitter.com/iafrikan/status/697137202728472577">9 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
@@ -60,6 +62,7 @@
 - [¿Qué dificultad tienen las distintas carreras universitarias según los propios estudiantes?](http://www.dudasbecasmec.com/2016/02/que-dificultad-tienen-las-distintas.html)
 - [forbes.es: Antes de aceptar una oferta de empleo, piensa en estas seis cosas](http://www.forbes.es/actualizacion/5381/antes-de-aceptar-una-oferta-de-empleo-piensa-en-estas-seis-cosas)
 - [La sombra de las entrevistas de trabajo es alargada 🌟](http://yoriento.com/2010/03/la-sombra-de-las-entrevistas-de-trabajo-es-alargada-685.html/)
+- [Las preguntas ilegales en una entrevista de trabajo, ¡combátelas! 🌟](http://blog.jobandtalent.com/preguntas-ilegales-entrevista-trabajo-combatelas/)
 - [30 preguntas para hacer y evitar en una entrevista de trabajo 🌟](http://www.forbes.com.mx/30-preguntas-para-hacer-y-evitar-en-una-entrevista-de-trabajo/)
 - [Cómo lidiar con las malas referencias](http://es.wikihow.com/lidiar-con-las-malas-referencias)
     - [Mi antiguo jefe habla mal de mí](http://www.cnnexpansion.com/mi-carrera/2009/12/18/mi-antiguo-jefe-habla-mal-de-mi)
