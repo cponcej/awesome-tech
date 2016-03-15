@@ -6,8 +6,6 @@
 
 [![parque el capricho](images/parque-el-capricho.jpg)](http://www.madridtourist.info/caprice_park.html)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Todo el mundo puede <a href="https://twitter.com/hashtag/emprender?src=hash">#emprender</a>, pero no todos se deciden a hacerlo. Perfil del emprendedor español➡ <a href="https://t.co/kfvBp5Ziyu">https://t.co/kfvBp5Ziyu</a> <a href="https://twitter.com/nuevarutaempleo">@nuevarutaempleo</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/709046755321626624">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Madrid Tech, Startups and Innovation
 - [tetuanvalley.com: Tetuan Valley Madrid](http://tetuanvalley.com/)
 - [chamberivalley.com](http://chamberivalley.com)
