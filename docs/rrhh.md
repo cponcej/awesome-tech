@@ -46,6 +46,8 @@
 </div>
 <br/>
 
+[![laboro](laboro.png)](http://laboro-spain.blogspot.com.es/)
+
 ## Articulos
 - [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
