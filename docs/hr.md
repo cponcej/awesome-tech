@@ -34,6 +34,8 @@
 
 [![are_hr_departments_worth_the_cost.png](images/are_hr_departments_worth_the_cost.png)](https://www.linkedin.com/pulse/hr-departments-worth-cost-nishant-bhajaria)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Businesses are embracing the idea of working in teams—but managing them is hard <a href="https://t.co/O9FDDRVDop">https://t.co/O9FDDRVDop</a> <a href="https://t.co/UG7BIMIzHw">pic.twitter.com/UG7BIMIzHw</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/710130155470102528">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Human Resources 
 ## HR Blogs
 - [careerealism.com](http://www.careerealism.com/)
