@@ -16,6 +16,7 @@
     - [AWS New Features](#aws-new-features)
     - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
     - [AWS RDS](#aws-rds)
+    - [AWS Database Migration Service](#aws-database-migration-service)
     - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
     - [AWS Latency](#aws-latency)
     - [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
@@ -122,6 +123,9 @@
 ## AWS RDS
 - [Tutorial: Restoring a DB Instance from a DB Snapshot](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.RestoringFromSnapshot.html)
 - [Partitioning MySQL on RDS: "How We Partitioned Airbnb’s Main Database in Two Weeks" 🌟](https://medium.com/airbnb-engineering/how-we-partitioned-airbnb-s-main-database-in-two-weeks-55f7e006ff21)
+
+## AWS Database Migration Service
+- [AWS Database Migration Service 🌟](https://aws.amazon.com/es/blogs/aws/aws-database-migration-service/)
 
 ## AWS DevOps. AWS CodePipeline
 - [AWS DevOps Blog](https://blogs.aws.amazon.com/application-management/)
