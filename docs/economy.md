@@ -391,6 +391,8 @@ ________________________________________________________________________________
 - [Capitalismo clientelista](https://es.wikipedia.org/wiki/Capitalismo_clientelista)
 - [“El clientelismo amenaza el futuro económico de España” 🌟](http://www.lavanguardia.com/ciencia/20160207/301978772341/clientelismo-corrupcion-amiguismo-economia-espanola.html)
 
+[![humillacion_indigentes.png](images/humillacion_indigentes.png)](http://noticiasdenavarra.com/2016/03/16/deportes/futbol/indignacion-ante-la-humillacion-racista-de-hinchas-del-psv)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Oh España, ese gran pais. <a href="https://twitter.com/hashtag/ironia?src=hash">#ironia</a> El economista indignado <a href="https://t.co/rPu4HjN6IL">https://t.co/rPu4HjN6IL</a></p>&mdash; Sara (@smaab6) <a href="https://twitter.com/smaab6/status/652115252528726017">8 de octubre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
