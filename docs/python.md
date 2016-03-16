@@ -93,6 +93,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When I see my Perl script after a long time. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/problems?src=hash">#problems</a> <a href="https://twitter.com/hashtag/life?src=hash">#life</a> <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a> <a href="https://t.co/bFcsLofAUj">pic.twitter.com/bFcsLofAUj</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710023176336453632">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Python Django
 - [gettopical.com: Get Django Latest News](http://gettopical.com/djangoframework)
 - [Learn Python Django in 4 Hours](https://dzone.com/articles/learn-python-django-in-4-hours)

@@ -111,3 +111,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Sort a file in case-insensitive order: sort -f. &#39;f&#39; for &#39;fold,&#39; i.e. fold upper and lower case together</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/709781377248587776">15 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want refresh changed content of file opened in vim or vi on Unix/Linux:<br><br>:edit<br>:edit!<br><br>Force autoreload each time file changed<br>:set autoread</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710051089236643840">16 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

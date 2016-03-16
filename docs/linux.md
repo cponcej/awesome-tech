@@ -377,7 +377,7 @@
 - [mbw: Memory Bandwidth Benchmark](https://github.com/raas/mbw/)
 - [tiobench: portable, fully-threaded I/O benchmark program](http://sourceforge.net/projects/tiobench/)
 - [IOzone Filesystem Benchmark](http://www.iozone.org/)
-- [Dstat, a versatile replacement for vmstat, iostat, netstat and ifstat](http://dag.wiee.rs/home-made/dstat/)
+- [Dstat, a versatile replacement for vmstat, iostat, netstat and ifstat 🌟](http://dag.wiee.rs/home-made/dstat/)
 - [pgbench -- run a benchmark test on PostgreSQL](http://www.postgresql.org/docs/devel/static/pgbench.html)
 - [seeker: measuring disk performance in virtual machines](http://www.linuxinsight.com/how_fast_is_your_disk.html)
 - [Linux.101hacks.com: lsof Command Examples](http://linux.101hacks.com/monitoring-performance/lsof-command-examples/)
@@ -410,8 +410,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Use &quot;iotop&quot; command for measuring hard disk I/O (current read/write) usage per application on Linux. For more info <a href="https://t.co/2TZ2rYHdpq">https://t.co/2TZ2rYHdpq</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/696293052793491457">febrero 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The many load averages of Unix(es) <a href="https://t.co/7CWPcIc5CK">https://t.co/7CWPcIc5CK</a> <a href="https://twitter.com/hashtag/Unix?src=hash">#Unix</a> <a href="https://twitter.com/hashtag/FreeBSD?src=hash">#FreeBSD</a> <a href="https://twitter.com/hashtag/OpenBSD?src=hash">#OpenBSD</a> <a href="https://twitter.com/hashtag/NetBSD?src=hash">#NetBSD</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/GoodReads?src=hash">#GoodReads</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700151524119310336">febrero 18, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The many load averages of Unix(es) <a href="https://t.co/7CWPcIc5CK">https://t.co/7CWPcIc5CK</a> <a href="https://twitter.com/hashtag/Unix?src=hash">#Unix</a> <a href="https://twitter.com/hashtag/FreeBSD?src=hash">#FreeBSD</a> <a href="https://twitter.com/hashtag/OpenBSD?src=hash">#OpenBSD</a> <a href="https://twitter.com/hashtag/NetBSD?src=hash">#NetBSD</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/GoodReads?src=hash">#GoodReads</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/700151524119310336">febrero 18, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">also dstat is the other best program. convinced that staring at dstat output is the path to solving many bugs.</p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/709931262987866112">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Glances
 - [Glances](https://nicolargo.github.io/glances)
