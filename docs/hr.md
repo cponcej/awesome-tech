@@ -32,6 +32,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Once something is a passion, the motivation is there.&quot; ~ Michael Schumacher <a href="https://twitter.com/hashtag/quote?src=hash">#quote</a> <a href="https://twitter.com/hashtag/leadership?src=hash">#leadership</a> <a href="https://twitter.com/hashtag/inspiration?src=hash">#inspiration</a> <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/PSRLbjVqnt">pic.twitter.com/PSRLbjVqnt</a></p>&mdash; Tamara McCleary (@TamaraMcCleary) <a href="https://twitter.com/TamaraMcCleary/status/706243435376709632">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![are_hr_departments_worth_the_cost.png](images/are_hr_departments_worth_the_cost.png)](https://www.linkedin.com/pulse/hr-departments-worth-cost-nishant-bhajaria)
+
 # Human Resources 
 ## HR Blogs
 - [careerealism.com](http://www.careerealism.com/)
