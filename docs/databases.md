@@ -44,6 +44,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![bi_oracle_threatened_by_microsoft_amazon](images/bi_oracle_threatened_by_microsoft_amazon.png)](http://www.businessinsider.com/larry-ellison-on-microsoft-amazon-offers-2016-3)
+
 # SQL
 - [Reinventing Yourself as a Next Generation DBA](http://www.cumulogic.com/next-gen-dba/)
 
