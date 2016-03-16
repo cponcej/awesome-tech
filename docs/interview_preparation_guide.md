@@ -79,6 +79,8 @@
 </div>
 <br/>
 
+[![bi_2questions_end_job_interview](images/bi_2questions_end_job_interview.png)](http://www.businessinsider.com/questions-to-ask-at-the-end-of-a-job-interview-2016-3)
+
 ## Salary Negotiation 
 - [Sorry, Recruiters! My Salary History Is None of Your Business 🌟](https://www.linkedin.com/pulse/sorry-recruiters-my-salary-history-none-your-business-liz-ryan)
 - [4 Steps to Negotiating a Great Salary](http://www.inc.com/jt-odonnell/4-steps-to-negotiating-a-great-salary.html) Here's how to get employers to pay you what you want.
