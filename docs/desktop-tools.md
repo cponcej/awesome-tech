@@ -89,6 +89,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Windows 10 tip: Access symbols, emojis, and other special characters <a href="https://t.co/unu6DvMrDl">https://t.co/unu6DvMrDl</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/edbott">@edbott</a> <a href="https://t.co/jCTTJ1TNzG">pic.twitter.com/jCTTJ1TNzG</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/705807072265441280">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Windows 10 tip: Reclaim precious disk space with these storage tools <a href="https://t.co/d6qcLsZdOm">https://t.co/d6qcLsZdOm</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/edbott">@edbott</a> <a href="https://t.co/WF4mWVaiih">pic.twitter.com/WF4mWVaiih</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/710065280358211584">16 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Please RT <a href="https://twitter.com/SkypeSupport">@SkypeSupport</a>/<a href="https://twitter.com/Microsoft">@Microsoft</a> dropped support for Skype for Linux, we can no longer accept calls. <a href="https://t.co/fjXXuBG4qa">https://t.co/fjXXuBG4qa</a> <a href="https://twitter.com/hashtag/ThanksBill?src=hash">#ThanksBill</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702474274389372928">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

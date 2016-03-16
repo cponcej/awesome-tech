@@ -178,6 +178,8 @@
 - [sqlbackupandftp.com: Sql Backup and FTP. SQL Server backups. Efforless](http://sqlbackupandftp.com)
 - [simple-talk.com: SQL Server 2014 Backup Basics](https://www.simple-talk.com/sql/backup-and-recovery/sql-server-2014-backup-basics/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LOL. Via <a href="https://t.co/zzGQ5Fzlht">https://t.co/zzGQ5Fzlht</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://twitter.com/hashtag/CloudComputing?src=hash">#CloudComputing</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/2L8OG2mGHv">pic.twitter.com/2L8OG2mGHv</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709861013093359616">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![veeam logo](images/veeam-logo.jpg)](https://www.veeam.com)
 
 <div class="container">

@@ -73,6 +73,10 @@
 
 		df -Pl -t ext3 -t ext4 | tail -n+2 | awk '{ sum+=$3 } END { print sum/2**20 }'
 
+- Quickly remove duplicate lines from a log/text file on Unix/Linux system: 
+
+		awk '!seen[$0]++' app.logfile
+
 - Life is too short to run the same command twice.
 
 		export HISTSIZE=0 
