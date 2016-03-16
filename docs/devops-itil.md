@@ -62,6 +62,8 @@
 
 [![devops library](images/devopslibrary.png)](http://devopslibrary.com/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Video: <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>&#39;s Pierre Olivier Mathis at <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> - <a href="https://twitter.com/hashtag/Telcos?src=hash">#Telcos</a> finding the value leveraging <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> <a href="https://t.co/IhtGnxscXM">https://t.co/IhtGnxscXM</a> via <a href="https://twitter.com/TIA_Now">@TIA_Now</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/710122453360648192">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Description
 - [What is DevOps? - In Simple English 🌟🌟](https://youtu.be/_I94-tJlovg)
 - [Software Development in the 21st century 🌟🌟🌟](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
