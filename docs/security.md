@@ -380,6 +380,7 @@
 
 ### OpenSSH Security Advisory. March 2016
 - [X11Forwarding - OpenSSH Security Advisory](http://www.openssh.com/txt/x11fwd.adv) All versions of OpenSSH prior to 7.2p2 with X11Forwarding enabled.
+- [OpenSSH Implementations with X11Forwarding Enabled Should Heed Recent Security Update](https://threatpost.com/openssh-implementations-with-x11forwarding-enabled-should-heed-recent-security-update/116801/)
 
 ## Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments
