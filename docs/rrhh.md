@@ -38,6 +38,12 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/75851557?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<p><a href="https://vimeo.com/75851557">En el castillo. Cortometraje V.O. E.</a> from <a href="https://vimeo.com/lunatic">Lunatic Visual Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+<br/>
+
 ## Articulos
 - [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
@@ -93,11 +99,9 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sólo el 27% de las empresas españolas apuesta por el teletrabajo: El bajo rendimiento de las conexiones remota... <a href="https://t.co/8nqDW1b9hg">https://t.co/8nqDW1b9hg</a></p>&mdash; ColegioOficialTeleco (@COGITTCV) <a href="https://twitter.com/COGITTCV/status/705780579178934274">4 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sólo el 27% de las empresas españolas apuesta por el teletrabajo: El bajo rendimiento de las conexiones remota... <a href="https://t.co/8nqDW1b9hg">https://t.co/8nqDW1b9hg</a></p>&mdash; ColegioOficialTeleco (@COGITTCV) <a href="https://twitter.com/COGITTCV/status/705780579178934274">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El periodo de prueba en el contrato <a href="https://twitter.com/hashtag/laboral?src=hash">#laboral</a> .Derechos del trabajador y la empresa. Prestaciones por desempleo <a href="https://t.co/nWF0Xj1BKn">https://t.co/nWF0Xj1BKn</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/702040241377570816">23 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El periodo de prueba en el contrato <a href="https://twitter.com/hashtag/laboral?src=hash">#laboral</a> .Derechos del trabajador y la empresa. Prestaciones por desempleo <a href="https://t.co/nWF0Xj1BKn">https://t.co/nWF0Xj1BKn</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/702040241377570816">23 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cómo buscar trabajo con <a href="https://twitter.com/hashtag/Linkedin?src=hash">#Linkedin</a>. Consejos de Manuel Moreno .<a href="https://twitter.com/TreceBits">@TreceBits</a> <a href="https://t.co/JZOgVW4HPT">https://t.co/JZOgVW4HPT</a> <a href="https://twitter.com/rtve">@rtve</a> <a href="https://twitter.com/la2_tve">@La2_tve</a></p>&mdash; A punto con La 2 (@apuntoconLa2) <a href="https://twitter.com/apuntoconLa2/status/702557608520056832">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -119,6 +123,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/stHAVegvUhQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![pido_dos_cosas_a_jefes](images/pido_dos_cosas_a_jefes.png)](http://blogs.20minutos.es/tu-blog/2016/03/15/solo-pido-dos-cosas-a-los-jefes-en-el-trabajo-educacion-y-formas/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JWe829Jjlao?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
