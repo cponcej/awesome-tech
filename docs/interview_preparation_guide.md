@@ -70,7 +70,17 @@
 [![Voltaire judge a man by his questions](images/voltaire_judge_a_man_by_his_questions.jpg)](http://statusmind.com/)
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ppHDuTJe39g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U9rn5kuTpHw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7W_qrc-TkR8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
