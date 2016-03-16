@@ -7,6 +7,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![google_webs_espanolas_inseguras.png](images/google_webs_espanolas_inseguras.png)](http://tecnologia.elpais.com/tecnologia/2016/03/14/actualidad/1457954626_707257.html)
+
 # HTTPS, HSTS and OpenSSL
 - [letsencrypt.org free ssl](https://letsencrypt.org) Let’s Encrypt is a free, automated, and open certificate authority (CA), run for the public’s benefit. Let’s Encrypt is a service provided by the Internet Security Research Group (ISRG).
     - [Let’s Encrypt — A Free Security Certificate for Your Website 🌟](https://stosu.com/lets-encrypt-a-free-security-certificate-for-your-website/)
