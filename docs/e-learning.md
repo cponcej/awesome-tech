@@ -112,6 +112,8 @@
 - [patreon.com/crashcourse](https://www.patreon.com/crashcourse) We provide entertaining high-quality education to the entire world for free... no big
 	- [CrashCourse - youtube](https://www.youtube.com/user/crashcourse)
 
+[![bi_7sites_learn_skills_free](images/bi_7sites_learn_skills_free.png)](http://www.businessinsider.com/7-sites-where-you-can-learn-a-new-skill-for-free-2016-3)
+
 ![postureo ibiza one cookie](images/postureo_ibiza_one_cookie.png)
 
 ## Download Free Legal eBooks
