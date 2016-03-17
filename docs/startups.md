@@ -224,6 +224,8 @@
 - [43 Best Job Search Websites 2016](http://careersherpa.net/43-best-job-search-websites-2016/)
 - [The rise of LinkedIn fraud 🌟](http://www.csoonline.com/article/3036072/social-networking/the-rise-of-linkedin-fraud.html)
 
+[![bi_happiest_countries](images/bi_happiest_countries.png)](http://www.businessinsider.com/new-world-happiness-report-2016)
+
 [![most expensive cities in the world](images/most_expensive_cities.png)](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)
 
 [![singapore_most_espensive_city](images/singapore_most_espensive_city.png)](http://www.bbc.com/news/business-35765378)
