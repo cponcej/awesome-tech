@@ -49,6 +49,8 @@
 - [4 Things You Can’t Forget To Do Before Your Interview](http://www.careerealism.com/interview-cant-forget-do-before/)
 - [businessinsider.com: What hiring managers REALLY want to know when they ask these 4 common interview questions](http://www.businessinsider.com/what-the-hiring-manager-wants-to-know-when-they-ask-these-questions-in-job-interviews-2016-3)
 
+[![walk_out_job_interview](images/walk_out_job_interview.png)](https://www.linkedin.com/pulse/i-wrong-walk-out-job-interview-liz-ryan)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
