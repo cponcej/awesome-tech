@@ -254,6 +254,8 @@
 
 [![seis_destinos_emigracion](images/seis_destinos_emigracion.png)](http://www.elmundo.es/sociedad/2016/03/17/56ea7da022601d7f648b463f.html)
 
+[![lugar_residencia_emigrantes](images/lugar_residencia_emigrantes.png)](http://politica.elpais.com/politica/2016/03/16/actualidad/1458145510_786597.html)
+
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
