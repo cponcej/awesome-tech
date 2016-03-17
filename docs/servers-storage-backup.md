@@ -188,3 +188,5 @@
 <br>
 
 [![backup condition](images/backup_condition.png)](http://www.cyberciti.biz/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ever wonder what happens inside a crash test center? Check out this cool behind-the-scenes video. <a href="https://twitter.com/IIHS_autosafety">@IIHS_autosafety</a> <a href="https://t.co/HSzuKnFYMm">https://t.co/HSzuKnFYMm</a></p>&mdash; Good Deeds Insurance (@GoodDeedsDone) <a href="https://twitter.com/GoodDeedsDone/status/710460397770375168">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
