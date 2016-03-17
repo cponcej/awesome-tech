@@ -104,6 +104,8 @@
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
+[![bi_8things_companies_do](images/bi_8things_companies_do.png)](http://www.businessinsider.com/things-your-boss-can-legally-do-2016-3)
+
 [![everyone_at_work_hates_you](images/everyone_at_work_hates_you.png)](http://www.businessinsider.com/bad-habits-that-make-everyone-at-work-hate-you-2016-3)
 
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/F1VaultVideo?src=hash">#F1VaultVideo</a> - Part 2 of <a href="https://twitter.com/hashtag/Schumacher?src=hash">#Schumacher</a> vs <a href="https://twitter.com/hashtag/Coulthard?src=hash">#Coulthard</a>. Who was in the wrong? <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/f2x6QujJ2n">pic.twitter.com/f2x6QujJ2n</a></p>&mdash; F1 Fanzone (@F1FanzoneMag) <a href="https://twitter.com/F1FanzoneMag/status/705857928595636224">March 4, 2016</a></blockquote>
