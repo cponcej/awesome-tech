@@ -143,8 +143,6 @@
 
 [![job_interview-intimidation](images/job_interview-intimidation.jpg)](https://www.cartoonstock.com/directory/j/job_hunting.asp)
 
-![passive_bullying](images/passive_bullying.jpg)
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zj0eTrIHWYA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -254,6 +252,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzBj0CNP3pA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+![passive_bullying](images/passive_bullying.jpg)
 
 [![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
 
