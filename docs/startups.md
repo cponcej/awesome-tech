@@ -250,6 +250,10 @@
 </div>
 <br/>
 
+[![elmundo_emigracion](images/elmundo_emigracion.png)](http://www.elmundo.es/sociedad/2016/03/17/56ea7da022601d7f648b463f.html)
+
+[![seis_destinos_emigracion](images/seis_destinos_emigracion.png)](http://www.elmundo.es/sociedad/2016/03/17/56ea7da022601d7f648b463f.html)
+
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
