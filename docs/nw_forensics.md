@@ -82,6 +82,10 @@
 	- [Understanding Application Performance on the Network – Part VII: TCP Window Size](http://apmblog.dynatrace.com/2014/08/12/understanding-application-performance-network-part-tcp-window-size/)
 - [Troubleshooting with Wireshark: Identifying SIP Errors](https://www.youtube.com/watch?v=bu6kpneLlFc)
 	- [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark](https://www.youtube.com/watch?v=OFpQLyQxt84)
+- [tcpdump is amazing](http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">i finally figured out that tcpdump is amazing. here&#39;s some of what I learned: <a href="https://t.co/OxqKocS3p3">https://t.co/OxqKocS3p3</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/710334113421664256">17 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Laura Chappell
 - [Laura Chappell's Top Videos](https://www.youtube.com/user/thebitgirl/videos)
