@@ -19,6 +19,8 @@
  
 ![richard branson](images/richardbranson.jpg)
 
+![leaders_help_people_grow](images/leaders_help_people_grow.png)
+
 [![Leadership styles around the world](images/Leadership-Styles-Around-The-World.png)](http://www.planningengineer.net/graphs-of-leadership-types-all-over-the-world/)
 
 ![management culture france](images/management_culture_france.png)
