@@ -269,6 +269,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las <a href="https://twitter.com/hashtag/pymes?src=hash">#pymes</a> españolas contrataron 255.000profesionales con <a href="https://twitter.com/hashtag/perfilesdigitales?src=hash">#perfilesdigitales</a> el último año <a href="https://t.co/sM04SfKPbz">https://t.co/sM04SfKPbz</a> <a href="https://twitter.com/tcanalysis">@tcanalysis</a> <a href="https://twitter.com/adigital_org">@adigital_org</a></p>&mdash; Ecommerce_es (@Ecommerce_es) <a href="https://twitter.com/Ecommerce_es/status/708273814694719489">11 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![generacion_ninini](images/generacion_ninini.png)](https://porcausa.org/suenosrotos/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;&#39;Generación Ninini&#39;. <a href="https://t.co/OSMHniuD8R">https://t.co/OSMHniuD8R</a>&quot; Vía:cuadernalia</p>&mdash; Planeta Educativo (@PlanetEducativo) <a href="https://twitter.com/PlanetEducativo/status/695429889621512196">5 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![fight club](images/fight_club.gif)
 
 ## Leadership Styles Around the World
