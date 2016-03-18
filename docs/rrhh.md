@@ -21,6 +21,8 @@
 - [¿Os habéis arrepentido en alguna ocasión de no preguntar determinadas cosas en la entrevista de trabajo?](http://www.elblogderrhh.com/2011/02/%C2%BFos-habeis-arrepentido-en-alguna-ocasion-de-no-preguntar-determinadas-cosas-en-la-entrevista-de-trabajo.html)
 - [Los sueldos informáticos en Europa](http://www.think-progress.com/es/blog/posts/los-sueldos-informaticos-en-europa/)
 
+[![laboro](images/laboro.png)](http://laboro-spain.blogspot.com.es/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El enchufe como síntoma de un país estancado  <a href="https://t.co/mFIweLJLX9">https://t.co/mFIweLJLX9</a> Blog de <a href="https://twitter.com/jotaicabrera">@jotaicabrera</a> <a href="https://t.co/fRjzg0WPCr">pic.twitter.com/fRjzg0WPCr</a></p>&mdash; El Huffington Post (@ElHuffPost) <a href="https://twitter.com/ElHuffPost/status/704276216514269184">29 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -45,8 +47,6 @@
 <p><a href="https://vimeo.com/75851557">En el castillo. Cortometraje V.O. E.</a> from <a href="https://vimeo.com/lunatic">Lunatic Visual Studio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 <br/>
-
-[![laboro](images/laboro.png)](http://laboro-spain.blogspot.com.es/)
 
 ## Articulos
 - [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
