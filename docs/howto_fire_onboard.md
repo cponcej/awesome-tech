@@ -50,6 +50,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="http://t.co/Fe1lPk58OR">http://t.co/Fe1lPk58OR</a> Fight Club (4/5) Movie CLIP - Jack&#39;s Smirking Revenge (1999) HD</p>&mdash; Flavor (@Flavorant) <a href="https://twitter.com/Flavorant/status/634471694351007744">20 de agosto de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![bi_reasons_employees_in_their_thirties_leave_companies](images/bi_reasons_employees_in_their_thirties_leave_companies.png)](http://www.businessinsider.com/why-30-somethings-quit-their-jobs-2016-3)
+
 [![house_foreman_quits](images/house_foreman_quits.png)](https://www.youtube.com/watch?v=IECa1eCLVr4)
 
 ## How to Successfully Onboard Employees
