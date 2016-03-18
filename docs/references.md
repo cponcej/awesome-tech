@@ -23,6 +23,8 @@
 - [Wikipedia: Derecho al olvido](https://es.wikipedia.org/wiki/Derecho_al_olvido)
 - [Google y el derecho al olvido en Europa: ya han eliminado más de 400.000 enlaces](http://www.xataka.com/legislacion-y-derechos/google-y-el-derecho-al-olvido-en-europa-ya-han-eliminado-mas-de-400-000-enlaces)
 
+[![ivanka_trump_references](images/ivanka_trump_references.png)](http://www.businessinsider.com/ivanka-trump-explains-how-she-hires-2016-3)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WqjpfJDqAlY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
