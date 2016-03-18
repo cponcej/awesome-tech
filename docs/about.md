@@ -278,8 +278,5 @@ ______________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="es" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/JIjzSX7872">https://t.co/JIjzSX7872</a> - goleman Redes 130_ Aprender a gestionar las emociones - emociones).</p>&mdash; BEGOÑA ALBA (@NetBEGOA) <a href="https://twitter.com/NetBEGOA/status/703589412085624832">February 27, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El éxito llama al éxito - psicología vía <a href="https://twitter.com/RedesTV">@RedesTV</a>  <a href="http://t.co/x0BZ3zUech">http://t.co/x0BZ3zUech</a></p>&mdash; ✿ Mariló Urquiza ✿ (@mdurquiza) <a href="https://twitter.com/mdurquiza/status/635414373830426624">23 de agosto de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Carl Sagan Cosmos Intro <a href="https://t.co/0EE0W5Inqw">https://t.co/0EE0W5Inqw</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; I Grok (@friendofwatts) <a href="https://twitter.com/friendofwatts/status/706443654307684352">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -154,6 +154,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/atandocabos1">@atandocabos1</a> <a href="https://twitter.com/f_solorzano">@f_solorzano</a> El Metodo (Gronholm)<br> <a href="http://t.co/a35AVOPgIo">http://t.co/a35AVOPgIo</a>   //  <a href="http://t.co/cyz1riEean">http://t.co/cyz1riEean</a></p>&mdash; Gato Astronauta (@TigrisStarbuck) <a href="https://twitter.com/TigrisStarbuck/status/625474182147608577">27 de julio de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El éxito llama al éxito - psicología vía <a href="https://twitter.com/RedesTV">@RedesTV</a>  <a href="http://t.co/x0BZ3zUech">http://t.co/x0BZ3zUech</a></p>&mdash; ✿ Mariló Urquiza ✿ (@mdurquiza) <a href="https://twitter.com/mdurquiza/status/635414373830426624">23 de agosto de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/9XrSMtIBxLg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
