@@ -290,7 +290,7 @@
 
 [![welcome_to_desperate_economy](images/welcome_to_desperate_economy.png)](https://www.linkedin.com/pulse/game-jobs-3-welcome-desperate-economy-nachi-junankar)
 
-[![dejo_la_informatica](images/dejo_la_informatica)](http://www.javiergarzas.com/2014/07/los-siento-dejo-la-profesion-dejo-la-informatica-y-dedico-otra-cosa.html)
+[![dejo_la_informatica](images/dejo_la_informatica.png)](http://www.javiergarzas.com/2014/07/los-siento-dejo-la-profesion-dejo-la-informatica-y-dedico-otra-cosa.html)
 
 [![ser_informatico_ya_no_es](images/ser_informatico_ya_no_es.png)](http://www.readwriteweb.es/ser-informatico/)
 
