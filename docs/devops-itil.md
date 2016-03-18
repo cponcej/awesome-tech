@@ -252,6 +252,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Estimates <a href="https://t.co/w1XL7sM1P3">https://t.co/w1XL7sM1P3</a> <a href="https://twitter.com/hashtag/ProjectManagement?src=hash">#ProjectManagement</a> <a href="https://twitter.com/hashtag/webcomic?src=hash">#webcomic</a> <a href="https://twitter.com/hashtag/TimeEstimates?src=hash">#TimeEstimates</a> <a href="https://t.co/1vSpPvgN0R">pic.twitter.com/1vSpPvgN0R</a></p>&mdash; Don&#39;t Hit Save (@donthitsave) <a href="https://twitter.com/donthitsave/status/705854945103364097">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">But it took 20 years of experience to know which 3 lines of code to change, and 10hrs of engineering to do it right <a href="https://t.co/4jLc69TJ4X">https://t.co/4jLc69TJ4X</a></p>&mdash; John Arundel (@bitfield) <a href="https://twitter.com/bitfield/status/706453449211305984">6 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### Scrum Master. Scrum Cheat Sheet
 - [DZone/Agile Zone. Hiring: 38 Scrum Master Interview Questions To Avoid Imposters](https://dzone.com/articles/hiring-38-scrum-master-interview-questions-to-avoi) A free pdf from DZone user Stefan Wolpers for those looking to hire Scrum Masters or agile professionals.
 - [The shortest and greatest SCRUM cheat sheet that I've seen so far 🌟🌟🌟](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)

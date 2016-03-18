@@ -466,9 +466,6 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When debugging Perl/Python code or networking issue <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a>  via <a href="https://t.co/34KKaad00d">https://t.co/34KKaad00d</a> <a href="https://t.co/kqA7mR3AKy">pic.twitter.com/kqA7mR3AKy</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706194879915757568">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">But it took 20 years of experience to know which 3 lines of code to change, and 10hrs of engineering to do it right <a href="https://t.co/4jLc69TJ4X">https://t.co/4jLc69TJ4X</a></p>&mdash; John Arundel (@bitfield) <a href="https://twitter.com/bitfield/status/706453449211305984">6 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/enq08ekUWo1s65" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cuelogic/automation-testing-by-selenium-web-driver" title="Automation Testing by Selenium Web Driver" target="_blank">Automation Testing by Selenium Web Driver</a> </strong> from <strong><a href="//www.slideshare.net/cuelogic" target="_blank">Cuelogic Technologies Pvt. Ltd.</a></strong> </div>
 </div> 
