@@ -130,6 +130,10 @@
 
 [![pido_dos_cosas_a_jefes](images/pido_dos_cosas_a_jefes.png)](http://blogs.20minutos.es/tu-blog/2016/03/15/solo-pido-dos-cosas-a-los-jefes-en-el-trabajo-educacion-y-formas/)
 
+[![expansion_jefe_toxico](images/expansion_jefe_toxico.png)](http://www.expansion.com/2014/01/02/emprendedores-empleo/desarrollo-de-carrera/1388685053.html)
+
+[![elpais_como_es_tu_jefe](images/elpais_como_es_tu_jefe.png)](http://sociedad.elpais.com/sociedad/2013/10/01/actualidad/1380646439_966431.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JWe829Jjlao?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
