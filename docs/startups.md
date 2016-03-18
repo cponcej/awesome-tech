@@ -284,6 +284,16 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;&#39;Generación Ninini&#39;. <a href="https://t.co/OSMHniuD8R">https://t.co/OSMHniuD8R</a>&quot; Vía:cuadernalia</p>&mdash; Planeta Educativo (@PlanetEducativo) <a href="https://twitter.com/PlanetEducativo/status/695429889621512196">5 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![pernicioso_circulo_carnicas](images/pernicioso_circulo_carnicas.png)](http://www.genbetadev.com/modelos-de-negocio/el-pernicioso-circulo-vicioso-de-las-carnicas-los-que-pagan-los-clientes)
+
+[![pernicioso_circulo_carnicas_no_empresas_sw](images/pernicioso_circulo_carnicas_no_empresas_sw.png)](http://www.genbetadev.com/trabajar-como-desarrollador/el-pernicioso-circulo-vicioso-de-las-carnicas-las-consultoras-no-son-empresas-de-software)
+
+[![welcome_to_desperate_economy](images/welcome_to_desperate_economy.png)](https://www.linkedin.com/pulse/game-jobs-3-welcome-desperate-economy-nachi-junankar)
+
+[![dejo_la_informatica](images/dejo_la_informatica)](http://www.javiergarzas.com/2014/07/los-siento-dejo-la-profesion-dejo-la-informatica-y-dedico-otra-cosa.html)
+
+[![ser_informatico_ya_no_es](images/ser_informatico_ya_no_es.png)](http://www.readwriteweb.es/ser-informatico/)
+
 ![fight club](images/fight_club.gif)
 
 ## Leadership Styles Around the World
