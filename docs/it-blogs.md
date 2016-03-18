@@ -102,6 +102,8 @@
 
 [![why indeed](images/why_indeed.png)](https://upvoted.com/2015/12/15/it-workers-share-the-most-idiotic-things-non-techies-have-told-them/)
 
+![do_you_need_a_ticket](images/do_you_need_a_ticket.jpg)
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/FyDLH9jfv239KT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bhavna123/handling-difficult-calls-presentation" title="Handling Difficult Calls" target="_blank">Handling Difficult Calls</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/bhavna123">Bhavana Agarwal</a></strong> </div>
 </div>
