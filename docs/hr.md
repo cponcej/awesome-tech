@@ -75,6 +75,9 @@
 - [Feels Like My Boss Doesn't Like Me (And, It's Hurting My Career) 🌟](https://www.linkedin.com/pulse/feels-like-my-boss-doesnt-me-its-hurting-career-j-t-o-donnell)
 - [20 things the most respected bosses never say](http://www.businessinsider.com/20-things-the-most-respected-bosses-never-say-2016-3)
 - [businessinsider.com: 13 signs you're about to get a promotion at work 🌟](http://www.businessinsider.com/signs-youre-about-to-be-promoted-at-work-2016-3)
+- [forbes: 9 Things You Can Do When The Boss Takes Credit For Your Work](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
+
+[![forbes_9things_to_do_your_boss_takes_credit_for_your_work](images/forbes_9things_to_do_your_boss_takes_credit_for_your_work.png)](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
 
 ![voltaire good mood](images/voltaire_good_mood.jpg)
 
