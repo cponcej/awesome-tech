@@ -194,6 +194,7 @@
 - [redhat.com/storage](http://redhat.com/storage)
 - [redhat.lookbookhq.com: Is Open, Software-defined Storage Right for Your Organization?](http://redhat.lookbookhq.com/sds/asset1)
 - [UK goes all-in on cloud as Google & Red Hat partner for flexible, open source storage](http://www.cbronline.com/news/cloud/public/uk-heads-all-in-on-cloud-as-google-red-hat-partner-for-flexible-open-source-storage-4816365)
+- [tecmint.com: Create Centralized Secure Storage using iSCSI Target/Initiator on RHEL/CentOS 7 – Part 12 🌟](http://www.tecmint.com/create-centralized-secure-storage-using-iscsi-target-initiator/)
 
 <div class="container">
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/lvYQlLnuyNY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
