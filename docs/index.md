@@ -6,7 +6,8 @@
 </div>
 
 <p align="center">
-I'm not interested neither in moving abroad nor becoming freelance.
+I'm not interested neither in moving abroad nor becoming freelance (Spanish recruiters already sent my CV abroad).
+This Web is about taking credit for my work. It's also a public complain. To fight against the stigma of being unemployed I have my work documented (cannot be shared publicly). Surprisingly I'm not getting job offers and it's hard to understand in IT. As I grow old this has a major impact in my life. Looking for hearing new opportunities based more on the quality of my work and less who I know. 
 </p>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
