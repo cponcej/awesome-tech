@@ -38,6 +38,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Oh, the places you can go with Google Street View <a href="https://t.co/p1UP4dN6YY">https://t.co/p1UP4dN6YY</a> by <a href="https://twitter.com/annaescher">@annaescher</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/706177710926630912">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Solar power:clean and cheap <a href="https://twitter.com/hashtag/energy?src=hash">#energy</a> to power over 29 million homes in the world <a href="https://t.co/quqiXpd8TD">https://t.co/quqiXpd8TD</a></p>&mdash; Antonio Renom (@AntonioRenom) <a href="https://twitter.com/AntonioRenom/status/710830122618609668">18 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mi soñada bicicleta <a href="https://t.co/OQHWqFfxIz">https://t.co/OQHWqFfxIz</a></p>&mdash; Ricardo Trujillo (@rtrujillor) <a href="https://twitter.com/rtrujillor/status/706095627579629568">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
