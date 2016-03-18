@@ -64,6 +64,8 @@
 <a href="https://www.youtube.com/watch?v=IF3n6L3P_f0">How Corrupt Is Russia?</a>
 </p>
 
+[![43percent_recruiters_blacklist](images/43percent_recruiters_blacklist.png)](http://www.blogging4jobs.com/job-search/blacklist-job-search-strategies/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3uoyD4IuVj0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
