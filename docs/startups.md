@@ -256,6 +256,8 @@
 
 [![lugar_residencia_emigrantes](images/lugar_residencia_emigrantes.png)](http://politica.elpais.com/politica/2016/03/16/actualidad/1458145510_786597.html)
 
+[![cunde_desanimo_futuro_jovenes_catalanes](images/cunde_desanimo_futuro_jovenes_catalanes.png)](http://www.lavanguardia.com/vida/20160317/40497346529/desanimo-futuro-jovenes-catalanes.html)
+
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
