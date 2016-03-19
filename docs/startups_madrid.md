@@ -113,3 +113,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">GMV, participará el próximo 26 de Febrero en la jornada “Transformación Digital y Cloud en la empresa” <a href="https://t.co/2paOUbaPGS">https://t.co/2paOUbaPGS</a></p>&mdash; GMV (@infoGMV_es) <a href="https://twitter.com/infoGMV_es/status/701719954928828417">22 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">By 2017, every public space in <a href="https://twitter.com/hashtag/Seoul?src=hash">#Seoul</a> will be fitted with free <a href="https://twitter.com/hashtag/WiFi?src=hash">#WiFi</a> access. <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> goals. <a href="https://t.co/oLXZHG7Jb2">https://t.co/oLXZHG7Jb2</a> <a href="https://t.co/xoPAlx2cck">pic.twitter.com/xoPAlx2cck</a></p>&mdash; Fon (@Fon) <a href="https://twitter.com/Fon/status/704621341815734272">1 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
