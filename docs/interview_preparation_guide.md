@@ -151,6 +151,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1mW-mkZXAlg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Moneyball Job Offer <a href="https://t.co/oR0SUF6mnC">https://t.co/oR0SUF6mnC</a></p>&mdash; Scott (@kawebbScott) <a href="https://twitter.com/kawebbScott/status/708726103872032768">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Technical Resume
