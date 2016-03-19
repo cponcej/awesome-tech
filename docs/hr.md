@@ -7,6 +7,7 @@
     - [Management](#management)
     - [Work environment issues](#work-environment-issues)
     - [Code of conduct](#code-of-conduct)
+    - [Employee Poaching & Non-Compete Agreements](#employee-poaching--non-compete-agreements)
     - [Job hunting](#job-hunting)
         - [Job Description](#job-description)
         - [Networking](#networking)
@@ -134,6 +135,17 @@
 ## Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.
+
+## Employee Poaching & Non-Compete Agreements
+- [High-Tech Employee Antitrust Litigation](https://en.wikipedia.org/wiki/High-Tech_Employee_Antitrust_Litigation)
+- [Apple, Google, others settle antipoaching lawsuit for $415 million](http://www.cnet.com/news/apple-google-others-settle-anti-poaching-lawsuit-for-415-million/)
+- [Apple, Google reach new deal to end U.S. lawsuit over poaching](http://www.reuters.com/article/us-apple-google-settlement-idUSKBN0KN02Z20150114)
+- [Demanda multimillonaria a Apple, Google, Intel y Adobe por pactar que no se robarían empleados](http://www.elperiodico.com/es/noticias/economia/apple-google-intel-adobe-pagaran-372-millones-euros-por-pactar-que-robarian-empleados-4480311)
+- [¿Que os parece la actitud de Google, Apple, Intel, Adobe, etc?](http://www.xataka.com/respuestas/que-os-parece-la-actitud-de-google-apple-intel-adobe-etc)
+
+[![demanda_apple_google_intel_por_pactar](images/demanda_apple_google_intel_por_pactar.png)](http://www.elperiodico.com/es/noticias/economia/apple-google-intel-adobe-pagaran-372-millones-euros-por-pactar-que-robarian-empleados-4480311)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Non-compete agreements are becoming more common - here&#39;s how to arm yourself if you&#39;re asked to sign: <a href="https://t.co/nMpQSr7ym1">https://t.co/nMpQSr7ym1</a></p>&mdash; Ross School of Bus. (@MichiganRoss) <a href="https://twitter.com/MichiganRoss/status/710475048893718528">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Job hunting
 - [9 Signs You Should Run Away From That Job Offer](http://www.inc.com/jt-odonnell/9-signs-you-should-run-away-from-that-job-offer.html)
