@@ -7,7 +7,7 @@
 
 <p align="center">
 Available to work.
-This Web is about taking credit for my work. It's also a public complain. Currently fight against the stigma of being unemployed.Looking for hearing new opportunities based more on the quality of my work and less who I know. 
+This Web is about taking credit for my work. It's also a public complain. Currently fighting against the stigma of being unemployed.Looking for hearing new opportunities based more on the quality of my work and less who I know. 
 </p>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
