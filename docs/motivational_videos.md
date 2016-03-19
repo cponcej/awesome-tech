@@ -1,6 +1,21 @@
 # Motivational videos
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpjreVYdjJY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LrhSJ1FHeaA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1PSbDmV8Gw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P40oA4xMlCw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
