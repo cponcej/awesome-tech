@@ -488,3 +488,6 @@ ________________________________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This has come up a few times this week: &quot;What would you say... you do here?&quot; The Bobs from Office Space <a href="https://t.co/sQwQpMXXhu">https://t.co/sQwQpMXXhu</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Joshua Cypess (@JoshuaCypess) <a href="https://twitter.com/JoshuaCypess/status/679800703032889344">23 de diciembre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Too Full Stack<br> <a href="https://t.co/Pbn9UBCKKv">https://t.co/Pbn9UBCKKv</a> <a href="https://t.co/2nStiS6oFB">pic.twitter.com/2nStiS6oFB</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/710544004199354369">17 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

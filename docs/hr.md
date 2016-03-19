@@ -188,6 +188,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you need experience to get a job but you need a job for experience 🙃 <a href="https://t.co/Xm37xnBcKP">pic.twitter.com/Xm37xnBcKP</a></p>&mdash; Nerd (@SmartInsults) <a href="https://twitter.com/SmartInsults/status/702547713573916672">24 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Most of these require effort not talent. Still good list though for any one working in IT :) <a href="https://t.co/5fvzFl94V2">pic.twitter.com/5fvzFl94V2</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710541752847839232">17 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Job Description
 - [4 Benefits of Accurate Job Descriptions for Small Businesses](http://www.mjms.net/blog/4-benefits-of-accurate-job-descriptions-for-small-businesses/)
 
