@@ -72,3 +72,11 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/2W5PXYTutNuCfK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wkandek/unsafe-ssl-compact" title="Unsafe SSL webinar" target="_blank">Unsafe SSL webinar</a> </strong> from <strong><a href="//www.slideshare.net/wkandek" target="_blank">Wolfgang Kandek</a></strong> </div>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/DataPrivacyDay?src=hash">#DataPrivacyDay</a>. Have you encrypted all your things? <a href="https://t.co/DlqdcdpSRv">https://t.co/DlqdcdpSRv</a> <a href="https://t.co/WqXTBmFHvk">pic.twitter.com/WqXTBmFHvk</a></p>&mdash; Encrypt Things (@EncryptThings) <a href="https://twitter.com/EncryptThings/status/692724116948914180">28 de enero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We&#39;re proud to announce the launch of a global coalition demanding <a href="https://twitter.com/hashtag/SecurityForAll?src=hash">#SecurityForAll</a> at <a href="https://t.co/ulzwLFIB0s">https://t.co/ulzwLFIB0s</a>. <a href="https://t.co/jew6iTTb6m">pic.twitter.com/jew6iTTb6m</a></p>&mdash; Encrypt Things (@EncryptThings) <a href="https://twitter.com/EncryptThings/status/686578528981221376">11 de enero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">OpenSSL To Undergo Massive Security Audit <a href="http://t.co/IsTGRavV3m">http://t.co/IsTGRavV3m</a></p>&mdash; Slashdot (@slashdot) <a href="https://twitter.com/slashdot/status/576103032179597312">12 de marzo de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
