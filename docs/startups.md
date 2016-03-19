@@ -294,6 +294,8 @@
 
 [![ser_informatico_ya_no_es](images/ser_informatico_ya_no_es.png)](http://www.readwriteweb.es/ser-informatico/)
 
+[![trabajo_basura](images/trabajo_basura.gif)](http://trabajobasura.info/)
+
 ![fight club](images/fight_club.gif)
 
 ## Leadership Styles Around the World
