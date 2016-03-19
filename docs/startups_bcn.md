@@ -291,3 +291,9 @@ para universitarios y titulados júnior
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cambia a HolaLuz y disfruta de, probablemente, la tarifa más económica del mercado ;) <a href="https://t.co/tTZHTsO75P">https://t.co/tTZHTsO75P</a> <a href="https://t.co/VI7eE1Nr2x">pic.twitter.com/VI7eE1Nr2x</a></p>&mdash; HolaLuz.com (@HolaLuzcom) <a href="https://twitter.com/HolaLuzcom/status/710126550943977472">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">DevOps Engineer at Wakoopa (<a href="https://twitter.com/wakoopa">@wakoopa</a>) [Barcelona, Spain] <a href="https://t.co/Z8tXTb7b3d">https://t.co/Z8tXTb7b3d</a> <a href="https://twitter.com/hashtag/amazonwebservices?src=hash">#amazonwebservices</a></p>&mdash; Stack Overflow Jobs (@StackDevJobs) <a href="https://twitter.com/StackDevJobs/status/659712540025462784">29 de octubre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.@adtech_london how can single source, behavioral data help solve the attribution modeling headache? <a href="http://t.co/dU1WXuDvmU">pic.twitter.com/dU1WXuDvmU</a></p>&mdash; Wakoopa (@wakoopa) <a href="https://twitter.com/wakoopa/status/653957470646333440">13 de octubre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
