@@ -63,4 +63,7 @@
 </div>
 <br>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="ja" dir="ltr"><a href="https://t.co/liFQKTlKHn">https://t.co/liFQKTlKHn</a> <a href="https://twitter.com/YouTube">@youtube</a>さんから</p>&mdash; Funny (@milk2883) <a href="https://twitter.com/milk2883/status/710377994351542272">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/E84OWq6z3IQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
