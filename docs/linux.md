@@ -107,6 +107,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Breaking news: <a href="https://twitter.com/satyanadella">@satyanadella</a> and <a href="https://twitter.com/Microsoft">@Microsoft</a> Announces Windows 12. Based upon industry strenght <a href="https://twitter.com/ubuntu">@Ubuntu</a> Linux 21.04 LTS code base.</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707687944488747008">marzo 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">An &quot;Ohnosecond&quot; is defined as  period of time between when you hit enter &amp; you realize what you just did <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/QmSTu0gpYr">pic.twitter.com/QmSTu0gpYr</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710674366875328512">18 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![Linux is user friendly](images/tux_friendly.png)](https://twitter.com/nixcraft)
 
 ## Linux and FOSS Blogs and Forums
