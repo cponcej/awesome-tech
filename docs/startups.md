@@ -305,6 +305,8 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/ebrI2txzsqZUlY_pj-z1ZQ/114944216680" data-did="5a1964be9c133b76877062dd2b8bc7e8a66aa3f6"><a href="http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew">http://forbes.tumblr.com/post/114944216680/things-people-reading-your-resume-wish-you-knew</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
+[![annoying_practices_bad_recruitment_consultants](images/annoying_practices_bad_recruitment_consultants.png)](https://www.linkedin.com/pulse/20140627145242-24927776-annoying-practices-of-bad-recruitment-consultants)
+
 # Freelance jobs
 - [Freelance jobs](freelance_jobs.md)
 
