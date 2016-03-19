@@ -59,6 +59,7 @@
 
 ## Excel
 - [Learning Excel isn't just for finance professionals, it can boost anyone's productivity at work — here’s how](http://www.businessinsider.com/master-microsoft-excel-basics-beginner-online-course-udemy-deal-2016-2)
+- [Lynda.com Excel Tips](http://www.lynda.com/Excel-tutorials/Excel-Tips/363001-2.html)
 
 ![bill gates](images/bill_gates.jpg)
 
