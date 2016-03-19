@@ -82,6 +82,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/IVdfEjIpjP">pic.twitter.com/IVdfEjIpjP</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707869367766097920">marzo 10, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When, we do our job well:<br><br>We are invisible.<br><br>We are sysadmins.<br><br>We are......... fuck it. I&#39;m going home. <a href="https://twitter.com/hashtag/Truth?src=hash">#Truth</a> <a href="https://twitter.com/hashtag/noloveforus?src=hash">#noloveforus</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710926652285411328">18 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_nhxm5QEbYI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

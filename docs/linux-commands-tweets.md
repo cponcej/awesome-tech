@@ -114,3 +114,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want refresh changed content of file opened in vim or vi on Unix/Linux:<br><br>:edit<br>:edit!<br><br>Force autoreload each time file changed<br>:set autoread</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710051089236643840">16 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Perl has a utility a2p to convert awk scripts into perl scripts.</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/710868546436395008">18 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Prevent grep from showing up in ps results on unix<br><br>ps aux |grep httpd| grep -v grep # good<br>ps aux|grep [h]ttpd # better<br>pgrep httpd  # best</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710936650386309120">18 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
