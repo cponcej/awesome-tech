@@ -40,6 +40,8 @@
 ## Centros de datos
 - [centrodedatos-datacenter.es](http://www.centrodedatos-datacenter.es)
 
+[![nexica](images/nexica.jpg)](https://www.nexica.com/)
+
 [![cdmon blog](images/cdmon_blog-748x350.jpg)](https://www.cdmon.com)
 
 [![ackstorm logo](images/ack_storm_logo.png)](http://www.ackstorm.com/)

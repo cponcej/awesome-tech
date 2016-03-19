@@ -193,11 +193,35 @@ para universitarios y titulados júnior
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0f8SGyNhsxY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/emN6OYxozoA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6CwGrLtSZLA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jUWXr9SSi8g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CHGq7H5zSa8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">&quot;El que més valorem de Barcelona Activa és la xarxa de contactes que et dóna&quot; 10 testimonis d&#39; <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a> <a href="https://t.co/UgKNMsxadJ">https://t.co/UgKNMsxadJ</a></p>&mdash; Barcelona Activa (@barcelonactiva) <a href="https://twitter.com/barcelonactiva/status/706013987096424448">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Biotech?src=hash">#Biotech</a> <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a> are looking to &#39;win the 21st century,&#39; the <a href="https://twitter.com/guardian">@guardian</a> reports <a href="https://t.co/R4DBGMp2xI">https://t.co/R4DBGMp2xI</a></p>&mdash; CRG (@CRGenomica) <a href="https://twitter.com/CRGenomica/status/702554925889429505">24 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Biotech?src=hash">#Biotech</a> <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a> are looking to &#39;win the 21st century,&#39; the <a href="https://twitter.com/guardian">@guardian</a> reports <a href="https://t.co/R4DBGMp2xI">https://t.co/R4DBGMp2xI</a></p>&mdash; CRG (@CRGenomica) <a href="https://twitter.com/CRGenomica/status/702554925889429505">24 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Miquel Camprodon de Kernel e Israel Saeta de <a href="https://twitter.com/leadratings">@leadratings</a> presentando <a href="https://twitter.com/hashtag/statsmodels?src=hash">#statsmodels</a> en la <a href="https://twitter.com/PyConES">@PyConES</a> 2015 <a href="https://t.co/F3NKAFBmNM">https://t.co/F3NKAFBmNM</a></p>&mdash; Kernel Analytics (@KernelAnalytics) <a href="https://twitter.com/KernelAnalytics/status/697375146747760640">10 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -297,3 +321,5 @@ para universitarios y titulados júnior
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.@adtech_london how can single source, behavioral data help solve the attribution modeling headache? <a href="http://t.co/dU1WXuDvmU">pic.twitter.com/dU1WXuDvmU</a></p>&mdash; Wakoopa (@wakoopa) <a href="https://twitter.com/wakoopa/status/653957470646333440">13 de octubre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Bon dia Barcelona! Con ganas para el Nexica Event con <a href="https://twitter.com/Dell">@Dell</a> y el esperado <a href="https://twitter.com/ramsesgallego">@ramsesgallego</a> <a href="https://twitter.com/hashtag/seguridad?src=hash">#seguridad</a> <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> <a href="https://twitter.com/hashtag/Yvet?src=hash">#Yvet</a> <a href="https://t.co/Fq2ElrDRga">pic.twitter.com/Fq2ElrDRga</a></p>&mdash; Nexica (@cloudNexica) <a href="https://twitter.com/cloudNexica/status/710017712404238336">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
