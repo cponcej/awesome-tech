@@ -54,6 +54,11 @@
 
 [![house_foreman_quits](images/house_foreman_quits.png)](https://www.youtube.com/watch?v=IECa1eCLVr4)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Km6bFBSVty4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## How to Successfully Onboard Employees
 - [How to Successfully Onboard Employees](http://www.dzonesoftware.com/blog/how-to-successfully-onboard-employees)
 
