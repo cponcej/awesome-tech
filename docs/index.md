@@ -22,6 +22,7 @@ Available for work. Currently fighting against the stigma of being unemployed. L
 	- [Madrid Tech, Startups and Innovation](startups_madrid.md)
 	- [Rules for success](rules_for_success.md)
 	- [Freelance jobs](freelance_jobs.md)
+	- [Motivational videos](motivational_videos.md)
 3. [Human Resources, Interviews, Leadership 🙈 🙉 🙊](hr.md) Stimulating and provocative!
 	- [How to Fire and Onboard](howto_fire_onboard.md)
 	- [Culture and Collaboration](culture_collaboration.md)
