@@ -307,6 +307,8 @@
 
 [![annoying_practices_bad_recruitment_consultants](images/annoying_practices_bad_recruitment_consultants.png)](https://www.linkedin.com/pulse/20140627145242-24927776-annoying-practices-of-bad-recruitment-consultants)
 
+[![askamanager_recruiter_salary_games](images/askamanager_recruiter_salary_games.png)](http://www.askamanager.org/2013/02/when-a-recruiter-approaches-you-about-a-job-but-plays-games-on-salary.html)
+
 # Freelance jobs
 - [Freelance jobs](freelance_jobs.md)
 
