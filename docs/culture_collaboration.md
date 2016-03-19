@@ -97,6 +97,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Show me a person who has never made a mistake and I&#39;ll show you somebody who has never achieved much. ~ Joan Collins</p>&mdash; Zen Moments (@Zen_Moments) <a href="https://twitter.com/Zen_Moments/status/702151633334046720">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This is why relationships matter at work: <a href="https://t.co/rB6g8Y6G3v">https://t.co/rB6g8Y6G3v</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/711241072442265600">19 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![economist_work_life_balance](images/economist_work_life_balance.png)](https://www.1843magazine.com/features/why-do-we-work-so-hard)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Must See!!! Full Metal Jacket - Jelly Doughnut Scene <a href="https://t.co/wkPLh6snXz">https://t.co/wkPLh6snXz</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Dawgy65 (@woofeous) <a href="https://twitter.com/woofeous/status/696820724695105536">8 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -115,3 +117,5 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="de" dir="ltr">Ich habe ein <a href="https://twitter.com/YouTube">@YouTube</a>-Video positiv bewertet: <a href="http://t.co/gXxEitdkxV">http://t.co/gXxEitdkxV</a> American Psycho - Axe scene</p>&mdash; Cas Supporters (@Klerus78) <a href="https://twitter.com/Klerus78/status/653918852338814976">13 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="de" dir="ltr">Ich habe ein <a href="https://twitter.com/YouTube">@YouTube</a>-Video positiv bewertet: <a href="https://t.co/rKubGABdSn">https://t.co/rKubGABdSn</a> Rush &quot;Ending Scene&quot;</p>&mdash; TewDee (@doktorflake) <a href="https://twitter.com/doktorflake/status/666332803957727232">16 de noviembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

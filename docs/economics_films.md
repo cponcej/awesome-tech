@@ -21,6 +21,7 @@
     - [The Clearing](#the-clearing)
     - [How I Learned to Stop Worrying and Love the Bomb](#how-i-learned-to-stop-worrying-and-love-the-bomb)
     - [Trading Places](#trading-places)
+    - [Rush](#rush)
     - [Antonio Gasset en Dias de Cine](#antonio-gasset-en-dias-de-cine)
 
 <!-- /MarkdownTOC -->
@@ -235,6 +236,13 @@
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ZjDbJQKDXCY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Rush
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lzNbGH1oZJc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

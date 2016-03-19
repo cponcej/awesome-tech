@@ -131,6 +131,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When the Fed tightens. This can be the impact. CHART: <a href="https://t.co/bR1LeT1DFp">https://t.co/bR1LeT1DFp</a><a href="https://twitter.com/search?q=%24SPY&amp;src=ctag">$SPY</a> <a href="https://twitter.com/search?q=%24TLT&amp;src=ctag">$TLT</a> <a href="https://twitter.com/search?q=%24GLD&amp;src=ctag">$GLD</a> <a href="https://t.co/ybBxczmYtW">pic.twitter.com/ybBxczmYtW</a></p>&mdash; StockTwits (@StockTwits) <a href="https://twitter.com/StockTwits/status/699289052965515266">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top political risks<br><br>1. Brexit<br>2. US election and populist wave<br>3. Syria, migrant crisis<br>4. East Asia territory disputes<br>5. Brazil troubles</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/711225740725911552">19 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">DEUTCHE BANK Is Back: 5 Year Sub CDS Soar To Record High, similar to LEHMAN bankruptcy. <a href="https://t.co/HSyodUk3GH">https://t.co/HSyodUk3GH</a> <a href="https://t.co/fNFg80Sz21">pic.twitter.com/fNFg80Sz21</a></p>&mdash; Marco-Hans (@mhwillik) <a href="https://twitter.com/mhwillik/status/697820500165324800">febrero 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -136,6 +136,9 @@
 - [Forbes: Big Data Facts: How Many Companies Are Really Making Money From Their Data?](Big Data Facts: How Many Companies Are Really Making Money From Their Data?)
 - [centurylink.com: Data Lakes: Hadoop Vs. In-Memory Databases](http://www.centurylink.com/business/enterprise/blog/thinkgig/data-lakes-hadoop-vs-in-memory-databases/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/Bigdata?src=hash">#Bigdata</a>. El poder de convertir datos en decisiones <a href="https://t.co/T3yhz2MdMH">https://t.co/T3yhz2MdMH</a> <a href="https://twitter.com/hashtag/ebook?src=hash">#ebook</a></p>&mdash; A un clic de las TIC (@AunCLICdelasTIC) <a href="https://twitter.com/AunCLICdelasTIC/status/711228464242794499">19 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//es.slideshare.net/slideshow/embed_code/key/1wOqZRETza1mJ3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/zanorte/apache-storm-introduccion" title="Apache Storm: Introduccion" target="_blank">Apache Storm: Introduccion</a> </strong> from <strong><a href="//es.slideshare.net/zanorte" target="_blank">Stratebi</a></strong> </div>
 </div>
