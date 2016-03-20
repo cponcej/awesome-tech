@@ -121,3 +121,5 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I love this service <a href="https://t.co/VBbEgtJFMT">https://t.co/VBbEgtJFMT</a> Easy file sharing from the unix CLI<br><br>curl --upload-file ./foo.jpg https://transfer\.sh/foo.jpg</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711474301996634113">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/hbwHXeFOI0">https://t.co/hbwHXeFOI0</a> this is also a cool Unix tool to provide files easy and fast from CLI</p>&mdash; Andreas (@npoxy) <a href="https://twitter.com/npoxy/status/711543356480950272">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
