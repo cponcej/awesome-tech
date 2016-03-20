@@ -83,8 +83,12 @@
 - [The Developer Struggle is Real: What Our Family and Friends Think We Do](https://dzone.com/articles/the-developer-struggle-is-real-what-our-family-and) What our friends and family think we do is quite different from what we actually do. Their misconceptions lead to hilarious exchanges.
 - [Which programming language should I learn first? 🌟🌟🌟](http://i.cubeupload.com/dxUuH1.png)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which programming language should I learn first? Large version <a href="https://t.co/JxKrY4rYUD">https://t.co/JxKrY4rYUD</a> <a href="https://t.co/O51aIH5EcM">pic.twitter.com/O51aIH5EcM</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/701895847731032064">febrero 22, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which programming language should I learn first? Large version <a href="https://t.co/JxKrY4rYUD">https://t.co/JxKrY4rYUD</a> <a href="https://t.co/O51aIH5EcM">pic.twitter.com/O51aIH5EcM</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/701895847731032064">febrero 22, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Bonus points if you can&#39;t even read it yourself <a href="https://t.co/9Tk2WREN0E">pic.twitter.com/9Tk2WREN0E</a></p>&mdash; Practical Developer (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/710156980535558144">16 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Awesome and free PDF ebook: Modern C <a href="https://t.co/1hWOAy5Hda">https://t.co/1hWOAy5Hda</a> <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711106381806350336">19 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Blogs and Forums
 - [DZone 🌟🌟🌟🌟🌟](http://dzone.com)
@@ -491,3 +495,5 @@ ________________________________________________________________________________
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Too Full Stack<br> <a href="https://t.co/Pbn9UBCKKv">https://t.co/Pbn9UBCKKv</a> <a href="https://t.co/2nStiS6oFB">pic.twitter.com/2nStiS6oFB</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/710544004199354369">17 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Watching a user test your product for the first time. <a href="https://t.co/NFWqyW25ld">pic.twitter.com/NFWqyW25ld</a></p>&mdash; 〰 (@darylginn) <a href="https://twitter.com/darylginn/status/707176649478041600">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -483,6 +483,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wow! Worth reading!! The Untold History of Arduino <a href="https://t.co/JiPmZhEouS">https://t.co/JiPmZhEouS</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706210580567183362">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Read <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> temperature sensor data with <a href="https://twitter.com/docker">@Docker</a>: <a href="https://t.co/EmJoCv5HoM">https://t.co/EmJoCv5HoM</a> by <a href="https://twitter.com/_beagile_">@_beagile_</a>  via <a href="https://twitter.com/HypriotTweets">@HypriotTweets</a> blog <a href="https://t.co/iIm6CSbjfQ">pic.twitter.com/iIm6CSbjfQ</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/711103210942046208">19 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Clean code advocates. 
 - [David Whittaker 🌟](https://twitter.com/rundavidrun) Clean code advocate
 - [twitter.com/WomenWhoCode 🌟](https://twitter.com/WomenWhoCode)

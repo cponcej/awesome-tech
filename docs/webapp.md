@@ -88,6 +88,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Awesome 404 page <a href="https://t.co/yN5Yj5se0d">https://t.co/yN5Yj5se0d</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://twitter.com/hashtag/apache?src=hash">#apache</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Redhat?src=hash">#Redhat</a> <a href="https://t.co/1Z4aMRpgr1">pic.twitter.com/1Z4aMRpgr1</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711098719425265664">19 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Enterprise Search Platforms
 - [Apache Solr vs ElasticSearch](http://solr-vs-elasticsearch.com/)
 - [javacodegeeks.com: Apache Lucene Fundamentals Tutorial](http://www.javacodegeeks.com/2015/09/apache-lucene-fundamentals.html)
