@@ -309,6 +309,8 @@
 
 [![askamanager_recruiter_salary_games](images/askamanager_recruiter_salary_games.png)](http://www.askamanager.org/2013/02/when-a-recruiter-approaches-you-about-a-job-but-plays-games-on-salary.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Avoid sharing this information with a recruiter: <a href="https://t.co/wCrOoSwBjV">https://t.co/wCrOoSwBjV</a> <a href="https://t.co/R5LYMX0913">pic.twitter.com/R5LYMX0913</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/711497763599605760">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Freelance jobs
 - [Freelance jobs](freelance_jobs.md)
 

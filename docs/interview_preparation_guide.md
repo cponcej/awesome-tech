@@ -48,8 +48,11 @@
 - [social.hays.com: Do you know when and how to say no?](https://social.hays.com/2015/08/31/do-you-know-when-and-how-to-say-no/)
 - [4 Things You Can’t Forget To Do Before Your Interview](http://www.careerealism.com/interview-cant-forget-do-before/)
 - [businessinsider.com: What hiring managers REALLY want to know when they ask these 4 common interview questions](http://www.businessinsider.com/what-the-hiring-manager-wants-to-know-when-they-ask-these-questions-in-job-interviews-2016-3)
+- [Ten Things Recruiters Don't Need To Know About You](http://www.forbes.com/sites/lizryan/2016/03/17/ten-things-recruiters-dont-need-to-know-about-you/2/#4ae3c5361bc7)
 
 [![walk_out_job_interview](images/walk_out_job_interview.png)](https://www.linkedin.com/pulse/i-wrong-walk-out-job-interview-liz-ryan)
+
+[![10_things_recruiters_dont_need_to_know_about_you](images/10_things_recruiters_dont_need_to_know_about_you.png)](http://www.forbes.com/sites/lizryan/2016/03/17/ten-things-recruiters-dont-need-to-know-about-you/2)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
