@@ -38,10 +38,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Todo el mundo puede <a href="https://twitter.com/hashtag/emprender?src=hash">#emprender</a>, pero no todos se deciden a hacerlo. Perfil del emprendedor español➡ <a href="https://t.co/kfvBp5Ziyu">https://t.co/kfvBp5Ziyu</a> <a href="https://twitter.com/nuevarutaempleo">@nuevarutaempleo</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/709046755321626624">13 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Think you&#39;re going to start a business? Now&#39;s the time: <a href="https://t.co/gIG5g0VQwg">https://t.co/gIG5g0VQwg</a> <a href="https://t.co/UdzBinVv4u">pic.twitter.com/UdzBinVv4u</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/711548095373385728">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Una de mis escenas favoritas de The Wolf of Wall Street: &quot;The Key To Making Money&quot; <a href="https://t.co/ILTBoLaT3D">https://t.co/ILTBoLaT3D</a> ¡Vaya que da ánimos de vender!</p>&mdash; Jaime Florián (@JFasesor) <a href="https://twitter.com/JFasesor/status/705796860015939584">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">Yep. <a href="https://t.co/bh9n2aTgPF">pic.twitter.com/bh9n2aTgPF</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/705103000738598913">2 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">Yep. <a href="https://t.co/bh9n2aTgPF">pic.twitter.com/bh9n2aTgPF</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/705103000738598913">2 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Osqtr0Mqfn0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

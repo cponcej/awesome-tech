@@ -144,6 +144,10 @@
 
 [![mobile_health](images/mobile_health.png)](http://www.economist.com/news/business/21694523-mobile-health-apps-are-becoming-more-capable-and-potentially-rather-useful-things-are-looking)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Britain&#39;s most hipster city is also one of its richest <a href="https://t.co/EMspIF3sjr">https://t.co/EMspIF3sjr</a> <a href="https://t.co/vHjoV0iLwf">pic.twitter.com/vHjoV0iLwf</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/711583779475890176">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mapa mundial del desempleo. <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> <a href="https://twitter.com/hashtag/paro?src=hash">#paro</a> <a href="https://t.co/cuy1ju7xCy">pic.twitter.com/cuy1ju7xCy</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/710463801561325568">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Barcelona Tech, Startups and Innovation
 - [Barcelona Tech, Startups and Innovation](startups_bcn.md)
 
@@ -226,6 +230,9 @@
 
 [![bi_happiest_countries](images/bi_happiest_countries.png)](http://www.businessinsider.com/new-world-happiness-report-2016)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">For <a href="https://twitter.com/hashtag/worldhappinessday?src=hash">#worldhappinessday</a> tomorrow, tell us which you think is most important for <a href="https://twitter.com/hashtag/wellbeing?src=hash">#wellbeing</a> <a href="https://t.co/Hz9Jtlr6Zi">https://t.co/Hz9Jtlr6Zi</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/711209050940293120">19 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![most expensive cities in the world](images/most_expensive_cities.png)](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)
 
 [![singapore_most_espensive_city](images/singapore_most_espensive_city.png)](http://www.bbc.com/news/business-35765378)
@@ -257,6 +264,8 @@
 [![lugar_residencia_emigrantes](images/lugar_residencia_emigrantes.png)](http://politica.elpais.com/politica/2016/03/16/actualidad/1458145510_786597.html)
 
 [![cunde_desanimo_futuro_jovenes_catalanes](images/cunde_desanimo_futuro_jovenes_catalanes.png)](http://www.lavanguardia.com/vida/20160317/40497346529/desanimo-futuro-jovenes-catalanes.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries grow richer when they learn how to produce more valuable stuff per person  <a href="https://t.co/0GOBddIfND">https://t.co/0GOBddIfND</a> <a href="https://t.co/mDapJqUVm8">pic.twitter.com/mDapJqUVm8</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/711579515244388354">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)

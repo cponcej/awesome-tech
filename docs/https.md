@@ -80,3 +80,6 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">OpenSSL To Undergo Massive Security Audit <a href="http://t.co/IsTGRavV3m">http://t.co/IsTGRavV3m</a></p>&mdash; Slashdot (@slashdot) <a href="https://twitter.com/slashdot/status/576103032179597312">12 de marzo de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Google&#39;s HTTPS encryption efforts now on display in Transparency Report <a href="https://t.co/LIp1TCoOuN">https://t.co/LIp1TCoOuN</a> <a href="https://twitter.com/natalienoell">@natalienoell</a> <a href="https://t.co/FiawUfD2Zy">pic.twitter.com/FiawUfD2Zy</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/711583389132988416">20 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
