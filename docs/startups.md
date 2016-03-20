@@ -267,6 +267,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries grow richer when they learn how to produce more valuable stuff per person  <a href="https://t.co/0GOBddIfND">https://t.co/0GOBddIfND</a> <a href="https://t.co/mDapJqUVm8">pic.twitter.com/mDapJqUVm8</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/711579515244388354">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/xRlO6XQzmVU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Portales de empleo
 - [Nubelo](http://www.nubelo.com/)
 - [trabajar-en.com](http://trabajar-en.com/)
