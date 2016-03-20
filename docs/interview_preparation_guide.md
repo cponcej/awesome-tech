@@ -54,6 +54,8 @@
 
 [![walk_out_job_interview](images/walk_out_job_interview.png)](https://www.linkedin.com/pulse/i-wrong-walk-out-job-interview-liz-ryan)
 
+[![howto_answer_whats_your_current_salary](images/howto_answer_whats_your_current_salary.png)](https://www.linkedin.com/pulse/how-answer-whats-your-current-salary-liz-ryan)
+
 [![10_things_recruiters_dont_need_to_know_about_you](images/10_things_recruiters_dont_need_to_know_about_you.png)](http://www.forbes.com/sites/lizryan/2016/03/17/ten-things-recruiters-dont-need-to-know-about-you/2)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
