@@ -44,6 +44,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">Yep. <a href="https://t.co/bh9n2aTgPF">pic.twitter.com/bh9n2aTgPF</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/705103000738598913">2 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![actitud_cliente](images/actitud_cliente.jpeg)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Osqtr0Mqfn0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
