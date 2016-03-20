@@ -20,6 +20,7 @@
 	- [Barcelona Activa - Parc Tecnològic](http://empresa.barcelonactiva.cat/empresa/cat/serveis/parc/index.jsp)
 - [Eurecat TIC](http://eurecat.org/en/sectors/itc/)
 - [BCNanalytics.com](http://bcnanalytics.com/)
+- [BCN CONECTA](https://twitter.com/bcnconecta)
 - [bsc.es: Barcelona Supercomputing Center](http://www.bsc.es/)
 	- [ALOJA project: research centre in Barcelona](http://hadoop.bsc.es/)
 para universitarios y titulados júnior
@@ -318,3 +319,8 @@ para universitarios y titulados júnior
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Bon dia Barcelona! Con ganas para el Nexica Event con <a href="https://twitter.com/Dell">@Dell</a> y el esperado <a href="https://twitter.com/ramsesgallego">@ramsesgallego</a> <a href="https://twitter.com/hashtag/seguridad?src=hash">#seguridad</a> <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> <a href="https://twitter.com/hashtag/Yvet?src=hash">#Yvet</a> <a href="https://t.co/Fq2ElrDRga">pic.twitter.com/Fq2ElrDRga</a></p>&mdash; Nexica (@cloudNexica) <a href="https://twitter.com/cloudNexica/status/710017712404238336">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Mixing together Analog, digital and quasi digital sensors in the same IoT platform, now possible... and easy. <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> <a href="https://t.co/IIyDOHx9Pk">pic.twitter.com/IIyDOHx9Pk</a></p>&mdash; excelera (@excelera) <a href="https://twitter.com/excelera/status/701729561160114176">22 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ready! Lets show how will be the future at 4YFN! <a href="https://twitter.com/4YFN_MWC">@4YFN_MWC</a>  <a href="https://twitter.com/sbcIoT_Data">@sbcIoT_Data</a> <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> <a href="https://twitter.com/hashtag/4YFN16?src=hash">#4YFN16</a> <a href="https://t.co/h9oX8vosxd">pic.twitter.com/h9oX8vosxd</a></p>&mdash; Sekg (@sekgtech) <a href="https://twitter.com/sekgtech/status/701669643702898688">22 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
