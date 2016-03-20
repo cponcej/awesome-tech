@@ -28,6 +28,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Top10?src=hash">#Top10</a> Ways to Leverage <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> in 2016 <a href="https://t.co/hOYN7wy8rr">https://t.co/hOYN7wy8rr</a> via <a href="https://twitter.com/TechRepublic">@techrepublic</a></p>&mdash; Cloud Girls (@gocloudgirls) <a href="https://twitter.com/gocloudgirls/status/683000209497042945">1 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Data Centers
 - [datacentermap.com 🌟](http://www.datacentermap.com)
 	- [datacentermap.com/spain](http://www.datacentermap.com/spain/)

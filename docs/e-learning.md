@@ -78,6 +78,8 @@
 </div>
 <br>
 
+[![cloudgirls_logo](images/cloudgirls_logo.png)](http://cloudgirls.org/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i07qz_6Mk7g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
