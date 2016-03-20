@@ -104,6 +104,7 @@
 ## AWS tips
 - [AWS Tips I Wish I'd Known Before I Started (Feb 2014) 🌟🌟🌟](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/) A collection of random tips for Amazon Web Services (AWS) that I wish I'd been told a few years ago, based on what I've learned by building and deploying various applications on AWS.
 - [Amazon AWS Tips and Gotchas – Part 1 (Feb 2016)](http://www.tekhead.org/blog/2016/02/amazon-aws-tips-and-gotchas-part-1/)
+- [DZone: 5 Tips for Better AWS Performance 🌟🌟](https://dzone.com/articles/5-tips-for-better-aws-performance) The Ngnix team has a nice list of tips for better performance when using the AWS services. Some of them are related to Ngnix, but others are completely usable for anyone.
 
 ## AWS New Features
 - [aws.amazon.com/releasenotes](https://aws.amazon.com/releasenotes)
