@@ -121,6 +121,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qhyc1jOvwIg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![automation](images/automation.png)](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1)
 
 [![Puppet Labs 2015 State of DevOps Report](images/puppetlabs_state_of_devops_report_2015.jpg)](https://puppetlabs.com/2015-devops-report)
