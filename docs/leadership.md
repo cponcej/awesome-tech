@@ -34,3 +34,8 @@
 ![the_goal_simon_sinek](images/the_goal_simon_sinek.png)
 
 [![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)](http://insights.com/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QKmnLiAGj10?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
