@@ -6,6 +6,8 @@
 <!-- /MarkdownTOC -->
 [![red hat cloud strategy blog](images/redhat_cloudstrategy_blog.png)](http://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">DreamHost replaces VMware SDN with open source for big savings <a href="https://t.co/vdejAMrfuY">https://t.co/vdejAMrfuY</a></p>&mdash; RDO (@RDOcommunity) <a href="https://twitter.com/RDOcommunity/status/711948062076358656">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # OpenStack Private Cloud
 - [OpenStack private cloud](cloud.md#openstack-private-cloud)
 

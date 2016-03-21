@@ -381,6 +381,10 @@
 
 		rsync -a -delete empty/ foo/
 
+- See top & bottom 5 log entries on unix/linux 
+
+		(echo "--[head]---"; head -5; echo "--[bottom]--"; tail -5) </var/log/httpd/php.log
+		
 - Test reachability of a cloud DNS server & measure the round-trip time 🌟
 
 		for i in {1..4};do ping -q -c 4 ns-cloud-c${i}.googledomains.com;done

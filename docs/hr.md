@@ -222,6 +222,9 @@
 - [Simon Sinek: Love Your Work](https://youtu.be/jDIZS4IQlQk)
 - [The 7 Habits of Highly Effective People](https://youtu.be/ktlTxC4QG8g)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/shakira">@shakira</a> didn’t give up after she was banned from her school’s choir <a href="https://twitter.com/hashtag/mondaymotivation?src=hash">#mondaymotivation</a><a href="https://t.co/NoodCrspoQ">https://t.co/NoodCrspoQ</a></p>&mdash; INSIDER (@thisisinsider) <a href="https://twitter.com/thisisinsider/status/711959585779802112">21 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Leadership Blogs
 - [Leadership Blogs](leadership.md)
 

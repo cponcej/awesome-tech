@@ -20,6 +20,8 @@
 
 [![build podcast](images/build_podcast.jpg)](http://build-podcast.com/)
 
+![step_away_from_opensource](images/step_away_from_opensource.jpg)
+
 # Configuration Management and Orchestration
 
 ## Microservices

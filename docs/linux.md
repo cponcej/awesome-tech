@@ -325,6 +325,7 @@
 - [Small & opinionated selection of basic Bash configurations for an improved command-line user experience 🌟](http://mrzool.cc/writing/sensible-bash/)
 - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 - [Howto display error message instantly when command fails](http://www.cyberciti.biz/tips/shell-displaying-error-messages.html)
+- [Unix/Linux: Remove duplicate lines from a text file using awk or perl](http://www.cyberciti.biz/faq/how-to-remove-delete-duplicate-lines-from-textfile-on-unix-linux/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -9,6 +9,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Honest tech recruiter. <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a><br><br>h/t <a href="https://twitter.com/ThePracticalDev">@ThePracticalDev</a> <a href="https://t.co/HWqelL1sz4">pic.twitter.com/HWqelL1sz4</a></p>&mdash; Randy Olson (@randal_olson) <a href="https://twitter.com/randal_olson/status/708661402618228738">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Diversity in tech and the challenges of unconscious bias: <a href="https://t.co/s98C7uh8e5">https://t.co/s98C7uh8e5</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/711967611030888448">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![4reasons_no_linkedin_recommendations](images/4reasons_no_linkedin_recommendations.png)](http://www.careerealism.com/recommendations-linkedin-reasons-not/)
 
 # Interview Preparation Guide
@@ -198,4 +200,6 @@
 [![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;El método Gronholm&quot; Una <a href="https://twitter.com/hashtag/pel%C3%ADcula?src=hash">#película</a> para analizar el comportamiento humano ante una <a href="https://twitter.com/hashtag/entrevista?src=hash">#entrevista</a> de <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> <a href="http://t.co/wg6SqrTNd7">http://t.co/wg6SqrTNd7</a> <a href="https://twitter.com/hashtag/escalARTE?src=hash">#escalARTE</a></p>&mdash; Escala Psicologia (@escalapsi) <a href="https://twitter.com/escalapsi/status/580280463429890048">24 de marzo de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;where do you see yourself in 10 years&quot; <a href="https://t.co/1kvTgTHvKX">pic.twitter.com/1kvTgTHvKX</a></p>&mdash; Sam Ruble (@Cookies) <a href="https://twitter.com/Cookies/status/711968330479968256">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

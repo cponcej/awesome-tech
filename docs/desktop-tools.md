@@ -44,6 +44,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Hubl.in, the Awesome open source video conference service <a href="https://t.co/eZXI26TQHE">https://t.co/eZXI26TQHE</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709891079261147137">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">5 aplicaciones de oficina que debes conocer ➡ <a href="https://t.co/I65vC8o5ID">https://t.co/I65vC8o5ID</a> <a href="https://twitter.com/hashtag/pymes?src=hash">#pymes</a> <a href="https://twitter.com/hashtag/Aplicateca?src=hash">#Aplicateca</a> <a href="https://t.co/Ql218S9ajl">pic.twitter.com/Ql218S9ajl</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/711945905331687424">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Internet speed. Test de velocidad
 - [speedtest.net](http://www.speedtest.net)
 - [dslreports.com/speedtest](https://www.dslreports.com/speedtest)

@@ -133,4 +133,4 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="de" dir="ltr">Ich habe ein <a href="https://twitter.com/YouTube">@YouTube</a>-Video positiv bewertet: <a href="https://t.co/rKubGABdSn">https://t.co/rKubGABdSn</a> Rush &quot;Ending Scene&quot;</p>&mdash; TewDee (@doktorflake) <a href="https://twitter.com/doktorflake/status/666332803957727232">16 de noviembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Venganzas de cine: 15 películas que se sirven frías <a href="https://t.co/TDcYh6w85T">https://t.co/TDcYh6w85T</a> Subgénero por excelencia. <a href="https://t.co/icVTEUovpw">pic.twitter.com/icVTEUovpw</a></p>&mdash; CINEMANIA_ES (@CINEMANIA_ES) <a href="https://twitter.com/CINEMANIA_ES/status/711940489243725824">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
