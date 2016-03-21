@@ -24,6 +24,7 @@
 	- [Email security. Anti Spam protection](#email-security-anti-spam-protection)
 	- [Server Hardening](#server-hardening)
 	- [Next Generation Firewalls](#next-generation-firewalls)
+	- [Security Checklist](#security-checklist)
 	- [Major Security Vulnerabilities](#major-security-vulnerabilities)
 		- [Red Hat Vulnerabilities Catalog. Red Hat CVE Database.](#red-hat-vulnerabilities-catalog-red-hat-cve-database)
 		- [SQL injection](#sql-injection)
@@ -289,6 +290,11 @@
 
 ## Next Generation Firewalls
 - [Next Generation Firewalls](networking.md#next-generation-firewalls-ngfw)
+
+## Security Checklist
+- [securitychecklist.org](https://securitychecklist.org/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Checklist For Unix and Linux server <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QTwAlEQHOQ">https://t.co/QTwAlEQHOQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711649284609826816">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Major Security Vulnerabilities
 - [PuTTY vulnerability vuln-ech-overflow. November 2015](http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-ech-overflow.html)
