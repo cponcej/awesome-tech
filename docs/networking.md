@@ -192,6 +192,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Internet cables under the sea that connects continents together. This is how they put the cables. <a href="https://t.co/K8WbrgoOEW">pic.twitter.com/K8WbrgoOEW</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705260332982231041">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Latest submarine internet/telephone cable maps 2016 edition. Large version [3737x1818] <a href="https://t.co/32MZ0c4U6g">https://t.co/32MZ0c4U6g</a> <a href="https://t.co/sNFBRBJsKg">pic.twitter.com/sNFBRBJsKg</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711766471827791872">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <p align="center">
 <a href="http://www.buzzfeed.com/lukebailey/satisfying-cables">23 Photos That Will Make Anyone Who Works In IT Satisfied</a>
 </p>

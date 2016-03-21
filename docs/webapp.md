@@ -201,6 +201,8 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/135651440303" data-did="71388c85aaa3dbabd324ee9a8d32e830cc3a9972"><a href="http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay">http://securityreactions.tumblr.com/post/135651440303/nmap-has-discovered-an-open-smtp-relay</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Internet Draft: SMTP Strict Transport Security <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/email?src=hash">#email</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/SNiwaGZ2xH">https://t.co/SNiwaGZ2xH</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711739784637521921">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Video
 - [List of streaming media systems](https://en.wikipedia.org/wiki/List_of_streaming_media_systems)
 - [Wikipedia: Wowza Streaming Engine](https://en.wikipedia.org/wiki/Wowza_Streaming_Engine)

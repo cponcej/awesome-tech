@@ -208,11 +208,15 @@
 ## Linux web tools
 - [curl Command Resume Broken Download](http://www.cyberciti.biz/faq/curl-command-resume-broken-download/)
 - [Wget: Resume Broken Download](http://www.cyberciti.biz/tips/wget-resume-broken-download.html)
+- [Run wget In Background For an Unattended Download of Files on Linux and Unix 🌟](http://www.cyberciti.biz/tips/howto-run-wget-in-background.html)
 - [GoAccess real time web log analyzer](http://goaccess.io/)
 - [A curl cheat sheet](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
 - [How to use curl command with proxy username and password on Linux or Unix](http://www.cyberciti.biz/faq/linux-unix-curl-command-with-proxy-username-password-http-options/)
 - [DZone: Quickly Share a Folder Using HTTP On a Linux Host](https://dzone.com/articles/quickly-share-a-folder-using-http-on-a-linux-host)
 - [How to Optimize and Compress JPEG or PNG Images in Linux Commandline](http://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/)
+- [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
+
+[![transfer_sh](images/transfer_sh.png)](https://transfer.sh/)
 
 ## BashHub Bash History in the Cloud
 - [BashHub](https://bashhub.com/)
