@@ -270,6 +270,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Trabajando por una movilidad laboral equitativa para todos<a href="https://t.co/tyAGsFomCk">https://t.co/tyAGsFomCk</a></p>&mdash; Comisión Europea (@UEmadrid) <a href="https://twitter.com/UEmadrid/status/711883070417186816">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">EU unemployment<br><br>Greece: 24%<br>Spain: 20.9%<br>Italy: 11.5%<br>France: 10.3%<br>Poland: 10.3%<br>Ireland: 8.8%<br>Netherlands: 6.5%<br>Germany: 6.2%<br>UK: 5.1%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/711860240904376320">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fernando Alonso reconoce las primeras secuelas del accidente. Te lo contamos todo <a href="https://t.co/QKwYYxXX2f">https://t.co/QKwYYxXX2f</a> <a href="https://t.co/sUJYl2RPvr">pic.twitter.com/sUJYl2RPvr</a></p>&mdash; Bolsamanía (@bolsamania) <a href="https://twitter.com/bolsamania/status/711879171228766208">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Portales de empleo
