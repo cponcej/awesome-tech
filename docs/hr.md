@@ -91,6 +91,8 @@
 
 [![bi_13signs_promotion](images/bi_13signs_promotion.png)](http://www.businessinsider.com/signs-youre-about-to-be-promoted-at-work-2016-3)
 
+[![9things_managers_do_make_employees_quit](images/9things_managers_do_make_employees_quit.png)](http://www.businessinsider.com/9-things-managers-do-that-make-good-employees-quit-2016-3)
+
 ## Work environment issues
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
 - [businessinsider.com: 19 signs your coworkers secretly hate you](http://www.businessinsider.com/signs-your-colleagues-secretly-hate-you-2016-1)
