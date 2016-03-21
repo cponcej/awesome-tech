@@ -84,6 +84,8 @@ Available for work. Currently fighting against the stigma of being unemployed. L
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Technology is anything invented after you were born. - Alan Kay</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/711841287792504833">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![voltaire change others](images/voltaire_change_other.jpg)](http://statusmind.com/)
 
 ![rush_f1](images/rush_f1.jpg)
