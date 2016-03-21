@@ -32,6 +32,8 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">There ARE good reasons for NoSQL.<br>It&#39;s just that the average apps performance problems isn&#39;t.<a href="https://t.co/Os0wio3ekO">https://t.co/Os0wio3ekO</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/711909070995849216">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### MongoDB on Twitter
 - [twitter.com/MongoDB](https://twitter.com/MongoDB)
 - [3T Software Labs](https://twitter.com/3tsoftwarelabs) MongoDB Tools for developers
