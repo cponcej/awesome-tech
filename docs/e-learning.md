@@ -161,4 +161,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This is crazy. RT <a href="https://twitter.com/RearAdBsBlog">@RearAdBsBlog</a>: Wow RT <a href="https://twitter.com/dre_65">@dre_65</a>: Jack Nicholson preppin&#39; for The Shining <a href="https://t.co/REqW3iWc8y">https://t.co/REqW3iWc8y</a></p>&mdash; Toucher and Rich (@Toucherandrich) <a href="https://twitter.com/Toucherandrich/status/708824229312122880">13 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You don&#39;t need a classic education, you just need drive. Do some thinking of your own. :)... <a href="https://t.co/KHmIziH4Nv">https://t.co/KHmIziH4Nv</a></p>&mdash; Adrian Hanlon (@adrianhanlon81) <a href="https://twitter.com/adrianhanlon81/status/707236227964076032">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDGPjQgzZY0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
