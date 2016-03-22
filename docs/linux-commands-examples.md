@@ -389,6 +389,10 @@
 
 		for i in {1..4};do ping -q -c 4 ns-cloud-c${i}.googledomains.com;done
 
+- To find in which file an event has been logged in use following which will display the last modified logs on linux 
+
+		ls -ltr /var/log | tail
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">
