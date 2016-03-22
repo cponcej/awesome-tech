@@ -149,8 +149,9 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Container Networking <a href="https://t.co/XgLoL48IZL">https://t.co/XgLoL48IZL</a>  <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://t.co/MsXKbhG009">pic.twitter.com/MsXKbhG009</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/706489990654496768">6 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Container Networking <a href="https://t.co/XgLoL48IZL">https://t.co/XgLoL48IZL</a>  <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://t.co/MsXKbhG009">pic.twitter.com/MsXKbhG009</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/706489990654496768">6 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Keep it small: a closer look at <a href="https://twitter.com/hashtag/Docker?src=hash">#Docker</a> image sizing - <a href="https://t.co/hMJSNnK5Ke">https://t.co/hMJSNnK5Ke</a> <a href="https://twitter.com/hashtag/Containers?src=hash">#Containers</a> <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> <a href="https://twitter.com/hashtag/Developers?src=hash">#Developers</a> <a href="https://t.co/9s1zeyvv8Y">pic.twitter.com/9s1zeyvv8Y</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/712027257267589120">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Docker security
 - [Free eBook - Docker Security: Using Containers Safely in Production](https://www.openshift.com/promotions/docker-security.html)

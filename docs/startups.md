@@ -381,6 +381,8 @@
 </div>
 <br>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Blue-collar jobs aren&#39;t coming back, but &quot;cyborg jobs&quot; are here to stay. <a href="https://twitter.com/brysonpayne">@brysonpayne</a> shares his thoughts: <a href="https://t.co/cFHbmoej2P">https://t.co/cFHbmoej2P</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/712036817537785856">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jh01p06Szcs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
