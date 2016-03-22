@@ -150,6 +150,11 @@
 <br/>
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/edbNRKNbeYHgtJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mrjain/installing-wordpress-on-aws" title="Installing WordPress on AWS" target="_blank">Installing WordPress on AWS</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/mrjain">Manish Jain</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/CaJCmoGIW24?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>

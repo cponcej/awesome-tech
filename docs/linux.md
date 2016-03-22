@@ -537,6 +537,11 @@
 - [When privileged access means controlling the lock: Best practices to protect what's yours](http://gsnmagazine.com/article/46166/when_privileged_access_means_controlling_lock_best)
 - [nixCraft: create-ssh-config-file-on-linux-unix 🌟](http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
+</div>
+<br>
+
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)
 - [How to exclude directories while using rsync](http://supportex.net/2011/07/exceptions-copying-directory-rsync/)
