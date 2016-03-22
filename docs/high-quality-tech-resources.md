@@ -8,6 +8,7 @@
 	- [Shared presentations](#shared-presentations)
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
 	- [DZone](#dzone)
+	- [Interview Questions](#interview-questions)
 	- [Java Code Geeks](#java-code-geeks)
 	- [Web Code Geeks](#web-code-geeks)
 	- [stackshare.io: Discover and discuss the best software tools and services](#stackshareio-discover-and-discuss-the-best-software-tools-and-services)
@@ -247,6 +248,9 @@
 [![dzone](images/logo-dzone.png)](https://dzone.com)
 
 [![dzone_sw](images/dzone_sw.png)](http://www.dzonesoftware.com/)
+
+## Interview Questions
+- [intellipaat.com Interview Questions 🌟🌟🌟](https://intellipaat.com/interview-questions/)
 
 ## Java Code Geeks
 - [javacodegeeks.com](http://www.javacodegeeks.com/)

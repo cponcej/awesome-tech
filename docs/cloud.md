@@ -164,6 +164,7 @@
 - [opensource.com: An introduction to OpenStack clouds for beginners](https://opensource.com/business/16/1/scale14x-interview-anthony-chow)
 - [What’s Behind Rackspace’s Private OpenStack Cloud Partnership with Red Hat](http://www.datacenterknowledge.com/archives/2016/02/11/whats-behind-rackspaces-private-openstack-cloud-partnership-with-red-hat/)
 - [opensource.com: A compilation of 7 new OpenStack tutorials (Feb 2016) 🌟](https://opensource.com/business/16/2/compilation-best-new-openstack-tutorials)
+- [Openstack Interview Questions and Answers 🌟](https://intellipaat.com/interview-question/openstack-interview-questions/)
 
 [![openstack cluster](images/openstack-cluster.png)](https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html)
 
