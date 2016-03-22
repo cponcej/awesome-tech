@@ -415,6 +415,7 @@
 - [TinyDB:](http://tinydb.readthedocs.org) a pure Python document (i.e., JSON) database for simple local storage
 
 ## Oracle
+- [allthingsoracle.com 🌟](http://allthingsoracle.com)
 - [Oracle’s OPT_ESTIMATE hint: Usage Guide](http://www.pythian.com/blog/oracles-opt_estimate-hint-usage-guide/)
 
 ### Oracle installation
@@ -471,7 +472,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Have you checked out this <a href="https://twitter.com/hashtag/DB12c?src=hash">#DB12c</a> <a href="https://twitter.com/hashtag/multitenant?src=hash">#multitenant</a> [<a href="https://twitter.com/hashtag/video?src=hash">#video</a>] series? <a href="https://t.co/8XsSgM85hE">https://t.co/8XsSgM85hE</a> <a href="https://t.co/HIauTRAq4J">pic.twitter.com/HIauTRAq4J</a></p>&mdash; Oracle Database (@OracleDatabase) <a href="https://twitter.com/OracleDatabase/status/697511639084453888">febrero 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn &amp; share <a href="https://twitter.com/hashtag/SQL?src=hash">#SQL</a> on <a href="https://twitter.com/hashtag/DB12c?src=hash">#DB12c</a>. Straight from your browser. For Free. <a href="https://t.co/4sB9Q3CltL">https://t.co/4sB9Q3CltL</a> <a href="https://t.co/LNplLTjo8a">pic.twitter.com/LNplLTjo8a</a></p>&mdash; Oracle Database (@OracleDatabase) <a href="https://twitter.com/OracleDatabase/status/696801941821599744">febrero 8, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn &amp; share <a href="https://twitter.com/hashtag/SQL?src=hash">#SQL</a> on <a href="https://twitter.com/hashtag/DB12c?src=hash">#DB12c</a>. Straight from your browser. For Free. <a href="https://t.co/4sB9Q3CltL">https://t.co/4sB9Q3CltL</a> <a href="https://t.co/LNplLTjo8a">pic.twitter.com/LNplLTjo8a</a></p>&mdash; Oracle Database (@OracleDatabase) <a href="https://twitter.com/OracleDatabase/status/696801941821599744">febrero 8, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Oracle Execution Plans: Part 1 Finding plans<a href="https://t.co/uf0jJPEYH8">https://t.co/uf0jJPEYH8</a><br><br>First out of twelve parts on how to work with… <a href="https://t.co/4QQS1y8NFh">pic.twitter.com/4QQS1y8NFh</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/712305655382724609">22 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # NoSQL and NewSQL 
