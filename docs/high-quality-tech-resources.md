@@ -250,7 +250,8 @@
 [![dzone_sw](images/dzone_sw.png)](http://www.dzonesoftware.com/)
 
 ## Interview Questions
-- [intellipaat.com Interview Questions 🌟🌟🌟](https://intellipaat.com/interview-questions/)
+- [intellipaat.com 🌟🌟🌟](https://intellipaat.com/interview-questions/)
+- [Tecmint 🌟🌟](http://www.tecmint.com/category/interview-questions)
 
 ## Java Code Geeks
 - [javacodegeeks.com](http://www.javacodegeeks.com/)
