@@ -184,6 +184,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Moneyball Job Offer <a href="https://t.co/oR0SUF6mnC">https://t.co/oR0SUF6mnC</a></p>&mdash; Scott (@kawebbScott) <a href="https://twitter.com/kawebbScott/status/708726103872032768">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ewek-6TudOM?list=PLE_MSMq5bSYLnxwcRSGs65mTCMgHgBhpi&amp;controls=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Technical Resume
 - [Why I Like People with Unconventional Resumés](https://hbr.org/2012/07/why-i-like-people-with-unconve)
 - [The 6 Musts of a Cover Letter](http://www.entrepreneur.com/article/269614)
@@ -205,3 +210,17 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Very under rated movie scene <a href="https://t.co/KLUzJ31CXt">https://t.co/KLUzJ31CXt</a></p>&mdash; Paul Regali (@ghostofhogan) <a href="https://twitter.com/ghostofhogan/status/711953023984017408">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b56eAUCTLok?list=PLE_MSMq5bSYLnxwcRSGs65mTCMgHgBhpi&amp;controls=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kBxRi_udy9I?list=PLE_MSMq5bSYLnxwcRSGs65mTCMgHgBhpi&amp;controls=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KVucOxw9fFM?list=PLE_MSMq5bSYLnxwcRSGs65mTCMgHgBhpi&amp;controls=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
