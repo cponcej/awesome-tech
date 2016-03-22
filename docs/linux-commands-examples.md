@@ -29,6 +29,10 @@
 
 		vim scp://user@server1//etc/httpd/httpd.conf 
 
+- In vim this will search all lines (%s) for wlan0 and replace all the instances per line (g) with eth3 and confirm (c)
+
+		:%s/wlan0/eth3/gc 
+		
 - Using +F option or pressing F in less is similar to `tail -f filename.log` but can use less's features. 🌟🌟
 
 		less +F filename.log 

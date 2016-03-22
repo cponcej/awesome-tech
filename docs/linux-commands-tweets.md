@@ -132,3 +132,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">To find in which file an event has been logged in use following which will display the last modified logs on linux<br><br>ls -ltr /var/log | tail</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/712190187967614977">22 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">:%s/wlan0/eth3/gc # In vim this will search all lines (%s) for wlan0 and replace all the instances per line (g) with eth3 and confirm (c)</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/712287216668696578">22 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
