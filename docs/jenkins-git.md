@@ -55,6 +55,21 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wlyRDI5S2hmhcd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EdurekaIN/getting-started-with-jenkins" title="Getting started with Jenkins" target="_blank">Getting started with Jenkins</a> </strong> from <strong><a href="//www.slideshare.net/EdurekaIN" target="_blank">Edureka!</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sMuB2EAyZhyB7u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Docker/continuous-integration-with-jenkins-docker-and-compose" title="DockerCon EU 2015: Continuous Integration with Jenkins, Docker and Compose" target="_blank">DockerCon EU 2015: Continuous Integration with Jenkins, Docker and Compose</a> </strong> from <strong><a href="//www.slideshare.net/Docker" target="_blank">Docker, Inc.</a></strong></div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rF5xrvdfL3HdAo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/carlossg/using-docker-for-testing" title="Using Docker for Testing" target="_blank">Using Docker for Testing</a> </strong> from <strong><a href="//www.slideshare.net/carlossg" target="_blank">Carlos Sanchez</a></strong></div>
+</div>
+<br/>
+
 ### Travis on Twitter
 - [twitter.com/travisci](https://twitter.com/travisci)
 - [twitter.com/traviscistatus](https://twitter.com/traviscistatus)
@@ -92,21 +107,6 @@
 	- [github: book Deploying PHP applications](https://github.com/modess/deploying-php-applications)
 
 [![Use of CD is growing](images/use_of_CD_growing.jpg)](http://www.theregister.co.uk/2016/01/15/devops_people_problem/)
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wlyRDI5S2hmhcd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EdurekaIN/getting-started-with-jenkins" title="Getting started with Jenkins" target="_blank">Getting started with Jenkins</a> </strong> from <strong><a href="//www.slideshare.net/EdurekaIN" target="_blank">Edureka!</a></strong> </div>
-</div>
-<br/>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/sMuB2EAyZhyB7u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Docker/continuous-integration-with-jenkins-docker-and-compose" title="DockerCon EU 2015: Continuous Integration with Jenkins, Docker and Compose" target="_blank">DockerCon EU 2015: Continuous Integration with Jenkins, Docker and Compose</a> </strong> from <strong><a href="//www.slideshare.net/Docker" target="_blank">Docker, Inc.</a></strong></div>
-</div>
-<br/>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/rF5xrvdfL3HdAo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/carlossg/using-docker-for-testing" title="Using Docker for Testing" target="_blank">Using Docker for Testing</a> </strong> from <strong><a href="//www.slideshare.net/carlossg" target="_blank">Carlos Sanchez</a></strong></div>
-</div>
-<br/>
 
 ## Git
 - [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
