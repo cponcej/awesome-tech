@@ -44,6 +44,8 @@
 
 [![CentOS logo](images/centos-logo.png)](https://www.centos.org/)
 
+[![redhat_2billion_dollar_baby](images/redhat_2billion_dollar_baby.png)](http://fortune.com/2016/03/22/red-hat-revenue-2-billion-open-source/)
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
