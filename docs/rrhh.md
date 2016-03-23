@@ -91,6 +91,7 @@
 - [Comprando un Maserati 🌟](https://www.linkedin.com/pulse/comprando-un-maserati-frank-hidalgo-gato-dur%C3%A1n)
 - [Lo que el personal de Recursos Humanos nunca te confesará](https://ar.selecciones.com/contenido/a2869_lo-que-el-personal-de-recursos-humanos-nunca-te-confesara)
 - [9 formas con éxito seguro de destruir la moral del empleado](http://www.rrhhsocialmedia.com/9-formas-con-exito-seguro-de-destruir-la-moral-del-empleado/)
+- [Expectativas salariales, la pregunta del millón](http://ventajaprofesional.com/blog-ventaja-profesional/expectativas-salariales-pregunta-del-millon/)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
@@ -114,6 +115,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cómo buscar trabajo con <a href="https://twitter.com/hashtag/Linkedin?src=hash">#Linkedin</a>. Consejos de Manuel Moreno .<a href="https://twitter.com/TreceBits">@TreceBits</a> <a href="https://t.co/JZOgVW4HPT">https://t.co/JZOgVW4HPT</a> <a href="https://twitter.com/rtve">@rtve</a> <a href="https://twitter.com/la2_tve">@La2_tve</a></p>&mdash; A punto con La 2 (@apuntoconLa2) <a href="https://twitter.com/apuntoconLa2/status/702557608520056832">febrero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Smart Tips <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> Expectativas salariales, la pregunta del millón <a href="https://t.co/ES2CrNBZlC">https://t.co/ES2CrNBZlC</a></p>&mdash; MªJosé Vizcaíno (@VentProfesional) <a href="https://twitter.com/VentProfesional/status/706615881611112448">6 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las crisis 2.0¿Cómo solucionar una metedura de pata en las redes sociales,qué NO hacer nunca? Lo cuenta .<a href="https://twitter.com/TreceBits">@TreceBits</a> <a href="https://t.co/tUAsmmH0Tp">https://t.co/tUAsmmH0Tp</a></p>&mdash; A punto con La 2 (@apuntoconLa2) <a href="https://twitter.com/apuntoconLa2/status/705727435862634496">marzo 4, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
