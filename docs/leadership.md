@@ -33,6 +33,14 @@
 
 ![the_goal_simon_sinek](images/the_goal_simon_sinek.png)
 
+[![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
+
+[![susan cain](images/susan_cain.png)](https://www.linkedin.com/in/susancain)
+
+[![susan cain best ideas](images/susan_cain_best_ideas.jpg)](https://twitter.com/susancain)
+
+[![simon sinek facebook](images/simonsinek_facebook_taking_care.png)](https://www.facebook.com/simonsinek/)
+
 [![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)](http://insights.com/)
 
 <div class="container">

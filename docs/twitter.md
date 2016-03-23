@@ -260,12 +260,6 @@
 - [twitter.com/Ldavidmarquet](https://twitter.com/Ldavidmarquet)
 - [twitter.com/Autorrealizarte](https://twitter.com/Autorrealizarte)
 
-[![simon sinek](images/simonsinek.png)](https://twitter.com/simonsinek)
-
-[![susan cain](images/susan_cain.png)](https://www.linkedin.com/in/susancain)
-
-[![susan cain best ideas](images/susan_cain_best_ideas.jpg)](https://twitter.com/susancain)
-
 ## VMware on Twitter
 - [twitter.com/VMware](https://twitter.com/VMware)
 - [twitter.com/VMware_ES](https://twitter.com/VMware_ES)
@@ -545,8 +539,6 @@
 - [twitter.com/ProgramWithJava](https://twitter.com/ProgramWithJava)
 - [twitter.com/javanetbuzz](https://twitter.com/javanetbuzz)
 - [Java TV: Tutorials & Videos 🌟](https://twitter.com/javatv)
-
-[![simon sinek facebook](images/simonsinek_facebook_taking_care.png)](https://www.facebook.com/simonsinek/)
 
 ## Frontend on Twitter
 - [twitter.com/getbootstrap 🌟](https://twitter.com/getbootstrap)
