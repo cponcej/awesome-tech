@@ -137,6 +137,16 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sj4xnBpugXhILh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PuppetLabs/get-executive-backing-for-devops" title="Get Executive Backing for DevOps" target="_blank">Get Executive Backing for DevOps</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/PuppetLabs">Puppet Labs</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yMLOapknMqbNgF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PuppetLabs/why-your-team-needs-devops" title="Why Your Team Needs DevOps" target="_blank">Why Your Team Needs DevOps</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/PuppetLabs">Puppet Labs</a></strong> </div>
+</div>
+<br/>
+
 ## Cultura DevOps
 - [8 cosas de la cultura startup que aprenden las empresas](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian) Cómo la cultura startup está influenciando a las grandes empresas. Corporaciones, tomen nota: apliquen o desaparezcan.
 

@@ -28,6 +28,11 @@
 [![Puppet 3 Cookbook](images/Puppet-3-Cookbook.png)](http://www.wowebook.org/puppet-3-cookbook.html)
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/LeKMrJyR3gVMb3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PuppetLabs/intro-to-puppet-enterprise" title="Intro to Puppet Enterprise" target="_blank">Intro to Puppet Enterprise</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/PuppetLabs">Puppet Labs</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/KCLCAn7vDzs3KO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PuppetLabs/roles-talk" title="Designing Puppet: Roles/Profiles Pattern" target="_blank">Designing Puppet: Roles/Profiles Pattern</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/PuppetLabs">Puppet Labs</a></strong> </div>
 </div>
 <br/>
@@ -58,6 +63,16 @@
 <br/>
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Gzw3j4WkrneLRu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PuppetLabs/package-management-on-windows-with-chocolatey" title="Package Management on Windows with Chocolatey" target="_blank">Package Management on Windows with Chocolatey</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/PuppetLabs">Puppet Labs</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kqmWm1w92oO9qk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PuppetLabs/windows-configuration-management-managing-packages-services-power-shell02102016" title="Windows Configuration Management: Managing Packages, Services, &amp; Power Shell-02102016" target="_blank">Windows Configuration Management: Managing Packages, Services, &amp; Power Shell-02102016</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/PuppetLabs">Puppet Labs</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hk1c1U5mlZsDNV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rluttikhuizen/weblogic-hackathon-automated-provisioning-using-puppet" title="WebLogic Hackathon: Automated Provisioning using Puppet" target="_blank">WebLogic Hackathon: Automated Provisioning using Puppet</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/rluttikhuizen">Ronald van Luttikhuizen</a></strong> </div>
 </div>
 <br/>
@@ -71,3 +86,10 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/s8uHc2tGJjh6hM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/icinga/icinga-2-and-puppet-automate-monitoring-59262858" title="Icinga 2 and Puppet automate monitoring" target="_blank">Icinga 2 and Puppet automate monitoring</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/icinga">Icinga</a></strong> </div>
 </div>
 <br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/LeKMrJyR3gVMb3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PuppetLabs/intro-to-puppet-enterprise" title="Intro to Puppet Enterprise" target="_blank">Intro to Puppet Enterprise</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/PuppetLabs">Puppet Labs</a></strong> </div>
+</div>
+<br/>
+
+
