@@ -101,6 +101,8 @@
 - [Geppetto, eclipse plugin for puppet](https://puppetlabs.com/blog-tags/geppetto)
 - [New Releases for AWS and vSphere Modules](https://puppetlabs.com/blog/new-releases-aws-and-vsphere-modules)
 
+[![Puppet 3 Cookbook](images/Puppet-3-Cookbook.png)](http://www.wowebook.org/puppet-3-cookbook.html)
+
 ### Application Orchestration
 - [Bringing application orchestration to the Learning VM](https://puppetlabs.com/blog/bringing-application-orchestration-to-learning-vm)
 - [Extending your Puppet language dictionary for application orchestration](https://puppetlabs.com/blog/extending-your-puppet-language-dictionary-application-orchestration)
@@ -120,6 +122,8 @@
 - [Chef Launches Partner Cookbook Program to Expand DevOps-Ready Technology Ecosystem](https://www.chef.io/blog/2016/02/23/chef-launches-partner-cookbook-program-to-expand-devops-ready-technology-ecosystem/)
 	- [partner cookbooks: supermarket.chef.io](https://supermarket.chef.io)
 	- [Chef Partner Engineering guide for writing quality cookbooks](https://github.com/chef-partners/cookbook-guide)
+
+[![Learning-Chef](images/Learning-Chef.png)](http://www.wowebook.org/learning-chef-a-guide-to-configuration-management-and-automation.html)
 
 ### Chef and SAP
 - [SAP cookbooks with chef](http://sapcc.github.io/sap-cookbook-docs/)

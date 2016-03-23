@@ -68,6 +68,8 @@
 - [Learning DevOps: Automated setup and cloud VM provisioning with Ansible](http://techbeacon.com/learning-devops-automated-setup-cloud-vm-provisioning-ansible)
 - [SSH Agent Forwarding Configuration with Ansible and Tower 🌟](https://www.datapipe.com/blog/2016/03/01/ssh-agent-forwarding-configuration-with-ansible-and-tower/)
 
+[![Ansible for DevOps](images/ansible-for-devops-cover.jpg)](http://www.ansiblefordevops.com/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/ansible">@ansible</a> is the gateway drug to <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>. <a href="https://t.co/PlURr51Qio">https://t.co/PlURr51Qio</a> <a href="https://twitter.com/TechBeacon">@techbeacon</a></p>&mdash; Steven A. Lowe (@StevenALowe) <a href="https://twitter.com/StevenALowe/status/709795988198825985">15 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
