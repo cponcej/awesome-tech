@@ -263,6 +263,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Trust means trust! Trust does not mean trust and competence merged together.<a href="https://t.co/32b2eWL40x">https://t.co/32b2eWL40x</a></p>&mdash; David Marquet (@ldavidmarquet) <a href="https://twitter.com/ldavidmarquet/status/712624051177394176">23 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3cBLbNcvaN0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
