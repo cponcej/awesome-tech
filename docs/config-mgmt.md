@@ -81,28 +81,8 @@
 - [Docker](docker.md)
 
 ## Puppet
-- [The Puppet Labs Issue Tracker](https://tickets.puppetlabs.com)
-- [Google Groups puppet-bugs](https://groups.google.com/forum/#!forum/puppet-bugs)
-- [Google Groups puppet-users](https://groups.google.com/forum/#!forum/puppet-users)
-- [r/puppet](https://www.reddit.com/r/puppet)
-- [Download the Learning VM](https://puppetlabs.com/download-learning-vm)
-	- [Bringing application orchestration to the Learning VM](https://puppetlabs.com/blog/bringing-application-orchestration-to-learning-vm)
-- [sysadmincasts.com: Learning Puppet with Vagrant](http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant)
-	- [Sysadmincasts.com: Git to Puppet Deployment Workflow](https://sysadmincasts.com/episodes/33-git-to-puppet-deployment-workflow)
-- [Webinar: Getting Started with Puppet Enterprise 3.3](https://puppetlabs.com/webinars/getting-started-puppet-enterprise-33-us)
-	- [Puppet Enterprise 3.3 disponible con soporte para RHEL 7, Ubuntu 14.04 LTS, Windows Server 2012 R2, y Mac OS X Mavericks](https://puppetlabs.com/blog/puppet-enterprise-3.3-get-started-faster)
-	- [Learning Puppet can be like drinking from a fire hose. Here is a guide to basic terms and resources to help you learn](https://puppetlabs.com/blog/starting-puppet-basics-from-puppet-labs-employee)
-	- [puppetlabs/mcollective](https://forge.puppetlabs.com/puppetlabs/mcollective)
-- [Github: The Puppet Dashboard is a web interface providing node classification and reporting features for Puppet, an open source system configuration management tool](https://github.com/sodabrew/puppet-dashboard)
-- [Github: Smarter Puppet deployment.R10k provides a general purpose toolset for deploying Puppet environments and modules](https://github.com/puppetlabs/r10k)
-- [Librarian-puppet is a bundler for your puppet infrastructure. You can use librarian-puppet to manage the puppet modules your infrastructure depends on, whether the modules come from the Puppet Forge, Git repositories or a just a path](http://librarian-puppet.com/)
-- [Puppet and Python](http://pyvideo.org/video/3649/puppet-and-python)
-- [Puppet Modules: Apps for Ops](http://pyvideo.org/video/2589/puppet-modules-apps-for-ops)
-- [Geppetto, eclipse plugin for puppet](https://puppetlabs.com/blog-tags/geppetto)
-- [New Releases for AWS and vSphere Modules](https://puppetlabs.com/blog/new-releases-aws-and-vsphere-modules)
-
-[![Puppet 3 Cookbook](images/Puppet-3-Cookbook.png)](http://www.wowebook.org/puppet-3-cookbook.html)
-
+- [Puppet](puppet.md)
+ 
 ### Application Orchestration
 - [Bringing application orchestration to the Learning VM](https://puppetlabs.com/blog/bringing-application-orchestration-to-learning-vm)
 - [Extending your Puppet language dictionary for application orchestration](https://puppetlabs.com/blog/extending-your-puppet-language-dictionary-application-orchestration)

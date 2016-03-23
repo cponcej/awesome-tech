@@ -51,6 +51,7 @@ Available for work. Currently fighting against the stigma of being unemployed. L
 	- [SQL injection 🌟](sql_injection.md)
 9. [Configuration Management and Orchestration. Microservices 🌟🌟](config-mgmt.md)
 	- [Ansible 🌟🌟](ansible.md)
+	- [Puppet](puppet.md)
 	- [Docker 🌟](docker.md)
 10. [DevOps and ITIL 🌟🌟🌟](devops-itil.md)
 	- [Continuous Integration Tools. Jenkins, Git](jenkins-git.md)

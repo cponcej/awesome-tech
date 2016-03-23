@@ -54,6 +54,7 @@ pages:
 - SQL Injection: sql_injection.md
 - Configuration Management and Orchestration. Microservices: config-mgmt.md
 - Ansible: ansible.md
+- Puppet: puppet.md
 - Docker: docker.md
 - DevOps and ITIL: devops-itil.md
 - Continuous Integration Tools. Jenkins, Git: jenkins-git.md
