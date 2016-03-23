@@ -8,6 +8,8 @@
 
 [![bi_21signs_layoff](images/bi_21signs_layoff.png)](http://www.businessinsider.com/signs-your-company-is-laying-people-off-2016-3)
 
+[![14_things_to_do_youre_fired](images/14_things_to_do_youre_fired.png)](http://www.businessinsider.com/what-to-do-when-you-realize-youre-about-to-be-fired-2016-3)
+
 # How to Fire and Onboard Employees
 ## How to Fire
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)

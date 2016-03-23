@@ -46,6 +46,16 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">5 aplicaciones de oficina que debes conocer ➡ <a href="https://t.co/I65vC8o5ID">https://t.co/I65vC8o5ID</a> <a href="https://twitter.com/hashtag/pymes?src=hash">#pymes</a> <a href="https://twitter.com/hashtag/Aplicateca?src=hash">#Aplicateca</a> <a href="https://t.co/Ql218S9ajl">pic.twitter.com/Ql218S9ajl</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/711945905331687424">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uj3KlaUFUQM?list=PL0PgyVP0Ux_L4W13d5WEtlZrqCBrrSWdR" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5I2SqCVw5xs?list=PL0PgyVP0Ux_L4W13d5WEtlZrqCBrrSWdR" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Internet speed. Test de velocidad
 - [speedtest.net](http://www.speedtest.net)
 - [dslreports.com/speedtest](https://www.dslreports.com/speedtest)

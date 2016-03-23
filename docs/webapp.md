@@ -223,6 +223,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nIkst07HidQ?list=PL0PgyVP0Ux_L4W13d5WEtlZrqCBrrSWdR" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Distributed Messaging System. Message oriented middleware 
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Apache Kafka](http://kafka.apache.org/)

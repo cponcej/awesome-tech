@@ -57,6 +57,7 @@
 - [startup-resources.zeef.com](https://startup-resources.zeef.com)
 - [startup.zeef.com](https://startup.zeef.com/)
 - [Mark Cuban's 12 Rules for Startups 🌟](http://www.entrepreneur.com/article/222524)
+- [Why new companies have it way easier now than a decade ago 🌟](http://www.businessinsider.com/launching-startup-changed-drastically-stewart-butterfield-slack-flickr-2015-6)
 
 [![zdnet spain](images/zdnet_logo.png)](http://www.zdnet.com/blog/iberia/)
 
@@ -98,6 +99,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Never give up inspirational scene from <a href="https://twitter.com/hashtag/moneyball?src=hash">#moneyball</a> <a href="https://twitter.com/hashtag/softball?src=hash">#softball</a>.  <a href="http://t.co/8xWdzpkY">http://t.co/8xWdzpkY</a></p>&mdash; Fordson Softball (@fordsonsoftball) <a href="https://twitter.com/fordsonsoftball/status/270859379287400448">20 de noviembre de 2012</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![new_companies_easier_now_than_a_decade_ago](images/new_companies_easier_now_than_a_decade_ago.png)](http://www.businessinsider.com/launching-startup-changed-drastically-stewart-butterfield-slack-flickr-2015-6)
 
 ## IT remuneration
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)
