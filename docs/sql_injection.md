@@ -62,3 +62,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/KRQDNQttiwVTfz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MariaDB/securing-against-sql-injection-attacks-with-mariadb-maxscale" title="Securing Against SQL Injection Attacks with MariaDB MaxScale" target="_blank">Securing Against SQL Injection Attacks with MariaDB MaxScale</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MariaDB">MariaDB</a></strong> </div>
 </div>
 <br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/i61J8kloscZaDa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/magdis840111/ataque-por-inyeccin-de-cdigo-sql-y-sniffing" title="Ataque por inyección de código sql y sniffing" target="_blank">Ataque por inyección de código sql y sniffing</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/magdis840111">Magda Mayery Baquero Cardona</a></strong> </div>
+</div>
+<br/>

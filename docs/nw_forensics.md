@@ -8,6 +8,7 @@
 		- [Wireshark](#wireshark)
 			- [Laura Chappell](#laura-chappell)
 			- [Sharkfest](#sharkfest)
+			- [Wireshark Slides](#wireshark-slides)
 		- [Fiddler](#fiddler)
 		- [Transum wireshark plugin](#transum-wireshark-plugin)
 		- [Network Performance](#network-performance)
@@ -104,6 +105,58 @@
 	- [Flood network with random MAC addresses with macof tool](https://tournasdimitrios1.wordpress.com/2011/03/04/flood-network-with-random-mac-addresses-with-macof-tool/)
 	- ['itsoknoproblembro' Toolkit - The Beast that Beat Banks](http://www.ehacking.net/2013/01/itsoknoproblembro-toolkit-beast-that.html)
 	- [HTCIA | High Technology Crime Investigation Association](https://www.htcia.org/)
+
+#### Wireshark Slides
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BMQBcziSVb99Tt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/btohara/wireshark-11760386" title="Wireshark" target="_blank">Wireshark</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/btohara">btohara</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pJQVaZgoLM0OfA" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pemrkosa/wiresark" title="Wiresark" target="_blank">Wiresark</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/pemrkosa">Ade Tamin</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3KnN8B9Zr24KDx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/gilsinnj/network-packet-analysis-with-wireshark" title="Network Packet Analysis with Wireshark" target="_blank">Network Packet Analysis with Wireshark</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/gilsinnj">Jim Gilsinn</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2WexyGlky6zcGh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yoramorzach/wireshark-ts-lecture-v100-06july2009" title="Wireshark Basics" target="_blank">Wireshark Basics</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/yoramorzach">Yoram Orzach</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/HwCKZrrIBETAEN" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dgsweigert/wireshark-traffic-analysis" title="Wireshark Traffic Analysis" target="_blank">Wireshark Traffic Analysis</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dgsweigert">Dave Sweigert, CISA, CISSP, HCISPP, PMP, Sec+</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pctYh63S9FWBmk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/thetechfirm/special-episode-of-lmtv-for-wireshark-20" title="Special episode of lmtv for wireshark 2.0" target="_blank">Special episode of lmtv for wireshark 2.0</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/thetechfirm">Tony Fortunato</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/114Pf0trjXxHRg" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/thetechfirm/2015-08-15-wireshark-tips-and-tricks" title="2015 08 15 LMTV Wireshark tips and tricks" target="_blank">2015 08 15 LMTV Wireshark tips and tricks</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/thetechfirm">Tony Fortunato</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/o1Ly99kjraaiEN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/thetechfirm/2015-03-06-lmtv-wtf-http-webcast" title="2015 03 06 lmtv wtf http webcast" target="_blank">2015 03 06 lmtv wtf http webcast</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/thetechfirm">Tony Fortunato</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9cRw07hx5YDY" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/thetechfirm/2015-02-24-lmtv-baselining" title="2015 02 24 lmtv baselining" target="_blank">2015 02 24 lmtv baselining</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/thetechfirm">Tony Fortunato</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5Tm344hq2S55M9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/akhileshbhura/walbergexpose-voip-problems-with-wireshark" title="Walberg-expose vo_ip problems with wireshark" target="_blank">Walberg-expose vo_ip problems with wireshark</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/akhileshbhura">Akhilesh Bhura</a></strong> </div>
+</div>
+<br/>
 
 ### Fiddler
 - [Fiddler is an HTTP debugging proxy server that complements Firefox or Chrome devtools (F12 key)](http://www.telerik.com/fiddler)
