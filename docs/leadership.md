@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Leadership Blogs](#leadership-blogs)
+    - [Leaders on Twitter](#leaders-on-twitter)
 
 <!-- /MarkdownTOC -->
 
@@ -8,6 +9,16 @@
 - [forbes.com/leadership](http://www.forbes.com/leadership)
 - [Addicted to success](http://addicted2success.com)
 - [Quiet Revolution: Unlocking the Power of Introverts. Susan Cain](http://www.quietrev.com)
+
+## Leaders on Twitter
+- [twitter.com/TEDTalks](https://twitter.com/TEDTalks)
+- [twitter.com/DanielPink](https://twitter.com/DanielPink)
+- [twitter.com/Inc](https://twitter.com/Inc)
+- [twitter.com/simonsinek 🌟](https://twitter.com/simonsinek)
+- [Susan Cain 🌟](https://twitter.com/susancain)
+- [facebook.com/ldavidmarquet](https://www.facebook.com/ldavidmarquet/)
+- [twitter.com/Ldavidmarquet](https://twitter.com/Ldavidmarquet)
+- [twitter.com/Autorrealizarte](https://twitter.com/Autorrealizarte)
 
 <div class="container">
 <iframe src="https://embed-ssl.ted.com/talks/susan_cain_the_power_of_introverts.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen class="video"></iframe>
