@@ -92,4 +92,37 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2CnWFabnOJIPvN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GiacomoVacca/docker-and-puppet-for-continuous-integration" title="Docker and Puppet for Continuous Integration" target="_blank">Docker and Puppet for Continuous Integration</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/GiacomoVacca">Giacomo Vacca</a></strong> </div>
+</div>
+<br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9tV11iZZJ5QILi" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pkill/puppetconf-2015-puppet-reporting-with-elasticsearch-logstash-and-kibana" title="Puppetconf 2015 - Puppet Reporting with Elasticsearch Logstash and Kibana" target="_blank">Puppetconf 2015 - Puppet Reporting with Elasticsearch Logstash and Kibana</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/pkill">pkill</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3e0oMXo6gRcM5f" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RanjitAvasarala/installaling-puppet-master-and-agent" title="Installaling Puppet Master and Agent" target="_blank">Installaling Puppet Master and Agent</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/RanjitAvasarala">Ranjit Avasarala</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/EZb7EDFCxxSXgq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PuppetLabs/puppetdb-puppet-explorer-and-puppetdbquery" title="PuppetDB, Puppet Explorer and puppetdbquery" target="_blank">PuppetDB, Puppet Explorer and puppetdbquery</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/PuppetLabs">Puppet Labs</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MZmNE7yYX3MHfc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/aestasit/infrastructure-automation-with-gradle-and-puppet" title="Infrastructure automation with Gradle and Puppet for GR8Conf EU 2015" target="_blank">Infrastructure automation with Gradle and Puppet for GR8Conf EU 2015</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/aestasit">Aestas IT</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CQAMMJm31o8dtH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/aestasit/infrastructure-automation-with-gradle-and-puppet-at-greach-2015" title="Infrastructure automation with gradle and puppet at Greach 2015" target="_blank">Infrastructure automation with gradle and puppet at Greach 2015</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/aestasit">Aestas IT</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/euCWWTXoMSsAmE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EderRoger/provisioning-environments-a-simply" title="Provisioning environments. A simplistic approach" target="_blank">Provisioning environments. A simplistic approach</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/EderRoger">Eder Roger Souza</a></strong> </div>
+</div>
+<br/>

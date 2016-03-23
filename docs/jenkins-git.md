@@ -3,6 +3,7 @@
 - [Continuous Integration Tools](#continuous-integration-tools)
     - [CI Jenkins, Travis](#ci-jenkins-travis)
         - [Jenkins on Twitter](#jenkins-on-twitter)
+        - [Jenkins slides](#jenkins-slides)
         - [Travis on Twitter](#travis-on-twitter)
         - [softwarefactory-project.io](#softwarefactory-projectio)
     - [CI Docker](#ci-docker)
@@ -41,6 +42,18 @@
 
 ### Jenkins on Twitter
 - [twitter.com/jenkinsci](https://twitter.com/jenkinsci)
+
+### Jenkins slides
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Gxa29QTppYwhzc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/andrewbayer/seven-habits-of-highly-effective-jenkins-users-2014-edition" title="Seven Habits of Highly Effective Jenkins Users (2014 edition!)" target="_blank">Seven Habits of Highly Effective Jenkins Users (2014 edition!)</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/andrewbayer">Andrew Bayer</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/88Lal2BncXwMBk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/asotobu/jenkins-docker" title="Jenkins Docker" target="_blank">Jenkins Docker</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/asotobu">Alex Soto</a></strong> </div>
+</div>
+<br/>
 
 ### Travis on Twitter
 - [twitter.com/travisci](https://twitter.com/travisci)

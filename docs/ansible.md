@@ -146,6 +146,51 @@
     - [Speakerdeck: Multi Stage Deployment with Ansible 2016](https://speakerdeck.com/kontrafiktion/multi-stage-deployment-with-ansible-2016)
     - [Slideshare: Ansible module development 101. Feb 2016](http://de.slideshare.net/yfauser/ansible-module-development-101-58580867)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ggQvKfaCgtGQ0s" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bdu_p/how-weuseansible" title="How we-use-ansible" target="_blank">How we-use-ansible</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/bdu_p">bdu_p</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Dk9c8VYYykVABw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/robertreiz/docker-ansible-51576034" title="Infrastructure Deployment with Docker &amp; Ansible" target="_blank">Infrastructure Deployment with Docker &amp; Ansible</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/robertreiz">Robert Reiz</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NHO07xKHJzScS0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MartinEtmajer/automated-deployments-with-ansible" title="Automated Deployments with Ansible" target="_blank">Automated Deployments with Ansible</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MartinEtmajer">Martin Etmajer</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fR2UEjiTv85RmI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/OrestesCA/deploying-php-applications-with-ansible" title="Deploying PHP Applications with Ansible" target="_blank">Deploying PHP Applications with Ansible</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/OrestesCA">Orestes Carracedo</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1xSB43CQoJUyLY" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SarahZelechoski/ansible-how-to-get-more-sleep-and-require-less-coffee" title="Ansible: How to Get More Sleep and Require Less Coffee" target="_blank">Ansible: How to Get More Sleep and Require Less Coffee</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/SarahZelechoski">Sarah Zelechoski</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/oQWFQxGXiIU7z2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/johnthethird/ansible-presentation-24942953" title="Ansible presentation" target="_blank">Ansible presentation</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/johnthethird">John Lynch</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Ca83dBBYh4GISm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MartinEtmajer/testing-ansible-roles-with-test-kitchen-serverspec-and-rspec-48185017" title="Test-Driven Infrastructure with Ansible, Test Kitchen, Serverspec and RSpec" target="_blank">Test-Driven Infrastructure with Ansible, Test Kitchen, Serverspec and RSpec</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MartinEtmajer">Martin Etmajer</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hZF8CHg9DlxExS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shr3kst3r/testing-ansible-with-jenkins-and-docker" title="Testing Ansible with Jenkins and Docker" target="_blank">Testing Ansible with Jenkins and Docker</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shr3kst3r">Dennis </a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4qOuuGiQj5Tzn1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bcoca/ansible-tips-tricks" title="Ansible tips &amp; tricks" target="_blank">Ansible tips &amp; tricks</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/bcoca">bcoca</a></strong> </div>
+</div>
+<br/>
+
 ## Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
 
