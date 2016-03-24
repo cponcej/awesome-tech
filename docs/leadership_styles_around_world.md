@@ -79,11 +79,6 @@
 </div>
 <br/>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6SOTBHAcLV4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How old were you when u watch this movie?<br>Full Metal Jacket Opening Scene <a href="https://t.co/uELnj7rOrz">https://t.co/uELnj7rOrz</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Gerardo Granados (@BN24GGranados) <a href="https://twitter.com/BN24GGranados/status/707623054302576640">9 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I look at my work now. Role Model and Leadership Moneyball <a href="http://t.co/q6LGFZehXu">http://t.co/q6LGFZehXu</a></p>&mdash; Paul Wilson (@PAW1015) <a href="https://twitter.com/PAW1015/status/577323235630587904">16 de marzo de 2015</a></blockquote>

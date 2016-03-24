@@ -31,9 +31,14 @@
 <br>
 
 <div class="container">
-<iframe src="https://embed-ssl.ted.com/talks/lang/en/simon_sinek_how_great_leaders_inspire_action.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qp0HIF3SfI4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6SOTBHAcLV4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Love your work and do good for others. <a href="https://t.co/Lv4zdPQwiG">https://t.co/Lv4zdPQwiG</a> <a href="https://twitter.com/hashtag/visie?src=hash">#visie</a> <a href="https://twitter.com/hashtag/leiderschap?src=hash">#leiderschap</a> <a href="https://twitter.com/hashtag/hrm?src=hash">#hrm</a> <a href="https://twitter.com/hashtag/simonsinek?src=hash">#simonsinek</a></p>&mdash; Martijn van Iersel (@MartijnvIersel) <a href="https://twitter.com/MartijnvIersel/status/651826680802189312">7 de octubre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
