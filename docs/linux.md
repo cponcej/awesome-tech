@@ -525,6 +525,7 @@
 - [How Do I Drop or Block Attackers IP Address With Null Routes On a Linux?](http://www.cyberciti.biz/tips/how-do-i-drop-or-block-attackers-ip-with-null-routes.html)
 - [Find Out If Patch Number (CVE) Has Been Applied To RHEL/CentOS Linux](http://www.cyberciti.biz/faq/linux-find-out-patch-can-cve-applied/)
 - [securitychecklist.org 🌟🌟🌟](https://securitychecklist.org/)
+- [nixCraft: HowTo Change Password of Specific User Account In Linux](http://www.cyberciti.biz/faq/changing-password-of-specific-account-in-linux-commandline/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Checklist For Unix and Linux server <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QTwAlEQHOQ">https://t.co/QTwAlEQHOQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711649284609826816">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

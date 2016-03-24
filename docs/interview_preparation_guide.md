@@ -13,6 +13,8 @@
 
 [![4reasons_no_linkedin_recommendations](images/4reasons_no_linkedin_recommendations.png)](http://www.careerealism.com/recommendations-linkedin-reasons-not/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;The ideal candidate should have at least 15+ years of experience with RHEL 7 and OpenStack.&quot; Who writes this stuff? <a href="https://t.co/AnYCJwDvoJ">pic.twitter.com/AnYCJwDvoJ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/712554322278612992">23 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)

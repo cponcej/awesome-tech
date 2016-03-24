@@ -113,6 +113,9 @@
 
 [![free code camp](images/free_code_camp.png)](https://medium.freecodecamp.com)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you still wasting time on pesky bug fixes? <a href="https://t.co/4fZ2wEFBxh">pic.twitter.com/4fZ2wEFBxh</a></p>&mdash; Practical Developer (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/712683212548521984">23 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
 - [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)
@@ -334,6 +337,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Learning Javascript](images/Learning-JavaScript.png)](http://www.wowebook.org/learning-javascript-3rd-edition.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I promise I will never do such thing. Via <a href="https://t.co/6aV1hVUUfQ">https://t.co/6aV1hVUUfQ</a>? <a href="https://t.co/DRLtXKS4W8">pic.twitter.com/DRLtXKS4W8</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/712702487745007616">23 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### HTML5 and Static Site Generators vs Dynamic CMSs
 - [HTML5 and CSS3 Code Generator Tools List, Initializr is perhaps the most popular](http://www.webcodegeeks.com/html5/html5-css3-code-generator-tools-list)

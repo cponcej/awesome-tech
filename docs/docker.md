@@ -249,3 +249,6 @@
 [![Using Docker](images/Using-Docker.png)](http://www.wowebook.org/using-docker-developing-and-deploying-software-with-containers.html)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/0CJaV7EFsfJ6tCW3UPTRRQ/119849601579" data-did="c741abb104a46eb2eb4c75ec471b62b6e3640bb9"><a href="http://tech.crowdfireapp.com/post/119849601579/hello-docker">http://tech.crowdfireapp.com/post/119849601579/hello-docker</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LOL. Yes. Jail all fat a$$ process ;) Via <a href="https://t.co/IYk50bh6ua">https://t.co/IYk50bh6ua</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/njWwxrc0ap">pic.twitter.com/njWwxrc0ap</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/712933048761892864">24 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

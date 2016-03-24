@@ -55,3 +55,6 @@
 <iframe width="420" height="315" src="https://www.youtube.com/embed/lZlqr2PFJIo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to install Kali Linux 2.0 + Guest Additions on VirtualBox <a href="https://t.co/oOQIcUtgMK">https://t.co/oOQIcUtgMK</a></p>&mdash; Oracle VirtualBox (@virtualbox) <a href="https://twitter.com/virtualbox/status/712686458667139073">23 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
