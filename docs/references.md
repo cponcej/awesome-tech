@@ -62,10 +62,6 @@
 <a href="http://www.slideshare.net/clorissalepe/hollywood-blacklist">Hollywood blacklist</a>
 </p>
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=IF3n6L3P_f0">How Corrupt Is Russia?</a>
-</p>
-
 [![43percent_recruiters_blacklist](images/43percent_recruiters_blacklist.png)](http://www.blogging4jobs.com/job-search/blacklist-job-search-strategies/)
 
 <div class="container">
