@@ -631,6 +631,9 @@
 - [tecmint.com: interview questions/](http://www.tecmint.com/category/interview-questions/)
 - [linuxfoundation.org: 10 Job Interview Questions for Linux System Administrators](http://www.linuxfoundation.org/news-media/blogs/browse/2015/07/10-job-interview-questions-linux-system-administrators)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Here is some great job interview advice for sys admins. | <a href="https://t.co/ScApCY8YMm">https://t.co/ScApCY8YMm</a> via <a href="https://twitter.com/opensourceway">@opensourceway</a> <a href="https://t.co/5A66BknFjh">pic.twitter.com/5A66BknFjh</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/712954615906508801">24 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/rfkDOrkHNRjrok" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hirist/top-100-linux-interview-questions-and-answers-2014" title="Top 100 Linux Interview Questions and Answers 2014" target="_blank">Top 100 Linux Interview Questions and Answers 2014</a> </strong> from <strong><a href="//www.slideshare.net/hirist" target="_blank">hirist.com</a></strong> </div>
 </div>

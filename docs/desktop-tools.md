@@ -75,8 +75,7 @@
 
 ![bill gates](images/bill_gates.jpg)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">beautiful video of windows 95&#39;s launch <a href="https://t.co/ETeR0JQK2d">pic.twitter.com/ETeR0JQK2d</a></p>&mdash; Owen Williams ⚡️ (@ow) <a href="https://twitter.com/ow/status/698034035180888064">febrero 12, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">beautiful video of windows 95&#39;s launch <a href="https://t.co/ETeR0JQK2d">pic.twitter.com/ETeR0JQK2d</a></p>&mdash; Owen Williams ⚡️ (@ow) <a href="https://twitter.com/ow/status/698034035180888064">febrero 12, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![BI Excel](images/Business_insider_excel.jpg)](https://www.youtube.com/channel/UC6VQZBHhAscmySqf6lEXBtw)
 
@@ -111,6 +110,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tres trucos de Excel que te ahorrarán horas de trabajo <a href="https://t.co/TnuPWSKBHM">https://t.co/TnuPWSKBHM</a> <a href="https://t.co/EAE5GXGKca">pic.twitter.com/EAE5GXGKca</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/707275727050149888">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cuatro gráficos que nunca se usan en <a href="https://twitter.com/hashtag/Excel?src=hash">#Excel</a> y deberían emplearse ➡ <a href="https://t.co/WhkUYX9fQe">https://t.co/WhkUYX9fQe</a> por <a href="https://twitter.com/Charly_BG">@charly_bg</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/712934671336751104">24 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Windows 10 tip: Access symbols, emojis, and other special characters <a href="https://t.co/unu6DvMrDl">https://t.co/unu6DvMrDl</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/edbott">@edbott</a> <a href="https://t.co/jCTTJ1TNzG">pic.twitter.com/jCTTJ1TNzG</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/705807072265441280">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
