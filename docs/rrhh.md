@@ -7,6 +7,8 @@
 
 <!-- /MarkdownTOC -->
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las empresas no contratan conocimiento: contratan personalidades by <a href="https://twitter.com/ZumoDeEmpleo">@ZumoDeEmpleo</a> <a href="https://t.co/OWWmzu9zpW">https://t.co/OWWmzu9zpW</a> <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> <a href="https://t.co/TDFjWDyVT9">pic.twitter.com/TDFjWDyVT9</a></p>&mdash; Nilton Navarro (@NiltonNavarro) <a href="https://twitter.com/NiltonNavarro/status/712675612142526464">23 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Recursos Humanos
 ## RRHH Blogs
 - [elblogderrhh.com](http://www.elblogderrhh.com/)
