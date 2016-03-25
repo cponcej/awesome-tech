@@ -10,6 +10,8 @@
 
 [![14_things_to_do_youre_fired](images/14_things_to_do_youre_fired.png)](http://www.businessinsider.com/what-to-do-when-you-realize-youre-about-to-be-fired-2016-3)
 
+[![6reasons_best_employees_looking_for_new_jobs](images/6reasons_best_employees_looking_for_new_jobs.png)](http://www.businessinsider.com/6-reasons-your-best-employees-are-secretly-looking-for-new-jobs-2016-3)
+
 # How to Fire and Onboard Employees
 ## How to Fire
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
