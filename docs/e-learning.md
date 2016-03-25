@@ -101,6 +101,7 @@
 - [Coursera](http://coursera.org)
 - [Codecademy](https://www.codecademy.com)
 - [Udacity](https://www.udacity.com/)
+	- [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
 - [Guru99: Selenium,QTP,Java, SAP,Test Management, Linux,Ethical Hacking, Mobile Testing,Accounting, etc](http://www.guru99.com/)
 - [TutorialsPoint](http://www.tutorialspoint.com)
 - [Vogella tutorials](http://www.vogella.com/tutorials/)
@@ -113,6 +114,8 @@
 - [khanacademy.org](https://khanacademy.org/)
 - [patreon.com/crashcourse](https://www.patreon.com/crashcourse) We provide entertaining high-quality education to the entire world for free... no big
 	- [CrashCourse - youtube](https://www.youtube.com/user/crashcourse)
+- [tutorialepractico.com](http://www.tutorialepractico.com)
+- [tutorialepractico.com: Google presenta ocho cursos gratuitos y certificados que no debes perderte](http://www.tutorialepractico.com/2016/02/google-presenta-ocho-cursos-gratuitos-y.html)
 
 [![bi_7sites_learn_skills_free](images/bi_7sites_learn_skills_free.png)](http://www.businessinsider.com/7-sites-where-you-can-learn-a-new-skill-for-free-2016-3)
 
