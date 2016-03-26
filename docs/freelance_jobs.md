@@ -29,6 +29,8 @@
 ## Trabajos Freelance
 - [computerhoy.com: Las 10 mejores webs donde conseguir trabajo como freelance](http://computerhoy.com/listas/internet/8-mejores-webs-donde-conseguir-trabajo-como-freelance-8742)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El coste de ser autónomo en Europa, vía <a href="https://twitter.com/marcosantonr">@marcosantonr</a> <a href="https://t.co/Bx6TDJSHTc">pic.twitter.com/Bx6TDJSHTc</a></p>&mdash; Comunidad Financiera (@comunidadfinan) <a href="https://twitter.com/comunidadfinan/status/713654519985516544">26 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/rU5PrcxFln0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
