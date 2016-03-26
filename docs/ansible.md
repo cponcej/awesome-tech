@@ -99,6 +99,11 @@
 
 ![I volunteer](images/i_volunteer.gif)
 
+## Ansible Videos and Slides
+- [Youtube: Livestream von codecentric AG](https://www.youtube.com/watch?v=B7K1ETPyzoQ)
+    - [Speakerdeck: Multi Stage Deployment with Ansible 2016](https://speakerdeck.com/kontrafiktion/multi-stage-deployment-with-ansible-2016)
+    - [Slideshare: Ansible module development 101. Feb 2016](http://de.slideshare.net/yfauser/ansible-module-development-101-58580867)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fwGrKXzocg4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -140,11 +145,6 @@
 <iframe width="420" height="315" src="https://www.youtube.com/embed/sy8i4VXIVEE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-## Ansible Videos and Slides
-- [Youtube: Livestream von codecentric AG](https://www.youtube.com/watch?v=B7K1ETPyzoQ)
-    - [Speakerdeck: Multi Stage Deployment with Ansible 2016](https://speakerdeck.com/kontrafiktion/multi-stage-deployment-with-ansible-2016)
-    - [Slideshare: Ansible module development 101. Feb 2016](http://de.slideshare.net/yfauser/ansible-module-development-101-58580867)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ggQvKfaCgtGQ0s" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bdu_p/how-weuseansible" title="How we-use-ansible" target="_blank">How we-use-ansible</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/bdu_p">bdu_p</a></strong> </div>
