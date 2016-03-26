@@ -19,7 +19,7 @@
     - [AWS Database Migration Service](#aws-database-migration-service)
     - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
     - [AWS Latency](#aws-latency)
-    - [AWS EC2 Container Registry (Docker)](#aws-ec2-container-registry-docker)
+    - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
     - [AWS CLI](#aws-cli)
     - [AWS Developer Blog](#aws-developer-blog)
     - [AWS Lambda](#aws-lambda)
@@ -29,7 +29,7 @@
     - [AWS Backup and Recovery](#aws-backup-and-recovery)
     - [AWS BigData](#aws-bigdata)
     - [AWS IoT](#aws-iot)
-    - [AWS Partner Network (APN)](#aws-partner-network-apn)
+    - [AWS Partner Network \(APN\)](#aws-partner-network-apn)
     - [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 
 <!-- /MarkdownTOC -->
@@ -263,6 +263,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New on the AWS <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> blog: &quot;Big Data Analytics Options on AWS: Updated White Paper&quot; <a href="https://t.co/p7AUlClnEy">https://t.co/p7AUlClnEy</a> <a href="https://t.co/Lp7lg2ofOx">pic.twitter.com/Lp7lg2ofOx</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/698238715718668288">febrero 12, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FjleVmtkfWE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## AWS IoT
 - [aws.amazon.com/en/iot](https://aws.amazon.com/en/iot)
