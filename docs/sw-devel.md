@@ -336,6 +336,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend <a href="https://t.co/vEbdJxG2mA">https://t.co/vEbdJxG2mA</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/700678314445271040">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When one programmer almost broke the Internet by deleting popular <a href="https://twitter.com/hashtag/nmp?src=hash">#nmp</a> module and you get caught off guard <a href="https://twitter.com/hashtag/npmgate?src=hash">#npmgate</a> <a href="https://t.co/z0xcRx5rKb">pic.twitter.com/z0xcRx5rKb</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/713657275500482560">26 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">🔥 Use a variable to hold and call your methods instead of using if statements <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a> <a href="https://t.co/rH2ygKeBSr">pic.twitter.com/rH2ygKeBSr</a></p>&mdash; Wes Bos (@wesbos) <a href="https://twitter.com/wesbos/status/701450025944145920">febrero 21, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
