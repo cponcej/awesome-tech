@@ -269,6 +269,8 @@
 
 [![cunde_desanimo_futuro_jovenes_catalanes](images/cunde_desanimo_futuro_jovenes_catalanes.png)](http://www.lavanguardia.com/vida/20160317/40497346529/desanimo-futuro-jovenes-catalanes.html)
 
+[![low_salaries_bcn](images/low_salaries_bcn.png)](http://blog.jobsbcn.com/index.php/2016/02/16/low-salaries-threaten-barcelona-as-innovation-hub/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries grow richer when they learn how to produce more valuable stuff per person  <a href="https://t.co/0GOBddIfND">https://t.co/0GOBddIfND</a> <a href="https://t.co/mDapJqUVm8">pic.twitter.com/mDapJqUVm8</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/711579515244388354">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Trabajando por una movilidad laboral equitativa para todos<a href="https://t.co/tyAGsFomCk">https://t.co/tyAGsFomCk</a></p>&mdash; Comisión Europea (@UEmadrid) <a href="https://twitter.com/UEmadrid/status/711883070417186816">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
