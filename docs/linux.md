@@ -476,7 +476,7 @@
 - ['traceroute' in Linux is like 'route get' in Solaris](http://www.cyberciti.biz/faq/traceroute-tracepath-unix-linux-command/)
 - [Using TCP Traceroute on Windows And Linux](https://support.logicboxes.com/helpdesk/index.php?/Knowledgebase/Article/View/11/37/using-tcp-traceroute-on-windows-and-linux) TCPTraceroute to trace a path through the network, using a specific TCP port number. This tool is very useful for determining if a port is being blocked by a firewall. If it is being blocked, we can get an idea of where it is being blocked.
 - [tracepath: What's the difference between traceroute and tracepath?](https://www.quora.com/Whats-the-difference-between-traceroute-and-tracepath)
-- [LHN: linuxhomenetworking.com](http://www.linuxhomenetworking.com/)
+- [LHN: linuxhomenetworking.com 🌟🌟🌟](http://www.linuxhomenetworking.com/)
 	- [Quick HOWTO : Ch03 : Linux Networking](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch03_:_Linux_Networking)
 	- [Quick HOWTO : Ch04 : Simple Network Troubleshooting](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting)
 	- [Quick HOWTO : Ch04 : Simple Network Troubleshooting : Using MTR To Detect Network Congestion](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch04_:_Simple_Network_Troubleshooting#Using_MTR_To_Detect_Network_Congestion)
@@ -500,6 +500,7 @@
 - [How to: Detect Duplicate IP Address With arping command under Linux](http://www.cyberciti.biz/faq/linux-duplicate-address-detection-with-arping/)
 - [How to Setup and Configure Network Bonding or Teaming in RHEL/CentOS 7](http://www.tecmint.com/configure-network-bonding-or-teaming-in-rhel-centos-7/)
 - [Configure Static Routes In Debian or Red Hat Enterprise Linux](http://www.cyberciti.biz/tips/configuring-static-routes-in-debian-or-red-hat-linux-systems.html)
+- [Introducing Linux Network Namespaces 🌟](http://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/)
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Z1IoXIxLJVE" frameborder="0" allowfullscreen class="video"></iframe>
