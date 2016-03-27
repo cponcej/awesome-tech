@@ -201,8 +201,11 @@
 
 ### Job Description
 - [4 Benefits of Accurate Job Descriptions for Small Businesses](http://www.mjms.net/blog/4-benefits-of-accurate-job-descriptions-for-small-businesses/)
+- [On Being A Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/MLoParis">@MLoParis</a> Or Michael Douglas in Falling Down <a href="https://t.co/m5HYjn4XWx">pic.twitter.com/m5HYjn4XWx</a></p>&mdash; Eileen Toomey-Wright (@ToomeyWright) <a href="https://twitter.com/ToomeyWright/status/676908732027129857">15 de diciembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">On Being A Senior Engineer <a href="https://t.co/11tGUJ2buh">https://t.co/11tGUJ2buh</a></p>&mdash; Jackie Kazil (@JackieKazil) <a href="https://twitter.com/JackieKazil/status/713736771004010496">26 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Networking
 - [5 Networking Mistakes And How To Easily Avoid Them](http://www.careerealism.com/networking-mistakes-avoid-easily/)
