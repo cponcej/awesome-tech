@@ -126,6 +126,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Avoid burnout by changing up your work environment -- new views &amp; hours can reduce monotony <a href="https://t.co/njCwaUn6HI">https://t.co/njCwaUn6HI</a> <a href="https://t.co/gq891XLn6C">pic.twitter.com/gq891XLn6C</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/711578294706163712">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to apply for a job in a field where you have no experience <a href="https://t.co/jSCcatqpIf">https://t.co/jSCcatqpIf</a></p>&mdash; The Independent (@Independent) <a href="https://twitter.com/Independent/status/714455029458067456">28 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">VÍDEO | Bouhanni, DESCALIFICADO. Mejor verlo que tratar de explicarlo  <a href="https://twitter.com/hashtag/ParisNice?src=hash">#ParisNice</a> (via <a href="https://twitter.com/Eurosport_ES">@Eurosport_ES</a>) <a href="https://t.co/NzociigkDn">pic.twitter.com/NzociigkDn</a></p>&mdash; adriangroca (@adriangroca) <a href="https://twitter.com/adriangroca/status/707251488846958593">8 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
