@@ -128,6 +128,9 @@
 - [developers.redhat.com: More about docker images size](http://developers.redhat.com/blog/2016/03/09/more-about-docker-images-size)
 - [Docker Overview, Part One](https://deis.com/blog/2016/docker-overview-pt-1/)
 - [linux.com: Introduction to Docker Compose Tool for Multi-Container Applications](http://www.linux.com/learn/tutorials/893685-introduction-to-docker-compose-tool-for-multi-container-applications)
+- [DZone refcard: Java Containerization 🌟🌟](https://dzone.com/refcardz/java-containerization)
+
+[![java_containerization_dzone_refcard](images/java_containerization_dzone_refcard.png)](https://dzone.com/refcardz/java-containerization)
 
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)
