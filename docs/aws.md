@@ -105,6 +105,7 @@
 - [AWS Tips I Wish I'd Known Before I Started (Feb 2014) 🌟🌟🌟](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/) A collection of random tips for Amazon Web Services (AWS) that I wish I'd been told a few years ago, based on what I've learned by building and deploying various applications on AWS.
 - [Amazon AWS Tips and Gotchas – Part 1 (Feb 2016)](http://www.tekhead.org/blog/2016/02/amazon-aws-tips-and-gotchas-part-1/)
 - [DZone: 5 Tips for Better AWS Performance 🌟🌟](https://dzone.com/articles/5-tips-for-better-aws-performance) The Ngnix team has a nice list of tips for better performance when using the AWS services. Some of them are related to Ngnix, but others are completely usable for anyone.
+- [How do I get started with AWS cloud computing? 🌟🌟🌟](https://aws.amazon.com/premiumsupport/knowledge-center/get-started-aws/)
 
 ## AWS New Features
 - [aws.amazon.com/releasenotes](https://aws.amazon.com/releasenotes)
@@ -279,8 +280,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">RE add <a href="https://twitter.com/hashtag/mqtt?src=hash">#mqtt</a> or <a href="https://twitter.com/hashtag/websocket?src=hash">#websocket</a> support to your <a href="https://twitter.com/hashtag/android?src=hash">#android</a> apps using <a href="https://twitter.com/hashtag/aws?src=hash">#aws</a> <a href="https://twitter.com/hashtag/iot?src=hash">#iot</a> <a href="https://t.co/fFQ3T4jaS1">https://t.co/fFQ3T4jaS1</a></p>&mdash; Kyle Roche (@kylemroche) <a href="https://twitter.com/kylemroche/status/701992286268166144">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Internet of Things has gone too far <a href="https://t.co/IPD3VmFdOU">https://t.co/IPD3VmFdOU</a> <a href="https://t.co/a1pF66qcgE">pic.twitter.com/a1pF66qcgE</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/702564712010141696">24 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Internet of Things has gone too far <a href="https://t.co/IPD3VmFdOU">https://t.co/IPD3VmFdOU</a> <a href="https://t.co/a1pF66qcgE">pic.twitter.com/a1pF66qcgE</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/702564712010141696">24 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## AWS Partner Network (APN)
 - [AWS Partner Network](https://aws.amazon.com/partners/)

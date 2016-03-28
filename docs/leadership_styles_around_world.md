@@ -10,6 +10,7 @@
 - [tec.com.au: Different leadership styles from around the world](http://tec.com.au/resource/different-leadership-styles-from-around-the-world/)
 - [forbes.com: How Does Leadership Vary Across the Globe?](http://www.forbes.com/sites/joshbersin/2012/10/31/are-expat-programs-dead/)
 - [planningengineer.net: Graphs Of Leadership Types All over the world](http://www.planningengineer.net/graphs-of-leadership-types-all-over-the-world/)
+- [Forbes: Fading Emperor Bosses](http://www.forbes.com/sites/richkarlgaard/2016/03/23/fading-emperor-bosses/#445378d23c57)
 
 [![24 charts of Leadership Styles Around the world](images/BI_leadership_styles_around_the_world.png)](http://www.businessinsider.com/leadership-styles-around-the-world-2013-12)
 
@@ -93,6 +94,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gWVn2PRJIZc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top-down leadership is declining, and not just in creative industries like software: <a href="https://t.co/jIMAjTolry">https://t.co/jIMAjTolry</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/714236056217001984">27 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How old were you when u watch this movie?<br>Full Metal Jacket Opening Scene <a href="https://t.co/uELnj7rOrz">https://t.co/uELnj7rOrz</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Gerardo Granados (@BN24GGranados) <a href="https://twitter.com/BN24GGranados/status/707623054302576640">9 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
