@@ -21,6 +21,7 @@
     - [AWS Latency](#aws-latency)
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
     - [AWS CLI](#aws-cli)
+    - [AWS VPC](#aws-vpc)
     - [AWS Developer Blog](#aws-developer-blog)
     - [AWS Lambda](#aws-lambda)
     - [AWS Cloud Formation](#aws-cloud-formation)
@@ -204,9 +205,13 @@
 - [Get started with Amazon EC2 Container Registry (Amazon ECR)](http://docs.aws.amazon.com/AmazonECR/latest/userguide/ECR_GetStarted.html)
 
 ## AWS CLI
+- [Amazon CLI Documentation](https://aws.amazon.com/cli)
 - [AWS CLI Command Reference](http://docs.aws.amazon.com/cli/latest/index.html)
 - [New usage examples have been added to the CLI for CodePipeline API Reference](http://docs.aws.amazon.com/cli/latest/reference/codepipeline/index.html)
 - [ec2-ssh-yplan: A pair of command line utilities for finding and SSH-ing into your Amazon EC2 instances by tag (such as ‘Name’)](https://pypi.python.org/pypi/ec2-ssh-yplan/)
+
+## AWS VPC
+- [linuxjournal.com: AWS EC2 VPC CLI](http://www.linuxjournal.com/content/aws-ec2-vpc-cli)
 
 ## AWS Developer Blog
 - [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)
