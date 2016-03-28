@@ -345,6 +345,9 @@
 	- [DevOps and Continuous Delivery Reference Architectures - Volume 2](http://www.slideshare.net/SonatypeCorp/devops-and-continuous-delivery-reference-architectures)
 	- [Experts Share DevOps/CD Reference Architectures](https://youtu.be/deQ_EcMXh7o)
 - [DZone: Continuous Delivery: The Atlassian Way 🌟](https://dzone.com/articles/continuous-delivery-the-atlassian-way) Sonatype's Mark Miller catches up with Ian Buchanan at Atlassian to discuss DevOps leadership, ChatOps, and usage of tools in the continuous delivery pipeline.
+- [DZone refcard: Deployment Automation Patterns 🌟](https://dzone.com/refcardz/deployment-automation-patterns)
+- [DZone refcard: Preparing for Continuous Delivery 🌟](https://dzone.com/refcardz/preparing-continuous-delivery)
+- [DZone refcard: Continuous Delivery 🌟](https://dzone.com/refcardz/continuous-delivery-patterns)
 
 [![visualizations continuous delivery](images/visualizations_continuous_delivery.png)](http://continuousdelivery.com/2014/02/visualizations-of-continuous-delivery/)
 

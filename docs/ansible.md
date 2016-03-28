@@ -93,10 +93,10 @@
 
 ## Is ansible replacing puppet?
 - [redhat subreddit: Is ansible replacing puppet?](https://www.reddit.com/r/redhat/comments/3xj6ja/is_ansible_replacing_puppet/)
-- [Demo: Chef vs Puppet vs Ansible](https://www.youtube.com/watch?v=miO00M4vPok)
+- [Demo: Chef vs Puppet vs Ansible 🌟🌟🌟](https://www.youtube.com/watch?v=miO00M4vPok)
 - [Are Docker Users Migrating to Ansible and Away from Puppet and Chef?](http://thenewstack.io/are-docker-users-migrating-to-ansible-and-away-from-puppet-and-chef/)
 - [Twitter's transition from Puppet to Ansible](https://www.youtube.com/watch?v=fwGrKXzocg4)
-- [Puppet or Ansible: How to Choose?](https://dzone.com/articles/puppet-or-ansible-how-to-choose) When choosing between Puppet and Ansible, understanding the design choices can get us past wondering which is better, so we can make an informed decision.
+- [DZone: Puppet or Ansible: How to Choose? 🌟](https://dzone.com/articles/puppet-or-ansible-how-to-choose) When choosing between Puppet and Ansible, understanding the design choices can get us past wondering which is better, so we can make an informed decision.
 
 ![I volunteer](images/i_volunteer.gif)
 

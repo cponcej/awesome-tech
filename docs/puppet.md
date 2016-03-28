@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Puppet](#puppet)
+    - [DZone and Puppet](#dzone-and-puppet)
 
 <!-- /MarkdownTOC -->
 
@@ -24,6 +25,21 @@
 - [Puppet Modules: Apps for Ops](http://pyvideo.org/video/2589/puppet-modules-apps-for-ops)
 - [Geppetto, eclipse plugin for puppet](https://puppetlabs.com/blog-tags/geppetto)
 - [New Releases for AWS and vSphere Modules](https://puppetlabs.com/blog/new-releases-aws-and-vsphere-modules)
+
+## DZone and Puppet
+- [DZone: Puppet Labs Redefines Application Orchestration](https://dzone.com/articles/puppet-labs-redefines-application-orchestration)
+- [DZone: Building Docker Images with Puppet](https://dzone.com/articles/building-docker-images-puppet)
+- [DZone: Learning Puppet or Chef? Check out Vagrant!](https://dzone.com/articles/learning-puppet-or-chef-check)
+- [DZone: Puppet vs. Chef – The Devops Deathmatch](https://dzone.com/articles/puppet-vs-chef-%E2%80%93-devops)
+- [DZone: Minimalistic Practical Introduction to Puppet (Not Only) For Vagrant Users](https://dzone.com/articles/minimalistic-practical)
+- [DZone: Puppet or Ansible: How to Choose? 🌟](https://dzone.com/articles/puppet-or-ansible-how-to-choose)
+- [DZone: Puppet editing like a pro](https://dzone.com/articles/puppet-editing-pro)
+- [DZone: Puppet unit testing like a pro](https://dzone.com/articles/puppet-unit-testing-pro)
+- [DZone: Setting up a LAMP box with Puppet](https://dzone.com/articles/setting-lamp-box-puppet)
+- [DZone: Intro to Puppet, Installing your First MySQL Service in 5 Minutes 🌟](https://dzone.com/articles/intro-puppet-installing-your)
+- [DZone: A Practical, Quick Introduction to Puppet](https://dzone.com/articles/practical-quick-introduction)
+- [DZone: Puppet: A Beginners Concept Guide (Part 1) 🌟](https://dzone.com/articles/puppet-beginners-concept-guide)
+- [DZone: Puppet for Java Developers](https://dzone.com/articles/puppet-java-developers)
 
 [![Puppet 3 Cookbook](images/Puppet-3-Cookbook.png)](http://www.wowebook.org/puppet-3-cookbook.html)
 
