@@ -136,6 +136,7 @@
 - [opensource.com: Using Git in the classroom 🌟](https://opensource.com/education/16/1/git-education-classroom)
 - [medium: Understanding git for real by exploring the .git directory](https://medium.com/@pierreda/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807)
 - [Git Cheat Sheet for Sysadmin/DevOps 🌟](http://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet.png)
+- [DZone refcard: Getting started with Git 🌟🌟](https://dzone.com/refcardz/getting-started-git)
 
 [![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/) 
 
