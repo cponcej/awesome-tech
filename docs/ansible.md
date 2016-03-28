@@ -56,6 +56,7 @@
 - [Ansible: Top posts of 2015](http://www.ansible.com/blog/top-ansible-posts-of-2015)
 - [dzone: Introduction to Ansible Setup in Ubuntu 14.04 ](https://dzone.com/articles/ansible-setup-in-ubuntu-14o4-using-docker-with-ans)
 - [dzone: Ansible Introduction](https://dzone.com/articles/ansible-introduction)
+- [dzone: Part 1: Getting Started with Ansible 🌟](https://dzone.com/articles/part-1-getting-started-ansible)
 - [dzone: Environment Variables with Vagrant and Ansible.](https://dzone.com/articles/environment-variable-with-vagrant-and-ansible) How to configure Ansible and Vagrant to use a web proxy server.
 - [How We Use AWS, Ansible, and Packer to Make Deployment Awesome](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 - [Ansible: write and run your first playbook](http://abregman.com/2015/12/25/ansible-write-and-run-your-first-playbook/)
