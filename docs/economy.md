@@ -105,6 +105,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las 100 Mayores Economías del Mundo, vía <a href="https://twitter.com/sergiorivas">@sergiorivas</a> <a href="https://t.co/R51NGkvX2N">pic.twitter.com/R51NGkvX2N</a></p>&mdash; Comunidad Financiera (@comunidadfinan) <a href="https://twitter.com/comunidadfinan/status/711282942014844932">19 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Tourist arrivals, 2013. (million)<br><br>1. France: 84.7<br>2. US: 69.8<br>3. Spain: 60.7<br>4. China: 55.7<br>5. Italy: 47.7<br>6. Turkey: 37.8<br>7. Germany: 31.5</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/714837146503290880">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Govt debt as % of GDP, from 2007 to 2015.<br><br>US: 64% to 105%<br>China: 35% to 43%<br>Euro area: 65% to 95%<br>India: 74% to 64%<br>Japan: 183% to 243%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/711945627463077888">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Country area (million km2)<br><br>Russia: 17.1<br>Canada: 9.9<br>China: 9.57<br>US: 9.52<br>Brazil: 8.5<br>Australia: 7.7<br>India: 3.3 <a href="https://t.co/6URXXKoT81">pic.twitter.com/6URXXKoT81</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/710178887422988288">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -262,6 +264,8 @@
 [![stocks in 2015](images/stocks_2015.png)](https://twitter.com/intlspectator)
 
 [![shipbuilding market](images/shipbuilding_market.png)](https://twitter.com/intlspectator)
+
+[![bi_robots_map](images/bi_robots_map.png)](http://www.businessinsider.com/countries-with-greatest-number-of-robots-2016-3)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">US spends $640 billion on its military; more than China, Russia, Saudi, France, UK, India and Germany combined. <a href="https://t.co/YSHHIqWpBg">pic.twitter.com/YSHHIqWpBg</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/700417049864982529">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
