@@ -112,6 +112,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cuatro gráficos que nunca se usan en <a href="https://twitter.com/hashtag/Excel?src=hash">#Excel</a> y deberían emplearse ➡ <a href="https://t.co/WhkUYX9fQe">https://t.co/WhkUYX9fQe</a> por <a href="https://twitter.com/Charly_BG">@charly_bg</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/712934671336751104">24 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cómo proteger carpetas con contraseña en Windows 10 de forma sencilla <a href="https://t.co/9nRar7fsQ8">https://t.co/9nRar7fsQ8</a> <a href="https://t.co/fMLH1bc2nY">pic.twitter.com/fMLH1bc2nY</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/714887894821810176">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Windows 10 tip: Access symbols, emojis, and other special characters <a href="https://t.co/unu6DvMrDl">https://t.co/unu6DvMrDl</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/edbott">@edbott</a> <a href="https://t.co/jCTTJ1TNzG">pic.twitter.com/jCTTJ1TNzG</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/705807072265441280">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
