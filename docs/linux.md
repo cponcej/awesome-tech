@@ -370,6 +370,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">KVM libvirt assign static guest IP addresses using DHCP on Linux virtual machine <a href="https://t.co/0vFzVDnb9a">https://t.co/0vFzVDnb9a</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/GBYHhS4Bbl">pic.twitter.com/GBYHhS4Bbl</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710172113915781120">16 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to detect execution in a virtualized environment on Linux?<br><br>systemd-detect-virt<br><br>OR<br><br>dmidecode -s system-manufacturer<a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714602201222524928">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## FOSS Software
 - [30 Cool Open Source Software I Discovered in 2013](http://www.cyberciti.biz/open-source/30-cool-best-open-source-softwares-of-2013/)
 - [Postfix Flush the Mail Queue](http://www.cyberciti.biz/tips/howto-postfix-flush-mail-queue.html)

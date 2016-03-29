@@ -135,3 +135,5 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">:%s/wlan0/eth3/gc # In vim this will search all lines (%s) for wlan0 and replace all the instances per line (g) with eth3 and confirm (c)</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/712287216668696578">22 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to detect execution in a virtualized environment on Linux?<br><br>systemd-detect-virt<br><br>OR<br><br>dmidecode -s system-manufacturer<a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714602201222524928">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

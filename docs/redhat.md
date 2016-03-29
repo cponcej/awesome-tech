@@ -18,13 +18,13 @@
 		- [Red Hat Server with GUI and remote access with RDP](#red-hat-server-with-gui-and-remote-access-with-rdp)
 	- [Red Hat Mobile Application Platform: Feed Henry](#red-hat-mobile-application-platform-feed-henry)
 	- [Java 8 and Git](#java-8-and-git)
-	- [JBoss (WildFly)](#jboss-wildfly)
+	- [JBoss \(WildFly\)](#jboss-wildfly)
 		- [JBoss Blogs](#jboss-blogs)
 		- [JBoss on Twitter](#jboss-on-twitter)
 		- [JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others](#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
 		- [JBoss Resources](#jboss-resources)
 		- [JBoss BPM Suite and JBoss BRMS](#jboss-bpm-suite-and-jboss-brms)
-		- [JBoss Fuse - Enterprise Service Bus (ESB)](#jboss-fuse---enterprise-service-bus-esb)
+		- [JBoss Fuse - Enterprise Service Bus \(ESB\)](#jboss-fuse---enterprise-service-bus-esb)
 		- [JBoss Data Virtualization](#jboss-data-virtualization)
 		- [JBoss Data Grid](#jboss-data-grid)
 	- [Red Hat Development](#red-hat-development)
@@ -141,8 +141,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">.<a href="https://twitter.com/vmherold">@vmherold</a> on modernizing your <a href="https://twitter.com/hashtag/datacenter?src=hash">#datacenter</a>: <a href="https://t.co/HnaKvxNYGc">https://t.co/HnaKvxNYGc</a> <a href="https://twitter.com/hashtag/moderndatacenters?src=hash">#moderndatacenters</a> <a href="https://twitter.com/hashtag/virtualization?src=hash">#virtualization</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/707174032135729153">March 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Red?src=hash">#Red</a> Hat Enterprise <a href="https://twitter.com/hashtag/Virtualization?src=hash">#Virtualization</a> 3.6 has new tools to ease <a href="https://twitter.com/hashtag/VMware?src=hash">#VMware</a> <a href="https://twitter.com/hashtag/vSphere?src=hash">#vSphere</a> migrations <a href="https://t.co/fkZTQHqnf9">https://t.co/fkZTQHqnf9</a> <a href="https://t.co/Vf8YW4kyu9">pic.twitter.com/Vf8YW4kyu9</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/707706032378634240">marzo 9, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Red?src=hash">#Red</a> Hat Enterprise <a href="https://twitter.com/hashtag/Virtualization?src=hash">#Virtualization</a> 3.6 has new tools to ease <a href="https://twitter.com/hashtag/VMware?src=hash">#VMware</a> <a href="https://twitter.com/hashtag/vSphere?src=hash">#vSphere</a> migrations <a href="https://t.co/fkZTQHqnf9">https://t.co/fkZTQHqnf9</a> <a href="https://t.co/Vf8YW4kyu9">pic.twitter.com/Vf8YW4kyu9</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/707706032378634240">marzo 9, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to detect execution in a virtualized environment on Linux?<br><br>systemd-detect-virt<br><br>OR<br><br>dmidecode -s system-manufacturer<a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714602201222524928">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![zdnet_rhel_kvm_36](images/zdnet_rhel_kvm_36.png)](http://www.zdnet.com/article/red-hat-updates-kvm-virtualizaiton-program/)
 

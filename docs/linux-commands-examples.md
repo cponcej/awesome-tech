@@ -397,6 +397,14 @@
 
 		ls -ltr /var/log | tail
 
+- Want to detect execution in a virtualized environment on Linux? 
+
+		systemd-detect-virt 
+
+		OR 
+
+		dmidecode -s system-manufacturer
+
 [![largest open files](images/largest_open_files.png)](https://twitter.com/nixcraft)
 
 <div class="container">
