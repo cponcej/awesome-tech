@@ -1,11 +1,11 @@
 <!-- MarkdownTOC -->
 
-- [Next Generation Firewalls (NGFW)](#next-generation-firewalls-ngfw)
+- [Next Generation Firewalls \(NGFW\)](#next-generation-firewalls-ngfw)
     - [Encryption increasingly used to hide attacks](#encryption-increasingly-used-to-hide-attacks)
     - [Dell SonicWall TZ Series 5th Generation. Escrito en primavera 2015](#dell-sonicwall-tz-series-5th-generation-escrito-en-primavera-2015)
     - [Dell SonicWall TotalSecure and CGSS Bundles](#dell-sonicwall-totalsecure-and-cgss-bundles)
     - [Dell SonicWall TZ Series 6th Generation](#dell-sonicwall-tz-series-6th-generation)
-    - [Dell SonicWALL WAN Acceleration Appliance (WAN optimization)](#dell-sonicwall-wan-acceleration-appliance-wan-optimization)
+    - [Dell SonicWALL WAN Acceleration Appliance \(WAN optimization\)](#dell-sonicwall-wan-acceleration-appliance-wan-optimization)
     - [Fortinet](#fortinet)
 
 <!-- /MarkdownTOC -->
@@ -70,6 +70,7 @@
 	- [youtube: Dell Solutions Tour 2015 - Dell Software Defined (SDS/SDN/SDDC)](https://www.youtube.com/watch?v=C0wEbuoK_34)
 - [youtube channel: Andrew Crouthamel Dell SonicWALL Training](https://www.youtube.com/playlist?list=PLC909885E4476986B)
 	- [youtube.com: Andrew Crouthamel Dell SonicWALL Failover and Load Balancing](https://www.youtube.com/watch?v=3wn9Q_v6MVU)
+- [Dell Security Announces SonicOS 6.2.5 for Dell SonicWALL Next-Generation Firewalls 🌟](http://en.community.dell.com/dell-blogs/direct2dell/b/direct2dell/archive/2016/03/29/dell-security-announces-sonicos-6-2-5-for-dell-sonicwall-next-generation-firewalls) 
 
 ## Dell SonicWALL WAN Acceleration Appliance (WAN optimization)
 - [community.dell.com: Accelerate Application Performance for a Better User Experience](http://en.community.dell.com/techcenter/security/network-mobile-email/b/weblog/archive/2016/01/11/accelerate-application-performance-for-a-better-user-experience)
