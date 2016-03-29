@@ -297,6 +297,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Primary education quality, 2015<br><br>1. Finland<br>2. Belgium<br>3. Singapore<br><br>10. Japan<br>22. Germany<br>30. UK<br>36. US<br>59. China<br>88. India<br>141. Egypt<br><br>WEF</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/702893343122919424">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">11 maps and charts to challenge your perceptions of Europe <a href="https://t.co/8dQsEcF7V0">https://t.co/8dQsEcF7V0</a> <a href="https://t.co/9H7YNhxvo5">pic.twitter.com/9H7YNhxvo5</a></p>&mdash; indy100 (@indy100) <a href="https://twitter.com/indy100/status/714836222330408960">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: The world&#39;s biggest banks by nationality, 2004-2013 <a href="https://t.co/kTF9t28AD6">pic.twitter.com/kTF9t28AD6</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/706245425880170496">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
