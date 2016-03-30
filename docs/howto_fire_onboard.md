@@ -68,6 +68,8 @@
 </div>
 <br>
 
+[![BI_youve_been_fired](images/BI_youve_been_fired.png)](http://www.businessinsider.com/fired-career-james-altucher-ideas-lunch-2016-3)
+
 ## How to Successfully Onboard Employees
 - [How to Successfully Onboard Employees](http://www.dzonesoftware.com/blog/how-to-successfully-onboard-employees)
 
