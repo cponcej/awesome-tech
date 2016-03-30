@@ -22,8 +22,7 @@
 
 [![Red Hat acquires Ansible](images/redhat-ansible.png)](https://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Impressions from <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> London 2016 <a href="https://t.co/Xbr1FkkB0q">https://t.co/Xbr1FkkB0q</a></p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/700724093214130177">febrero 19, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Impressions from <a href="https://twitter.com/hashtag/AnsibleFest?src=hash">#AnsibleFest</a> London 2016 <a href="https://t.co/Xbr1FkkB0q">https://t.co/Xbr1FkkB0q</a></p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/700724093214130177">febrero 19, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![redhat_admins_wait_ansible_puppet](images/redhat_admins_wait_ansible_puppet.png)](http://searchdatacenter.techtarget.com/tip/Red-Hat-admins-await-an-Ansible-vs-Puppet-showdown)
 
@@ -73,6 +72,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/ansible">@ansible</a> is the gateway drug to <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>. <a href="https://t.co/PlURr51Qio">https://t.co/PlURr51Qio</a> <a href="https://twitter.com/TechBeacon">@techbeacon</a></p>&mdash; Steven A. Lowe (@StevenALowe) <a href="https://twitter.com/StevenALowe/status/709795988198825985">15 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Whether you have 500 nodes, or many thousands, this document will help you best understand how to maximize Ansible. <a href="https://t.co/iBsusAeDH3">https://t.co/iBsusAeDH3</a></p>&mdash; Ansible by Red Hat (@ansible) <a href="https://twitter.com/ansible/status/714516067721285633">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Ansible on Twitter
 - [twitter.com/ansible](https://twitter.com/ansible)

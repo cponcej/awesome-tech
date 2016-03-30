@@ -73,6 +73,7 @@
 - [Red Hat Developers 🌟🌟](http://developers.redhat.com)
 - [Planet JBoss Developer](http://planet.jboss.org/)
 - [opensourcerers.org](http://www.opensourcerers.org/)
+- [servicesblog.redhat.com](http://servicesblog.redhat.com)
 
 ## Red Hat Docs
 - [tecmint: Red Hat Enterprise Linux (RHEL) 7.1 Released – A Quick Review and Installation Instructions](http://www.tecmint.com/redhat-enterprise-linux-7-1-installation/)
@@ -310,6 +311,7 @@
 - [middlewareblog.redhat.com: Containers, cloud, and Java apps: A new video on development stacks 🌟](http://middlewareblog.redhat.com/2016/02/17/containers-cloud-and-java-apps/)
 - [developerblog.redhat.com: Getting started with EAP 7 and JBoss Developer Studio](http://developerblog.redhat.com/2016/02/15/getting-started-with-eap-7-and-jboss-developer-studio/)
 - [developers.redhat.com: What’s new with JPA 2.1 and Hibernate 5 in JBoss EAP 7](http://developers.redhat.com/blog/2016/03/07/whats-new-jpa-2-1-hibernate-5-jboss-eap-7)
+- [servicesblog.redhat.com - Starting with DevOps: Deploying Applications on your Docker JBoss EAP Image](http://servicesblog.redhat.com/2016/03/28/starting-with-devops-deploying-applications-on-your-docker-jboss-eap-image/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
