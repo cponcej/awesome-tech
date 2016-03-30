@@ -65,6 +65,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A Linux Cheat Sheet for Developers <a href="https://t.co/aUpRrwnxRY">https://t.co/aUpRrwnxRY</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/715108433037398016">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">6 essential non-coding careers in open source: <a href="https://t.co/uepH3F9V2d">https://t.co/uepH3F9V2d</a> <a href="https://t.co/yXYgMW6kJu">pic.twitter.com/yXYgMW6kJu</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/715238167218008064">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![commitstrip legacy project](images/commitstrip_legacy_project.jpg)](http://www.commitstrip.com/en/2016/02/15/our-companys-greatest-project/)
 
 # Software Development

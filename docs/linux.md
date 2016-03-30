@@ -62,6 +62,8 @@
 
 [![t-shirt size](images/tshirt_size.jpg)](https://en.wikipedia.org/wiki/Linux_Symposium)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">My boss just wants new web-server while I and friend fight over what Linux distro we need  to use for deployment ;) <a href="https://t.co/4ce85A7lMv">pic.twitter.com/4ce85A7lMv</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715184148269281280">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Sysadmin Blogs
 - [The 79 Best Tech Blogs for sysadmins to follow](http://www.gfi.com/blog/the-79-best-tech-blogs-for-sysadmins-to-follow/)
 - [The Lone SysAdmin](https://lonesysadmin.net)
@@ -339,12 +341,15 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The smallest things like missing ; in Unix/Linux config file can cause greatest pain. But u can chk for syntax error <a href="https://t.co/HgYfKs7VcQ">https://t.co/HgYfKs7VcQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/703553266160766977">27 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Just typed wrong Linux command into the wrong SSH session :( More here <a href="https://t.co/TRPJfC3zp5">https://t.co/TRPJfC3zp5</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://t.co/12u5Bll16b">pic.twitter.com/12u5Bll16b</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715263341279584256">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Command line text manipulation tools 
 - [AWK](https://en.wikipedia.org/wiki/AWK)
 - [Sed](https://en.wikipedia.org/wiki/Sed)
 - [pyp: Python Power at the Prompt](https://code.google.com/p/pyp/)
 - [Hawk: Haskell text processor for the command-line](https://github.com/gelisam/hawk)
 - [Hwk: A Haskell based awk and sed alternative](https://github.com/lukasmartinelli/hwk)
+- [faqs.org: AWK FAQ](http://www.faqs.org/faqs/computer-lang/awk/faq/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9OjHYI1AZXVGAf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EricWilson4/unix-commandline-tools" title="Unix command-line tools" target="_blank">Unix command-line tools</a> </strong> from <strong><a href="//www.slideshare.net/EricWilson4" target="_blank">Eric Wilson</a></strong> </div>
