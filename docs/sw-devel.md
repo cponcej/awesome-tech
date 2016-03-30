@@ -63,6 +63,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The 13 <a href="https://twitter.com/hashtag/developer?src=hash">#developer</a> skills you need to master now - <a href="https://t.co/NbKKt4nvqo">https://t.co/NbKKt4nvqo</a> via <a href="https://twitter.com/CIOAsia">@CIOAsia</a> <a href="https://twitter.com/hashtag/JavaScript?src=hash">#JavaScript</a> <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/708784367615606784">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A Linux Cheat Sheet for Developers <a href="https://t.co/aUpRrwnxRY">https://t.co/aUpRrwnxRY</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/715108433037398016">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![commitstrip legacy project](images/commitstrip_legacy_project.jpg)](http://www.commitstrip.com/en/2016/02/15/our-companys-greatest-project/)
 
 # Software Development
