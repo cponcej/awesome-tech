@@ -71,6 +71,7 @@
 - [youtube channel: Andrew Crouthamel Dell SonicWALL Training](https://www.youtube.com/playlist?list=PLC909885E4476986B)
 	- [youtube.com: Andrew Crouthamel Dell SonicWALL Failover and Load Balancing](https://www.youtube.com/watch?v=3wn9Q_v6MVU)
 - [Dell Security Announces SonicOS 6.2.5 for Dell SonicWALL Next-Generation Firewalls 🌟](http://en.community.dell.com/dell-blogs/direct2dell/b/direct2dell/archive/2016/03/29/dell-security-announces-sonicos-6-2-5-for-dell-sonicwall-next-generation-firewalls) 
+- [storagereview.com: Dell Releases SonicOS 6.2.5 🌟](http://www.storagereview.com/dell_releases_sonicos_625)
 
 ## Dell SonicWALL WAN Acceleration Appliance (WAN optimization)
 - [community.dell.com: Accelerate Application Performance for a Better User Experience](http://en.community.dell.com/techcenter/security/network-mobile-email/b/weblog/archive/2016/01/11/accelerate-application-performance-for-a-better-user-experience)
