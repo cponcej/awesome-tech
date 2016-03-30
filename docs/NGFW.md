@@ -106,6 +106,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Sathya T. discusses <a href="https://twitter.com/hashtag/network?src=hash">#network</a> security designs for your retail business: <a href="https://t.co/UuhjqWnaGm">https://t.co/UuhjqWnaGm</a> <a href="https://twitter.com/Dell">@Dell</a> <a href="https://twitter.com/hashtag/SonicWALL?src=hash">#SonicWALL</a> <a href="https://t.co/Npcawjy8Ap">pic.twitter.com/Npcawjy8Ap</a></p>&mdash; Dell Security (@DellSecurity) <a href="https://twitter.com/DellSecurity/status/674688974200422401">diciembre 9, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/Dell">@Dell</a> SonicWALL SonicOS 6.2.5 offers X-Series integration &amp; DPI SSL enhancements for <a href="https://twitter.com/hashtag/NGFWs?src=hash">#NGFWs</a> <a href="https://t.co/kxGGsjoSq0">https://t.co/kxGGsjoSq0</a> <a href="https://t.co/PByESTJlFF">pic.twitter.com/PByESTJlFF</a></p>&mdash; Dell Security (@DellSecurity) <a href="https://twitter.com/DellSecurity/status/714855506779709440">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Fortinet
 - [Fortiguard](http://www.fortiguard.com/)
 - [twitter.com/Fortinet](https://twitter.com/Fortinet)
