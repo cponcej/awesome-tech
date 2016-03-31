@@ -48,6 +48,8 @@
 - [How Stockholm is becoming Europe's premier tech hub](http://mashable.com/2016/01/22/stockholm-europe-tech-hub/#C7NvqtmU38qY)
 - [European Commission - Mapping the European ICT Poles of Excellence: The Atlas of ICT Activity in Europe](http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=7140)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Failure is simply the opportunity to begin again, this time more intelligently.&quot; --Henry Ford <a href="https://twitter.com/hashtag/quoteoftheday?src=hash">#quoteoftheday</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715644488597643264">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Startup related links
 - [ZDnet: Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital 🌟🌟🌟](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [webcapitalriesgo.com: Startup Financing in Spain. 2015](https://www.webcapitalriesgo.com/descargas/4714_07_15_353136675.pdf)
