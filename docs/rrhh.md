@@ -165,6 +165,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">He añadido un vídeo a una lista de reproducción de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="http://t.co/d8RpLl0eyj">http://t.co/d8RpLl0eyj</a> - Entrevista laboral-Real como la vida misma).</p>&mdash; orientalan (@orientalan) <a href="https://twitter.com/orientalan/status/572374674656477185">2 de marzo de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-CWgI5y9cYA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los 6 errores más comunes de los managers de equipo según <a href="https://twitter.com/InfoJobs">@InfoJobs</a>. Algo me dice q sucede lo mismo con entrenadores <a href="https://t.co/UuiwAwwcCt">pic.twitter.com/UuiwAwwcCt</a></p>&mdash; TalentSport Coaching (@TalentSCoaching) <a href="https://twitter.com/TalentSCoaching/status/710126467519291392">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![dragui_nadie_es_joven_para_siempre](images/dragui_nadie_es_joven_para_siempre.png)](http://www.eleconomista.es/economia/noticias/7414223/03/16/El-mensaje-de-Draghi-para-Espana-el-mercado-laboral-protege-a-los-veteranos-y-perjudica-a-los-jovenes.html)
