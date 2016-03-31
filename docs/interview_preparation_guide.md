@@ -115,6 +115,7 @@
 - [How to Negotiate Salary: 37 Tips You Need to Know](https://www.themuse.com/advice/how-to-negotiate-salary-37-tips-you-need-to-know)
 - [Forbes: How To Negotiate Your Salary Once You Have The Job Offer 🌟](www.forbes.com/sites/susanadams/2014/06/26/how-to-negotiate-your-salary-once-you-have-the-job-offer/)
 - [Why, and how, to negotiate a fair salary](https://www.linkedin.com/pulse/why-how-negotiate-fair-salary-hansi-mehrotra-cfa)
+- [computerworld.com: Salary negotiations: 6 tips from the experts](http://www.computerworld.com/video/63226/salary-negotiations-6-tips-from-the-experts)
 
 <a href="https://openclipart.org/detail/155107/job-interview"><img src="https://openclipart.org/download/155107/job-interview.svg" /></a>
 
@@ -135,6 +136,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Smart Tips <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> Expectativas salariales, la pregunta del millón <a href="https://t.co/ES2CrNBZlC">https://t.co/ES2CrNBZlC</a></p>&mdash; MªJosé Vizcaíno (@VentProfesional) <a href="https://twitter.com/VentProfesional/status/706615881611112448">6 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Salary negotiations: 6 tips from the experts <a href="https://t.co/uV1TKXYHgC">https://t.co/uV1TKXYHgC</a></p>&mdash; Computerworld (@Computerworld) <a href="https://twitter.com/Computerworld/status/715503846810914816">31 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![interquest_group_temp_workers](images/interquest_group_temp_workers.png)](http://www.interquestgroup.com/)
 
