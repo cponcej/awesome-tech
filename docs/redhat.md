@@ -46,6 +46,9 @@
 
 [![redhat_2billion_dollar_baby](images/redhat_2billion_dollar_baby.png)](http://fortune.com/2016/03/22/red-hat-revenue-2-billion-open-source/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Quite excited about this | Red Hat will give away its Linux distro for free to developers <a href="https://twitter.com/hashtag/oss?src=hash">#oss</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://t.co/AKgCIx7CJ1">https://t.co/AKgCIx7CJ1</a></p>&mdash; Scott McCarty (@fatherlinux) <a href="https://twitter.com/fatherlinux/status/715850749318733826">1 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
