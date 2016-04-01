@@ -48,6 +48,9 @@
 
 ![actitud_cliente](images/actitud_cliente.jpeg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Monólogos de <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> sobre emprendedores ➡ <a href="https://t.co/FlAK7SyWUT">https://t.co/FlAK7SyWUT</a> por <a href="https://twitter.com/MonicaSofiaGS">@MonicaSofiaGS</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/715851302673190912">1 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XXWZ3uAEKsw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
