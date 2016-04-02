@@ -209,6 +209,8 @@
 - [Why Your Resume Is Making Recruiters Cringe](https://www.linkedin.com/pulse/why-your-resume-making-recruiters-cringe-j-t-o-donnell)
 - [careerealism.com: What To Do If You’ve Lied On Your Resume](http://www.careerealism.com/lied-resume-what-to-do/)
 
+[![BI_30things_remove_from_resume](images/BI_30things_remove_from_resume.png)](http://www.businessinsider.com/dont-put-these-things-on-your-resume-2015-3-31)
+
 [![phrases_sabotaging_resume](images/phrases_sabotaging_resume.png)](http://www.businessinsider.com/phrases-that-are-sabotaging-your-rsum-2016-3)
 
 [![knowledge and experience](images/knowledge_and_experience.png)](https://plus.google.com/+GeeksfunBlogspot/posts/8bJoSVTQ7q8)
