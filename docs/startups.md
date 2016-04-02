@@ -34,7 +34,10 @@
 
 [![purpose](images/purpose.jpg)](http://multivariablesolutions.com/strategy/purpose-why-it-matters-and-who-it-matters-to/)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Wolf of Wall Street - Sell me this pen <a href="https://t.co/AIlb3rb71L">https://t.co/AIlb3rb71L</a></p>&mdash; はらぺこあおむし (@kusaman555) <a href="https://twitter.com/kusaman555/status/703273468016484352">26 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nCfntaYBeqs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Working in IT <a href="https://t.co/si5gm0FunB">https://t.co/si5gm0FunB</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714901664390455296">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
