@@ -163,6 +163,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="pt" dir="ltr">Recursos humanos - Corto sobre mobbing. <a href="https://twitter.com/hashtag/RRHH?src=hash">#RRHH</a> <a href="https://twitter.com/hashtag/EMPLEO?src=hash">#EMPLEO</a> <a href="https://twitter.com/hashtag/TRABAJO?src=hash">#TRABAJO</a> <a href="https://twitter.com/hashtag/CV?src=hash">#CV</a> <a href="https://twitter.com/hashtag/LEGALES?src=hash">#LEGALES</a> <a href="https://t.co/wowq6AULrE">https://t.co/wowq6AULrE</a></p>&mdash; MOTTECLA (@ClaudiaMottet) <a href="https://twitter.com/ClaudiaMottet/status/693207648846663681">29 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![hilda_arbones_mobbing_legislacion_laboral](images/hilda_arbones_mobbing_legislacion_laboral.png)](http://confilegal.com/20160331-hilda-i-arbones-no-existe-una-definicion-clara-concisa-lo-mobbing-la-legislacion-laboral/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">He añadido un vídeo a una lista de reproducción de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="http://t.co/d8RpLl0eyj">http://t.co/d8RpLl0eyj</a> - Entrevista laboral-Real como la vida misma).</p>&mdash; orientalan (@orientalan) <a href="https://twitter.com/orientalan/status/572374674656477185">2 de marzo de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
