@@ -49,6 +49,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Quite excited about this | Red Hat will give away its Linux distro for free to developers <a href="https://twitter.com/hashtag/oss?src=hash">#oss</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://t.co/AKgCIx7CJ1">https://t.co/AKgCIx7CJ1</a></p>&mdash; Scott McCarty (@fatherlinux) <a href="https://twitter.com/fatherlinux/status/715850749318733826">1 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![no-cost_rhel_developer](images/no-cost_rhel_developer.png)](http://developers.redhat.com/blog/2016/03/31/no-cost-rhel-developer-subscription-now-available/)
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
@@ -367,6 +369,8 @@
 	- [Reddit: Red Hat Software Collections (SCL) is not provided with RHEL Server/Workstation, Self Support](https://www.reddit.com/r/redhat/comments/39kk0s/red_hat_software_collections_scl_is_not_provided/)
 - [pyvideo.org - Red Hat Loves Python (EuroPython 2014)](http://pyvideo.org/video/2962/red-hat-loves-python)
 - [dzone.com: Red Hat Explores Node.js and Java Integration Options and Partners With Azure](https://dzone.com/articles/red-hat-explores-nodejs-and-java-integration-optio)
+- [developers.redhat.com: No-Cost RHEL Developer Subscription now available 🌟](http://developers.redhat.com/blog/2016/03/31/no-cost-rhel-developer-subscription-now-available/)
+- [siliconangle.com: Red Hat will give away its Linux distro for free to developers](http://siliconangle.com/blog/2016/03/31/red-hat-will-give-away-its-linux-distro-for-free-to-developers/)
 
 ### Red Hat Container Development Kit
 - [developerblog.redhat.com: Red Hat Container Development Kit 2](http://developerblog.redhat.com/2016/02/08/update-red-hat-container-development-kit-2-beta/)
