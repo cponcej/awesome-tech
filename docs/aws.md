@@ -181,6 +181,12 @@
 
 [![learning AWS](images/Learning-AWS.png)](http://www.wowebook.org/learning-aws.html)
 
+[![aws_in_action.jpg](images/aws_in_action.jpg)](http://it-ebooks.info/book/6959/)
+
+<p align="center">
+<a href="https://www.manning.com/books/amazon-web-services-in-action">amazon web services in action</a>
+</p>
+
 [![devops skills](images/devops_skills.png)](https://medium.com/@drew.firment/devops-shift-left-or-be-left-out-6b2755bd7ee9)
 
 <div class="container">

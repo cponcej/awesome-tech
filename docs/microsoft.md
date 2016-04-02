@@ -64,6 +64,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Demo: Bash comes to Windows - <a href="https://twitter.com/Microsoft">@Microsoft</a> BUILD 2016. Thanks to <a href="https://twitter.com/ubuntu">@Ubuntu</a> Linux. Good demo though. <a href="https://t.co/HuN4zTFsAG">https://t.co/HuN4zTFsAG</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715239184034758658">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Retweeted Red Hat Developers (<a href="https://twitter.com/rhdevelopers">@rhdevelopers</a>):<br><br>You heard Microsoft hearts Linux.  Soon you will see .NET in... <a href="https://t.co/oe5AsSgPDm">https://t.co/oe5AsSgPDm</a></p>&mdash; CN kashyap  ツ (@CNkashyap) <a href="https://twitter.com/CNkashyap/status/715532199500447745">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1IJ7nmqOKS7cZn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nishadsukumaran/active-directory-training" title="Active Directory Training" target="_blank">Active Directory Training</a> </strong> from <strong><a href="//www.slideshare.net/nishadsukumaran" target="_blank">Nishad Sukumaran</a></strong> </div>
 </div>

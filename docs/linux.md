@@ -33,6 +33,7 @@
 		- [htop](#htop)
 		- [Glances](#glances)
 		- [Netdata](#netdata)
+		- [bcc Dynamic Tracing Tools](#bcc-dynamic-tracing-tools)
 	- [Linux Networking](#linux-networking)
 		- [Networking FOSS Tools](#networking-foss-tools)
 		- [Networking CLI and settings](#networking-cli-and-settings)
@@ -468,6 +469,12 @@
 - [netdata 🌟](https://github.com/firehol/netdata/blob/master/README.md)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Netdata - Linux real time performance monitoring, done right. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/xxFbw2jE3s">pic.twitter.com/xxFbw2jE3s</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715283444830314496">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### bcc Dynamic Tracing Tools
+- [bcc Dynamic Tracing Tools](https://iovisor.github.io/bcc/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">bcc - Dynamic Tracing Tools for Linux <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/qwf1C7XaWi">https://t.co/qwf1C7XaWi</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/716380701512245249">2 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux Networking
 ### Networking FOSS Tools
