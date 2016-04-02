@@ -330,6 +330,11 @@
 
 ![fight club](images/fight_club.gif)
 
+<div class="container">
+<iframe src="http://www.flooxer.com/embed/56ffa4700cf24f7b02362318" width="560" height="315" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Leadership Styles Around the World
 - [Leadership Styles Around the World](leadership_styles_around_world.md)
 
