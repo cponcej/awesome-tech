@@ -107,6 +107,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New blog: New CentOS Atomic Host Images Available for Download <a href="https://t.co/4MZS7sc2sj">https://t.co/4MZS7sc2sj</a></p>&mdash; Project Atomic (@ProjectAtomic) <a href="https://twitter.com/ProjectAtomic/status/704678766023479296">1 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jBbKIG9I5c8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## Cockpit web based server manager
 - Cockpit was created by Red Hat to make server administration easier. With this web-based GUI you can tackle tasks like storage administration, journal inspection, starting/stopping services, and multiple server monitoring. Cockpit will run on Fedora Server, Arch Linux, CentOS Atomic, Fedora Atomic, and Red Hat Enterprise Linux.
 - [cockpit-project.org](http://cockpit-project.org/)
