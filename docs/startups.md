@@ -316,6 +316,8 @@
 
 [![bloomberg_1million_new_jobs_spain](images/bloomberg_1million_new_jobs_spain.png)](http://www.bloomberg.com/news/articles/2015-07-01/why-1-million-new-jobs-in-spain-may-be-bad-news)
 
+[![bloomberg_productiviy_in_spain_quote](images/bloomberg_productiviy_in_spain_quote.png)](http://www.bloomberg.com/news/articles/2015-07-01/why-1-million-new-jobs-in-spain-may-be-bad-news)
+
 [![pernicioso_circulo_carnicas](images/pernicioso_circulo_carnicas.png)](http://www.genbetadev.com/modelos-de-negocio/el-pernicioso-circulo-vicioso-de-las-carnicas-los-que-pagan-los-clientes)
 
 [![pernicioso_circulo_carnicas_no_empresas_sw](images/pernicioso_circulo_carnicas_no_empresas_sw.png)](http://www.genbetadev.com/trabajar-como-desarrollador/el-pernicioso-circulo-vicioso-de-las-carnicas-las-consultoras-no-son-empresas-de-software)
