@@ -48,6 +48,8 @@
 
 [![ackstorm logo](images/ack_storm_logo.png)](http://www.ackstorm.com/)
 
+[![acens logo](images/acens.jpg)](http://www.acens.com/)
+
 [![gigas company](images/gigas_company.png)](https://gigas.com/)
 
 # Cloud
