@@ -29,6 +29,8 @@
 
 [![not my job](images/not_my_job.jpg)](https://www.linkedin.com/pulse/silo-mentality-ruining-your-business-neal-woodson)
 
+[![devops_wikipedia](images/devops_wikipedia.png)](https://en.wikipedia.org/wiki/DevOps)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What is <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>, anyway? <a href="https://t.co/0tvL5uQjvx">https://t.co/0tvL5uQjvx</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/714001576554323968">27 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
