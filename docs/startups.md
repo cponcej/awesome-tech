@@ -314,6 +314,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">&quot;&#39;Generación Ninini&#39;. <a href="https://t.co/OSMHniuD8R">https://t.co/OSMHniuD8R</a>&quot; Vía:cuadernalia</p>&mdash; Planeta Educativo (@PlanetEducativo) <a href="https://twitter.com/PlanetEducativo/status/695429889621512196">5 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![bloomberg_1million_new_jobs_spain](images/bloomberg_1million_new_jobs_spain.png)](http://www.bloomberg.com/news/articles/2015-07-01/why-1-million-new-jobs-in-spain-may-be-bad-news)
+
 [![pernicioso_circulo_carnicas](images/pernicioso_circulo_carnicas.png)](http://www.genbetadev.com/modelos-de-negocio/el-pernicioso-circulo-vicioso-de-las-carnicas-los-que-pagan-los-clientes)
 
 [![pernicioso_circulo_carnicas_no_empresas_sw](images/pernicioso_circulo_carnicas_no_empresas_sw.png)](http://www.genbetadev.com/trabajar-como-desarrollador/el-pernicioso-circulo-vicioso-de-las-carnicas-las-consultoras-no-son-empresas-de-software)
