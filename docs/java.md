@@ -58,6 +58,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Found something in my cellar that seems to be aging well ;-) <a href="https://t.co/FSoZCBUntW">pic.twitter.com/FSoZCBUntW</a></p>&mdash; Mårten Mickos (@martenmickos) <a href="https://twitter.com/martenmickos/status/709086979959304192">13 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/KnowledgeResource?src=hash">#KnowledgeResource</a>: <a href="https://twitter.com/hashtag/Java?src=hash">#Java</a> Dev <a href="https://t.co/8zO3rrS3Kl">https://t.co/8zO3rrS3Kl</a> <a href="https://twitter.com/CloudBees">@CloudBees</a> <a href="https://twitter.com/newrelic">@newrelic</a> <a href="https://twitter.com/jnbridge">@jnbridge</a> <a href="https://twitter.com/pivotal">@pivotal</a> <a href="https://twitter.com/riverbed">@riverbed</a> <a href="https://twitter.com/jetbrains">@jetbrains</a> <a href="https://t.co/SJP05Jr0AB">pic.twitter.com/SJP05Jr0AB</a></p>&mdash; DZone Software (@DZoneSoftware) <a href="https://twitter.com/DZoneSoftware/status/717013243257032704">4 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WAy9mgEYb6o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
