@@ -45,6 +45,11 @@
 
 [![spanish_fintech](images/spanish_fintech.jpg)](http://spanishfintech.net/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UYtbFu8q-ts?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # Startups and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)
