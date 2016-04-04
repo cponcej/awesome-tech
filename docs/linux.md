@@ -296,6 +296,7 @@
 - [Github: Bioinformatics one-liners. Useful bash one-liners useful for bioinformatics (and some, more generally useful)](https://github.com/stephenturner/oneliners)
 - [cyberciti.biz: List All Environment Variables Command](http://www.cyberciti.biz/faq/linux-list-all-environment-variables-env-command/)
 - [cyberciti.biz: Search Multiple Words/String Pattern Using grep Command](http://www.cyberciti.biz/faq/searching-multiple-words-string-using-grep/)
+- [Grep Include Only *.txt File Pattern When Running Recursive Mode 🌟](http://www.cyberciti.biz/faq/unix-linux-grep-include-file-pattern-recursive-example/)
 - [ack-grep, un grep mejorado para programadores](https://ubuntulife.wordpress.com/2009/03/20/ack-grep-un-grep-mejorado-para-programadores/)
 	- [ack-grep](http://beyondgrep.com/)
 - [ibm.com: Learn Linux, 101: Customize and use the shell environment](http://www.ibm.com/developerworks/linux/library/l-lpic1-105-1/index.html)
