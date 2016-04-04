@@ -43,6 +43,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/HarvardBiz">@HarvardBiz</a> article explores which industries are being the most disrupted by <a href="https://twitter.com/hashtag/digital?src=hash">#digital</a> <a href="https://t.co/nOIzk0IRZC">https://t.co/nOIzk0IRZC</a> <a href="https://twitter.com/hashtag/DigitalDisruption?src=hash">#DigitalDisruption</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/715148572556038144">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![spanish_fintech](images/spanish_fintech.jpg)](http://spanishfintech.net/)
+
 # Startups and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)
