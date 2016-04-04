@@ -51,6 +51,11 @@
 
 [![no-cost_rhel_developer](images/no-cost_rhel_developer.png)](http://developers.redhat.com/blog/2016/03/31/no-cost-rhel-developer-subscription-now-available/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3qiWqagaHE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
@@ -92,6 +97,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How To Install EPEL Repo on a CentOS and RHEL 7.x: <a href="https://t.co/FOuvWafDjj">https://t.co/FOuvWafDjj</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a></p>&mdash; Brian Reynolds (@breynoldz) <a href="https://twitter.com/breynoldz/status/709488307823058945">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![rhel 5,6,7 cheatsheet](images/rhel567_cheatsheet.png)](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VdeJ_TNCWs0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ### Fedora
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
