@@ -248,6 +248,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">For <a href="https://twitter.com/hashtag/worldhappinessday?src=hash">#worldhappinessday</a> tomorrow, tell us which you think is most important for <a href="https://twitter.com/hashtag/wellbeing?src=hash">#wellbeing</a> <a href="https://t.co/Hz9Jtlr6Zi">https://t.co/Hz9Jtlr6Zi</a></p>&mdash; OECD (@OECD) <a href="https://twitter.com/OECD/status/711209050940293120">19 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">4 tips for making your flight a lot less stressful <a href="https://t.co/HALXCUWnlA">https://t.co/HALXCUWnlA</a> <a href="https://t.co/GmjrEr8GMH">pic.twitter.com/GmjrEr8GMH</a></p>&mdash; The Independent (@Independent) <a href="https://twitter.com/Independent/status/717020078773026816">4 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![most expensive cities in the world](images/most_expensive_cities.png)](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)
 
 [![singapore_most_espensive_city](images/singapore_most_espensive_city.png)](http://www.bbc.com/news/business-35765378)
