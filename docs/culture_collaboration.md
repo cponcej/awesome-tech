@@ -68,6 +68,8 @@
 
 [![Forbes: seven ways to inspire your team to collaborate](images/forbes_inspire_people_to_collaborate.png)](http://www.forbes.com/sites/carolkinseygoman/2016/02/21/seven-ways-to-inspire-your-team-to-collaborate)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Help! My boss doesn&#39;t do any work and takes credit for everything I do <a href="https://t.co/O83AHc1wpP">https://t.co/O83AHc1wpP</a> <a href="https://t.co/RFWT4fhFlc">pic.twitter.com/RFWT4fhFlc</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/717387777718009858">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The hidden costs of burnout <a href="https://t.co/kEuVbJi73L">https://t.co/kEuVbJi73L</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/708754688431280128">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
