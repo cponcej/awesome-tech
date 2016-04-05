@@ -132,6 +132,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">WHOA: <a href="https://twitter.com/awscloud">@awscloud</a> RDS <a href="https://twitter.com/hashtag/SQLServer?src=hash">#SQLServer</a> now supports AD accounts (Microsoft&#39;s Azure doesn&#39;t even have this yet :D) <a href="https://t.co/HMr2LdtQqZ">https://t.co/HMr2LdtQqZ</a> <a href="https://twitter.com/hashtag/ITNerdery?src=hash">#ITNerdery</a></p>&mdash; Ray Terrill (@Rayterrill) <a href="https://twitter.com/Rayterrill/status/713487240228442113">25 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5qfS_Fli2Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## AWS Database Migration Service
 - [AWS Database Migration Service 🌟](https://aws.amazon.com/es/blogs/aws/aws-database-migration-service/)
 
