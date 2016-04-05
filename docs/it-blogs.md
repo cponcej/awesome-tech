@@ -147,6 +147,8 @@ ___________________________________________________________
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The evolution of virtual tourism: <a href="https://t.co/MqTeIxXKop">https://t.co/MqTeIxXKop</a> <a href="https://t.co/Pn3WLI4IVQ">pic.twitter.com/Pn3WLI4IVQ</a></p>&mdash; Mashable Tech (@mashabletech) <a href="https://twitter.com/mashabletech/status/717458220705587200">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nh1itve0AQ" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
