@@ -37,6 +37,8 @@
 
 [![cloud job market](images/cloud_job_market.png)](http://cloudacademy.com/blog/cloud-computing-salary/)
 
+[![aws_webinar_channel](images/aws_webinar_channel.png)](https://www.youtube.com/user/AWSwebinars)
+
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
 - [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
@@ -297,6 +299,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjleVmtkfWE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jL-WJlBtpIw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
