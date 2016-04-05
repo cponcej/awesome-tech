@@ -144,6 +144,9 @@
 
 [![bi_7situations_acceptable_lie](images/bi_7situations_acceptable_lie.png)](http://www.businessinsider.com/when-its-okay-to-lie-to-your-boss-and-coworkers-2016-3)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Open-Plan Office Paradox<br> <a href="https://t.co/v2M4BY7kda">https://t.co/v2M4BY7kda</a> <a href="https://t.co/p9mAF1o1JT">pic.twitter.com/p9mAF1o1JT</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/717403109769756677">5 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.

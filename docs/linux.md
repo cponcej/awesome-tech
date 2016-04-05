@@ -444,6 +444,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">also dstat is the other best program. convinced that staring at dstat output is the path to solving many bugs.</p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/709931262987866112">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">another interesting tcp debugging story from <a href="https://twitter.com/majek04">@majek04</a>!! &quot;The revenge of the listening sockets&quot; <a href="https://t.co/dkANiC2Q27">https://t.co/dkANiC2Q27</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/717347304320188417">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I like this article: admitting what I don&#39;t know to other people has helped me learn SO MUCH. <a href="https://t.co/2eNAVjxsrT">https://t.co/2eNAVjxsrT</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/717376465768157184">5 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux performance monitoring tools. Also check out book from same author  <a href="https://t.co/kGkxQTjCxk">https://t.co/kGkxQTjCxk</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/ASNc1dpUGz">pic.twitter.com/ASNc1dpUGz</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/710235993786310656">16 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
