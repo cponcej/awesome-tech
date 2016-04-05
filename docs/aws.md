@@ -296,6 +296,11 @@
 - [Quantum Taps AWS for Cloud-Powered Disaster Recovery](http://www.infostor.com/backup-and_recovery/quantum-taps-aws-for-cloud-powered-disaster-recovery.html)
 - [Linkedin discussion: Need help on Backup and restore methods of EC2 using s3 services](https://www.linkedin.com/groups/49531/49531-6093375473969090562)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2G5HoFdd_D0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## AWS BigData 
 - [blogs.aws.amazon.com/bigdata](http://blogs.aws.amazon.com/bigdata/)
 - [Querying Amazon Kinesis Streams Directly with SQL and Spark Streaming](http://blogs.aws.amazon.com/bigdata/post/Tx3916WCIUPVA3T/Querying-Amazon-Kinesis-Streams-Directly-with-SQL-and-Spark-Streaming)
