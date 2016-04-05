@@ -191,6 +191,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Where are the world’s highest minimum wages? <a href="https://t.co/samaDvy5dj">https://t.co/samaDvy5dj</a> <a href="https://t.co/OZBuLMiwC5">pic.twitter.com/OZBuLMiwC5</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/717210424492605440">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Moneyball Job Offer <a href="https://t.co/oR0SUF6mnC">https://t.co/oR0SUF6mnC</a></p>&mdash; Scott (@kawebbScott) <a href="https://twitter.com/kawebbScott/status/708726103872032768">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
