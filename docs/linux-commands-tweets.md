@@ -143,3 +143,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you don&#39;t know interface name but want IP address:<br><br>netstat -i|awk &#39;!/Iface|Kernel/{print $1&quot;:&quot;;system(&quot;ip a show &quot;$1&quot;|grep inet&quot;)}&#39;</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/716346517309693952">2 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">geoiplookup 111.75.195.232 # Find out what country that IP that just pinged your host is from.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/717398000419676160">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">timeout 1h tcpdump -n -i eth0 -w network.pcap not host 192.168.1.5 # Use timeout to only run a command for a set amount of time (1hour)</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/717423366051762176">5 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Inside a character class, ^ means &#39;not&#39;. For example, [^abc] matches any character except a, b, or c.</p>&mdash; Regular Expression (@RegexTip) <a href="https://twitter.com/RegexTip/status/717366961404035072">5 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
