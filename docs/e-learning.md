@@ -159,6 +159,11 @@
 
 [![a cloud  guru](images/acloudguru_black.png)](https://acloud.guru)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Djt2Br1SYP0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![dilbert sales](images/dilbert_sales.jpg)](http://dilbert.com/)
 
 [![Ralph Emerson to work productively](images/ralph_emerson_work_productively.jpg)](http://statusmind.com/)
