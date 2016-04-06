@@ -37,6 +37,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LOL. Via <a href="https://t.co/HWulUfrhmk">https://t.co/HWulUfrhmk</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://twitter.com/hashtag/parkinsonslaw?src=hash">#parkinsonslaw</a> <a href="https://t.co/cNcwbP3UyQ">pic.twitter.com/cNcwbP3UyQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714018152120606721">27 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![dilbert_devops_monkey](images/dilbert_devops_monkey.jpg)](http://dilbert.com/strip/2010-01-18)
+
 # DevOps
 ## DevOps Blogs
 - [devops.com](http://devops.com/)

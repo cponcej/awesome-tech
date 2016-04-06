@@ -17,6 +17,7 @@
 	- [Linux storage](#linux-storage)
 		- [Linux LVM Logical Volume Management and FileSystems](#linux-lvm-logical-volume-management-and-filesystems)
 	- [Linux processes](#linux-processes)
+	- [Linux System Calls](#linux-system-calls)
 	- [Linux user accounts](#linux-user-accounts)
 	- [Linux backups](#linux-backups)
 	- [Package Management](#package-management)
@@ -260,6 +261,10 @@
 - [unixetc.co.uk: Profiling and Tracing Processes in Linux](http://unixetc.co.uk/2012/10/28/profiling-and-tracing-processes-in-linux/)
 - [ibm.com: Use the /proc filesystem to get a handle on your system](http://www.ibm.com/developerworks/linux/library/l-adfly/index.html)
 - [Linux Server See the Historical and Statistical Uptime of System With tuptime Utility](http://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/)
+
+## Linux System Calls
+- [Using strace to track system calls in Linux](https://opensource.com/business/16/1/scale-14x-interview-alex-juarez-rackspace)
+- [The Definitive Guide to Linux System Calls](http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 
 ## Linux user accounts
 - [cyberciti.biz: Linux Find Out Last System Reboot Time and Date Command](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
@@ -527,7 +532,6 @@
 	- [reptyr: Reparent a running program to a new terminal](https://github.com/nelhage/reptyr)
 	- [deptyr: Run your tty programs pseudo-headlessly under a process supervisor](https://github.com/antifuchs/deptyr)
 - [HowTo: Compile And Run a C/C++ Code In Linux](http://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/)
-- [Using strace to track system calls in Linux](https://opensource.com/business/16/1/scale-14x-interview-alex-juarez-rackspace)
 - [How to: Detect Duplicate IP Address With arping command under Linux](http://www.cyberciti.biz/faq/linux-duplicate-address-detection-with-arping/)
 - [How to Setup and Configure Network Bonding or Teaming in RHEL/CentOS 7](http://www.tecmint.com/configure-network-bonding-or-teaming-in-rhel-centos-7/)
 - [Configure Static Routes In Debian or Red Hat Enterprise Linux](http://www.cyberciti.biz/tips/configuring-static-routes-in-debian-or-red-hat-linux-systems.html)
@@ -570,6 +574,7 @@
 - [When privileged access means controlling the lock: Best practices to protect what's yours](http://gsnmagazine.com/article/46166/when_privileged_access_means_controlling_lock_best)
 - [nixCraft: create-ssh-config-file-on-linux-unix 🌟](http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/)
 - [How to Ensure Proper SSH User Key Management](http://aberdeenessentials.com/how-to-ensure-proper-ssh-user-key-management/)
+- [nixCraft: Ubuntu/Debian Linux Server Install Keychain SSH Key Manager For OpenSSH 🌟🌟](http://www.cyberciti.biz/faq/ubuntu-debian-linux-server-install-keychain-apt-get-command/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>

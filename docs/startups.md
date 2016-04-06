@@ -447,6 +447,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This sounds pretty significant<br><br>Open Source Giant Red Hat Launches First <a href="https://twitter.com/hashtag/Blockchain?src=hash">#Blockchain</a> Initiative <a href="https://t.co/rxuy906Eum">https://t.co/rxuy906Eum</a> via <a href="https://twitter.com/coindesk">@CoinDesk</a></p>&mdash; On The Blockchain (@OnTheBlockChain) <a href="https://twitter.com/OnTheBlockChain/status/717447156085317632">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This 85-year-old woman destroyed a priceless century-old artwork — and now she’s a massive celebrity in Spain.<a href="https://t.co/vwUONhBZVx">https://t.co/vwUONhBZVx</a></p>&mdash; INSIDER (@thisisinsider) <a href="https://twitter.com/thisisinsider/status/711942330278760448">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
