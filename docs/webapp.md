@@ -79,6 +79,8 @@
 - [Google to Roll Out Accelerated Mobile Pages to Everyone, Get Your Content Ready Now](https://www.searchenginejournal.com/google-to-roll-out-accelerated-mobile-pages-to-everyone-get-your-content-ready-now/)
 - [Google Rolls Out The Accelerated Mobile Pages Project To Help Webpages Load Instantaneously On Your Phone Or Tablet](http://www.androidpolice.com/2015/10/07/google-rolls-out-the-accelerated-mobile-pages-project-to-help-webpages-load-instantaneously-on-your-phone-or-tablet/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Accelerated Mobile Pages (AMP): Open or closed? <a href="https://t.co/ekMXovhcjC">https://t.co/ekMXovhcjC</a> <a href="https://twitter.com/matthewtift">@matthewtift</a> <a href="https://t.co/tGHdZxWdSi">pic.twitter.com/tGHdZxWdSi</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/717715489250607104">6 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## HTTP Status Codes
 - [wikipedia: List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 - [slideshare: Http Status Code Errors in SEO](http://www.slideshare.net/AdelaRoger/http-status-code-errors-in-seo)
