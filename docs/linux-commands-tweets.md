@@ -144,5 +144,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">timeout 1h tcpdump -n -i eth0 -w network.pcap not host 192.168.1.5 # Use timeout to only run a command for a set amount of time (1hour)</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/717423366051762176">5 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Inside a character class, ^ means &#39;not&#39;. For example, [^abc] matches any character except a, b, or c.</p>&mdash; Regular Expression (@RegexTip) <a href="https://twitter.com/RegexTip/status/717366961404035072">5 de abril de 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Inside a character class, ^ means &#39;not&#39;. For example, [^abc] matches any character except a, b, or c.</p>&mdash; Regular Expression (@RegexTip) <a href="https://twitter.com/RegexTip/status/717366961404035072">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">watch -n 0.5 &quot;ps uf -C process1,process2&quot; # Continually watch processes with names Thx <a href="https://twitter.com/_radome_">@_radome_</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/717762937876832256">6 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
