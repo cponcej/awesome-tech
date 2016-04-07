@@ -297,6 +297,7 @@
 - [How to Automatically Update Your Security Groups for Amazon CloudFront and AWS WAF by Using AWS Lambda (boto3 python)](http://blogs.aws.amazon.com/security/post/Tx1LPI2H6Q6S5KC/How-to-Automatically-Update-Your-Security-Groups-for-Amazon-CloudFront-and-AWS-W)
 - [How to Use AWS WAF to Block IP Addresses That Generate Bad Requests 🌟](http://blogs.aws.amazon.com/security/post/Tx223ZW25YRPRKV/How-to-Use-AWS-WAF-to-Block-IP-Addresses-That-Generate-Bad-Requests)
 - [How to Reduce Security Threats and Operating Costs Using AWS WAF and Amazon CloudFront](http://blogs.aws.amazon.com/security/post/Tx1G747SE1R2ZWE/How-to-Reduce-Security-Threats-and-Operating-Costs-Using-AWS-WAF-and-Amazon-Clou)
+- [AWS WAF sample rules](https://github.com/awslabs/aws-waf-sample)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What is AWS WAF? <a href="https://t.co/fQnpzdjblE">https://t.co/fQnpzdjblE</a> <a href="https://twitter.com/hashtag/awscloud?src=hash">#awscloud</a> <a href="https://t.co/HrgwCaeTem">pic.twitter.com/HrgwCaeTem</a></p>&mdash; Oz Akan ☁️ (@ozgurakan) <a href="https://twitter.com/ozgurakan/status/713002716872712192">24 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
