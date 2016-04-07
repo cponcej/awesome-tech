@@ -27,6 +27,7 @@
     - [AWS Cloud Formation](#aws-cloud-formation)
     - [AWS Security](#aws-security)
     - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
+    - [AWS S3](#aws-s3)
     - [AWS Backup and Recovery](#aws-backup-and-recovery)
     - [AWS BigData](#aws-bigdata)
     - [AWS IoT](#aws-iot)
@@ -303,6 +304,13 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xskM8XA2bqE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## AWS S3
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/55f-4CMxoro?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
