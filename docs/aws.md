@@ -39,7 +39,7 @@
 
 [![aws_webinar_channel](images/aws_webinar_channel.png)](https://www.youtube.com/user/AWSwebinars)
 
-[![github_awslabs](github_awslabs.png)](https://github.com/awslabs)
+[![github_awslabs](images/github_awslabs.png)](https://github.com/awslabs)
 
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
