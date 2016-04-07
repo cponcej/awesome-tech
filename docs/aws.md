@@ -39,10 +39,13 @@
 
 [![aws_webinar_channel](images/aws_webinar_channel.png)](https://www.youtube.com/user/AWSwebinars)
 
+[![github_awslabs](github_awslabs.png)](https://github.com/awslabs)
+
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
 - [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
 - [AWS Support](https://aws.amazon.com/en/premiumsupport/)
+- [github.com/awslabs 🌟](https://github.com/awslabs)
 
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
