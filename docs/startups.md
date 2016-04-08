@@ -50,6 +50,8 @@
 </div>
 <br/>
 
+[![bi_dont_work_for_startup](images/bi_dont_work_for_startup.png)](http://www.businessinsider.com/dont-work-for-a-startup-2016-3)
+
 # Startups and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)
