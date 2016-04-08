@@ -191,6 +191,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cuánto ganamos los españoles ➡ <a href="https://t.co/auaveUijjo">https://t.co/auaveUijjo</a> por <a href="https://twitter.com/raulalonsoenred">@raulalonsoenred</a> <a href="https://t.co/WhO9WCIpay">pic.twitter.com/WhO9WCIpay</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/718366612714364928">8 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Where are the world’s highest minimum wages? <a href="https://t.co/samaDvy5dj">https://t.co/samaDvy5dj</a> <a href="https://t.co/OZBuLMiwC5">pic.twitter.com/OZBuLMiwC5</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/717210424492605440">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![average_wages_around_world](images/average_wages_around_world.jpg)](https://www.weforum.org/agenda/2015/06/what-is-the-average-wage-around-the-world/)
