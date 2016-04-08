@@ -71,6 +71,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why do so many job interviewers stick to the same, tired job interview script? <a href="https://t.co/SMCo4gqacU">https://t.co/SMCo4gqacU</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/706248424157552640">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ask HN: How do detect a crappy boss / toxic environment when interviewing? | Hacker News <a href="https://twitter.com/hashtag/goodread?src=hash">#goodread</a>  <a href="https://t.co/KjaYBwktW2">https://t.co/KjaYBwktW2</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/718389363386818560">8 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which big tech companies employ the most women? <a href="https://t.co/JWV8NTv1iq">https://t.co/JWV8NTv1iq</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/708749654930952193">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -132,8 +134,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Generation Y, Curling or Maybe: what the world calls millennials <a href="https://t.co/cQWAO8yyxe">https://t.co/cQWAO8yyxe</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/707102616032026629">8 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/SD7G5BwnuV">https://t.co/SD7G5BwnuV</a> - &quot;Everybody Has a Number&quot; Clip - Wall Street: Money Never Sleeps).</p>&mdash; Artur Debat (@Arturdebat) <a href="https://twitter.com/Arturdebat/status/696084018647924736">6 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Me ha gustado un vídeo de <a href="https://twitter.com/YouTube">@YouTube</a> (<a href="https://t.co/SD7G5BwnuV">https://t.co/SD7G5BwnuV</a> - &quot;Everybody Has a Number&quot; Clip - Wall Street: Money Never Sleeps).</p>&mdash; Artur Debat (@Arturdebat) <a href="https://twitter.com/Arturdebat/status/696084018647924736">6 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Smart Tips <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> Expectativas salariales, la pregunta del millón <a href="https://t.co/ES2CrNBZlC">https://t.co/ES2CrNBZlC</a></p>&mdash; MªJosé Vizcaíno (@VentProfesional) <a href="https://twitter.com/VentProfesional/status/706615881611112448">6 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
