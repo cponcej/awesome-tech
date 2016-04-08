@@ -17,6 +17,7 @@
     - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
     - [AWS RDS](#aws-rds)
     - [AWS Database Migration Service](#aws-database-migration-service)
+    - [AWS Redshift](#aws-redshift)
     - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
     - [AWS Latency](#aws-latency)
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
@@ -157,6 +158,18 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KJ5_nnBZtJE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## AWS Redshift
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AUvn49gey8Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UhQjSzdlO_g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
