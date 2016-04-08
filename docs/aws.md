@@ -29,6 +29,7 @@
     - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
     - [AWS S3](#aws-s3)
     - [AWS Backup and Recovery](#aws-backup-and-recovery)
+    - [AWS Config Rules](#aws-config-rules)
     - [AWS BigData](#aws-bigdata)
     - [AWS IoT](#aws-iot)
     - [AWS Partner Network \(APN\)](#aws-partner-network-apn)
@@ -322,6 +323,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2G5HoFdd_D0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## AWS Config Rules
+- [AWS Config Rules now available in 4 new regions: US West (Oregon), EU (Ireland), EU (Frankfurt) and Asia Pacific (Tokyo)](https://aws.amazon.com/es/about-aws/whats-new/2016/04/aws-config-rules-now-available-in-4-new-regions-us-west-oregon-eu-ireland-eu-frankfurt-and-asia-pacific-tokyo/)
 
 ## AWS BigData 
 - [blogs.aws.amazon.com/bigdata](http://blogs.aws.amazon.com/bigdata/)
