@@ -238,6 +238,9 @@
 - [pythex is a quick way to test your Python regular expressions 🌟](http://pythex.org/)
 - [Comparing regular expressions in Perl, Python, and Emacs](http://www.johndcook.com/blog/regex-perl-python-emacs/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">F***ing patterns!<br> <a href="https://t.co/BUJZwpFYGN">https://t.co/BUJZwpFYGN</a> <a href="https://t.co/kXNUUE0Kr4">pic.twitter.com/kXNUUE0Kr4</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/718499130029580289">8 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Bash
 - [explainshell.com: write down a command-line to see the help text that matches each argument](http://explainshell.com/)
 - [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands 🌟](http://www.shellcheck.net/)

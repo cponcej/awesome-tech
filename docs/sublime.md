@@ -3,6 +3,7 @@
 - [Sublime Text Editor](#sublime-text-editor)
     - [Sublime Blogs](#sublime-blogs)
     - [Setting up Sublime and Tips](#setting-up-sublime-and-tips)
+        - [Sublime Web Inspector](#sublime-web-inspector)
     - [Anaconda Python IDE](#anaconda-python-ide)
     - [Sublime Git](#sublime-git)
 
@@ -49,6 +50,11 @@
 	- [Sass, Syntactically Awesome Style Sheets (CSS)](http://sass-lang.com/)
 - [Save your clicks by taking charge of Sublime’s menus](http://sublimetexttips.com/save-your-clicks-by-taking-charge-of-sublimes-menus/)
 - [How to quickly add a new Sublime Text snippet](http://sublimetexttips.com/how-to-quickly-add-a-new-sublime-text-snippet/)
+
+### Sublime Web Inspector
+- [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Use Sublime WebInspector to debug directly in <a href="https://twitter.com/hashtag/sublimetext?src=hash">#sublimetext</a>.  <a href="https://twitter.com/hashtag/london_js?src=hash">#london_js</a> <a href="https://twitter.com/JustEatUK">@JustEatUK</a> <a href="https://t.co/SWh0ejmjNq">pic.twitter.com/SWh0ejmjNq</a></p>&mdash; Bibiana Cristòfol (@BibsBcn) <a href="https://twitter.com/BibsBcn/status/718152460221751296">7 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Anaconda Python IDE
 - [Anaconda Python IDE. Anaconda turns your Sublime Text 3 into a full featured Python development IDE 🌟🌟🌟](http://damnwidget.github.io/anaconda/)
