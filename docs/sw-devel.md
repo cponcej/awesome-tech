@@ -241,6 +241,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">F***ing patterns!<br> <a href="https://t.co/BUJZwpFYGN">https://t.co/BUJZwpFYGN</a> <a href="https://t.co/kXNUUE0Kr4">pic.twitter.com/kXNUUE0Kr4</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/718499130029580289">8 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Master regex while playing game with &quot;Regex Golf&quot;<a href="https://t.co/pPBwSKbit3">https://t.co/pPBwSKbit3</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a> <a href="https://t.co/BHhDtGTxd1">pic.twitter.com/BHhDtGTxd1</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/718764238563442688">9 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Bash
 - [explainshell.com: write down a command-line to see the help text that matches each argument](http://explainshell.com/)
 - [shellcheck.net shell script analyzer:automatically detects problems in sh/bash scripts and commands 🌟](http://www.shellcheck.net/)
