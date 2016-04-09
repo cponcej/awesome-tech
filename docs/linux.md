@@ -709,3 +709,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PLVmO9TMtno?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<div class="container">
+<iframe src="https://embed-ssl.ted.com/talks/linus_torvalds_the_mind_behind_linux.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen class="video"></iframe>
+</div>
+<br/>

@@ -481,3 +481,4 @@
 - [NoSQL and NewSQL](nosql.md)
 
 [![Visual_SQL_JOINS](images/Visual_SQL_JOINS_orig.jpg)](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
+

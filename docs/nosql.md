@@ -34,6 +34,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">There ARE good reasons for NoSQL.<br>It&#39;s just that the average apps performance problems isn&#39;t.<a href="https://t.co/Os0wio3ekO">https://t.co/Os0wio3ekO</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/711909070995849216">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tPChndbG29hFlV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cbilien/the-dba-is-dead-again-long-live-the-dba" title="The DBA Is Dead (Again). Long Live the DBA !" target="_blank">The DBA Is Dead (Again). Long Live the DBA !</a> </strong> from <strong><a href="//www.slideshare.net/cbilien" target="_blank">Christian Bilien</a></strong> </div>
+</div> 
+<br/>
+
 ### MongoDB on Twitter
 - [twitter.com/MongoDB](https://twitter.com/MongoDB)
 - [3T Software Labs](https://twitter.com/3tsoftwarelabs) MongoDB Tools for developers
