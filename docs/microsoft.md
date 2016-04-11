@@ -130,6 +130,11 @@
 - [New Release of PowerShell Extension For Visual Studio Code](https://rkeithhill.wordpress.com/2016/02/09/new-release-of-powershell-extension-for-visual-studio-code)
 - [Bash for Windows: Why it’s awesome and what it means for PowerShell 🌟🌟🌟](https://blogs.msdn.microsoft.com/powershell/2016/04/01/bash-for-windows-why-its-awesome-and-what-it-means-for-powershell)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IhpcPalgYeTt5A" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alikhanzafar/power-shell-for-newbies-getting-started-powershell-4" title="Power shell for newbies getting started powershell 4" target="_blank">Power shell for newbies getting started powershell 4</a> </strong> from <strong><a href="//www.slideshare.net/alikhanzafar" target="_blank">Zafar Ali Khan</a></strong> </div>
+</div>
+<br>
+
 [![spiceworks](images/spiceworks-logo.png)](http://www.spiceworks.com/)
 
 <div class="container">

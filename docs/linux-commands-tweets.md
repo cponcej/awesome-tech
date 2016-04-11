@@ -148,3 +148,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">watch -n 0.5 &quot;ps uf -C process1,process2&quot; # Continually watch processes with names Thx <a href="https://twitter.com/_radome_">@_radome_</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/717762937876832256">6 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">for x in $(docker images | awk &#39;$1 ~ &quot;&lt;none&gt;&quot; {print $3}&#39;); do docker rmi <a href="https://twitter.com/search?q=%24x&amp;src=ctag">$x</a>; done # Deletes orphaned docker images. Thx <a href="https://twitter.com/jvz">@jvz</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/718524289201356800">8 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
