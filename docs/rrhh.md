@@ -101,6 +101,7 @@
 - [Lo que el personal de Recursos Humanos nunca te confesará](https://ar.selecciones.com/contenido/a2869_lo-que-el-personal-de-recursos-humanos-nunca-te-confesara)
 - [9 formas con éxito seguro de destruir la moral del empleado](http://www.rrhhsocialmedia.com/9-formas-con-exito-seguro-de-destruir-la-moral-del-empleado/)
 - [Expectativas salariales, la pregunta del millón](http://ventajaprofesional.com/blog-ventaja-profesional/expectativas-salariales-pregunta-del-millon/)
+- [Peligro: Hay un trepa en mi trabajo](https://balcon40.com/2016/04/11/peligro-hay-un-trepa-en-mi-trabajo/)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
@@ -119,6 +120,8 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/infograf%C3%ADa?src=hash">#infografía</a>: Señales de mala actitud en el <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a>, vía <a href="https://twitter.com/elcomercio">@elcomercio</a> <a href="https://t.co/TWWXa0eCTv">pic.twitter.com/TWWXa0eCTv</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/716727049109520384">3 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">“Una mala persona nunca llega a ser buen profesional” <a href="https://twitter.com/LluisAmiguet">@LluisAmiguet</a> entrevista a Howard Gardner. <a href="https://t.co/pR7UgEJU9W">https://t.co/pR7UgEJU9W</a></p>&mdash; Roger Domingo (@RogerDomingo) <a href="https://twitter.com/RogerDomingo/status/719499895653199872">11 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sólo el 27% de las empresas españolas apuesta por el teletrabajo: El bajo rendimiento de las conexiones remota... <a href="https://t.co/8nqDW1b9hg">https://t.co/8nqDW1b9hg</a></p>&mdash; ColegioOficialTeleco (@COGITTCV) <a href="https://twitter.com/COGITTCV/status/705780579178934274">4 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
