@@ -180,6 +180,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LOL. Via <a href="https://t.co/zzGQ5Fzlht">https://t.co/zzGQ5Fzlht</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://twitter.com/hashtag/CloudComputing?src=hash">#CloudComputing</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/2L8OG2mGHv">pic.twitter.com/2L8OG2mGHv</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709861013093359616">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Backups need to be offsite, offline, and incremental&quot; <a href="https://t.co/V3tJZM28Ot">https://t.co/V3tJZM28Ot</a> <a href="https://twitter.com/hashtag/ansible?src=hash">#ansible</a> <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a></p>&mdash; François Baligant (@fbaligant) <a href="https://twitter.com/fbaligant/status/720004702839140352">12 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![veeam logo](images/veeam-logo.jpg)](https://www.veeam.com)
 
 <div class="container">
