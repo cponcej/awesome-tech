@@ -175,6 +175,11 @@
 - [IBM Cloud computing. Technical resources for developing in the cloud](https://www.ibm.com/developerworks/cloud/)
 - [slideshare: New IBM Mainframe 2016 - Z13](http://www.slideshare.net/fgonza93/new-ibm-mainframe-2016-z13) According to @IBM, the 2016 Z13 mainframe can run up to 8,000 Linux virtual servers on a single system
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hS2h-e-EJfA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Google Cloud
 - [googlecloudplatform.blogspot.com](http://googlecloudplatform.blogspot.com)
 	- [Google seeks new disks for data centers](http://googlecloudplatform.blogspot.com.es/2016/02/Google-seeks-new-disks-for-data-centers.html)
