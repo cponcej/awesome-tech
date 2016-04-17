@@ -215,6 +215,7 @@
 - [opensource.com: How to add open source experience to your resume 🌟](https://opensource.com/business/16/2/add-open-source-to-your-resume)
 - [Why Your Resume Is Making Recruiters Cringe](https://www.linkedin.com/pulse/why-your-resume-making-recruiters-cringe-j-t-o-donnell)
 - [careerealism.com: What To Do If You’ve Lied On Your Resume](http://www.careerealism.com/lied-resume-what-to-do/)
+- [This resume for Elon Musk proves you never, ever need to use more than one page](http://www.businessinsider.com/elons-musk-resume-all-on-one-page-2016-4)
 
 [![BI_30things_remove_from_resume](images/BI_30things_remove_from_resume.png)](http://www.businessinsider.com/dont-put-these-things-on-your-resume-2015-3-31)
 
