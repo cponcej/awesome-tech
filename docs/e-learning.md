@@ -18,6 +18,7 @@
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
 - [ycombinator.com: What's the best way to train/onboard new programmers?](https://news.ycombinator.com/item?id=10890032)
 - [Martin Fowler: Certification Vs Competence](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
+- [Please Don't Learn to Code Unless... 🌟🌟](https://www.linkedin.com/pulse/please-dont-learn-code-unless-basel-farag)
 
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
