@@ -56,6 +56,7 @@
 - [businessinsider.com: What hiring managers REALLY want to know when they ask these 4 common interview questions](http://www.businessinsider.com/what-the-hiring-manager-wants-to-know-when-they-ask-these-questions-in-job-interviews-2016-3)
 - [Ten Things Recruiters Don't Need To Know About You](http://www.forbes.com/sites/lizryan/2016/03/17/ten-things-recruiters-dont-need-to-know-about-you/2/#4ae3c5361bc7)
 - [Jacks-Of-All-Trades Don't Get Interviews Because...](https://www.linkedin.com/pulse/20140114003036-7668018-jacks-of-all-trades-don-t-get-interviews-because)
+- [How To Get A Job Anywhere With NO Connections 🌟](http://cultivatedculture.com/how-to-get-a-job-anywhere-no-connections/)
 
 [![walk_out_job_interview](images/walk_out_job_interview.png)](https://www.linkedin.com/pulse/i-wrong-walk-out-job-interview-liz-ryan)
 
