@@ -151,3 +151,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">for x in $(docker images | awk &#39;$1 ~ &quot;&lt;none&gt;&quot; {print $3}&#39;); do docker rmi <a href="https://twitter.com/search?q=%24x&amp;src=ctag">$x</a>; done # Deletes orphaned docker images. Thx <a href="https://twitter.com/jvz">@jvz</a></p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/718524289201356800">8 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Running program PID search on Linux/Unix/OSX/BSD. Old way:<br>ps aux | grep apache2 | grep -v grep<br><br>New way:<br>pgrep apache2</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/722848228853420032">20 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/nixcraft">@nixcraft</a> with pgrep you save time. use pkill to kill pid/program:<br><br>pgrep -u www-data apache2 <br>pkill -HUP apache2<br>pkill -9 php7-cgi -u www</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/722848800553828352">20 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

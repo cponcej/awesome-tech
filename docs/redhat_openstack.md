@@ -64,4 +64,7 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat continues cloud transformation with new OpenStack and Cloud Platform Suite products <a href="https://t.co/7xK9IHdAZr">https://t.co/7xK9IHdAZr</a> by <a href="https://twitter.com/ron_miller">@ron_miller</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/722758967093542912">20 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
