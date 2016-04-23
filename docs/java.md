@@ -85,4 +85,5 @@
 </div>
 <br/>
 
-
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">really awesome series on jvm garbage collection from <a href="https://twitter.com/gphat">@gphat</a> <a href="https://t.co/w4176p2ahq">https://t.co/w4176p2ahq</a> <a href="https://t.co/crmiXdLhBh">https://t.co/crmiXdLhBh</a> <a href="https://t.co/sKGxNXFuto">https://t.co/sKGxNXFuto</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/723894833824325632">23 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
