@@ -262,6 +262,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">4 tips for making your flight a lot less stressful <a href="https://t.co/HALXCUWnlA">https://t.co/HALXCUWnlA</a> <a href="https://t.co/GmjrEr8GMH">pic.twitter.com/GmjrEr8GMH</a></p>&mdash; The Independent (@Independent) <a href="https://twitter.com/Independent/status/717020078773026816">4 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Say it&#39;s very important to work hard to get ahead<br>US 73%<br>UK 60%<br>Germany 49%<br>Italy 35%<br>France 25%<br>Greece 21% <a href="https://t.co/LWjCWuWAgY">pic.twitter.com/LWjCWuWAgY</a></p>&mdash; Conrad Hackett (@conradhackett) <a href="https://twitter.com/conradhackett/status/723874572773150726">23 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![most expensive cities in the world](images/most_expensive_cities.png)](http://www.cityam.com/235697/london-house-prices-uk-capital-is-most-expensive-place-in-the-world-for-a-company-to-employ-staff-as-real-estate-recovery-shifts-from-east-to-west)
 
 [![singapore_most_espensive_city](images/singapore_most_espensive_city.png)](http://www.bbc.com/news/business-35765378)
