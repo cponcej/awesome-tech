@@ -11,6 +11,7 @@
 	- [Red Hat Virtualization](#red-hat-virtualization)
 	- [Red Hat OpenShift PaaS](#red-hat-openshift-paas)
 	- [Red Hat OpenStack](#red-hat-openstack)
+	- [Red Hat Cloud Suite](#red-hat-cloud-suite)
 	- [Red Hat Cluster](#red-hat-cluster)
 	- [Red Hat Storage](#red-hat-storage)
 	- [Red Hat and IBM](#red-hat-and-ibm)
@@ -200,6 +201,14 @@
 
 ## Red Hat OpenStack
 - [Red Hat OpenStack](redhat_openstack.md)
+
+## Red Hat Cloud Suite
+- [redhat.com/cloud-suite](http://redhat.com/cloud-suite)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hWNW6XookiQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## Red Hat Cluster
 - [Wikipedia: Red Hat Cluster Suite](https://en.wikipedia.org/wiki/Red_Hat_cluster_suite)
