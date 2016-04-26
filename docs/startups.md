@@ -306,6 +306,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/TrabajasEnEspa%C3%B1a?src=hash">#TrabajasEnEspaña</a> Financial Times denuncia que crisis española no solo crea jóvenes pobres, sino también &quot;enfermos&quot; <a href="https://t.co/k9FFxI7prZ">https://t.co/k9FFxI7prZ</a></p>&mdash; El Boletín (@elboletinmadrid) <a href="https://twitter.com/elboletinmadrid/status/719509362197340160">11 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![se_busca_talento_digital](images/se_busca_talento_digital.png)](http://economia.elpais.com/economia/2016/04/25/actualidad/1461606018_234064.html)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries grow richer when they learn how to produce more valuable stuff per person  <a href="https://t.co/0GOBddIfND">https://t.co/0GOBddIfND</a> <a href="https://t.co/mDapJqUVm8">pic.twitter.com/mDapJqUVm8</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/711579515244388354">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Trabajando por una movilidad laboral equitativa para todos<a href="https://t.co/tyAGsFomCk">https://t.co/tyAGsFomCk</a></p>&mdash; Comisión Europea (@UEmadrid) <a href="https://twitter.com/UEmadrid/status/711883070417186816">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
