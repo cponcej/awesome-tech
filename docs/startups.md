@@ -308,6 +308,8 @@
 
 [![se_busca_talento_digital](images/se_busca_talento_digital.png)](http://economia.elpais.com/economia/2016/04/25/actualidad/1461606018_234064.html)
 
+[![CNMC_expedienta_consultoras](images/CNMC_expedienta_consultoras.png)](http://www.elboletin.com/economia/133375/competencia-expediente-indra-ibm-tecnologicas.html)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries grow richer when they learn how to produce more valuable stuff per person  <a href="https://t.co/0GOBddIfND">https://t.co/0GOBddIfND</a> <a href="https://t.co/mDapJqUVm8">pic.twitter.com/mDapJqUVm8</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/711579515244388354">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Trabajando por una movilidad laboral equitativa para todos<a href="https://t.co/tyAGsFomCk">https://t.co/tyAGsFomCk</a></p>&mdash; Comisión Europea (@UEmadrid) <a href="https://twitter.com/UEmadrid/status/711883070417186816">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
