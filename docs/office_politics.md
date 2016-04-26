@@ -51,8 +51,10 @@
 
 [![An Introvert's Guide to Surviving Team Lunches](images/lets_grab_lunch.png)](http://goingconcern.com/post/introverts-guide-surviving-team-lunches)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Obsessing over getting business cards together for GDC like <a href="https://t.co/ejaURFmSFQ">https://t.co/ejaURFmSFQ</a></p>&mdash; Jack Attridge ✈️ GDC (@JacksFlavour) <a href="https://twitter.com/JacksFlavour/status/706778107731173377">7 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aZVkW9p-cCU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 [![voltaire jealousy commits crimes](images/jealousy_commits_crimes.jpg)](http://statusmind.com)
 
