@@ -259,9 +259,6 @@ para universitarios y titulados júnior
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¡Envío Gratis en Sport! Hoy: adidas, O&#39;Neill, DUUO, CMP, Napapijri, Pepe Jeans y más. ▶ <a href="https://t.co/qPoQzuhNMF">https://t.co/qPoQzuhNMF</a> <a href="https://t.co/w8UOzEabso">pic.twitter.com/w8UOzEabso</a></p>&mdash; Privalia España (@Privalia_es) <a href="https://twitter.com/Privalia_es/status/703480977214087168">27 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Ese momento en el que no duermes para terminar un libro y su final no te gusta.<a href="https://twitter.com/hashtag/CosasdeLectores?src=hash">#CosasdeLectores</a> <a href="https://t.co/r9bFiObsCf">pic.twitter.com/r9bFiObsCf</a></p>&mdash; Casa del Libro (@casadellibro) <a href="https://twitter.com/casadellibro/status/702883618566348803">25 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fórmate en Contabilidad, Secretariado, Facturación y Almacén por tan sólo 25 € con <a href="https://twitter.com/KDLFormacion">@KDLFormacion</a>. <a href="https://t.co/vE3XBuZvMj">https://t.co/vE3XBuZvMj</a>.</p>&mdash; Emagister (@emagister) <a href="https://twitter.com/emagister/status/678368218164035584">20 de diciembre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
