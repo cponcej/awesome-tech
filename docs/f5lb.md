@@ -23,11 +23,6 @@
 - [slideshare: F5 TLS & SSL Practices](http://www.slideshare.net/bamchenry/f5-tls-ssl-practices)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bttiksfO7RA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lT2aIMj4R9s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
