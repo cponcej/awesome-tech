@@ -60,6 +60,7 @@
 - [Good vs Bad Leader](http://vladmihalcea.com/2013/12/28/good-vs-bad-leader/)
 - [Good Boss, Bad Boss: How to Be the Best... and Learn from the Worst 🌟](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
 - [9 Signs You’ve Got a Bad Boss](http://www.learnvest.com/2012/02/9-signs-youve-got-a-bad-boss/)
+- [Is your boss making you sick?](https://www.washingtonpost.com/national/health-science/is-your-boss-making-you-sick/2014/10/20/60cd5d44-2953-11e4-8593-da634b334390_story.html)
 - [Can You Be Friends With Your Boss?](https://hbr.org/2014/11/can-you-be-friends-with-your-boss)
 - [21 Signs That Your Boss Doesn't Like You 🌟](http://www.inc.com/business-insider/signs-your-boss-does-not-like-you.html) The signals may be subtle--but if you know what to look for, they are usually easy to spot.
 - [When Your Manager Doesn't Want You To Succeed](https://www.linkedin.com/pulse/when-your-manager-doesnt-want-you-succeed-liz-ryan)
