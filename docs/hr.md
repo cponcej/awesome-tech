@@ -99,6 +99,10 @@
 
 [![11_talks_to_watch_when_burned_out](images/11_talks_to_watch_when_burned_out.png)](http://www.businessinsider.com/watch-these-ted-talks-when-youre-burned-out-2016-3)
 
+[![does_your_boss_see_you_as_a_threat](images/does_your_boss_see_you_as_a_threat.png)](https://www.linkedin.com/pulse/20140702143933-52594-does-your-boss-see-you-as-a-threat)
+
+[![good_sign_boss_feels_threatened](images/good_sign_boss_feels_threatened.png)](http://www.businessinsider.com/sign-your-boss-feels-threatened-by-you-2015-2)
+
 ## Work environment issues
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
 - [businessinsider.com: 19 signs your coworkers secretly hate you](http://www.businessinsider.com/signs-your-colleagues-secretly-hate-you-2016-1)
