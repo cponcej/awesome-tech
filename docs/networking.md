@@ -137,6 +137,7 @@
 
 ### Network Performance Monitoring
 - [Solarwinds: Monitoring 101 ebook](https://thwack.solarwinds.com/docs/DOC-187523)
+- [Solarwinds: Network Monitoring for Dummies](http://www.solarwinds.com/lp/bandwidth-analyzer-pack-plus-ebook.aspx)
 - [ntop.org](http://www.ntop.org/)
 
 <div class="container">
