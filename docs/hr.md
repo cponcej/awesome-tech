@@ -135,6 +135,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Avoid burnout by changing up your work environment -- new views &amp; hours can reduce monotony <a href="https://t.co/njCwaUn6HI">https://t.co/njCwaUn6HI</a> <a href="https://t.co/gq891XLn6C">pic.twitter.com/gq891XLn6C</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/711578294706163712">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Burnout is not just thinking, &#39;I&#39;m too tired...&#39; It&#39;s the inability to think creatively.” <a href="https://t.co/cBg0oM9Dtu">https://t.co/cBg0oM9Dtu</a></p>&mdash; First Round (@firstround) <a href="https://twitter.com/firstround/status/725032023543291905">26 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to apply for a job in a field where you have no experience <a href="https://t.co/jSCcatqpIf">https://t.co/jSCcatqpIf</a></p>&mdash; The Independent (@Independent) <a href="https://twitter.com/Independent/status/714455029458067456">28 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

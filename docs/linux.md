@@ -365,11 +365,14 @@
 - [Hawk: Haskell text processor for the command-line](https://github.com/gelisam/hawk)
 - [Hwk: A Haskell based awk and sed alternative](https://github.com/lukasmartinelli/hwk)
 - [faqs.org: AWK FAQ](http://www.faqs.org/faqs/computer-lang/awk/faq/)
+- [tecmint.com: How to Use Awk to Print Fields and Columns in File](http://www.tecmint.com/awk-print-fields-columns-with-space-separator/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9OjHYI1AZXVGAf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EricWilson4/unix-commandline-tools" title="Unix command-line tools" target="_blank">Unix command-line tools</a> </strong> from <strong><a href="//www.slideshare.net/EricWilson4" target="_blank">Eric Wilson</a></strong> </div>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn how to use AWK to print fields and columns in text files.. <a href="https://t.co/gV5FqfI2a9">https://t.co/gV5FqfI2a9</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/MrSmSpwSyG">pic.twitter.com/MrSmSpwSyG</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/724597310991159296">25 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux Terminals
 - [15 Greatest Open Source Terminal Applications Of 2012](http://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/)
@@ -570,6 +573,7 @@
 - [Find Out If Patch Number (CVE) Has Been Applied To RHEL/CentOS Linux](http://www.cyberciti.biz/faq/linux-find-out-patch-can-cve-applied/)
 - [securitychecklist.org 🌟🌟🌟](https://securitychecklist.org/)
 - [nixCraft: HowTo Change Password of Specific User Account In Linux](http://www.cyberciti.biz/faq/changing-password-of-specific-account-in-linux-commandline/)
+- [unixmen.com: Password Management in Linux by using passwd command](http://www.unixmen.com/password-management-linux-using-passwd-command/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Checklist For Unix and Linux server <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/QTwAlEQHOQ">https://t.co/QTwAlEQHOQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711649284609826816">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
