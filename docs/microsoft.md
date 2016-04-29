@@ -101,6 +101,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Microsoft is specifically looking for those with knowledge of Linux, Ansible, Docker and Chef.&quot; <a href="https://t.co/jrkGDXcYPv">https://t.co/jrkGDXcYPv</a></p>&mdash; Donnie Berkholz (@dberkholz) <a href="https://twitter.com/dberkholz/status/723571303505113088">22 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Microsoft Monitoring and Management
 - [Simple Talk](https://www.simple-talk.com)
 - [simple-talk.com/sysadmin](https://www.simple-talk.com/sysadmin/)

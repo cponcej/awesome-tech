@@ -159,6 +159,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Open-Plan Office Paradox<br> <a href="https://t.co/v2M4BY7kda">https://t.co/v2M4BY7kda</a> <a href="https://t.co/p9mAF1o1JT">pic.twitter.com/p9mAF1o1JT</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/717403109769756677">5 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We do not and never have tolerated harassment. <a href="https://twitter.com/docker">@Docker</a> actively pursues all internal &amp; external claims of harassment <a href="https://t.co/OtyKXmHJhU">pic.twitter.com/OtyKXmHJhU</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/723599791763001344">22 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.

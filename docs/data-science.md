@@ -53,6 +53,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top Machine Learning Twitter influencers one should follow <a href="https://t.co/BOWwefvwam">https://t.co/BOWwefvwam</a></p>&mdash; Machine Learning (@ML_toparticles) <a href="https://twitter.com/ML_toparticles/status/705144727184609280">2 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 10 iPython Notebook Tutorials for Data Science and Machine Learning <a href="https://t.co/VhIIxpjWXw">https://t.co/VhIIxpjWXw</a> <a href="https://t.co/iiDy5EBJW7">pic.twitter.com/iiDy5EBJW7</a></p>&mdash; Machine Learning (@ML_toparticles) <a href="https://twitter.com/ML_toparticles/status/723608177984430084">22 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## SQL and Databases
 - [SQL and Databases](databases.md)
 
