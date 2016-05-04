@@ -621,6 +621,11 @@
 </div>
 <br>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/obN27RcHaao?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## Vim and Emacs
 ### Vim
 - [tecmint.com: Learn Useful ‘Vi/Vim’ Editor Tips and Tricks to Enhance Your Skills – Part 1](http://www.tecmint.com/learn-vi-and-vim-editor-tips-and-tricks-in-linux/)
