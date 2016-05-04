@@ -253,9 +253,6 @@ para universitarios y titulados júnior
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los amigos de <a href="https://twitter.com/accio_cat">@accio_cat</a> también nos han visitado en nuestro estand del <a href="https://twitter.com/hashtag/MWC16?src=hash">#MWC16</a> (8.1K48). ¿Y tú? <a href="https://t.co/OmM9ZtHn8Z">https://t.co/OmM9ZtHn8Z</a></p>&mdash; Tiendeo (@Tiendeo) <a href="https://twitter.com/Tiendeo/status/702892831376015362">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Nueva York: 5 Días + vuelos + hotel <a href="https://t.co/n6Sty8SmeH">https://t.co/n6Sty8SmeH</a> via <a href="https://twitter.com/groupaliaES">@GroupaliaES</a> <a href="https://t.co/FH7rj8vPTr">pic.twitter.com/FH7rj8vPTr</a></p>&mdash; Groupalia España (@groupaliaES) <a href="https://twitter.com/groupaliaES/status/704598373358301184">1 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fórmate en Contabilidad, Secretariado, Facturación y Almacén por tan sólo 25 € con <a href="https://twitter.com/KDLFormacion">@KDLFormacion</a>. <a href="https://t.co/vE3XBuZvMj">https://t.co/vE3XBuZvMj</a>.</p>&mdash; Emagister (@emagister) <a href="https://twitter.com/emagister/status/678368218164035584">20 de diciembre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
