@@ -123,6 +123,7 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nvFyKjg81DaHtz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/bootcamp-getting-started-on-aws" title="Bootcamp: Getting Started on AWS" target="_blank">Bootcamp: Getting Started on AWS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
 </div>
 <br/>
+<br>
 
 ## AWS New Features
 - [aws.amazon.com/releasenotes](https://aws.amazon.com/releasenotes)
