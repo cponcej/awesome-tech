@@ -196,6 +196,7 @@
 >1. Don't do just a single check, the first check will be a lot slower as DNS lookups will need to be done, etc.
 >2. I'd recommend doing at least 3 checks getting an average.
 - Run 6 checks (with a random 3-10 second delay between each one), the first can be ignored, the highest one is also ignored (as a likely outlier), then for the next 4 show the minimum, maximum and average (mean).
+- [medium.com: Optimizing Latency and Bandwidth for AWS Traffic](https://medium.com/aws-activate-startup-blog/optimizing-latency-and-bandwidth-for-aws-traffic-cdfd18d0d0f7)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/IDuFGnYkBiVIFI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/introduction-to-amazon-web-services-7708257" title="Introduction to Amazon Web Services" target="_blank">Introduction to Amazon Web Services</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
@@ -319,6 +320,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/i4GhOE5F4zX8Vm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/iam-recommended-practices" title="IAM Recommended Practices" target="_blank">IAM Recommended Practices</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Create on the fly disposable VPN using AWS: <a href="https://t.co/9nQ5VXCv2Q">https://t.co/9nQ5VXCv2Q</a> - that&#39;s really cool 😎 <a href="https://twitter.com/hashtag/privacy?src=hash">#privacy</a> <a href="https://t.co/Fblg4J4CDp">pic.twitter.com/Fblg4J4CDp</a></p>&mdash; x0rz (@x0rz) <a href="https://twitter.com/x0rz/status/723132469696978944">21 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## AWS WAF Web Application Firewall
 - [AWS WAF - Web Application Firewall](https://aws.amazon.com/waf/)
