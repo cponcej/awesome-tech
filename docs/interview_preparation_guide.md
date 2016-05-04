@@ -64,6 +64,11 @@
 
 [![10_things_recruiters_dont_need_to_know_about_you](images/10_things_recruiters_dont_need_to_know_about_you.png)](http://www.forbes.com/sites/lizryan/2016/03/17/ten-things-recruiters-dont-need-to-know-about-you/2)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CcNQUbVOYbU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -79,6 +84,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Quote of the day: <a href="https://t.co/evmuW9Fqfr">https://t.co/evmuW9Fqfr</a> <a href="https://t.co/A2IggUSmxE">pic.twitter.com/A2IggUSmxE</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/706509897060450304">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We can stop here<br> <a href="https://t.co/Jgtn694sZo">https://t.co/Jgtn694sZo</a> <a href="https://t.co/zzTFfRedEG">pic.twitter.com/zzTFfRedEG</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/725398686486945792">27 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![focus on behavior](images/focus_on_behavior.png)](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
 

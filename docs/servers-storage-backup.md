@@ -14,6 +14,8 @@
 
 <!-- /MarkdownTOC -->
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">According to one analyst <a href="https://twitter.com/hashtag/CloudComputing?src=hash">#CloudComputing</a> Not Seen Cannibalizing <a href="https://twitter.com/hashtag/Server?src=hash">#Server</a> Market, As Assumed <a href="https://t.co/93MecfNxPG">https://t.co/93MecfNxPG</a> via <a href="https://twitter.com/IBDinvestors">@IBDInvestors</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/726738435973640192">1 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Servers, Storage and Backup
 - [opensource.com: Linux monitoring tools to keep your hardware cool 🌟](https://opensource.com/life/15/11/linux-temperature-monitoring-tools)
 

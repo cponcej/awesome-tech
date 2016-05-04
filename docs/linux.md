@@ -446,6 +446,7 @@
 ### htop
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
 - [Manage your Linux Box with htop](http://freedompenguin.com/articles/how-to/manage-your-linux-box-with-htop/)
+- [How to find out information about a LXC (Linux container) CPU & Memory Usage](http://www.cyberciti.biz/faq/how-to-find-out-information-about-lxc-cpu-memory-networking/)
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/b6s2R1_Wkej5SrmH7rhroA/139101622517" data-did="f5ed5731bd6cb168199437ff3815965a4179516a"><a href="http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd">http://nixcraft.tumblr.com/post/139101622517/htop-version-20-released-for-linux-os-x-freebsd</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
@@ -468,6 +469,8 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">dtrace for linux - kernel driver and userland tools <a href="https://t.co/RgC9MmtAk8">https://t.co/RgC9MmtAk8</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711595796202848256">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">to see container info in &quot;htop&quot;, in Setup select CGGROUP in the Available Columns! <a href="https://t.co/zsgLd0UJaB">https://t.co/zsgLd0UJaB</a></p>&mdash; John Mitchell (@JohnTellsAll) <a href="https://twitter.com/JohnTellsAll/status/726899822104481792">1 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Glances
 - [Glances](https://nicolargo.github.io/glances)
