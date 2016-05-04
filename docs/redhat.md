@@ -99,11 +99,6 @@
 
 [![rhel 5,6,7 cheatsheet](images/rhel567_cheatsheet.png)](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VdeJ_TNCWs0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
 ### Fedora
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
