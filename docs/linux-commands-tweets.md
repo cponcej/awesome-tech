@@ -157,3 +157,5 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/nixcraft">@nixcraft</a> with pgrep you save time. use pkill to kill pid/program:<br><br>pgrep -u www-data apache2 <br>pkill -HUP apache2<br>pkill -9 php7-cgi -u www</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/722848800553828352">20 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">find */ | cut -d/ -f1 | uniq -c # Print how many files are inside each directory under the current one.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/725337585346875394">27 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
