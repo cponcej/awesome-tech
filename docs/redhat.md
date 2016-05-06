@@ -342,6 +342,8 @@
 </div>
 <br>
 
+[![wildfly cookbook](images/WildFly-Cookbook.png)](http://www.wowebook.org/wildfly-cookbook.html)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Getting started with <a href="https://twitter.com/hashtag/EAP7?src=hash">#EAP7</a> and <a href="https://twitter.com/hashtag/JBoss?src=hash">#JBoss</a> Developer Studio by <a href="https://twitter.com/myfear">@myfear</a> <a href="https://t.co/QWeqKIQR69">https://t.co/QWeqKIQR69</a> <a href="https://t.co/ZdD8iqBNAB">pic.twitter.com/ZdD8iqBNAB</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/701666594695602176">febrero 22, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
