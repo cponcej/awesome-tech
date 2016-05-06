@@ -192,6 +192,11 @@
 - [blazemeter.com: Three Ways DevOps Benefit from AWS CodePipeline](https://blazemeter.com/blog/three-ways-devops-benefit-aws-codepipeline)
 - [AWS Partner Network - CodePipeline Integrations](https://aws.amazon.com/es/codepipeline/product-integrations/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/iHI2Q1aoZheQ5T" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/devops-on-aws-61713312" title="DevOps on AWS" target="_blank">DevOps on AWS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
 ## AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.
 - [Linkedin Discussion](https://www.linkedin.com/groups/49531/49531-6092152919937794052)
@@ -302,6 +307,7 @@
 
 ## AWS Cloud Formation
 - [AWS Cloud Formation Release History](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)
+- [All the AWS Resource Types Reference for AWS CloudFormation ](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
 
 ## AWS Security
 - [AWS Security Blog](http://blogs.aws.amazon.com/security)
