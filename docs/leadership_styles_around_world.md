@@ -107,3 +107,5 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I look at my work now. Role Model and Leadership Moneyball <a href="http://t.co/q6LGFZehXu">http://t.co/q6LGFZehXu</a></p>&mdash; Paul Wilson (@PAW1015) <a href="https://twitter.com/PAW1015/status/577323235630587904">16 de marzo de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tal día como hoy hace 27 años: THE SHOT <a href="https://t.co/MmiRkCqpqt">https://t.co/MmiRkCqpqt</a></p>&mdash; Hool NBA (@Hooligan_nba) <a href="https://twitter.com/Hooligan_nba/status/728983711274913792">7 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
