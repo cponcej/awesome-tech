@@ -276,6 +276,13 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Germany&#39;s well-run economy has an incredible impact on home prices: <a href="https://t.co/L2oHsfSjFv">https://t.co/L2oHsfSjFv</a> <a href="https://t.co/qfNnHBmCFI">pic.twitter.com/qfNnHBmCFI</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/717456788371668995">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<p align="center">
+<a href="https://www.thecollective.co.uk/">thecollective.co.uk</a>
+</p>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Collective living&#39;s fine for students but for everybody else it stinks - The Guardian <a href="https://t.co/huep0RcCuW">https://t.co/huep0RcCuW</a><br><br>The Guardian<br><br>Collective li…</p>&mdash; Dyl Does (@dyl_does) <a href="https://twitter.com/dyl_does/status/725797334026702848">28 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="https://t.co/OSouk8Ferd">https://t.co/OSouk8Ferd</a> The Wolf of Wall Street - &quot;You Make A Lot of Money&quot; Clip</p>&mdash; Lucas Daher Tristão (@Lucasplay) <a href="https://twitter.com/Lucasplay/status/704919553889935360">2 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The cheapest and most expensive cities in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a> for <a href="https://twitter.com/hashtag/backpackers?src=hash">#backpackers</a> <a href="https://t.co/OIKgYLbhwq">https://t.co/OIKgYLbhwq</a> -east vs. west <a href="https://t.co/aspx8N8AyV">pic.twitter.com/aspx8N8AyV</a></p>&mdash; Klaava Travel Guide (@klaavamedia) <a href="https://twitter.com/klaavamedia/status/700669973702664194">febrero 19, 2016</a></blockquote>
