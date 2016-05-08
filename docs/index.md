@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-Available for work (no freelance). Currently fighting against the stigma of being unemployed. Looking for new opportunities across north of Europe based more on the quality of my work and less whom I know. Even if I'm lucky enough to get a new job in Barcelona or Madrid, I only see myself living abroad in 5 years time. 
+Available for work (no freelance). Looking for new opportunities across north of Europe based more on the quality of my work and less whom I know. Even if I'm lucky enough to get a new job in Barcelona, I only see myself living abroad in 5 years time. 
 </p>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
