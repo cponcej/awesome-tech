@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-Available for work. Currently fighting against the stigma of being unemployed. Looking for new opportunities based more on the quality of my work and less who I know. 
+Available for work. Currently fighting against the stigma of being unemployed. Looking for new opportunities across Europe based more on the quality of my work and less who I know. 
 </p>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
