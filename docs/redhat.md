@@ -398,6 +398,7 @@
 - [planet.jboss.org: How to install Red Hat Container Development Kit (CDK) in minutes 🌟](http://planet.jboss.org/post/how_to_install_red_hat_container_development_kit_cdk_in_minutes)
 - [rhelblog.redhat.com: The Red Hat Ecosystem for Microservice and Container Development 🌟](http://rhelblog.redhat.com/2016/02/23/the-red-hat-ecosystem-for-microservice-and-container-development/)
 - [rhelblog.redhat.com: Getting Started with the Red Hat Container Development Kit (CDK)](http://rhelblog.redhat.com/2016/02/25/getting-started-with-the-red-hat-container-development-kit-cdk/)
+- [Installing the Red Hat Container Development Kit (CDK) 2.0 release](http://www.schabell.org/2016/04/installing-redhat-cdk-2-0-release.html)
 
 [![red hat container ecosystem](images/container_ecosystem.png)](http://rhelblog.redhat.com/2016/02/23/the-red-hat-ecosystem-for-microservice-and-container-development/)
 
