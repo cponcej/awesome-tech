@@ -726,3 +726,7 @@
 <iframe src="https://embed-ssl.ted.com/talks/linus_torvalds_the_mind_behind_linux.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen class="video"></iframe>
 </div>
 <br/>
+
+<p align="center">
+<a href="https://soylentnews.org/comments.pl?sid=13033&threshold=0&commentsort=0&mode=improvedthreaded&cid=329623">the taste example</a>
+</p>
