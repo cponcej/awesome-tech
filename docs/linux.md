@@ -442,6 +442,7 @@
 - [How to measure your CPU time: clock_gettime! 🌟](http://jvns.ca/blog/2016/02/20/measuring-cpu-time-with-clock-gettime/)
 - [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
 - [nixCraft: Linux: Check Ram Speed and Type](http://www.cyberciti.biz/faq/check-ram-speed-linux/)
+- [tecmint_monitor.sh: A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM Usage in Linux 🌟🌟🌟](http://www.tecmint.com/linux-server-health-monitoring-script/)
 
 ### htop
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)

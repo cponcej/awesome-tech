@@ -67,6 +67,7 @@
 - [Deploying a Mesos based visual effects studios with Ansible](https://www.ansible.com/ansible-mesos-visual-effects)
 - [Learning DevOps: Automated setup and cloud VM provisioning with Ansible](http://techbeacon.com/learning-devops-automated-setup-cloud-vm-provisioning-ansible)
 - [SSH Agent Forwarding Configuration with Ansible and Tower 🌟](https://www.datapipe.com/blog/2016/03/01/ssh-agent-forwarding-configuration-with-ansible-and-tower/)
+- [Ansible automation glue 🌟🌟🌟](https://www.ansible.com/blog/ansible-automation-glue) Mark Phillips put together a great demo video (18 minutes) which covers aspects of how powerful and flexible Ansible is as a tool - from machine provisioning to configuration management to code deployment to interacting with various APIs - all in the pursuit of gluing together many components.
 
 [![Ansible for DevOps](images/ansible-for-devops-cover.jpg)](http://www.ansiblefordevops.com/)
 
