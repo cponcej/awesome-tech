@@ -94,6 +94,7 @@
 - [Product documentation](https://access.redhat.com/documentation/en/)
 - [State of the Red Hat Union is Secure. An exciting year ahead, from containeres to mobile](http://www.redhat.com/en/about/blog/state-red-hat-union-secure)
 - [How to Setup and Configure Network Bonding or Teaming in RHEL/CentOS 7](http://www.tecmint.com/configure-network-bonding-or-teaming-in-rhel-centos-7/)
+- [ZDNet: Red Hat Enterprise Linux 6.8 has landed 🌟](http://www.zdnet.com/article/red-hat-enterprise-linux-6-8-has-landed/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How To Install EPEL Repo on a CentOS and RHEL 7.x: <a href="https://t.co/FOuvWafDjj">https://t.co/FOuvWafDjj</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a></p>&mdash; Brian Reynolds (@breynoldz) <a href="https://twitter.com/breynoldz/status/709488307823058945">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
