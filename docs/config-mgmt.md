@@ -74,6 +74,10 @@
 > By default Vagrant will set up a share with your host machine automatically... /vagrant on the virtual box will be mapped to the folder containing your Vagrantfile this allows you to edit anything in this folder and the changes will be made instantly on the virtual box as well.
 - [opensource.com: Using Vagrant and Ansible to deploy virtual machines for web development 🌟](https://opensource.com/business/16/2/vagrant-ansible-virtual-machines-web-development)
 
+[![Vagrant-Virtual-Development-Environment-Cookbook](images/Vagrant-Virtual-Development-Environment-Cookbook.png)](http://www.wowebook.org/vagrant-virtual-development-environment-cookbook.html)
+
+[![Pro-Vagrant](images/Pro-Vagrant.png)](http://www.wowebook.org/pro-vagrant.html)
+
 ## Ansible
 - [Ansible](ansible.md)
 
