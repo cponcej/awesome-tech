@@ -94,6 +94,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/64392910" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![Vagrant-Virtual-Development-Environment-Cookbook](images/Vagrant-Virtual-Development-Environment-Cookbook.png)](http://www.wowebook.org/vagrant-virtual-development-environment-cookbook.html)
 
 [![Pro-Vagrant](images/Pro-Vagrant.png)](http://www.wowebook.org/pro-vagrant.html)
