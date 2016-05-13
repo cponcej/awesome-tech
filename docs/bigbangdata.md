@@ -16,6 +16,11 @@
 <br/><br/><br/>
 
 <div class="container">
+<div  style="width:100%;padding-top:64%;position:relative;border-bottom:1px solid #aaa;display:inline-block;background:#eee;background:rgba(255,255,255,0.9);"  >    <iframe frameborder="0" src="http://www.rtve.es/drmn/embed/video/2822809"            name="La Aventura del Saber. Big Bang Data. " scrolling="no" style="width:100%;height:90%;position:absolute;left:0;top:0;overflow:hidden;"  ></iframe>    <div style="position:absolute;bottom:0;left:0;font-family:arial,helvetica,sans-serif;font-size:12px;line-height:1.833;display:inline-block;padding:5px 0 5px 10px;">        <span style="float:left;margin-right:10px;"><img                style="height:20px;width:auto;background: transparent;padding:0;margin:0;"                src="http://img.irtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVEes.png"></span> <a            style="color:#333;font-weight:bold;" title="La Aventura del Saber. Big Bang Data. "            href="http://www.rtve.es/alacarta/videos/la-aventura-del-saber/aventura-del-saber-big-bang-data/2822809/"><strong>La Aventura del Saber. Big Bang Data. </strong></a></div></div>
+</div>
+<br/><br/><br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i-_g4Awyubs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
