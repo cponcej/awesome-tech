@@ -195,6 +195,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/OpenShift?src=hash">#OpenShift</a> Dedicated: Develop, host, and scale your <a href="https://twitter.com/hashtag/apps?src=hash">#apps</a> in the <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> <a href="https://t.co/jEuOTp0wX1">https://t.co/jEuOTp0wX1</a> <a href="https://t.co/lKnf6h0xIc">pic.twitter.com/lKnf6h0xIc</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/711865041822334976">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Can&#39;t believe installing <a href="https://twitter.com/hashtag/OpenShift?src=hash">#OpenShift</a> private <a href="https://twitter.com/hashtag/PaaS?src=hash">#PaaS</a> is so easy? See video how to: ~3.5 mins! <a href="https://t.co/zlRt9m0ai1">https://t.co/zlRt9m0ai1</a> <a href="https://t.co/PdoijukL2Z">pic.twitter.com/PdoijukL2Z</a></p>&mdash; Eric D. Schabell (@ericschabell) <a href="https://twitter.com/ericschabell/status/702855024460759040">25 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Red Hat OpenStack
 - [Red Hat OpenStack](redhat_openstack.md)
 

@@ -56,6 +56,11 @@
 - [slideshare: Troubleshooting Live Java Web Applications](http://www.slideshare.net/SpringCentral/puls-spring-one2gx)
 - [DZone refcard: java performance optimization 🌟🌟🌟🌟](https://dzone.com/refcardz/java-performance-optimization)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/AvZDfkHZEt7HUG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RedHatDevelopers/java-is-not-dead-bob-mcwhirter" title="Java Is Not Dead - Bob McWhirter" target="_blank">Java Is Not Dead - Bob McWhirter</a> </strong> from <strong><a href="//www.slideshare.net/RedHatDevelopers" target="_blank">Red Hat</a></strong> </div>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Found something in my cellar that seems to be aging well ;-) <a href="https://t.co/FSoZCBUntW">pic.twitter.com/FSoZCBUntW</a></p>&mdash; Mårten Mickos (@martenmickos) <a href="https://twitter.com/martenmickos/status/709086979959304192">13 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
