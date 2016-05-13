@@ -215,7 +215,7 @@
 - [Top 30 Spark Interview Questions Asked in Most Interviews 🌟](https://intellipaat.com/interview-question/apache-spark-interview-questions/)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rvDpBTV89AM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/SxAxAhn-BDU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -238,6 +238,8 @@
 ### Pentaho Data Integration and Business Analytics Platforms
 - [Pentaho](http://www.pentaho.com/)
 - [pentaho.com/marketplace](http://www.pentaho.com/marketplace)
+
+[![Mastering-Apache-Spark](images/Mastering-Apache-Spark.png)](http://www.wowebook.org/mastering-apache-spark.html)
 
 [![Big Data Analystics with Spark](images/Big-Data-Analytics-with-Spark.png)](http://www.wowebook.org/big-data-analytics-with-spark-a-practitioners-guide-to-using-spark-for-large-scale-data-analysis.html)
 
