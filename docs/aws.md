@@ -52,6 +52,7 @@
 - [AWS Support](https://aws.amazon.com/en/premiumsupport/)
 - [github.com/awslabs 🌟](https://github.com/awslabs)
 - [slideshare.net/AmazonWebServices 🌟🌟🌟](http://www.slideshare.net/AmazonWebServices)
+- [AWS 10-Minute Tutorials 🌟🌟](https://aws.amazon.com/getting-started/tutorials/)
 
 ## Awesome AWS
 - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
@@ -146,6 +147,7 @@
 - [Partitioning MySQL on RDS: "How We Partitioned Airbnb’s Main Database in Two Weeks" 🌟](https://medium.com/airbnb-engineering/how-we-partitioned-airbnb-s-main-database-in-two-weeks-55f7e006ff21)
 - [Amazon RDS for SQL Server – Support for Windows Authentication](https://aws.amazon.com/blogs/aws/amazon-rds-for-sql-server-support-for-windows-authentication/)
 - [Why Support of PostgreSQL 9.5 by Amazon RDS is Such Great News](http://blog.rubyroidlabs.com/2016/04/postgresql-9-5/)
+- [AWS Tutorials: Create and Connect to a MySQL Database with Amazon RDS 🌟🌟](https://aws.amazon.com/es/getting-started/tutorials/create-mysql-db/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">WHOA: <a href="https://twitter.com/awscloud">@awscloud</a> RDS <a href="https://twitter.com/hashtag/SQLServer?src=hash">#SQLServer</a> now supports AD accounts (Microsoft&#39;s Azure doesn&#39;t even have this yet :D) <a href="https://t.co/HMr2LdtQqZ">https://t.co/HMr2LdtQqZ</a> <a href="https://twitter.com/hashtag/ITNerdery?src=hash">#ITNerdery</a></p>&mdash; Ray Terrill (@Rayterrill) <a href="https://twitter.com/Rayterrill/status/713487240228442113">25 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
