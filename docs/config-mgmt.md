@@ -74,6 +74,26 @@
 > By default Vagrant will set up a share with your host machine automatically... /vagrant on the virtual box will be mapped to the folder containing your Vagrantfile this allows you to edit anything in this folder and the changes will be made instantly on the virtual box as well.
 - [opensource.com: Using Vagrant and Ansible to deploy virtual machines for web development 🌟](https://opensource.com/business/16/2/vagrant-ansible-virtual-machines-web-development)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/v1m86PyLZBjFTY" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MicheleOrselli/vagrant-for-real-codemotion-rome-2016" title="Vagrant for real (codemotion rome 2016)" target="_blank">Vagrant for real (codemotion rome 2016)</a> </strong> from <strong><a href="//www.slideshare.net/MicheleOrselli" target="_blank">Michele Orselli</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CrMFdpjP6F8nMJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/then4way/vagrant-fordevops" title="Vagrant For DevOps" target="_blank">Vagrant For DevOps</a> </strong> from <strong><a href="//www.slideshare.net/then4way" target="_blank">Lalatendu Mohanty</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dQFeJire0DGqwK" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CarlosPerez166/it-works-on-my-machine-vagrant-for-software-development" title="It Works On My Machine: Vagrant for Software Development" target="_blank">It Works On My Machine: Vagrant for Software Development</a> </strong> from <strong><a href="//www.slideshare.net/CarlosPerez166" target="_blank">Carlos Perez</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rVIhwjwYXc4yHn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bctmarketing/vagrant-toawsflow" title="Vagrant to-aws-flow" target="_blank">Vagrant to-aws-flow</a> </strong> from <strong><a href="//www.slideshare.net/bctmarketing" target="_blank">Kimberly Macias</a></strong> </div>
+</div>
+<br/>
+
 [![Vagrant-Virtual-Development-Environment-Cookbook](images/Vagrant-Virtual-Development-Environment-Cookbook.png)](http://www.wowebook.org/vagrant-virtual-development-environment-cookbook.html)
 
 [![Pro-Vagrant](images/Pro-Vagrant.png)](http://www.wowebook.org/pro-vagrant.html)
