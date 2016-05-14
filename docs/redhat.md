@@ -5,6 +5,7 @@
 	- [Red Hat Blogs and Forums](#red-hat-blogs-and-forums)
 	- [Red Hat Docs](#red-hat-docs)
 		- [Fedora](#fedora)
+	- [Red Hat Security](#red-hat-security)
 	- [Red Hat Insights. Modern infrastructure management](#red-hat-insights-modern-infrastructure-management)
 	- [Project Atomic](#project-atomic)
 	- [Cockpit web based server manager](#cockpit-web-based-server-manager)
@@ -103,6 +104,10 @@
 ### Fedora
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
+
+## Red Hat Security
+- [Red Hat Security Blog](https://access.redhat.com/blogs/product-security)
+- [Red Hat Security guide](https://www.redhat.com/en/technologies/guide/it-security)
 
 ## Red Hat Insights. Modern infrastructure management
 - [Red Hat Insights. Proactively manage your infrastructure with Red Hat® Insights](https://access.redhat.com/insights/info/)

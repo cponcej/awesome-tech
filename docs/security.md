@@ -86,6 +86,7 @@
 - [Sucuri Blog 🌟](https://blog.sucuri.net/)
 - [linux-audit.com 🌟🌟](http://linux-audit.com) Linux security: Auditing, Hardening and Compliance
 - [Blackmoreops.com 🌟](http://blackmoreops.com)
+- [Red Hat Security Blog 🌟](https://access.redhat.com/blogs/product-security)
 - [k4linux.com](http://www.k4linux.com) Kali Linux 2.0 tutorials Technology and News of penetration testing and security Hacking Wifi Facebook Website.
 - [net-security.org](http://www.net-security.org)
 - [livesshattack.net 🌟](https://livesshattack.net/)
