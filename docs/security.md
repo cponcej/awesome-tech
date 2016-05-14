@@ -329,7 +329,8 @@
 - [Serious 0-day Linux kernel vulnerability released. Apply fix ASAP. How To Patch and Protect Linux Kernel Zero Day Vulnerability CVE-2016-0728 (19/Jan/2016)](http://www.cyberciti.biz/faq/linux-cve-2016-0728-0-day-local-privilege-escalation-vulnerability-fix/)
 
 ### Heartbleed. April 2014
-- [Red Hat security blog: Heartbleed 🌟](https://securityblog.redhat.com/tag/heartbleed/)
+- [Heartbleed Detector 🌟](https://access.redhat.com/labsinfo/heartbleed)
+- [OpenSSL CVE-2014-0160 Heartbleed bug and Red Hat Enterprise Linux 🌟🌟](https://access.redhat.com/solutions/781793)
 - [Fixing Heartbleed with Ansible](http://www.ansible.com/blog/fixing-heartbleed-with-ansible)
 
 ### Shellshock. September 2014
