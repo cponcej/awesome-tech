@@ -116,6 +116,7 @@
 - [Are SQL Databases Dead?](http://www.iheavy.com/2013/12/30/sql-databases-dead/)
 - [Transactions: What commands aren’t allowed?](http://www.sqlservercentral.com/blogs/sqlstudies/2014/02/05/transactions-what-commands-arent-allowed/)
 - [ilearnsql.com: How Do You Join Tables Using SQL Outer Join?](http://www.ilearnsql.com/joining-tables-outer-join/)
+- [How the DBA job is evolving for future ? 🌟🌟](https://www.linkedin.com/pulse/how-dba-job-evolving-future-shiv-iyer?trk=hp-feed-article-title-comment)
 
 [![SQL Joins Visualizer](images/sql_joins_visualizer.png)](http://sql-joins.leopard.in.ua/)
 
