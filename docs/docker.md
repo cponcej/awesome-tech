@@ -133,6 +133,8 @@
 
 [![java_containerization_dzone_refcard](images/java_containerization_dzone_refcard.png)](https://dzone.com/refcardz/java-containerization)
 
+[![docker_cheat_sheet](images/docker_cheat_sheet.jpg)](http://dockerlux.github.io/pdf/cheat-sheet-v2.pdf)
+
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)
 

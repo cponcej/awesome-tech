@@ -54,6 +54,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The day Google Chrome disabled HTTP/2 for nearly everyone: May 15th, 2016<a href="https://t.co/C6YU50urdv">https://t.co/C6YU50urdv</a></p>&mdash; ma.ttias.be (@mattiasgeniar) <a href="https://twitter.com/mattiasgeniar/status/731463130698678273">14 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## WebSockets
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 - [The State of Real-Time Web in 2016](https://banksco.de/p/state-of-realtime-web-2016.html)
