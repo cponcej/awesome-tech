@@ -311,7 +311,7 @@
 
 ![passive_bullying](images/passive_bullying.jpg)
 
-[![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=I-SBRb3Y--I)
+[![the navigators](images/the_navigators.jpg)](https://www.youtube.com/watch?v=d3It0jbGVmc)
 
 [![iphones_assembled_in_china](images/iphones_assembled_in_china.png)](http://www.businessinsider.com/apple-production-trump-boycott-iphone-trump-2016-3)
 
