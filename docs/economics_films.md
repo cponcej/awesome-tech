@@ -98,12 +98,6 @@
 <a href="http://chris.web.tv/video/glengarry-glen-ross-escena-de-ventas-subtitulada-webtv__d6dyadewxhk">glengarry glen ross escena de ventas subtitulada</a>
 </p>
 
-<div class="container">
-<iframe src="https://player.vimeo.com/video/77972279" width="500" height="211" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
-<p><a href="https://vimeo.com/77972279">Glengarry Glen Ross - &quot;&Eacute;xito a cualquier precio&quot;</a> from <a href="https://vimeo.com/user3828274">Canaiman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
-<br/>
-
 ## Boiler Room
 
 <div class="container">
