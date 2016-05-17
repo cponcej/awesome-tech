@@ -295,11 +295,6 @@
 	- [Microservices stack in seconds: Node.js + Docker + NoSQL](https://www.joyent.com/blog/how-to-dockerize-a-complete-application)
 - [Medium's Stack: The Stack That Helped Medium Scale To 2.6 Millennia Of Reading Time 🌟🌟](http://stackshare.io/medium/the-stack-that-helped-medium-scale-to-2-6-millennia-of-reading-time)
 
-<div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/I6IQ_FOCE6I" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 ## Marketplaces
 ### Noodlio
 - [Noodlio, the community-driven marketplace for app development. Buy and sell themes, templates and components](https://www.noodl.io)
