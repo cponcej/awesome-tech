@@ -372,6 +372,9 @@
 
 [![trabajo_basura](images/trabajo_basura.gif)](http://trabajobasura.info/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El monstruo en que se han convertido en España las consultoras / cárnicas. Buen análisis <a href="https://twitter.com/david_bonilla">@david_bonilla</a> ! <a href="https://t.co/6SXccLJtb8">https://t.co/6SXccLJtb8</a></p>&mdash; Startup Jobs BCN (@startupjobsbcn) <a href="https://twitter.com/startupjobsbcn/status/729589515606732800">9 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Is tech turning contract work into the future of employment? <a href="https://t.co/Q1TonIo9sR">https://t.co/Q1TonIo9sR</a> by <a href="https://twitter.com/hope_reese">@Hope_Reese</a> <a href="https://t.co/t1EreileS3">pic.twitter.com/t1EreileS3</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/711968147214041088">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![fight club](images/fight_club.gif)

@@ -306,6 +306,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Beginner’s Guide to Installing Node.js on a Raspberry Pi <a href="https://t.co/0Iudv0B4Da">https://t.co/0Iudv0B4Da</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707749142177517568">marzo 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A moment of nostalgia...<br> <a href="https://t.co/Sgt0OsCZ4S">https://t.co/Sgt0OsCZ4S</a> <a href="https://t.co/nEEsV4kCmI">pic.twitter.com/nEEsV4kCmI</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/730111283400478720">10 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Frontend Blogs
 - [webcodegeeks.com](http://www.webcodegeeks.com)
 - [DZone/Web Dev](https://dzone.com/web-development-programming-tutorials-tools-news)
