@@ -27,6 +27,21 @@
 - [adictosaltrabajo.com: Introducción a Kibana](http://www.adictosaltrabajo.com/tutoriales/introduccion-a-kibana/)
 - [How to deploy Elasticsearch with Docker in 10 steps 🌟](How to deploy Elasticsearch with Docker in 10 steps)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3m0jKygAqU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kqs7UcCJquM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ge8uHdmtb1M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
 # Syslog ng
 - [syslog-ng: Open Source log management solution with over a million users worldwide 🌟](https://syslog-ng.org/)
 - [syslog-ng.org: Introduction to disk-based buffering in syslog-ng Open Source Edition 🌟🌟](https://syslog-ng.org/493-2/)
