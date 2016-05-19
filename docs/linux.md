@@ -278,6 +278,7 @@
 - [cyberciti.biz: How To Avoid Sudden Outburst Of Backup Shell Script or Program Disk I/O on Linux](http://www.cyberciti.biz/tips/linux-set-io-scheduling-class-priority.html)
 - [luckybackup.sourceforge.net: is an application for data back-up and synchronization powered by the rsync tool](http://luckybackup.sourceforge.net/)
 - [Debian/Ubuntu Linux Install and Configure Remote Filesystem Snapshot with rsnapshot Incremental Backup Utility](http://www.cyberciti.biz/faq/linux-rsnapshot-backup-howto/)
+- [Rsnapshot (Rsync Based) – A Local/Remote File System Backup Utility for Linux 🌟](http://www.tecmint.com/rsnapshot-a-file-system-backup-utility-for-linux/)
 - [15 Useful Linux and Unix Tape Managements Commands For Sysadmins](http://www.cyberciti.biz/hardware/unix-linux-basic-tape-management-commands/)
 - [cyberciti.biz: Backup & restore a partition table (including GPT) on Linux in case table get corrupted/modified/deleted by mistake](http://www.cyberciti.biz/faq/linux-backup-restore-a-partition-table-with-sfdisk-command/)
 - [Book Review: Tarsnap Mastery Online Backup For the Truly Paranoid](http://www.cyberciti.biz/cloud-computing/book-review-tarsnap-mastery-online-backup-for-the-truly-paranoid/)
@@ -435,7 +436,8 @@
 - [How To Stress Test CPU and Memory (VM) On a Linux and Unix With Stress-ng](http://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
 	- [Forcing out kernel bugs with stress-ng](http://smackerelofopinion.blogspot.co.uk/2016/01/forcing-out-bugs-with-stress-ng.html)
 - [Julia Evans: How CPU load averages work (and using them to triage webserver performance!)](http://jvns.ca/blog/2016/02/07/cpu-load-averages/)
-- [Julia Evans - perf top: an awesome way to spu on CPU usage](http://jvns.ca/blog/2016/02/24/perf-top-my-new-best-friend/)
+- [Julia Evans - perf top: an awesome way to spu on CPU usage 🌟](http://jvns.ca/blog/2016/02/24/perf-top-my-new-best-friend/)
+- [Perf- A Performance Monitoring and Analysis Tool for Linux 🌟](http://www.tecmint.com/perf-performance-monitoring-and-analysis-tool-for-linux/)
 - [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
 - [linuxjournal.com: Examining Load Average](http://www.linuxjournal.com/article/9001?page=0,1) A practical interpretation of Linux's load averages but also illuminates some of the dark mathematical shadows behind them 
 - [The many load averages of Unix(es)](https://utcc.utoronto.ca/~cks/space/blog/unix/ManyLoadAveragesOfUnix)
@@ -443,6 +445,9 @@
 - [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
 - [nixCraft: Linux: Check Ram Speed and Type](http://www.cyberciti.biz/faq/check-ram-speed-linux/)
 - [tecmint_monitor.sh: A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM Usage in Linux 🌟🌟🌟](http://www.tecmint.com/linux-server-health-monitoring-script/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Perf- A Performance Monitoring and Analysis Tool for Linux<a href="https://t.co/dc4kzOHWEV">https://t.co/dc4kzOHWEV</a> <br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/sYi1KhAmr3">pic.twitter.com/sYi1KhAmr3</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/733207445317648384">19 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### htop
 - [htop - an interactive process viewer for Unix](http://hisham.hm/htop/)
