@@ -57,6 +57,7 @@
 <br/>
 
 ## Internet speed. Test de velocidad
+- [fast.com](https://fast.com)
 - [speedtest.net](http://www.speedtest.net)
 - [dslreports.com/speedtest](https://www.dslreports.com/speedtest)
 - [website-speedtest.com](http://www.website-speedtest.com)
@@ -68,6 +69,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Check out my <a href="https://twitter.com/Ookla">@Ookla</a> Speedtest result! What&#39;s your speed? <a href="https://t.co/gDhttuUPA1">https://t.co/gDhttuUPA1</a> <a href="https://twitter.com/hashtag/speedtest?src=hash">#speedtest</a></p>&mdash; ThePrussianPrince (@PrussianPrince1) <a href="https://twitter.com/PrussianPrince1/status/696671216808153088">febrero 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Awesome site from <a href="https://twitter.com/netflix">@netflix</a> to show you how fast your internet connection is <a href="https://t.co/BcTNRXV7fJ">https://t.co/BcTNRXV7fJ</a> 👍<a href="https://twitter.com/hashtag/html5?src=hash">#html5</a> ready 😀 <a href="https://t.co/DtkIBrLb0U">pic.twitter.com/DtkIBrLb0U</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/733001877269282816">18 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Excel
 - [Learning Excel isn't just for finance professionals, it can boost anyone's productivity at work — here’s how](http://www.businessinsider.com/master-microsoft-excel-basics-beginner-online-course-udemy-deal-2016-2)
