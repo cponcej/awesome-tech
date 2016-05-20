@@ -28,6 +28,8 @@
 - [reddit: VLAN iSCSI networks](https://www.reddit.com/r/networking/comments/36evvc/vlan_iscsi_networks/)
 - [reddit: Does a Trunk Port have to part of a VLAN?](https://www.reddit.com/r/networking/comments/3h8iwm/does_a_trunk_port_have_to_part_of_a_vlan/)
 
+<blockquote class="reddit-card" data-card-created="1463759247"><a href="https://www.reddit.com/r/sysadmin/comments/22fwl9/to_vlan_or_not_to_vlan/?ref=share&ref_source=embed">To VLAN or not to VLAN?</a> from <a href="http://www.reddit.com/r/sysadmin">sysadmin</a></blockquote><script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
+
 ## VLAN slides
 
 <div class="container">
