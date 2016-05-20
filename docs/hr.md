@@ -161,6 +161,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We do not and never have tolerated harassment. <a href="https://twitter.com/docker">@Docker</a> actively pursues all internal &amp; external claims of harassment <a href="https://t.co/OtyKXmHJhU">pic.twitter.com/OtyKXmHJhU</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/723599791763001344">22 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 Reasons Why People Hate Project Managers <a href="https://t.co/svbzbmXJK7">https://t.co/svbzbmXJK7</a> via <a href="https://twitter.com/alevit">@alevit</a> <a href="https://t.co/2KNAAeFaYV">pic.twitter.com/2KNAAeFaYV</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/733313750917349376">19 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Code of conduct
 - [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 - [Bad Employee Handbook Policies Sure to Land You in Court](http://www.mjms.net/blog/bad-employee-handbook-policies-sure-to-land-you-in-court/) What's overwhelming? Creating an employee handbook while avoiding common policy mistakes.

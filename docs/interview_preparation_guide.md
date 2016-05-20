@@ -92,6 +92,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We can stop here<br> <a href="https://t.co/Jgtn694sZo">https://t.co/Jgtn694sZo</a> <a href="https://t.co/zzTFfRedEG">pic.twitter.com/zzTFfRedEG</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/725398686486945792">27 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to answer dumb job interview questions in Silicon Valley <a href="https://t.co/5q4WFLRBnH">https://t.co/5q4WFLRBnH</a> <a href="https://t.co/ROOXCIHBnb">pic.twitter.com/ROOXCIHBnb</a></p>&mdash; Forbes Tech News (@ForbesTech) <a href="https://twitter.com/ForbesTech/status/733391780385853440">19 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![focus on behavior](images/focus_on_behavior.png)](https://opensource.com/business/16/3/highly-effective-interviewing-technique)
 
 [![dos_entrevistadores.png](images/dos_entrevistadores.png)](http://www.mejorartucv.com/situaciones-en-las-entrevistas-de-trabajo-que-incomodan/)
