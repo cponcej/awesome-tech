@@ -41,8 +41,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El plan B: el primer paso para dejar un trabajo frustrante <a href="https://t.co/GnhEuUlbSd">https://t.co/GnhEuUlbSd</a></p>&mdash; Álvaro López (@Autorrealizarte) <a href="https://twitter.com/Autorrealizarte/status/714455041671892992">28 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">10 signos que indican que no estás hecho para ser programador <a href="https://t.co/24QDvGC8d4">https://t.co/24QDvGC8d4</a></p>&mdash; visualms (@visualms) <a href="https://twitter.com/visualms/status/732904175173001217">18 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jLfmBSJkFxo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

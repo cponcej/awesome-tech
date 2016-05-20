@@ -55,6 +55,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which Career to Choose: Programmer Vs Administrator <a href="http://t.co/JWYZS7mfjz">http://t.co/JWYZS7mfjz</a> via <a href="https://twitter.com/tecmint">@tecmint</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/472604266905886720">31 de mayo de 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">10 signos que indican que no estás hecho para ser programador <a href="https://t.co/24QDvGC8d4">https://t.co/24QDvGC8d4</a></p>&mdash; visualms (@visualms) <a href="https://twitter.com/visualms/status/732904175173001217">18 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A good programmer can get more done than 10 bad programmers, but a bad programmer&#39;s code can keep 10 good programmers busy for years.</p>&mdash; Ed Weissman (@edw519) <a href="https://twitter.com/edw519/status/463675238673170432">mayo 6, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
