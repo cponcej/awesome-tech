@@ -368,9 +368,8 @@
 [![hp mini pc](images/hp_mini.jpg)](http://store.hp.com/webapp/wcs/stores/servlet/ContentView%3FstoreId%3D10151%26eSpotName%3DHPPavilionMini)
 
 # This is my desk at Red Hat
-- [reddit: This is my desk at Red Hat!](https://www.reddit.com/r/redhat/comments/45na8c/this_is_my_desk_at_red_hat/)
 
-[![This is my desk at Red Hat! Source](images/redhat_desk.jpg)](https://www.reddit.com/r/redhat/comments/45na8c/this_is_my_desk_at_red_hat/)
+<blockquote class="reddit-card" data-card-created="1463824484"><a href="https://www.reddit.com/r/redhat/comments/45na8c/this_is_my_desk_at_red_hat/?ref=share&ref_source=embed">This is my desk at Red Hat!</a> from <a href="http://www.reddit.com/r/redhat">redhat</a></blockquote><script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Typical fan boys <a href="https://twitter.com/hashtag/Unix?src=hash">#Unix</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/OSX?src=hash">#OSX</a> <a href="https://twitter.com/hashtag/Windows?src=hash">#Windows</a> <a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> <a href="https://t.co/HMjvzt7M9Y">pic.twitter.com/HMjvzt7M9Y</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709075311497912324">13 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
