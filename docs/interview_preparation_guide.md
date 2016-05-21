@@ -243,6 +243,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;where do you see yourself in 10 years&quot; <a href="https://t.co/1kvTgTHvKX">pic.twitter.com/1kvTgTHvKX</a></p>&mdash; Sam Ruble (@Cookies) <a href="https://twitter.com/Cookies/status/711968330479968256">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Resumes are overrated for startup hiring <a href="https://t.co/TTr4bO4dJH">https://t.co/TTr4bO4dJH</a> <a href="https://t.co/Q1tnSyw9LC">pic.twitter.com/Q1tnSyw9LC</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/733769254928064517">20 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-JBvfZTx-vs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

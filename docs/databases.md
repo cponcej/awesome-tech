@@ -126,6 +126,7 @@
 - [sqlperformance.com: Sneaky behaviours and isolation guarantees in the SNAPSHOT isolation level](http://sqlperformance.com/2014/06/sql-performance/the-snapshot-isolation-level)
 	- [sqlperformance.com: Tuning : A Good Place to Start](http://sqlperformance.com/2016/01/io-subsystem/tuning-a-good-place-to-start) Tim Radney of SQLskills gives an overview of his approach to SQL Server performance tuning, from system configuration, to I/O latency, to high cost queries.
 - [Faster SQL Paging with jOOQ Using the Seek Method](http://blog.jooq.org/2013/10/26/faster-sql-paging-with-jooq-using-the-seek-method/)
+- [Parameterized Queries. Not using SQL bind parameters is like recompiling your program for each request](http://use-the-index-luke.com/sql/where-clause/bind-parameters)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">MySQL—MariaDB—PostgreSQL Benchamarks<a href="https://t.co/ahTMtGf3JV">https://t.co/ahTMtGf3JV</a><br><br>MySQL/MariaDB are slightly faster at writing<br>PostgreSQL is faster at reading</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/699133157463998464">febrero 15, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -133,6 +134,8 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Performance since PostgreSQL 7.4 (TPC-DS benchmark)<a href="https://t.co/sfD8GuSvEN">https://t.co/sfD8GuSvEN</a><br><br>It&#39;s almost 5 times faster now.</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/711549355556208640">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Not using SQL bind parameters is like recompiling your program for each request. <a href="https://t.co/b1zkJdXTUf">https://t.co/b1zkJdXTUf</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/733805177124315136">20 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Database Security
 - [SQL Server Security Checklist](https://www.mssqltips.com/sqlservertip/3159/sql-server-security-checklist/)
