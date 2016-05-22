@@ -80,6 +80,11 @@
 - [Server Density, The Server Monitoring SaaS, Raises $1.5M For Further U.S. Expansion](http://techcrunch.com/2015/12/10/server-density/)
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9a1kop6u7RqfqS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully" title="Stop using Nagios (so it can die peacefully)" target="_blank">Stop using Nagios (so it can die peacefully)</a> </strong> from <strong><a href="//www.slideshare.net/superdupersheep" target="_blank">Andy Sykes</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3fqzFJxvNtcpmL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/postwait/devops-monitoring" title="Monitoring the #DevOps way" target="_blank">Monitoring the #DevOps way</a> </strong> from <strong><a href="//www.slideshare.net/postwait" target="_blank">Theo Schlossnagle</a></strong> </div>
 </div>
 <br/>
