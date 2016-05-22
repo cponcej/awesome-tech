@@ -67,6 +67,7 @@
 - [StatsD: Simple daemon for easy stats aggregation](https://github.com/etsy/statsd/)
 	- [github.com: An addon for Eve. Eve-Statsd automatically monitors active domains/resources, sending "Hit Counters" and "Timers" to your statsd instance](https://github.com/tarzan0820/eve-statsd)
 - [munin monitoring](http://munin-monitoring.org/)
+- [flapjack.io 🌟](http://flapjack.io)
 - [OMD - The Open Monitoring Distribution](http://omdistro.org/)
 - [Anemometer: MySQL Slow Query Monitor 🌟](http://olindata.com/blog/2014/07/anemometer-mysql-slow-query-monitor)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)
