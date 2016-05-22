@@ -222,7 +222,19 @@
 <br/>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/i6FErlkp9BW3Eg" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/databricks/2016-spark-summit-east-keynote-matei-zaharia" title="2016 Spark Summit East Keynote: Matei Zaharia" target="_blank">2016 Spark Summit East Keynote: Matei Zaharia</a> </strong> from <strong><a href="//www.slideshare.net/databricks" target="_blank">Databricks</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3cLVU92uuyRgsY" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/aws-april-2016-webinar-series-best-practices-for-apache-spark-on-aws" title="AWS April 2016 Webinar Series - Best Practices for Apache Spark on AWS" target="_blank">AWS April 2016 Webinar Series - Best Practices for Apache Spark on AWS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6w1YDpWgu5J35g" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AnyaBida/bida-sse2016final-58237248" title="Spark Tuning For Enterprise System Administrators, Spark Summit East 2016" target="_blank">Spark Tuning For Enterprise System Administrators, Spark Summit East 2016</a> </strong> from <strong><a href="//www.slideshare.net/AnyaBida" target="_blank">Anya Bida</a></strong> </div>
+</div>
+<br/>
+
+[![spark_tuning](images/spark_tuning.png)](http://techsuppdiva.github.io/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ieavopd54RBwfC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SparkSummit/structuring-spark-dataframes-datasets-and-streaming-by-michael-armbrust" title="Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust" target="_blank">Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust</a> </strong> from <strong><a href="//www.slideshare.net/SparkSummit" target="_blank">Spark Summit</a></strong> </div>
 </div>
 <br/>
 
