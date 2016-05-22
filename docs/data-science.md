@@ -216,6 +216,8 @@
 
 [![spark_refcard](images/spark_refcard.png)](https://dzone.com/refcardz/apache-spark)
 
+[![spark_summit](images/spark_summit.png)](http://www.slideshare.net/SparkSummit)
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/SxAxAhn-BDU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
