@@ -286,6 +286,11 @@
 - [Arista + Ansible: A Dramatically Simple New Approach](https://eos.arista.com/arista-ansible-a-dramatically-simple-new-approach/)
 - [ansible.com: Ansible network technology preview](https://www.ansible.com/blog/ansible-network-technology-preview)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tRSqi7lJXVdxIk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fmaccioni/managing-your-cisco-datacenter-network-with-ansible" title="Managing Your Cisco Datacenter Network with Ansible" target="_blank">Managing Your Cisco Datacenter Network with Ansible</a> </strong> from <strong><a href="//www.slideshare.net/fmaccioni" target="_blank">fmaccioni</a></strong> </div>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">. <a href="https://twitter.com/redhat">@RedHat</a> <a href="https://twitter.com/ansible">@Ansible</a> applies its IT automation capabilities to the network <a href="https://t.co/pjHwvSjlKx">https://t.co/pjHwvSjlKx</a></p>&mdash; The New Stack (@thenewstack) <a href="https://twitter.com/thenewstack/status/700391369190338560">febrero 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
