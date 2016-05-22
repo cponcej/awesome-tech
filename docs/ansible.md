@@ -195,6 +195,16 @@
 <br/>
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/HofbqgXF0oipVi" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/robertreiz/ansible-40167296" title="Ansible Introduction " target="_blank">Ansible Introduction </a> </strong> from <strong><a href="//www.slideshare.net/robertreiz" target="_blank">Robert Reiz</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/K0DZGZ81lLFtHX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bcoca/ansible-config-mgmt" title="Ansible - Swiss Army Knife Orchestration" target="_blank">Ansible - Swiss Army Knife Orchestration</a> </strong> from <strong><a href="//www.slideshare.net/bcoca" target="_blank">bcoca</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/CXR2OWdtMbxWRQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pas256/how-ansible-makes-automation-easy" title="How Ansible Makes Automation Easy" target="_blank">How Ansible Makes Automation Easy</a> </strong> from <strong><a href="//www.slideshare.net/pas256" target="_blank">Peter Sankauskas</a></strong> </div>
 </div>
 <br/>
