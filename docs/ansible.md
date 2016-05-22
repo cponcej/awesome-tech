@@ -194,6 +194,16 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1NSH2jKhByugHv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jhawkesworth/ansible-20-windows-and-no-powershell-this-year-i-promise-ansiblefest-london-2016" title="Ansible 2.0, Windows (and no Powershell this year I promise) - AnsibleFest London 2016" target="_blank">Ansible 2.0, Windows (and no Powershell this year I promise) - AnsibleFest London 2016</a> </strong> from <strong><a href="//www.slideshare.net/jhawkesworth" target="_blank">jhawkesworth</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wNLzvkpAbLrSuZ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IdanTohami/ansible-20-how-to-use-ansible-to-automate-your-applications-in-aws" title="Ansible 2.0 - How to use Ansible to automate your applications in AWS." target="_blank">Ansible 2.0 - How to use Ansible to automate your applications in AWS.</a> </strong> from <strong><a href="//www.slideshare.net/IdanTohami" target="_blank">Idan Tohami</a></strong> </div>
+</div>
+<br/>
+
 ## Apache via Ansible
 - [middlewaresnippets.blogspot.com - Ansible the Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/08/ansible-apache-http-server.html)
 

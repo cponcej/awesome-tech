@@ -29,6 +29,21 @@
 - [josemariagonzalez.es: Virtualización & Cloud Computing](http://www.josemariagonzalez.es/)
 - [maquinasvirtuales.eu: Blog VMware en español](http://www.maquinasvirtuales.eu/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/zpwwqkofwiFrk5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/muk_ua/vswn6-m08-avalabilityenhancements" title="VMware vSphere: What&#x27;s New [V5.5 to V6] – защита и перенос «виртуалок»: Fault Tolerance и vMotion" target="_blank">VMware vSphere: What&#x27;s New [V5.5 to V6] – защита и перенос «виртуалок»: Fault Tolerance и vMotion</a> </strong> from <strong><a href="//www.slideshare.net/muk_ua" target="_blank">MUK</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KjH2lphv5YfejW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RafiRahimov/vmware-vsphere-install-configure-manage-rafi-rahimov" title="VMware vSphere: Install, Configure, Manage" target="_blank">VMware vSphere: Install, Configure, Manage</a> </strong> from <strong><a href="//www.slideshare.net/RafiRahimov" target="_blank">Rafi Rahimov</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/f41f6L1JNBt8Gw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NetWize/v-mware-v-sphere-6-presentation" title="What&#x27;s New with VMware vSphere 6.0" target="_blank">What&#x27;s New with VMware vSphere 6.0</a> </strong> from <strong><a href="//www.slideshare.net/NetWize" target="_blank">NetWize</a></strong> </div>
+</div>
+<br/>
+
 [![Mastering VMware vSphere storage](images/Mastering-VMware-vSphere-Storage.png)](http://www.wowebook.org/mastering-vmware-vsphere-storage.html)
 
 [![VMware vCenter Cookbook](images/VMware-vCenter-Cookbook.png)](http://www.wowebook.org/vmware-vcenter-cookbook.html)
