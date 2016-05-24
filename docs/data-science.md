@@ -35,6 +35,8 @@
 
 [![data_scientist_for_free](images/data_scientist_for_free.png)](http://www.businessinsider.com/databricks-ceo-offering-free-big-data-training-2016-3)
 
+![big_data_landscape](images/big_data_landscape.png)
+
 [![modern_data_scientist](images/modern_data_scientist.png)](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/)
 
 # Data Science and Big Data
