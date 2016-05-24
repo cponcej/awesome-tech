@@ -107,6 +107,7 @@
 - [peerlyst](https://www.peerlyst.com/) Professional Community platform for Information Security
 - [Network Security - NetSecNow ](http://learnnetsec.blogspot.com.es)
 	- [NetSecNow on Youtube](https://www.youtube.com/user/NetSecNow)
+- [hacking-etico.com](http://hacking-etico.com)
 
 [![NetSecNow](images/NetSecNow.jpg)](https://www.youtube.com/user/NetSecNow)
 

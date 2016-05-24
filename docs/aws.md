@@ -27,6 +27,7 @@
     - [AWS Lambda](#aws-lambda)
     - [AWS Cloud Formation](#aws-cloud-formation)
     - [AWS Security](#aws-security)
+        - [Payment Card Industry Data Security Standard compliance](#payment-card-industry-data-security-standard-compliance)
     - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
     - [AWS S3](#aws-s3)
     - [AWS Backup and Recovery](#aws-backup-and-recovery)
@@ -329,6 +330,9 @@
 - [How to Record and Govern Your IAM Resource Configurations Using AWS Config](http://blogs.aws.amazon.com/security/post/Tx14ADBJOCAT9NS/How-to-Record-and-Govern-Your-IAM-Resource-Configurations-Using-AWS-Config)
 - [Amazon’s customer service backdoor](https://medium.com/@espringe/amazon-s-customer-service-backdoor-be375b3428c4#.qyixu5mu3)
 - [Announcing Industry Best Practices for Securing AWS Resources 🌟🌟](http://blogs.aws.amazon.com/security/post/Tx3PTTZB14FWPBA/Announcing-Industry-Best-Practices-for-Securing-AWS-Resources)
+
+### Payment Card Industry Data Security Standard compliance
+- [PCI DSS Standardized Architecture on the AWS Cloud: Quick Start Reference Deployment 🌟](https://aws.amazon.com/about-aws/whats-new/2016/05/pci-dss-standardized-architecture-on-the-aws-cloud-quick-start-reference-deployment/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rvcHnJPBQMA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
