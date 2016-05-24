@@ -492,4 +492,9 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3aatEBIZHNU?list=PL_h5o0KnrCrh7XlNufX-zl1sFZAW55gVf" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![europe silicon valley](images/europe_silicon_valley.png)](http://www.startupheatmap.eu/)
