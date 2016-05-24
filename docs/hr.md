@@ -132,6 +132,8 @@
 
 [![bi_7characteristics_laziest_employees](images/bi_7characteristics_laziest_employees.png)](http://www.businessinsider.com/common-characteristics-of-the-laziest-employees-2016-4)
 
+[![soft_skills](images/soft_skills.png)](https://www.linkedin.com/pulse/who-you-calling-soft-value-skills-tech-obsessed-economy-dennis-yang)
+
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/F1VaultVideo?src=hash">#F1VaultVideo</a> - Part 2 of <a href="https://twitter.com/hashtag/Schumacher?src=hash">#Schumacher</a> vs <a href="https://twitter.com/hashtag/Coulthard?src=hash">#Coulthard</a>. Who was in the wrong? <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/f2x6QujJ2n">pic.twitter.com/f2x6QujJ2n</a></p>&mdash; F1 Fanzone (@F1FanzoneMag) <a href="https://twitter.com/F1FanzoneMag/status/705857928595636224">March 4, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
