@@ -74,6 +74,11 @@
 </div>
 <br>
 
+<div class="container">
+<iframe src='//players.brightcove.net/1352575774/dd8fb2f1-e284-4dfb-99b1-bc0b1171a8ca_default/index.html?videoId=4842094814001' allowfullscreen frameborder=0 class="video"></iframe>
+</div>
+<br>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
