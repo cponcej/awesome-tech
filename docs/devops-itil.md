@@ -400,6 +400,6 @@
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/xDkuiVdNEGDOxRYqLpY3lA/136666346908" data-did="c39122a2d7c639452367c5efd23db417645d9da8"><a href="http://devops-testing.tumblr.com/post/136666346908/software-testing-the-devops-strategy">http://devops-testing.tumblr.com/post/136666346908/software-testing-the-devops-strategy</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_2BqiipGKNA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/iTZyudLLJSU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
