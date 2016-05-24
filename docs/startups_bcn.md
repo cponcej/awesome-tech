@@ -321,3 +321,13 @@ para universitarios y titulados júnior
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Know how to improve your <a href="https://twitter.com/hashtag/marketing?src=hash">#marketing</a> strategies? At <a href="https://twitter.com/hashtag/eShowBCN16?src=hash">#eShowBCN16</a> we&#39;ll show you how! <a href="https://twitter.com/hashtag/digitalsignage?src=hash">#digitalsignage</a> <a href="https://twitter.com/hashtag/videoanalytics?src=hash">#videoanalytics</a> <a href="https://t.co/JA2ZAP1oJT">pic.twitter.com/JA2ZAP1oJT</a></p>&mdash; Beabloo (@beabloo) <a href="https://twitter.com/beabloo/status/710448600464171009">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">José Cerdán <a href="https://t.co/j2F1jfpwAw">https://t.co/j2F1jfpwAw</a> “Se pronostica un crecimiento de los servicios cloud de en torno al 40%” <a href="https://t.co/iT7aLhCFpg">pic.twitter.com/iT7aLhCFpg</a></p>&mdash; acens (@acens) <a href="https://twitter.com/acens/status/705309926952996864">3 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMirNPNM7ZA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oD7Qv8Hwowk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
