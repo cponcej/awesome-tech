@@ -29,8 +29,7 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="http://t.co/y4bCU81M9H">pic.twitter.com/y4bCU81M9H</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/653631226687787009">12 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Do you understand the problem? &quot;What&#39;s the Problem?&quot; Clip from &quot;Moneyball&quot;.mov <a href="http://t.co/UJvo8IbTdj">http://t.co/UJvo8IbTdj</a></p>&mdash; John Andrews (@Katadhin) <a href="https://twitter.com/Katadhin/status/604255188367482880">29 de mayo de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Do you understand the problem? &quot;What&#39;s the Problem?&quot; Clip from &quot;Moneyball&quot;.mov <a href="http://t.co/UJvo8IbTdj">http://t.co/UJvo8IbTdj</a></p>&mdash; John Andrews (@Katadhin) <a href="https://twitter.com/Katadhin/status/604255188367482880">29 de mayo de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![purpose](images/purpose.jpg)](http://multivariablesolutions.com/strategy/purpose-why-it-matters-and-who-it-matters-to/)
 
@@ -42,6 +41,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Working in IT <a href="https://t.co/si5gm0FunB">https://t.co/si5gm0FunB</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714901664390455296">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/HarvardBiz">@HarvardBiz</a> article explores which industries are being the most disrupted by <a href="https://twitter.com/hashtag/digital?src=hash">#digital</a> <a href="https://t.co/nOIzk0IRZC">https://t.co/nOIzk0IRZC</a> <a href="https://twitter.com/hashtag/DigitalDisruption?src=hash">#DigitalDisruption</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/715148572556038144">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las cinco mayores empresas del mundo en liquidez son tecnológicas. Apple, Microsoft, Google, Cisco y Oracle poseen $ 504.000 millones</p>&mdash; Jose Grasso (@josegrasso) <a href="https://twitter.com/josegrasso/status/734086431048601600">21 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![spanish_fintech](images/spanish_fintech.jpg)](http://spanishfintech.net/)
 

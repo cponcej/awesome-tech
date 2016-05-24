@@ -9,6 +9,11 @@
 
 [![bi_learn_java](images/bi_learn_java.png)](http://www.businessinsider.com/beginner-java-coding-online-course-udemy-deal-2016-2)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Oracle v. Google, and the end of programming as we know it <a href="https://t.co/FNSwzxLd2r">https://t.co/FNSwzxLd2r</a></p>&mdash; Northbridge IT (@NorthbridgeIT) <a href="https://twitter.com/NorthbridgeIT/status/733449071483097089">20 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Oracle-Google case will decide the future of software. Closing arguments start today <a href="https://t.co/Ksa4Iq06Tx">https://t.co/Ksa4Iq06Tx</a></p>&mdash; WIRED (@WIRED) <a href="https://twitter.com/WIRED/status/734733377375481857">23 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Java
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)

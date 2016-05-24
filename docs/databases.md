@@ -367,6 +367,7 @@
 - [PostgreSQL Studio, web based postgresql development](http://www.postgresqlstudio.org/)
 - [Introduction to PostgreSQL physical storage](http://rachbelaid.com/introduction-to-postgres-physical-storage/)
 - [Differences between PostgreSQL & MySQL Server](http://www.articlesbase.com/databases-articles/differences-between-postgresql-mysql-server-7377764.html)
+- [The Internals of PostgreSQL for database administrators and system developers covering version 9.5](http://www.interdb.jp/pg/index.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Good read for anyone storing jsonb data in postgresql <a href="https://t.co/uPu1R3MuH3">https://t.co/uPu1R3MuH3</a></p>&mdash; MΛHDI (@myusuf3) <a href="https://twitter.com/myusuf3/status/699354734042296324">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -409,6 +410,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Postgres Query Plan Visualization • <a href="https://twitter.com/AlexTatiyants">@AlexTatiyants</a><a href="https://t.co/Iuowk0u3rh">https://t.co/Iuowk0u3rh</a><br><br>Looks very promising! <a href="https://t.co/OeEhqQjS47">pic.twitter.com/OeEhqQjS47</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/691217946224541696">enero 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Internals of PostgreSQL<br>for database administrators and system developers<br>covering version 9.5<a href="https://t.co/nP5SzIM5gC">https://t.co/nP5SzIM5gC</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/734029500254715904">21 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## SQLite
 - [Five reasons you should use SQLite in 2016](http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/)

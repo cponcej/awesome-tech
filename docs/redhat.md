@@ -51,6 +51,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Quite excited about this | Red Hat will give away its Linux distro for free to developers <a href="https://twitter.com/hashtag/oss?src=hash">#oss</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://t.co/AKgCIx7CJ1">https://t.co/AKgCIx7CJ1</a></p>&mdash; Scott McCarty (@fatherlinux) <a href="https://twitter.com/fatherlinux/status/715850749318733826">1 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/Telefonica">@Telefonica</a> and .<a href="https://twitter.com/RedHatNews">@RedHatNews</a> sign a global agreement to help companies mobilise business <a href="https://t.co/XNQiOjdIKK">https://t.co/XNQiOjdIKK</a> <a href="https://t.co/kff4IRZYVq">pic.twitter.com/kff4IRZYVq</a></p>&mdash; LogisticsIT Magazine (@LogisticsIT) <a href="https://twitter.com/LogisticsIT/status/733719223726419969">20 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![no-cost_rhel_developer](images/no-cost_rhel_developer.png)](http://developers.redhat.com/blog/2016/03/31/no-cost-rhel-developer-subscription-now-available/)
 
 <div class="container">
@@ -169,7 +171,13 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Red?src=hash">#Red</a> Hat Enterprise <a href="https://twitter.com/hashtag/Virtualization?src=hash">#Virtualization</a> 3.6 has new tools to ease <a href="https://twitter.com/hashtag/VMware?src=hash">#VMware</a> <a href="https://twitter.com/hashtag/vSphere?src=hash">#vSphere</a> migrations <a href="https://t.co/fkZTQHqnf9">https://t.co/fkZTQHqnf9</a> <a href="https://t.co/Vf8YW4kyu9">pic.twitter.com/Vf8YW4kyu9</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/707706032378634240">marzo 9, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr"><a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> containers vs. <a href="https://twitter.com/hashtag/VMs?src=hash">#VMs</a>: A <a href="https://twitter.com/hashtag/security?src=hash">#security</a> comparison <a href="https://t.co/tp76nVqfKY">https://t.co/tp76nVqfKY</a> via <a href="https://twitter.com/infoworld">@infoworld</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/734785211674697728">23 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to detect execution in a virtualized environment on Linux?<br><br>systemd-detect-virt<br><br>OR<br><br>dmidecode -s system-manufacturer<a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714602201222524928">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A lot of good work happening in the <a href="https://twitter.com/hashtag/ovirt?src=hash">#ovirt</a>, <a href="https://twitter.com/hashtag/fedora?src=hash">#fedora</a> and <a href="https://twitter.com/hashtag/rhel?src=hash">#rhel</a> communities. <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://t.co/Ks5ENiCb4S">https://t.co/Ks5ENiCb4S</a></p>&mdash; Scott McCarty (@fatherlinux) <a href="https://twitter.com/fatherlinux/status/734727633871724544">23 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![zdnet_rhel_kvm_36](images/zdnet_rhel_kvm_36.png)](http://www.zdnet.com/article/red-hat-updates-kvm-virtualizaiton-program/)
 

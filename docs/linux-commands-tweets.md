@@ -159,3 +159,10 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">find */ | cut -d/ -f1 | uniq -c # Print how many files are inside each directory under the current one.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/725337585346875394">27 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">find . -xdev -type f -mtime +$((365*7)) -print0|xargs -0 du -bsc|awk &#39;/\ttotal$/{s+=$0}END{print s}&#39; # Total bytes of files older than ~7 yr</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/734763746866892800">23 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"># long listing of files older than Jan 1, 2014:<br>$ find . -not -newerct &#39;jan 1 2014&#39; -exec ls -l {} \;</p>&mdash; Unix-Ninja (@unix_ninja) <a href="https://twitter.com/unix_ninja/status/733390802945216512">19 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Have you ever used the /etc/gshadow file (group passwords, note the &#39;g&#39;)?</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/734835165906776064">23 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

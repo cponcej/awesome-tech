@@ -56,6 +56,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Mattermost is an open source, self-hosted Slack alternative <a href="https://t.co/NX2MKU3RAG">https://t.co/NX2MKU3RAG</a> <a href="https://t.co/EYiVOIjH3Q">pic.twitter.com/EYiVOIjH3Q</a></p>&mdash; Alexander Zeitler (@alexzeitler_) <a href="https://twitter.com/alexzeitler_/status/734272525925023744">22 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Internet speed. Test de velocidad
 - [fast.com](https://fast.com)
 - [speedtest.net](http://www.speedtest.net)
@@ -188,6 +191,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">On the job hunt this weekend? Organize applications &amp; interviews in Trello <a href="https://t.co/HAotII6v6J">https://t.co/HAotII6v6J</a> <a href="https://t.co/rj93N8KPL2">pic.twitter.com/rj93N8KPL2</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/701073876701175808">febrero 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 open source alternatives to Trello <a href="https://t.co/hRxWcRLuSM">https://t.co/hRxWcRLuSM</a> via <a href="https://twitter.com/opensourceway">@opensourceway</a> <a href="https://t.co/IWXy4FVasv">pic.twitter.com/IWXy4FVasv</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/734912845557665792">24 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Outlook

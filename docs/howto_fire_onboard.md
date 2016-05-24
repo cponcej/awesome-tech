@@ -12,6 +12,8 @@
 
 [![6reasons_best_employees_looking_for_new_jobs](images/6reasons_best_employees_looking_for_new_jobs.png)](http://www.businessinsider.com/6-reasons-your-best-employees-are-secretly-looking-for-new-jobs-2016-3)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Sometimes bad things happen in life. See a big bird hitting a KLM Boeing 747 during landing. <br>cc <a href="https://twitter.com/MarkRWheeler2">@MarkRWheeler2</a> <a href="https://t.co/7rMvuiJpMJ">pic.twitter.com/7rMvuiJpMJ</a></p>&mdash; Airplane Pictures ✈️ (@iLove_Aviation) <a href="https://twitter.com/iLove_Aviation/status/734022548980011008">21 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # How to Fire and Onboard Employees
 ## How to Fire
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
