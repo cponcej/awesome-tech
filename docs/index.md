@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-Available for work (no freelance). Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know.
+Available for work (no freelance). Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know. 
 </p>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
@@ -88,6 +88,11 @@ Available for work (no freelance). Looking for new opportunities across Northern
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Technology is anything invented after you were born. - Alan Kay</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/711841287792504833">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![voltaire change others](images/voltaire_change_other.jpg)](http://statusmind.com/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3aatEBIZHNU?list=PL_h5o0KnrCrh7XlNufX-zl1sFZAW55gVf" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
