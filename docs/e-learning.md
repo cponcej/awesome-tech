@@ -14,6 +14,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/DrHouse?src=hash">#DrHouse</a> atiende a mujer con asma: <a href="http://t.co/IwNjEizN">http://t.co/IwNjEizN</a> vía <a href="https://twitter.com/YouTube">@youtube</a></p>&mdash; María José.✌ (@MajoRamosR) <a href="https://twitter.com/MajoRamosR/status/294219139717922816">23 de enero de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![mejores_universidades_informatica](images/mejores_universidades_informatica.png)
+
 # E-Learning
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
 - [ycombinator.com: What's the best way to train/onboard new programmers?](https://news.ycombinator.com/item?id=10890032)
