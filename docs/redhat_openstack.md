@@ -8,6 +8,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">DreamHost replaces VMware SDN with open source for big savings <a href="https://t.co/vdejAMrfuY">https://t.co/vdejAMrfuY</a></p>&mdash; RDO (@RDOcommunity) <a href="https://twitter.com/RDOcommunity/status/711948062076358656">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Excited to drive digital transformation at global bank <a href="https://twitter.com/bbva">@bbva</a> with <a href="https://twitter.com/RedHatNews">@RedHatNews</a> Iaas <a href="https://twitter.com/OpenStack">@OpenStack</a> and paas <a href="https://twitter.com/openshift">@openshift</a> <a href="https://t.co/XbLnpsWRF2">https://t.co/XbLnpsWRF2</a></p>&mdash; Ashesh Badani (@asheshbadani) <a href="https://twitter.com/asheshbadani/status/735429419477663752">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # OpenStack Private Cloud
 - [OpenStack private cloud](cloud.md#openstack-private-cloud)
 

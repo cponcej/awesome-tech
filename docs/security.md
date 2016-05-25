@@ -158,6 +158,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">3 months and 1 Million SSH attempts later <a href="https://t.co/3Mst0W0K44">https://t.co/3Mst0W0K44</a> <a href="https://twitter.com/hashtag/openssh?src=hash">#openssh</a> <a href="https://twitter.com/hashtag/openbsd?src=hash">#openbsd</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711770928259043328">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Virtualisation - what is it?  <a href="https://t.co/agayoDZlvR">https://t.co/agayoDZlvR</a> <a href="https://twitter.com/hashtag/sdn?src=hash">#sdn</a> <a href="https://twitter.com/hashtag/nfv?src=hash">#nfv</a> <a href="https://twitter.com/NatilikSEC">@NatilikSEC</a></p>&mdash; James Talbot (@jamesrtalbot) <a href="https://twitter.com/jamesrtalbot/status/735364101535375360">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 

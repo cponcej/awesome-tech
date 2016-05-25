@@ -76,6 +76,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Whether you have 500 nodes, or many thousands, this document will help you best understand how to maximize Ansible. <a href="https://t.co/iBsusAeDH3">https://t.co/iBsusAeDH3</a></p>&mdash; Ansible by Red Hat (@ansible) <a href="https://twitter.com/ansible/status/714516067721285633">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/ansible">@Ansible</a> 2.1 Launches with Network Automation, <a href="https://twitter.com/hashtag/Containers?src=hash">#Containers</a>, Microsoft Windows, and Azure. <a href="https://t.co/DDBjw6MJT4">https://t.co/DDBjw6MJT4</a> <a href="https://twitter.com/hashtag/Ansible?src=hash">#Ansible</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/735458411651960833">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Ansible on Twitter
 - [twitter.com/ansible](https://twitter.com/ansible)
 - [twitter.com/ansible4devops](https://twitter.com/ansible4devops)
