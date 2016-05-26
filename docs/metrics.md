@@ -161,6 +161,7 @@
 - [Introducing AppDynamics Integration with BlazeMeter:](https://blazemeter.com/blog/introducing-appdynamics-integration-blazemeter) A great way to enhance a #perftest scenario is to add deep inspection capabilities
 - [AppDynamics ebook - Top 10 Java Performance Problems](https://www.appdynamics.com/lp/ebook-top-10-java-performance-problems/)
 - [Everything You Know About Latency Is Wrong](https://dzone.com/articles/everything-you-know-about-latency-is-wrong-brave-n)
+- [performancevision.com: how to find the root cause of a network slowdown](http://blog.performancevision.com/how-to-find-the-root-cause-of-a-network-slowdown)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J5tzI-8k__Q" frameborder="0" allowfullscreen class="video"></iframe>
@@ -169,6 +170,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Mg0UtzYql4" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F99eSpvZOIQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
