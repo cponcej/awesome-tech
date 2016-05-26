@@ -10,6 +10,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Excited to drive digital transformation at global bank <a href="https://twitter.com/bbva">@bbva</a> with <a href="https://twitter.com/RedHatNews">@RedHatNews</a> Iaas <a href="https://twitter.com/OpenStack">@OpenStack</a> and paas <a href="https://twitter.com/openshift">@openshift</a> <a href="https://t.co/XbLnpsWRF2">https://t.co/XbLnpsWRF2</a></p>&mdash; Ashesh Badani (@asheshbadani) <a href="https://twitter.com/asheshbadani/status/735429419477663752">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> will help accelerate <a href="https://twitter.com/bbva">@BBVA</a>&#39;s global transformation &amp; <a href="https://twitter.com/hashtag/technology?src=hash">#technology</a> innovation. Learn more: <a href="https://t.co/NRIW6ZrOIc">https://t.co/NRIW6ZrOIc</a> <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> <a href="https://twitter.com/hashtag/IaaS?src=hash">#IaaS</a> <a href="https://twitter.com/hashtag/PaaS?src=hash">#PaaS</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/735471234478006274">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # OpenStack Private Cloud
 - [OpenStack private cloud](cloud.md#openstack-private-cloud)
 
