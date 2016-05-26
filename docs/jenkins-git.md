@@ -24,6 +24,8 @@
 </div>
 <br/>
 
+[![jenkins_is_the_hub_CD_Devops](images/jenkins_is_the_hub_CD_Devops.png)](http://www.slideshare.net/dcjuengst/cloudbeesjenkinsplatform2016)
+
 # Continuous Integration Tools
 ## CI Jenkins, Travis
 - [jenkins-ci.org](https://jenkins-ci.org)
@@ -41,6 +43,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Why Jenkins is becoming the engine of devops&quot; <a href="https://t.co/28OYn8mSjR">https://t.co/28OYn8mSjR</a> <a href="https://twitter.com/openshift">@OpenShift</a></p>&mdash; Steve Speicher (@sspeiche) <a href="https://twitter.com/sspeiche/status/711903617767317504">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Get started with brand new Jenkins 2.0 with Docker <a href="https://t.co/qju4n52Rg3">https://t.co/qju4n52Rg3</a>  <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://t.co/par4rc034h">pic.twitter.com/par4rc034h</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/717508097833435136">6 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cLH7UxrJLzcZLX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dcjuengst/cloudbeesjenkinsplatform2016" title="Master Continuous Delivery with CloudBees Jenkins Platform" target="_blank">Master Continuous Delivery with CloudBees Jenkins Platform</a> </strong> from <strong><a href="//www.slideshare.net/dcjuengst" target="_blank">dcjuengst</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQSpztWcGmw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
