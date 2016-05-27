@@ -16,6 +16,7 @@
     - [AWS New Features](#aws-new-features)
     - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
     - [AWS RDS](#aws-rds)
+    - [AWS Application Discovery Service](#aws-application-discovery-service)
     - [AWS Database Migration Service](#aws-database-migration-service)
     - [AWS Redshift](#aws-redshift)
     - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
@@ -152,6 +153,19 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W5qfS_Fli2Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## AWS Application Discovery Service
+- [AWS Application Discovery Service 🌟](http://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TYiqPrCA4fc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q6EJE3ndOqI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
