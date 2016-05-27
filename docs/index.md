@@ -5,8 +5,8 @@
 <div id="player"></div>
 </div>
 
-<p align="center">
-Available for work (no freelance). Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know. 
+<p align="center"><strike>
+Available for work (no freelance). Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know. </strike>
 </p>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
