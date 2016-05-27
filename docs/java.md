@@ -14,6 +14,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Oracle-Google case will decide the future of software. Closing arguments start today <a href="https://t.co/Ksa4Iq06Tx">https://t.co/Ksa4Iq06Tx</a></p>&mdash; WIRED (@WIRED) <a href="https://twitter.com/WIRED/status/734733377375481857">23 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Jury finds Google’s implementation of Java in Android was fair use <a href="https://t.co/CSFy3AL4d1">https://t.co/CSFy3AL4d1</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/736127580135432192">27 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Java
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)
@@ -21,6 +23,8 @@
 - [twitter.com/JavaOneConf](https://twitter.com/JavaOneConf)
 - [twitter.com/javacodegeeks](https://twitter.com/javacodegeeks)
 - [twitter.com/Java_EE](https://twitter.com/Java_EE)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Java Annotations Are a Big Mistake <a href="https://t.co/8X4HNU0oyI">https://t.co/8X4HNU0oyI</a> via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> <a href="https://twitter.com/yegor256">@yegor256</a> <a href="https://twitter.com/hashtag/Java?src=hash">#Java</a> <a href="https://t.co/zFQU48tnAY">pic.twitter.com/zFQU48tnAY</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/735470667353706501">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Java Blogs
 - [Java Magazine by and for the Java community](http://oraclejavamagazine-digital.com)

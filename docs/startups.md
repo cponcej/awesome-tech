@@ -174,6 +174,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mapa mundial del desempleo. <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> <a href="https://twitter.com/hashtag/paro?src=hash">#paro</a> <a href="https://t.co/cuy1ju7xCy">pic.twitter.com/cuy1ju7xCy</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/710463801561325568">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Most millennials work more than 40 hours a week. These countries lead the world in hours: <a href="https://t.co/tCqxOauU8y">https://t.co/tCqxOauU8y</a> <a href="https://t.co/oc9bbpxWqg">pic.twitter.com/oc9bbpxWqg</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/735889744551378946">26 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las empresas más rentables del <a href="https://twitter.com/hashtag/IBEX?src=hash">#IBEX</a> desde 2007. <a href="https://twitter.com/hashtag/bolsa?src=hash">#bolsa</a> <a href="https://t.co/hOBcX0ijUp">pic.twitter.com/hOBcX0ijUp</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/719973144006672385">12 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Barcelona Tech, Startups and Innovation

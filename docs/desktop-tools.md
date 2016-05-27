@@ -137,6 +137,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">So, <a href="https://twitter.com/Microsoft">@Microsoft</a> loves linux? But, Ignores skype users?. On a serious note Linux is winning the enterprise server market.</p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706955049071546368">7 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cómo activar el nuevo antivirus de Windows 10 <a href="https://t.co/1xosOx35sc">https://t.co/1xosOx35sc</a> <a href="https://t.co/aD3KJvsJod">pic.twitter.com/aD3KJvsJod</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/736109247360946176">27 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Evernote
 - [Calendars are simple yet powerful motivational tools. Save these templates to Evernote](https://blog.evernote.com/blog/2015/12/26/resolve-to-stay-on-track-in-the-new-year/)
 
@@ -155,6 +157,9 @@
 - [twitter.com/evernote_fr](https://twitter.com/evernote_fr)
 - [https://twitter.com/Evernote_IN](https://twitter.com/Evernote_IN)
 - [twitter.com/EvernoteAPAC](https://twitter.com/EvernoteAPAC)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Evernote is a great note-taking tool, but it can also be the perfect recipe book: <a href="https://t.co/hKteXEGewt">https://t.co/hKteXEGewt</a> <a href="https://t.co/Xu4vB5IXDY">pic.twitter.com/Xu4vB5IXDY</a></p>&mdash; Forbes Tech News (@ForbesTech) <a href="https://twitter.com/ForbesTech/status/735462931773689857">25 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We&#39;ve put together 2016 calendar templates to help you stay organized: <a href="https://t.co/XXcuam8mvu">https://t.co/XXcuam8mvu</a> <a href="https://twitter.com/hashtag/EvernoteTips?src=hash">#EvernoteTips</a> <a href="https://t.co/k869dOGpyw">pic.twitter.com/k869dOGpyw</a></p>&mdash; Evernote Helps (@evernotehelps) <a href="https://twitter.com/evernotehelps/status/678968198595670016">diciembre 21, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

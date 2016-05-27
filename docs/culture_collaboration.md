@@ -74,6 +74,8 @@
 
 ![old_thinking_new_thinking](images/old_thinking_new_thinking.jpg)
 
+![passionate_people_become_quiet](images/passionate_people_become_quiet.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The hidden costs of burnout <a href="https://t.co/kEuVbJi73L">https://t.co/kEuVbJi73L</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/708754688431280128">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">4 reasons why team-building exercises can actually damage your workplace: <a href="https://t.co/qy7T7yyrOW">https://t.co/qy7T7yyrOW</a> <a href="https://t.co/YP8apfHwJJ">pic.twitter.com/YP8apfHwJJ</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/714059645166493698">27 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
