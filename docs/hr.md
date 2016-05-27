@@ -86,6 +86,8 @@
 
 ![voltaire good mood](images/voltaire_good_mood.jpg)
 
+[![millenials_not_promoted](images/millenials_not_promoted.png)](http://www.forbes.com/sites/carolinebeaton/2016/05/12/millennials-this-is-why-you-havent-been-promoted)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;The only difference between a good day and a bad day is your attitude.&quot; -- Dennis Brown<a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/Life?src=hash">#Life</a> <a href="https://twitter.com/hashtag/quoteoftheday?src=hash">#quoteoftheday</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706214302244405248">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Por qué muchos jefes no logran “conectar” con sus colaboradores? ➡ <a href="https://t.co/sJnlrrENWk">https://t.co/sJnlrrENWk</a> por <a href="https://twitter.com/AliciaPomares">@aliciapomares</a> <a href="https://twitter.com/hashtag/liderazgo?src=hash">#liderazgo</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/734821553444098048">23 de mayo de 2016</a></blockquote>

@@ -111,6 +111,8 @@
 
 [![lo_que_rrhh_nunca_confesara](images/lo_que_rrhh_nunca_confesara.png)](https://ar.selecciones.com/contenido/a2869_lo-que-el-personal-de-recursos-humanos-nunca-te-confesara)
 
+[![dificultades_encontrar_perfiles_tecnologicos](images/dificultades_encontrar_perfiles_tecnologicos.png)](http://www.abc.es/economia/abci-cantera-digital-empresas-tienen-dificultades-para-encontrar-perfiles-laborales-necesitan-201605220328_noticia.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OcKF2V4yZyE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

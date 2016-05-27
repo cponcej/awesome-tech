@@ -217,9 +217,15 @@
 
 ## Red Hat Cloud Suite
 - [redhat.com/cloud-suite](http://redhat.com/cloud-suite)
+- [Red Hat Cloud Suite - Modernizing Development & Operations (video)](http://www.schabell.org/2016/05/rhcs-modernizing-development-and-operations-video.html)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hWNW6XookiQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/166958752?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe><p><a href="https://vimeo.com/166958752">Red Hat Cloud Suite - Modernizing Development &amp; Operations</a> from <a href="https://vimeo.com/ericschabell">Eric D. Schabell</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 <br/>
 
