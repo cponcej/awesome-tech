@@ -51,6 +51,8 @@
 </div>
 <br/>
 
+[![tech_salary_calculator](images/tech_salary_calculator.png)](http://www.techsalarycalculator.com/)
+
 [![bi_dont_work_for_startup](images/bi_dont_work_for_startup.png)](http://www.businessinsider.com/dont-work-for-a-startup-2016-3)
 
 # Startups and IT Jobs
