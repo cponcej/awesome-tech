@@ -96,7 +96,7 @@ Available for work (no freelance). Looking for new opportunities across Northern
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3aatEBIZHNU?list=PL_h5o0KnrCrh7XlNufX-zl1sFZAW55gVf" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fk4BbF7B29w?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
