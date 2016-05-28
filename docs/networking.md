@@ -165,6 +165,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Xp1qr1NOFx">pic.twitter.com/Xp1qr1NOFx</a></p>&mdash; Boing Boing (@BoingBoing) <a href="https://twitter.com/BoingBoing/status/726557954883768320">30 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="reddit-card" data-card-created="1464421957"><a href="https://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/?ref=share&ref_source=embed">Hosted PBX Suggestions.</a> from <a href="http://www.reddit.com/r/sysadmin">sysadmin</a></blockquote><script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
+
 ## MPLS Multi Protocol Label Switching (IP VPN)
 - [tech-faq.com: MPLS](http://www.tech-faq.com/mpls.html)
 - [Why Cloud is making MPLS obsolete - and how Service Providers can adapt](https://www.linkedin.com/pulse/20140915110843-538739-why-cloud-is-making-mpls-obsolete-and-how-service-providers-can-adapt)
