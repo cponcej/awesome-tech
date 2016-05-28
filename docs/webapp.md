@@ -113,6 +113,11 @@
 
 [![How Apache Is Losing The Web To NGINX 2](images/nginx-w3techs-data.jpg)](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/62427114" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Nginx
 - [Nginx](nginx.md)
 

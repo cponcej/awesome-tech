@@ -77,6 +77,11 @@
 - [awesomesql.wordpress.com](https://awesomesql.wordpress.com)
 - [mundosql.es](http://www.mundosql.es)
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/66458780" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## SQL and Big Data on Twitter
 - [essentialsql.com's twitter](https://twitter.com/sqlkris)
 - [twitter.com/SQLPerfTips](https://twitter.com/SQLPerfTips)

@@ -295,6 +295,11 @@
 - [apt-get command cheat sheet for Debian Linux](http://www.cyberciti.biz/howto/question/linux/apt-get-cheat-sheet.php)
 - [Debian Linux apt-get package management cheat sheet](http://www.cyberciti.biz/tips/linux-debian-package-management-cheat-sheet.html)
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/46877604" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Downgrade or Rollback Updates
 - [CentOS/RHEL Use yum Command To Downgrade or Rollback Updates](http://www.cyberciti.biz/faq/howto-yum-downgrade-packages-on-rhel-centos-fedora-scientific-linux/)
 - [Rollback an apt-get upgrade if something goes wrong on Debian/Ubuntu Linux](http://www.cyberciti.biz/howto/debian-linux/ubuntu-linux-rollback-an-apt-get-upgrade/)
@@ -605,6 +610,11 @@
 </div>
 <br>
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/53734006" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)
 - [How to exclude directories while using rsync](http://supportex.net/2011/07/exceptions-copying-directory-rsync/)
@@ -722,6 +732,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">FRIDAY SPOTLIGHT: <a href="https://twitter.com/hashtag/OracleVM?src=hash">#OracleVM</a> <a href="https://twitter.com/hashtag/VirtualBox?src=hash">#VirtualBox</a> Takes the Spotlight  <a href="https://twitter.com/hashtag/VDI?src=hash">#VDI</a> <a href="https://t.co/P5Ku1QOj7x">https://t.co/P5Ku1QOj7x</a> <a href="https://t.co/H4uMKCB6OG">pic.twitter.com/H4uMKCB6OG</a></p>&mdash; OracleVirtualization (@ORCL_Virtualize) <a href="https://twitter.com/ORCL_Virtualize/status/693119134385569793">29 de enero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/55579849" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 # Apple OS X
 - [How to secure and lock down Apple OS X 10.11 (El Capitan) with osxlockdown](http://www.cyberciti.biz/faq/how-to-secure-and-lock-down-apple-os-x-10-11-el-capitan-with-osxlockdown/)

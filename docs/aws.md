@@ -227,6 +227,11 @@
 - [medium.com: Optimizing Latency and Bandwidth for AWS Traffic](https://medium.com/aws-activate-startup-blog/optimizing-latency-and-bandwidth-for-aws-traffic-cdfd18d0d0f7)
 
 <div class="container">
+<iframe src="https://player.vimeo.com/video/59749907" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/IDuFGnYkBiVIFI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/introduction-to-amazon-web-services-7708257" title="Introduction to Amazon Web Services" target="_blank">Introduction to Amazon Web Services</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
 </div>
 <br/>

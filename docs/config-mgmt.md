@@ -151,6 +151,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/61887298" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## SaltStack
 - [twitter.com/saltstack](https://twitter.com/saltstack)
 - [devopslibrary.com: Mastering SaltStack](http://devopslibrary.com/courses/mastering-saltstack/)

@@ -51,6 +51,11 @@
 - [Save your clicks by taking charge of Sublime’s menus](http://sublimetexttips.com/save-your-clicks-by-taking-charge-of-sublimes-menus/)
 - [How to quickly add a new Sublime Text snippet](http://sublimetexttips.com/how-to-quickly-add-a-new-sublime-text-snippet/)
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/46485954" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Sublime Web Inspector
 - [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/)
 

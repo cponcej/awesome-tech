@@ -1,7 +1,8 @@
 <!-- MarkdownTOC -->
 
 - [Continuous Integration Tools](#continuous-integration-tools)
-    - [CI Jenkins, Travis](#ci-jenkins-travis)
+    - [CI Jenkins](#ci-jenkins)
+    - [Travis CI](#travis-ci)
         - [Jenkins on Twitter](#jenkins-on-twitter)
         - [Jenkins slides](#jenkins-slides)
         - [Travis on Twitter](#travis-on-twitter)
@@ -22,7 +23,7 @@
 [![jenkins_is_the_hub_CD_Devops](images/jenkins_is_the_hub_CD_Devops.png)](http://www.slideshare.net/dcjuengst/cloudbeesjenkinsplatform2016)
 
 # Continuous Integration Tools
-## CI Jenkins, Travis
+## CI Jenkins
 - [jenkins-ci.org](https://jenkins-ci.org)
 - [AWS continuous integration](https://aws.amazon.com/devops/continuous-integration/)
 - [Cloudbees Jenkins Platform](https://www.cloudbees.com/products/cloudbees-jenkins-platform)
@@ -32,8 +33,6 @@
 	- [Tutorial: Gestión de Configuración – Ansible + Vagrant + Jenkins](http://www.carlessanagustin.com/2015/08/20/tutorial-gestion-de-configuracion-ansible-vagrant-jenkins/)
 	- [Jenkins Docker Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin)
 	- [jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server](https://github.com/jhrcz/jenkins-rpm-builder)
-- [Travis CI](https://travis-ci.org/)
-- [bencane.com: Using Travis CI to test Docker builds](http://bencane.com/2016/01/11/using-travis-ci-to-test-docker-builds/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Why Jenkins is becoming the engine of devops&quot; <a href="https://t.co/28OYn8mSjR">https://t.co/28OYn8mSjR</a> <a href="https://twitter.com/openshift">@OpenShift</a></p>&mdash; Steve Speicher (@sspeiche) <a href="https://twitter.com/sspeiche/status/711903617767317504">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -57,6 +56,16 @@
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4319605/height/90/width/640/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/006096/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4319626/height/90/width/640/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/006096/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<br/>
+
+## Travis CI
+- [Travis CI](https://travis-ci.org/)
+- [bencane.com: Using Travis CI to test Docker builds](http://bencane.com/2016/01/11/using-travis-ci-to-test-docker-builds/)
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/58713038" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ### Jenkins on Twitter
 - [twitter.com/jenkinsci](https://twitter.com/jenkinsci)
@@ -205,6 +214,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">$ git push --force origin master <a href="https://t.co/F2enmNzlTj">pic.twitter.com/F2enmNzlTj</a></p>&mdash; Jose Ignacio Andres (@joserobleda) <a href="https://twitter.com/joserobleda/status/707846636345683968">10 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to close issues in GitHub with respect. <br>👏 to <a href="https://twitter.com/BenLesh">@BenLesh</a> <a href="https://t.co/KOtnKWYHel">pic.twitter.com/KOtnKWYHel</a></p>&mdash; André Staltz (@andrestaltz) <a href="https://twitter.com/andrestaltz/status/711103704280264704">19 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/50412080" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ### Git on Twitter
 - [twitter.com/github](https://twitter.com/github)
