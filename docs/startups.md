@@ -137,6 +137,7 @@
 	- [Guía definitiva para vivir en UK: Leer antes de emigrar 🌟🌟🌟](http://bristolenos.com/2015/06/08/guia-definitiva-para-vivir-en-uk-leer-antes-de-emigrar/)
 - [Espanish in London 🌟](http://www.espanishinlondon.com)
 - [destinoreinounido.com 🌟](http://destinoreinounido.com)
+- [aventurasenbritishlandia.com](https://aventurasenbritishlandia.com)
 - [comosobrevivirenlondres.com 🌟](http://comosobrevivirenlondres.com)
 - ["I was born in London but I no longer recognise this city" 🌟🌟](http://www.economist.com/news/books-and-arts/21689519-how-british-capital-being-remade-beyond-glitter)
 - [London, I love you, but you’re bringing me down 🌟](http://matadornetwork.com/notebook/london-love-youre-bringing/)
@@ -180,6 +181,8 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las empresas más rentables del <a href="https://twitter.com/hashtag/IBEX?src=hash">#IBEX</a> desde 2007. <a href="https://twitter.com/hashtag/bolsa?src=hash">#bolsa</a> <a href="https://t.co/hOBcX0ijUp">pic.twitter.com/hOBcX0ijUp</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/719973144006672385">12 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![fail_risk_enough](images/fail_risk_enough.jpg)
 
 ### Barcelona Tech, Startups and Innovation
 - [Barcelona Tech, Startups and Innovation](startups_bcn.md)
