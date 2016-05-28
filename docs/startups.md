@@ -25,6 +25,10 @@
 
 [![not_updating_linkedin](images/not_updating_linkedin.png)](https://www.quora.com/Why-is-it-that-people-are-not-updating-their-Linkedin-profiles-when-they-get-new-jobs)
 
+[![found_job_dont_update_linkedin](images/found_job_dont_update_linkedin.png)](https://www.linkedin.com/pulse/20140417163736-10326243-found-a-job-don-t-update-your-linkedin-profile-yet)
+
+[![former_boss_change_linkedin_profile](images/former_boss_change_linkedin_profile.png)](http://www.theglobeandmail.com/report-on-business/careers/career-advice/life-at-work/can-i-be-forced-by-a-former-boss-to-change-my-linkedin-profile/article27051185/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/HarvardBiz">@HarvardBiz</a> - The Most <a href="https://twitter.com/hashtag/DigitalCompanies?src=hash">#DigitalCompanies</a> Are Leaving All the Rest Behind <a href="https://t.co/VxZ2O5KG2g">https://t.co/VxZ2O5KG2g</a> <a href="https://twitter.com/hashtag/DigitalDivide?src=hash">#DigitalDivide</a> <a href="https://twitter.com/hashtag/DigitalTransformation?src=hash">#DigitalTransformation</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/707168141080526848">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![bi_unemployment_crisis](images/bi_unemployment_crisis.png)](http://www.businessinsider.com/countries-with-worst-youth-unemployment-2015-11)
