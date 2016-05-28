@@ -18,6 +18,7 @@
 - [L. David Marquet: Control In An Emergency 🌟](https://www.linkedin.com/pulse/control-emergency-l-david-marquet)
 - [businessinsider.com: 27 jobs to avoid if you hate stress](http://www.businessinsider.com/jobs-to-avoid-if-you-hate-stress-2015-9)
 - [businessinsider.com: 13 bad habits you should break in 2016 to be more productive 🌟](http://www.businessinsider.com/bad-habits-that-are-killing-your-productivity-2015-12)
+- [Is Workplace Culture Overrated? (Infographic)](https://www.entrepreneur.com/article/276152)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="http://t.co/RmXpSOqNwy">http://t.co/RmXpSOqNwy</a> Best scene from Moneyball</p>&mdash; Shigeyuki Ono (@hibarifuji) <a href="https://twitter.com/hibarifuji/status/640504452047314944">6 de septiembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
