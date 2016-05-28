@@ -41,6 +41,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">...<a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> + <a href="https://twitter.com/hashtag/analytics?src=hash">#analytics</a> + <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> + <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> + <a href="https://twitter.com/hashtag/Dilbert?src=hash">#Dilbert</a> = Priceless Humor <a href="https://t.co/fPnuWQEc2n">pic.twitter.com/fPnuWQEc2n</a></p>&mdash; Sharat (@Sharat_Chander) <a href="https://twitter.com/Sharat_Chander/status/717495274663333889">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![devops_radio](images/devops_radio.png)](https://www.cloudbees.com/resources/devops-radio)
+
 # DevOps
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
