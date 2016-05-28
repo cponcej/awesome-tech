@@ -16,6 +16,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Jury finds Google’s implementation of Java in Android was fair use <a href="https://t.co/CSFy3AL4d1">https://t.co/CSFy3AL4d1</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/736127580135432192">27 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Jury finds Google’s implementation of Java in Android was fair use <a href="https://t.co/CSFy3AL4d1">https://t.co/CSFy3AL4d1</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/736127580135432192">27 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Java
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)
