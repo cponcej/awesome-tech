@@ -138,6 +138,8 @@
 
 [![tecmint logo](images/tecmint-logo.png)](http://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/)
 
+[![nixcraft logo](images/nixcraft_logo.jpg)](http://www.cyberciti.biz/)
+
 [![learn_it_guide](images/learn_it_guide.png)](http://www.learnitguide.net/)
 
 ### Alternatives
@@ -172,8 +174,6 @@
 - [muylinux.com 🌟](http://www.muylinux.com/)
 - [linuxadictos.com 🌟](http://www.linuxadictos.com)
 - [systemadmin.es 🌟](http://systemadmin.es/)
-
-[![nixcraft logo](images/nixcraft_logo.jpg)](http://www.cyberciti.biz/)
 
 ## FOSS youtube channels
 - [Sysadmincasts.com - Episode Guide](https://sysadmincasts.com/episode-guide)
