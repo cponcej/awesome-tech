@@ -106,6 +106,16 @@
 
 [![rhel 5,6,7 cheatsheet](images/rhel567_cheatsheet.png)](https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_a4_1114_jcs.pdf)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cbBH7eQZNFv2Vm" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PacktPub/red-hat-enterprise-linux-server-cookbook-sample-chapter" title="Red Hat Enterprise Linux Server Cookbook - Sample Chapter" target="_blank">Red Hat Enterprise Linux Server Cookbook - Sample Chapter</a> </strong> from <strong><a href="//www.slideshare.net/PacktPub" target="_blank">Packt Publishing</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9uwz3eQbhQ9BVI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Riju_Rocks/kickstart-51602505" title="Kickstart" target="_blank">Kickstart</a> </strong> from <strong><a href="//www.slideshare.net/Riju_Rocks" target="_blank">Reezoo Bose</a></strong> </div>
+</div>
+<br>
+
 ### Fedora
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)

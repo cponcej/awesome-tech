@@ -146,6 +146,11 @@
 - [Capistrano](http://capistranorb.com)
 - [Capistrano GitHub](https://github.com/capistrano/capistrano)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2pJCggyg9f24hj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SumitChhetri1/automated-deployment-with-capistrano" title="Automated Deployment with Capistrano" target="_blank">Automated Deployment with Capistrano</a> </strong> from <strong><a href="//www.slideshare.net/SumitChhetri1" target="_blank">Sumit Chhetri</a></strong> </div>
+</div>
+<br/>
+
 ## SaltStack
 - [twitter.com/saltstack](https://twitter.com/saltstack)
 - [devopslibrary.com: Mastering SaltStack](http://devopslibrary.com/courses/mastering-saltstack/)
