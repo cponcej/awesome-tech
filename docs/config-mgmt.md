@@ -99,6 +99,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aUew6WauUsI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![Vagrant-Virtual-Development-Environment-Cookbook](images/Vagrant-Virtual-Development-Environment-Cookbook.png)](http://www.wowebook.org/vagrant-virtual-development-environment-cookbook.html)
 
 [![Pro-Vagrant](images/Pro-Vagrant.png)](http://www.wowebook.org/pro-vagrant.html)
@@ -160,6 +165,11 @@
 - [twitter.com/saltstack](https://twitter.com/saltstack)
 - [devopslibrary.com: Mastering SaltStack](http://devopslibrary.com/courses/mastering-saltstack/)
 - [Salt vs. Ansible](http://jensrantil.github.io/salt-vs-ansible.html)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TQjE2I8CrzQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 [![disruption cycle](images/disruption-cycle.png)](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
 

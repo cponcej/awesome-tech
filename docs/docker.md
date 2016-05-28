@@ -165,6 +165,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cxveLKw6BVw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Docker security
 - [Free eBook - Docker Security: Using Containers Safely in Production](https://www.openshift.com/promotions/docker-security.html)
 - [Docker and Security: How do they fit together?](https://jaxenter.com/docker-and-security-how-do-they-fit-together-122333.html)
