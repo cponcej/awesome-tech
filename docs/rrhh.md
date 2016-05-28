@@ -256,7 +256,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Video humorístico sobre Coaching (&quot;Cámera Café&quot;) <a href="https://t.co/ewvHzFmc3T">https://t.co/ewvHzFmc3T</a></p>&mdash; Alberto Barbero (@Albarbero) <a href="https://twitter.com/Albarbero/status/706747489626537984">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Camera Café La entrevista <a href="http://t.co/UbXMUIRtnn">http://t.co/UbXMUIRtnn</a> vía <a href="https://twitter.com/YouTube">@youtube</a></p>&mdash; Carlos de Olagüe Sm. (@carlosdeolague) <a href="https://twitter.com/carlosdeolague/status/431917076580536320">7 de febrero de 2014</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Camera Café La entrevista <a href="http://t.co/UbXMUIRtnn">http://t.co/UbXMUIRtnn</a> vía <a href="https://twitter.com/YouTube">@youtube</a></p>&mdash; Carlos de Olagüe Sm. (@carlosdeolague) <a href="https://twitter.com/carlosdeolague/status/431917076580536320">7 de febrero de 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-video tw-align-center" data-lang="es"><p lang="es" dir="ltr">Si no te gusta el fútbol en España, ESTAS JODIDO. <a href="https://twitter.com/hashtag/finalchampions?src=hash">#finalchampions</a> <a href="https://twitter.com/hashtag/halamadrid?src=hash">#halamadrid</a> <a href="https://twitter.com/hashtag/aupaatleti?src=hash">#aupaatleti</a> <a href="https://t.co/qI33jtAKTo">pic.twitter.com/qI33jtAKTo</a></p>&mdash; Wasabi Humor (@wasabihumor) <a href="https://twitter.com/wasabihumor/status/736504024875323392">28 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
