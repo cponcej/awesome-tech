@@ -124,6 +124,7 @@
 - [Tecmint.com Linux Howto's Guide  🌟🌟🌟🌟🌟](http://www.tecmint.com/)
 	- [Linux Distributions 🌟🌟🌟](http://www.tecmint.com/best-linux-distributions/)
 - [nixCraft/cyberciti.biz: Linux Tips, Hacks, Tutorials, And Ideas In Blog  🌟🌟🌟🌟🌟](http://www.cyberciti.biz/)
+- [learnitguide.net](http://www.learnitguide.net/)
 - [Sysadmincasts.com  🌟🌟🌟](http://sysadmincasts.com)
 	- [Episode Guide](https://sysadmincasts.com/episode-guide)
 - [commandlinefu.com  🌟🌟🌟](http://commandlinefu.com/)
@@ -136,6 +137,8 @@
 - [tecadmin.net](http://tecadmin.net)
 
 [![tecmint logo](images/tecmint-logo.png)](http://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/)
+
+[![learn_it_guide](images/learn_it_guide.png)](http://www.learnitguide.net/)
 
 ### Alternatives
 - [FOSS Force](http://fossforce.com/)

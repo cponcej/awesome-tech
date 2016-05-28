@@ -170,8 +170,14 @@
 - [opensource.com: A compilation of 7 new OpenStack tutorials (Feb 2016) 🌟](https://opensource.com/business/16/2/compilation-best-new-openstack-tutorials)
 - [Openstack Interview Questions and Answers 🌟](https://intellipaat.com/interview-question/openstack-interview-questions/)
 - [DZone refcard: Getting Started with OpenStack 🌟🌟](https://dzone.com/refcardz/getting-started-openstack-most)
+- [learnitguide.net: Install MariaDB & RabbitMq - Openstack Deployment : Part 1](http://www.learnitguide.net/2016/02/openstack-liberty-install-mariadb.html)
 
 [![openstack cluster](images/openstack-cluster.png)](https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZRhimPuMU8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## IBM Cloud. IBM Bluemix
 - [IBM Cloud computing. Technical resources for developing in the cloud](https://www.ibm.com/developerworks/cloud/)
