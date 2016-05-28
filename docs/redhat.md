@@ -215,6 +215,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This just keeps getting better - the integration between <a href="https://twitter.com/ansible">@ansible</a> , CloudForms and <a href="https://twitter.com/openshift">@openshift</a>  will blow people away <a href="https://t.co/gjIkFajGRB">pic.twitter.com/gjIkFajGRB</a></p>&mdash; Adam Clater (@shatnerandsulu) <a href="https://twitter.com/shatnerandsulu/status/736195823437021184">27 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yFPYGeKwmpk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
