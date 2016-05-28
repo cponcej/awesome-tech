@@ -226,6 +226,7 @@
 - [indeed.co.uk](http://www.indeed.co.uk/)
 - [monster.co.uk 🌟](http://www.monster.co.uk/)
 - [talentclue.com 🌟](https://talentclue.com)
+- [landing.jobs](https://landing.jobs)
 - [europelanguagejobs.com](http://www.europelanguagejobs.com) ¿Eres poliglota? Europe Language Jobs es un portal de empleo que está buscando gente que hable distintos idiomas para puestos en el UK y en toda Europa.
 - [AngelList jobs 🌟🌟🌟](https://angel.co)
 	- [AngelList jobs Barcelona](https://angel.co/barcelona)
