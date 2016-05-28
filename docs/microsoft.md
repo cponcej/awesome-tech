@@ -121,11 +121,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Bill Gates is king! <a href="https://t.co/jtVcAdEIvX">pic.twitter.com/jtVcAdEIvX</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/705465462189113344">3 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7jU15_7pPkY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 [![chocolatey](images/chocolatey.png)](https://chocolatey.org/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why didn&#39;t I know about <a href="https://twitter.com/hashtag/chocolatey?src=hash">#chocolatey</a> ? A package manager for <a href="https://twitter.com/hashtag/Windows?src=hash">#Windows</a> <a href="https://t.co/Lg7yXoZVXB">https://t.co/Lg7yXoZVXB</a> its amazing!</p>&mdash; John Roach (@johnroach) <a href="https://twitter.com/johnroach/status/708366744109223936">11 de marzo de 2016</a></blockquote>
@@ -137,6 +132,11 @@
 - [Introduction to PowerShell for Unix people](https://www.penflip.com/powershellorg/a-unix-persons-guide-to-powershell)
 - [New Release of PowerShell Extension For Visual Studio Code](https://rkeithhill.wordpress.com/2016/02/09/new-release-of-powershell-extension-for-visual-studio-code)
 - [Bash for Windows: Why it’s awesome and what it means for PowerShell 🌟🌟🌟](https://blogs.msdn.microsoft.com/powershell/2016/04/01/bash-for-windows-why-its-awesome-and-what-it-means-for-powershell)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jU15_7pPkY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/IhpcPalgYeTt5A" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alikhanzafar/power-shell-for-newbies-getting-started-powershell-4" title="Power shell for newbies getting started powershell 4" target="_blank">Power shell for newbies getting started powershell 4</a> </strong> from <strong><a href="//www.slideshare.net/alikhanzafar" target="_blank">Zafar Ali Khan</a></strong> </div>
