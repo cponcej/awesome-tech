@@ -2,11 +2,11 @@
 
 - [Continuous Integration Tools](#continuous-integration-tools)
     - [CI Jenkins](#ci-jenkins)
-    - [Travis CI](#travis-ci)
         - [Jenkins on Twitter](#jenkins-on-twitter)
         - [Jenkins slides](#jenkins-slides)
-        - [Travis on Twitter](#travis-on-twitter)
         - [softwarefactory-project.io](#softwarefactory-projectio)
+    - [Travis CI](#travis-ci)
+        - [Travis on Twitter](#travis-on-twitter)
     - [CI Docker](#ci-docker)
     - [CI RPM build](#ci-rpm-build)
     - [CI Maven and Gradle](#ci-maven-and-gradle)
@@ -58,15 +58,6 @@
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4319626/height/90/width/640/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/006096/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 <br/>
 
-## Travis CI
-- [Travis CI](https://travis-ci.org/)
-- [bencane.com: Using Travis CI to test Docker builds](http://bencane.com/2016/01/11/using-travis-ci-to-test-docker-builds/)
-
-<div class="container">
-<iframe src="https://player.vimeo.com/video/58713038" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 ### Jenkins on Twitter
 - [twitter.com/jenkinsci](https://twitter.com/jenkinsci)
 
@@ -97,10 +88,6 @@
 </div>
 <br/>
 
-### Travis on Twitter
-- [twitter.com/travisci](https://twitter.com/travisci)
-- [twitter.com/traviscistatus](https://twitter.com/traviscistatus)
-
 ### softwarefactory-project.io
 - [softwarefactory-project.io](http://softwarefactory-project.io) 
     - [Introduction to Software Factory](http://softwarefactory-project.io/docs/intro.html)
@@ -109,6 +96,19 @@
 [![software factory heading](images/software_factory_heading.png)](http://softwarefactory-project.io)
 
 [![software factory testing](images/software_factory_testing.png)](http://softwarefactory-project.io/docs/testing.html)
+
+## Travis CI
+- [Travis CI](https://travis-ci.org/)
+- [bencane.com: Using Travis CI to test Docker builds](http://bencane.com/2016/01/11/using-travis-ci-to-test-docker-builds/)
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/58713038" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+### Travis on Twitter
+- [twitter.com/travisci](https://twitter.com/travisci)
+- [twitter.com/traviscistatus](https://twitter.com/traviscistatus)
 
 ## CI Docker
 - [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine
