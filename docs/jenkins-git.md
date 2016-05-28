@@ -54,6 +54,10 @@
 </div>
 <br/>
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4319605/height/90/width/640/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/006096/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4319626/height/90/width/640/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/006096/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ### Jenkins on Twitter
 - [twitter.com/jenkinsci](https://twitter.com/jenkinsci)
 
