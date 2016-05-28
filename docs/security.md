@@ -108,8 +108,11 @@
 - [Network Security - NetSecNow ](http://learnnetsec.blogspot.com.es)
 	- [NetSecNow on Youtube](https://www.youtube.com/user/NetSecNow)
 - [hacking-etico.com](http://hacking-etico.com)
+- [Hack In The Box Security Conference 🌟](https://www.youtube.com/user/hitbsecconf)
 
 [![NetSecNow](images/NetSecNow.jpg)](https://www.youtube.com/user/NetSecNow)
+
+[![hack_in_the_security_conference](images/hack_in_the_security_conference.png)](https://www.youtube.com/user/hitbsecconf)
 
 ### Blogs de Seguridad Informática
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)

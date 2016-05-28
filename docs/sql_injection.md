@@ -18,6 +18,7 @@
 - [Sql Injection Authentication bypass cheat sheet](http://tipstrickshack.blogspot.com.es/2013/01/sql-injection-authentication-bypass.html)
 - [La inyección SQL se colocó como el ataque número uno en 2015](http://www.seguridad.unam.mx/noticia/?noti=2657)
 - [Qatar National Bank leak: Security experts hint 'SQL injection' used in database hack](http://www.ibtimes.co.uk/qatar-national-bank-leak-security-experts-hint-sql-injection-used-database-hack-1557069)
+- [sysadmincasts.com: Anatomy of a SQL Injection Attack leading to Code Execution 🌟🌟🌟](https://sysadmincasts.com/episodes/21-anatomy-of-a-sql-injection-attack-leading-to-code-execution)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">It&#39;s 2016. Banks are being hacked with SQL injection, and we&#39;re debating whether encryption should be legal. I hate the future.</p>&mdash; Matthew Green (@matthew_d_green) <a href="https://twitter.com/matthew_d_green/status/725304950084001792">27 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

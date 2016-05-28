@@ -36,3 +36,6 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/wHwJ32JjS2s27U" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bamchenry/f5-tls-ssl-practices" title="F5 TLS &amp; SSL Practices" target="_blank">F5 TLS &amp; SSL Practices</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/bamchenry">Brian A. McHenry</a></strong> </div>
 </div>
 <br/>
+
+
+
