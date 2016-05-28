@@ -356,6 +356,7 @@
 	- [The Stack Exchange Podcast](https://player.fm/series/the-stack-exchange-podcast)
 - [10 podcasts for programmers and budding developers](http://www.techrepublic.com/article/10-podcasts-for-programmers-and-budding-developers/)
 - [42 Podcasts for Developers and Programmers](https://www.loggly.com/blog/42-podcasts-for-developers-and-programmers/)
+- [DevOps radio 🌟](https://www.cloudbees.com/resources/devops-radio) The newest podcast series covering all things related to software delivery
 
 ### Non IT related podcasts
 - [The Stitcher List. What the World is Listening to Now](http://www.stitcher.com/stitcher-list/)
@@ -365,6 +366,8 @@
 	- [Planet money](http://www.stitcher.com/podcast/national-public-radio/npr-planet-money-podcast)
 
 [![no dogma podcast](images/no_dogma_podcast.png)](http://nodogmapodcast.bryanhogan.net/)
+
+[![devops_radio](images/devops_radio.png)](https://www.cloudbees.com/resources/devops-radio)
 
 ### Cloud Computing Podcasts
 - [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
