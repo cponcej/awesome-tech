@@ -205,6 +205,8 @@
 
 [![parque el capricho](images/parque-el-capricho.jpg)](http://www.madridtourist.info/caprice_park.html)
 
+![keep-calm](images/keep-calm.jpg)
+
 ## Worst tech mergers and acquisitions
 - [Worst tech mergers and acquisitions: Oracle and Sun, and the sad tale of Palm](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
 - [Worst tech mergers and acquisitions: HP and Autonomy, Google and Motorola, and more](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-hp-and-autonomy-google-and-motorola-and-more/)
