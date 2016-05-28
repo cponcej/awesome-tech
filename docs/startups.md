@@ -304,8 +304,7 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ML Salaries in Europe: Given the field of ML/Data Mining is, at its core, all about data, I thought it was rat... <a href="http://t.co/oCEudlWfov">http://t.co/oCEudlWfov</a></p>&mdash; InfoSysDataSciReddit (@InfoSysReddit) <a href="https://twitter.com/InfoSysReddit/status/645497290719784960">septiembre 20, 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> salaries: “<a href="https://twitter.com/hashtag/Barcelona?src=hash">#Barcelona</a> is the most competitive city in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a>” <a href="http://t.co/S0y1ZHUOVw">http://t.co/S0y1ZHUOVw</a> via @investcatalonia <a href="http://t.co/HEGUTyjZpn">pic.twitter.com/HEGUTyjZpn</a></p>&mdash; This is Catalonia (@ThIsCatalonia) <a href="https://twitter.com/ThIsCatalonia/status/545889316086747137">diciembre 19, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> salaries: “<a href="https://twitter.com/hashtag/Barcelona?src=hash">#Barcelona</a> is the most competitive city in <a href="https://twitter.com/hashtag/Europe?src=hash">#Europe</a>” <a href="http://t.co/S0y1ZHUOVw">http://t.co/S0y1ZHUOVw</a> via @investcatalonia <a href="http://t.co/HEGUTyjZpn">pic.twitter.com/HEGUTyjZpn</a></p>&mdash; This is Catalonia (@ThIsCatalonia) <a href="https://twitter.com/ThIsCatalonia/status/545889316086747137">diciembre 19, 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">30 years and this theme song still gets us excited. How many of you still watch the show? <a href="https://t.co/JPJlWJmbOR">https://t.co/JPJlWJmbOR</a> <a href="https://twitter.com/hashtag/MiamiVice?src=hash">#MiamiVice</a></p>&mdash; MIAMIVICE38KV (@MiamiVice38KV) <a href="https://twitter.com/MiamiVice38KV/status/706147689755504640">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -331,6 +330,8 @@
 [![se_busca_talento_digital](images/se_busca_talento_digital.png)](http://economia.elpais.com/economia/2016/04/25/actualidad/1461606018_234064.html)
 
 [![CNMC_expedienta_consultoras](images/CNMC_expedienta_consultoras.png)](http://www.elboletin.com/economia/133375/competencia-expediente-indra-ibm-tecnologicas.html)
+
+[![practicas_anticompetitivas](images/practicas_anticompetitivas.png)](http://www.elmundo.es/economia/2016/04/25/571e348122601d4f7b8b45eb.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries grow richer when they learn how to produce more valuable stuff per person  <a href="https://t.co/0GOBddIfND">https://t.co/0GOBddIfND</a> <a href="https://t.co/mDapJqUVm8">pic.twitter.com/mDapJqUVm8</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/711579515244388354">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -377,6 +378,8 @@
 [![welcome_to_desperate_economy](images/welcome_to_desperate_economy.png)](https://www.linkedin.com/pulse/game-jobs-3-welcome-desperate-economy-nachi-junankar)
 
 [![dejo_la_informatica](images/dejo_la_informatica.png)](http://www.javiergarzas.com/2014/07/los-siento-dejo-la-profesion-dejo-la-informatica-y-dedico-otra-cosa.html)
+
+[![trabajar_de_informatico_ya_no_es_lo_que_era](images/trabajar_de_informatico_ya_no_es_lo_que_era.png)](http://www.elmundo.es/tecnologia/2014/05/17/5375ce54268e3edb7a8b456d.html)
 
 [![ser_informatico_ya_no_es](images/ser_informatico_ya_no_es.png)](http://www.readwriteweb.es/ser-informatico/)
 
