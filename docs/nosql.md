@@ -91,6 +91,11 @@
 - [Hive.apache.org](https://hive.apache.org/)
 - [rethinkdb.com](http://rethinkdb.com)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bjXNWBaIWjM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
 ### Apache Drill. Schema free SQL query on everything engines
 - [Apache Drill](https://drill.apache.org/)
 - [dzone: SQL Syntax for Apache Drill](https://dzone.com/refcardz/sql-syntax-for-apache-drill)

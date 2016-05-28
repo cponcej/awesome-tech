@@ -6,6 +6,9 @@
         - [Sublime Web Inspector](#sublime-web-inspector)
     - [Anaconda Python IDE](#anaconda-python-ide)
     - [Sublime Git](#sublime-git)
+    - [Alternative editors](#alternative-editors)
+        - [Neovim](#neovim)
+    - [Diff Tools](#diff-tools)
 
 <!-- /MarkdownTOC -->
 
@@ -82,3 +85,35 @@
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/gokkqQsaD3W7bP5THq80oA/115429198288" data-did="627e65931bdb7153115e52d92c38dcf331660b50"><a href="http://blog.pachanka.org/post/115429198288/when-people-ask-me-why-i-use-sublime-text-as-my">http://blog.pachanka.org/post/115429198288/when-people-ask-me-why-i-use-sublime-text-as-my</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/0CJaV7EFsfJ6tCW3UPTRRQ/125257835004" data-did="b6ac9831507a88094919aad5cc8bcfe44de58c9b"><a href="http://tech.crowdfireapp.com/post/125257835004/power-up-your-sublime-text-as-rubyrails-ide">http://tech.crowdfireapp.com/post/125257835004/power-up-your-sublime-text-as-rubyrails-ide</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+## Alternative editors
+- [Atom 1.1 is out 🌟](http://blog.atom.io/2015/10/29/atom-1-1-is-out.html)
+    - [emezeta.com: Cómo configurar Atom Editor (y sus mejores plugins)](http://www.emezeta.com/articulos/como-configurar-atom-editor-y-sus-mejores-plugins)
+- [Lime Text](http://limetext.org/) Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text. 
+- [Android Studio 2.0](http://developer.android.com/sdk/index.html)
+    - [Say hello to a faster Android emulator](https://infinum.co/the-capsized-eight/articles/say-hello-to-a-faster-android-emulator)
+    - [Android development is 30% more expensive than iOS. And we have the numbers to prove it!](https://infinum.co/the-capsized-eight/articles/android-development-is-30-percent-more-expensive-than-ios)
+    - [Eclipse ha muerto, larga vida a Android Studio](http://www.elandroidelibre.com/2015/12/eclipse-vs-android-studio.html)
+- [Screencast of Docker Tooling for Eclipse](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
+- [thimble.mozilla.org: Thimble is an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/)
+- [Code::Blocks - A free C, C++ and Fortran IDE](http://sourceforge.net/projects/codeblocks/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6fLGKudBtkc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
+### Neovim
+- [neovim.io](https://neovim.io)
+- [Neovim tutorial](http://patrickmarchand.com/posts/neovim-tuto.html)
+
+[![Be like Bill](images/be_like_bill.jpg)](https://twitter.com/nixcraft)
+
+## Diff Tools
+- [Comparison of file comparison tools](https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools)
+- [winmerge.org](http://winmerge.org/)
+    - [youtube: Diff tools on Windows - Compare It! and WinMerge](https://youtu.be/Pbqhg3FrKQ4)
+    - [WinMerge plugin for SublimeText](https://github.com/SublimeText/WinMerge)
+- [meldmerge.org](http://meldmerge.org/)
+- [KDiff3](http://kdiff3.sourceforge.net/)
+
