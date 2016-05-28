@@ -23,6 +23,8 @@
 
 [![linkedin sales pitch meme](images/LinkedIn-Meme-sales-pitch.png)](http://www.ringdna.com/blog/meme-selling-on-LinkedIn)
 
+[![not_updating_linkedin](images/not_updating_linkedin.png)](https://www.quora.com/Why-is-it-that-people-are-not-updating-their-Linkedin-profiles-when-they-get-new-jobs)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/HarvardBiz">@HarvardBiz</a> - The Most <a href="https://twitter.com/hashtag/DigitalCompanies?src=hash">#DigitalCompanies</a> Are Leaving All the Rest Behind <a href="https://t.co/VxZ2O5KG2g">https://t.co/VxZ2O5KG2g</a> <a href="https://twitter.com/hashtag/DigitalDivide?src=hash">#DigitalDivide</a> <a href="https://twitter.com/hashtag/DigitalTransformation?src=hash">#DigitalTransformation</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/707168141080526848">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![bi_unemployment_crisis](images/bi_unemployment_crisis.png)](http://www.businessinsider.com/countries-with-worst-youth-unemployment-2015-11)
