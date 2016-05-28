@@ -72,7 +72,7 @@ Available for work (no freelance). Looking for new opportunities across Northern
     - [Next Generation Firewalls (NGFW)](NGFW.md)
 	- [Network Forensics 🌟](nw_forensics.md)
 15. [Servers, Storage and Backup](servers-storage-backup.md)
-	- [VMware](vmware.md)
+	- [VMware, VirtualBox](vmware.md)
 16. [Cloud](cloud.md)
 	- [Amazon Web Services 🌟🌟](aws.md)
 17. [Desktop Tools and Presentations](desktop-tools.md)

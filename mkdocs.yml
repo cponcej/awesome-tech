@@ -75,7 +75,7 @@ pages:
 - Next Generation Firewalls (NGFW): NGFW.md
 - Network Forensics: nw_forensics.md
 - Servers, Storage and Backup: servers-storage-backup.md
-- VMware: vmware.md
+- VMware, VirtualBox: vmware.md
 - Cloud: cloud.md
 - Amazon Web Services: aws.md
 - Desktop Tools and Presentations: desktop-tools.md

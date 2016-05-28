@@ -51,7 +51,6 @@
 - [Ubuntu](#ubuntu)
 - [ArchLinux](#archlinux)
 - [Linux interview questions](#linux-interview-questions)
-- [VirtualBox](#virtualbox)
 - [Apple OS X](#apple-os-x)
 
 <!-- /MarkdownTOC -->
@@ -718,23 +717,6 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/NsYzEq2VPlC3nn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/linuxtutorial/top-linux-interview-questions-and-answers-job-interview-tips" title="Top linux interview questions and answers job interview tips" target="_blank">Top linux interview questions and answers job interview tips</a> </strong> from <strong><a href="//www.slideshare.net/linuxtutorial" target="_blank">linuxtutorial</a></strong> </div>
-</div>
-<br/>
-
-# VirtualBox
-- [virtualbox.org](https://www.virtualbox.org/)
-- [twitter.com/virtualbox](https://twitter.com/virtualbox)
-- [VirtualBoxImages.com](https://virtualboximages.com)
-- [10 ways to get the most from VirtualBox 🌟](http://www.techrepublic.com/blog/10-things/10-ways-to-get-the-most-from-virtualbox/)
-- [Building Virtual Servers with VirtualBox and Vagrant 🌟](https://www.distelli.com/blog/building-virtual-servers-with-virtualbox-and-vagrant)
-- [Get THE Latest and Greatest VirtualBox](http://jonmoore.duckdns.org/index.php/linux-articles/67-get-the-latest-and-greatest-virtualbox)
-- [Oracle VM VirtualBox Configuration](https://bigthinkingapplied.com/oracle-vm-virtualbox-configuration/)
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">FRIDAY SPOTLIGHT: <a href="https://twitter.com/hashtag/OracleVM?src=hash">#OracleVM</a> <a href="https://twitter.com/hashtag/VirtualBox?src=hash">#VirtualBox</a> Takes the Spotlight  <a href="https://twitter.com/hashtag/VDI?src=hash">#VDI</a> <a href="https://t.co/P5Ku1QOj7x">https://t.co/P5Ku1QOj7x</a> <a href="https://t.co/H4uMKCB6OG">pic.twitter.com/H4uMKCB6OG</a></p>&mdash; OracleVirtualization (@ORCL_Virtualize) <a href="https://twitter.com/ORCL_Virtualize/status/693119134385569793">29 de enero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="container">
-<iframe src="https://player.vimeo.com/video/55579849" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
