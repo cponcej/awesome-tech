@@ -628,6 +628,7 @@
 - [Linux: 20 Iptables Examples For New SysAdmins](http://www.cyberciti.biz/tips/linux-iptables-examples.html)
 - [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
 - [nixCraft: Iptables MAC Address Filtering](http://www.cyberciti.biz/tips/iptables-mac-address-filtering.html)
+- [unixmen.com: IPTABLES VS FIREWALLD 🌟](https://www.unixmen.com/iptables-vs-firewalld/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Blocklist of all Facebook domains <br><br>-&gt; /etc/hosts file <a href="https://t.co/fh3G6c2Tqg">https://t.co/fh3G6c2Tqg</a><br><br>-&gt; iptables <a href="https://t.co/oH3r62qByF">https://t.co/oH3r62qByF</a> <a href="https://twitter.com/hashtag/privacy?src=hash">#privacy</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/736581390276272128">28 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
