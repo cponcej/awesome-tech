@@ -134,12 +134,15 @@
 - [HowtoForge Linux Tutorials](https://www.howtoforge.com/)
 - [LinuxPitstop: Linux Tips, Techniques, HowTo's & Open Source News](http://linuxpitstop.com/)
 - [tecadmin.net](http://tecadmin.net)
+- [unixmen.com 🌟](https://www.unixmen.com)
 
 [![tecmint logo](images/tecmint-logo.png)](http://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/)
 
 [![nixcraft logo](images/nixcraft_logo.jpg)](http://www.cyberciti.biz/)
 
 [![learn_it_guide](images/learn_it_guide.png)](http://www.learnitguide.net/)
+
+[![unixmen](images/unixmen.png)](https://www.unixmen.com)
 
 ### Alternatives
 - [FOSS Force](http://fossforce.com/)
@@ -357,6 +360,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You an automatically trim long paths in the prompt using Bash 4.x  on a Unix/Linux (~/.bashrc)<br><br>PROMPT_DIRTRIM=2 <a href="https://t.co/AinsQbyKEf">pic.twitter.com/AinsQbyKEf</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706172095038787584">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux Shell Scripting Part-2: Check how to display messages from Shell Script, user Variables and Environment... <a href="https://t.co/vuEflkXcQE">https://t.co/vuEflkXcQE</a></p>&mdash; Unixmen (@unixmen) <a href="https://twitter.com/unixmen/status/735493398862299142">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
