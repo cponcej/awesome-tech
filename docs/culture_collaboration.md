@@ -157,7 +157,10 @@
 
 [![9signs_your_coworker_psychopath](images/9signs_your_coworker_psychopath.png)](http://www.businessinsider.com/signs-youre-working-with-a-psychopath-2016-3)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="de" dir="ltr">Ich habe ein <a href="https://twitter.com/YouTube">@YouTube</a>-Video positiv bewertet: <a href="http://t.co/gXxEitdkxV">http://t.co/gXxEitdkxV</a> American Psycho - Axe scene</p>&mdash; Cas Supporters (@Klerus78) <a href="https://twitter.com/Klerus78/status/653918852338814976">13 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HyJxZ8LXPcI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tlhDW89Bid0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

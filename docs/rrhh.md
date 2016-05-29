@@ -165,7 +165,10 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Hay psicópatas en cualquier sitio. Interesante video: Protegerse de los Psicópatas (Capítulo REDES 436) <a href="https://t.co/KtRsUElMl2">https://t.co/KtRsUElMl2</a> vía <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Abril Lech♡ (@Abril7) <a href="https://twitter.com/Abril7/status/605461702340149248">1 de junio de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/s43IFGAYSa4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQqo-w1qvws?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -254,9 +257,15 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mientras tanto, en una manifestación de Informáticos... <a href="http://t.co/V1SnNsGbNX">pic.twitter.com/V1SnNsGbNX</a></p>&mdash; El Amigo Informático (@E1Am1g01nf0rma1) <a href="https://twitter.com/E1Am1g01nf0rma1/status/621432877385928704">15 de julio de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Video humorístico sobre Coaching (&quot;Cámera Café&quot;) <a href="https://t.co/ewvHzFmc3T">https://t.co/ewvHzFmc3T</a></p>&mdash; Alberto Barbero (@Albarbero) <a href="https://twitter.com/Albarbero/status/706747489626537984">7 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQT5qCsHFJM?list=FL7EYLkgXAUtiZh9LMPR1FEw" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Camera Café La entrevista <a href="http://t.co/UbXMUIRtnn">http://t.co/UbXMUIRtnn</a> vía <a href="https://twitter.com/YouTube">@youtube</a></p>&mdash; Carlos de Olagüe Sm. (@carlosdeolague) <a href="https://twitter.com/carlosdeolague/status/431917076580536320">7 de febrero de 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/F080WS06lEU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <blockquote class="twitter-video tw-align-center" data-lang="es"><p lang="es" dir="ltr">Si no te gusta el fútbol en España, ESTAS JODIDO. <a href="https://twitter.com/hashtag/finalchampions?src=hash">#finalchampions</a> <a href="https://twitter.com/hashtag/halamadrid?src=hash">#halamadrid</a> <a href="https://twitter.com/hashtag/aupaatleti?src=hash">#aupaatleti</a> <a href="https://t.co/qI33jtAKTo">pic.twitter.com/qI33jtAKTo</a></p>&mdash; Wasabi Humor (@wasabihumor) <a href="https://twitter.com/wasabihumor/status/736504024875323392">28 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
