@@ -210,6 +210,8 @@
 
 [![wifisafe](images/wifisafe-marca.jpg)](https://www.wifisafe.com/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cool. How Wi-Fi waves propagate in a building. <a href="https://twitter.com/hashtag/networking?src=hash">#networking</a> <a href="https://twitter.com/hashtag/WiFi?src=hash">#WiFi</a> <a href="https://t.co/VvB8sQwYE7">pic.twitter.com/VvB8sQwYE7</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/736534890137550848">28 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## WebPerf and Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
 	- [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
