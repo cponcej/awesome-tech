@@ -25,6 +25,8 @@
 - [careerealism.com: 7 Toxic Traits Of A Bad Employer](https://www.linkedin.com/pulse/7-toxic-traits-bad-employer-j-t-o-donnell)
 - [Takata recalls, another symptom of culture of fear](https://www.linkedin.com/pulse/takata-recalls-another-symptom-culture-fear-l-david-marquet)
 
+![performance_review](images/performance_review.gif)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZQcEPEaWYc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -59,6 +61,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1Gx0ff7YjTyWca" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/12-characteristicsofhorribleboss" title="12 Characteristics of A Horrible Boss" target="_blank">12 Characteristics of A Horrible Boss</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>
 </div>
 <br/>
+
+![dilbert_disdain](images/dilbert_disdain.gif)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1H6fog0r6z2Kot" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/personality-traits-of-a-great-boss-44358501" title="12 Personality Traits Of A Great Boss " target="_blank">12 Personality Traits Of A Great Boss </a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>
