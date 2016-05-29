@@ -2,6 +2,7 @@
 
 - [Security Toolkits and Policies. Penetration Testing](#security-toolkits-and-policies-penetration-testing)
     - [Kali Linux](#kali-linux)
+    - [BackBox Linux](#backbox-linux)
 
 <!-- /MarkdownTOC -->
 
@@ -57,6 +58,12 @@
 <br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to install Kali Linux 2.0 + Guest Additions on VirtualBox <a href="https://t.co/oOQIcUtgMK">https://t.co/oOQIcUtgMK</a></p>&mdash; Oracle VirtualBox (@virtualbox) <a href="https://twitter.com/virtualbox/status/712686458667139073">23 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### BackBox Linux
+- [backbox.org](https://backbox.org)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Kali Linux Alternative: BackBox Linux 4.6 Released With Updated Hacking Tools <a href="https://t.co/bDAFfYBPlK">https://t.co/bDAFfYBPlK</a> <a href="https://t.co/yQOdJvrROk">pic.twitter.com/yQOdJvrROk</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/736900101780602881">29 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
