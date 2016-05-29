@@ -48,6 +48,9 @@
 
 # SQL
 - [Reinventing Yourself as a Next Generation DBA](http://www.cumulogic.com/next-gen-dba/)
+- [SQL Is Not Dead and How to Make It Part of Your Toolbox 🌟🌟](https://dzone.com/articles/sql-is-not-dead-and-how-to-make-it-part-of-your-to)
+- [Learn SQL by Calculating Customer Lifetime Value Part 1: Setup, Counting and Filtering 🌟](https://blog.treasuredata.com/blog/2014/12/05/learn-sql-by-calculating-customer-lifetime-value-part-1/)
+- [Learn SQL by Calculating Customer Lifetime Value Part 2: GROUP BY and JOIN 🌟](https://blog.treasuredata.com/blog/2015/02/05/learn-sql-by-calculating-customer-lifetime-value-part-2/)
 
 ## Awesome Lists
 - [Awesome sql](https://github.com/danhuss/awesome-sql)
@@ -349,6 +352,7 @@
 - [twitter.com/postgresql](https://twitter.com/postgresql)
 
 ### PostgreSQL refs
+- [postgresguide.com 🌟](http://postgresguide.com)
 - [gettopical.com: PostgreSQL latest news](http://gettopical.com/postgresql)
 - [PostgreSQL docs](http://www.postgresql.org/docs/)
 - [SQL Monitoring in PostgreSQL. Identify long running queries](http://blog.dbi-services.com/sql-monitoring-in-postgresql-1-the-logging-system/)

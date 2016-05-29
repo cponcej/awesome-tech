@@ -19,6 +19,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why <a href="https://twitter.com/hashtag/Google?src=hash">#Google</a> &#39;s victory in a copyright fight with <a href="https://twitter.com/hashtag/Oracle?src=hash">#Oracle</a> is a big deal via <a href="https://twitter.com/voxdotcom">@voxdotcom</a> <a href="https://t.co/C38CnFdxbG">https://t.co/C38CnFdxbG</a> <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a></p>&mdash; Anita (@anitaht1011) <a href="https://twitter.com/anitaht1011/status/736215178685997056">27 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![where_oracle_supporters](images/where_oracle_supporters.png)](https://dzone.com/articles/oracle-vs-google-is-anyone-rooting-for-oracle)
+
 # Java
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)
@@ -104,4 +106,7 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">really awesome series on jvm garbage collection from <a href="https://twitter.com/gphat">@gphat</a> <a href="https://t.co/w4176p2ahq">https://t.co/w4176p2ahq</a> <a href="https://t.co/crmiXdLhBh">https://t.co/crmiXdLhBh</a> <a href="https://t.co/sKGxNXFuto">https://t.co/sKGxNXFuto</a></p>&mdash; Julia Evans (@b0rk) <a href="https://twitter.com/b0rk/status/723894833824325632">23 de abril de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">[NEW REFCARD] <br>Java Performance Optimization <a href="https://t.co/azKM9r69Lb">https://t.co/azKM9r69Lb</a> via <a href="https://twitter.com/AppDynamics">@AppDynamics</a> <a href="https://twitter.com/hashtag/JVM?src=hash">#JVM</a> <a href="https://t.co/Fp88Wr3LTA">pic.twitter.com/Fp88Wr3LTA</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/729671300235530240">9 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
