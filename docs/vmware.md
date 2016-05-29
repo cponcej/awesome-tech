@@ -80,3 +80,9 @@
 <iframe src="https://player.vimeo.com/video/55579849" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/g6x6ITM0Oy39F7" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/vaibhavj1994/virtualbox-essentials" title="VIRTUALBOX ESSENTIALS" target="_blank">VIRTUALBOX ESSENTIALS</a> </strong> from <strong><a href="//www.slideshare.net/vaibhavj1994" target="_blank">Vaibhav Jain</a></strong> </div>
+</div>
+<br/>
+
