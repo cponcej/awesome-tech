@@ -46,6 +46,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 open source skills in high demand <a href="https://t.co/gCuwIHVlOm">https://t.co/gCuwIHVlOm</a></p>&mdash; CIO.com (@CIOonline) <a href="https://twitter.com/CIOonline/status/735456011239231489">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The shift in <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a>: A new kind of platform war: <a href="https://t.co/Fih41jOdLk">https://t.co/Fih41jOdLk</a> <a href="https://t.co/FapMuYeSsV">pic.twitter.com/FapMuYeSsV</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/736983197850861569">29 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NxUyTA81epg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
