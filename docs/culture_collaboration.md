@@ -19,6 +19,12 @@
 - [businessinsider.com: 27 jobs to avoid if you hate stress](http://www.businessinsider.com/jobs-to-avoid-if-you-hate-stress-2015-9)
 - [businessinsider.com: 13 bad habits you should break in 2016 to be more productive 🌟](http://www.businessinsider.com/bad-habits-that-are-killing-your-productivity-2015-12)
 - [Is Workplace Culture Overrated? (Infographic)](https://www.entrepreneur.com/article/276152)
+- [careerealism.com: Are You A ‘Cultural Fit’ For The Job?](http://www.careerealism.com/cultural-fit-job/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JZQcEPEaWYc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="http://t.co/RmXpSOqNwy">http://t.co/RmXpSOqNwy</a> Best scene from Moneyball</p>&mdash; Shigeyuki Ono (@hibarifuji) <a href="https://twitter.com/hibarifuji/status/640504452047314944">6 de septiembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
