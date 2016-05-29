@@ -91,11 +91,6 @@ Available for work (no freelance). Looking for new opportunities across Northern
 [![voltaire change others](images/voltaire_change_other.jpg)](http://statusmind.com/)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVkq8IEO4tc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7HF1Sfos3v4?list=PL_h5o0KnrCrgB0Xo19U6orpWOv9yxK-c7" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
