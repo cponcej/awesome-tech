@@ -23,6 +23,11 @@
 - [PaloAlto Firewall Platforms](https://paloaltonetworks.com/products/platforms/firewalls.html)
 - [sophos.com: What is… a VPN?](https://blogs.sophos.com/what-is/a-vpn/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XEqnE_sDzSk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Encryption increasingly used to hide attacks
 - [Encryption increasingly used to hide attacks, says new report (Feb 2016) 🌟🌟](http://www.scmagazine.com/encryption-increasingly-used-to-hide-attacks-says-new-report/article/478532/)
 - [Encrypted Internet Traffic a Key Cybersecurity Threat](http://www.afcea.org/content/?q=Article-encrypted-internet-traffic-key-cybersecurity-threat)
