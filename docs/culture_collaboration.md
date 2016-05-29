@@ -6,6 +6,8 @@
 
 ![rush_f1](images/rush_f1.jpg)
 
+![no_whining](images/no_whining.jpg)
+
 # Culture and collaboration
 - [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
 - [deloitte: Cultivating the IT Workforce of the Future](http://deloitte.wsj.com/cio/2015/10/20/cultivating-the-it-workforce-of-the-future/)
