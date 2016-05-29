@@ -100,6 +100,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="de" dir="ltr">Philip Seymour Hoffman <a href="https://t.co/WeScIKb5JC">pic.twitter.com/WeScIKb5JC</a></p>&mdash; Actor Trivia (@ActorTrivia) <a href="https://twitter.com/ActorTrivia/status/719513410501812224">11 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Series de fuera de EEUU que le están dando una &quot;paliza&quot; a las americanas <a href="https://t.co/uejF7it5mp">https://t.co/uejF7it5mp</a> <a href="https://t.co/4iB7r6V3NH">pic.twitter.com/4iB7r6V3NH</a></p>&mdash; xataka (@xataka) <a href="https://twitter.com/xataka/status/736936414168879104">29 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H4gOYlBO0ys?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
