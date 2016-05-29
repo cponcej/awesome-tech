@@ -21,6 +21,7 @@
 - [Fortinet Fortigate](http://www.fortinet.com/products/fortigate/)
 - [Cisco ASA 5500-X Series Firewalls](http://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/index.html)
 - [PaloAlto Firewall Platforms](https://paloaltonetworks.com/products/platforms/firewalls.html)
+- [sophos.com: What is… a VPN?](https://blogs.sophos.com/what-is/a-vpn/)
 
 ## Encryption increasingly used to hide attacks
 - [Encryption increasingly used to hide attacks, says new report (Feb 2016) 🌟🌟](http://www.scmagazine.com/encryption-increasingly-used-to-hide-attacks-says-new-report/article/478532/)
@@ -121,6 +122,11 @@
 
 ## Sophos
 - [sophos.com](https://www.sophos.com)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UTM4utjXRxw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-kY2WWWEyQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

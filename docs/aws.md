@@ -48,6 +48,8 @@
 
 [![github_awslabs](images/github_awslabs.png)](https://github.com/awslabs)
 
+[![10_min_tutorials](images/10_min_tutorials.png)](https://aws.amazon.com/getting-started/tutorials/)
+
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
 - [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
