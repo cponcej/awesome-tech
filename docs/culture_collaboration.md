@@ -20,6 +20,7 @@
 - [businessinsider.com: 13 bad habits you should break in 2016 to be more productive 🌟](http://www.businessinsider.com/bad-habits-that-are-killing-your-productivity-2015-12)
 - [Is Workplace Culture Overrated? (Infographic)](https://www.entrepreneur.com/article/276152)
 - [careerealism.com: Are You A ‘Cultural Fit’ For The Job?](http://www.careerealism.com/cultural-fit-job/)
+- [careerealism.com: 7 Toxic Traits Of A Bad Employer](https://www.linkedin.com/pulse/7-toxic-traits-bad-employer-j-t-o-donnell)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZQcEPEaWYc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
