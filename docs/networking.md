@@ -200,6 +200,11 @@
 - [HP Acquires Aruba Networks to Create an Industry Leader in Enterprise Mobility](http://www8.hp.com/hpnext/posts/hp-announcement-march-2015)
 - [zdnet: DD-WRT Linux firmware comes to Linksys routers](http://www.zdnet.com/article/dd-wrt-linux-firmware-comes-to-linksys-routers/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6pYZ2N9y2fQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## WiFi Products
 - [twitter.com/wifisafespain](https://twitter.com/wifisafespain)
 
