@@ -276,6 +276,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A map of all the battles fought around the world over the last 4,000 years <a href="https://t.co/5qiHQNknei">https://t.co/5qiHQNknei</a> <a href="https://t.co/JOONDQTgip">pic.twitter.com/JOONDQTgip</a></p>&mdash; indy100 (@indy100) <a href="https://twitter.com/indy100/status/703930964301520896">28 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: European countries by percentage of population killed in WWII. <a href="https://t.co/bXqbv30gZo">pic.twitter.com/bXqbv30gZo</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/736988030007840768">29 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">21 maps and charts to challenge your perceptions of Europe <a href="https://t.co/gAFMI02PP0">https://t.co/gAFMI02PP0</a> <a href="https://t.co/GrXEV8IpHi">pic.twitter.com/GrXEV8IpHi</a></p>&mdash; indy100 (@indy100) <a href="https://twitter.com/indy100/status/704349044483694592">29 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
