@@ -671,6 +671,11 @@
 - [Vim and Haskell in 2016](http://www.stephendiehl.com/posts/vim_2016.html)
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Emacs
 - [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 - [Black Hats - GNU/Emacs](http://www.blackhats.es)

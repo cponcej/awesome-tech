@@ -199,11 +199,6 @@
 
 [![Intellij IDEA 15](images/idea_15.png)](https://www.jetbrains.com/idea/whatsnew/)
 
-<div class="container">
-<iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
-</div>
-<br>
-
 ### Sublime Text Editor
 - [Sublime Text Editor](sublime.md)
 
