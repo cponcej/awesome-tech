@@ -62,6 +62,7 @@ Available for work (no freelance). Looking for new opportunities across Northern
     - [Sublime Text Editor 🌟](sublime.md)
     - [Java](java.md)
 	- [Python](python.md)
+	- [Static Site Generators 🌟🌟](staticsitegen.md)
 12. [Data Science and Big Data](data-science.md)
 	- [SQL and Databases](databases.md)
 	- [NoSQL and NewSQL 🌟](nosql.md)
