@@ -57,15 +57,15 @@ pages:
 - Puppet: puppet.md
 - Docker: docker.md
 - DevOps and ITIL: devops-itil.md
-- Continuous Integration Tools. Jenkins, Git: jenkins-git.md
 - Metrics. JMeter, Zabbix, APM: metrics.md
 - Elasticsearch: elasticsearch.md
-- QA. Software Testing: qa.md
 - Software Development: sw-devel.md
 - Sublime Text Editor: sublime.md
 - Java: java.md
 - Python: python.md
 - Static Site Generators: staticsitegen.md
+- QA. Software Testing: qa.md
+- Continuous Integration Tools. Jenkins, Git: jenkins-git.md
 - Data Science and Big Data: data-science.md
 - SQL and Databases: databases.md
 - NoSQL and NewSQL: nosql.md
