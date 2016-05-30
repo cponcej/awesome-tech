@@ -156,6 +156,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Making Security An Integral Part Of DevOps <a href="https://t.co/EyjDGIYgxK">https://t.co/EyjDGIYgxK</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/IyvdI2ZTca">pic.twitter.com/IyvdI2ZTca</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/716642452518477826">3 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Should <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> be applied to all software development within an organisation? <a href="https://twitter.com/AtosSC">@AtosSC</a> <a href="https://twitter.com/Atos">@Atos</a> <a href="https://t.co/GRDrj5igaA">https://t.co/GRDrj5igaA</a> <a href="https://t.co/9JTlnukcs8">pic.twitter.com/9JTlnukcs8</a></p>&mdash; Antonio Santos⚙☘️ (@akwyz) <a href="https://twitter.com/akwyz/status/737045860090019840">29 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/tOdsxSB4MfwWj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CAinc/busting-the-five-biggest-devops-myths" title="Busting the Five Biggest DevOps Myths" target="_blank">Busting the Five Biggest DevOps Myths</a> </strong> from <strong><a href="//www.slideshare.net/CAinc" target="_blank">CA Technologies</a></strong> </div>
 </div>
@@ -177,6 +180,8 @@
 [![cultura startup](images/cultura_startup_devops.png)](https://www.linkedin.com/pulse/8-cosas-de-la-cultura-startup-que-aprenden-las-empresas-cobian)
 
 [![cultura sobre la tecnología: la clave del éxito de DevOps](images/devops_cultura_exito.png)](http://www.cloudcomputing-news.net/news/2016/jan/21/culture-over-technology-key-devops-success/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">DevOps maturity is not about developers writing Chef code. It is when when developers prioritize maintaining said scripts same as prod code.</p>&mdash; Badri Janakiraman (@badrij) <a href="https://twitter.com/badrij/status/722834988387999744">20 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Collaborative tools
 - [etherpad.org 🌟](http://etherpad.org)
