@@ -37,6 +37,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LOL. Via <a href="https://t.co/HWulUfrhmk">https://t.co/HWulUfrhmk</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://twitter.com/hashtag/parkinsonslaw?src=hash">#parkinsonslaw</a> <a href="https://t.co/cNcwbP3UyQ">pic.twitter.com/cNcwbP3UyQ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714018152120606721">27 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">51 Best DevOps Tools for <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> Engineers <a href="http://t.co/OYP0PuFoSI">http://t.co/OYP0PuFoSI</a>  What tools are you using?</p>&mdash; ProfitBricks (@ProfitBricksUSA) <a href="https://twitter.com/ProfitBricksUSA/status/568069464572489729">18 de febrero de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dilbert_devops_monkey](images/dilbert_devops_monkey.jpg)](http://dilbert.com/strip/2010-01-18)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">...<a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> + <a href="https://twitter.com/hashtag/analytics?src=hash">#analytics</a> + <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> + <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> + <a href="https://twitter.com/hashtag/Dilbert?src=hash">#Dilbert</a> = Priceless Humor <a href="https://t.co/fPnuWQEc2n">pic.twitter.com/fPnuWQEc2n</a></p>&mdash; Sharat (@Sharat_Chander) <a href="https://twitter.com/Sharat_Chander/status/717495274663333889">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -199,6 +202,7 @@
 - [How We Use AWS, Ansible, and Packer to Make Deployment Awesome 🌟](https://blog.branch.io/how-we-use-aws-ansible-and-packer-to-make-deployment-awesome)
 - [Fabric8 is an integrated open source DevOps and Integration Platform](http://fabric8.io/)
 - [DevOps Debates: The Benefits of Tool Standardization 🌟](http://devops.com/2016/01/20/devops-debates-benefits-tool-standardization/)
+- [51 Best DevOps Tools for #DevOps Engineers 🌟](https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/)
 
 [![agile to market themselves](images/agile_to_market_themselves.png)](https://kenschwaber.wordpress.com/2014/07/30/agile/)
 
