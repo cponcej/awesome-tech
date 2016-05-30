@@ -146,6 +146,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/24v5mXuOIjoUhz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CAinc/success-with-apis-a-checklist" title="Success with APIs: A Checklist" target="_blank">Success with APIs: A Checklist</a> </strong> from <strong><a href="//www.slideshare.net/CAinc" target="_blank">CA Technologies</a></strong> </div>
+</div>
+<br/>
+
 ## Design Patterns
 - [wikipedia: Design Patterns. Gang of Four (GoF) 🌟](https://en.wikipedia.org/wiki/Design_Patterns)
 	- [stackoverflow.com: Examples of GoF Design Patterns in Java's core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
