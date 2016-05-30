@@ -126,6 +126,7 @@
 - [Implementing a DevOps Strategy across multiple locations & product teams](http://tech.ticketmaster.com/2016/02/01/implementing-a-devops-strategy-across-multiple-locations-product-teams/)
 - [opensource.com - The best ideas win: Community reflections on The Open Organization 🌟](https://opensource.com/open-organization/15/12/introducing-open-organization-field-guide) free e-book
 - [accenture.com: DevOps Leadership Culture—Staying Cool When it is Getting Tough](https://www.accenture.com/us-en/blogs/blogs-devops-leadership-culture-staying-cool-when-getting-tough)
+- [middlewareblog.redhat.com: Intro to DevOps 🌟](http://middlewareblog.redhat.com/2016/05/25/intro-to-devops/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_I94-tJlovg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
