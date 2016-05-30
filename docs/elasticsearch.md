@@ -28,6 +28,11 @@
 - [How to deploy Elasticsearch with Docker in 10 steps 🌟](How to deploy Elasticsearch with Docker in 10 steps)
 
 <div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/J24ce1Kw3xMrKO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/chenryn/how-elasticsearch-lives-in-my-devops-life" title="How ElasticSearch lives in my DevOps life" target="_blank">How ElasticSearch lives in my DevOps life</a> </strong> from <strong><a href="//es.slideshare.net/chenryn" target="_blank">琛琳 饶</a></strong> </div>
+</div> 
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U3m0jKygAqU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div> 
 <br/>
