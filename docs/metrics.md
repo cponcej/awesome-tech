@@ -173,12 +173,12 @@
 </div>
 <br/>
 
+[![newrelic apm](images/newrelic-apm.png)](https://youtu.be/J5tzI-8k__Q)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F99eSpvZOIQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-[![newrelic apm](images/newrelic-apm.png)](https://youtu.be/J5tzI-8k__Q)
 
 ### Centralized logging. Big Data Log Management Tools (Data Analytics Platforms)
 - [Devops and Log Management Tools Drive Agile IT](http://blog.xpolog.com/2014/04/17/devops-and-log-analysis-tools-drive-agile-it/)
