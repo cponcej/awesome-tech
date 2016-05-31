@@ -52,14 +52,14 @@ pages:
 - Security auditing tools: auditing-tools.md
 - Security Toolkits and Policies. Penetration Testing: pen_testing.md
 - SQL Injection: sql_injection.md
-- Configuration Management and Orchestration. Microservices: config-mgmt.md
-- Ansible: ansible.md
-- Puppet: puppet.md
-- Docker: docker.md
 - DevOps and ITIL: devops-itil.md
 - Metrics. JMeter, Zabbix, APM: metrics.md
 - Elasticsearch: elasticsearch.md
 - Continuous Integration Tools. Jenkins, Git: jenkins-git.md
+- Configuration Management and Orchestration. Microservices: config-mgmt.md
+- Ansible: ansible.md
+- Puppet: puppet.md
+- Docker: docker.md
 - Software Development: sw-devel.md
 - Sublime Text Editor: sublime.md
 - Java: java.md
