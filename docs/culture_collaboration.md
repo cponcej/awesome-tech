@@ -67,6 +67,8 @@
 
 ![dilbert_disdain](images/dilbert_disdain.gif)
 
+![professional_title_does_not_define_you](images/professional_title_does_not_define_you.png)
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1H6fog0r6z2Kot" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dbenoni/personality-traits-of-a-great-boss-44358501" title="12 Personality Traits Of A Great Boss " target="_blank">12 Personality Traits Of A Great Boss </a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/dbenoni">Dan Benoni</a></strong> </div>
 </div>
