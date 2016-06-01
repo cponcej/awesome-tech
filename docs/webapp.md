@@ -230,6 +230,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why HBO is so scared of Netflix <a href="https://t.co/AVwt6IfP72">https://t.co/AVwt6IfP72</a> <a href="https://t.co/ZmBfSkE1Dg">pic.twitter.com/ZmBfSkE1Dg</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/699642563486203904">febrero 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Supondrá Google el fin de la televisión local? <a href="https://t.co/z2sv5JcWcF">https://t.co/z2sv5JcWcF</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/737361608393916417">30 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/x1wiZ4pS36i1b" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/2013-1023wowzalivestreamingwebinarniharchris" title="AWS Webcast - Live Streaming using Amazon CloudFront and Wowza Media Server" target="_blank">AWS Webcast - Live Streaming using Amazon CloudFront and Wowza Media Server</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/AmazonWebServices">Amazon Web Services</a></strong> </div>
 </div>

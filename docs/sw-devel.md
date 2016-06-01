@@ -60,6 +60,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">6 essential non-coding careers in open source: <a href="https://t.co/uepH3F9V2d">https://t.co/uepH3F9V2d</a> <a href="https://t.co/yXYgMW6kJu">pic.twitter.com/yXYgMW6kJu</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/715238167218008064">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The app explosion is over <a href="https://t.co/sEx4lFSgxa">https://t.co/sEx4lFSgxa</a> <a href="https://t.co/fCmixATBfr">pic.twitter.com/fCmixATBfr</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/737678559976787969">31 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![commitstrip legacy project](images/commitstrip_legacy_project.jpg)](http://www.commitstrip.com/en/2016/02/15/our-companys-greatest-project/)
 
 # Software Development

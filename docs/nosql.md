@@ -10,6 +10,10 @@
 
 <!-- /MarkdownTOC -->
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Modern Architecture with <a href="https://twitter.com/hashtag/Containers?src=hash">#Containers</a>, <a href="https://twitter.com/hashtag/Microservices?src=hash">#Microservices</a>, and <a href="https://twitter.com/hashtag/NoSQL?src=hash">#NoSQL</a> - <a href="https://t.co/IfyCsOHUfE">https://t.co/IfyCsOHUfE</a> <a href="https://t.co/Ciw2qKIsWO">pic.twitter.com/Ciw2qKIsWO</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/737669216568934400">31 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ansible can provide the glue that can make it easier to deploy your containers into any environment. <a href="https://t.co/bCtSNifR0z">https://t.co/bCtSNifR0z</a></p>&mdash; Ansible by Red Hat (@ansible) <a href="https://twitter.com/ansible/status/737661278945218560">31 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # NoSQL and NewSQL
 ## NoSQL
 - [Introduction to NoSQL by Martin Fowler, video tutorial](https://www.youtube.com/watch?v=qI_g07C_Q5I)

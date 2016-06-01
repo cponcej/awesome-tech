@@ -52,6 +52,9 @@
 
 [![spanish_fintech](images/spanish_fintech.jpg)](http://spanishfintech.net/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los 4 retos de la banca. <a href="https://twitter.com/hashtag/finanzas?src=hash">#finanzas</a> <a href="https://twitter.com/hashtag/economia?src=hash">#economia</a> <a href="https://t.co/tGdyw7qEEO">pic.twitter.com/tGdyw7qEEO</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/737369361019764736">30 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UYtbFu8q-ts?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -183,10 +186,15 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mapa mundial del desempleo. <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> <a href="https://twitter.com/hashtag/paro?src=hash">#paro</a> <a href="https://t.co/cuy1ju7xCy">pic.twitter.com/cuy1ju7xCy</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/710463801561325568">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La crisis de desempleo juvenil en Europa se mantiene. <a href="https://t.co/BkG5Oiojpg">https://t.co/BkG5Oiojpg</a> <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/737603693323771904">31 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Most millennials work more than 40 hours a week. These countries lead the world in hours: <a href="https://t.co/tCqxOauU8y">https://t.co/tCqxOauU8y</a> <a href="https://t.co/oc9bbpxWqg">pic.twitter.com/oc9bbpxWqg</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/735889744551378946">26 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las empresas más rentables del <a href="https://twitter.com/hashtag/IBEX?src=hash">#IBEX</a> desde 2007. <a href="https://twitter.com/hashtag/bolsa?src=hash">#bolsa</a> <a href="https://t.co/hOBcX0ijUp">pic.twitter.com/hOBcX0ijUp</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/719973144006672385">12 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los gigantes tecnológicos acumulan $1,680,000,000,000 en caja. No se ni como se dice el ese numero 😄 vía <a href="https://twitter.com/ValaAfshar">@ValaAfshar</a> <a href="https://t.co/sPXtUzTU2Q">pic.twitter.com/sPXtUzTU2Q</a></p>&mdash; Roberto García Esteb (@72rge) <a href="https://twitter.com/72rge/status/737377154783182848">30 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![fail_risk_enough](images/fail_risk_enough.jpg)
 
@@ -394,9 +402,12 @@
 
 [![trabajo_basura](images/trabajo_basura.gif)](http://trabajobasura.info/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El monstruo en que se han convertido en España las consultoras / cárnicas. Buen análisis <a href="https://twitter.com/david_bonilla">@david_bonilla</a> ! <a href="https://t.co/6SXccLJtb8">https://t.co/6SXccLJtb8</a></p>&mdash; Startup Jobs BCN (@startupjobsbcn) <a href="https://twitter.com/startupjobsbcn/status/729589515606732800">9 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![industria_tecnologica_bienestar_laboral](images/industria_tecnologica_bienestar_laboral.png)](http://www.ticbeat.com/empresa-b2b/la-industria-tecnologica-la-que-mas-bienestar-laboral-ofrece-a-sus-empleados/)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El monstruo en que se han convertido en España las consultoras / cárnicas. Buen análisis <a href="https://twitter.com/david_bonilla">@david_bonilla</a> ! <a href="https://t.co/6SXccLJtb8">https://t.co/6SXccLJtb8</a></p>&mdash; Startup Jobs BCN (@startupjobsbcn) <a href="https://twitter.com/startupjobsbcn/status/729589515606732800">9 de mayo de 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">IT professionals are feeling less job stress, survey suggests <a href="https://t.co/KIvgL6q7NW">https://t.co/KIvgL6q7NW</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/joemckendrick">@joemckendrick</a> <a href="https://t.co/XIcGnvAgqn">pic.twitter.com/XIcGnvAgqn</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/737674957841440768">31 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Is tech turning contract work into the future of employment? <a href="https://t.co/Q1TonIo9sR">https://t.co/Q1TonIo9sR</a> by <a href="https://twitter.com/hope_reese">@Hope_Reese</a> <a href="https://t.co/t1EreileS3">pic.twitter.com/t1EreileS3</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/711968147214041088">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

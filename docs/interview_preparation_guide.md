@@ -99,6 +99,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We can stop here<br> <a href="https://t.co/Jgtn694sZo">https://t.co/Jgtn694sZo</a> <a href="https://t.co/zzTFfRedEG">pic.twitter.com/zzTFfRedEG</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/725398686486945792">27 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tres simuladores para practicar tu <a href="https://twitter.com/hashtag/entrevista?src=hash">#entrevista</a> de <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> <a href="https://t.co/GKCD2PXC6C">https://t.co/GKCD2PXC6C</a> vía <a href="https://twitter.com/Infoempleo">@Infoempleo</a> <a href="https://twitter.com/hashtag/orientacionline?src=hash">#orientacionline</a> <a href="https://twitter.com/hashtag/orientaci%C3%B3n?src=hash">#orientación</a></p>&mdash; Orientación_Online (@Orientacionline) <a href="https://twitter.com/Orientacionline/status/737269053832736769">30 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to answer dumb job interview questions in Silicon Valley <a href="https://t.co/5q4WFLRBnH">https://t.co/5q4WFLRBnH</a> <a href="https://t.co/ROOXCIHBnb">pic.twitter.com/ROOXCIHBnb</a></p>&mdash; Forbes Tech News (@ForbesTech) <a href="https://twitter.com/ForbesTech/status/733391780385853440">19 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

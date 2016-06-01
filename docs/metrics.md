@@ -18,6 +18,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![dzone_performance_monitoring](images/dzone_performance_monitoring.png)](https://dzone.com/guides/performance-and-monitoring)
+
 # Metrics
 ## Performance Testing. Traffic injectors
 ### JMeter

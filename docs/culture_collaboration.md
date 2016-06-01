@@ -27,6 +27,9 @@
 
 ![performance_review](images/performance_review.gif)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">34 things you should never say during a performance review <a href="https://t.co/C6ObUtWQtc">https://t.co/C6ObUtWQtc</a> <a href="https://t.co/K38X3tssVV">pic.twitter.com/K38X3tssVV</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/737674830695288832">31 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZQcEPEaWYc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -141,6 +144,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwfMVsH23RI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bL2KBIwcUGE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
