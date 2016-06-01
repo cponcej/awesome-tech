@@ -48,6 +48,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/Telefonica">@Telefonica</a> and .<a href="https://twitter.com/RedHatNews">@RedHatNews</a> sign a global agreement to help companies mobilise business <a href="https://t.co/XNQiOjdIKK">https://t.co/XNQiOjdIKK</a> <a href="https://t.co/kff4IRZYVq">pic.twitter.com/kff4IRZYVq</a></p>&mdash; LogisticsIT Magazine (@LogisticsIT) <a href="https://twitter.com/LogisticsIT/status/733719223726419969">20 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>&#39;s <a href="https://twitter.com/hashtag/OpenSource?src=hash">#OpenSource</a> success story is built on killing complexity in IT, says <a href="https://twitter.com/mjasay">@mjasay</a> <a href="https://t.co/7xeF4ctm5R">https://t.co/7xeF4ctm5R</a> (via <a href="https://twitter.com/TechRepublic">@techrepublic</a>)</p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/737561909394735104">31 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![CentOS logo](images/centos-logo.png)](https://www.centos.org/)
 
 [![redhat_2billion_dollar_baby](images/redhat_2billion_dollar_baby.png)](http://fortune.com/2016/03/22/red-hat-revenue-2-billion-open-source/)

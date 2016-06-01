@@ -66,6 +66,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Retweeted Red Hat Developers (<a href="https://twitter.com/rhdevelopers">@rhdevelopers</a>):<br><br>You heard Microsoft hearts Linux.  Soon you will see .NET in... <a href="https://t.co/oe5AsSgPDm">https://t.co/oe5AsSgPDm</a></p>&mdash; CN kashyap  ツ (@CNkashyap) <a href="https://twitter.com/CNkashyap/status/715532199500447745">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Create and run Hyper-V containers using Docker on Windows 10 desktop <a href="https://t.co/AHP0R7MIDd">https://t.co/AHP0R7MIDd</a>  <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://t.co/I6NGQo6eQT">pic.twitter.com/I6NGQo6eQT</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/737598208013017089">31 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1IJ7nmqOKS7cZn" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nishadsukumaran/active-directory-training" title="Active Directory Training" target="_blank">Active Directory Training</a> </strong> from <strong><a href="//www.slideshare.net/nishadsukumaran" target="_blank">Nishad Sukumaran</a></strong> </div>
 </div>

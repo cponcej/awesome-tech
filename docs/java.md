@@ -19,6 +19,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why <a href="https://twitter.com/hashtag/Google?src=hash">#Google</a> &#39;s victory in a copyright fight with <a href="https://twitter.com/hashtag/Oracle?src=hash">#Oracle</a> is a big deal via <a href="https://twitter.com/voxdotcom">@voxdotcom</a> <a href="https://t.co/C38CnFdxbG">https://t.co/C38CnFdxbG</a> <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a></p>&mdash; Anita (@anitaht1011) <a href="https://twitter.com/anitaht1011/status/736215178685997056">27 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Google?src=hash">#Google</a> wins against <a href="https://twitter.com/hashtag/Oracle?src=hash">#Oracle</a> but the fight over fair use and <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> drags on <a href="https://t.co/XM1D0yaj75">https://t.co/XM1D0yaj75</a> via <a href="https://twitter.com/mashable">@mashable</a></p>&mdash; Codiant (@CodiantInc) <a href="https://twitter.com/CodiantInc/status/737536399264485376">31 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![where_oracle_supporters](images/where_oracle_supporters.png)](https://dzone.com/articles/oracle-vs-google-is-anyone-rooting-for-oracle)
 
 # Java
