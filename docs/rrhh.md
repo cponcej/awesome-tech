@@ -104,6 +104,7 @@
 - [9 formas con éxito seguro de destruir la moral del empleado](http://www.rrhhsocialmedia.com/9-formas-con-exito-seguro-de-destruir-la-moral-del-empleado/)
 - [Expectativas salariales, la pregunta del millón](http://ventajaprofesional.com/blog-ventaja-profesional/expectativas-salariales-pregunta-del-millon/)
 - [Peligro: Hay un trepa en mi trabajo](https://balcon40.com/2016/04/11/peligro-hay-un-trepa-en-mi-trabajo/)
+- [Prohibido salir tarde del trabajo](https://www.cesarpiqueras.com/prohibido-salir-tarde-del-trabajo/)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
