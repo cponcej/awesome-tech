@@ -20,11 +20,9 @@
 
 <!-- /MarkdownTOC -->
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">My little <a href="https://twitter.com/docker">@docker</a> helper <a href="https://t.co/Td5ItMzZpu">https://t.co/Td5ItMzZpu</a> is today&#39;s #1 in /r/docker/ ! See it in action: <a href="https://t.co/JYnlTgW90R">https://t.co/JYnlTgW90R</a></p>&mdash; Sergei Egorov (@bsideup) <a href="https://twitter.com/bsideup/status/702576371466440704">24 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">My little <a href="https://twitter.com/docker">@docker</a> helper <a href="https://t.co/Td5ItMzZpu">https://t.co/Td5ItMzZpu</a> is today&#39;s #1 in /r/docker/ ! See it in action: <a href="https://t.co/JYnlTgW90R">https://t.co/JYnlTgW90R</a></p>&mdash; Sergei Egorov (@bsideup) <a href="https://twitter.com/bsideup/status/702576371466440704">24 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The <a href="https://twitter.com/docker">@docker</a> documentation is absolutely excellent. Learning Docker is a breeze.</p>&mdash; Akbar Ahmed (@Akbar501) <a href="https://twitter.com/Akbar501/status/702963778200035328">25 de febrero de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The <a href="https://twitter.com/docker">@docker</a> documentation is absolutely excellent. Learning Docker is a breeze.</p>&mdash; Akbar Ahmed (@Akbar501) <a href="https://twitter.com/Akbar501/status/702963778200035328">25 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Google?src=hash">#Google</a>&#39;s new managed <a href="https://twitter.com/hashtag/containers?src=hash">#containers</a> are brought to you by <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://t.co/yJXtuvCUo8">https://t.co/yJXtuvCUo8</a> via <a href="https://twitter.com/infoworld">@infoworld</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/706987546434080768">7 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -138,6 +136,10 @@
 
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)
+
+[![asciicast](https://asciinema.org/a/47471.png)](https://asciinema.org/a/47471)
+
+[![asciicast](https://asciinema.org/a/47450.png)](https://asciinema.org/a/47450)
 
 ### Docker Networking
 - [Deploying Containers with Docker Swarm and Docker Networking](http://www.javacodegeeks.com/2015/11/deploying-containers-docker-swarm-docker-networking.html)

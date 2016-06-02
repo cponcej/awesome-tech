@@ -200,6 +200,10 @@
 
 [![tecmint rhev 3.5](images/tecmint_rhev.png)](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 
+[![asciicast](https://asciinema.org/a/29921.png)](https://asciinema.org/a/29921)
+
+[![asciicast](https://asciinema.org/a/46808.png)](https://asciinema.org/a/46808)
+
 ## Red Hat OpenShift PaaS
 - [Enterprise OpenShift](https://enterprise.openshift.com/)
 - [blog.openshift.com 🌟🌟](https://blog.openshift.com)
@@ -438,6 +442,9 @@
 - [developers.redhat.com: No-Cost RHEL Developer Subscription now available 🌟](http://developers.redhat.com/blog/2016/03/31/no-cost-rhel-developer-subscription-now-available/)
 - [siliconangle.com: Red Hat will give away its Linux distro for free to developers](http://siliconangle.com/blog/2016/03/31/red-hat-will-give-away-its-linux-distro-for-free-to-developers/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">[News] <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Software Collections 2.2 and Red Hat <a href="https://twitter.com/hashtag/Developer?src=hash">#Developer</a> Toolset 4.1 Now Generally Available: <a href="https://t.co/vj1jxIZEn3">https://t.co/vj1jxIZEn3</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/738004539517853696">1 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Red Hat Container Development Kit
 - [developerblog.redhat.com: Red Hat Container Development Kit 2](http://developerblog.redhat.com/2016/02/08/update-red-hat-container-development-kit-2-beta/)
 - [planet.jboss.org: How to install Red Hat Container Development Kit (CDK) in minutes 🌟](http://planet.jboss.org/post/how_to_install_red_hat_container_development_kit_cdk_in_minutes)
@@ -447,7 +454,9 @@
 
 [![red hat container ecosystem](images/container_ecosystem.png)](http://rhelblog.redhat.com/2016/02/23/the-red-hat-ecosystem-for-microservice-and-container-development/)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to get a Node.js and mongodb application running in <a href="https://twitter.com/hashtag/containers?src=hash">#containers</a> and deployed <a href="https://twitter.com/openshift">@OpenShift</a> via the Red Hat CDK - <a href="https://t.co/QlmFOhmaMa">https://t.co/QlmFOhmaMa</a></p>&mdash; Kimberly Craven (@kimberlycraven) <a href="https://twitter.com/kimberlycraven/status/702942857535946752">25 de febrero de 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to get a Node.js and mongodb application running in <a href="https://twitter.com/hashtag/containers?src=hash">#containers</a> and deployed <a href="https://twitter.com/openshift">@OpenShift</a> via the Red Hat CDK - <a href="https://t.co/QlmFOhmaMa">https://t.co/QlmFOhmaMa</a></p>&mdash; Kimberly Craven (@kimberlycraven) <a href="https://twitter.com/kimberlycraven/status/702942857535946752">25 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat CDK installation in just minutes! <a href="https://t.co/6JZ3HEXosI">https://t.co/6JZ3HEXosI</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/737992382281437184">1 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Red Hat Varnish
