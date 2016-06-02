@@ -200,9 +200,8 @@
 
 [![tecmint rhev 3.5](images/tecmint_rhev.png)](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 
-[![asciicast](https://asciinema.org/a/29921.png)](https://asciinema.org/a/29921)
-
-[![asciicast](https://asciinema.org/a/46808.png)](https://asciinema.org/a/46808)
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">From a Dockerfile to a VM <a href="https://t.co/X2FEjlNxvH">https://t.co/X2FEjlNxvH</a> [Demo]</p>&mdash; Fedora Project (@fedora) <a href="https://twitter.com/fedora/status/738034930219941888">1 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Red Hat OpenShift PaaS
 - [Enterprise OpenShift](https://enterprise.openshift.com/)
