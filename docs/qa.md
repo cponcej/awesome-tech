@@ -4,7 +4,7 @@
 - [QA. Software Testing](#qa-software-testing)
     - [JUnit](#junit)
     - [Selenium](#selenium)
-            - [Selenium on Twitter](#selenium-on-twitter)
+        - [Selenium on Twitter](#selenium-on-twitter)
     - [Arquillian Testing Platform](#arquillian-testing-platform)
     - [Issue tracking tools](#issue-tracking-tools)
         - [Atlassian Jira](#atlassian-jira)
@@ -56,7 +56,7 @@
 - [slideshare: Selenium Tips & Tricks](http://www.slideshare.net/tourdedave/selenium-tips-tricks)
 - [10 Tips For Faster Selenium Scripts](http://www.beacon.by/test-automation-for-manual-testers/10-tips-for-faster-selenium-scripts)
 
-#### Selenium on Twitter
+### Selenium on Twitter
 - [twitter.com/SeleniumHQ](https://twitter.com/SeleniumHQ)
 - [twitter.com/saucelabs](https://twitter.com/saucelabs)
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
