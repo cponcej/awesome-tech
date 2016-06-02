@@ -350,6 +350,11 @@
 
 [![practicas_anticompetitivas](images/practicas_anticompetitivas.png)](http://www.elmundo.es/economia/2016/04/25/571e348122601d4f7b8b45eb.html)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CdB1fNN_gtE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Countries grow richer when they learn how to produce more valuable stuff per person  <a href="https://t.co/0GOBddIfND">https://t.co/0GOBddIfND</a> <a href="https://t.co/mDapJqUVm8">pic.twitter.com/mDapJqUVm8</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/711579515244388354">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Trabajando por una movilidad laboral equitativa para todos<a href="https://t.co/tyAGsFomCk">https://t.co/tyAGsFomCk</a></p>&mdash; Comisión Europea (@UEmadrid) <a href="https://twitter.com/UEmadrid/status/711883070417186816">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
