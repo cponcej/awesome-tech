@@ -2,8 +2,8 @@
 <!-- MarkdownTOC -->
 
 - [QA. Software Testing](#qa-software-testing)
-        - [JUnit](#junit)
-        - [Selenium](#selenium)
+    - [JUnit](#junit)
+    - [Selenium](#selenium)
             - [Selenium on Twitter](#selenium-on-twitter)
     - [Arquillian Testing Platform](#arquillian-testing-platform)
     - [Issue tracking tools](#issue-tracking-tools)
@@ -46,11 +46,11 @@
 </div>
 <br/>
 
-### JUnit
+## JUnit
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
 - [JUnit 5: Setup, Build Tool Support, and Writing Your First Test](https://dzone.com/articles/junit-5-setup)
 
-### Selenium
+## Selenium
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 - [selenium 2.49.0 released: Python bindings for Selenium](https://pypi.python.org/pypi/selenium/2.49.0)
 - [slideshare: Selenium Tips & Tricks](http://www.slideshare.net/tourdedave/selenium-tips-tricks)
