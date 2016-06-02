@@ -7,6 +7,8 @@
             - [Selenium on Twitter](#selenium-on-twitter)
     - [Arquillian Testing Platform](#arquillian-testing-platform)
     - [Issue tracking tools](#issue-tracking-tools)
+        - [Atlassian Jira](#atlassian-jira)
+    - [Atlassian Confluence collaboration software](#atlassian-confluence-collaboration-software)
     - [SoapUI](#soapui)
 
 <!-- /MarkdownTOC -->
@@ -65,6 +67,37 @@
 
 ## Issue tracking tools
 - [Top 4 open source issue tracking tools](https://opensource.com/business/16/2/top-issue-support-and-bug-tracking-tools)
+
+### Atlassian Jira
+- [Jira software](https://en.wikipedia.org/wiki/Jira_%28software%29)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rkNnYhenOaans" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sgenterprise20/introduction-to-jira" title="Introduction To Jira" target="_blank">Introduction To Jira</a> </strong> from <strong><a href="//www.slideshare.net/sgenterprise20" target="_blank">Hua Soon Sim</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/g70uzEtkXP4XnC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lmaija/jira-as-a-tool-for-test-management" title="Jira as a Tool for Test Management" target="_blank">Jira as a Tool for Test Management</a> </strong> from <strong><a href="//www.slideshare.net/lmaija" target="_blank">lmaija</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/E28p9ryqTmo05h" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/zeteo/jira-25510526" title="Using JIRA Software for Issue Tracking" target="_blank">Using JIRA Software for Issue Tracking</a> </strong> from <strong><a href="//www.slideshare.net/zeteo" target="_blank">Anjali Rao</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/c6gRYHMNAIxb2S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GoAtlassian/three-uses-of-jira-beyond-bug-tracking" title="Three Uses Of JIRA Beyond Bug Tracking" target="_blank">Three Uses Of JIRA Beyond Bug Tracking</a> </strong> from <strong><a href="//www.slideshare.net/GoAtlassian" target="_blank">Atlassian</a></strong> </div>
+</div>
+<br/>
+
+## Atlassian Confluence collaboration software
+- [Atlassian Confluence](https://en.wikipedia.org/wiki/Confluence_%28software%29)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/y1ph3e8uMzjfTw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sgenterprise20/introduction-to-confluence" title="Introduction To Confluence" target="_blank">Introduction To Confluence</a> </strong> from <strong><a href="//www.slideshare.net/sgenterprise20" target="_blank">Hua Soon Sim</a></strong> </div>
+</div>
+<br/>
 
 ## SoapUI
 - [SoapUI](https://en.wikipedia.org/wiki/SoapUI)
