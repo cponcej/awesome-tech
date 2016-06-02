@@ -49,7 +49,7 @@ Available for work (no freelance). Looking for new opportunities across Northern
 	- [Security Toolkits and Policies. Penetration Testing](pen_testing.md)
 	- [SQL injection 🌟](sql_injection.md)
 8. [DevOps and ITIL 🌟🌟🌟](devops-itil.md)
-	- [Metrics. JMeter, Zabbix, APM 🌟](metrics.md)
+	- [Web Performance and Metrics. JMeter, Webpagetest, Zabbix, APM 🌟](metrics.md)
 	- [Elasticsearch](elasticsearch.md)
 	- [Continuous Integration Tools. Jenkins, Git](jenkins-git.md)
 9. [Configuration Management and Orchestration. Microservices 🌟🌟](config-mgmt.md)
