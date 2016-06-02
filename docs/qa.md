@@ -2,11 +2,12 @@
 <!-- MarkdownTOC -->
 
 - [QA. Software Testing](#qa-software-testing)
-    - [JUnit](#junit)
-    - [Selenium](#selenium)
-        - [Selenium on Twitter](#selenium-on-twitter)
-        - [Arquillian Testing Platform](#arquillian-testing-platform)
-        - [Issue tracking tools](#issue-tracking-tools)
+        - [JUnit](#junit)
+        - [Selenium](#selenium)
+            - [Selenium on Twitter](#selenium-on-twitter)
+    - [Arquillian Testing Platform](#arquillian-testing-platform)
+    - [Issue tracking tools](#issue-tracking-tools)
+    - [SoapUI](#soapui)
 
 <!-- /MarkdownTOC -->
 
@@ -59,12 +60,20 @@
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
 
-### Arquillian Testing Platform
+## Arquillian Testing Platform
 - [Arquillian references in this blog](redhat.md#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
 
-### Issue tracking tools
+## Issue tracking tools
 - [Top 4 open source issue tracking tools](https://opensource.com/business/16/2/top-issue-support-and-bug-tracking-tools)
 
+## SoapUI
+- [SoapUI](https://en.wikipedia.org/wiki/SoapUI)
+- [soapui.org](https://www.soapui.org/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nSROjjwCLZGcT4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/danielfeist77/design-first-apis-with-raml-and-soapui" title="Design First API&#x27;s with RAML and SoapUI" target="_blank">Design First API&#x27;s with RAML and SoapUI</a> </strong> from <strong><a href="//www.slideshare.net/danielfeist77" target="_blank">Daniel Feist</a></strong> </div>
+</div>
+<br/>
 ________________________________________________________________________________________________________________________________
 
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)

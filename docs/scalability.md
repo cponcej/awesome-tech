@@ -3,7 +3,6 @@
 
 - [Scalability](#scalability)
 	- [Scalability and Reliability. Distributed Systems](#scalability-and-reliability-distributed-systems)
-	- [Web Performance](#web-performance)
 	- [Scalability Solutions](#scalability-solutions)
 
 <!-- /MarkdownTOC -->
@@ -61,29 +60,6 @@
 
 <div class="container">
 <iframe src="//es.slideshare.net/slideshow/embed_code/key/HghUgbjBasxURW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches" title="Scalable Web Architectures: Common Patterns and Approaches" target="_blank">Scalable Web Architectures: Common Patterns and Approaches</a> </strong> from <strong><a href="//es.slideshare.net/techdude" target="_blank">Tech Dude</a></strong> </div>
-</div>
-<br/>
-
-## Web Performance
-- [webpagetest.org](http://www.webpagetest.org) Test a website's performance
-- [website-speedtest.com](http://www.website-speedtest.com)
-	- [twitter.com/Web_Speedtest](https://twitter.com/Web_Speedtest)
-- [Iframe loading techniques and performance](http://www.aaronpeters.nl/blog/iframe-loading-techniques-performance)
-
-<div class="container">
-<iframe src="//es.slideshare.net/slideshow/embed_code/key/mcjpimBYK0PsoM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/AndyDavies/speed-matters-so-why-is-your-site-so-slow" title="Speed matters, So why is your site so slow?" target="_blank">Speed matters, So why is your site so slow?</a> </strong> from <strong><a href="//es.slideshare.net/AndyDavies" target="_blank">Andy Davies</a></strong> </div>
-</div>
-<br/>
-
-<div class="container">
-<iframe src="//es.slideshare.net/slideshow/embed_code/key/mGQp2yMZSIeGHQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/tammyeverts/how-slow-load-times-hurt-your-bottom-line-and-17-things-you-can-do-to-fix-it" title="How Slow Load Times Hurt Your Bottom Line (And 17 Things You Can Do to Fix It)" target="_blank">How Slow Load Times Hurt Your Bottom Line (And 17 Things You Can Do to Fix It)</a> </strong> from <strong><a href="//es.slideshare.net/tammyeverts" target="_blank">Tammy Everts</a></strong> </div>
-</div>
-<br/>
-
-[![Using WebPage test](images/Using-WebPagetest.png)](http://www.wowebook.org/using-webpagetest.html)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WBmttwfA_k8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
