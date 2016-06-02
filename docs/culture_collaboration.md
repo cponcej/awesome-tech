@@ -211,6 +211,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/F1VaultVideo?src=hash">#F1VaultVideo</a> - Part 2 of <a href="https://twitter.com/hashtag/Schumacher?src=hash">#Schumacher</a> vs <a href="https://twitter.com/hashtag/Coulthard?src=hash">#Coulthard</a>. Who was in the wrong? <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/f2x6QujJ2n">pic.twitter.com/f2x6QujJ2n</a></p>&mdash; F1 Fanzone (@F1FanzoneMag) <a href="https://twitter.com/F1FanzoneMag/status/705857928595636224">March 4, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Michael Jordan iba muuuuy sobrado. Uno de los mejores Fake Shot jamás vistos.  <a href="https://t.co/5Rtb6SxGJv">https://t.co/5Rtb6SxGJv</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/713851916179152897">26 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
