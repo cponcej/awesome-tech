@@ -48,6 +48,10 @@
 
 [![github_awslabs](images/github_awslabs.png)](https://github.com/awslabs)
 
+[![aws_podcast](images/aws_podcast.png)](https://aws.amazon.com/podcasts/aws-podcast/)
+
+[![aws_techchat](images/aws_techchat.png)](https://aws.amazon.com/podcasts/aws-techchat/)
+
 [![10_min_tutorials](images/10_min_tutorials.png)](https://aws.amazon.com/getting-started/tutorials/)
 
 # Amazon Web Services
@@ -71,6 +75,7 @@
 ## AWS Youtube channel and Podcasts
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
 - [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
+- [AWS Techchat](https://aws.amazon.com/podcasts/aws-techchat)
 - [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
 
 ## Closed groups for AWS certified professionals
