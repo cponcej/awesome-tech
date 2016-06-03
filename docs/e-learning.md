@@ -14,8 +14,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/DrHouse?src=hash">#DrHouse</a> atiende a mujer con asma: <a href="http://t.co/IwNjEizN">http://t.co/IwNjEizN</a> vía <a href="https://twitter.com/YouTube">@youtube</a></p>&mdash; María José.✌ (@MajoRamosR) <a href="https://twitter.com/MajoRamosR/status/294219139717922816">23 de enero de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[![mejores_universidades_informatica](images/mejores_universidades_informatica.png)](http://www.ticbeat.com/cyborgcultura/las-mejores-universidades-para-estudiar-informatica-en-espana/)
-
 # E-Learning
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
 - [ycombinator.com: What's the best way to train/onboard new programmers?](https://news.ycombinator.com/item?id=10890032)
@@ -93,6 +91,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La revolución digital pide un nuevo modelo de formación <a href="https://t.co/epmputfc5y">https://t.co/epmputfc5y</a> <a href="https://t.co/nbC4rhjP3m">pic.twitter.com/nbC4rhjP3m</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/707861359254343680">10 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![fin de la titulitis](images/fin_de_la_titulitis.png)](http://economia.elpais.com/economia/2016/03/03/actualidad/1457024681_163769.html)
+
+[![mejores_universidades_informatica](images/mejores_universidades_informatica.png)](http://www.ticbeat.com/cyborgcultura/las-mejores-universidades-para-estudiar-informatica-en-espana/)
 
 [![voltaire education](images/voltaire_education.jpg)](http://statusmind.com/)
 
