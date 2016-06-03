@@ -6,6 +6,7 @@
     - [Selenium](#selenium)
         - [Selenium on Twitter](#selenium-on-twitter)
     - [SoapUI](#soapui)
+    - [Cucumber](#cucumber)
     - [Arquillian Testing Platform](#arquillian-testing-platform)
     - [Issue tracking tools](#issue-tracking-tools)
         - [Atlassian Jira](#atlassian-jira)
@@ -94,6 +95,35 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nSROjjwCLZGcT4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/danielfeist77/design-first-apis-with-raml-and-soapui" title="Design First API&#x27;s with RAML and SoapUI" target="_blank">Design First API&#x27;s with RAML and SoapUI</a> </strong> from <strong><a href="//www.slideshare.net/danielfeist77" target="_blank">Daniel Feist</a></strong> </div>
+</div>
+<br/>
+
+## Cucumber
+- [cucumber.io](https://cucumber.io/)
+- [Cucumber wikipedia](https://en.wikipedia.org/wiki/Cucumber_%28software%29)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dKwAXByQiBkfyg" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NibuBaby/introduction-to-bdd-and-cucumber" title="Introduction to Bdd and cucumber" target="_blank">Introduction to Bdd and cucumber</a> </strong> from <strong><a href="//www.slideshare.net/NibuBaby" target="_blank">Nibu Baby</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/c9bkn6AkrOpRpQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bkeepers/behavior-driven-development-with-cucumber-presentation" title="Behavior Driven Development with Cucumber" target="_blank">Behavior Driven Development with Cucumber</a> </strong> from <strong><a href="//www.slideshare.net/bkeepers" target="_blank">Brandon Keepers</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BmE5nmgfH1lrZM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bmabey/writing-software-not-code-with-cucumber" title="Writing Software not Code with Cucumber" target="_blank">Writing Software not Code with Cucumber</a> </strong> from <strong><a href="//www.slideshare.net/bmabey" target="_blank">Ben Mabey</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GdD2dhOcXuDtPV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alan_parkinson/test-automation-with-cucumberjvm" title="Test automation with Cucumber-JVM" target="_blank">Test automation with Cucumber-JVM</a> </strong> from <strong><a href="//www.slideshare.net/alan_parkinson" target="_blank">Alan Parkinson</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/uSPuSJjjNWPtme" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sebrose/introduction-to-bdd-with-cucumber-for-java" title="Introduction to BDD with Cucumber for Java" target="_blank">Introduction to BDD with Cucumber for Java</a> </strong> from <strong><a href="//www.slideshare.net/sebrose" target="_blank">Seb Rose</a></strong> </div>
 </div>
 <br/>
 
