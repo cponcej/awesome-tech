@@ -153,7 +153,6 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/y1ph3e8uMzjfTw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sgenterprise20/introduction-to-confluence" title="Introduction To Confluence" target="_blank">Introduction To Confluence</a> </strong> from <strong><a href="//www.slideshare.net/sgenterprise20" target="_blank">Hua Soon Sim</a></strong> </div>
 </div>
 <br/>
-
 ________________________________________________________________________________________
 
 <div class="container">
@@ -162,8 +161,6 @@ ________________________________________________________________________________
 <br/>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/f5Ambk3tSAzmwTFQgrEUqw/139044569770" data-did="eb9a18b0012d1238179ae41a992b0497a3ed51e0"><a href="http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile">http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This has come up a few times this week: &quot;What would you say... you do here?&quot; The Bobs from Office Space <a href="https://t.co/sQwQpMXXhu">https://t.co/sQwQpMXXhu</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Joshua Cypess (@JoshuaCypess) <a href="https://twitter.com/JoshuaCypess/status/679800703032889344">23 de diciembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Too Full Stack<br> <a href="https://t.co/Pbn9UBCKKv">https://t.co/Pbn9UBCKKv</a> <a href="https://t.co/2nStiS6oFB">pic.twitter.com/2nStiS6oFB</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/710544004199354369">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -37,6 +37,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Businesses are embracing the idea of working in teams—but managing them is hard <a href="https://t.co/O9FDDRVDop">https://t.co/O9FDDRVDop</a> <a href="https://t.co/UG7BIMIzHw">pic.twitter.com/UG7BIMIzHw</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/710130155470102528">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This has come up a few times this week: &quot;What would you say... you do here?&quot; The Bobs from Office Space <a href="https://t.co/sQwQpMXXhu">https://t.co/sQwQpMXXhu</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Joshua Cypess (@JoshuaCypess) <a href="https://twitter.com/JoshuaCypess/status/679800703032889344">23 de diciembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Human Resources 
 ## HR Blogs
 - [careerealism.com](http://www.careerealism.com/)
