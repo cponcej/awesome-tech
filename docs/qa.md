@@ -184,6 +184,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dqNsTJNR9eYVZz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/christophd/testing-microservices-with-a-citrus-twist" title="Testing Microservices with a Citrus twist" target="_blank">Testing Microservices with a Citrus twist</a> </strong> from <strong><a href="//www.slideshare.net/christophd" target="_blank">christophd</a></strong> </div>
+</div>
+<br/>
+
 ## Issue tracking tools
 - [Top 4 open source issue tracking tools](https://opensource.com/business/16/2/top-issue-support-and-bug-tracking-tools)
 
