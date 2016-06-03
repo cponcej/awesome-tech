@@ -9,7 +9,7 @@
     - [Cucumber](#cucumber)
     - [Arquillian Testing Platform](#arquillian-testing-platform)
     - [Issue tracking tools](#issue-tracking-tools)
-        - [TestLink](#testlink)
+        - [TestLink Open Source Test Management](#testlink-open-source-test-management)
         - [Atlassian Jira](#atlassian-jira)
     - [Atlassian Confluence collaboration software](#atlassian-confluence-collaboration-software)
 
@@ -134,7 +134,7 @@
 ## Issue tracking tools
 - [Top 4 open source issue tracking tools](https://opensource.com/business/16/2/top-issue-support-and-bug-tracking-tools)
 
-### TestLink
+### TestLink Open Source Test Management
 - [testlink.org](http://testlink.org/)
 
 <div class="container">
