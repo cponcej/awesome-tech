@@ -20,6 +20,8 @@
 - [Wikipedia: Dynamic site acceleration](https://en.wikipedia.org/wiki/Dynamic_site_acceleration)
 - [Slideshare: Caching](http://www.slideshare.net/NasceniaIT/brown-bag-caching-rafi-faisal-48694442)
 
+[![peplink_adsl_cache](images/peplink_adsl_cache.png)](https://www.wifisafe.com/mediafast200-peplink-120-balanceador-agregador-adsl.html)
+
 ## CDN Content delivery network
 - [Wikipedia: CDN Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
 	- [Traditional commercial CDNs 🌟](https://en.wikipedia.org/wiki/Content_delivery_network#Traditional_commercial_CDNs)
