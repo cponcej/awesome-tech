@@ -169,7 +169,19 @@
 <br/>
 
 ## Arquillian Testing Platform
-- [Arquillian references in this blog](redhat.md#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
+- [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
+- [Container Object pattern. A new pattern for your tests. Arquillian  community](http://www.javacodegeeks.com/2016/01/container-object-pattern-new-pattern-tests.html)
+- [Testing persistence with Arquillian on TomEE: Excellent step by step introduction tutorial on persistence unit testing](http://www.tomitribe.com/blog/2016/01/testing-persistence-with-arquillian-on-tomee/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/uXVk8vUkazFpPd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/christophd/arquillian-citrus" title="Arquillian &amp; Citrus" target="_blank">Arquillian &amp; Citrus</a> </strong> from <strong><a href="//www.slideshare.net/christophd" target="_blank">christophd</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/C3W2fDo5ErVjTa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IvanIvanov138/testing-java-ee-apps-with-arquillian" title="Testing Java EE apps with Arquillian" target="_blank">Testing Java EE apps with Arquillian</a> </strong> from <strong><a href="//www.slideshare.net/IvanIvanov138" target="_blank">Ivan Ivanov</a></strong> </div>
+</div>
+<br/>
 
 ## Issue tracking tools
 - [Top 4 open source issue tracking tools](https://opensource.com/business/16/2/top-issue-support-and-bug-tracking-tools)
