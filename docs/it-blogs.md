@@ -116,6 +116,11 @@
 
 [![chat_room_risks.png](images/chat_room_risks.png)](http://www.inc.com/jeff-haden/hulk-hogan-sex-tape-what-you-say-in-a-chat-room-can-be-used-against-you.html)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rSPb0MuVZnM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Non IT related Blogs
 - [Upvoted - A Redditorial Publication](https://upvoted.com/)
 
@@ -153,3 +158,4 @@ ___________________________________________________________
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nh1itve0AQ" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
