@@ -7,11 +7,18 @@
         - [Selenium on Twitter](#selenium-on-twitter)
     - [SoapUI](#soapui)
     - [Cucumber](#cucumber)
+    - [Jasmine Behavior Driven JavaScript](#jasmine-behavior-driven-javascript)
+    - [Concordion](#concordion)
+    - [Appium Mobile App Automation Made Awesome](#appium-mobile-app-automation-made-awesome)
     - [Arquillian Testing Platform](#arquillian-testing-platform)
     - [Issue tracking tools](#issue-tracking-tools)
         - [TestLink Open Source Test Management](#testlink-open-source-test-management)
         - [Atlassian Jira](#atlassian-jira)
     - [Atlassian Confluence collaboration software](#atlassian-confluence-collaboration-software)
+    - [Pruebas Funcionales de Software](#pruebas-funcionales-de-software)
+    - [Automated Acceptance Testing](#automated-acceptance-testing)
+    - [Behavior Driven Development](#behavior-driven-development)
+    - [Calidad de Software](#calidad-de-software)
 
 <!-- /MarkdownTOC -->
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
@@ -90,6 +97,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KES4lBwD44Mrw4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mcgray/story-testing-approach-for-enterprise-applications-using-selenium-framework" title="Story Testing Approach for Enterprise Applications using Selenium Framework" target="_blank">Story Testing Approach for Enterprise Applications using Selenium Framework</a> </strong> from <strong><a href="//www.slideshare.net/mcgray" target="_blank">Oleksiy Rezchykov</a></strong> </div>
+</div>
+<br/>
+
 ## SoapUI
 - [SoapUI](https://en.wikipedia.org/wiki/SoapUI)
 - [soapui.org](https://www.soapui.org/)
@@ -125,6 +137,31 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uSPuSJjjNWPtme" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sebrose/introduction-to-bdd-with-cucumber-for-java" title="Introduction to BDD with Cucumber for Java" target="_blank">Introduction to BDD with Cucumber for Java</a> </strong> from <strong><a href="//www.slideshare.net/sebrose" target="_blank">Seb Rose</a></strong> </div>
+</div>
+<br/>
+
+## Jasmine Behavior Driven JavaScript
+- [jasmine.github.io](http://jasmine.github.io/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6L9ZOi4ckTKIQx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WapAdmin/drupalcon-2013" title="Automated Testing With Jasmine, PhantomJS and Jenkins" target="_blank">Automated Testing With Jasmine, PhantomJS and Jenkins</a> </strong> from <strong><a href="//www.slideshare.net/WapAdmin" target="_blank">Work at Play</a></strong> </div>
+</div>
+<br/>
+
+## Concordion
+- [concordion.org](http://concordion.org/)
+- [Concordion, construye tests que se conviertan en la auténtica documentación de los proyectos](http://www.genbetadev.com/metodologias-de-programacion/concordion-test-de-aceptacion-que-se-conviertan-en-autentica-documentacion)
+
+## Appium Mobile App Automation Made Awesome
+- [Appium: Mobile App Automation Made Awesome](http://appium.io/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/L7CsPirFmQKfw0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ElizabethHechtel/automate-you-appium-test-like-a-pro" title="Automate you Appium test like a pro!" target="_blank">Automate you Appium test like a pro!</a> </strong> from <strong><a href="//www.slideshare.net/ElizabethHechtel" target="_blank">TestObject - Mobile Testing</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xu1HujGilA9zdp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kkashyap1707/next-level-of-appium-62525447" title="Next level of Appium" target="_blank">Next level of Appium</a> </strong> from <strong><a href="//www.slideshare.net/kkashyap1707" target="_blank">Keshav Kashyap</a></strong> </div>
 </div>
 <br/>
 
@@ -194,6 +231,29 @@
 </div>
 <br/>
 ________________________________________________________________________________________
+
+## Pruebas Funcionales de Software
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/s4axucmRKymUOS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/briankerubin/pruebas-funcionales-de-software-62280806" title="Pruebas funcionales de Software" target="_blank">Pruebas funcionales de Software</a> </strong> from <strong><a href="//www.slideshare.net/briankerubin" target="_blank">Brian Pando</a></strong> </div>
+</div>
+<br/>
+
+## Automated Acceptance Testing
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kvrGOWBZSObe8J" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toddbr/automated-acceptance-tests-tool-choice" title="Automated Acceptance Tests &amp; Tool choice" target="_blank">Automated Acceptance Tests &amp; Tool choice</a> </strong> from <strong><a href="//www.slideshare.net/toddbr" target="_blank">toddbr</a></strong> </div>
+</div>
+<br/>
+
+## Behavior Driven Development
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/XtgZ4zo8YVRub" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/helderdoliveira/bdd-35039822" title="Bdd (Behavior Driven Development)" target="_blank">Bdd (Behavior Driven Development)</a> </strong> from <strong><a href="//www.slideshare.net/helderdoliveira" target="_blank">Helder De Oliveira</a></strong> </div>
+</div>
+<br/>
+
+## Calidad de Software
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uZwR77RCr9eV0W" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Miguelcs1/convencer-al-jefe-para-aplicar-calidad-del-software" title="Convencer al jefe para aplicar &quot;Calidad de Software&quot;." target="_blank">Convencer al jefe para aplicar &quot;Calidad de Software&quot;.</a> </strong> from <strong><a href="//www.slideshare.net/Miguelcs1" target="_blank">Miguel cs</a></strong> </div>
