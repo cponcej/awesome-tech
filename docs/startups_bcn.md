@@ -162,11 +162,6 @@ para universitarios y titulados júnior
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5k8WjQhkXbU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kpcj_AJQfxs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
@@ -203,11 +198,6 @@ para universitarios y titulados júnior
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CwGrLtSZLA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jUWXr9SSi8g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
