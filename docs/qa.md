@@ -10,7 +10,7 @@
     - [Jasmine Behavior Driven JavaScript](#jasmine-behavior-driven-javascript)
     - [Concordion](#concordion)
     - [Appium Mobile App Automation Made Awesome](#appium-mobile-app-automation-made-awesome)
-    - [Arquillian Testing Platform](#arquillian-testing-platform)
+    - [Arquillian Testing Platform and Citrus Integration Testing](#arquillian-testing-platform-and-citrus-integration-testing)
     - [Issue tracking tools](#issue-tracking-tools)
         - [TestLink Open Source Test Management](#testlink-open-source-test-management)
         - [Atlassian Jira](#atlassian-jira)
@@ -168,10 +168,11 @@
 </div>
 <br/>
 
-## Arquillian Testing Platform
+## Arquillian Testing Platform and Citrus Integration Testing
 - [Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests](http://arquillian.org/)
 - [Container Object pattern. A new pattern for your tests. Arquillian  community](http://www.javacodegeeks.com/2016/01/container-object-pattern-new-pattern-tests.html)
 - [Testing persistence with Arquillian on TomEE: Excellent step by step introduction tutorial on persistence unit testing](http://www.tomitribe.com/blog/2016/01/testing-persistence-with-arquillian-on-tomee/)
+- [citrusframework.org](http://citrusframework.org/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uXVk8vUkazFpPd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/christophd/arquillian-citrus" title="Arquillian &amp; Citrus" target="_blank">Arquillian &amp; Citrus</a> </strong> from <strong><a href="//www.slideshare.net/christophd" target="_blank">christophd</a></strong> </div>
