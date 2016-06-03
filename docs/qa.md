@@ -5,13 +5,29 @@
     - [JUnit](#junit)
     - [Selenium](#selenium)
         - [Selenium on Twitter](#selenium-on-twitter)
+    - [SoapUI](#soapui)
     - [Arquillian Testing Platform](#arquillian-testing-platform)
     - [Issue tracking tools](#issue-tracking-tools)
         - [Atlassian Jira](#atlassian-jira)
     - [Atlassian Confluence collaboration software](#atlassian-confluence-collaboration-software)
-    - [SoapUI](#soapui)
 
 <!-- /MarkdownTOC -->
+[![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
+
+[![selenium, qtp Job Trends](images/indeed_selenium_qtp_trends.png)](http://www.indeed.com/jobtrends/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
+
+[![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why 100% of dev-test will be done using <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a>-based platforms, infrastructure &amp; software within 10 years: <a href="https://t.co/G6WSCpt2VA">https://t.co/G6WSCpt2VA</a> <a href="https://twitter.com/forbesbv">@forbesbv</a></p>&mdash; Oracle (@Oracle) <a href="https://twitter.com/Oracle/status/699383199261036545">febrero 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When debugging Perl/Python code or networking issue <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a>  via <a href="https://t.co/34KKaad00d">https://t.co/34KKaad00d</a> <a href="https://t.co/kqA7mR3AKy">pic.twitter.com/kqA7mR3AKy</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706194879915757568">5 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Show this to anyone who argues about whether that refactoring effort is worth the investment. <a href="https://t.co/vxw5PvDXq0">pic.twitter.com/vxw5PvDXq0</a></p>&mdash; David Whittaker (@rundavidrun) <a href="https://twitter.com/rundavidrun/status/690651629494775808">22 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sobre las vacunas, dos seres de ficción: La monja Forcades  (FAV) <a href="https://t.co/hBM8SMCcZK">https://t.co/hBM8SMCcZK</a> vs. el doctor House <a href="https://t.co/xjIyh0D9ZQ">https://t.co/xjIyh0D9ZQ</a> (RT)</p>&mdash; Santiago Navajas (@santiagonavajas) <a href="https://twitter.com/santiagonavajas/status/608706540829294592">10 de junio de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
@@ -61,6 +77,25 @@
 - [twitter.com/saucelabs](https://twitter.com/saucelabs)
 - [twitter.com/seleniumconf](https://twitter.com/seleniumconf)
 - [twitter.com/SeleniumExample](https://twitter.com/SeleniumExample)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/enq08ekUWo1s65" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cuelogic/automation-testing-by-selenium-web-driver" title="Automation Testing by Selenium Web Driver" target="_blank">Automation Testing by Selenium Web Driver</a> </strong> from <strong><a href="//www.slideshare.net/cuelogic" target="_blank">Cuelogic Technologies Pvt. Ltd.</a></strong> </div>
+</div> 
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cTKwjMmxpspx8i" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tourdedave/how-to-use-selenium-successfully-java-edition" title="How To Use Selenium Successfully (Java Edition)" target="_blank">How To Use Selenium Successfully (Java Edition)</a> </strong> from <strong><a href="//www.slideshare.net/tourdedave" target="_blank">Dave Haeffner</a></strong> </div>
+</div>
+<br/>
+
+## SoapUI
+- [SoapUI](https://en.wikipedia.org/wiki/SoapUI)
+- [soapui.org](https://www.soapui.org/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nSROjjwCLZGcT4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/danielfeist77/design-first-apis-with-raml-and-soapui" title="Design First API&#x27;s with RAML and SoapUI" target="_blank">Design First API&#x27;s with RAML and SoapUI</a> </strong> from <strong><a href="//www.slideshare.net/danielfeist77" target="_blank">Daniel Feist</a></strong> </div>
+</div>
+<br/>
 
 ## Arquillian Testing Platform
 - [Arquillian references in this blog](redhat.md#jboss-gatein-exo-forge-forums-developer-studio-arquillian-testing-platform-and-others)
@@ -119,47 +154,12 @@
 </div>
 <br/>
 
-## SoapUI
-- [SoapUI](https://en.wikipedia.org/wiki/SoapUI)
-- [soapui.org](https://www.soapui.org/)
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/nSROjjwCLZGcT4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/danielfeist77/design-first-apis-with-raml-and-soapui" title="Design First API&#x27;s with RAML and SoapUI" target="_blank">Design First API&#x27;s with RAML and SoapUI</a> </strong> from <strong><a href="//www.slideshare.net/danielfeist77" target="_blank">Daniel Feist</a></strong> </div>
-</div>
-<br/>
-________________________________________________________________________________________________________________________________
-
-[![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
-
-[![selenium, qtp Job Trends](images/indeed_selenium_qtp_trends.png)](http://www.indeed.com/jobtrends/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
-
-[![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why 100% of dev-test will be done using <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a>-based platforms, infrastructure &amp; software within 10 years: <a href="https://t.co/G6WSCpt2VA">https://t.co/G6WSCpt2VA</a> <a href="https://twitter.com/forbesbv">@forbesbv</a></p>&mdash; Oracle (@Oracle) <a href="https://twitter.com/Oracle/status/699383199261036545">febrero 16, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When debugging Perl/Python code or networking issue <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a>  via <a href="https://t.co/34KKaad00d">https://t.co/34KKaad00d</a> <a href="https://t.co/kqA7mR3AKy">pic.twitter.com/kqA7mR3AKy</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706194879915757568">5 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/enq08ekUWo1s65" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cuelogic/automation-testing-by-selenium-web-driver" title="Automation Testing by Selenium Web Driver" target="_blank">Automation Testing by Selenium Web Driver</a> </strong> from <strong><a href="//www.slideshare.net/cuelogic" target="_blank">Cuelogic Technologies Pvt. Ltd.</a></strong> </div>
-</div> 
-<br/>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/cTKwjMmxpspx8i" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tourdedave/how-to-use-selenium-successfully-java-edition" title="How To Use Selenium Successfully (Java Edition)" target="_blank">How To Use Selenium Successfully (Java Edition)</a> </strong> from <strong><a href="//www.slideshare.net/tourdedave" target="_blank">Dave Haeffner</a></strong> </div>
-</div>
-<br/>
+________________________________________________________________________________________
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uZwR77RCr9eV0W" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Miguelcs1/convencer-al-jefe-para-aplicar-calidad-del-software" title="Convencer al jefe para aplicar &quot;Calidad de Software&quot;." target="_blank">Convencer al jefe para aplicar &quot;Calidad de Software&quot;.</a> </strong> from <strong><a href="//www.slideshare.net/Miguelcs1" target="_blank">Miguel cs</a></strong> </div>
 </div>
 <br/>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Show this to anyone who argues about whether that refactoring effort is worth the investment. <a href="https://t.co/vxw5PvDXq0">pic.twitter.com/vxw5PvDXq0</a></p>&mdash; David Whittaker (@rundavidrun) <a href="https://twitter.com/rundavidrun/status/690651629494775808">22 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Sobre las vacunas, dos seres de ficción: La monja Forcades  (FAV) <a href="https://t.co/hBM8SMCcZK">https://t.co/hBM8SMCcZK</a> vs. el doctor House <a href="https://t.co/xjIyh0D9ZQ">https://t.co/xjIyh0D9ZQ</a> (RT)</p>&mdash; Santiago Navajas (@santiagonavajas) <a href="https://twitter.com/santiagonavajas/status/608706540829294592">10 de junio de 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/f5Ambk3tSAzmwTFQgrEUqw/139044569770" data-did="eb9a18b0012d1238179ae41a992b0497a3ed51e0"><a href="http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile">http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
