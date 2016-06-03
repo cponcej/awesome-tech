@@ -9,6 +9,7 @@
     - [Cucumber](#cucumber)
     - [Arquillian Testing Platform](#arquillian-testing-platform)
     - [Issue tracking tools](#issue-tracking-tools)
+        - [TestLink](#testlink)
         - [Atlassian Jira](#atlassian-jira)
     - [Atlassian Confluence collaboration software](#atlassian-confluence-collaboration-software)
 
@@ -132,6 +133,14 @@
 
 ## Issue tracking tools
 - [Top 4 open source issue tracking tools](https://opensource.com/business/16/2/top-issue-support-and-bug-tracking-tools)
+
+### TestLink
+- [testlink.org](http://testlink.org/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KKqPKBvTwOP73U" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DavidIonut2/test-link-introduction-52636373" title="TestLink introduction" target="_blank">TestLink introduction</a> </strong> from <strong><a href="//www.slideshare.net/DavidIonut2" target="_blank">David Ionut</a></strong> </div>
+</div>
+<br/>
 
 ### Atlassian Jira
 - [Jira software](https://en.wikipedia.org/wiki/Jira_%28software%29)
