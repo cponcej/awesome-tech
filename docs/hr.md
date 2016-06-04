@@ -119,6 +119,8 @@
 
 [![quit_job_without_burning_bridges](images/quit_job_without_burning_bridges.png)](https://www.linkedin.com/pulse/strategies-quit-your-job-without-burning-bridges-beata-staszkow-mba?trk=hp-feed-article-title-channel-add)
 
+[![hard_work_wont_make_you_successful](images/hard_work_wont_make_you_successful.png)](http://www.forbes.com/sites/lizryan/2016/06/03/hard-work-wont-make-you-successful-but-doing-this-will/)
+
 ## Work environment issues
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
 - [businessinsider.com: 19 signs your coworkers secretly hate you](http://www.businessinsider.com/signs-your-colleagues-secretly-hate-you-2016-1)

@@ -66,6 +66,7 @@
 - [JavaScript Unit Test Code Coverage Using NodeJS](https://dzone.com/articles/javascript-unit-test-code-coverage-using-nodejs-1) Allow me to show you how to use Node.js to provide JavaScript unit test code coverage. The main tools we will be using to pull this off are Karma and Istanbul. The test we write will be using Jasmine.
 - [developers.redhat.com: Test-Driven-Development for building APIs in Node.js and Express 🌟](http://developers.redhat.com/blog/2016/03/15/test-driven-development-for-building-apis-in-node-js-and-express)
 - [nubelo.com: Los Analistas QA están cansados de que los confundan con testers](http://www.nubelo.com/blog/los-analistas-estan-cansados-que-los-confundan-con-testers)
+- [capgemini.com: DevOps with Quality - 7 principles, integrated approach to DevOps Quality 🌟🌟🌟](https://www.capgemini.com/resources/devops-with-quality-7-principles-integrated-approach-to-devops-quality)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">From our sister site <a href="https://twitter.com/testmagazine">@testmagazine</a>: Continuous performance testing in an agile environment. <a href="https://t.co/hkjnKR5wXJ">https://t.co/hkjnKR5wXJ</a> <a href="https://t.co/GUTvtD4Wot">pic.twitter.com/GUTvtD4Wot</a></p>&mdash; DevOps Online News (@DevOpsOnline) <a href="https://twitter.com/DevOpsOnline/status/735470641332158464">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
