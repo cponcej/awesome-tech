@@ -186,6 +186,21 @@
 </div>
 <br>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IU9_I33UnG8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RbRtRoxTmvI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bOeH-bjTSLw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">.<a href="https://twitter.com/vmherold">@vmherold</a> on modernizing your <a href="https://twitter.com/hashtag/datacenter?src=hash">#datacenter</a>: <a href="https://t.co/HnaKvxNYGc">https://t.co/HnaKvxNYGc</a> <a href="https://twitter.com/hashtag/moderndatacenters?src=hash">#moderndatacenters</a> <a href="https://twitter.com/hashtag/virtualization?src=hash">#virtualization</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/707174032135729153">March 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

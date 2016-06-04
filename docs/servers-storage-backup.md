@@ -47,6 +47,11 @@
 </div>
 <br>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FvZXu-sy2KI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## HP
 - [HP releases new servers and storage for SMEs](http://www.itwire.com/business-it-news/hardware-and-storage/67312-hp-releases-new-servers-and-storage-for-smes)
 - [HP Intros New StoreVirtual-Based Hyper-Converged Infrastructure Appliance](http://www.crn.com/news/storage/300077656/hp-intros-new-storevirtual-based-hyper-converged-infrastructure-appliance.htm)
@@ -131,6 +136,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Disk Management in Linux - Understand the Basic Concepts&quot; <a href="https://t.co/E0AeX01zHT">https://t.co/E0AeX01zHT</a> <a href="https://twitter.com/hashtag/openstack?src=hash">#openstack</a></p>&mdash; Gajendra D Ambi (@MrAmbiG1) <a href="https://twitter.com/MrAmbiG1/status/735770750074769412">26 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_McgGUAQKA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ### Linux LVM Logical Volume Management and FileSystems
 - [RHEL6 doc: LVM Administrator Guide](https://access.redhat.com/knowledge/docs/en-US/Red_Hat_Enterprise_Linux/6/html-single/Logical_Volume_Manager_Administration/index.html)

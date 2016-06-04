@@ -209,7 +209,8 @@
 - [twitter.com/linuxtoday](https://twitter.com/linuxtoday)
 - [twitter.com/LinuxDotCom](https://twitter.com/LinuxDotCom)
 - [twitter.com/LinuxUserMag](https://twitter.com/LinuxUserMag)
-- [https://twitter.com/Linux](https://twitter.com/Linux)
+- [twitter.com/Linux 🌟](https://twitter.com/Linux)
+- [20 Linux Accounts to Follow on Twitter](http://www.tecmint.com/linux-accounts-to-follow-on-twitter/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBZ1-E_NcMg" frameborder="0" allowfullscreen class="video"></iframe>
