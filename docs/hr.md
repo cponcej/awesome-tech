@@ -209,6 +209,7 @@
 - [Employer Loved Me... Then Rejected Me](https://www.linkedin.com/pulse/employer-loved-me-rejected-j-t-o-donnell)
 - [3 Things You Need to Find a Job Faster](http://www.inc.com/jt-odonnell/these-3-things-will-help-you-find-a-job-faster.html)
 - [A hedge fund HR boss says too many young people are making this error and destroying their chances at a job](http://www.businessinsider.com/point-72-mike-butler-resume-errors-2016-2) More and more young candidates for hedge fund positions aren't being completely honest on their résumés.
+- [Five Signs Your Job Is Wasting Your Talent](http://www.forbes.com/sites/lizryan/2016/06/03/five-signs-your-job-is-wasting-your-talent)
 
 [![recruitment-cvs-resumes-interviewer](images/recruitment-cvs-resumes-interviewer.jpg)](https://www.cartoonstock.com/directory/j/job_hunting.asp)
 
