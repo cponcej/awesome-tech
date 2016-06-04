@@ -117,6 +117,10 @@
 
 [![empleados_toxicos](images/empleados_toxicos.png)](http://www.elblogsalmon.com/mundo-laboral/el-coste-economico-de-los-empleados-toxicos)
 
+<p align="center">
+<a href="https://www.meneame.net/story/coste-economico-empleados-toxicos">meneame.net: El coste económico de los “empleados tóxicos”</a>
+</p>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OcKF2V4yZyE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
