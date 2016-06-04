@@ -218,6 +218,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Must have book for every developer and sysadmin ;) <a href="https://t.co/0mIxe3vJeZ">pic.twitter.com/0mIxe3vJeZ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/717063409871626240">4 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">20 <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> Accounts to Follow on <a href="https://twitter.com/twitter">@twitter</a> <a href="https://t.co/xTOObN70sZ">https://t.co/xTOObN70sZ</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/rOhmlK1Fdo">pic.twitter.com/rOhmlK1Fdo</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/738234785806458880">2 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Linux in 2016
 - [Linux and Unix SysAdmins New Year’s Resolutions (2016)](http://www.cyberciti.biz/linux-news/linux-and-unix-sysadmins-new-years-resolutions-2016/)
 - [certsimple.com: How to deploy your node app on Linux, 2016 edition](https://certsimple.com/blog/deploy-node-on-linux)

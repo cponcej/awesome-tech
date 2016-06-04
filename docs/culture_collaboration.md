@@ -41,6 +41,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">So much of what we call management consists in making it difficult for people to work. —Drucker <a href="https://t.co/rB8ghD9ss7">pic.twitter.com/rB8ghD9ss7</a></p>&mdash; Vala Afshar (@ValaAfshar) <a href="https://twitter.com/ValaAfshar/status/714838123578982400">29 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Dirigir mediante el ‘ordeno y mando’ ya no es rentable ➡ <a href="https://t.co/j1AsBqR0wJ">https://t.co/j1AsBqR0wJ</a> <a href="https://twitter.com/hashtag/RRHH?src=hash">#RRHH</a> <a href="https://twitter.com/hashtag/Liderazgo?src=hash">#Liderazgo</a> <a href="https://t.co/icL3QBREfQ">pic.twitter.com/icL3QBREfQ</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/739140034016731136">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//es.slideshare.net/slideshow/embed_code/key/BYA1zNZmsN7dqC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/SuharshHarsha/business-etiquette-and-culture-in-europe" title="BUSINESS ETIQUETTE AND CULTURE IN EUROPE " target="_blank">BUSINESS ETIQUETTE AND CULTURE IN EUROPE </a> </strong> from <strong><a target="_blank" href="//es.slideshare.net/SuharshHarsha">Suharsh L</a></strong> </div>
 </div>
@@ -49,6 +51,8 @@
 [![good boss bad boss](images/good_boss_bad_boss.jpg)](http://www.amazon.com/Good-Boss-Bad-Learn-Worst/dp/0446556076/ref=pd_sim_sbs_14_1?ie=UTF8&dpID=41iCWG-MEiL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=1CGD4PA2V77XTVWRXXW6)
 
 [![bi_20things_most_respected_bosses](images/bi_20things_most_respected_bosses.png)](http://www.businessinsider.com/20-things-the-most-respected-bosses-never-say-2016-3)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Bz0D2LX8ul">https://t.co/Bz0D2LX8ul</a> <a href="https://t.co/msw1wBkbnJ">pic.twitter.com/msw1wBkbnJ</a></p>&mdash; David Marquet (@ldavidmarquet) <a href="https://twitter.com/ldavidmarquet/status/738837979712610305">3 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/32i7dUYEeZCEmm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Rypple/good-boss-bad-boss" title="Good Boss, Bad Boss - Robert Sutton from Stanford" target="_blank">Good Boss, Bad Boss - Robert Sutton from Stanford</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/Rypple">Work.com - A Salesforce Company</a></strong> </div>

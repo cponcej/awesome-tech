@@ -495,6 +495,6 @@
 [![CentOS HA](images/CentOS-High-Availability.png)](http://www.wowebook.org/centos-high-availability.html)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WBavpeSScxU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvyFYFXCj5c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
