@@ -20,6 +20,8 @@
 - [Martin Fowler: Certification Vs Competence](http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
 - [Please Don't Learn to Code Unless... 🌟🌟](https://www.linkedin.com/pulse/please-dont-learn-code-unless-basel-farag)
 
+[![knowmads-infografia-acens-blog-cloud](images/knowmads-infografia-acens-blog-cloud.jpg)](http://www.acens.com/blog/wp-content/images/knowmads-infografia-acens-blog-cloud.jpg)
+
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
 - [Six Certification Exam Mistakes to Avoid](http://www.globalknowledge.com/training/generic.asp?pageid=3833)

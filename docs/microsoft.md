@@ -152,3 +152,5 @@
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/W3LReMTFeFU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+[![bill_gates_barsa](images/bill_gates_barsa.png)](https://www.linkedin.com/pulse/extrovert-monopoly-sport-scrutinised-james-anderson)
