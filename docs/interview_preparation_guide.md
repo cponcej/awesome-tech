@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Interview Preparation Guide](#interview-preparation-guide)
+    - [Applicant Tracking System](#applicant-tracking-system)
     - [Salary Negotiation](#salary-negotiation)
         - [Technical Resume](#technical-resume)
 
@@ -137,6 +138,19 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQwanxQmFnc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Applicant Tracking System
+- [Applicant tracking system](https://en.wikipedia.org/wiki/Applicant_tracking_system)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AVvaECOmSS4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/6vDKNIY185A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
