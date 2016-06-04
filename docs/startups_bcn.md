@@ -10,6 +10,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Sol6AASguc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![tech_salary_calculator](images/tech_salary_calculator.png)](http://www.techsalarycalculator.com/)
 
 # Barcelona Tech, Startups and Innovation
