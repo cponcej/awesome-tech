@@ -31,6 +31,8 @@
 
 [![devops_wikipedia](images/devops_wikipedia.png)](https://en.wikipedia.org/wiki/DevOps)
 
+[![what_is_devops_aws](images/what_is_devops_aws.png)](http://aws.amazon.com/devops/what-is-devops/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What is <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>, anyway? <a href="https://t.co/0tvL5uQjvx">https://t.co/0tvL5uQjvx</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/714001576554323968">27 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -54,6 +54,8 @@
 
 [![10_min_tutorials](images/10_min_tutorials.png)](https://aws.amazon.com/getting-started/tutorials/)
 
+[![what_is_devops_aws](images/what_is_devops_aws.png)](http://aws.amazon.com/devops/what-is-devops/)
+
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
 - [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
