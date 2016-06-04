@@ -61,6 +61,9 @@
 - [MongoDB Cloud Manager](https://youtu.be/bB57HKeOvmw)
 - [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
 	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
+- [MongoDB Administration Checklist for MySQL DBAs 🌟](https://dzone.com/articles/mongodb-administration-checklist-for-mysql-dbas) If you are MySQL DBA, starting MongoDB administration is not always an easy transition. This post provides a checklist for MongoDB administrators who are familiar with MySQL.
+
+[![mongodb_admin_checklist](images/mongodb_admin_checklist.png)](https://dzone.com/articles/mongodb-administration-checklist-for-mysql-dbas)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CvIr-2lMLsk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
