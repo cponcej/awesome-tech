@@ -185,6 +185,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">DevOps maturity is not about developers writing Chef code. It is when when developers prioritize maintaining said scripts same as prod code.</p>&mdash; Badri Janakiraman (@badrij) <a href="https://twitter.com/badrij/status/722834988387999744">20 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 5 <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> tutorials on <a href="https://twitter.com/hashtag/developerWorks?src=hash">#developerWorks</a> <a href="https://t.co/VZ4YHXszuM">https://t.co/VZ4YHXszuM</a> <a href="https://t.co/Dwr7pZiVEG">pic.twitter.com/Dwr7pZiVEG</a></p>&mdash; Marc Peters (@MPetersBE) <a href="https://twitter.com/MPetersBE/status/739069386774831105">4 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Collaborative tools
 - [etherpad.org 🌟](http://etherpad.org)
 - [ethercalc.org 🌟](https://ethercalc.org)
@@ -214,6 +217,8 @@
 [![agile to market themselves](images/agile_to_market_themselves.png)](https://kenschwaber.wordpress.com/2014/07/30/agile/)
 
 ![always that way](images/always_that_way.jpg)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Periodic Table of DevOps Tools <a href="https://t.co/xkWVqwLPkq">https://t.co/xkWVqwLPkq</a> <a href="https://t.co/KQPeAsVzTO">pic.twitter.com/KQPeAsVzTO</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/739067366575738880">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Server Provisioning and Automation: Red Hat Satellite, Katello, Foreman, Cobbler and others 
 - [nixCraft: Top 5 Open Source Linux Server Provisioning Software](http://www.cyberciti.biz/tips/server-provisioning-software.html)
@@ -362,6 +367,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/I0egS4zlPJ1w78" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chuparkoff/introduction-to-jira-38474943" title="Introduction to JIRA &amp; Agile Project Management" target="_blank">Introduction to JIRA &amp; Agile Project Management</a> </strong> from <strong><a href="//www.slideshare.net/chuparkoff" target="_blank">Dan Chuparkoff</a></strong> </div>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/68YcOcz8MM">pic.twitter.com/68YcOcz8MM</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/739101900856037376">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Open Project
 - [openproject.org 🌟](https://www.openproject.org)

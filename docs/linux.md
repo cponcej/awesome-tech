@@ -66,6 +66,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">My boss just wants new web-server while I and friend fight over what Linux distro we need  to use for deployment ;) <a href="https://t.co/4ce85A7lMv">pic.twitter.com/4ce85A7lMv</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715184148269281280">30 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 Things I Dislike and Love About <a href="https://twitter.com/hashtag/GNU?src=hash">#GNU</a> /<a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a><a href="https://t.co/mlh2hTLdL8">https://t.co/mlh2hTLdL8</a> <a href="https://t.co/j1iDW9APSP">pic.twitter.com/j1iDW9APSP</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/739077772656533504">4 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Sysadmin Blogs
 - [The 79 Best Tech Blogs for sysadmins to follow](http://www.gfi.com/blog/the-79-best-tech-blogs-for-sysadmins-to-follow/)
 - [The Lone SysAdmin](https://lonesysadmin.net)
@@ -80,6 +83,7 @@
 - [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
 	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
 - [alt.sysadmin.recovery: Getting over the trauma of system administration](https://groups.google.com/forum/#!forum/alt.sysadmin.recovery) Alt.sysadmin.recovery is for discussion by recovered and recovering sysadmins. It is a forum for mutual support and griping over idiot lusers, stupid tech support, brain dead hardware and generally how stupid this idiotic job is. Think of it as a virtual pub, where we can all go after hours and gripe about our job. Since the concept of "after hours" (or, for that matter, "pubs") is an anathema for your average sysadmin, we have this instead. 
+- [linuxsay.com](http://linuxsay.com/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Life of a sysadmin :( <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/QEqEOgZaWZ">pic.twitter.com/QEqEOgZaWZ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705316661767700480">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -143,6 +147,8 @@
 [![learn_it_guide](images/learn_it_guide.png)](http://www.learnitguide.net/)
 
 [![unixmen](images/unixmen.png)](https://www.unixmen.com)
+
+[![linuxsay](images/linuxsay.png)](http://linuxsay.com/)
 
 ### Alternatives
 - [FOSS Force](http://fossforce.com/)
@@ -236,6 +242,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/nixcraft">@nixcraft</a> <a href="https://t.co/hbwHXeFOI0">https://t.co/hbwHXeFOI0</a> this is also a cool Unix tool to provide files easy and fast from CLI</p>&mdash; Andreas (@npoxy) <a href="https://twitter.com/npoxy/status/711543356480950272">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Is curl|bash insecure? <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/osx?src=hash">#osx</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a> <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a>  <a href="https://t.co/UwcgHDJZ32">https://t.co/UwcgHDJZ32</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/738915261252702209">4 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![transfer_sh](images/transfer_sh.png)](https://transfer.sh/)
 
 ## BashHub Bash History in the Cloud
@@ -248,6 +257,9 @@
 - [agedu: Unix/Linux Command For Tracking Down Wasted Disk Space](http://www.cyberciti.biz/hardware/linux-find-and-recover-wasted-disk-space/)
 - [Linux lsscsi: See List Of All SCSI/SATA Hard Disks and CD/DVD Drives](http://www.cyberciti.biz/faq/debian-ubuntu-linux-list-scsi-devices-hosts-attributes-lsscsi-command/)
 - [How to reload sysctl.conf variables on Linux without rebooting the server](http://www.cyberciti.biz/faq/reload-sysctl-conf-on-linux-using-sysctl/) 
+- [nixCraft: HowTo: Find Out Hard Disk Specs/Details on Linux](http://www.cyberciti.biz/faq/find-hard-disk-hardware-specs-on-linux/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">God bless the hdparm command. 2 identical SSD, only diff is form factor Which one to remove? <a href="https://t.co/9prsnj88BD">https://t.co/9prsnj88BD</a> <a href="https://t.co/Umv8EaME0W">pic.twitter.com/Umv8EaME0W</a></p>&mdash; Phil Baker (@philbaker1) <a href="https://twitter.com/philbaker1/status/739101875186716673">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Linux LVM Logical Volume Management and FileSystems 
 - [Linux LVM Logical Volume Management and FileSystems](servers-storage-backup.md#linux-lvm-logical-volume-management-and-filesystems)

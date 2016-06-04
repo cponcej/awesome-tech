@@ -166,3 +166,6 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Have you ever used the /etc/gshadow file (group passwords, note the &#39;g&#39;)?</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/734835165906776064">23 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">grep -Ev &quot;((accept|drop|reject)log|ftpd)&quot; /var/log/messages | less # Yes! You can do nested grouping in extended regexes.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/738729066501709825">3 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

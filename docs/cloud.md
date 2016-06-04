@@ -30,6 +30,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Top10?src=hash">#Top10</a> Ways to Leverage <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> in 2016 <a href="https://t.co/hOYN7wy8rr">https://t.co/hOYN7wy8rr</a> via <a href="https://twitter.com/TechRepublic">@techrepublic</a></p>&mdash; Cloud Girls (@gocloudgirls) <a href="https://twitter.com/gocloudgirls/status/683000209497042945">1 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/bbva">@BBVA</a> partners with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> to power flexible, scalable digital <a href="https://twitter.com/hashtag/banking?src=hash">#banking</a>. <a href="https://t.co/NRIW6ZrOIc">https://t.co/NRIW6ZrOIc</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://t.co/ezBw8iH1zt">pic.twitter.com/ezBw8iH1zt</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/738012731584843777">1 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![history_of_cloud](images/history_of_cloud.png)](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
 
 # Data Centers
@@ -59,6 +62,7 @@
 - [Netflix: Linux performance analysis in 60 seconds](http://www.infoworld.com/article/3010558/linux/netflix-linux-performance-analysis-in-60-seconds.html)
 - [Three things to remember when moving to the cloud in 2016](http://www.zdnet.com/article/three-things-to-remember-when-moving-to-the-cloud-in-2016/) Switching to cloud-based services can create flexibility -- but the move is not necessarily without its own challenges.
 - [Seven secrets of success in your cloud migration plan 🌟🌟](http://diginomica.com/2016/02/25/seven-secrets-of-success-in-your-cloud-migration-plan/)  It’s not migration, it’s transformation. Cloud will change your business
+- [Disaster Recovery (DR) Options in Cloud Environments 🌟](http://solinea.com/blog/disaster-recovery-dr-options-cloud-environments)
 
 ## Cloud Bogs
 - [Thoughts On Cloud](http://www.thoughtsoncloud.com/)

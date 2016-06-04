@@ -169,6 +169,8 @@
 - [medium: Understanding git for real by exploring the .git directory](https://medium.com/@pierreda/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807)
 - [Git Cheat Sheet for Sysadmin/DevOps 🌟](http://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet.png)
 - [DZone refcard: Getting started with Git 🌟🌟](https://dzone.com/refcardz/getting-started-git)
+- [tutorialzine.com: Learn Git in 30 Minutes 🌟🌟🌟](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
+- [3 easy steps to submitting a GitHub pull request](https://opensource.com/life/16/3/submit-github-pull-request)
 
 [![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/) 
 
@@ -220,6 +222,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to close issues in GitHub with respect. <br>👏 to <a href="https://twitter.com/BenLesh">@BenLesh</a> <a href="https://t.co/KOtnKWYHel">pic.twitter.com/KOtnKWYHel</a></p>&mdash; André Staltz (@andrestaltz) <a href="https://twitter.com/andrestaltz/status/711103704280264704">19 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">3 easy steps to submitting a GitHub pull request: <a href="https://t.co/KMx1jHn8h8">https://t.co/KMx1jHn8h8</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/738826844179292161">3 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="https://player.vimeo.com/video/50412080" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
@@ -238,6 +243,9 @@
 - [twitter.com/GitForWindows](https://twitter.com/GitForWindows)
 - [twitter.com/progitbook](https://twitter.com/progitbook)
 - [twitter.com/gitready](https://twitter.com/gitready)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn Git in 30 Minutes <a href="https://t.co/Adq18pbhBK">https://t.co/Adq18pbhBK</a>  <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/739020546231275520">4 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Git clients
 - [SourceTree](https://www.sourcetreeapp.com/)
