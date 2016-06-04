@@ -105,6 +105,7 @@
 - [Expectativas salariales, la pregunta del millón](http://ventajaprofesional.com/blog-ventaja-profesional/expectativas-salariales-pregunta-del-millon/)
 - [Peligro: Hay un trepa en mi trabajo](https://balcon40.com/2016/04/11/peligro-hay-un-trepa-en-mi-trabajo/)
 - [Prohibido salir tarde del trabajo](https://www.cesarpiqueras.com/prohibido-salir-tarde-del-trabajo/)
+- [El coste económico de los “empleados tóxicos”](http://www.elblogsalmon.com/mundo-laboral/el-coste-economico-de-los-empleados-toxicos)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
@@ -113,6 +114,8 @@
 [![lo_que_rrhh_nunca_confesara](images/lo_que_rrhh_nunca_confesara.png)](https://ar.selecciones.com/contenido/a2869_lo-que-el-personal-de-recursos-humanos-nunca-te-confesara)
 
 [![dificultades_encontrar_perfiles_tecnologicos](images/dificultades_encontrar_perfiles_tecnologicos.png)](http://www.abc.es/economia/abci-cantera-digital-empresas-tienen-dificultades-para-encontrar-perfiles-laborales-necesitan-201605220328_noticia.html)
+
+[![empleados_toxicos](images/empleados_toxicos.png)](http://www.elblogsalmon.com/mundo-laboral/el-coste-economico-de-los-empleados-toxicos)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OcKF2V4yZyE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
