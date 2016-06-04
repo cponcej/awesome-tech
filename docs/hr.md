@@ -88,6 +88,7 @@
 - [forbes: 9 Things You Can Do When The Boss Takes Credit For Your Work](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
 - [entrepreneur.com: How to Avoid Micromanaging](http://www.entrepreneur.com/article/271886)
 - [OOPS! They changed your boss again?](https://www.linkedin.com/pulse/oops-changed-your-boss-again-kamal-karanth-a)
+- [Entrepreneurs Can Save Their Startups When They Stop Micromanaging 🌟](https://www.entrepreneur.com/article/274517)
 
 [![forbes_9things_to_do_your_boss_takes_credit_for_your_work](images/forbes_9things_to_do_your_boss_takes_credit_for_your_work.png)](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
 
