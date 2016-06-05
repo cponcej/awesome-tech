@@ -149,6 +149,16 @@
 
 [![soft_skills](images/soft_skills.png)](https://www.linkedin.com/pulse/who-you-calling-soft-value-skills-tech-obsessed-economy-dennis-yang)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4iBIbzzS8IDZeR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sklip/7-workplace-communication" title="7 workplace communication" target="_blank">7 workplace communication</a> </strong> from <strong><a href="//www.slideshare.net/sklip" target="_blank">sklip</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CKJf9NUdlNKCN8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mony1437/negotition-skills-20" title="Negotiation skills" target="_blank">Negotiation skills</a> </strong> from <strong><a href="//www.slideshare.net/mony1437" target="_blank">Mohamed Ayman</a></strong> </div>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/F1VaultVideo?src=hash">#F1VaultVideo</a> - Part 2 of <a href="https://twitter.com/hashtag/Schumacher?src=hash">#Schumacher</a> vs <a href="https://twitter.com/hashtag/Coulthard?src=hash">#Coulthard</a>. Who was in the wrong? <a href="https://twitter.com/hashtag/F1?src=hash">#F1</a> <a href="https://t.co/f2x6QujJ2n">pic.twitter.com/f2x6QujJ2n</a></p>&mdash; F1 Fanzone (@F1FanzoneMag) <a href="https://twitter.com/F1FanzoneMag/status/705857928595636224">March 4, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
