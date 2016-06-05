@@ -17,6 +17,7 @@
 	- [tecmint.com: Introduction to GlusterFS (File System) and Installation on RHEL/CentOS and Fedora](http://www.tecmint.com/introduction-to-glusterfs-file-system-and-installation-on-rhelcentos-and-fedora/)
 - [Apple Dumps VMware Licensing Agreement, Will Step Up Deployment Of Open-Source KVM Virtualization](http://www.crn.com/news/data-center/300078323/sources-apple-dumps-vmware-licensing-agreement-will-step-up-deployment-of-open-source-kvm-virtualization.htm)
 - [rhelblog.redhat.com: Virtual Machine Migration Best Practices 🌟](http://rhelblog.redhat.com/2016/05/11/migratevms/)
+- [Live Migrating QEMU-KVM Virtual Machines 🌟](http://developers.redhat.com/blog/2015/03/24/live-migrating-qemu-kvm-virtual-machines/)
 - [captainkvm.com 🌟🌟🌟](http://captainkvm.com)
 
 <div class="container">
