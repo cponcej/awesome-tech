@@ -90,19 +90,4 @@
 </div>
 <br/>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BNh7UMOeYNc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8WwO5B15IQE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lwkIIL9sVBw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Venganzas de cine: 15 películas que se sirven frías <a href="https://t.co/TDcYh6w85T">https://t.co/TDcYh6w85T</a> Subgénero por excelencia. <a href="https://t.co/icVTEUovpw">pic.twitter.com/icVTEUovpw</a></p>&mdash; CINEMANIA_ES (@CINEMANIA_ES) <a href="https://twitter.com/CINEMANIA_ES/status/711940489243725824">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
