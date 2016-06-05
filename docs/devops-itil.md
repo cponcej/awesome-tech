@@ -89,6 +89,8 @@
 
 [![devops_glossary](images/devops_glossary.png)](https://xebialabs.com/glossary/)
 
+[![devops_tool_chest](images/devops_tool_chest.png)](https://xebialabs.com/the-ultimate-devops-tool-chest/)
+
 ## Description
 - [What is DevOps? - In Simple English 🌟🌟](https://youtu.be/_I94-tJlovg)
 - [Software Development in the 21st century 🌟🌟🌟](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
