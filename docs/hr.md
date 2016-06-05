@@ -106,6 +106,16 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wOlaqTFcKns?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DmtslJXYrQU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![bi_13signs_promotion](images/bi_13signs_promotion.png)](http://www.businessinsider.com/signs-youre-about-to-be-promoted-at-work-2016-3)
 
 [![9things_managers_do_make_employees_quit](images/9things_managers_do_make_employees_quit.png)](http://www.businessinsider.com/9-things-managers-do-that-make-good-employees-quit-2016-3)
