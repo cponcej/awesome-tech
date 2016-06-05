@@ -10,6 +10,8 @@
     - [Jasmine Behavior Driven JavaScript](#jasmine-behavior-driven-javascript)
     - [Concordion](#concordion)
     - [Appium Mobile App Automation Made Awesome](#appium-mobile-app-automation-made-awesome)
+    - [Calabash automated acceptance testing for mobile apps](#calabash-automated-acceptance-testing-for-mobile-apps)
+    - [Capybara acceptance test framework for web applications](#capybara-acceptance-test-framework-for-web-applications)
     - [Arquillian Testing Platform and Citrus Integration Testing](#arquillian-testing-platform-and-citrus-integration-testing)
     - [Issue tracking tools](#issue-tracking-tools)
         - [TestLink Open Source Test Management](#testlink-open-source-test-management)
@@ -118,6 +120,7 @@
 ## Cucumber
 - [cucumber.io](https://cucumber.io/)
 - [Cucumber wikipedia](https://en.wikipedia.org/wiki/Cucumber_%28software%29)
+- [Behat: Cucumber in PHP](http://behat.org)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dKwAXByQiBkfyg" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NibuBaby/introduction-to-bdd-and-cucumber" title="Introduction to Bdd and cucumber" target="_blank">Introduction to Bdd and cucumber</a> </strong> from <strong><a href="//www.slideshare.net/NibuBaby" target="_blank">Nibu Baby</a></strong> </div>
@@ -166,6 +169,44 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/xu1HujGilA9zdp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kkashyap1707/next-level-of-appium-62525447" title="Next level of Appium" target="_blank">Next level of Appium</a> </strong> from <strong><a href="//www.slideshare.net/kkashyap1707" target="_blank">Keshav Kashyap</a></strong> </div>
+</div>
+<br/>
+
+## Calabash automated acceptance testing for mobile apps
+- [Calabash](http://calaba.sh/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ba2UWotPlXxUax" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mobiletestsummit/calabash-crossplatform-automated-acceptance-testing-for-mobile-apps" title="Calabash: Cross-Platform Automated Acceptance Testing for Mobile Apps" target="_blank">Calabash: Cross-Platform Automated Acceptance Testing for Mobile Apps</a> </strong> from <strong><a href="//www.slideshare.net/mobiletestsummit" target="_blank">mobiletestsummit</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lMpo0RJxg730Fv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bitbar/testdroid-32309222" title="Testdroid: Tips and Tricks with Calabash for Mobile App Testing" target="_blank">Testdroid: Tips and Tricks with Calabash for Mobile App Testing</a> </strong> from <strong><a href="//www.slideshare.net/bitbar" target="_blank">Bitbar</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BCuTcpMnzHvgo2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jesanchezb/workshop-calabash-appium-59595337" title="Workshop calabash appium" target="_blank">Workshop calabash appium</a> </strong> from <strong><a href="//www.slideshare.net/jesanchezb" target="_blank">Enrique Sánchez-Bayuela</a></strong> </div>
+</div>
+<br/>
+
+## Capybara acceptance test framework for web applications
+- [Capybara](https://github.com/jnicklas/capybara)
+- [jnicklas.github.io/capybara](http://jnicklas.github.io/capybara/)
+- [Mink: capybara in PHP](http://mink.behat.org)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pxlMX2xbwARtC9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/futureworkz/capybara-testing" title="Capybara testing" target="_blank">Capybara testing</a> </strong> from <strong><a href="//www.slideshare.net/futureworkz" target="_blank">Futureworkz</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/v62aWAYcaFoeaW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bsbodden/rspec-and-capybara" title="Rspec and Capybara Intro Tutorial at RailsConf 2013" target="_blank">Rspec and Capybara Intro Tutorial at RailsConf 2013</a> </strong> from <strong><a href="//www.slideshare.net/bsbodden" target="_blank">Brian Sam-Bodden</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/e32HyGD3jrAcqI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marc.seeger/lunch-and-learn-cucumber-and-capybara" title="Lunch and learn: Cucumber and Capybara" target="_blank">Lunch and learn: Cucumber and Capybara</a> </strong> from <strong><a href="//www.slideshare.net/marc.seeger" target="_blank">Marc Seeger</a></strong> </div>
 </div>
 <br/>
 

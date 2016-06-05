@@ -24,6 +24,7 @@
 - [careerealism.com: Are You A ‘Cultural Fit’ For The Job?](http://www.careerealism.com/cultural-fit-job/)
 - [careerealism.com: 7 Toxic Traits Of A Bad Employer](https://www.linkedin.com/pulse/7-toxic-traits-bad-employer-j-t-o-donnell)
 - [Takata recalls, another symptom of culture of fear](https://www.linkedin.com/pulse/takata-recalls-another-symptom-culture-fear-l-david-marquet)
+- [entrepreneur.com: Are Our Politicians Leading to the New 'Bully Boss?' 🌟](https://www.entrepreneur.com/article/276026)
 
 ![performance_review](images/performance_review.gif)
 
