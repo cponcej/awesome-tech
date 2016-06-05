@@ -4,6 +4,8 @@
 
 <!-- /MarkdownTOC -->
 
+[![captain_kvm](images/captain_kvm.png)](http://captainkvm.com/)
+
 # Red Hat Virtualization
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 	- [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
@@ -15,6 +17,7 @@
 	- [tecmint.com: Introduction to GlusterFS (File System) and Installation on RHEL/CentOS and Fedora](http://www.tecmint.com/introduction-to-glusterfs-file-system-and-installation-on-rhelcentos-and-fedora/)
 - [Apple Dumps VMware Licensing Agreement, Will Step Up Deployment Of Open-Source KVM Virtualization](http://www.crn.com/news/data-center/300078323/sources-apple-dumps-vmware-licensing-agreement-will-step-up-deployment-of-open-source-kvm-virtualization.htm)
 - [rhelblog.redhat.com: Virtual Machine Migration Best Practices 🌟](http://rhelblog.redhat.com/2016/05/11/migratevms/)
+- [captainkvm.com 🌟🌟🌟](http://captainkvm.com)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HsqtHT8auxg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -60,3 +63,18 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">From a Dockerfile to a VM <a href="https://t.co/X2FEjlNxvH">https://t.co/X2FEjlNxvH</a> [Demo]</p>&mdash; Fedora Project (@fedora) <a href="https://twitter.com/fedora/status/738034930219941888">1 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hMOKrmvYRC0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HlwEDioaigM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1YDzbn0V6XQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>

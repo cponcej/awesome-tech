@@ -206,7 +206,6 @@
 - [relax-and-recover.org 🌟🌟🌟](http://relax-and-recover.org/)
 	- [eweek.com: Red Hat Enterprise Linux 7.2 Adds Security, DR Features 🌟🌟🌟](http://www.eweek.com/enterprise-apps/red-hat-enterprise-linux-7.2-adds-security-dr-features.html)
 
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/33326XobwYg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
