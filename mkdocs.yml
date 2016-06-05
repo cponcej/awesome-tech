@@ -36,7 +36,9 @@ pages:
 - Recursos Humanos: rrhh.md
 - Linux: linux.md
 - Red Hat: redhat.md
+- Red Hat Virtualization: redhatvirt.md
 - Red Hat OpenStack: redhat_openstack.md
+- Red Hat Cluster: redhatvirt.md
 - Linux Commands Examples: linux-commands-examples.md
 - Linux Commands Tweets: linux-commands-tweets.md
 - Microsoft: microsoft.md
