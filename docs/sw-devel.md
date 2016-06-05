@@ -225,6 +225,11 @@
 
 [![goto-dinosaur](images/goto-dinosaur.jpeg)](https://twitter.com/nixcraft)
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/77273976" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## PHP 
 - [nixCraft: How to install PHP 7 on Ubuntu Linux 14.04 LTS 🌟](http://www.cyberciti.biz/faq/ubuntu-linux-14-04-install-php7-using-apt-get-command/)
 
@@ -319,7 +324,6 @@
 
 [![Hello World](images/hello_world.png)](https://twitter.com/nixcraft)
 
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend <a href="https://t.co/vEbdJxG2mA">https://t.co/vEbdJxG2mA</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/700678314445271040">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -332,6 +336,21 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Learning Javascript](images/Learning-JavaScript.png)](http://www.wowebook.org/learning-javascript-3rd-edition.html)
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/73913590" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/43243770" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/47700397" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I promise I will never do such thing. Via <a href="https://t.co/6aV1hVUUfQ">https://t.co/6aV1hVUUfQ</a>? <a href="https://t.co/DRLtXKS4W8">pic.twitter.com/DRLtXKS4W8</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/712702487745007616">23 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
