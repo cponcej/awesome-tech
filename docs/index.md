@@ -35,7 +35,7 @@ Available for work (no freelance). Looking for new opportunities across Northern
 	- [Red Hat 🌟🌟](redhat.md)
 		- [Red Hat Virtualization](redhatvirt.md)
 		- [Red Hat OpenStack](redhat_openstack.md)
-		- [Red Hat Cluster](redhatvirt.md)
+		- [Red Hat Cluster](redhatcluster.md)
 	- [Linux Commands Examples 🌟](linux-commands-examples.md)
 	- [Linux Commands Tweets](linux-commands-tweets.md)
 5. [Microsoft](microsoft.md)
