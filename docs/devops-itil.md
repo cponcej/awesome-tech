@@ -85,6 +85,10 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why Data Center Managers Should Care about DevOps <a href="https://t.co/GdY9WUA25j">https://t.co/GdY9WUA25j</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/CXKfkKZ6QK">pic.twitter.com/CXKfkKZ6QK</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/714341406957920256">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![periodic_table_devops_tools](images/periodic_table_devops_tools.png)](https://xebialabs.com/periodic-table-of-devops-tools/)
+
+[![devops_glossary](images/devops_glossary.png)](https://xebialabs.com/glossary/)
+
 ## Description
 - [What is DevOps? - In Simple English 🌟🌟](https://youtu.be/_I94-tJlovg)
 - [Software Development in the 21st century 🌟🌟🌟](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
