@@ -203,6 +203,11 @@
 
 ![fail_risk_enough](images/fail_risk_enough.jpg)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jNk1Wr6jLOM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Barcelona Tech, Startups and Innovation
 - [Barcelona Tech, Startups and Innovation](startups_bcn.md)
 
