@@ -59,6 +59,16 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4atvnC0Lw1vmFS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CuauhtemocReyes/desarrollo-y-profesionalizacin-de-los-mandos-medios" title="Desarrollo y profesionalización de los mandos medios " target="_blank">Desarrollo y profesionalización de los mandos medios </a> </strong> from <strong><a href="//www.slideshare.net/CuauhtemocReyes" target="_blank">CuauhtemocReyes</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gak1aN7qyTPP0p" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cacsasa/seminario-mandos-medios-cacsa" title="Seminario mandos medios CACSA" target="_blank">Seminario mandos medios CACSA</a> </strong> from <strong><a href="//www.slideshare.net/cacsasa" target="_blank">Javier Alma</a></strong> </div>
+</div>
+<br/>
+
 ## Articulos
 - [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
