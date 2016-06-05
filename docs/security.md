@@ -61,6 +61,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Dave vs Security:  This is why you automate security into your process.  <a href="https://twitter.com/hashtag/cybersecurity?src=hash">#cybersecurity</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://twitter.com/hashtag/secops?src=hash">#secops</a> <a href="https://t.co/H3Nn0GAGt5">pic.twitter.com/H3Nn0GAGt5</a></p>&mdash; Greg Bledsoe (@geek_king) <a href="https://twitter.com/geek_king/status/737700231639408641">31 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![make_rhel7_pci-dss](images/make_rhel7_pci-dss.png)](https://www.open-scap.org/resources/documentation/make-a-rhel7-server-compliant-with-pci-dss/)
+
 # Security
 ## Awesome Security Lists
 - [awesome security](https://github.com/sbilly/awesome-security)
