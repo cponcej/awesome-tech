@@ -7,7 +7,6 @@
     - [Management](#management)
     - [Work environment issues](#work-environment-issues)
     - [Game theory](#game-theory)
-    - [The Prisoner's Dilemma](#the-prisoners-dilemma)
     - [Code of conduct](#code-of-conduct)
     - [Employee Poaching & Non-Compete Agreements](#employee-poaching--non-compete-agreements)
     - [Job hunting](#job-hunting)
@@ -244,8 +243,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PCcVODWm-oY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
-
-## The Prisoner's Dilemma 
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t9Lo2fgxWHw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
