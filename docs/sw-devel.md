@@ -153,6 +153,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HEfY5ECITrE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Design Patterns
 - [wikipedia: Design Patterns. Gang of Four (GoF) 🌟](https://en.wikipedia.org/wiki/Design_Patterns)
 	- [stackoverflow.com: Examples of GoF Design Patterns in Java's core libraries](http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
