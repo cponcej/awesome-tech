@@ -49,6 +49,8 @@
 
 [![world_qa_report_2016](images/world_qa_report_2016.png)](https://www.capgemini.com/thought-leadership/world-quality-report-2015-16)
 
+[![strong_recognition_qa](images/strong_recognition_qa.png)](https://www.capgemini.com/thought-leadership/world-quality-report-2015-16)
+
 # QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
