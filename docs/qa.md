@@ -5,6 +5,7 @@
     - [Mapas Mentales para Software Testing](#mapas-mentales-para-software-testing)
     - [ISTQB](#istqb)
     - [TMAP](#tmap)
+    - [DevOps Quality Blueprint](#devops-quality-blueprint)
     - [JUnit](#junit)
     - [Selenium](#selenium)
         - [Selenium on Twitter](#selenium-on-twitter)
@@ -128,6 +129,15 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5o_KMFrFpc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## DevOps Quality Blueprint
+- [Assessing state of your DevOps Adoption - Use of a Quality Blueprint (QBP) Approach](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
+
+[![why_devops_capgemini](images/why_devops_capgemini.png)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
+
+[![key_devops_practices](images/key_devops_practices.png)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
+
+[![devopsqbp](images/devopsqbp.jpg)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 
 ## JUnit
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)

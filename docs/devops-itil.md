@@ -88,11 +88,17 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why Data Center Managers Should Care about DevOps <a href="https://t.co/GdY9WUA25j">https://t.co/GdY9WUA25j</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/CXKfkKZ6QK">pic.twitter.com/CXKfkKZ6QK</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/714341406957920256">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![why_devops_capgemini](images/why_devops_capgemini.png)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
+
+[![key_devops_practices](images/key_devops_practices.png)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
+
 [![periodic_table_devops_tools](images/periodic_table_devops_tools.png)](https://xebialabs.com/periodic-table-of-devops-tools/)
 
 [![devops_glossary](images/devops_glossary.png)](https://xebialabs.com/glossary/)
 
 [![devops_tool_chest](images/devops_tool_chest.png)](https://xebialabs.com/the-ultimate-devops-tool-chest/)
+
+[![devopsqbp](images/devopsqbp.jpg)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 
 ## Description
 - [What is DevOps? - In Simple English 🌟🌟](https://youtu.be/_I94-tJlovg)
