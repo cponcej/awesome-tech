@@ -8,6 +8,8 @@
     - [DevOps Quality Blueprint](#devops-quality-blueprint)
     - [Google New website Testing tool for Small Businesses](#google-new-website-testing-tool-for-small-businesses)
     - [JUnit](#junit)
+    - [SonarQube previusly known as Sonar](#sonarqube-previusly-known-as-sonar)
+    - [Mockito Mocking framework](#mockito-mocking-framework)
     - [Selenium](#selenium)
         - [Selenium on Twitter](#selenium-on-twitter)
     - [SoapUI](#soapui)
@@ -160,6 +162,37 @@
 ## JUnit
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
 - [JUnit 5: Setup, Build Tool Support, and Writing Your First Test](https://dzone.com/articles/junit-5-setup)
+
+## SonarQube previusly known as Sonar
+- [sonarqube.org](http://www.sonarqube.org/)
+- [github.com/SonarSource/sonarqube](https://github.com/SonarSource/sonarqube)
+- [Manage Code Coverage by Unit Tests with Sonar](http://www.sonarqube.org/manage-code-coverage-by-unit-tests-with-sonar/)
+- [Dzone: Sonar Installation and Eclipse Plugin](https://dzone.com/articles/static-code-analysis-and)
+- [Dzone: How to Setup Eclipse IDE for Sonar Analysis](https://dzone.com/articles/how-setup-eclipse-ide-sonar)
+- [Dzone: How to Quickly Get Started with Sonar](https://dzone.com/articles/how-quickly-get-started-sonar)
+- [Dzone: Code Coverage Tools Comparison in Sonar](https://dzone.com/articles/code-coverage-tools-comparison)
+- [Dzone: Quality Assurance With Sonar](https://dzone.com/articles/quality-assurance-sonar)
+- [Dzone: Configuring Sonar with Maven](https://dzone.com/articles/configuring-sonar-maven)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/33MDMRUd4AcZni" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ppapapetrou/tracking-and-improving-software-quality-with-sonarqube" title="Tracking and improving software quality with SonarQube" target="_blank">Tracking and improving software quality with SonarQube</a> </strong> from <strong><a href="//www.slideshare.net/ppapapetrou" target="_blank">Patroklos Papapetrou</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Btyj4ITfX14g3D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pazscall/continuous-integration-32047593" title="Continuous integration using Jenkins and Sonar" target="_blank">Continuous integration using Jenkins and Sonar</a> </strong> from <strong><a href="//www.slideshare.net/pazscall" target="_blank">Pascal Larocque</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/EqGKxlkWmaKh2v" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/corneliusmellino/software-development-quality-control-with-sonar" title="Software Development Quality Control with SONAR" target="_blank">Software Development Quality Control with SONAR</a> </strong> from <strong><a href="//www.slideshare.net/corneliusmellino" target="_blank">Cornelius Mellino</a></strong> </div>
+</div>
+<br/>
+
+## Mockito Mocking framework
+- [Mockito](https://dzone.com/refcardz/mockito) A Simple, Intuitive Mocking Framework
+
+[![dzone_mockito](images/dzone_mockito.png)](https://dzone.com/refcardz/mockito)
 
 ## Selenium
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)

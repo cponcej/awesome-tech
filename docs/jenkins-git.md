@@ -22,6 +22,8 @@
 
 [![jenkins_is_the_hub_CD_Devops](images/jenkins_is_the_hub_CD_Devops.png)](http://www.slideshare.net/dcjuengst/cloudbeesjenkinsplatform2016)
 
+[![CD_jenkins_workflow](images/CD_jenkins_workflow.png)](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
+
 # Continuous Integration Tools
 ## CI Jenkins
 - [jenkins.io (new jenkins 2.0 site)](https://jenkins.io/)
@@ -36,6 +38,7 @@
 	- [jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server](https://github.com/jhrcz/jenkins-rpm-builder)
 - [DZone: Jenkins Pipeline - Software Delivery Made Easy 🌟🌟🌟](https://dzone.com/articles/jenkins-pipeline-software-delivery-made-easy) 
 - [Jenkins CD and Pipelines Microsite](https://jenkins.io/solutions/pipeline/)
+- [DZone: Continuous Delivery With Jenkins Workflow 🌟🌟🌟](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow) The Jenkins Plugin for Managing Complex DevOps Pipelines
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Why Jenkins is becoming the engine of devops&quot; <a href="https://t.co/28OYn8mSjR">https://t.co/28OYn8mSjR</a> <a href="https://twitter.com/openshift">@OpenShift</a></p>&mdash; Steve Speicher (@sspeiche) <a href="https://twitter.com/sspeiche/status/711903617767317504">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
