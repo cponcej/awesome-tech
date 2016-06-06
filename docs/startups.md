@@ -68,6 +68,8 @@
 
 [![bi_dont_work_for_startup](images/bi_dont_work_for_startup.png)](http://www.businessinsider.com/dont-work-for-a-startup-2016-3)
 
+[![active_vs_reactive_innovator](images/active_vs_reactive_innovator.png)](https://www.linkedin.com/pulse/you-active-reactive-innovator-gijs-van-wulfen?trk=hp-feed-article-title-channel-add)
+
 # Startups and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)
