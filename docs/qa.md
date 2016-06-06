@@ -6,6 +6,7 @@
     - [ISTQB](#istqb)
     - [TMAP](#tmap)
     - [DevOps Quality Blueprint](#devops-quality-blueprint)
+    - [Google New website Testing tool for Small Businesses](#google-new-website-testing-tool-for-small-businesses)
     - [JUnit](#junit)
     - [Selenium](#selenium)
         - [Selenium on Twitter](#selenium-on-twitter)
@@ -50,6 +51,8 @@
 [![world_qa_report_2016](images/world_qa_report_2016.png)](https://www.capgemini.com/thought-leadership/world-quality-report-2015-16)
 
 [![strong_recognition_qa](images/strong_recognition_qa.png)](https://www.capgemini.com/thought-leadership/world-quality-report-2015-16)
+
+[![google_new_website_testing_tool](images/google_new_website_testing_tool.png)](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
 
 # QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
@@ -149,6 +152,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szNowbML4Ck?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+## Google New website Testing tool for Small Businesses
+- [testmysite.thinkwithgoogle.com 🌟🌟🌟](https://testmysite.thinkwithgoogle.com/)
+- [Google Launches New website Testing tool for Small Businesses](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
 
 ## JUnit
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
