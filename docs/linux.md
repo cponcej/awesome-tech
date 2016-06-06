@@ -592,6 +592,9 @@
 - [How to Setup and Configure Network Bonding or Teaming in RHEL/CentOS 7](http://www.tecmint.com/configure-network-bonding-or-teaming-in-rhel-centos-7/)
 - [Configure Static Routes In Debian or Red Hat Enterprise Linux](http://www.cyberciti.biz/tips/configuring-static-routes-in-debian-or-red-hat-linux-systems.html)
 - [Introducing Linux Network Namespaces 🌟](http://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/)
+- [fedoramagazine.org: Build a network bridge with Fedora](https://fedoramagazine.org/build-network-bridge-fedora/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Build a network bridge with Fedora <a href="https://t.co/gC4BbmUMjg">https://t.co/gC4BbmUMjg</a> &lt;- Create a virtual switch.</p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/739848133702750208">6 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Z1IoXIxLJVE" frameborder="0" allowfullscreen class="video"></iframe>

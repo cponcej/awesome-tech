@@ -80,7 +80,10 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/ansible">@Ansible</a> 2.1 Launches with Network Automation, <a href="https://twitter.com/hashtag/Containers?src=hash">#Containers</a>, Microsoft Windows, and Azure. <a href="https://t.co/DDBjw6MJT4">https://t.co/DDBjw6MJT4</a> <a href="https://twitter.com/hashtag/Ansible?src=hash">#Ansible</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/735458411651960833">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Ansible Container
-- [Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks](https://github.com/ansible/ansible-container)
+- [Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks 🌟🌟](https://github.com/ansible/ansible-container)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Yeah! No more hard coded shell scripts into Dockerfiles. <a href="https://twitter.com/ansible">@ansible</a> to the rescue: <a href="https://t.co/YaBFHjLP8J">https://t.co/YaBFHjLP8J</a></p>&mdash; Ghe Rivero (@GheRivero) <a href="https://twitter.com/GheRivero/status/739847713190227968">6 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Holy shit <a href="https://t.co/AeFJ2EPmG8">https://t.co/AeFJ2EPmG8</a> looks amazing I was just going to re-provision some of my servers that use docker, this will help a lot!!</p>&mdash; Jurmarcus (@jurmarcusallen) <a href="https://twitter.com/jurmarcusallen/status/738811269600313344">3 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

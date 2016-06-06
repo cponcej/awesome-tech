@@ -169,3 +169,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">grep -Ev &quot;((accept|drop|reject)log|ftpd)&quot; /var/log/messages | less # Yes! You can do nested grouping in extended regexes.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/738729066501709825">3 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk -F&#39;&quot;,&quot;&#39; &#39;{print $3}&#39; data.csv # Use a multi-character field separator to get field 3 out of a CSV file that uses double quoted fields.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/739866548689588224">6 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

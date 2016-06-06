@@ -175,8 +175,12 @@
 - [Openstack Interview Questions and Answers 🌟](https://intellipaat.com/interview-question/openstack-interview-questions/)
 - [DZone refcard: Getting Started with OpenStack 🌟🌟](https://dzone.com/refcardz/getting-started-openstack-most)
 - [learnitguide.net: Install MariaDB & RabbitMq - Openstack Deployment : Part 1](http://www.learnitguide.net/2016/02/openstack-liberty-install-mariadb.html)
+- [Welcome to Puppet OpenStack Guide! 🌟🌟](http://docs.openstack.org/developer/puppet-openstack-guide/)
 
 [![openstack cluster](images/openstack-cluster.png)](https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Look how shiny is our new Puppet <a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> guide <a href="https://t.co/EI8240NMPl">https://t.co/EI8240NMPl</a> - kudos to <a href="https://twitter.com/bkero">@bkero</a> <a href="https://twitter.com/_Skolt_Iury_">@_Skolt_Iury_</a></p>&mdash; Emilien Macchi (@EmilienMacchi) <a href="https://twitter.com/EmilienMacchi/status/738521170073489408">3 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZRhimPuMU8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
