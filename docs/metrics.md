@@ -16,6 +16,7 @@
 			- [APM Solutions](#apm-solutions)
 		- [Centralized logging. Big Data Log Management Tools \(Data Analytics Platforms\)](#centralized-logging-big-data-log-management-tools-data-analytics-platforms)
 			- [Elasticsearch](#elasticsearch)
+		- [Google Analytics](#google-analytics)
 
 <!-- /MarkdownTOC -->
 
@@ -221,3 +222,10 @@
 
 #### Elasticsearch
 - [Elasticsearch 🌟🌟🌟🌟🌟](elasticsearch.md)
+
+### Google Analytics
+
+<div class="container">
+<iframe src='//players.brightcove.net/1352575774/562a0ae4-1186-4062-a951-6cb07225fb20_default/index.html?videoId=4865654788001' allowfullscreen frameborder=0 class="video"></iframe>
+</div>
+<br/>
