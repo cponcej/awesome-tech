@@ -7,6 +7,7 @@
 	- [Cultura DevOps](#cultura-devops)
 	- [Collaborative tools](#collaborative-tools)
 	- [DevOps Tools 2016](#devops-tools-2016)
+		- [Rundeck](#rundeck)
 		- [Server Provisioning and Automation: Red Hat Satellite, Katello, Foreman, Cobbler and others](#server-provisioning-and-automation-red-hat-satellite-katello-foreman-cobbler-and-others)
 	- [Agile planning: Scrum, Kanban, Lean](#agile-planning-scrum-kanban-lean)
 		- [Javier Garzas](#javier-garzas)
@@ -234,6 +235,21 @@
 ![always that way](images/always_that_way.jpg)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Periodic Table of DevOps Tools <a href="https://t.co/xkWVqwLPkq">https://t.co/xkWVqwLPkq</a> <a href="https://t.co/KQPeAsVzTO">pic.twitter.com/KQPeAsVzTO</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/739067366575738880">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Rundeck 
+- [rundeck.org](http://rundeck.org/)
+- [oraclejavamagazine-digital.com: 7 Open Source tools for java deployment:Jenkins, Chef, Vagrant, Packer, Docker, Flyway, Rundeck, Go](http://www.oraclejavamagazine-digital.com/javamagazine_twitter/20140506?pg=6#pg6)
+- [twitter.com/Rundeck](https://twitter.com/Rundeck)
+
+[![rundeck_logo](images/rundeck_logo.png)](http://rundeck.org/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We just replaced Ansible Tower with Rundeck which is running Ansible tasks in Docker containers. Biggest win of the year already. <a href="https://twitter.com/Rundeck">@Rundeck</a></p>&mdash; Bandesz (@bandeszhu) <a href="https://twitter.com/bandeszhu/status/738072407135662083">1 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/eGSBBwR2xQZ8Fk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dev2ops/rundecks-history-and-future" title="Rundeck&#x27;s History and Future" target="_blank">Rundeck&#x27;s History and Future</a> </strong> from <strong><a href="//www.slideshare.net/dev2ops" target="_blank">dev2ops</a></strong> </div>
+</div>
+<br>
 
 ### Server Provisioning and Automation: Red Hat Satellite, Katello, Foreman, Cobbler and others 
 - [nixCraft: Top 5 Open Source Linux Server Provisioning Software](http://www.cyberciti.biz/tips/server-provisioning-software.html)
