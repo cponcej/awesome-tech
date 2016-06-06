@@ -205,6 +205,7 @@
 - [simple-talk.com: SQL Server 2014 Backup Basics](https://www.simple-talk.com/sql/backup-and-recovery/sql-server-2014-backup-basics/)
 - [relax-and-recover.org 🌟🌟🌟](http://relax-and-recover.org/)
 	- [eweek.com: Red Hat Enterprise Linux 7.2 Adds Security, DR Features 🌟🌟🌟](http://www.eweek.com/enterprise-apps/red-hat-enterprise-linux-7.2-adds-security-dr-features.html)
+- [silicon.es: Tecnologías para manejar y asegurar la información](http://www.silicon.es/tecnologias-manejar-asegurar-informacion-2310166) La información que manejan las empresas se ha multiplicado en los últimos años. Tecnologías como Snapshots, Incremental Change Capture y live Copy ayuden a gestionar efizcamente la información.
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/33326XobwYg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -222,6 +223,8 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9PJL8wa4s8A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+[![silicon_new_storage_backup_solutions](images/silicon_new_storage_backup_solutions.png)](http://www.silicon.es/tecnologias-manejar-asegurar-informacion-2310166)
 
 [![backup condition](images/backup_condition.png)](http://www.cyberciti.biz/)
 

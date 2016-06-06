@@ -73,6 +73,7 @@
 - [unpocodejava.wordpress.com 🌟🌟🌟](https://unpocodejava.wordpress.com/)
 - [blog.jreypo.io 🌟](http://blog.jreypo.io/)
 - [dbigcloud.com 🌟](http://www.dbigcloud.com/)
+- [silicon.es 🌟](http://www.silicon.es/) Información tecnológica para los profesionales TIC
 - [Aprendiendo a virtualizar](http://aprendiendoavirtualizar.com/)
 - [josemariagonzalez.es: Virtualización & Cloud Computing](http://www.josemariagonzalez.es/)
 - [blogvmware.com](http://www.blogvmware.com/)
