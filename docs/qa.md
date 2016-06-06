@@ -81,6 +81,19 @@
 - [International Software Testing Qualifications Board](https://en.wikipedia.org/wiki/International_Software_Testing_Qualifications_Board)
 - [istqb.org](http://www.istqb.org/) 
 - [sstqb.es](http://www.sstqb.es/)
+- [Software QA - Software testing levels onion model](http://blog.panel.es/index.php/software-qa-software-testing-levels-onion-model/)
+
+[![ISTQB-01](images/ISTQB-01.png)](http://dawconsblog.blogspot.com.es/2015/02/testing-e-istqb.html)
+
+[![istqb-portfolio-image](images/istqb-portfolio-image.jpg)](http://www.istqb.org)
+
+[![istqbtestmanager](images/istqbtestmanager.png)](http://www.businessinnova.com)
+
+[![istqbtecnicaltestanalyst](images/istqbtecnicaltestanalyst.png)](http://www.businessinnova.com)
+
+[![V-model_Test_levels_mapping](images/V-model_Test_levels_mapping.jpg)](http://blog.panel.es/index.php/software-qa-software-testing-levels-onion-model/)
+
+[![Software_testing_levels_onion](images/Software_testing_levels_onion.jpg)](http://blog.panel.es/index.php/software-qa-software-testing-levels-onion-model/)
 
 ## TMAP
 - [Test Management Approach](https://en.wikipedia.org/wiki/Test_Management_Approach)
