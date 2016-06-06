@@ -47,6 +47,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 open source alternatives to Trello <a href="https://t.co/hRxWcRLuSM">https://t.co/hRxWcRLuSM</a> via <a href="https://twitter.com/opensourceway">@opensourceway</a> <a href="https://t.co/IWXy4FVasv">pic.twitter.com/IWXy4FVasv</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/734912845557665792">24 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![world_qa_report_2016](images/world_qa_report_2016.png)](https://www.capgemini.com/thought-leadership/world-quality-report-2015-16)
+
 # QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
