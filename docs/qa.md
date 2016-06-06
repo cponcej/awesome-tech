@@ -132,12 +132,19 @@
 
 ## DevOps Quality Blueprint
 - [Assessing state of your DevOps Adoption - Use of a Quality Blueprint (QBP) Approach](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
+- [New Breed of Testers with DevOps](https://www.capgemini.com/blog/capping-it-off/2015/08/new-breed-of-testers-with-devops)
+- [World Quality Report 2015-16](https://www.capgemini.com/thought-leadership/world-quality-report-2015-16)
 
 [![why_devops_capgemini](images/why_devops_capgemini.png)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 
 [![key_devops_practices](images/key_devops_practices.png)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 
 [![devopsqbp](images/devopsqbp.jpg)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szNowbML4Ck?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ## JUnit
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
