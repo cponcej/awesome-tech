@@ -2,6 +2,9 @@
 <!-- MarkdownTOC -->
 
 - [QA. Software Testing](#qa-software-testing)
+    - [Mapas Mentales para Software Testing](#mapas-mentales-para-software-testing)
+    - [ISTQB](#istqb)
+    - [TMAP](#tmap)
     - [JUnit](#junit)
     - [Selenium](#selenium)
         - [Selenium on Twitter](#selenium-on-twitter)
@@ -70,6 +73,38 @@
 - [nubelo.com: Los Analistas QA están cansados de que los confundan con testers](http://www.nubelo.com/blog/los-analistas-estan-cansados-que-los-confundan-con-testers)
 - [capgemini.com: DevOps with Quality - 7 principles, integrated approach to DevOps Quality 🌟🌟🌟](https://www.capgemini.com/resources/devops-with-quality-7-principles-integrated-approach-to-devops-quality)
 - [Jumpstarting DevOps with continuous testing](http://www.devopsonline.co.uk/jumpstarting-devops-with-continuous-testing/)
+
+## Mapas Mentales para Software Testing
+- [TestingBaires Mapas Mentales para Software Testing](http://testingbaires.com/mapas-mentales/)
+
+## ISTQB
+- [International Software Testing Qualifications Board](https://en.wikipedia.org/wiki/International_Software_Testing_Qualifications_Board)
+- [istqb.org](http://www.istqb.org/) 
+- [sstqb.es](http://www.sstqb.es/)
+
+## TMAP
+- [Test Management Approach](https://en.wikipedia.org/wiki/Test_Management_Approach)
+- [tmap.net](http://www.tmap.net/)
+- [TMap NEXT structured testing](http://www.tmap.net/tmap-next)
+- [What is TMap NEXT? A quick overview](https://www.linkedin.com/pulse/what-tmap-quick-overview-humayun-shaukat)
+- [Los 4 fundamentos de TMap – Sogeti](http://testingbaires.com/los-4-fundamentos-de-tmap-sogeti/)
+
+[![TMap-Suite-logo](images/TMap-Suite-logo.png)](http://www.tmap.net/)
+
+[![tmap_next](images/tmap_next.jpg)](http://www.tmap.net/tmap-next)
+
+[![tmap-fundamentos-parte-1](images/tmap-fundamentos-parte-1.jpg)](http://testingbaires.com/los-4-fundamentos-de-tmap-sogeti/)
+
+[![what_is_tmap](images/what_is_tmap.png)](https://www.linkedin.com/pulse/what-tmap-quick-overview-humayun-shaukat)
+
+[![what_is_tmap_next](images/what_is_tmap_next.png)](https://www.linkedin.com/pulse/what-tmap-quick-overview-humayun-shaukat)
+
+[![tmap_structured_test_process](images/tmap_structured_test_process.jpg)](http://www.slideshare.net/VLDCORP/test-process-improvement-with-tpi-next-what-the-model-does-not-tell-you-but-you-should-know)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2nWJ3Ngr7pWeZb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/VLDCORP/test-process-improvement-with-tpi-next-what-the-model-does-not-tell-you-but-you-should-know" title="Test Process Improvement with TPI NEXT - what the model does not tell you but you should know " target="_blank">Test Process Improvement with TPI NEXT - what the model does not tell you but you should know </a> </strong> from <strong><a href="//www.slideshare.net/VLDCORP" target="_blank">SQALab</a></strong> </div>
+</div>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">From our sister site <a href="https://twitter.com/testmagazine">@testmagazine</a>: Continuous performance testing in an agile environment. <a href="https://t.co/hkjnKR5wXJ">https://t.co/hkjnKR5wXJ</a> <a href="https://t.co/GUTvtD4Wot">pic.twitter.com/GUTvtD4Wot</a></p>&mdash; DevOps Online News (@DevOpsOnline) <a href="https://twitter.com/DevOpsOnline/status/735470641332158464">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

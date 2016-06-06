@@ -15,6 +15,7 @@
 	- [Firefox](#firefox)
 		- [Firefox Extensions](#firefox-extensions)
 	- [Chrome](#chrome)
+	- [Mind mapping software. Mapas Mentales](#mind-mapping-software-mapas-mentales)
 	- [Monitors](#monitors)
 - [Presentations](#presentations)
 - [HP Mini PC](#hp-mini-pc)
@@ -346,6 +347,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Have a bunch of tabs open in a single window? Hit &quot;ctrl + [1-9]&quot; (command on Mac) to quickly jump between them. <a href="https://twitter.com/hashtag/chrometip?src=hash">#chrometip</a></p>&mdash; Google Chrome (@googlechrome) <a href="https://twitter.com/googlechrome/status/664148016945897472">noviembre 10, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Mind mapping software. Mapas Mentales 
+- [XMind](https://www.xmind.net/)
+
+![xm7.hero.macbook](images/xm7.hero.macbook.png)
 
 ## Monitors
 - [reddit.com/r/monitors](https://www.reddit.com/r/monitors)
