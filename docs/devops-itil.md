@@ -48,6 +48,7 @@
 
 [![devops_radio](images/devops_radio.png)](https://www.cloudbees.com/resources/devops-radio)
 
+
 # DevOps
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
@@ -76,6 +77,8 @@
 		- [Devops Cafe](http://devopscafe.org/)
 
 [![devops.com page](images/devops_com-logo.png)](http://devops.com/)
+
+[![DevOps-Online-LOGO](images/DevOps-Online-LOGO.png)](http://www.devopsonline.co.uk/)
 
 [![find a debug during the deploy](images/find_debug_during_deploy.gif)](http://devopsreactions.tumblr.com/)
 

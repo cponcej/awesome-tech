@@ -24,6 +24,7 @@
 
 # Continuous Integration Tools
 ## CI Jenkins
+- [jenkins.io (new jenkins 2.0 site)](https://jenkins.io/)
 - [jenkins-ci.org](https://jenkins-ci.org)
 - [AWS continuous integration](https://aws.amazon.com/devops/continuous-integration/)
 - [Cloudbees Jenkins Platform](https://www.cloudbees.com/products/cloudbees-jenkins-platform)
@@ -33,10 +34,15 @@
 	- [Tutorial: Gestión de Configuración – Ansible + Vagrant + Jenkins](http://www.carlessanagustin.com/2015/08/20/tutorial-gestion-de-configuracion-ansible-vagrant-jenkins/)
 	- [Jenkins Docker Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin)
 	- [jenkins-rpm-builder, wrapper for easy building of rpm packages in jenkins ci server](https://github.com/jhrcz/jenkins-rpm-builder)
+- [DZone: Jenkins Pipeline - Software Delivery Made Easy 🌟🌟🌟](https://dzone.com/articles/jenkins-pipeline-software-delivery-made-easy) 
+- [Jenkins CD and Pipelines Microsite](https://jenkins.io/solutions/pipeline/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Why Jenkins is becoming the engine of devops&quot; <a href="https://t.co/28OYn8mSjR">https://t.co/28OYn8mSjR</a> <a href="https://twitter.com/openshift">@OpenShift</a></p>&mdash; Steve Speicher (@sspeiche) <a href="https://twitter.com/sspeiche/status/711903617767317504">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Get started with brand new Jenkins 2.0 with Docker <a href="https://t.co/qju4n52Rg3">https://t.co/qju4n52Rg3</a>  <a href="https://twitter.com/hashtag/docker?src=hash">#docker</a> <a href="https://t.co/par4rc034h">pic.twitter.com/par4rc034h</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/717508097833435136">6 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Jenkins Pipeline - Software Delivery Made Easy <a href="https://t.co/4Ek45kyTSa">https://t.co/4Ek45kyTSa</a> via <a href="https://twitter.com/singh_harpreet">@singh_harpreet</a> <a href="https://t.co/h0lkrK3rNJ">pic.twitter.com/h0lkrK3rNJ</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/739577798231216128">5 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/cLH7UxrJLzcZLX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dcjuengst/cloudbeesjenkinsplatform2016" title="Master Continuous Delivery with CloudBees Jenkins Platform" target="_blank">Master Continuous Delivery with CloudBees Jenkins Platform</a> </strong> from <strong><a href="//www.slideshare.net/dcjuengst" target="_blank">dcjuengst</a></strong> </div>
@@ -117,6 +123,9 @@
 
 ## CI Docker
 - [pyvideo.org: Ship Python Apps with Docker!](http://pyvideo.org/video/3646/ship-python-apps-with-docker) Build a docker image for a simple python app and then deploy it to a computer, EC2, and Google cloud engine
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to build CI/CD pipelines for your applications with Docker Hub <a href="https://t.co/zgmiWAOck8">https://t.co/zgmiWAOck8</a> via <a href="https://twitter.com/MBuffenoir">@MBuffenoir</a> <a href="https://t.co/zExQ9v1DPg">pic.twitter.com/zExQ9v1DPg</a></p>&mdash; The Linux Foundation (@linuxfoundation) <a href="https://twitter.com/linuxfoundation/status/739351300756901888">5 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PMt98G4MOKg" frameborder="0" allowfullscreen class="video"></iframe>

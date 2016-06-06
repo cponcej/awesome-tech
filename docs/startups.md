@@ -31,6 +31,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/HarvardBiz">@HarvardBiz</a> - The Most <a href="https://twitter.com/hashtag/DigitalCompanies?src=hash">#DigitalCompanies</a> Are Leaving All the Rest Behind <a href="https://t.co/VxZ2O5KG2g">https://t.co/VxZ2O5KG2g</a> <a href="https://twitter.com/hashtag/DigitalDivide?src=hash">#DigitalDivide</a> <a href="https://twitter.com/hashtag/DigitalTransformation?src=hash">#DigitalTransformation</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/707168141080526848">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Stop breaking new ground. Use boring, mature, tech.&quot; <a href="https://twitter.com/hashtag/mysql?src=hash">#mysql</a> works fine, and you can google for help.&quot; <a href="https://t.co/14RhaDKsXp">https://t.co/14RhaDKsXp</a></p>&mdash; Anthony Pisapia (@anthonypisapia) <a href="https://twitter.com/anthonypisapia/status/737500073483866112">31 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![bi_unemployment_crisis](images/bi_unemployment_crisis.png)](http://www.businessinsider.com/countries-with-worst-youth-unemployment-2015-11)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="http://t.co/y4bCU81M9H">pic.twitter.com/y4bCU81M9H</a></p>&mdash; Oasis (@oasis) <a href="https://twitter.com/oasis/status/653631226687787009">12 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -88,6 +90,7 @@
 - [startup.zeef.com](https://startup.zeef.com/)
 - [Mark Cuban's 12 Rules for Startups 🌟](http://www.entrepreneur.com/article/222524)
 - [Why new companies have it way easier now than a decade ago 🌟](http://www.businessinsider.com/launching-startup-changed-drastically-stewart-butterfield-slack-flickr-2015-6)
+- [Reddit CTO: Stick to Boring Tech when Building Your Startup 🌟🌟🌟🌟](http://thenewstack.io/reddit-cto-sxsw-stick-boring-tech-building-start/)
 
 [![zdnet spain](images/zdnet_logo.png)](http://www.zdnet.com/blog/iberia/)
 

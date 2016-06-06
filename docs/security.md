@@ -156,6 +156,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">SMShing para robar tu 2nd Factor Authentication en tus cuentas Google o Apple <a href="https://twitter.com/hashtag/SMShing?src=hash">#SMShing</a> <a href="https://t.co/IujqX1ZZOb">https://t.co/IujqX1ZZOb</a> }:) <a href="https://t.co/U6TrIMFZdO">pic.twitter.com/U6TrIMFZdO</a></p>&mdash; Chema Alonso (@chemaalonso) <a href="https://twitter.com/chemaalonso/status/739357388113870848">5 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Be warned, there&#39;s a nasty Google 2 factor auth attack going around. <a href="https://t.co/c9b9Fxc0ZC">pic.twitter.com/c9b9Fxc0ZC</a></p>&mdash; Alex MacCaw (@maccaw) <a href="https://twitter.com/maccaw/status/739232334541524992">4 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">For you Wi-Fi nerds: A visual representation of WEP security on WLAN&#39;s. <a href="https://t.co/Q5Sh9t7x3I">pic.twitter.com/Q5Sh9t7x3I</a></p>&mdash; Michael Dorman (@_mdorman) <a href="https://twitter.com/_mdorman/status/738805461579767812">3 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New SonicAlert: Microsoft Windows&amp;trade; OS HTTP User-Agents (1/29/2016) by <a href="https://twitter.com/DellSecurity">@DellSecurity</a> Threats Research: <a href="https://t.co/hkm4abXYd4">https://t.co/hkm4abXYd4</a></p>&mdash; Dell Security (@DellSecurity) <a href="https://twitter.com/DellSecurity/status/694192990206697472">febrero 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

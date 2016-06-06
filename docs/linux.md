@@ -69,6 +69,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 Things I Dislike and Love About <a href="https://twitter.com/hashtag/GNU?src=hash">#GNU</a> /<a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a><a href="https://t.co/mlh2hTLdL8">https://t.co/mlh2hTLdL8</a> <a href="https://t.co/j1iDW9APSP">pic.twitter.com/j1iDW9APSP</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/739077772656533504">4 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Linux Journey is a site dedicated to making learning Linux fun and easy.&quot;  <a href="https://t.co/6zFkticGrB">https://t.co/6zFkticGrB</a></p>&mdash; Anthony Pisapia (@anthonypisapia) <a href="https://twitter.com/anthonypisapia/status/738578805053259778">3 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Sysadmin Blogs
 - [The 79 Best Tech Blogs for sysadmins to follow](http://www.gfi.com/blog/the-79-best-tech-blogs-for-sysadmins-to-follow/)
 - [The Lone SysAdmin](https://lonesysadmin.net)
@@ -139,6 +142,7 @@
 - [LinuxPitstop: Linux Tips, Techniques, HowTo's & Open Source News](http://linuxpitstop.com/)
 - [tecadmin.net](http://tecadmin.net)
 - [unixmen.com 🌟](https://www.unixmen.com)
+- [linuxjourney.com 🌟🌟🌟](https://linuxjourney.com/) Linux Journey is a site dedicated to making learning Linux fun and easy
 
 [![tecmint logo](images/tecmint-logo.png)](http://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/)
 
@@ -285,8 +289,12 @@
 - [unixetc.co.uk: Profiling and Tracing Processes in Linux](http://unixetc.co.uk/2012/10/28/profiling-and-tracing-processes-in-linux/)
 - [ibm.com: Use the /proc filesystem to get a handle on your system](http://www.ibm.com/developerworks/linux/library/l-adfly/index.html)
 - [Linux Server See the Historical and Statistical Uptime of System With tuptime Utility](http://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/)
+- [tecmint.com: How to Find and Kill Running Processes in Linux](http://www.tecmint.com/find-and-kill-running-processes-pid-in-linux/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Whatportis, a command to search port names and numbers <a href="https://t.co/WUxc1iha5v">https://t.co/WUxc1iha5v</a> <a href="https://twitter.com/hashtag/python?src=hash">#python</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/DHgqwupDCn">pic.twitter.com/DHgqwupDCn</a></p>&mdash; Nicolas Crocfer (@ncrocfer) <a href="https://twitter.com/ncrocfer/status/692129299047026688">26 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Find and Kill Running Processes in <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/5ALOrcHjgy">https://t.co/5ALOrcHjgy</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/cCMh2W46lw">pic.twitter.com/cCMh2W46lw</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/739336698044108805">5 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux System Calls
 - [Using strace to track system calls in Linux](https://opensource.com/business/16/1/scale-14x-interview-alex-juarez-rackspace)
@@ -634,6 +642,9 @@
 <iframe src="https://player.vimeo.com/video/53734006" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This is why I love ssh with key based login 😊 TeamViewer users are being hacked in bulk. <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a>  <a href="https://t.co/WVHC6zxpR7">https://t.co/WVHC6zxpR7</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/739409299315642368">5 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Rsync
 - [Rsync](https://en.wikipedia.org/wiki/Rsync)

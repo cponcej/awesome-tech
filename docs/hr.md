@@ -102,6 +102,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Por qué muchos jefes no logran “conectar” con sus colaboradores? ➡ <a href="https://t.co/sJnlrrENWk">https://t.co/sJnlrrENWk</a> por <a href="https://twitter.com/AliciaPomares">@aliciapomares</a> <a href="https://twitter.com/hashtag/liderazgo?src=hash">#liderazgo</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/734821553444098048">23 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Happiest jobs that pay 6-figures:<br><br>1. CMO<br>2. Senior HR director<br>3. Senior project manager<a href="https://t.co/ZqwJ3yjdAs">https://t.co/ZqwJ3yjdAs</a> <a href="https://t.co/kmCO7GG4BY">pic.twitter.com/kmCO7GG4BY</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/739577544962412544">5 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/c2UUSp4bkNs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
