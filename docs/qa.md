@@ -189,6 +189,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wXTBTf0ZN7EBmM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/neomatrix369/sonar-qube-to-impove-code-quality-39398492" title="Sonar qube to impove code quality" target="_blank">Sonar qube to impove code quality</a> </strong> from <strong><a href="//www.slideshare.net/neomatrix369" target="_blank">Mani Sarkar</a></strong> </div>
+</div>
+<br/>
+
 ## Mockito Mocking framework
 - [Mockito](https://dzone.com/refcardz/mockito) A Simple, Intuitive Mocking Framework
 
