@@ -31,7 +31,7 @@
         - [Payment Card Industry Data Security Standard compliance](#payment-card-industry-data-security-standard-compliance)
     - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
     - [AWS S3](#aws-s3)
-    - [AWS Backup and Recovery](#aws-backup-and-recovery)
+    - [AWS Backup and Recovery. Design for failure](#aws-backup-and-recovery-design-for-failure)
     - [AWS Config Rules](#aws-config-rules)
     - [AWS BigData](#aws-bigdata)
     - [AWS IoT](#aws-iot)
@@ -395,9 +395,10 @@
 </div>
 <br/>
 
-## AWS Backup and Recovery
+## AWS Backup and Recovery. Design for failure
 - [Quantum Taps AWS for Cloud-Powered Disaster Recovery](http://www.infostor.com/backup-and_recovery/quantum-taps-aws-for-cloud-powered-disaster-recovery.html)
 - [Linkedin discussion: Need help on Backup and restore methods of EC2 using s3 services](https://www.linkedin.com/groups/49531/49531-6093375473969090562)
+- [Design for failure lessons learnt from the Sydney AWS outage 🌟🌟🌟](https://www.hava.io/blog/design-for-failure-lessons-learnt-from-the-sydney-aws-outage)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2G5HoFdd_D0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
