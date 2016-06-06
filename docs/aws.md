@@ -399,6 +399,8 @@
 - [Quantum Taps AWS for Cloud-Powered Disaster Recovery](http://www.infostor.com/backup-and_recovery/quantum-taps-aws-for-cloud-powered-disaster-recovery.html)
 - [Linkedin discussion: Need help on Backup and restore methods of EC2 using s3 services](https://www.linkedin.com/groups/49531/49531-6093375473969090562)
 - [Design for failure lessons learnt from the Sydney AWS outage 🌟🌟🌟](https://www.hava.io/blog/design-for-failure-lessons-learnt-from-the-sydney-aws-outage)
+- [Chaos Monkey 🌟🌟](https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey) The Netflix Chaos Monkey tool allows you to proactively launch attack code against your infrastructure to cause failures and give you the chance to fix potential problems before they occur on their own. 
+- [Udemy - AWS: How to Architect with a Design for Failure Approach](https://www.udemy.com/how-to-architect-with-a-design-for-failure-approach/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2G5HoFdd_D0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
