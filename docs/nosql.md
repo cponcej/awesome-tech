@@ -26,6 +26,7 @@
 - [blog.couchbase.com podcast: NoSQL in the Perspective of Industry Leaders](http://blog.couchbase.com/2016/january/nosql-in-the-perspective-of-industry-leaders)
 - [Query JSON Using SQL With Couchbase Query Workbench](https://dzone.com/articles/query-json-using-sql-with-couchbase-query-workbenc) Would you like to query a JSON document database using SQL-like syntax? Couchbase has N1QL for you.
 - [DZone: A Primer on Open-Source NoSQL Databases](https://dzone.com/articles/a-primer-on-open-source-nosql-databases) A beginner's guide to the different flavors of NoSQL databases, including key-value, document-oriented, graph, and column-oriented databases.
+- [How to Evolve from RDBMS to NoSQL + SQL 🌟🌟🌟](https://www.linkedin.com/pulse/how-evolve-from-rdbms-nosql-sql-jim-scott)
 
 [![Next Generation Databases](images/Next-Generation-Databases.png)](http://www.wowebook.org/next-generation-databases-nosql-newsql-and-big-data.html)
 
@@ -35,6 +36,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qI_g07C_Q5I" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+[![howto_evolve_to_nosql](images/howto_evolve_to_nosql.png)](https://www.linkedin.com/pulse/how-evolve-from-rdbms-nosql-sql-jim-scott)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">There ARE good reasons for NoSQL.<br>It&#39;s just that the average apps performance problems isn&#39;t.<a href="https://t.co/Os0wio3ekO">https://t.co/Os0wio3ekO</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/711909070995849216">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
