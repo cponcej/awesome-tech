@@ -237,6 +237,7 @@
 - [Most IT pros have seen potentially embarrassing information about their colleagues](http://www.net-security.org/secworld.php?id=19418) 
 - [techvisionresearch.com: The future of Identity Management](http://techvisionresearch.com/the-future-of-identity-management/)
 - [nixCraft: How to paste password easily when pasting into password input fields disabled on Google Chrome 🌟](http://www.cyberciti.biz/linux-news/google-chrome-extension-to-removes-password-paste-blocking-on-website/)
+- [Single sign-on improvements in Fedora 24 🌟](https://fedoramagazine.org/single-sign-on-improvements-fedora-24/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat Identity Manager: Part 1 – Overview and Getting started <a href="https://t.co/b6HOQO4dVU">https://t.co/b6HOQO4dVU</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/726033502903267328">29 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
