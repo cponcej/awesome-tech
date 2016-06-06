@@ -402,6 +402,8 @@
 - [Chaos Monkey 🌟🌟](https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey) The Netflix Chaos Monkey tool allows you to proactively launch attack code against your infrastructure to cause failures and give you the chance to fix potential problems before they occur on their own. 
 - [Udemy - AWS: How to Architect with a Design for Failure Approach](https://www.udemy.com/how-to-architect-with-a-design-for-failure-approach/)
 
+[![hava_aws_diagrams](images/hava_aws_diagrams.png)](https://www.hava.io/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2G5HoFdd_D0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
