@@ -182,6 +182,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Look how shiny is our new Puppet <a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> guide <a href="https://t.co/EI8240NMPl">https://t.co/EI8240NMPl</a> - kudos to <a href="https://twitter.com/bkero">@bkero</a> <a href="https://twitter.com/_Skolt_Iury_">@_Skolt_Iury_</a></p>&mdash; Emilien Macchi (@EmilienMacchi) <a href="https://twitter.com/EmilienMacchi/status/738521170073489408">3 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;<a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> is helping telcos transform their networks. We’re transforming the industry, and we’re doing it w/ open source.&quot; -<a href="https://twitter.com/RobMcMahon5">@RobMcMahon5</a></p>&mdash; OpenStack (@OpenStack) <a href="https://twitter.com/OpenStack/status/739726572073168896">6 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZRhimPuMU8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

@@ -14,6 +14,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> will help accelerate <a href="https://twitter.com/bbva">@BBVA</a>&#39;s global transformation &amp; <a href="https://twitter.com/hashtag/technology?src=hash">#technology</a> innovation. Learn more: <a href="https://t.co/NRIW6ZrOIc">https://t.co/NRIW6ZrOIc</a> <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> <a href="https://twitter.com/hashtag/IaaS?src=hash">#IaaS</a> <a href="https://twitter.com/hashtag/PaaS?src=hash">#PaaS</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/735471234478006274">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;<a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> is helping telcos transform their networks. We’re transforming the industry, and we’re doing it w/ open source.&quot; -<a href="https://twitter.com/RobMcMahon5">@RobMcMahon5</a></p>&mdash; OpenStack (@OpenStack) <a href="https://twitter.com/OpenStack/status/739726572073168896">6 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # OpenStack Private Cloud
 - [OpenStack private cloud](cloud.md#openstack-private-cloud)
 
