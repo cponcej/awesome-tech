@@ -66,6 +66,8 @@
 - [Jacks-Of-All-Trades Don't Get Interviews Because...](https://www.linkedin.com/pulse/20140114003036-7668018-jacks-of-all-trades-don-t-get-interviews-because)
 - [How To Get A Job Anywhere With NO Connections 🌟](http://cultivatedculture.com/how-to-get-a-job-anywhere-no-connections/)
 
+![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
+
 [![walk_out_job_interview](images/walk_out_job_interview.png)](https://www.linkedin.com/pulse/i-wrong-walk-out-job-interview-liz-ryan)
 
 [![howto_answer_whats_your_current_salary](images/howto_answer_whats_your_current_salary.png)](https://www.linkedin.com/pulse/how-answer-whats-your-current-salary-liz-ryan)
