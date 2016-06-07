@@ -75,6 +75,11 @@
 [![10_things_recruiters_dont_need_to_know_about_you](images/10_things_recruiters_dont_need_to_know_about_you.png)](http://www.forbes.com/sites/lizryan/2016/03/17/ten-things-recruiters-dont-need-to-know-about-you/2)
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vMiSf7LpFQE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CcNQUbVOYbU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
