@@ -103,6 +103,9 @@
 - [The 8 Clear Signs of a Workplace Culture of Fear ](http://www.eremedia.com/tlnt/the-8-clear-signs-of-a-workplace-culture-of-fear/)
 - [How to Change a Culture of Fear](https://www.shrm.org/publications/hrmagazine/editorialcontent/2016/0116/pages/0116-execbrief.aspx)
 - [Latest Top Manager Suicide by Ex Zurich CEO: Why?](https://www.linkedin.com/pulse/latest-top-manager-suicide-ex-zurich-ceo-why-dr-thomas-d-zweifel)
+- [Management by Threat, Fear & Intimidation](https://www.linkedin.com/pulse/20141205072024-40413724-management-by-threat-fear-intimidation)
+- [Management by intimidation will just not work](http://gulfnews.com/business/analysis/management-by-intimidation-will-just-not-work-1.1312175) Those who work within a culture that is intimidating will never give of their best
+- [The Best Antidote for Intimidation is to Intimidate the Intimidator](http://bobmaconbusiness.com/?p=4961)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lGNiDK8vyxQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
