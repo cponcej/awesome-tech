@@ -419,6 +419,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat CDK installation in just minutes! <a href="https://t.co/6JZ3HEXosI">https://t.co/6JZ3HEXosI</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/737992382281437184">1 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe src="https://player.vimeo.com/video/168803004?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<p><a href="https://vimeo.com/168803004">Red Hat Container Development Kit (CDK) - Installation in just minutes</a> from <a href="https://vimeo.com/ericschabell">Eric D. Schabell</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+<br/>
+
 ## Red Hat Varnish
 - [Varnish Cache](https://www.varnish-cache.org/)
 - [fedoramagazine.org: Varnish: Your site faster and more stable](https://fedoramagazine.org/varnish-site-faster-stable/)

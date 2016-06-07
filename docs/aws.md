@@ -92,6 +92,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS cloud computing ops, data centers, 1.3 million servers creating efficiency flywheel <a href="https://t.co/KRjIzt85GS">https://t.co/KRjIzt85GS</a> by <a href="https://twitter.com/ldignan">@ldignan</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/740238430219603969">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## AWS re:Invent 2015
 - [Festín de novedades en re:Invent 2015](http://www.siliconweek.es/data-storage/business-intelligence/festin-de-novedades-en-reinvent-2015-89129)
 - [What's New from Amazon Web Services](https://aws.amazon.com/es/new/)

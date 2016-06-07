@@ -203,6 +203,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Syntax Highlighting Off <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a> <a href="https://twitter.com/hashtag/practice?src=hash">#practice</a> <a href="https://twitter.com/hashtag/life?src=hash">#life</a>  <a href="https://t.co/O5XfVtOVw7">https://t.co/O5XfVtOVw7</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709829665246941184">15 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The good coder is the coder who codes good code... <a href="https://t.co/8OxyoKaAxm">https://t.co/8OxyoKaAxm</a> <a href="https://t.co/EwywiSDre0">pic.twitter.com/EwywiSDre0</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/740238819841150976">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
 
 [![Intellij IDEA](images/intellij-idea.png)](https://www.jetbrains.com/idea/)
@@ -246,6 +249,9 @@
 - [twitter.com/phpizer](https://twitter.com/phpizer)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">PHP 7.0.4 is available. This is a security release <a href="https://t.co/oeInvzumyA">https://t.co/oeInvzumyA</a> upgrade ASAP. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705904451421237248">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to choose a PHP framework <a href="https://t.co/wdvmlW2SGL">https://t.co/wdvmlW2SGL</a> by Dr. Michael J. Garbade <a href="https://t.co/xOcQNB9KqW">pic.twitter.com/xOcQNB9KqW</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/740171711123836929">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Install <a href="https://twitter.com/hashtag/Nginx?src=hash">#Nginx</a>, <a href="https://twitter.com/hashtag/Mariadb?src=hash">#Mariadb</a> and <a href="https://twitter.com/hashtag/PHP?src=hash">#PHP</a> on <a href="https://twitter.com/hashtag/RHEL?src=hash">#RHEL</a>/<a href="https://twitter.com/hashtag/CentOS?src=hash">#CentOS</a> &amp; <a href="https://twitter.com/hashtag/Fedora?src=hash">#Fedora</a> <a href="https://t.co/zNQTZML6np">https://t.co/zNQTZML6np</a> RT <a href="https://twitter.com/nginxorg">@nginxorg</a> <a href="https://twitter.com/mariadb">@mariadb</a> <a href="https://twitter.com/php_net">@php_net</a> <a href="https://t.co/sh3vZeCpN3">pic.twitter.com/sh3vZeCpN3</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/738276531873579008">2 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

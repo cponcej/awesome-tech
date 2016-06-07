@@ -26,6 +26,10 @@
 - [Packetbeat | Real-Time Network Packet Analytics 🌟](https://www.elastic.co/products/beats/packetbeat) Packetbeat is the open source data shipper that integrates with Elasticsearch and Kibana to provide real-time analytics for web, database, and other network protocols. It’s extensible, letting IT operations, security, and business analysts rapidly add new protocols, metrics, and analytics, and has a cloud‑ready deployment model to ensure scalability as your applications evolve.
 - [adictosaltrabajo.com: Introducción a Kibana](http://www.adictosaltrabajo.com/tutoriales/introduccion-a-kibana/)
 - [How to deploy Elasticsearch with Docker in 10 steps 🌟](How to deploy Elasticsearch with Docker in 10 steps)
+- [How to Install Elastic Stack (ELK) on Red Hat Enterprise Linux (RHEL)](http://developers.redhat.com/blog/2016/06/07/how-to-install-elastic-stack-elk-on-red-hat-enterprise-linux-rhel/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Install Elastic Stack (ELK) on Red Hat Enterprise Linux (RHEL) <a href="https://t.co/DQIlKwpVUn">https://t.co/DQIlKwpVUn</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/740151621145894912">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/MULFA26xYSzUz5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jillesvangurp/elk-stack-34785684" title="Elk stack" target="_blank">Elk stack</a> </strong> from <strong><a href="//www.slideshare.net/jillesvangurp" target="_blank">Jilles van Gurp</a></strong> </div>

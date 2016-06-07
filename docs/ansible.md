@@ -79,6 +79,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/ansible">@Ansible</a> 2.1 Launches with Network Automation, <a href="https://twitter.com/hashtag/Containers?src=hash">#Containers</a>, Microsoft Windows, and Azure. <a href="https://t.co/DDBjw6MJT4">https://t.co/DDBjw6MJT4</a> <a href="https://twitter.com/hashtag/Ansible?src=hash">#Ansible</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/735458411651960833">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> expands <a href="https://twitter.com/hashtag/Ansible?src=hash">#Ansible</a> with broader container and <a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> support: <a href="https://t.co/rec8HiPssm">https://t.co/rec8HiPssm</a> via <a href="https://twitter.com/eweek">@eWeek</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/740091077961613312">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Ansible Container
 - [Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks 🌟🌟](https://github.com/ansible/ansible-container)
 

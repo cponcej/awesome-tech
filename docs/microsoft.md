@@ -55,6 +55,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Video: How to use the Windows Software Licensing Management Tool <a href="https://t.co/XVr42usYXV">https://t.co/XVr42usYXV</a> <a href="https://twitter.com/edbott">@edbott</a> <a href="https://twitter.com/billdetwiler">@BillDetwiler</a> <a href="https://t.co/Rz1fm7KMal">pic.twitter.com/Rz1fm7KMal</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/705784929435648000">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Exclusive video of the Windows 10 upgrade team <a href="https://t.co/n1eVY8jqpd">pic.twitter.com/n1eVY8jqpd</a></p>&mdash; SecuriTay (@SwiftOnSecurity) <a href="https://twitter.com/SwiftOnSecurity/status/740027074014937088">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Virtualizas con Hyper-V? Esta herramienta gratis de <a href="https://twitter.com/veeam">@veeam</a> te servirá <a href="https://t.co/FZvkgZOmVX">https://t.co/FZvkgZOmVX</a></p>&mdash; JGAITPro (@JGAITPro) <a href="https://twitter.com/JGAITPro/status/705594761621671936">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
