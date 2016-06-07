@@ -1,7 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Office Politics](#office-politics)
-    - [Workplace Culture of Fear](#workplace-culture-of-fear)
+    - [Workplace Culture of Fear. Management by intimidation or fear. Lawsuit culture](#workplace-culture-of-fear-management-by-intimidation-or-fear-lawsuit-culture)
 
 <!-- /MarkdownTOC -->
 
@@ -99,9 +99,10 @@
 </div>
 <br/>
 
-## Workplace Culture of Fear
+## Workplace Culture of Fear. Management by intimidation or fear. Lawsuit culture
 - [The 8 Clear Signs of a Workplace Culture of Fear ](http://www.eremedia.com/tlnt/the-8-clear-signs-of-a-workplace-culture-of-fear/)
 - [How to Change a Culture of Fear](https://www.shrm.org/publications/hrmagazine/editorialcontent/2016/0116/pages/0116-execbrief.aspx)
+- [Latest Top Manager Suicide by Ex Zurich CEO: Why?](https://www.linkedin.com/pulse/latest-top-manager-suicide-ex-zurich-ceo-why-dr-thomas-d-zweifel)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lGNiDK8vyxQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
