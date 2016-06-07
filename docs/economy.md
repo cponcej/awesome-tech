@@ -90,6 +90,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The European Union&#39;s GDP (PPP) was 1,200% larger than China&#39;s in 1980.<br><br>China&#39;s is now 4% larger than the EU&#39;s. <a href="https://t.co/bTuwj1DuxD">pic.twitter.com/bTuwj1DuxD</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/740138962543480832">7 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Spain?src=hash">#Spain</a> Population Projection 1960-2060 <a href="https://t.co/IY75se3hyw">pic.twitter.com/IY75se3hyw</a></p>&mdash; Aron Strandberg (@aronstrandberg) <a href="https://twitter.com/aronstrandberg/status/696704891843166208">8 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Another <a href="https://twitter.com/hashtag/Spain?src=hash">#Spain</a> age comparison: Age at which a person becomes older than the majority of the country&#39;s population: <a href="https://t.co/6gQhjRUgm3">pic.twitter.com/6gQhjRUgm3</a></p>&mdash; Aron Strandberg (@aronstrandberg) <a href="https://twitter.com/aronstrandberg/status/697813591739756544">11 de febrero de 2016</a></blockquote>

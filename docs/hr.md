@@ -154,6 +154,7 @@
 - [The Real Cost Of Mean People In Business 🌟](http://www.forbes.com/sites/davidkwilliams/2016/05/16/the-real-cost-of-mean-people-in-business/)
 - [How to Keep Peace in the Workplace](https://www.linkedin.com/pulse/how-keep-peace-workplace-deepak-chopra-md-official-)
 - [Learn To Say ‘No’ When You Have Too Much On Your Plate At Work](http://www.careerealism.com/work-say-no-too-much-on-plate/)
+- [6 steps to quashing conflict in the workplace](https://social.hays.com/2016/05/27/6-steps-to-quashing-conflict-in-the-workplace/)
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
@@ -192,6 +193,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">16 signs your job is ruining your marriage <a href="https://t.co/Y0f4b2JyXA">https://t.co/Y0f4b2JyXA</a> <a href="https://t.co/PCQgplEUdz">pic.twitter.com/PCQgplEUdz</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/708010250612436992">10 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Millennials may be sabotaging their own retirement <a href="https://t.co/6Btg5hQP6x">https://t.co/6Btg5hQP6x</a> <a href="https://t.co/y5yq15q3al">pic.twitter.com/y5yq15q3al</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/739929404579663873">6 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apple, Google and Microsoft top the list of tech companies where women feel treated fairly: <a href="https://t.co/KjV9TbOj01">https://t.co/KjV9TbOj01</a> <a href="https://t.co/liDh0CTceA">pic.twitter.com/liDh0CTceA</a></p>&mdash; Forbes Tech News (@ForbesTech) <a href="https://twitter.com/ForbesTech/status/708699102058512384">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

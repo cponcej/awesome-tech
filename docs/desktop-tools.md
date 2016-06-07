@@ -60,6 +60,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Mattermost is an open source, self-hosted Slack alternative <a href="https://t.co/NX2MKU3RAG">https://t.co/NX2MKU3RAG</a> <a href="https://t.co/EYiVOIjH3Q">pic.twitter.com/EYiVOIjH3Q</a></p>&mdash; Alexander Zeitler (@alexzeitler_) <a href="https://twitter.com/alexzeitler_/status/734272525925023744">22 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When to Trello, Slack or video chat - tips for improving team communication <a href="https://t.co/NVOYKK9PdO">https://t.co/NVOYKK9PdO</a> <a href="https://t.co/uJiRqjTbGk">pic.twitter.com/uJiRqjTbGk</a></p>&mdash; Trello (@trello) <a href="https://twitter.com/trello/status/739928610954448896">6 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![teamviewer_hacked](images/teamviewer_hacked.png)](http://arstechnica.com/security/2016/06/teamviewer-users-are-being-hacked-in-bulk-and-we-still-dont-know-how/)
 
 ## Internet speed. Test de velocidad
