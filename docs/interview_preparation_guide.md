@@ -263,6 +263,7 @@
 - [Why Your Resume Is Making Recruiters Cringe](https://www.linkedin.com/pulse/why-your-resume-making-recruiters-cringe-j-t-o-donnell)
 - [careerealism.com: What To Do If You’ve Lied On Your Resume](http://www.careerealism.com/lied-resume-what-to-do/)
 - [This resume for Elon Musk proves you never, ever need to use more than one page](http://www.businessinsider.com/elons-musk-resume-all-on-one-page-2016-4)
+- [Tick tock: You have just seconds to impress with your CV](http://www.talentinternational.com/tick-tock-you-have-just-seconds-to-impress-with-your-cv/)
 
 [![BI_30things_remove_from_resume](images/BI_30things_remove_from_resume.png)](http://www.businessinsider.com/dont-put-these-things-on-your-resume-2015-3-31)
 
