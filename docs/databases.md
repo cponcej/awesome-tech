@@ -51,6 +51,10 @@
 - [SQL Is Not Dead and How to Make It Part of Your Toolbox 🌟🌟](https://dzone.com/articles/sql-is-not-dead-and-how-to-make-it-part-of-your-to)
 - [Learn SQL by Calculating Customer Lifetime Value Part 1: Setup, Counting and Filtering 🌟](https://blog.treasuredata.com/blog/2014/12/05/learn-sql-by-calculating-customer-lifetime-value-part-1/)
 - [Learn SQL by Calculating Customer Lifetime Value Part 2: GROUP BY and JOIN 🌟](https://blog.treasuredata.com/blog/2015/02/05/learn-sql-by-calculating-customer-lifetime-value-part-2/)
+- [10 Easy Steps to a Complete Understanding of SQL](https://dzone.com/articles/10-easy-steps-to-a-complete-understanding-of-sql) Too many programmers think SQL is a bit of a beast. It is one of the few declarative languages out there, and as such, behaves in an entirely different way from imperative, object-oriented, or even functional languages (although, some say that SQL is also somewhat functional). 
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">10 Easy Steps to a Complete Understanding of SQL <a href="https://t.co/eZ0N3jHI4P">https://t.co/eZ0N3jHI4P</a> <br><br>via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> <a href="https://twitter.com/lukaseder">@lukaseder</a> <a href="https://t.co/Sf1V6NLI3y">pic.twitter.com/Sf1V6NLI3y</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/740227111504449536">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Awesome Lists
 - [Awesome sql](https://github.com/danhuss/awesome-sql)
