@@ -92,6 +92,7 @@
 - [Entrepreneurs Can Save Their Startups When They Stop Micromanaging 🌟](https://www.entrepreneur.com/article/274517)
 - [6 Ways to Kill Your Employee’s Productivity 🌟](http://www.huffingtonpost.com/jill-keto/6-ways-to-kill-your-employees-productivity-_b_5682684.html)
 - [Difficult Employees and How to Deal With Them](http://www.mjms.net/blog/human-resources/difficult-employees-and-how-to-deal-with-them/)
+- [hbr.org: First, Let’s Fire All the Managers 🌟](https://hbr.org/2011/12/first-lets-fire-all-the-managers)
 
 [![forbes_9things_to_do_your_boss_takes_credit_for_your_work](images/forbes_9things_to_do_your_boss_takes_credit_for_your_work.png)](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
 
@@ -151,6 +152,8 @@
 - [cityam.com: "Ghosting" is the new skiving as nine per cent of UK workers admit to giving their employers the silent treatment](http://www.cityam.com/234699/ghosting-is-the-new-skiving-as-nine-per-cent-of-uk-workers-admit-to-giving-their-employers-the-silent-treatment)
 - [Examples of Bullying in the Workplace](https://www.linkedin.com/pulse/20140723143757-143588541-examples-of-bullying-in-the-workplace)
 - [How To Tell If Your Boss Is a Bully or Just Tough](https://www.hrbartender.com/2012/leadership-and-management/how-to-tell-if-your-boss-is-a-bully-or-just-tough/)
+- [Is your boss just tough, or a bully?](http://www.theglobeandmail.com/report-on-business/careers/career-advice/life-at-work/is-your-boss-just-tough-or-a-bully/article4469548/)
+- [Top 10 Signs Your Boss is Bullying You](https://toughnickel.com/business/10-Signals-The-Boss-is-Bullying-You)
 - [How to Unlock the “Respect Me” Code at Work](https://www.linkedin.com/pulse/how-unlock-respect-me-code-work-j-t-o-donnell)
 - [Are You A Jerk At Work? (How To Know For Sure) 🌟](https://www.linkedin.com/pulse/you-jerk-work-how-know-sure-nathalie-salles)
 - [Why some teams don’t get along — and what we learned from the commander of the International Space Station](https://www.linkedin.com/pulse/why-some-teams-dont-get-along-what-we-learned-from-commander-elton)
