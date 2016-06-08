@@ -39,6 +39,8 @@
 </div>
 <br/>
 
+[![odonnell_unfairly_blacklisted](images/odonnell_unfairly_blacklisted.png)](https://www.linkedin.com/pulse/employer-unfairly-blacklisted-employee-heres-what-j-t-o-donnell)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las &quot;listas negras&quot; de trabajadores incómodos para las empresas existen. Así se denuncian <a href="https://t.co/fnIStwbCoH">https://t.co/fnIStwbCoH</a> <a href="https://t.co/3LVCWdRcRJ">pic.twitter.com/3LVCWdRcRJ</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/668354083833688064">22 de noviembre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
