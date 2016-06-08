@@ -238,6 +238,11 @@
 </div>
 <br>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-TONxX7-fU8?list=PL26pr4T7OzVN8kZHqr2M0s5w6P6IGdAGI" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## Game theory
 
 <div class="container">
