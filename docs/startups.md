@@ -133,6 +133,11 @@
 
 [![entrepreneurs_stop_micromanaging](images/entrepreneurs_stop_micromanaging.png)](https://www.entrepreneur.com/article/274517)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rUaj7rj6MI8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">7 Consejos del Lobo de Wall Street.<a href="https://twitter.com/CoachMACMx">@CoachMACMx</a> Formando negocios con <a href="https://twitter.com/hashtag/exito?src=hash">#exito</a> <a href="https://t.co/7srgq3VHdV">https://t.co/7srgq3VHdV</a></p>&mdash; CoachMAC (@CoachMACMx) <a href="https://twitter.com/CoachMACMx/status/708304155819905025">11 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
