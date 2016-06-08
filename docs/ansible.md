@@ -72,6 +72,8 @@
 
 [![Ansible for DevOps](images/ansible-for-devops-cover.jpg)](http://www.ansiblefordevops.com/)
 
+[![zabbix_share_ansible](images/zabbix_share_ansible.png)](https://share.zabbix.com/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/ansible">@ansible</a> is the gateway drug to <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>. <a href="https://t.co/PlURr51Qio">https://t.co/PlURr51Qio</a> <a href="https://twitter.com/TechBeacon">@techbeacon</a></p>&mdash; Steven A. Lowe (@StevenALowe) <a href="https://twitter.com/StevenALowe/status/709795988198825985">15 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
