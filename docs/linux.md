@@ -330,6 +330,11 @@
 - [CentOS/RHEL Use yum Command To Downgrade or Rollback Updates](http://www.cyberciti.biz/faq/howto-yum-downgrade-packages-on-rhel-centos-fedora-scientific-linux/)
 - [Rollback an apt-get upgrade if something goes wrong on Debian/Ubuntu Linux](http://www.cyberciti.biz/howto/debian-linux/ubuntu-linux-rollback-an-apt-get-upgrade/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UiUFV3sOJ2k?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## man pages on steroids with examples
 - [TLDR pages](http://tldr-pages.github.io/)
 - [Bro pages](http://bropages.org/)
