@@ -31,6 +31,10 @@
 
 [![dont_expect_recruiters_to_call_you](images/dont_expect_recruiters_to_call_you.png)](https://www.linkedin.com/pulse/dont-expect-recruiters-call-you-bruce-kasanoff)
 
+[![linkedin_boss_employee](images/linkedin_boss_employee.png)](https://www.linkedin.com/pulse/attn-boss-my-linkedin-profile-your-property-glen-mccallum)
+
+![linkedin_professional_criticism](images/linkedin_professional_criticism.png)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/HarvardBiz">@HarvardBiz</a> - The Most <a href="https://twitter.com/hashtag/DigitalCompanies?src=hash">#DigitalCompanies</a> Are Leaving All the Rest Behind <a href="https://t.co/VxZ2O5KG2g">https://t.co/VxZ2O5KG2g</a> <a href="https://twitter.com/hashtag/DigitalDivide?src=hash">#DigitalDivide</a> <a href="https://twitter.com/hashtag/DigitalTransformation?src=hash">#DigitalTransformation</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/707168141080526848">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Stop breaking new ground. Use boring, mature, tech.&quot; <a href="https://twitter.com/hashtag/mysql?src=hash">#mysql</a> works fine, and you can google for help.&quot; <a href="https://t.co/14RhaDKsXp">https://t.co/14RhaDKsXp</a></p>&mdash; Anthony Pisapia (@anthonypisapia) <a href="https://twitter.com/anthonypisapia/status/737500073483866112">31 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
