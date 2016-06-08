@@ -80,6 +80,9 @@
 - [plaintext-productivity.net: How to Set Up Git and Sublime Text for Version Control](http://plaintext-productivity.net/2-08-how-to-set-up-git-and-sublime-text-for-version-control.html)
 - [Git Gutter](https://github.com/jisaacks/GitGutter)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Improve your git workflow with this new Sublime Text 3 feature <a href="https://t.co/er80f7jO1K">https://t.co/er80f7jO1K</a> <a href="https://twitter.com/hashtag/sublimetext?src=hash">#sublimetext</a></p>&mdash; Sublime Text Tips (@SublimeTxtTips) <a href="https://twitter.com/SublimeTxtTips/status/740547176187764736">8 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/J_xUnudLz4rzUdFD9jUlpg/81554286013" data-did="a1074dda3ab05a2ce69d3acf695c8e94515829ea"><a href="http://keepcalmandprogram.tumblr.com/post/81554286013/a-few-sublime-text-shortcuts">http://keepcalmandprogram.tumblr.com/post/81554286013/a-few-sublime-text-shortcuts</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/gokkqQsaD3W7bP5THq80oA/115429198288" data-did="627e65931bdb7153115e52d92c38dcf331660b50"><a href="http://blog.pachanka.org/post/115429198288/when-people-ask-me-why-i-use-sublime-text-as-my">http://blog.pachanka.org/post/115429198288/when-people-ask-me-why-i-use-sublime-text-as-my</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
