@@ -30,6 +30,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ansible grows headcount, international presence since Red Hat buyout - Triangle Business Journal <a href="https://t.co/bIQYSLeCfc">https://t.co/bIQYSLeCfc</a></p>&mdash; Ansible by Red Hat (@ansible) <a href="https://twitter.com/ansible/status/709811512995659776">15 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![ansible_semaphore](images/ansible_semaphore.png)](https://github.com/ansible-semaphore/semaphore)
+
 # Ansible
 - [docs.ansible.com 🌟🌟🌟🌟](http://docs.ansible.com)
 - [releases.ansible.com](http://releases.ansible.com)
