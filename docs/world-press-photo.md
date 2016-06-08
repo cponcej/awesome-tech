@@ -50,6 +50,10 @@ Watch the full series at: http://mediastorm.com/clients/japans-disposable-worker
 </div>
 <br/>
 
+<p align="center">
+<a href="http://mediastorm.com/publication/the-long-night">See The Long Night film at mediastorm.com/publication/the-long-night</a>
+</p>
+
 [![voltaire optimism](images/voltaire_optimism.jpg)](http://statusmind.com/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Carl Sagan - You Are Here (Pale Blue Dot) [Sagan Time] <a href="https://t.co/d6nIYVyojS">https://t.co/d6nIYVyojS</a> vía <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Miguel De Cádiz (@Perrito1116) <a href="https://twitter.com/Perrito1116/status/703511063057149952">27 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
