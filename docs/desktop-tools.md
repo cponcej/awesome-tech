@@ -240,6 +240,7 @@
 - [thunderbird and gmail](https://support.mozilla.org/en-US/kb/thunderbird-and-gmail)
 - [Recommended IMAP client settings 🌟](https://support.google.com/mail/answer/78892)
 - [Enable IMAP in your Gmail settings](https://support.google.com/mail/answer/77695)
+- [quickfilters.mozdev.org 🌟](http://quickfilters.mozdev.org)
 	
 ### Thunderbird Extensions
 - [Provider for Google Calendar](https://addons.mozilla.org/thunderbird/addon/provider-for-google-calendar)
