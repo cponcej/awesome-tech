@@ -341,6 +341,7 @@
 - [BashFAQ: BASH Frequently Asked Questions](http://mywiki.wooledge.org/BashFAQ)
 - [SlideShare: find, grep, sed, and awk](https://wilsonericn.wordpress.com/2011/08/25/find-grep-sed-and-awk/)
 - [Github: Bioinformatics one-liners. Useful bash one-liners useful for bioinformatics (and some, more generally useful)](https://github.com/stephenturner/oneliners)
+- [HowTo: Use bash For Loop In One Line 🌟](http://www.cyberciti.biz/faq/linux-unix-bash-for-loop-one-line-command/)
 - [cyberciti.biz: List All Environment Variables Command](http://www.cyberciti.biz/faq/linux-list-all-environment-variables-env-command/)
 - [cyberciti.biz: Search Multiple Words/String Pattern Using grep Command](http://www.cyberciti.biz/faq/searching-multiple-words-string-using-grep/)
 - [Grep Include Only *.txt File Pattern When Running Recursive Mode 🌟](http://www.cyberciti.biz/faq/unix-linux-grep-include-file-pattern-recursive-example/)
@@ -386,6 +387,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Linux Shell Scripting Part-2: Check how to display messages from Shell Script, user Variables and Environment... <a href="https://t.co/vuEflkXcQE">https://t.co/vuEflkXcQE</a></p>&mdash; Unixmen (@unixmen) <a href="https://twitter.com/unixmen/status/735493398862299142">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">for loop <a href="https://twitter.com/hashtag/oneliner?src=hash">#oneliner</a> in <a href="https://twitter.com/hashtag/bash?src=hash">#bash</a> <a href="https://t.co/oSvQ9DLMag">https://t.co/oSvQ9DLMag</a></p>&mdash; Barthelemy Dagenais (@bartdag) <a href="https://twitter.com/bartdag/status/740160113160359936">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
