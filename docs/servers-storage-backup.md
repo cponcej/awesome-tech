@@ -37,6 +37,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Dell?src=hash">#Dell</a> and <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> deliver easier <a href="https://twitter.com/hashtag/firmware?src=hash">#firmware</a> updates for <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> users <a href="https://t.co/GruU90bU9O">https://t.co/GruU90bU9O</a> (via <a href="https://twitter.com/thevarguy">@thevarguy</a>)</p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/699967981548343296">febrero 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Monitoring <a href="https://twitter.com/Dell">@Dell</a> infra with <a href="https://twitter.com/docker">@Docker</a> <a href="https://twitter.com/hashtag/containers?src=hash">#containers</a> by <a href="https://twitter.com/jdelaros1">@jdelaros1</a> &amp; <a href="https://twitter.com/hashtag/DockerCaptain?src=hash">#DockerCaptain</a> <a href="https://twitter.com/ajeetsraina">@ajeetsraina</a>: <a href="https://t.co/b9OggpHXed">https://t.co/b9OggpHXed</a> <a href="https://t.co/wZXXb1iXxT">pic.twitter.com/wZXXb1iXxT</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/740500631883001856">8 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1fGjgB__yxY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
