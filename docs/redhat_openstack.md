@@ -17,6 +17,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;<a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> is helping telcos transform their networks. We’re transforming the industry, and we’re doing it w/ open source.&quot; -<a href="https://twitter.com/RobMcMahon5">@RobMcMahon5</a></p>&mdash; OpenStack (@OpenStack) <a href="https://twitter.com/OpenStack/status/739726572073168896">6 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Video: Tim Yeaton <a href="https://twitter.com/RedHatNews">@RedHatNews</a> talks to us about building apps that run across multiple <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> platforms: <a href="https://t.co/KDKEjEBXSI">https://t.co/KDKEjEBXSI</a> <a href="https://twitter.com/hashtag/TIA2016?src=hash">#TIA2016</a></p>&mdash; TIA NOW (@TIA_Now) <a href="https://twitter.com/TIA_Now/status/740339591094243328">8 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # OpenStack Private Cloud
 - [OpenStack private cloud](cloud.md#openstack-private-cloud)
 
