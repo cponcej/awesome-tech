@@ -25,6 +25,7 @@
 - [careerealism.com: 7 Toxic Traits Of A Bad Employer](https://www.linkedin.com/pulse/7-toxic-traits-bad-employer-j-t-o-donnell)
 - [Takata recalls, another symptom of culture of fear](https://www.linkedin.com/pulse/takata-recalls-another-symptom-culture-fear-l-david-marquet)
 - [entrepreneur.com: Are Our Politicians Leading to the New 'Bully Boss?' 🌟](https://www.entrepreneur.com/article/276026)
+- [inc.com: How to Radically Change Your Company Culture (From a Founder Who Once Hated His)](http://www.inc.com/jeff-haden/how-to-radically-change-your-company-culture-from-a-founder-who-once-hated-his.html)
 
 ![performance_review](images/performance_review.gif)
 
