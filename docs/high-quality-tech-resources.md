@@ -163,6 +163,7 @@
 
 ## Code geek
 - [codek.tv 🌟🌟](https://codek.tv/)
+- [twitter.com/codek_tv](https://twitter.com/codek_tv)
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
 

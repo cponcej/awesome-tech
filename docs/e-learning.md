@@ -124,6 +124,7 @@
 - [tutorialepractico.com](http://www.tutorialepractico.com)
 - [tutorialepractico.com: Google presenta ocho cursos gratuitos y certificados que no debes perderte](http://www.tutorialepractico.com/2016/02/google-presenta-ocho-cursos-gratuitos-y.html)
 - [codek.tv 🌟🌟](https://codek.tv/)
+    - [twitter.com/codek_tv](https://twitter.com/codek_tv)
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
 
