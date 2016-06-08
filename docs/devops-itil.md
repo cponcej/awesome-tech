@@ -333,6 +333,9 @@
 - [¿Cuantos Product Owner puede tener un equipo? 🌟](http://www.javiergarzas.com/2015/10/cuantos-product-owner-puede-tener-un-equipo.html)
 - [The Product Owner Role When Scaling Scrum](https://appdevelopermagazine.com/3666/2016/2/23/The-Product-Owner-Role-When-Scaling-Scrum)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/ZnRN31hRt3">pic.twitter.com/ZnRN31hRt3</a></p>&mdash; Rainbow DashOps (@mattstratton) <a href="https://twitter.com/mattstratton/status/740233864887566336">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/xrf0i_XPmm5oWp5icmI4JA/131683232219" data-did="1bd906eabfc838fb9ba4388bc874a3ed11cc2e63"><a href="http://uxreactions.com/post/131683232219/working-with-a-product-owner-whos-new-to-agile">http://uxreactions.com/post/131683232219/working-with-a-product-owner-whos-new-to-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Estimates <a href="https://t.co/w1XL7sM1P3">https://t.co/w1XL7sM1P3</a> <a href="https://twitter.com/hashtag/ProjectManagement?src=hash">#ProjectManagement</a> <a href="https://twitter.com/hashtag/webcomic?src=hash">#webcomic</a> <a href="https://twitter.com/hashtag/TimeEstimates?src=hash">#TimeEstimates</a> <a href="https://t.co/1vSpPvgN0R">pic.twitter.com/1vSpPvgN0R</a></p>&mdash; Don&#39;t Hit Save (@donthitsave) <a href="https://twitter.com/donthitsave/status/705854945103364097">4 de marzo de 2016</a></blockquote>

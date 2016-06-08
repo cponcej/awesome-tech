@@ -68,6 +68,8 @@
 ## Internet speed. Test de velocidad
 - [fast.com](https://fast.com)
 - [speedtest.net](http://www.speedtest.net)
+- [sourceforge.net/speedtest](https://sourceforge.net/speedtest/)
+- [blog.datapath.io: How to Run a Network Latency Test](http://blog.datapath.io/how-to-run-a-network-latency-test)
 - [dslreports.com/speedtest](https://www.dslreports.com/speedtest)
 - [website-speedtest.com](http://www.website-speedtest.com)
 	- [twitter.com/Web_Speedtest](https://twitter.com/Web_Speedtest)

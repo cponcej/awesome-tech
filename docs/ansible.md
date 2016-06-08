@@ -69,10 +69,14 @@
 - [Learning DevOps: Automated setup and cloud VM provisioning with Ansible](http://techbeacon.com/learning-devops-automated-setup-cloud-vm-provisioning-ansible)
 - [SSH Agent Forwarding Configuration with Ansible and Tower 🌟](https://www.datapipe.com/blog/2016/03/01/ssh-agent-forwarding-configuration-with-ansible-and-tower/)
 - [Ansible automation glue 🌟🌟🌟](https://www.ansible.com/blog/ansible-automation-glue) Mark Phillips put together a great demo video (18 minutes) which covers aspects of how powerful and flexible Ansible is as a tool - from machine provisioning to configuration management to code deployment to interacting with various APIs - all in the pursuit of gluing together many components.
+- [Open Source Alternative to Ansible Tower 🌟](https://github.com/ansible-semaphore/semaphore)
 
 [![Ansible for DevOps](images/ansible-for-devops-cover.jpg)](http://www.ansiblefordevops.com/)
 
 [![zabbix_share_ansible](images/zabbix_share_ansible.png)](https://share.zabbix.com/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Open Source Alternative to <a href="https://twitter.com/hashtag/Ansible?src=hash">#Ansible</a> Tower <a href="https://t.co/4iv3Wk2zfS">https://t.co/4iv3Wk2zfS</a></p>&mdash; carlchenet (@carl_chenet) <a href="https://twitter.com/carl_chenet/status/739712889385299968">6 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/ansible">@ansible</a> is the gateway drug to <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>. <a href="https://t.co/PlURr51Qio">https://t.co/PlURr51Qio</a> <a href="https://twitter.com/TechBeacon">@techbeacon</a></p>&mdash; Steven A. Lowe (@StevenALowe) <a href="https://twitter.com/StevenALowe/status/709795988198825985">15 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
