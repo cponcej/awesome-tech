@@ -21,6 +21,8 @@
 [![only idiots don't play office politics](images/office_politics.png)](http://www.businessinsider.com/how-to-play-office-politics-2015-3)
 
 [![getting_your_boss_to_love_you](images/getting_your_boss_to_love_you.png)](http://www.businessinsider.com/dave-kerpen-how-to-manage-up-2016-3)
+
+[![dilbert_office_relocation](images/dilbert_office_relocation.png)](http://dilbert.com/strip/2011-02-18)
  
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">60 películas que deberías haber visto antes de votar el 20-D.<br>Nº 43: &quot;The Ides of March&quot; (George Clooney, 2011)<a href="https://t.co/egXb7kp8WS">https://t.co/egXb7kp8WS</a></p>&mdash; Melón Tajá En Mano (@melontajaenmano) <a href="https://twitter.com/melontajaenmano/status/664397112445116416">11 de noviembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -34,6 +36,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A bit of Philip Seymour Hoffman to brighten up your Friday...<a href="https://t.co/WNGDU7fHEE">https://t.co/WNGDU7fHEE</a></p>&mdash; Luke Massey (@LukeMassey) <a href="https://twitter.com/LukeMassey/status/705714882251984896">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![dilbert_job_interview](images/dilbert_job_interview.png)](http://dilbert.com/strip/2015-07-26)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UGdRyPN3IRk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -123,6 +127,8 @@
 - [Management by Threat, Fear & Intimidation](https://www.linkedin.com/pulse/20141205072024-40413724-management-by-threat-fear-intimidation)
 - [Management by intimidation will just not work](http://gulfnews.com/business/analysis/management-by-intimidation-will-just-not-work-1.1312175) Those who work within a culture that is intimidating will never give of their best
 - [The Best Antidote for Intimidation is to Intimidate the Intimidator](http://bobmaconbusiness.com/?p=4961)
+
+[![dilbert_rehired_as_ceo](images/dilbert_rehired_as_ceo.png)](http://dilbert.com/strip/2014-11-21)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lGNiDK8vyxQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
