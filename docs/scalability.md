@@ -12,6 +12,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This transforming bike is perfect for active parents<a href="https://t.co/fZHudUfuaK">https://t.co/fZHudUfuaK</a></p>&mdash; INSIDER (@thisisinsider) <a href="https://twitter.com/thisisinsider/status/707261266931265536">8 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Website performance issues stop UK public from registering to vote <a href="https://t.co/8MjvmxEV7i">https://t.co/8MjvmxEV7i</a> <a href="https://t.co/qAvZfE2HQy">pic.twitter.com/qAvZfE2HQy</a></p>&mdash; TEST Magazine (@testmagazine) <a href="https://twitter.com/testmagazine/status/740482255576047616">8 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Scalability
 - [highscalability.com 🌟🌟](http://highscalability.com/)
 	- [highscalability.com: Building nginx and Tarantool based services 🌟](http://highscalability.com/blog/2016/2/17/building-nginx-and-tarantool-based-services.html)

@@ -671,6 +671,7 @@
 - [SELinux](https://en.wikipedia.org/wiki/SELinux)
 - [AppArmor](https://en.wikipedia.org/wiki/AppArmor)
 - [OpenSCAP](https://www.open-scap.org)
+- [tecmint.com: Implementing Mandatory Access Control with SELinux or AppArmor in Linux](http://www.tecmint.com/mandatory-access-control-with-selinux-or-apparmor-linux/)
 
 [![last command](images/last_command.jpg)](http://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)
 
@@ -685,6 +686,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/obN27RcHaao?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Mandatory Access Control with SELinux or AppArmor in <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/Krq8xZDq0p">https://t.co/Krq8xZDq0p</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://t.co/iSNt6kFZ7P">pic.twitter.com/iSNt6kFZ7P</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/740491788239011840">8 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Vim and Emacs
 ### Vim

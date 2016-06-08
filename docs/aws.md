@@ -163,6 +163,7 @@
 - [Amazon RDS for SQL Server – Support for Windows Authentication](https://aws.amazon.com/blogs/aws/amazon-rds-for-sql-server-support-for-windows-authentication/)
 - [Why Support of PostgreSQL 9.5 by Amazon RDS is Such Great News](http://blog.rubyroidlabs.com/2016/04/postgresql-9-5/)
 - [AWS Tutorials: Create and Connect to a MySQL Database with Amazon RDS 🌟🌟](https://aws.amazon.com/getting-started/tutorials/create-mysql-db/)
+- [Migrating from MySQL (RDS) to Aurora with no downtime 🌟🌟](http://cantrill.io/howto/aws/2016/06/06/migrating-from-mysql-to-aurora-with-almost-no-downtime.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">WHOA: <a href="https://twitter.com/awscloud">@awscloud</a> RDS <a href="https://twitter.com/hashtag/SQLServer?src=hash">#SQLServer</a> now supports AD accounts (Microsoft&#39;s Azure doesn&#39;t even have this yet :D) <a href="https://t.co/HMr2LdtQqZ">https://t.co/HMr2LdtQqZ</a> <a href="https://twitter.com/hashtag/ITNerdery?src=hash">#ITNerdery</a></p>&mdash; Ray Terrill (@Rayterrill) <a href="https://twitter.com/Rayterrill/status/713487240228442113">25 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -170,6 +171,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W5qfS_Fli2Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Migrating from RDS MySQL to RDS Aurora by <a href="https://twitter.com/adriancantrill">@adriancantrill</a> <a href="https://t.co/Zc0vmxvV2o">https://t.co/Zc0vmxvV2o</a></p>&mdash; A Cloud Guru (@acloudguru) <a href="https://twitter.com/acloudguru/status/740479556386226176">8 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## AWS Application Discovery Service
 - [AWS Application Discovery Service 🌟](http://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html)
