@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Interview Preparation Guide](#interview-preparation-guide)
+    - [Reasons You are Still Unemployed](#reasons-you-are-still-unemployed)
     - [Applicant Tracking System](#applicant-tracking-system)
     - [Salary Negotiation](#salary-negotiation)
         - [Technical Resume](#technical-resume)
@@ -65,6 +66,8 @@
 - [Ten Things Recruiters Don't Need To Know About You](http://www.forbes.com/sites/lizryan/2016/03/17/ten-things-recruiters-dont-need-to-know-about-you/2/#4ae3c5361bc7)
 - [Jacks-Of-All-Trades Don't Get Interviews Because...](https://www.linkedin.com/pulse/20140114003036-7668018-jacks-of-all-trades-don-t-get-interviews-because)
 - [How To Get A Job Anywhere With NO Connections 🌟](http://cultivatedculture.com/how-to-get-a-job-anywhere-no-connections/)
+- [careerealism.com: 5 Secrets To Staying Upbeat In A Job Search](http://www.careerealism.com/job-search-secrets-staying-upbeat/)
+- [5 Reasons Why You Don’t Have Friends At Work](http://www.careerealism.com/friends-work/)
 
 ![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
 
@@ -152,6 +155,14 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQwanxQmFnc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## Reasons You are Still Unemployed
+- [careerealism.com: 18 Good Reasons You’re Still Unemployed](http://www.careerealism.com/reasons-unemployed/)
+- [5 Reasons YOU are STILL Unemployed](https://www.linkedin.com/pulse/5-reasons-you-still-unemployed-robynn-storey-phr)
+- [Why are you still unemployed?](https://www.linkedin.com/pulse/why-you-still-unemployed-robert-j-hardy)
+- [Five More Reasons You May Still Be Unemployed](Five More Reasons You May Still Be Unemployed)
+
+[![18_reasons_still_unemployed](images/18_reasons_still_unemployed.png)](http://www.careerealism.com/reasons-unemployed/)
 
 ## Applicant Tracking System
 - [Applicant tracking system](https://en.wikipedia.org/wiki/Applicant_tracking_system)

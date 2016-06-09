@@ -164,6 +164,9 @@
 - [How to Keep Peace in the Workplace](https://www.linkedin.com/pulse/how-keep-peace-workplace-deepak-chopra-md-official-)
 - [Learn To Say ‘No’ When You Have Too Much On Your Plate At Work](http://www.careerealism.com/work-say-no-too-much-on-plate/)
 - [6 steps to quashing conflict in the workplace](https://social.hays.com/2016/05/27/6-steps-to-quashing-conflict-in-the-workplace/)
+- [Is it time to quit your job?](https://www.linkedin.com/pulse/20140810125249-17194403-is-it-time-to-quit-your-job)
+- [Speaking Up Without Getting Fired](https://www.linkedin.com/pulse/20131119031719-7668018-speaking-up-without-getting-fired)
+- [I Quit... Please Stay. Now What?!](https://www.linkedin.com/pulse/i-quit-please-stay-now-what-j-t-o-donnell)
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
