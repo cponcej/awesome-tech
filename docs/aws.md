@@ -17,6 +17,7 @@
     - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
     - [AWS RDS](#aws-rds)
     - [AWS Application Discovery Service](#aws-application-discovery-service)
+    - [New AWS Competency. AWS Migration](#new-aws-competency-aws-migration)
     - [AWS Database Migration Service](#aws-database-migration-service)
     - [AWS Redshift](#aws-redshift)
     - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
@@ -187,6 +188,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q6EJE3ndOqI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## New AWS Competency. AWS Migration
+- [New AWS Competency – AWS Migration 🌟🌟🌟](https://aws.amazon.com/blogs/aws/new-aws-competency-aws-migration/)
 
 ## AWS Database Migration Service
 - [AWS Database Migration Service 🌟](https://aws.amazon.com/es/blogs/aws/aws-database-migration-service/)
