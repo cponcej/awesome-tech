@@ -67,7 +67,7 @@
 - [Jacks-Of-All-Trades Don't Get Interviews Because...](https://www.linkedin.com/pulse/20140114003036-7668018-jacks-of-all-trades-don-t-get-interviews-because)
 - [How To Get A Job Anywhere With NO Connections 🌟](http://cultivatedculture.com/how-to-get-a-job-anywhere-no-connections/)
 - [careerealism.com: 5 Secrets To Staying Upbeat In A Job Search](http://www.careerealism.com/job-search-secrets-staying-upbeat/)
-- [5 Reasons Why You Don’t Have Friends At Work](http://www.careerealism.com/friends-work/)
+- [The 1 Question You Should Never (Ever) Ask in a Job Interview](http://www.inc.com/jt-odonnell/dont-ever-ask-this-question-in-a-job-interview.html)
 
 ![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
 

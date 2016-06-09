@@ -167,6 +167,7 @@
 - [Is it time to quit your job?](https://www.linkedin.com/pulse/20140810125249-17194403-is-it-time-to-quit-your-job)
 - [Speaking Up Without Getting Fired](https://www.linkedin.com/pulse/20131119031719-7668018-speaking-up-without-getting-fired)
 - [I Quit... Please Stay. Now What?!](https://www.linkedin.com/pulse/i-quit-please-stay-now-what-j-t-o-donnell)
+- [5 Reasons Why You Don’t Have Friends At Work](http://www.careerealism.com/friends-work/)
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
