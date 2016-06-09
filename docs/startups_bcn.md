@@ -12,6 +12,8 @@
 
 [![tech_salary_calculator](images/tech_salary_calculator.png)](http://www.techsalarycalculator.com/)
 
+[![catalunya_innovadora](images/catalunya_innovadora.jpg)](http://accio.gencat.cat/)
+
 # Barcelona Tech, Startups and Innovation
 - [Grupo Intercom](http://www.grupointercom.com/)
 - [twitter.com/accio_cat](https://twitter.com/accio_cat) ACCIÓ és l’agència per a la competitivitat de l'empresa de la Generalitat de Catalunya.
