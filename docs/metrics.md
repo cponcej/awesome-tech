@@ -8,6 +8,7 @@
 		- [Alternatives](#alternatives)
 	- [Metric monitoring](#metric-monitoring)
 		- [Tools](#tools)
+		- [Grafana](#grafana)
 		- [Zabbix](#zabbix)
 		- [Prometheus](#prometheus)
 		- [Monitoring of JavaEE applications](#monitoring-of-javaee-applications)
@@ -24,6 +25,8 @@
 [![dzone_performance_monitoring](images/dzone_performance_monitoring.png)](https://dzone.com/guides/performance-and-monitoring)
 
 [![google_new_website_testing_tool](images/google_new_website_testing_tool.png)](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
+
+[![grafana](images/grafana.png)](http://grafana.org/)
 
 # Metrics
 ## Web Performance Testing. Traffic injectors
@@ -123,6 +126,9 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3fqzFJxvNtcpmL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/postwait/devops-monitoring" title="Monitoring the #DevOps way" target="_blank">Monitoring the #DevOps way</a> </strong> from <strong><a href="//www.slideshare.net/postwait" target="_blank">Theo Schlossnagle</a></strong> </div>
 </div>
 <br/>
+
+### Grafana
+- [Grafana](http://grafana.org/) Beautiful metric & analytic dashboards
 
 ### Zabbix
 - [Zabbix Documentation 3.2](https://www.zabbix.com/documentation/3.2/)

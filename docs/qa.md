@@ -7,6 +7,7 @@
     - [TMAP](#tmap)
     - [DevOps Quality Blueprint](#devops-quality-blueprint)
     - [Google New website Testing tool for Small Businesses](#google-new-website-testing-tool-for-small-businesses)
+    - [Gerrit Code Review](#gerrit-code-review)
     - [JUnit](#junit)
     - [SonarQube previusly known as Sonar](#sonarqube-previusly-known-as-sonar)
     - [Mockito Mocking framework](#mockito-mocking-framework)
@@ -161,6 +162,13 @@
 ## Google New website Testing tool for Small Businesses
 - [testmysite.thinkwithgoogle.com 🌟🌟🌟](https://testmysite.thinkwithgoogle.com/)
 - [Google Launches New website Testing tool for Small Businesses](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
+
+## Gerrit Code Review
+- [Gerrit](https://www.gerritcodereview.com/)
+
+[![Gerrit_workflow](images/Gerrit_workflow.png)](https://www.bsi-software.com/en/scout-blog/article/git-gerrit-workflow.html)
+
+[![gerrit_jenkins](images/gerrit_jenkins.png)](https://gitenterprise.me/category/jenkins/)
 
 ## JUnit
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
