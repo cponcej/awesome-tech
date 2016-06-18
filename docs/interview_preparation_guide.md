@@ -75,7 +75,6 @@
 - [3 Things You Need to Find a Job Faster](http://www.inc.com/jt-odonnell/these-3-things-will-help-you-find-a-job-faster.html)
 - [How To Write A LinkedIn Profile When You’re Unemployed](http://www.careerealism.com/linkedin-profile-unemployed/)
 - [5 Secrets To Staying Upbeat In A Job Search](http://www.careerealism.com/job-search-secrets-staying-upbeat/)
-- []()
 
 ![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
 
@@ -136,17 +135,12 @@
 [![Voltaire judge a man by his questions](images/voltaire_judge_a_man_by_his_questions.jpg)](http://statusmind.com/)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ppHDuTJe39g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kBHgMzkp6_c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U9rn5kuTpHw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7W_qrc-TkR8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -232,6 +226,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCJ4L2so118?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1mHjMNZZvFo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -326,5 +325,10 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KVucOxw9fFM?list=PLE_MSMq5bSYLnxwcRSGs65mTCMgHgBhpi" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7W_qrc-TkR8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
