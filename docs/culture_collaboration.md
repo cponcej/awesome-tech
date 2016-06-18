@@ -27,6 +27,8 @@
 - [entrepreneur.com: Are Our Politicians Leading to the New 'Bully Boss?' 🌟](https://www.entrepreneur.com/article/276026)
 - [inc.com: How to Radically Change Your Company Culture (From a Founder Who Once Hated His)](http://www.inc.com/jeff-haden/how-to-radically-change-your-company-culture-from-a-founder-who-once-hated-his.html)
 
+[![linkedin_the_smart_way_to_collaborate](images/linkedin_the_smart_way_to_collaborate.png)](https://www.linkedin.com/pulse/smart-way-collaborate-anurag-harsh)
+
 ![performance_review](images/performance_review.gif)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">34 things you should never say during a performance review <a href="https://t.co/C6ObUtWQtc">https://t.co/C6ObUtWQtc</a> <a href="https://t.co/K38X3tssVV">pic.twitter.com/K38X3tssVV</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/737674830695288832">31 de mayo de 2016</a></blockquote>
