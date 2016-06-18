@@ -500,6 +500,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Amazon may soon be disrupting the music business. Here&#39;s how: <a href="https://t.co/KixEjoiMbw">https://t.co/KixEjoiMbw</a> <a href="https://t.co/m1glUf14Si">pic.twitter.com/m1glUf14Si</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/744251087486484480">18 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## AWS Nagios
 - [github: Steps I used to install nagios in the cloud](https://github.com/andrewpuch/nagios_setup)
 

@@ -77,6 +77,7 @@
 - [3 Things You Need to Find a Job Faster](http://www.inc.com/jt-odonnell/these-3-things-will-help-you-find-a-job-faster.html)
 - [How To Write A LinkedIn Profile When You’re Unemployed](http://www.careerealism.com/linkedin-profile-unemployed/)
 - [5 Secrets To Staying Upbeat In A Job Search](http://www.careerealism.com/job-search-secrets-staying-upbeat/)
+- [How to Answer 'Why Should I Hire You?' 🌟](https://www.entrepreneur.com/article/277683)
 
 ![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
 
