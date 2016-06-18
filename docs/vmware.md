@@ -33,6 +33,31 @@
 - [maquinasvirtuales.eu: Blog VMware en español](http://www.maquinasvirtuales.eu/)
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BMNPJmyDW82d7R" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/masafumi_ohta/linux-on-v-mware-es-xi-4738633" title="Linux On V Mware ESXi" target="_blank">Linux On V Mware ESXi</a> </strong> from <strong><a href="//www.slideshare.net/masafumi_ohta" target="_blank">Masafumi Ohta</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sNYpJWBSenEl5l" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CaronteDark/transitioning-to-esxi" title="Transitioning to vmWare ESXi" target="_blank">Transitioning to vmWare ESXi</a> </strong> from <strong><a href="//www.slideshare.net/CaronteDark" target="_blank">Jose ToNy Verdin</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/i84SCTptgyVz1R" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lkarnis/vmware-vsphere-51-over" title="VMware vSphere 5.1 Overview" target="_blank">VMware vSphere 5.1 Overview</a> </strong> from <strong><a href="//www.slideshare.net/lkarnis" target="_blank">ESXLab</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KHNWZGh69mBUyU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/idatapath/virtalization-101-everything-you-need-to-know-to-get-started-with-vmware" title="Virtualization 101: Everything You Need To Know To Get Started With VMware" target="_blank">Virtualization 101: Everything You Need To Know To Get Started With VMware</a> </strong> from <strong><a href="//www.slideshare.net/idatapath" target="_blank">Datapath Consulting</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/M2HpP2GgmNNnUG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/valerian_ceaus/virtual-infrastructure-overview-overview-custom" title="Virtual Infrastructure Overview" target="_blank">Virtual Infrastructure Overview</a> </strong> from <strong><a href="//www.slideshare.net/valerian_ceaus" target="_blank">valerian_ceaus</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uU00ju0Di8w1nC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wsxsnow/whats-new-v-sphere-6" title="Whats new v sphere 6" target="_blank">Whats new v sphere 6</a> </strong> from <strong><a href="//www.slideshare.net/wsxsnow" target="_blank">shixi wang</a></strong> </div>
 </div>
 <br/>
