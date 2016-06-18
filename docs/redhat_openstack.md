@@ -34,6 +34,9 @@
 - [redhat.com: Looking for a new way to integrate your OpenStack deployment with Active Directory?](https://access.redhat.com/documentation/en/red-hat-enterprise-linux-openstack-platform/version-7/integrate-with-identity-service/)
 - [redhat-cloudstrategy.com: Elephant In The Room: What’s The Total Cost Ownership For An OpenStack Cloud?](http://www.redhat-cloudstrategy.com/elephant-in-the-room-whats-the-tco-for-an-openstack-cloud/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">8 nuevos tutoriales sobre OpenStack para usuarios y desarrolladores <a href="https://t.co/cHXe40ci9Z">https://t.co/cHXe40ci9Z</a></p>&mdash; Red Hat Iberia (@RedHatIberia) <a href="https://twitter.com/RedHatIberia/status/694093079276556289">1 de febrero de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Spin up a proof of concept <a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> cloud in 15 minutes with the RDO QuickStart. <a href="https://t.co/IfarVnmXzn">https://t.co/IfarVnmXzn</a></p>&mdash; RDO (@RDOcommunity) <a href="https://twitter.com/RDOcommunity/status/710123629372170240">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">

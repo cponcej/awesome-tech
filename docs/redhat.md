@@ -77,6 +77,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Entrevista a Santiago Madruga, director general de <a href="https://twitter.com/RedHatIberia">@RedHatIberia</a> <a href="https://t.co/QNjuqDVqo9">pic.twitter.com/QNjuqDVqo9</a></p>&mdash; ComputerWorld España (@ComputerworldES) <a href="https://twitter.com/ComputerworldES/status/743722847684595712">17 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Red Hat, 56 trimestres consecutivos de crecimiento <a href="https://t.co/AHZu1DnuWU">https://t.co/AHZu1DnuWU</a> <a href="https://t.co/nGNR1FIR0x">pic.twitter.com/nGNR1FIR0x</a></p>&mdash; DiarioTi (@diarioti) <a href="https://twitter.com/diarioti/status/715357089485430784">31 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
@@ -469,7 +472,7 @@
 
 [![Troubleshooting CentOS](images/Troubleshooting-CentOS.png)](http://www.wowebook.org/troubleshooting-centos.html)
 
-[![CentOS HA](images/CentOS-High-Availability.png)](http://www.wowebook.org/centos-high-availability.html)
+[![redhat_nasdaq](images/redhat_nasdaq.png)](https://www.tradingview.com/chart/?symbol=RHT)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rvyFYFXCj5c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
