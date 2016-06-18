@@ -172,6 +172,7 @@
 - [Nuevos Cursos de Formación Oficial OpenStack](http://www.josemariagonzalez.es/2016/01/20/nuevos-cursos-de-formacion-oficial-openstack.html)
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
 - [springboard.com - Learn Data Science & UX Design online](https://www.springboard.com)
+- [udemy.com: Fired To Hired: 8 Steps To Get You Back To Work](https://www.udemy.com/fired-to-hired-8-steps-to-get-you-back-to-work/)
 
 [![aba english](images/logo-aba-english.png)](http://www.abaenglish.com)
 

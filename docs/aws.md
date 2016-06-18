@@ -26,6 +26,7 @@
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
     - [AWS CLI](#aws-cli)
     - [AWS VPC](#aws-vpc)
+    - [AWS SQS. Amazon Simple Queue Service](#aws-sqs-amazon-simple-queue-service)
     - [AWS Developer Blog](#aws-developer-blog)
     - [AWS Lambda](#aws-lambda)
     - [AWS Cloud Formation](#aws-cloud-formation)
@@ -37,6 +38,7 @@
     - [AWS Config Rules](#aws-config-rules)
     - [AWS BigData](#aws-bigdata)
     - [AWS IoT](#aws-iot)
+    - [AWS Elastic Transcoder. Video streaming](#aws-elastic-transcoder-video-streaming)
     - [AWS Partner Network \(APN\)](#aws-partner-network-apn)
     - [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 
@@ -147,6 +149,7 @@
 - [Amazon AWS Tips and Gotchas – Part 1 (Feb 2016)](http://www.tekhead.org/blog/2016/02/amazon-aws-tips-and-gotchas-part-1/)
 - [DZone: 5 Tips for Better AWS Performance 🌟🌟](https://dzone.com/articles/5-tips-for-better-aws-performance) The Ngnix team has a nice list of tips for better performance when using the AWS services. Some of them are related to Ngnix, but others are completely usable for anyone.
 - [How do I get started with AWS cloud computing? 🌟🌟🌟](https://aws.amazon.com/premiumsupport/knowledge-center/get-started-aws/)
+- [DZone: Dude, Where's My Performance? 🌟🌟](https://dzone.com/articles/dude-wheres-my-performance)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nvFyKjg81DaHtz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/bootcamp-getting-started-on-aws" title="Bootcamp: Getting Started on AWS" target="_blank">Bootcamp: Getting Started on AWS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
@@ -343,6 +346,9 @@
 ## AWS VPC
 - [linuxjournal.com: AWS EC2 VPC CLI](http://www.linuxjournal.com/content/aws-ec2-vpc-cli)
 
+## AWS SQS. Amazon Simple Queue Service
+- [Limits in Amazon SQS](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-limits.html)
+
 ## AWS Developer Blog
 - [The AWS Developer Blog now includes Python & GoLang](https://aws.amazon.com/blogs/developer/)
 - [Create an API Using the Swagger Specification and the API Gateway Extensions](http://docs.aws.amazon.com/apigateway/latest/developerguide/create-api-using-import-export-api.html)
@@ -428,6 +434,7 @@
 - [Design for failure lessons learnt from the Sydney AWS outage 🌟🌟🌟](https://www.hava.io/blog/design-for-failure-lessons-learnt-from-the-sydney-aws-outage)
 - [Chaos Monkey 🌟🌟](https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey) The Netflix Chaos Monkey tool allows you to proactively launch attack code against your infrastructure to cause failures and give you the chance to fix potential problems before they occur on their own. 
 - [Udemy - AWS: How to Architect with a Design for Failure Approach](https://www.udemy.com/how-to-architect-with-a-design-for-failure-approach/)
+- [How to Restore Your Instance Data from a Backup using Snapshots on AWS EC2/EBS](https://www.cloudinsidr.com/content/how-to-restore-your-instance-data-from-a-backup-using-snapshots-on-aws-ec2ebs/)
 
 [![chaos_monkey](images/chaos_monkey.png)](http://techblog.netflix.com/2014/09/introducing-chaos-engineering.html)
 
@@ -479,6 +486,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Internet of Things has gone too far <a href="https://t.co/IPD3VmFdOU">https://t.co/IPD3VmFdOU</a> <a href="https://t.co/a1pF66qcgE">pic.twitter.com/a1pF66qcgE</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/702564712010141696">24 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## AWS Elastic Transcoder. Video streaming
+- [Settings that You Specify When You Create an Elastic Transcoder Job](http://docs.aws.amazon.com/elastictranscoder/latest/developerguide/job-settings.html)
 
 ## AWS Partner Network (APN)
 - [AWS Partner Network](https://aws.amazon.com/partners/)

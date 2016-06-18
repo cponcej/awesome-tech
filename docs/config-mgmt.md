@@ -52,6 +52,7 @@
 - [Benefits of Cross-Functional Teams When Building Microservices](https://blog.risingstack.com/benefits-of-cross-functional-teams-when-building-microservices/)
 - [highscalability.com: How to build your Property Management System integration using Microservices](http://highscalability.com/blog/2016/2/10/how-to-build-your-property-management-system-integration-usi.html)
 - [DZone: Breaking Down the Monolith: Microservices vs. Self-Contained Systems](https://dzone.com/articles/breaking-down-a-monolithic-software-a-case-for-mic)
+- [DZone: Carving the Java EE Monolith Into Microservices](https://dzone.com/articles/carving-the-java-ee-monolith-into-microservices) This article looks at how to break up enterprise Java applications into microservices and how to separate concerns and build smaller usable modules.
 
 [![Updated map of the microservices ecosystem](images/microservices_ecosystem_map.png)](http://techcrunch.com/2016/01/23/get-small-to-get-big-through-microservices/)
 
@@ -140,6 +141,9 @@
 - [Chef Launches Partner Cookbook Program to Expand DevOps-Ready Technology Ecosystem](https://www.chef.io/blog/2016/02/23/chef-launches-partner-cookbook-program-to-expand-devops-ready-technology-ecosystem/)
 	- [partner cookbooks: supermarket.chef.io](https://supermarket.chef.io)
 	- [Chef Partner Engineering guide for writing quality cookbooks](https://github.com/chef-partners/cookbook-guide)
+- [Chef Launches Habitat, New Open Source Project to Automate Applications](http://devops.com/2016/06/14/chef-launches-habitat-new-open-source-project-automate-applications/)
+
+[![habitat_chef](images/habitat_chef.png)](https://www.habitat.sh/)
 
 [![Learning-Chef](images/Learning-Chef.png)](http://www.wowebook.org/learning-chef-a-guide-to-configuration-management-and-automation.html)
 

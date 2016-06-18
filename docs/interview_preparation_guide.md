@@ -68,6 +68,14 @@
 - [How To Get A Job Anywhere With NO Connections 🌟](http://cultivatedculture.com/how-to-get-a-job-anywhere-no-connections/)
 - [careerealism.com: 5 Secrets To Staying Upbeat In A Job Search](http://www.careerealism.com/job-search-secrets-staying-upbeat/)
 - [The 1 Question You Should Never (Ever) Ask in a Job Interview](http://www.inc.com/jt-odonnell/dont-ever-ask-this-question-in-a-job-interview.html)
+- [udemy.com: Fired To Hired: 8 Steps To Get You Back To Work](https://www.udemy.com/fired-to-hired-8-steps-to-get-you-back-to-work/)
+- [Job Seeker In Total Denial (Don't Be This Guy)](https://www.linkedin.com/pulse/20140326122122-7668018-job-seeker-in-total-denial-don-t-be-this-guy)
+- [The Secret To Getting Interviews: Tap The Hidden Job Market](http://www.careerealism.com/interviews-tap-hidden-job-market/)
+- [Interview Questions That Top CEOs LOVE to Ask (Infographic)](http://www.socialtalent.co/blog/interview-questions-that-top-ceos-love-to-ask)
+- [3 Things You Need to Find a Job Faster](http://www.inc.com/jt-odonnell/these-3-things-will-help-you-find-a-job-faster.html)
+- [How To Write A LinkedIn Profile When You’re Unemployed](http://www.careerealism.com/linkedin-profile-unemployed/)
+- [5 Secrets To Staying Upbeat In A Job Search](http://www.careerealism.com/job-search-secrets-staying-upbeat/)
+- []()
 
 ![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
 

@@ -75,6 +75,7 @@
 - [DZone: Spring Data Mongodb and Spring Boot](https://dzone.com/articles/spring-data-mongodb-spring-boot) You really can quickly develop a microservice to access MongoDB from Java 8 with little coding. Give it a try... easy like Sunday morning.
 - [slideshare: Troubleshooting Live Java Web Applications](http://www.slideshare.net/SpringCentral/puls-spring-one2gx)
 - [DZone refcard: java performance optimization 🌟🌟🌟🌟](https://dzone.com/refcardz/java-performance-optimization)
+- [genbetadev.com: ¿Por qué empresas que empiezan con lenguajes modernos se vuelven a Java? 🌟🌟](http://www.genbetadev.com/java-j2ee/por-que-empresas-que-empiezan-con-lenguajes-modernos-se-vuelven-a-java)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/AvZDfkHZEt7HUG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RedHatDevelopers/java-is-not-dead-bob-mcwhirter" title="Java Is Not Dead - Bob McWhirter" target="_blank">Java Is Not Dead - Bob McWhirter</a> </strong> from <strong><a href="//www.slideshare.net/RedHatDevelopers" target="_blank">Red Hat</a></strong> </div>

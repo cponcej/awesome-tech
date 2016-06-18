@@ -63,6 +63,8 @@
 
 [![make_rhel7_pci-dss](images/make_rhel7_pci-dss.png)](https://www.open-scap.org/resources/documentation/make-a-rhel7-server-compliant-with-pci-dss/)
 
+[![gartner_security_predictions](images/gartner_security_predictions.png)](http://www.gartner.com/smarterwithgartner/top-10-security-predictions-2016)
+
 # Security
 ## Awesome Security Lists
 - [awesome security](https://github.com/sbilly/awesome-security)

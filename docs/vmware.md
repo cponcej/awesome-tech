@@ -17,6 +17,7 @@
 - [VMware Fusion Blog: Insight and highlights from the VMware Fusion Team for running Windows on your Mac. Workaround for the NAT port forwarding issue in Fusion 8.1](https://blogs.vmware.com/teamfusion/2016/01/workaround-of-nat-port-forwarding-issue-in-fusion-8-1.html) 
 - [Automating syslog configuration on NSX](https://brianragazzi.wordpress.com/2016/03/09/automating-syslog-configuration-on-nsx/)
 - [solutionexchange.vmware.com: vRealize Orchestrator Salt Plugin](https://solutionexchange.vmware.com/store/products/vrealize-orchestrator-salt-plugin#.V1dAOzvFoLU.linkedin) vRealize Orchestrator (vRO) Salt plugin enables SaltStack to work together with VMware products to achieve infrastructure configuration, application deployment, and lifecycle management. SaltStack is unique in offering an orchestration platform with native configuration management for automation of critical CloudOps, ITOps and DevOps tasks.
+- [Docker Performance on top of VMware vSphere](http://www.opvizor.com/blog/docker-performance-on-top-of-vmware-vsphere/)
 
 ## Blogs
 - [blogs.vmware.com](http://blogs.vmware.com/)

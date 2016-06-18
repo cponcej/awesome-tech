@@ -93,6 +93,9 @@
 - [6 Ways to Kill Your Employee’s Productivity 🌟](http://www.huffingtonpost.com/jill-keto/6-ways-to-kill-your-employees-productivity-_b_5682684.html)
 - [Difficult Employees and How to Deal With Them](http://www.mjms.net/blog/human-resources/difficult-employees-and-how-to-deal-with-them/)
 - [hbr.org: First, Let’s Fire All the Managers 🌟](https://hbr.org/2011/12/first-lets-fire-all-the-managers)
+- [5 Employment Laws All Small Businesses Should Know](http://www.mjms.net/blog/5-employment-laws-all-small-businesses-should-know/)
+- [Lazy Leadership: Why I rarely go to the office, only see my team a couple times a week, and let other people make important decisions](https://www.linkedin.com/pulse/lazy-leadership-why-i-rarely-go-office-only-see-my-team-wilkinson)
+- [I once caught someone lying on their résumé — here's why you should never fib to an employer](http://www.businessinsider.com/why-you-shouldnt-lie-on-your-resume)
 
 [![forbes_9things_to_do_your_boss_takes_credit_for_your_work](images/forbes_9things_to_do_your_boss_takes_credit_for_your_work.png)](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
 
@@ -168,6 +171,14 @@
 - [Speaking Up Without Getting Fired](https://www.linkedin.com/pulse/20131119031719-7668018-speaking-up-without-getting-fired)
 - [I Quit... Please Stay. Now What?!](https://www.linkedin.com/pulse/i-quit-please-stay-now-what-j-t-o-donnell)
 - [5 Reasons Why You Don’t Have Friends At Work](http://www.careerealism.com/friends-work/)
+- [My Career Injured Me, Now What?](https://www.linkedin.com/pulse/my-career-injured-me-now-what-j-t-o-donnell)
+- [Secret to Finding Inner Peace at a Toxic Job](https://www.linkedin.com/pulse/secret-finding-inner-peace-toxic-job-j-t-o-donnell)
+- [7 Toxic Traits Of A Bad Employer](https://www.linkedin.com/pulse/7-toxic-traits-bad-employer-j-t-o-donnell)
+- [9 Ways To Make The Wrong Impression On Your First Day](http://www.careerealism.com/wrong-impression-first-day/)
+- [The Art of Natural Self-Promotion](http://www.quietrev.com/self-promotion-with-tara-gentile/)
+- [How to Break Up With a Bad Career](http://www.inc.com/jt-odonnell/4-steps-to-breaking-up-with-a-bad-career.html) Moving on from a bad career starts with a clear plan for a better one.
+- [5 Steps To Easily Connect With Your Co-Workers](http://www.careerealism.com/easily-connect-coworkers/)
+- [Five Signs Your Job Is Wasting Your Talent](http://www.forbes.com/sites/lizryan/2016/06/03/five-signs-your-job-is-wasting-your-talent/#dead23f42304)
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 

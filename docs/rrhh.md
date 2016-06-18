@@ -22,6 +22,8 @@
     - [Encontrar trabajo por enchufe o por recomendación 🌟](https://orientacion-laboral.infojobs.net/encontrar-trabajo-recomendacion)
 - [¿Os habéis arrepentido en alguna ocasión de no preguntar determinadas cosas en la entrevista de trabajo?](http://www.elblogderrhh.com/2011/02/%C2%BFos-habeis-arrepentido-en-alguna-ocasion-de-no-preguntar-determinadas-cosas-en-la-entrevista-de-trabajo.html)
 - [Los sueldos informáticos en Europa](http://www.think-progress.com/es/blog/posts/los-sueldos-informaticos-en-europa/)
+- [¿Qué es un job hopper y por qué es tan valorado por las empresas? 🌟🌟](http://blog.infoempleo.com/a/que-es-un-job-hopper-y-por-que-es-tan-valorado-por-las-empresas/)
+- [blog.binternational.net: Los españoles apuestan por la movilidad internacional 🌟](http://blog.binternational.net/los-espanoles-apuestan-por-la-movilidad-internacional/)
 
 [![laboro](images/laboro.png)](http://laboro-spain.blogspot.com.es/)
 
@@ -35,6 +37,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El enchufe, la forma preferida de encontrar trabajo para los españoles. Lo decíamos en <a href="https://t.co/80MntaJqfF">https://t.co/80MntaJqfF</a> <a href="https://t.co/yOPabzuN5K">pic.twitter.com/yOPabzuN5K</a></p>&mdash; Roberto García Esteb (@72rge) <a href="https://twitter.com/72rge/status/743164822649462784">15 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Debemos recordar que las referencias laborales se consiguen dejando un legado <a href="https://twitter.com/hashtag/PwC?src=hash">#PwC</a> <a href="https://t.co/hZMuoqt5gm">pic.twitter.com/hZMuoqt5gm</a></p>&mdash; PwC Ecuador (@Pwc_Ecuador) <a href="https://twitter.com/Pwc_Ecuador/status/712721107321757696">23 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![expansion_buscar_empleo_contactos](images/expansion_buscar_empleo_contactos.png)](http://www.expansion.com/emprendedores-empleo/empleo/2016/06/13/575eeb26468aeb1a568b4570.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">5 recomendaciones para mejorar la selección de personal en las <a href="https://twitter.com/hashtag/pymes?src=hash">#pymes</a> ➡ <a href="https://t.co/GrBuh2140F">https://t.co/GrBuh2140F</a> <a href="https://twitter.com/hashtag/rrhh?src=hash">#rrhh</a> <a href="https://t.co/NZ10KH0bEX">pic.twitter.com/NZ10KH0bEX</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/709771540083171329">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -79,6 +83,10 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/gak1aN7qyTPP0p" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cacsasa/seminario-mandos-medios-cacsa" title="Seminario mandos medios CACSA" target="_blank">Seminario mandos medios CACSA</a> </strong> from <strong><a href="//www.slideshare.net/cacsasa" target="_blank">Javier Alma</a></strong> </div>
 </div>
 <br/>
+
+[![como_encuentran_trabajo_espanoles](images/como_encuentran_trabajo_espanoles.jpg)](http://www.expansion.com/emprendedores-empleo/empleo/2016/06/13/575eeb26468aeb1a568b4570.html)
+
+[![motivos-trabajar-en-el-extranjero](images/motivos-trabajar-en-el-extranjero.png)](http://blog.binternational.net/los-espanoles-apuestan-por-la-movilidad-internacional/)
 
 ## Articulos
 - [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
@@ -127,6 +135,7 @@
 - [Peligro: Hay un trepa en mi trabajo](https://balcon40.com/2016/04/11/peligro-hay-un-trepa-en-mi-trabajo/)
 - [Prohibido salir tarde del trabajo](https://www.cesarpiqueras.com/prohibido-salir-tarde-del-trabajo/)
 - [El coste económico de los “empleados tóxicos”](http://www.elblogsalmon.com/mundo-laboral/el-coste-economico-de-los-empleados-toxicos)
+- [Llevarse bien con el jefe](http://elpais.com/elpais/2014/10/09/eps/1412875219_002156.html) Un alto porcentaje de personas cambian de trabajo por mala relación con su superior. Éstas son pautas para dar la vuelta a un ambiente laboral tóxico
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
