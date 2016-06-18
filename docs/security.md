@@ -45,6 +45,7 @@
 		- [SSH attempts](#ssh-attempts)
 		- [Bad Tunnel. June 2016](#bad-tunnel-june-2016)
 		- [DDos](#ddos)
+		- [Shadow IT security risks](#shadow-it-security-risks)
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
 		- [Container security. Who’s fixing containers? February 2016](#container-security-who’s-fixing-containers-february-2016)
 		- [DDos and Project Shield. February 2016](#ddos-and-project-shield-february-2016)
@@ -436,6 +437,12 @@
 ### DDos
 - [En alza los ataques DDoS y los relacionados con aplicaciones web](http://cso.computerworld.es/defensa-perimetral/en-alza-los-ataques-ddos-y-los-relacionados-con-aplicaciones-web)
 
+### Shadow IT security risks
+- [techcrunch.com: It’s Time To Embrace, Not Fear, Shadow IT](https://techcrunch.com/2015/09/25/its-time-to-embrace-not-fear-shadow-it/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Shadow IT is a real risk for <a href="https://twitter.com/hashtag/ITsecurity?src=hash">#ITsecurity</a>. And if you don’t think it’s happening in your organization, you’re wrong. <a href="https://t.co/CfUa5AabP7">https://t.co/CfUa5AabP7</a></p>&mdash; SAP Labs LA (@saplabsla) <a href="https://twitter.com/saplabsla/status/705727995605032960">4 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments
 - [techpageone.co.uk: Top security initiatives for 2016. Encryption is the new “minimum” security](http://www.techpageone.co.uk/technology-uk-en/top-security-initiatives-2016/)
@@ -456,3 +463,8 @@
 [![hot potato windows privilege escalation](images/hot_potato.png)](http://foxglovesecurity.com/2016/01/16/hot-potato/)
 
 [![intrusion response procedures](images/intrusion_response_procedures.png)](https://twitter.com/nixcraft)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ceg4hyrcHJc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
