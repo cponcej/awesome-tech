@@ -9,7 +9,7 @@
 Available for work (no freelance). Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know. </strike>
 </p>
 
-<p align="center"><strike>
+<p align="center">
 Disable Tracking Protection in Firefox in order to render the embedded tweets</strike>
 </p>
 
