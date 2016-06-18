@@ -39,6 +39,7 @@
     - [AWS BigData](#aws-bigdata)
     - [AWS IoT](#aws-iot)
     - [AWS Elastic Transcoder. Video streaming](#aws-elastic-transcoder-video-streaming)
+    - [AWS Nagios](#aws-nagios)
     - [AWS Partner Network \(APN\)](#aws-partner-network-apn)
     - [AWS Startup Collection. For startups building on AWS](#aws-startup-collection-for-startups-building-on-aws)
 
@@ -47,6 +48,8 @@
 [![cloud job market](images/cloud_job_market.png)](http://cloudacademy.com/blog/cloud-computing-salary/)
 
 [![aws_webinar_channel](images/aws_webinar_channel.png)](https://www.youtube.com/user/AWSwebinars)
+
+[![aws_tutorial_series](images/aws_tutorial_series.png)](https://www.youtube.com/user/awstutorialseries)
 
 [![aws_slideshare](images/aws_slideshare.png)](http://www.slideshare.net/AmazonWebServices/)
 
@@ -89,6 +92,8 @@
 
 ## AWS Youtube channel and Podcasts
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
+- [AWS Tutorial Series 🌟🌟🌟](https://www.youtube.com/user/awstutorialseries)
+- [AWS Webinar Channel 🌟🌟🌟](https://www.youtube.com/user/AWSwebinars)
 - [AWS Podcasts](https://aws.amazon.com/podcasts/aws-podcast/)
 - [AWS Techchat](https://aws.amazon.com/podcasts/aws-techchat)
 - [Stitcher AWS Podcasts](http://www.stitcher.com/podcast/amazon-web-services/aws-podcast)
@@ -489,6 +494,19 @@
 
 ## AWS Elastic Transcoder. Video streaming
 - [Settings that You Specify When You Create an Elastic Transcoder Job](http://docs.aws.amazon.com/elastictranscoder/latest/developerguide/job-settings.html)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_K-avRIwK4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## AWS Nagios
+- [github: Steps I used to install nagios in the cloud](https://github.com/andrewpuch/nagios_setup)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veL0W257gXI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## AWS Partner Network (APN)
 - [AWS Partner Network](https://aws.amazon.com/partners/)
