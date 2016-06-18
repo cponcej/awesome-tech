@@ -19,6 +19,8 @@
 
 [![veeam_azure_restore](images/veeam_azure_restore.png)](https://www.veeam.com/blog/cloud-restore-azure-veeam-availability-suite.html)
 
+[![itfreetraining](images/itfreetraining.jpg)](https://www.youtube.com/user/itfreetraining)
+
 # Microsoft
 - [zdnet: Linux and open source have won, get over it](http://www.zdnet.com/article/linux-and-open-source-have-won-get-over-it/) 2015 was the year Linux and open-source software took over the IT world, but many open-source and proprietary software fans still haven't figured it out.
 - [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)

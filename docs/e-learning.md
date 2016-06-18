@@ -19,6 +19,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CXVINBruzhY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # E-Learning
 - [who's responsible addressing the skills gap? The employee or the employer? In 2016, Bridging the Skills Gap Is Everyone's Opportunity](http://www.huffingtonpost.com/dennis-yang/in-2016-bridging-the-skills-gap-is-everyones-opportunity_b_8855796.html)
 - [ycombinator.com: What's the best way to train/onboard new programmers?](https://news.ycombinator.com/item?id=10890032)
@@ -135,6 +140,8 @@
     - [twitter.com/codek_tv](https://twitter.com/codek_tv)
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
+
+[![itfreetraining](images/itfreetraining.jpg)](https://www.youtube.com/user/itfreetraining)
 
 [![bi_7sites_learn_skills_free](images/bi_7sites_learn_skills_free.png)](http://www.businessinsider.com/7-sites-where-you-can-learn-a-new-skill-for-free-2016-3)
 
