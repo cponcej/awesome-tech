@@ -38,6 +38,8 @@
 - [unpocodejava.wordpress.com: ¿Cómo hacer pruebas de carga de una clase Java con JMeter?](https://unpocodejava.wordpress.com/2015/12/21/como-hacer-pruebas-de-carga-de-una-clase-java-con-jmeter-2/)
 - [DZone refcard: Getting Started With Apache JMeter 🌟](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 
+[![dzone_jmeter_refcard](images/dzone_jmeter_refcard.png)](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cv7KqxaLZd8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div><br/>
