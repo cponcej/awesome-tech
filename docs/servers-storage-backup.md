@@ -76,6 +76,8 @@
 </div>
 <br>
 
+[![veeam_hpe](images/veeam_hpe.png)](https://www.veeam.com/wp-hyper-converged-infrastructure-maximizing-availability.html)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">HPE launches midmarket hyperconverged system, bets on UI, integration <a href="https://t.co/XwfsrawAPL">https://t.co/XwfsrawAPL</a> by <a href="https://twitter.com/ldignan">@ldignan</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/709706982836469761">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## RAID disks
