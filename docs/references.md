@@ -12,6 +12,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El 75% de nosotros asociamos la credibilidad de una empresa a la apariencia de su web, vía <a href="https://twitter.com/markfidelman">@markfidelman</a> <a href="https://t.co/ArLyzfxJiq">pic.twitter.com/ArLyzfxJiq</a></p>&mdash; Roberto García Esteb (@72rge) <a href="https://twitter.com/72rge/status/737376158405275649">30 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![pubpeer](images/pubpeer.png)](https://pubpeer.com/)
+
 # References and online defamation
 - [wikipedia: Defamation](https://en.wikipedia.org/wiki/Defamation)
 - [wikipedia: Right to be forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten)

@@ -230,6 +230,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 Reasons Why People Hate Project Managers <a href="https://t.co/svbzbmXJK7">https://t.co/svbzbmXJK7</a> via <a href="https://twitter.com/alevit">@alevit</a> <a href="https://t.co/2KNAAeFaYV">pic.twitter.com/2KNAAeFaYV</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/733313750917349376">19 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">45 of the weirdest things bosses have asked their employees to do <a href="https://t.co/cvBtcmRK1o">https://t.co/cvBtcmRK1o</a> <a href="https://t.co/B1TKIMfC3K">pic.twitter.com/B1TKIMfC3K</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/743467213647151104">16 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![manage_me_better](images/manage_me_better.png)
 
 <div class="container">
@@ -251,6 +254,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-TONxX7-fU8?list=PL26pr4T7OzVN8kZHqr2M0s5w6P6IGdAGI" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/RedHatNews">@RedHatNews</a> CEO on why office gossip is crucial for success <a href="https://t.co/beI9rHcObc">https://t.co/beI9rHcObc</a> <a href="https://t.co/HOFHdhvUaT">pic.twitter.com/HOFHdhvUaT</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/742787318977835008">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Game theory
 

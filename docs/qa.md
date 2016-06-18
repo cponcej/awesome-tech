@@ -54,11 +54,17 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 open source alternatives to Trello <a href="https://t.co/hRxWcRLuSM">https://t.co/hRxWcRLuSM</a> via <a href="https://twitter.com/opensourceway">@opensourceway</a> <a href="https://t.co/IWXy4FVasv">pic.twitter.com/IWXy4FVasv</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/734912845557665792">24 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="ro" dir="ltr">The Hitchhiker&#39;s Guide to Testing Infrastructure as Code<a href="https://t.co/7m6nbyNgTH">https://t.co/7m6nbyNgTH</a> <a href="https://twitter.com/hashtag/MVBs?src=hash">#MVBs</a> Igor Galić &amp; David Schmitt <a href="https://t.co/NCD52l9yEX">pic.twitter.com/NCD52l9yEX</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/741449951134253056">11 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![world_qa_report_2016](images/world_qa_report_2016.png)](https://www.capgemini.com/thought-leadership/world-quality-report-2015-16)
 
 [![strong_recognition_qa](images/strong_recognition_qa.png)](https://www.capgemini.com/thought-leadership/world-quality-report-2015-16)
 
 [![google_new_website_testing_tool](images/google_new_website_testing_tool.png)](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The role of QA in a DevOps world <a href="https://t.co/tO1L7TBkOW">https://t.co/tO1L7TBkOW</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/O2AJH6tvpl">pic.twitter.com/O2AJH6tvpl</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/742094300863811584">12 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
@@ -87,6 +93,9 @@
 - [nubelo.com: Los Analistas QA están cansados de que los confundan con testers](http://www.nubelo.com/blog/los-analistas-estan-cansados-que-los-confundan-con-testers)
 - [capgemini.com: DevOps with Quality - 7 principles, integrated approach to DevOps Quality 🌟🌟🌟](https://www.capgemini.com/resources/devops-with-quality-7-principles-integrated-approach-to-devops-quality)
 - [Jumpstarting DevOps with continuous testing](http://www.devopsonline.co.uk/jumpstarting-devops-with-continuous-testing/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Can We Neglect Manual Testing for Automation Testing? <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a><a href="https://t.co/mrztTSgcrt">https://t.co/mrztTSgcrt</a> <br><br>via Pavan Kumar <a href="https://t.co/qgnKWG3vlb">pic.twitter.com/qgnKWG3vlb</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/743171375754514432">15 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Mapas Mentales para Software Testing
 - [TestingBaires Mapas Mentales para Software Testing](http://testingbaires.com/mapas-mentales/)

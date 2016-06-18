@@ -269,6 +269,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn Git in 30 Minutes <a href="https://t.co/Adq18pbhBK">https://t.co/Adq18pbhBK</a>  <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a> <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/739020546231275520">4 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Putting this up in the office... <a href="https://t.co/XFapcU39Dw">pic.twitter.com/XFapcU39Dw</a></p>&mdash; Mark Fink (@markfink) <a href="https://twitter.com/markfink/status/743380610266337280">16 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Git clients
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [git-scm clients](http://git-scm.com/downloads)

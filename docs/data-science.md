@@ -58,6 +58,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 10 iPython Notebook Tutorials for Data Science and Machine Learning <a href="https://t.co/VhIIxpjWXw">https://t.co/VhIIxpjWXw</a> <a href="https://t.co/iiDy5EBJW7">pic.twitter.com/iiDy5EBJW7</a></p>&mdash; Machine Learning (@ML_toparticles) <a href="https://twitter.com/ML_toparticles/status/723608177984430084">22 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Moving Streaming Analytics Out of the Data Center <a href="https://t.co/cUM2LB7y6s">https://t.co/cUM2LB7y6s</a> <br><br>via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> <a href="https://twitter.com/MarkLochbihler">@MarkLochbihler</a> <a href="https://t.co/gOwqMxcQxc">pic.twitter.com/gOwqMxcQxc</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/742084135343296512">12 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## SQL and Databases
 - [SQL and Databases](databases.md)
 

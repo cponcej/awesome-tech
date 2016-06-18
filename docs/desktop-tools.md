@@ -45,6 +45,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">5 aplicaciones de oficina que debes conocer ➡ <a href="https://t.co/I65vC8o5ID">https://t.co/I65vC8o5ID</a> <a href="https://twitter.com/hashtag/pymes?src=hash">#pymes</a> <a href="https://twitter.com/hashtag/Aplicateca?src=hash">#Aplicateca</a> <a href="https://t.co/Ql218S9ajl">pic.twitter.com/Ql218S9ajl</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/711945905331687424">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/Herramientas?src=hash">#Herramientas</a> colaborativas, una nueva forma de trabajar ➡ <a href="https://t.co/HHqjef3C2c">https://t.co/HHqjef3C2c</a> <a href="https://t.co/T4ySF21kh1">pic.twitter.com/T4ySF21kh1</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/743096210530181122">15 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![howto_remove_personal_data_mac](images/howto_remove_personal_data_mac.png)](http://www.businessinsider.com/old-mac-apple-recycle-give-away-personal-data-2015-12)
 
 <div class="container">

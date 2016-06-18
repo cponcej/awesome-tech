@@ -8,6 +8,7 @@
 - [Amazon Web Services](#amazon-web-services)
     - [Awesome AWS](#awesome-aws)
     - [AWS on Twitter](#aws-on-twitter)
+    - [AWS Stacks](#aws-stacks)
     - [AWS Youtube channel and Podcasts](#aws-youtube-channel-and-podcasts)
     - [Closed groups for AWS certified professionals](#closed-groups-for-aws-certified-professionals)
     - [AWS re:Invent 2015](#aws-reinvent-2015)
@@ -57,6 +58,12 @@
 
 [![what_is_devops_aws](images/what_is_devops_aws.png)](http://aws.amazon.com/devops/what-is-devops/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS cloud computing ops, data centers, 1.3 million servers creating efficiency flywheel <a href="https://t.co/KRjIzt85GS">https://t.co/KRjIzt85GS</a> by <a href="https://twitter.com/ldignan">@ldignan</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/740238430219603969">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wow! No wonder I have been so busy lately... <a href="https://t.co/aZfoZEvVgw">https://t.co/aZfoZEvVgw</a></p>&mdash; Jeff Barr (@jeffbarr) <a href="https://twitter.com/jeffbarr/status/742816591658778625">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
 - [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
@@ -74,6 +81,9 @@
 - [twitter.com/jeffbarr](https://twitter.com/jeffbarr)
 - [twitter.com/AWSstartups](https://twitter.com/AWSstartups)
 - [twitter.com/AWS_Partners](https://twitter.com/AWS_Partners)
+
+## AWS Stacks
+- [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/)
 
 ## AWS Youtube channel and Podcasts
 - [Amazon Web Services Youtube](https://www.youtube.com/user/AmazonWebServices)
@@ -358,6 +368,9 @@
 <br/>
 
 [![AWS Lambda](images/aws_lambda.png)](http://www.logicworks.net/blog/2016/01/aws-lambda-echo-cloud-automation/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">What is this whole <a href="https://twitter.com/hashtag/serverless?src=hash">#serverless</a> thing anyway? <a href="https://t.co/bKSvhyryuA">https://t.co/bKSvhyryuA</a></p>&mdash; Ryan Kroonenburg (@KroonenburgRyan) <a href="https://twitter.com/KroonenburgRyan/status/742748389494956032">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## AWS Cloud Formation
 - [AWS Cloud Formation Release History](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)

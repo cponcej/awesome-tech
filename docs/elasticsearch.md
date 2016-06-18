@@ -102,3 +102,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LogZoom, a fast and lightweight substitute for Logstash<a href="https://t.co/XuApDTNoZC">https://t.co/XuApDTNoZC</a><a href="https://t.co/NKMs4mryPU">https://t.co/NKMs4mryPU</a><a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/golang?src=hash">#golang</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/718377879336263680">8 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![you can't write code without knowing how to log](images/Strip-Log-nonstandard.jpg)](http://www.commitstrip.com/en/2016/02/25/you-cant-write-code-without-knowing-how-to-log/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">“Let’s aggregate and analyze our log files” <a href="https://t.co/UERamUhzvJ">pic.twitter.com/UERamUhzvJ</a></p>&mdash; the grugq (@thegrugq) <a href="https://twitter.com/thegrugq/status/741667306615365632">11 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

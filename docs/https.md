@@ -22,6 +22,9 @@
 - [nixCraft: How to configure Nginx with free Let’s Encrypt SSL certificate on Debian or Ubuntu Linux](http://www.cyberciti.biz/faq/how-to-configure-nginx-with-free-lets-encrypt-ssl-certificate-on-debian-or-ubuntu-linux/)
 - [What ISPs Can See Even When Traffic Is Encrypted With HTTPS and Poor Implantation of VPN](https://www.teamupturn.com/reports/2016/what-isps-can-see)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The end of an expensive era<br> <a href="https://t.co/f56arooZHF">https://t.co/f56arooZHF</a> <a href="https://t.co/FxilUJZBxF">pic.twitter.com/FxilUJZBxF</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/742420985165549568">13 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## HSTS
 - [HTTP Strict Transport Security (HSTS)](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is a web security policy mechanism which helps to protect websites against protocol downgrade attacks and cookie hijacking.
 

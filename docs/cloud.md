@@ -35,6 +35,9 @@
 
 [![history_of_cloud](images/history_of_cloud.png)](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/VDC?src=hash">#VDC</a>: Flexibilidad para que las infraestructuras se adapten a tu negocio... y no al revés <a href="https://t.co/BMfJ6TNbgD">https://t.co/BMfJ6TNbgD</a> <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a></p>&mdash; A un clic de las TIC (@AunCLICdelasTIC) <a href="https://twitter.com/AunCLICdelasTIC/status/743141248626794496">15 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Data Centers
 - [datacentermap.com 🌟](http://www.datacentermap.com)
 	- [datacentermap.com/spain](http://www.datacentermap.com/spain/)

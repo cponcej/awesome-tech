@@ -243,6 +243,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">YouTube’s new Director tools allow small businesses to create video ads on their phones <a href="https://t.co/7OOZeT4KoX">https://t.co/7OOZeT4KoX</a> by <a href="https://twitter.com/anthonyha">@anthonyha</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/743096005105590273">15 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Distributed Messaging System. Message oriented middleware 
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Apache Kafka](http://kafka.apache.org/)

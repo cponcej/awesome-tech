@@ -223,6 +223,9 @@ para universitarios y titulados júnior
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Grifols publicará sus pagos a médicos en España <a href="https://t.co/9y5ZNORr6C">https://t.co/9y5ZNORr6C</a> <a href="https://t.co/UeQw4Q5gTV">pic.twitter.com/UeQw4Q5gTV</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/743137037604126726">15 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">&quot;El que més valorem de Barcelona Activa és la xarxa de contactes que et dóna&quot; 10 testimonis d&#39; <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a> <a href="https://t.co/UgKNMsxadJ">https://t.co/UgKNMsxadJ</a></p>&mdash; Barcelona Activa (@barcelonactiva) <a href="https://twitter.com/barcelonactiva/status/706013987096424448">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -360,3 +363,6 @@ para universitarios y titulados júnior
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06pFkR91n5c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">Celebra el Dia Mundial de la Música amb un concert de l&#39;<a href="https://twitter.com/OrquestraOBC">@OrquestraOBC</a> a la platja <a href="https://t.co/Oss684JhZP">https://t.co/Oss684JhZP</a> <a href="https://t.co/ZSN2MIepQv">pic.twitter.com/ZSN2MIepQv</a></p>&mdash; Barcelona Cultura (@bcncultura) <a href="https://twitter.com/bcncultura/status/743139820411719680">15 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

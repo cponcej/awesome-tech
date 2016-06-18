@@ -123,6 +123,12 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">China&#39;s share of global consumption<br><br>Aluminum: 54%<br>Copper: 48%<br>Zinc: 46%<br>Steel: 45%<br>Rice: 30%<br>Gold: 23%<br>Wheat: 17%<br>Oil: 12%<br>Gas: 6%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/710201506046156800">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Steel production, 2014. (million tonnes)<br><br>China: 823<br>Japan: 111<br>US: 88<br>India: 86<br>Korea: 71<br>Russia: 71<br>Germany: 43 <a href="https://t.co/GzHCtgS2Zn">pic.twitter.com/GzHCtgS2Zn</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/740824724788383745">9 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Solar panel prices have fallen by over 80% since 2010, driven mainly by a surge in Chinese production. <a href="https://t.co/eiklyZxfOa">pic.twitter.com/eiklyZxfOa</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/740906641965490176">9 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Household debt as % of GDP<br><br>Australia: 122%<br>UK: 86%<br>US: 77%<br>Japan: 66%<br>France: 56%<br>Germany: 54%<br>China: 37%<br>Turkey: 21%<br>India: 9.5%</p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/710193986921635840">16 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Projection: Global GDP Distribution 1970-2030, with highlighted USA, <a href="https://twitter.com/hashtag/China?src=hash">#China</a> and <a href="https://twitter.com/hashtag/India?src=hash">#India</a> <a href="https://t.co/uGnIloxS4O">pic.twitter.com/uGnIloxS4O</a></p>&mdash; Aron Strandberg (@aronstrandberg) <a href="https://twitter.com/aronstrandberg/status/700076818041303041">17 de febrero de 2016</a></blockquote>

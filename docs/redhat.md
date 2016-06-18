@@ -75,6 +75,8 @@
 
 [![make_rhel7_pci-dss](images/make_rhel7_pci-dss.png)](https://www.open-scap.org/resources/documentation/make-a-rhel7-server-compliant-with-pci-dss/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Entrevista a Santiago Madruga, director general de <a href="https://twitter.com/RedHatIberia">@RedHatIberia</a> <a href="https://t.co/QNjuqDVqo9">pic.twitter.com/QNjuqDVqo9</a></p>&mdash; ComputerWorld España (@ComputerworldES) <a href="https://twitter.com/ComputerworldES/status/743722847684595712">17 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
@@ -209,6 +211,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Can&#39;t believe installing <a href="https://twitter.com/hashtag/OpenShift?src=hash">#OpenShift</a> private <a href="https://twitter.com/hashtag/PaaS?src=hash">#PaaS</a> is so easy? See video how to: ~3.5 mins! <a href="https://t.co/zlRt9m0ai1">https://t.co/zlRt9m0ai1</a> <a href="https://t.co/PdoijukL2Z">pic.twitter.com/PdoijukL2Z</a></p>&mdash; Eric D. Schabell (@ericschabell) <a href="https://twitter.com/ericschabell/status/702855024460759040">25 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Free ebook: <a href="https://twitter.com/openshift">@openshift</a>  for Developers - O&#39;Reilly Book Covering Version 3 of the Platform – OpenShift Blog <a href="https://t.co/vYzQjegsrG">https://t.co/vYzQjegsrG</a></p>&mdash; Red Hat Atomic (@RedHatAtomic) <a href="https://twitter.com/RedHatAtomic/status/743539930769526784">16 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Red Hat OpenStack
 - [Red Hat OpenStack](redhat_openstack.md)
 
@@ -274,6 +279,9 @@
 <br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apps 101: An Absolute Beginner’s Guide to building a Mobile App <a href="https://t.co/1VhQ2438Vs">https://t.co/1VhQ2438Vs</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/700042783046762496">febrero 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat named a visionary in <a href="https://twitter.com/hashtag/Gartner?src=hash">#Gartner</a> Magic Quadrant for <a href="https://twitter.com/hashtag/Mobile?src=hash">#Mobile</a> Application Development Platforms <a href="https://twitter.com/hashtag/MADP?src=hash">#MADP</a> <a href="https://t.co/qrchMuy5XL">https://t.co/qrchMuy5XL</a></p>&mdash; Red Hat Mobile (@redhatmobile) <a href="https://twitter.com/redhatmobile/status/743523000541143040">16 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Java 8 and Git

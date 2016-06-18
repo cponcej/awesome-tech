@@ -94,6 +94,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Awesome and free PDF ebook: Modern C <a href="https://t.co/1hWOAy5Hda">https://t.co/1hWOAy5Hda</a> <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711106381806350336">19 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The good coder is the coder who codes good code... <a href="https://t.co/8OxyoKaAxm">https://t.co/8OxyoKaAxm</a> <a href="https://t.co/EwywiSDre0">pic.twitter.com/EwywiSDre0</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/740238819841150976">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Blogs and Forums
 - [DZone 🌟🌟🌟🌟🌟](http://dzone.com)
 	- [DZone Refcardz](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
@@ -135,6 +138,12 @@
 - [Devdocs.io: Devdocs API Documentation Browser. DevDocs combines multiple API documentations in a fast, organized, and searchable interface 🌟🌟🌟🌟](http://devdocs.io)
 - [Learn it Faster: The Entire JavaScript Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-javascript-language-in-a-single-image/)
 - [Learn it Faster: The Entire Python Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Getting the most out of <a href="https://twitter.com/hashtag/financial?src=hash">#financial</a> <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> <a href="https://twitter.com/hashtag/FinTech?src=hash">#FinTech</a> <a href="https://t.co/zYPAbde48q">https://t.co/zYPAbde48q</a></p>&mdash; Liesbeth (@beckerhoff1973) <a href="https://twitter.com/beckerhoff1973/status/743684169406963714">17 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Hear how technical foundation for <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> was laid down in the late 90s | <a href="https://twitter.com/LondonFintech">@LondonFintech</a>  <a href="https://t.co/5qwxRJDlo3">https://t.co/5qwxRJDlo3</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a></p>&mdash; Xignite (@xignite) <a href="https://twitter.com/xignite/status/743575220204732416">16 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### API Blueprint, defining the emerging API design space
 - [API Blueprint 🌟🌟](https://apiblueprint.org)
@@ -206,6 +215,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The good coder is the coder who codes good code... <a href="https://t.co/8OxyoKaAxm">https://t.co/8OxyoKaAxm</a> <a href="https://t.co/EwywiSDre0">pic.twitter.com/EwywiSDre0</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/740238819841150976">7 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="pl" dir="ltr">11 Debugging Tips That Will Save You Time <a href="https://twitter.com/hashtag/Performance?src=hash">#Performance</a><a href="https://t.co/rN8oXRAQAW">https://t.co/rN8oXRAQAW</a> <br><br>via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a>  Bartłomiej Filipek <a href="https://t.co/0ZIcbvtRk4">pic.twitter.com/0ZIcbvtRk4</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/743141223016312832">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)

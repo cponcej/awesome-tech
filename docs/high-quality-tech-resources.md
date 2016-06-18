@@ -411,6 +411,8 @@
 
 [![devops_radio](images/devops_radio.png)](https://www.cloudbees.com/resources/devops-radio)
 
+[![London Fintech Podcast](images/LFP.jpg)](http://londonfintechpodcast.com/)
+
 ### Cloud Computing Podcasts
 - [Are You Subscribed to These Cloud Computing Podcasts?](http://solutions-review.com/cloud-platforms/are-you-subscribed-to-these-cloud-computing-podcasts/)
 	- [The Cloudcast 🌟🌟🌟](http://www.thecloudcast.net/)

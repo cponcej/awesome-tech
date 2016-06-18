@@ -140,8 +140,6 @@
 
 _______________________________________________
 
-[![pubpeer](images/pubpeer.png)](https://pubpeer.com/)
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/RespectMyNet?src=hash">#RespectMyNet</a> en <a href="https://twitter.com/El_Diagonal">@El_Diagonal</a> herramienta que lanzamos con organizaciones europeas para proteger la <a href="https://twitter.com/hashtag/Netneutrality?src=hash">#Netneutrality</a> <a href="https://t.co/ENFcDJtDOY">https://t.co/ENFcDJtDOY</a></p>&mdash; Xnet (@X_net_) <a href="https://twitter.com/X_net_/status/705677809449099264">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ___________________________________________________________

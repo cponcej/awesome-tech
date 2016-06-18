@@ -58,9 +58,18 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las cinco mayores empresas del mundo en liquidez son tecnológicas. Apple, Microsoft, Google, Cisco y Oracle poseen $ 504.000 millones</p>&mdash; Jose Grasso (@josegrasso) <a href="https://twitter.com/josegrasso/status/734086431048601600">21 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Apple is the biggest tech company in the world:<br><br>Revenue: $233B<br>Profit: $53B<br>Assets: $239B<a href="https://t.co/HYlCWplDzA">https://t.co/HYlCWplDzA</a> <a href="https://t.co/dilWX58dcL">pic.twitter.com/dilWX58dcL</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/741487878451175425">11 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GRAPHIC: Countries by leading source of imports, 2013. <a href="https://t.co/ntaoBekMol">pic.twitter.com/ntaoBekMol</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/741336772685103104">10 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![spanish_fintech](images/spanish_fintech.jpg)](http://spanishfintech.net/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los 4 retos de la banca. <a href="https://twitter.com/hashtag/finanzas?src=hash">#finanzas</a> <a href="https://twitter.com/hashtag/economia?src=hash">#economia</a> <a href="https://t.co/tGdyw7qEEO">pic.twitter.com/tGdyw7qEEO</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/737369361019764736">30 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Boom, bubble or bust for fintech? <a href="https://t.co/BnXho0OpOC">https://t.co/BnXho0OpOC</a> by <a href="https://twitter.com/howardlindzon">@howardlindzon</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/743171391411785728">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
@@ -89,6 +98,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Failure is simply the opportunity to begin again, this time more intelligently.&quot; --Henry Ford <a href="https://twitter.com/hashtag/quoteoftheday?src=hash">#quoteoftheday</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/715644488597643264">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![how_customer_explained_it](images/how_customer_explained_it.jpg)
+
 ## Startup related links
 - [ZDnet: Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital 🌟🌟🌟](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [webcapitalriesgo.com: Startup Financing in Spain. 2015](https://www.webcapitalriesgo.com/descargas/4714_07_15_353136675.pdf)
@@ -114,6 +125,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Success is no accident. <a href="https://t.co/Fp3Q8zMtzU">pic.twitter.com/Fp3Q8zMtzU</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/704101309914476544">29 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Google?src=hash">#Google</a>  was the 21st search engine to enter market in 1998.<br><br>Here&#39;s Google&#39;s headquarters and data center in 1998 <a href="https://t.co/Vv8qhBsycw">pic.twitter.com/Vv8qhBsycw</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/719183535815335937">10 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Understanding the nature of Enterprise IT in a single diagram <a href="https://t.co/GX2Z24Lo2q">pic.twitter.com/GX2Z24Lo2q</a></p>&mdash; swardley (@swardley) <a href="https://twitter.com/swardley/status/743340775065321476">16 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Startup Blogs, Documentaries and Talks
 - [entrepreneur.com 🌟](http://www.entrepreneur.com)
@@ -159,6 +173,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![new_companies_easier_now_than_a_decade_ago](images/new_companies_easier_now_than_a_decade_ago.png)](http://www.businessinsider.com/launching-startup-changed-drastically-stewart-butterfield-slack-flickr-2015-6)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Si alguien hace un elogio de las PYMEs otra vez, que alguien salga a atizarle con esto. <a href="https://t.co/qwQWjctNmg">https://t.co/qwQWjctNmg</a></p>&mdash; Roger Senserrich (@Egocrata) <a href="https://twitter.com/Egocrata/status/742081821354151936">12 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## IT remuneration
 - [July 2015 IT remuneration report is out… Tech pay packages dip, demand for top talent grows](http://whatisitwellington.com/2015/07/14/july-2015-it-remuneration-report-is-out-tech-pay-packages-dip-demand-for-top-talent-grows-absoluteit/)

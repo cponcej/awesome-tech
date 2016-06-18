@@ -101,6 +101,9 @@
 
 [![mejores_universidades_informatica](images/mejores_universidades_informatica.png)](http://www.ticbeat.com/cyborgcultura/las-mejores-universidades-para-estudiar-informatica-en-espana/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Cuáles son las universidades más valoradas por las empresas? <a href="https://twitter.com/elmundoes">@elmundoes</a> <a href="https://t.co/H627FC2439">https://t.co/H627FC2439</a> <a href="https://t.co/vmdTgYxo4o">pic.twitter.com/vmdTgYxo4o</a></p>&mdash; Santiago Satué (@satueabogado) <a href="https://twitter.com/satueabogado/status/742807082471182344">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![voltaire education](images/voltaire_education.jpg)](http://statusmind.com/)
 
 ## Free e-learning
@@ -172,6 +175,9 @@
 
 [![aba english](images/logo-aba-english.png)](http://www.abaenglish.com)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">En tan solo 4 días te preparamos para conseguir tu certificación <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> JBoss Administrator <a href="https://t.co/WydpYsPJPv">https://t.co/WydpYsPJPv</a> <a href="https://t.co/2IGiZVPvro">pic.twitter.com/2IGiZVPvro</a></p>&mdash; Global Knowledge ESP (@GK_Spain) <a href="https://twitter.com/GK_Spain/status/742749900371267584">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![a cloud  guru](images/acloudguru_black.png)](https://acloud.guru)
 
 <div class="container">
@@ -200,5 +206,11 @@
 <iframe src='http://players.brightcove.net/1898269467/default_default/index.html?videoId=4922929276001' allowfullscreen frameborder=0 class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/EUSkillsAgenda?src=hash">#EUSkillsAgenda</a> 1 in 5 EU adult workers at serious risk of <a href="https://twitter.com/hashtag/skill?src=hash">#skill</a> obsolescence says <a href="https://twitter.com/Cedefop">@Cedefop</a> <a href="https://twitter.com/hashtag/ESJsurvey?src=hash">#ESJsurvey</a> <a href="https://twitter.com/EU_Social">@EU_Social</a> <a href="https://t.co/4gLpTP8kBt">pic.twitter.com/4gLpTP8kBt</a></p>&mdash; Kostas Pouliakas (@K_Pouliakas) <a href="https://twitter.com/K_Pouliakas/status/741239641077121024">10 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">10 jobs that didn’t exist 10 years ago <a href="https://t.co/rNnpxLkRwU">https://t.co/rNnpxLkRwU</a> <a href="https://twitter.com/hashtag/work?src=hash">#work</a> <a href="https://t.co/bVjaKp8LWr">pic.twitter.com/bVjaKp8LWr</a></p>&mdash; World Economic Forum (@wef) <a href="https://twitter.com/wef/status/741249855562092544">10 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When your homie lands their trick <a href="https://t.co/yldgeXaKxa">pic.twitter.com/yldgeXaKxa</a></p>&mdash; Matt (@mattwithav) <a href="https://twitter.com/mattwithav/status/712362125423849473">22 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

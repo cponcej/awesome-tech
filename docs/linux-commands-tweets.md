@@ -172,3 +172,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk -F&#39;&quot;,&quot;&#39; &#39;{print $3}&#39; data.csv # Use a multi-character field separator to get field 3 out of a CSV file that uses double quoted fields.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/739866548689588224">6 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">TZ=UTC date # Force a timezone for the date by setting the TZ variable. In this case, get UTC time.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/743152174205538304">15 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Trim leading and trailing whitespace: sed -i &#39;s/^[ \t]*//;s/[ \t]*$//&#39; somefile</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/742758635625979904">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -9,6 +9,10 @@
 Available for work (no freelance). Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know. </strike>
 </p>
 
+<p align="center"><strike>
+Disable Tracking Protection in Firefox in order to render the embedded tweets</strike>
+</p>
+
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 
 **Table of Contents**

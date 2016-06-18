@@ -54,6 +54,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">7 pecados capitales del Freelance. <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> <a href="https://t.co/k0DitvHKrm">pic.twitter.com/k0DitvHKrm</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/739194178190598144">4 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">80 per cent of self-employed people in Britain are living in poverty <a href="https://t.co/shBYHDPfXo">https://t.co/shBYHDPfXo</a> <a href="https://t.co/RLgGdWr5nC">pic.twitter.com/RLgGdWr5nC</a></p>&mdash; The Independent (@Independent) <a href="https://twitter.com/Independent/status/741603779896848384">11 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XXWZ3uAEKsw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
