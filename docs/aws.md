@@ -23,6 +23,7 @@
     - [AWS Redshift](#aws-redshift)
     - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
     - [AWS Latency](#aws-latency)
+    - [Amazon ECS optimized AMI](#amazon-ecs-optimized-ami)
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
     - [AWS CLI](#aws-cli)
     - [AWS VPC](#aws-vpc)
@@ -335,6 +336,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Route 53&#39;s health checks now support SNI for checking websites over HTTPS! <a href="https://t.co/ktdeKCjNjc">https://t.co/ktdeKCjNjc</a> <a href="https://t.co/8INseaC48e">pic.twitter.com/8INseaC48e</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/702208599016083457">febrero 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Amazon ECS optimized AMI
+- [Amazon ECS-optimized AMI](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-optimized_AMI.html)
 
 ## AWS EC2 Container Registry (Docker)
 - [A Better Dev/Test Experience: Docker and AWS](https://medium.com/aws-activate-startup-blog/a-better-dev-test-experience-docker-and-aws-291da5ab1238)
