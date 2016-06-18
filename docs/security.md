@@ -44,6 +44,7 @@
 		- [OpenSSH Security Advisory. March 2016](#openssh-security-advisory-march-2016)
 		- [SSH attempts](#ssh-attempts)
 		- [Bad Tunnel. June 2016](#bad-tunnel-june-2016)
+		- [DDos](#ddos)
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
 		- [Container security. Who’s fixing containers? February 2016](#container-security-who’s-fixing-containers-february-2016)
 		- [DDos and Project Shield. February 2016](#ddos-and-project-shield-february-2016)
@@ -431,6 +432,9 @@
 
 ### Bad Tunnel. June 2016
 - [nakedsecurity.sophos.com - BadTunnel: a vulnerability all Windows users need to patch](https://nakedsecurity.sophos.com/2016/06/16/badtunnel-a-vulnerability-all-windows-users-need-to-patch/)
+
+### DDos
+- [En alza los ataques DDoS y los relacionados con aplicaciones web](http://cso.computerworld.es/defensa-perimetral/en-alza-los-ataques-ddos-y-los-relacionados-con-aplicaciones-web)
 
 ## Top security initiatives for 2016
 - [Top 10 Data Breaches Of 2015 — A New Year’s Day Retrospective](https://medium.com/@Roane_H/top-10-data-breaches-of-2015-a-new-year-s-day-retrospective-e7fc56a48c6) The majority of these (and most) security mishaps are due to misconfigurations and unpatched software — flaws that can be hard to detect in large, heterogeneous environments

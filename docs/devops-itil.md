@@ -49,6 +49,7 @@
 
 [![devops_radio](images/devops_radio.png)](https://www.cloudbees.com/resources/devops-radio)
 
+[![learn_devops_udemy](images/learn_devops_udemy.png)](https://www.udemy.com/learn-devops-continuously-deliver-better-software/)
 
 # DevOps
 ## DevOps Blogs

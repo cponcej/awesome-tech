@@ -24,6 +24,8 @@
 
 [![CD_jenkins_workflow](images/CD_jenkins_workflow.png)](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
 
+[![jenkins_bootcamp_udemy](images/jenkins_bootcamp_udemy.png)](https://www.udemy.com/jenkins-continuous-integration-bootcamp/)
+
 # Continuous Integration Tools
 ## CI Jenkins
 - [jenkins.io (new jenkins 2.0 site)](https://jenkins.io/)
