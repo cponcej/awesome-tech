@@ -66,7 +66,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS cloud computing ops, data centers, 1.3 million servers creating efficiency flywheel <a href="https://t.co/KRjIzt85GS">https://t.co/KRjIzt85GS</a> by <a href="https://twitter.com/ldignan">@ldignan</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/740238430219603969">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Wow! No wonder I have been so busy lately... <a href="https://t.co/aZfoZEvVgw">https://t.co/aZfoZEvVgw</a></p>&mdash; Jeff Barr (@jeffbarr) <a href="https://twitter.com/jeffbarr/status/742816591658778625">14 de junio de 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Happy to hear that we just passed 400 <a href="https://twitter.com/hashtag/AWS?src=hash">#AWS</a> new functionality launches for 2016... up 36% over the same week in 2015 <a href="https://twitter.com/mza">@mza</a> <a href="https://twitter.com/jeffbarr">@jeffbarr</a></p>&mdash; Ariel Kelman (@akelman) <a href="https://twitter.com/akelman/status/742792888673697792">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Amazon Web Services
