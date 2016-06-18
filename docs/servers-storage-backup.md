@@ -10,6 +10,7 @@
 	- [Storage](#storage)
 		- [Linux LVM Logical Volume Management and FileSystems](#linux-lvm-logical-volume-management-and-filesystems)
 			- [File Systems](#file-systems)
+	- [Veritas Volume Manager VxVM and Cluster VCS](#veritas-volume-manager-vxvm-and-cluster-vcs)
 	- [Backup](#backup)
 
 <!-- /MarkdownTOC -->
@@ -113,8 +114,6 @@
 - [All Flash Buying Guide](http://www.infostor.com/disk-arrays/all-flash-buying-guide.html)
 - [opensource.com: 5 open source web app alternatives to Google Drive 🌟](https://opensource.com/life/15/12/5-open-source-web-apps-self-hosted)
 - [nixCraft: 7 Awesome Open Source Cloud Storage Software For Your Privacy and Security 🌟](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
-- [Learnitguide.net: Veritas Volume Manager (VxVM) - Online Resizing of Volumes](http://www.learnitguide.net/2016/04/veritas-volume-manager-online-resizing.html)
-- [learnitguide.net: VCS Cluster Interview Questions and Answers](http://www.learnitguide.net/2016/05/vcs-cluster-interview-questions-and-answers.html)
 - [learnitguide.net: Disk Management in Linux - Understand the Basic Concepts](http://www.learnitguide.net/2016/05/disk-management-in-linux-basic-concepts.html)
 
 [![synology logo](images/synology_logo.jpg)](https://www.synology.com)
@@ -131,13 +130,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Need a self-hosted alternative to Google Drive? Check out these <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> options: <a href="https://t.co/VxgHUh6Kzd">https://t.co/VxgHUh6Kzd</a> <a href="https://t.co/kIq5YBmWWO">pic.twitter.com/kIq5YBmWWO</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/700591151191949313">febrero 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Veritas se relanza tras independizarse de Symantec <a href="https://t.co/Z2TBg5lQPw">https://t.co/Z2TBg5lQPw</a> <a href="https://t.co/kDamQq3Qdo">pic.twitter.com/kDamQq3Qdo</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/709315094325268480">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LYWuy1rXV3g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Disk Management in Linux - Understand the Basic Concepts&quot; <a href="https://t.co/E0AeX01zHT">https://t.co/E0AeX01zHT</a> <a href="https://twitter.com/hashtag/openstack?src=hash">#openstack</a></p>&mdash; Gajendra D Ambi (@MrAmbiG1) <a href="https://twitter.com/MrAmbiG1/status/735770750074769412">26 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -177,6 +169,19 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![Linux directory structure](images/Linux-Directory-Structure.jpg)](http://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/)
+
+## Veritas Volume Manager VxVM and Cluster VCS
+- [Learnitguide.net: Veritas Volume Manager (VxVM) - Online Resizing of Volumes](http://www.learnitguide.net/2016/04/veritas-volume-manager-online-resizing.html)
+- [learnitguide.net: VCS Cluster Interview Questions and Answers](http://www.learnitguide.net/2016/05/vcs-cluster-interview-questions-and-answers.html)
+- [Learnitguide.net: Configure two node VCS Cluster in Linux - Step by Step](http://www.learnitguide.net/2016/05/configure-two-node-vcs-cluster-in-linux.html)
+- [Learnitguide.net: Veritas Cluster Server 6.2 (VCS) Installation on RHEL7](http://www.learnitguide.net/2016/04/veritas-cluster-server-installation-on-rhel7.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Veritas se relanza tras independizarse de Symantec <a href="https://t.co/Z2TBg5lQPw">https://t.co/Z2TBg5lQPw</a> <a href="https://t.co/kDamQq3Qdo">pic.twitter.com/kDamQq3Qdo</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/709315094325268480">14 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LYWuy1rXV3g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## Backup
 - [6 Steps to Better Data Backup and Quicker Recovery](https://www.linkedin.com/pulse/6-steps-better-data-backup-quicker-recovery-manuel-w-lloyd)
