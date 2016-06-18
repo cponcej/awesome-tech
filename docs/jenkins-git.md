@@ -189,6 +189,8 @@
 - [tutorialzine.com: Learn Git in 30 Minutes 🌟🌟🌟](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 - [3 easy steps to submitting a GitHub pull request](https://opensource.com/life/16/3/submit-github-pull-request)
 
+[![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
+
 [![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/) 
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Git Commands &amp; Best Practices Cheat Sheet For Sysadmin/DevOPS. Large version  <a href="https://t.co/Df4PQfXugz">https://t.co/Df4PQfXugz</a> <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a> <a href="https://t.co/mBqSOfYEaH">pic.twitter.com/mBqSOfYEaH</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/702915958118060033">25 de febrero de 2016</a></blockquote>

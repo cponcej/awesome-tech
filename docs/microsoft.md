@@ -144,6 +144,8 @@
 - [New Release of PowerShell Extension For Visual Studio Code](https://rkeithhill.wordpress.com/2016/02/09/new-release-of-powershell-extension-for-visual-studio-code)
 - [Bash for Windows: Why it’s awesome and what it means for PowerShell 🌟🌟🌟](https://blogs.msdn.microsoft.com/powershell/2016/04/01/bash-for-windows-why-its-awesome-and-what-it-means-for-powershell)
 
+[![dzone_powershell_refcard](images/dzone_powershell_refcard.png)](https://dzone.com/refcardz/windows-powershell)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jU15_7pPkY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
