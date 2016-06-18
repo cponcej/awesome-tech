@@ -142,8 +142,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Getting the most out of <a href="https://twitter.com/hashtag/financial?src=hash">#financial</a> <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> <a href="https://twitter.com/hashtag/FinTech?src=hash">#FinTech</a> <a href="https://t.co/zYPAbde48q">https://t.co/zYPAbde48q</a></p>&mdash; Liesbeth (@beckerhoff1973) <a href="https://twitter.com/beckerhoff1973/status/743684169406963714">17 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Hear how technical foundation for <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> was laid down in the late 90s | <a href="https://twitter.com/LondonFintech">@LondonFintech</a>  <a href="https://t.co/5qwxRJDlo3">https://t.co/5qwxRJDlo3</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a></p>&mdash; Xignite (@xignite) <a href="https://twitter.com/xignite/status/743575220204732416">16 de junio de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Hear how technical foundation for <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> was laid down in the late 90s | <a href="https://twitter.com/LondonFintech">@LondonFintech</a>  <a href="https://t.co/5qwxRJDlo3">https://t.co/5qwxRJDlo3</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a></p>&mdash; Xignite (@xignite) <a href="https://twitter.com/xignite/status/743575220204732416">16 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### API Blueprint, defining the emerging API design space
 - [API Blueprint 🌟🌟](https://apiblueprint.org)
@@ -166,6 +165,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HEfY5ECITrE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z2b7lxne6VM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
