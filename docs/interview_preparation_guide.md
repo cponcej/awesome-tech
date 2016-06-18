@@ -24,6 +24,8 @@
 
 ![employee_of_the_year](images/employee_of_the_year.png)
 
+[![new_linkedin_features_networking_new_job](images/new_linkedin_features_networking_new_job.png)](http://www.inc.com/jt-odonnell/getting-referred-to-a-new-job-just-got-easier-on-linkedin.html)
+
 # Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)

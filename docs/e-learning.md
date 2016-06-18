@@ -65,6 +65,7 @@
 - [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
 - [Selenium Webdriver 2.0: Master Automated Testing](https://www.udemy.com/selenium-webdriver-20-a-beginners-guide-to-selenium)
 - [The Complete Web Developer Course - Build 14 Websites](https://www.udemy.com/complete-web-developer-course/)
+- [Build an application from scratch: JEE 7, Java 8 and Wildfly](https://www.udemy.com/build-an-application-from-scratch-jee-7-java-8-and-wildfly/)
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript)
 - [Taming Big Data with Apache Spark - Hands On!](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/?couponCode=SPARK15)
 - [Taming Big Data with MapReduce and Hadoop - Hands On!](https://www.udemy.com/taming-big-data-with-mapreduce-and-hadoop/)
@@ -76,6 +77,9 @@
 - [Wireshark Crash Course](https://www.udemy.com/wireshark-crash-course/)
 - [The Complete Ethical Hacking Course: Beginner to Advanced! ethical hacking, penetration testing, web testing, and wifi hacking using kali linux](https://www.udemy.com/penetration-testing/?couponCode=PA9)
 - [Start Kali Linux, Ethical Hacking and Penetration Testing! (Free)](https://www.udemy.com/ethical-hacker/)
+- [Certified WhiteHat Hacker Level 1 (CWHH Level 1) (Free)](https://www.udemy.com/certified-whitehat-hacker-level-1/)
+- [Certified White Hat Hacker Level 2 (CWHH Level 2)](https://www.udemy.com/certified-white-hat-hacker-level-2/)
+- [CWHH Level 2 - Break the Security (CWHH-BTS)](https://www.udemy.com/certified-whitehat-hacker-level-2-break-the-security/)
 - [An Entire MBA in 1 Course:Award Winning Business School Prof](https://www.udemy.com/an-entire-mba-in-1-courseaward-winning-business-school-prof/)
 	- [A former Goldman Sachs employee has condensed an entire MBA into one online course](http://www.businessinsider.com/goldman-sachs-mba-online-course-udemy-deal-2016-2)
 
