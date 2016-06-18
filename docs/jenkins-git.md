@@ -26,6 +26,8 @@
 
 [![jenkins_bootcamp_udemy](images/jenkins_bootcamp_udemy.png)](https://www.udemy.com/jenkins-continuous-integration-bootcamp/)
 
+[![devops_library_jenkins_certification](images/devops_library_jenkins_certification.png)](https://www.devopslibrary.com/Jenkins)
+
 # Continuous Integration Tools
 ## CI Jenkins
 - [jenkins.io (new jenkins 2.0 site)](https://jenkins.io/)
