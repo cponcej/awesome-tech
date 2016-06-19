@@ -181,6 +181,7 @@
 - [How to Break Up With a Bad Career](http://www.inc.com/jt-odonnell/4-steps-to-breaking-up-with-a-bad-career.html) Moving on from a bad career starts with a clear plan for a better one.
 - [5 Steps To Easily Connect With Your Co-Workers](http://www.careerealism.com/easily-connect-coworkers/)
 - [Five Signs Your Job Is Wasting Your Talent](http://www.forbes.com/sites/lizryan/2016/06/03/five-signs-your-job-is-wasting-your-talent/#dead23f42304)
+- [How a 'Praise Addiction' Can Really Mess Up Your Career](http://www.inc.com/jt-odonnell/how-a-praise-addiction-can-really-mess-up-your-career.html)
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 

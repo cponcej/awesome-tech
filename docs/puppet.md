@@ -9,6 +9,8 @@
 
 [![build_puppet_udemy](images/build_puppet_udemy.png)](https://www.udemy.com/manageable-puppet-infrastructure/)
 
+[![puppet_knowledge_base](images/puppet_knowledge_base.png)](https://puppet.com/blog/knowledge-one-best-ways-ensure-customer-success)
+
 # Puppet
 - [The Puppet Labs Issue Tracker](https://tickets.puppetlabs.com)
 - [Google Groups puppet-bugs](https://groups.google.com/forum/#!forum/puppet-bugs)
