@@ -155,11 +155,6 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2IRTnbzk0RQ" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMLh-5O6Ub8?list=PLK45JhIJ1oEUNrrXY2h_iXASGbCziO-82" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
