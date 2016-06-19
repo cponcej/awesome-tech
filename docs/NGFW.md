@@ -139,3 +139,8 @@
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El día que Dywane Wade le hizo esto a Carmelo Anthony: <a href="https://t.co/ktjJhVtsyH">https://t.co/ktjJhVtsyH</a></p>&mdash; EstadisticasNBA (@EstadisticasNBA) <a href="https://twitter.com/EstadisticasNBA/status/704079484908146688">28 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CQalVZ-JUlw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
