@@ -163,7 +163,7 @@
 <br/>
 
 ## OWASP Open Web Application Security Project 
-- [OWASP Testing Project](http://awesome-tech.readthedocs.io/pen_testing/#OWASP-Testing-Project)
+- [OWASP Testing Project](http://awesome-tech.readthedocs.io/pen_testing/#owasp-testing-project)
 
 [![owasp_testing_guide](images/owasp_testing_guide.png)](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
