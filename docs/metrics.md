@@ -139,6 +139,7 @@
 - [Grafana](http://grafana.org/) Beautiful metric & analytic dashboards
 
 ### Zabbix
+- [Infrastructure Monitoring with Zabbix, Nagios, or other? 🌟](http://www.itworld.com/article/2922424/data-center/infrastructure-monitoring-with-zabbix-nagios-or-other.html)
 - [Zabbix Documentation 3.2](https://www.zabbix.com/documentation/3.2/)
 - [tecmint.com: Installing and Configuring Zabbix 2.4.5 on Debian 8 and RHEL/CentOS 7 🌟](http://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/)
 - [All the slides of Zabbix Conference 2015](http://www.zabbix.com/conf2015_agenda.php)
