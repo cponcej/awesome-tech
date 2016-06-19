@@ -150,6 +150,8 @@
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
 
+[![codelytv](images/codelytv.png)](http://codely.tv/)
+
 [![itfreetraining](images/itfreetraining.jpg)](https://www.youtube.com/user/itfreetraining)
 
 [![bi_7sites_learn_skills_free](images/bi_7sites_learn_skills_free.png)](http://www.businessinsider.com/7-sites-where-you-can-learn-a-new-skill-for-free-2016-3)
