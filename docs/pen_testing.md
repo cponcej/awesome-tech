@@ -1,9 +1,11 @@
 <!-- MarkdownTOC -->
 
 - [Security Toolkits and Policies. Penetration Testing](#security-toolkits-and-policies-penetration-testing)
+    - [Hacking Tools](#hacking-tools)
     - [Kali Linux](#kali-linux)
     - [BackBox Linux](#backbox-linux)
-    - [OWASP Zed Attack Proxy Project](#owasp-zed-attack-proxy-project)
+    - [OWASP Testing Project](#owasp-testing-project)
+        - [OWASP Zed Attack Proxy Project](#owasp-zed-attack-proxy-project)
 
 <!-- /MarkdownTOC -->
 
@@ -21,6 +23,7 @@
 - [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment.
 - [foxglovesecurity.com: Building a Wireless Pentest Environment using Docker](http://foxglovesecurity.com/2016/02/24/when-whales-fly-building-a-wireless-pentest-environment-using-docker/)
 - [Here are the top hacking tools for 2016 used by hackers and pentesters 🌟🌟](http://hackzzon.blogspot.com.es/2016/02/top-hacking-tools-for-2016-for-hackers.html)
+- [Use SQLMAP SQL Injection to hack a website and database in Kali Linux 🌟🌟](https://www.darkmoreops.com/2014/08/28/use-sqlmap-sql-injection-hack-website-database/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/r2FJWflQkniIRU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jeromeathias/cve-web-applicationpenetrationtesting" title="Leveraging CVE for Web Application Penetration Testing" target="_blank">Leveraging CVE for Web Application Penetration Testing</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/jeromeathias">Jerome Athias</a></strong> </div>
@@ -39,6 +42,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Building a Wireless Pentest Environment Using <a href="https://twitter.com/docker">@Docker</a> by <a href="https://twitter.com/awhitehatter">@awhitehatter</a>: <a href="https://t.co/sLqt8QaxXa">https://t.co/sLqt8QaxXa</a> via <a href="https://twitter.com/foxglovesec">@foxglovesec</a> <a href="https://t.co/9JMSf89AJK">pic.twitter.com/9JMSf89AJK</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/702822365789622272">25 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Hacking Tools
+- Hacking tools: Acunetix, Burp, w3af ,Nessus, Nexpose, SQLmap Kali Linux, Metasploit
 
 ### Kali Linux
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution 🌟🌟🌟](https://www.kali.org/)
@@ -78,7 +84,16 @@
 </div>
 <br/>
 
-### OWASP Zed Attack Proxy Project 
+### OWASP Testing Project 
+- [owasp.org 🌟🌟](https://www.owasp.org) The Open Web Application Security Project (OWASP) is a worldwide not-for-profit charitable organization focused on improving the security of software. 
+- [Guía de pruebas de OWASP 3.0](https://www.owasp.org/images/8/80/Gu%C3%ADa_de_pruebas_de_OWASP_ver_3.0.pdf)
+- [OWASP Testing Guide v4.0. Guia de seguridad en aplicaciones Web](https://www.incibe.es/blogs/post/Seguridad/BlogSeguridad/Articulo_y_comentarios/owasp_4_en)
+- [OWASP Testing Project](https://www.owasp.org/index.php/OWASP_Testing_Project)
+- [OWASP Testing Guide v4 Table of Contents 🌟🌟](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+
+[![owasp_testing_guide](images/owasp_testing_guide.png)](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+
+#### OWASP Zed Attack Proxy Project 
 - [OWASP Zed Attack Proxy Project 🌟](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
 <div class="container">

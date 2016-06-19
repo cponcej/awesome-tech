@@ -5,6 +5,7 @@
     - [Mapas Mentales para Software Testing](#mapas-mentales-para-software-testing)
     - [ISTQB](#istqb)
     - [TMAP](#tmap)
+    - [OWASP Open Web Application Security Project](#owasp-open-web-application-security-project)
     - [DevOps Quality Blueprint](#devops-quality-blueprint)
     - [Google New website Testing tool for Small Businesses](#google-new-website-testing-tool-for-small-businesses)
     - [Gerrit Code Review](#gerrit-code-review)
@@ -160,6 +161,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5o_KMFrFpc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## OWASP Open Web Application Security Project 
+- [OWASP Testing Project](http://awesome-tech.readthedocs.io/pen_testing/#OWASP-Testing-Project)
+
+[![owasp_testing_guide](images/owasp_testing_guide.png)](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
 ## DevOps Quality Blueprint
 - [Assessing state of your DevOps Adoption - Use of a Quality Blueprint (QBP) Approach](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)

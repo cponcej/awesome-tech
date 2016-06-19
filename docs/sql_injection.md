@@ -20,6 +20,7 @@
 - [Qatar National Bank leak: Security experts hint 'SQL injection' used in database hack](http://www.ibtimes.co.uk/qatar-national-bank-leak-security-experts-hint-sql-injection-used-database-hack-1557069)
 - [sysadmincasts.com: Anatomy of a SQL Injection Attack leading to Code Execution 🌟🌟🌟](https://sysadmincasts.com/episodes/21-anatomy-of-a-sql-injection-attack-leading-to-code-execution)
 - [DZone: Why SQL Injection Vulnerabilities Still Exist 🌟🌟🌟](https://dzone.com/articles/why-sql-injection-vulnerabilities-still-existy) Here are 12 reasons DBAs and their teams still haven't gotten rid of this seemingly ever-present problem.
+- [Use SQLMAP SQL Injection to hack a website and database in Kali Linux 🌟🌟](https://www.darkmoreops.com/2014/08/28/use-sqlmap-sql-injection-hack-website-database/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">It&#39;s 2016. Banks are being hacked with SQL injection, and we&#39;re debating whether encryption should be legal. I hate the future.</p>&mdash; Matthew Green (@matthew_d_green) <a href="https://twitter.com/matthew_d_green/status/725304950084001792">27 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
