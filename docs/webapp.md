@@ -18,6 +18,7 @@
 		- [Oracle Blogs: Middleware and Java](#oracle-blogs-middleware-and-java)
 		- [WebLogic Resources](#weblogic-resources)
 			- [WebLogic and Docker](#weblogic-and-docker)
+	- [WebSphere](#websphere)
 	- [JVM Latency: Caching, Off Heap, Data Grid](#jvm-latency-caching-off-heap-data-grid)
 		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
 	- [E-Mail](#e-mail)
@@ -176,6 +177,13 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">JDK 8 and WebLogic 12.2.1 by Frank Munz <a href="https://t.co/rByhPDsB7v">https://t.co/rByhPDsB7v</a></p>&mdash; WebLogic Community (@wlscommunity) <a href="https://twitter.com/wlscommunity/status/696229275150602240">febrero 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## WebSphere
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COnHzzVxCpw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## JVM Latency: Caching, Off Heap, Data Grid
 - [dzone.com - Refcard: Java Caching. JCache and other caching APIs, as well as multiple strategies for implementing temporary data storage in your application](http://bit.ly/1RbGgms)
