@@ -144,7 +144,7 @@
 - [tutorialepractico.com: Google presenta ocho cursos gratuitos y certificados que no debes perderte](http://www.tutorialepractico.com/2016/02/google-presenta-ocho-cursos-gratuitos-y.html)
 - [codek.tv 🌟🌟](https://codek.tv/)
     - [twitter.com/codek_tv](https://twitter.com/codek_tv)
-- [codely.TV 🌟🌟](http://codely.tv/) Vídeos cada jueves. Objetivos: Transmitir conocimiento mediante screencasts de programación y dar a conocer el mundo de la informática vía entrevistas.
+- [codely.TV 🌟](http://codely.tv/) Vídeos cada jueves. Objetivos: Transmitir conocimiento mediante screencasts de programación y dar a conocer el mundo de la informática vía entrevistas.
 	- [twitter.com/CodelyTV](https://twitter.com/CodelyTV)
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
