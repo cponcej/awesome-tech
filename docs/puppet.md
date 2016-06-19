@@ -10,6 +10,10 @@
 </div>
 <br/>
 
+[![learning_puppet_udemy](images/learning_puppet_udemy.png)](https://www.udemy.com/learning-puppet/)
+
+[![build_puppet_udemy](images/build_puppet_udemy.png)](https://www.udemy.com/manageable-puppet-infrastructure/)
+
 # Puppet
 - [The Puppet Labs Issue Tracker](https://tickets.puppetlabs.com)
 - [Google Groups puppet-bugs](https://groups.google.com/forum/#!forum/puppet-bugs)
@@ -145,5 +149,40 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/euCWWTXoMSsAmE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/EderRoger/provisioning-environments-a-simply" title="Provisioning environments. A simplistic approach" target="_blank">Provisioning environments. A simplistic approach</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/EderRoger">Eder Roger Souza</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pnn7fqBKI4E?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/73xeSTz8AeA?list=PLtNErhYMkHnEu1_ZHSJt1xF--zU35dRgZ" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cA33Q3ms5mE?list=PLijGikwhOQLZGRmpd0f62EbyzEDuTk19h" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8wTiFUZDVfo?list=PLGDnJdf0olLWWbzEWmT3rNwRyUp13NPLi" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/76qeLNMHgF4?list=PLKqyiDdtB8i4pkMgufRXQ1XVte2ezDSNO" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V3P35N_HXNQ?list=PLV86BgbREluUDlJW_jAqnWPj0THx7eXBA" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FsURElxHGpg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>

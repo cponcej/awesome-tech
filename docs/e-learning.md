@@ -43,6 +43,7 @@
 	- [Learn To Run Linux Servers From Scratch (LPI Level 1-101)](https://www.udemy.com/draft/19966/)
 	- [Learn To Run Linux Servers Part 2 (LPI Level 1-102)](https://www.udemy.com/linuxacademy2/)
 - [Learning Puppet](https://www.udemy.com/learning-puppet/)
+    - [Build your own Manageable Puppet Infrastructure](https://www.udemy.com/manageable-puppet-infrastructure/)
 - [Mastering Ansible - November 2015](https://www.udemy.com/mastering-ansible/?couponCode=REDDIT15)
 - [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete)
 	- [Command Line Essentials: Git Bash for Windows (free)](https://www.udemy.com/git-bash/)
