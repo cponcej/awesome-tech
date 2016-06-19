@@ -113,6 +113,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Cuáles son las universidades más valoradas por las empresas? <a href="https://twitter.com/elmundoes">@elmundoes</a> <a href="https://t.co/H627FC2439">https://t.co/H627FC2439</a> <a href="https://t.co/vmdTgYxo4o">pic.twitter.com/vmdTgYxo4o</a></p>&mdash; Santiago Satué (@satueabogado) <a href="https://twitter.com/satueabogado/status/742807082471182344">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![sistema_universitari_catalunya](images/sistema_universitari_catalunya.png)](http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/293683/ca/sistema-universitari-catalunya-encapcala-lactivitat-recerca-lestat-espanyol.do)
+
 [![voltaire education](images/voltaire_education.jpg)](http://statusmind.com/)
 
 ## Free e-learning
