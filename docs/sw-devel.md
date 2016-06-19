@@ -66,6 +66,8 @@
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
 
+[![codelytv](images/codelytv.png)](http://codely.tv/)
+
 # Software Development
 - [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)
