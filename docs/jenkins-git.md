@@ -5,6 +5,7 @@
         - [Jenkins on Twitter](#jenkins-on-twitter)
         - [Jenkins slides](#jenkins-slides)
         - [softwarefactory-project.io](#softwarefactory-projectio)
+    - [Bamboo CI](#bamboo-ci)
     - [Travis CI](#travis-ci)
         - [Travis on Twitter](#travis-on-twitter)
     - [CI Docker](#ci-docker)
@@ -119,6 +120,54 @@
 [![software factory heading](images/software_factory_heading.png)](http://softwarefactory-project.io)
 
 [![software factory testing](images/software_factory_testing.png)](http://softwarefactory-project.io/docs/testing.html)
+
+## Bamboo CI
+- [Bamboo software](https://en.wikipedia.org/wiki/Bamboo_(software))
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GzVqBVYz7y09BQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/svenpeters/bamboo-an-introduction" title="Bamboo - an introduction" target="_blank">Bamboo - an introduction</a> </strong> from <strong><a href="//www.slideshare.net/svenpeters" target="_blank">Sven Peters</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/jWLN9PFRVRlMYM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/svenpeters/rise-of-the-machines-automate-your-development-54456075" title="Rise of the Machines - Automate your Development" target="_blank">Rise of the Machines - Automate your Development</a> </strong> from <strong><a href="//www.slideshare.net/svenpeters" target="_blank">Sven Peters</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/7LkgYtlZUdIeEY" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GoAtlassian/game-of-codes-the-battle-for-ci" title="Game of Codes: the Battle for CI" target="_blank">Game of Codes: the Battle for CI</a> </strong> from <strong><a href="//www.slideshare.net/GoAtlassian" target="_blank">Atlassian</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FUKMSHsdypwxVQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tarkasteve/dockercon2015-bamboo" title="Dockercon2015 bamboo" target="_blank">Dockercon2015 bamboo</a> </strong> from <strong><a href="//www.slideshare.net/tarkasteve" target="_blank">Steve Smith</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/fZkfhN1_YgE&list=PLaD4FvsFdarQp-qHSr3EqWz1WLFa-HUeD" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/2IRTnbzk0RQ&list=PLeRMecwNHoG53wdm765MrX1_tO3lqpXtt" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/2IRTnbzk0RQ" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/OMLh-5O6Ub8&list=PLK45JhIJ1oEUNrrXY2h_iXASGbCziO-82" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/524WEU3PvRU" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## Travis CI
 - [Travis CI](https://travis-ci.org/)

@@ -63,8 +63,12 @@
 
 [![google_new_website_testing_tool](images/google_new_website_testing_tool.png)](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The role of QA in a DevOps world <a href="https://t.co/tO1L7TBkOW">https://t.co/tO1L7TBkOW</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/O2AJH6tvpl">pic.twitter.com/O2AJH6tvpl</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/742094300863811584">12 de junio de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The role of QA in a DevOps world <a href="https://t.co/tO1L7TBkOW">https://t.co/tO1L7TBkOW</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/O2AJH6tvpl">pic.twitter.com/O2AJH6tvpl</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/742094300863811584">12 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9rLrHAs1OMNd0L" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sourcesense/atlassian-roadshow-2016-devops-session" title="Atlassian Roadshow 2016 - DevOps Session" target="_blank">Atlassian Roadshow 2016 - DevOps Session</a> </strong> from <strong><a href="//www.slideshare.net/sourcesense" target="_blank">Sourcesense</a></strong> </div>
+</div>
+<br/>
 
 # QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
