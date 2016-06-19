@@ -38,6 +38,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/VDC?src=hash">#VDC</a>: Flexibilidad para que las infraestructuras se adapten a tu negocio... y no al revés <a href="https://t.co/BMfJ6TNbgD">https://t.co/BMfJ6TNbgD</a> <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a></p>&mdash; A un clic de las TIC (@AunCLICdelasTIC) <a href="https://twitter.com/AunCLICdelasTIC/status/743141248626794496">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![DeutscheBank_cloud_adoption](images/DeutscheBank_cloud_adoption.png)](http://www.networkworld.com/article/3083421/microsoft-subnet/deutsche-bank-nearly-a-third-of-finance-workloads-could-hit-cloud-in-3-years.html)
+
 # Data Centers
 - [datacentermap.com 🌟](http://www.datacentermap.com)
 	- [datacentermap.com/spain](http://www.datacentermap.com/spain/)
