@@ -145,12 +145,12 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZkfhN1_YgE&list=PLaD4FvsFdarQp-qHSr3EqWz1WLFa-HUeD" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZkfhN1_YgE?list=PLaD4FvsFdarQp-qHSr3EqWz1WLFa-HUeD" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2IRTnbzk0RQ&list=PLeRMecwNHoG53wdm765MrX1_tO3lqpXtt" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2IRTnbzk0RQ?list=PLeRMecwNHoG53wdm765MrX1_tO3lqpXtt" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -160,7 +160,7 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OMLh-5O6Ub8&list=PLK45JhIJ1oEUNrrXY2h_iXASGbCziO-82" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMLh-5O6Ub8?list=PLK45JhIJ1oEUNrrXY2h_iXASGbCziO-82" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
@@ -174,7 +174,7 @@
 - [bencane.com: Using Travis CI to test Docker builds](http://bencane.com/2016/01/11/using-travis-ci-to-test-docker-builds/)
 
 <div class="container">
-<iframe src="https://player.vimeo.com/video/" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<iframe src="https://player.vimeo.com/video/58713038" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
