@@ -4,6 +4,7 @@
 	- [Web Performance Testing. Traffic injectors](#web-performance-testing-traffic-injectors)
 		- [JMeter](#jmeter)
 		- [Webpagetest](#webpagetest)
+		- [Performance tools in Firefox](#performance-tools-in-firefox)
 		- [Google New website Testing tool for Small Businesses](#google-new-website-testing-tool-for-small-businesses)
 		- [Alternatives](#alternatives)
 	- [Metric monitoring](#metric-monitoring)
@@ -74,6 +75,8 @@
 <br/>
 
 [![Using WebPage test](images/Using-WebPagetest.png)](http://www.wowebook.org/using-webpagetest.html)
+
+### Performance tools in Firefox
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBmttwfA_k8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

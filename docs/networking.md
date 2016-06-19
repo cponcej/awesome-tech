@@ -35,6 +35,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Average internet speed, 2015 (megabytes per second)<br><br>Korea: 20.3<br>Sweden: 17<br>Norway: 16.4<br>Japan: 15<br>UK: 13<br>US: 12 <a href="https://t.co/kc9pWmrGJC">pic.twitter.com/kc9pWmrGJC</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/711960597886164994">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CXVINBruzhY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # Networking
 ## Next Generation Firewalls (NGFW)
 - [Next Generation Firewalls (NGFW)](NGFW.md)
