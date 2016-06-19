@@ -184,6 +184,9 @@
 - [Why Support of PostgreSQL 9.5 by Amazon RDS is Such Great News](http://blog.rubyroidlabs.com/2016/04/postgresql-9-5/)
 - [AWS Tutorials: Create and Connect to a MySQL Database with Amazon RDS 🌟🌟](https://aws.amazon.com/getting-started/tutorials/create-mysql-db/)
 - [Migrating from MySQL (RDS) to Aurora with no downtime 🌟🌟](http://cantrill.io/howto/aws/2016/06/06/migrating-from-mysql-to-aurora-with-almost-no-downtime.html)
+- [Replicating Amazon Aurora DB Clusters Across AWS Regions 🌟🌟🌟](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Replication.CrossRegion.html)
+
+[![Replicating_AuroraDB_Clusters_Across_AWS_Regions](images/Replicating_AuroraDB_Clusters_Across_AWS_Regions.png)](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Replication.CrossRegion.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">WHOA: <a href="https://twitter.com/awscloud">@awscloud</a> RDS <a href="https://twitter.com/hashtag/SQLServer?src=hash">#SQLServer</a> now supports AD accounts (Microsoft&#39;s Azure doesn&#39;t even have this yet :D) <a href="https://t.co/HMr2LdtQqZ">https://t.co/HMr2LdtQqZ</a> <a href="https://twitter.com/hashtag/ITNerdery?src=hash">#ITNerdery</a></p>&mdash; Ray Terrill (@Rayterrill) <a href="https://twitter.com/Rayterrill/status/713487240228442113">25 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
