@@ -3,6 +3,7 @@
 - [Security Toolkits and Policies. Penetration Testing](#security-toolkits-and-policies-penetration-testing)
     - [Kali Linux](#kali-linux)
     - [BackBox Linux](#backbox-linux)
+    - [OWASP Zed Attack Proxy Project](#owasp-zed-attack-proxy-project)
 
 <!-- /MarkdownTOC -->
 
@@ -19,6 +20,7 @@
 - [gophish Open-Source Phishing Framework: #PenTest #Infosec #security](https://getgophish.com)
 - [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment.
 - [foxglovesecurity.com: Building a Wireless Pentest Environment using Docker](http://foxglovesecurity.com/2016/02/24/when-whales-fly-building-a-wireless-pentest-environment-using-docker/)
+- [Here are the top hacking tools for 2016 used by hackers and pentesters 🌟🌟](http://hackzzon.blogspot.com.es/2016/02/top-hacking-tools-for-2016-for-hackers.html)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/r2FJWflQkniIRU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jeromeathias/cve-web-applicationpenetrationtesting" title="Leveraging CVE for Web Application Penetration Testing" target="_blank">Leveraging CVE for Web Application Penetration Testing</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/jeromeathias">Jerome Athias</a></strong> </div>
@@ -73,5 +75,13 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CQalVZ-JUlw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+### OWASP Zed Attack Proxy Project 
+- [OWASP Zed Attack Proxy Project 🌟](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyhaA3DJ5oM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>

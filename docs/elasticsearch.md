@@ -27,6 +27,7 @@
 - [adictosaltrabajo.com: Introducción a Kibana](http://www.adictosaltrabajo.com/tutoriales/introduccion-a-kibana/)
 - [How to deploy Elasticsearch with Docker in 10 steps 🌟](How to deploy Elasticsearch with Docker in 10 steps)
 - [How to Install Elastic Stack (ELK) on Red Hat Enterprise Linux (RHEL)](http://developers.redhat.com/blog/2016/06/07/how-to-install-elastic-stack-elk-on-red-hat-enterprise-linux-rhel/)
+- [Writing Python Scripts that Interact with Elasticsearch Plus Useful Examples 🌟](https://qbox.io/blog/python-scripts-interact-elasticsearch-examples)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Install Elastic Stack (ELK) on Red Hat Enterprise Linux (RHEL) <a href="https://t.co/DQIlKwpVUn">https://t.co/DQIlKwpVUn</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/740151621145894912">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
