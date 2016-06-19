@@ -49,6 +49,9 @@
 
 [![devops_radio](images/devops_radio.png)](https://www.cloudbees.com/resources/devops-radio)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Best way to get foot in the door of devops (currently system admin) : devops <a href="https://t.co/2K1dYh93cb">https://t.co/2K1dYh93cb</a> via <a href="https://twitter.com/CodeIgnition">@CodeIgnition</a></p>&mdash; Devops Top News (@DevopsTopNews) <a href="https://twitter.com/DevopsTopNews/status/744473901455990784">19 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![learn_devops_udemy](images/learn_devops_udemy.png)](https://www.udemy.com/learn-devops-continuously-deliver-better-software/)
 
 # DevOps
