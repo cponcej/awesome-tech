@@ -149,6 +149,8 @@
 
 [![entrepreneurs_stop_micromanaging](images/entrepreneurs_stop_micromanaging.png)](https://www.entrepreneur.com/article/274517)
 
+[![startups_do_donts](images/startups_do_donts.png)](https://www.linkedin.com/pulse/startups-dos-donts-first-3-years-pradeep-agarwal)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rUaj7rj6MI8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
