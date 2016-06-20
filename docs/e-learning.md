@@ -27,6 +27,8 @@
 
 [![knowmads-infografia-acens-blog-cloud](images/knowmads-infografia-acens-blog-cloud.jpg)](http://www.acens.com/blog/wp-content/images/knowmads-infografia-acens-blog-cloud.jpg)
 
+[![knowmads_manual_supervivencia](images/knowmads_manual_supervivencia.png)](http://ethic.es/2016/06/knowmads-manual-de-supervivencia-en-la-era-digital/)
+
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
 - [Six Certification Exam Mistakes to Avoid](http://www.globalknowledge.com/training/generic.asp?pageid=3833)
