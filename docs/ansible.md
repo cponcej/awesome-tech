@@ -34,8 +34,6 @@
 
 [![ansible_offers_automated_container_creation](images/ansible_offers_automated_container_creation.png)](https://www.redhat.com/en/about/press-releases/red-hat-launches-ansible-native-container-workflow-project)
 
-[![ansible_container](images/ansible_container.png)](https://github.com/ansible/ansible-container)
-
 # Ansible
 - [docs.ansible.com 🌟🌟🌟🌟](http://docs.ansible.com)
 - [releases.ansible.com](http://releases.ansible.com)
@@ -96,6 +94,8 @@
 
 ## Ansible Container
 - [Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks 🌟🌟](https://github.com/ansible/ansible-container)
+
+[![ansible_container](images/ansible_container.png)](https://github.com/ansible/ansible-container)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Yeah! No more hard coded shell scripts into Dockerfiles. <a href="https://twitter.com/ansible">@ansible</a> to the rescue: <a href="https://t.co/YaBFHjLP8J">https://t.co/YaBFHjLP8J</a></p>&mdash; Ghe Rivero (@GheRivero) <a href="https://twitter.com/GheRivero/status/739847713190227968">6 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
