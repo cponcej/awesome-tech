@@ -12,6 +12,7 @@
 	- [Network Performance](#network-performance)
 		- [Network Performance Monitoring](#network-performance-monitoring)
 	- [VoIP](#voip)
+		- [Asterisk](#asterisk)
 	- [MPLS Multi Protocol Label Switching \(IP VPN\)](#mpls-multi-protocol-label-switching-ip-vpn)
 	- [WiFi security](#wifi-security)
 	- [WiFi Products](#wifi-products)
@@ -173,6 +174,27 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Xp1qr1NOFx">pic.twitter.com/Xp1qr1NOFx</a></p>&mdash; Boing Boing (@BoingBoing) <a href="https://twitter.com/BoingBoing/status/726557954883768320">30 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="reddit-card" data-card-created="1464421957"><a href="https://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/?ref=share&ref_source=embed">Hosted PBX Suggestions.</a> from <a href="http://www.reddit.com/r/sysadmin">sysadmin</a></blockquote><script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
+
+### Asterisk
+- [Asterisk.org](http://www.asterisk.org/)
+- [Asterisk PBX wikipedia](https://en.wikipedia.org/wiki/Asterisk_(PBX))
+- [reddit.com/r/Asterisk](https://www.reddit.com/r/Asterisk/)
+- [Asterisk admin guide](https://wiki.asterisk.org/wiki/display/AST/Asterisk+Exported+Documentation)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fQJk4WddNmE05T" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmirHajihasani/what-is-asterisk-62524965" title="What is Asterisk?" target="_blank">What is Asterisk?</a> </strong> from <strong><a href="//www.slideshare.net/AmirHajihasani" target="_blank">Amir Hajihasani</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JTcpi44A1PS92b" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MoisesSilva6/implementation-lessons-using-webrtc" title="Implementation Lessons using WebRTC in Asterisk" target="_blank">Implementation Lessons using WebRTC in Asterisk</a> </strong> from <strong><a href="//www.slideshare.net/MoisesSilva6" target="_blank">Moises Silva</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dW8piVlTlcM4j6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/enjayworld/sugarcrm-asterisk-integration-by-enjay" title="Sugar CRM asterisk integration by enjay " target="_blank">Sugar CRM asterisk integration by enjay </a> </strong> from <strong><a href="//www.slideshare.net/enjayworld" target="_blank">Limesh Parekh</a></strong> </div>
+</div>
+<br/>
 
 ## MPLS Multi Protocol Label Switching (IP VPN)
 - [tech-faq.com: MPLS](http://www.tech-faq.com/mpls.html)
