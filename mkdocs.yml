@@ -56,7 +56,7 @@ pages:
 - DevOps and ITIL: devops-itil.md
 - Metrics. JMeter, Zabbix, APM: metrics.md
 - Elasticsearch: elasticsearch.md
-- Continuous Integration Tools. Jenkins, Bamboo, Git: jenkins-git.md
+- Continuous Integration Tools. Jenkins, Nexus, Bamboo, Git: jenkins-git.md
 - Configuration Management and Orchestration. Microservices: config-mgmt.md
 - Ansible: ansible.md
 - Puppet: puppet.md
