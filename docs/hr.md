@@ -98,6 +98,7 @@
 - [5 Employment Laws All Small Businesses Should Know](http://www.mjms.net/blog/5-employment-laws-all-small-businesses-should-know/)
 - [Lazy Leadership: Why I rarely go to the office, only see my team a couple times a week, and let other people make important decisions](https://www.linkedin.com/pulse/lazy-leadership-why-i-rarely-go-office-only-see-my-team-wilkinson)
 - [I once caught someone lying on their résumé — here's why you should never fib to an employer](http://www.businessinsider.com/why-you-shouldnt-lie-on-your-resume)
+- [The 8 Delegation Myths Of The Office 🌟](http://www.careerealism.com/the-8-myths-of-delegation/)
 
 [![a_cure_for_bad_boss_problem](images/a_cure_for_bad_boss_problem.png)](http://www.forbes.com/sites/lizryan/2016/06/17/is-there-a-cure-for-my-bad-boss-problem/)
 
