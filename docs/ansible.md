@@ -32,6 +32,8 @@
 
 [![ansible_semaphore](images/ansible_semaphore.png)](https://github.com/ansible-semaphore/semaphore)
 
+[![ansible_offers_automated_container_creation](images/ansible_offers_automated_container_creation.png)](https://www.redhat.com/en/about/press-releases/red-hat-launches-ansible-native-container-workflow-project)
+
 # Ansible
 - [docs.ansible.com 🌟🌟🌟🌟](http://docs.ansible.com)
 - [releases.ansible.com](http://releases.ansible.com)
