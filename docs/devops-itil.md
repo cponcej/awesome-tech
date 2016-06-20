@@ -296,6 +296,8 @@
 
 [![dzone_refcard_scrum](images/dzone_refcard_scrum.png)](https://dzone.com/refcardz/scrum)
 
+[![dilbert_dont_have_enough_time](images/dilbert_dont_have_enough_time.gif)](http://dilbert.com/strip/2009-08-12)
+
 ### Javier Garzas 
 - [slideshare: 233 grados de TI 🌟🌟🌟](http://www.slideshare.net/233gradosdeTI)
 - [Javier Garzás: Agilidad 🌟🌟🌟🌟🌟](https://www.youtube.com/watch?v=oShXAC26rcs)
@@ -329,6 +331,8 @@
 
 ### Project Management
 - [cio.com: Why less is more with project management](http://www.cio.com/article/3031636/leadership-management/why-less-is-more-with-project-management.html)
+
+[![get_done_by_friday](images/get_done_by_friday.gif)](http://dilbert.com/strip/2016-05-18)
 
 #### Product Owner
 - [medium.com: Product Owner Responsibilities in Agile (Scrum Methodologies) 🌟🌟](https://medium.com/agile-project-management-scrum-lean-kanban/product-owner-responsibilities-in-agile-scrum-methodologies-dc7aeeb5ff71)

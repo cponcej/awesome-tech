@@ -9,6 +9,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las empresas no contratan conocimiento: contratan personalidades by <a href="https://twitter.com/ZumoDeEmpleo">@ZumoDeEmpleo</a> <a href="https://t.co/OWWmzu9zpW">https://t.co/OWWmzu9zpW</a> <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> <a href="https://t.co/TDFjWDyVT9">pic.twitter.com/TDFjWDyVT9</a></p>&mdash; Nilton Navarro (@NiltonNavarro) <a href="https://twitter.com/NiltonNavarro/status/712675612142526464">23 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![dilbert_resigns_higher_salary](images/dilbert_resigns_higher_salary.gif)](http://dilbert.com/strip/1996-04-23)
+
 # Recursos Humanos
 ## RRHH Blogs
 - [elblogderrhh.com](http://www.elblogderrhh.com/)
@@ -25,6 +27,8 @@
 - [¿Qué es un job hopper y por qué es tan valorado por las empresas? 🌟🌟](http://blog.infoempleo.com/a/que-es-un-job-hopper-y-por-que-es-tan-valorado-por-las-empresas/)
 - [blog.binternational.net: Los españoles apuestan por la movilidad internacional 🌟](http://blog.binternational.net/los-espanoles-apuestan-por-la-movilidad-internacional/)
 
+[![dilbert_came_back_as_contractor](images/dilbert_came_back_as_contractor.gif)](http://dilbert.com/strip/1996-08-15)
+
 [![laboro](images/laboro.png)](http://laboro-spain.blogspot.com.es/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El enchufe como síntoma de un país estancado  <a href="https://t.co/mFIweLJLX9">https://t.co/mFIweLJLX9</a> Blog de <a href="https://twitter.com/jotaicabrera">@jotaicabrera</a> <a href="https://t.co/fRjzg0WPCr">pic.twitter.com/fRjzg0WPCr</a></p>&mdash; El Huffington Post (@ElHuffPost) <a href="https://twitter.com/ElHuffPost/status/704276216514269184">29 de febrero de 2016</a></blockquote>
@@ -39,6 +43,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Debemos recordar que las referencias laborales se consiguen dejando un legado <a href="https://twitter.com/hashtag/PwC?src=hash">#PwC</a> <a href="https://t.co/hZMuoqt5gm">pic.twitter.com/hZMuoqt5gm</a></p>&mdash; PwC Ecuador (@Pwc_Ecuador) <a href="https://twitter.com/Pwc_Ecuador/status/712721107321757696">23 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![expansion_buscar_empleo_contactos](images/expansion_buscar_empleo_contactos.png)](http://www.expansion.com/emprendedores-empleo/empleo/2016/06/13/575eeb26468aeb1a568b4570.html)
+
+[![dilbert_raise_ceo](images/dilbert_raise_ceo.gif)](http://dilbert.com/strip/2015-03-15)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">5 recomendaciones para mejorar la selección de personal en las <a href="https://twitter.com/hashtag/pymes?src=hash">#pymes</a> ➡ <a href="https://t.co/GrBuh2140F">https://t.co/GrBuh2140F</a> <a href="https://twitter.com/hashtag/rrhh?src=hash">#rrhh</a> <a href="https://t.co/NZ10KH0bEX">pic.twitter.com/NZ10KH0bEX</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/709771540083171329">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -57,6 +63,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Claves sobre el periodo de prueba en los <a href="https://twitter.com/hashtag/contratos?src=hash">#contratos</a> de <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> <a href="https://t.co/LD2lkEml3Q">https://t.co/LD2lkEml3Q</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/741623737196253186">11 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![dilbert_intern_salary](images/dilbert_intern_salary.gif)](http://dilbert.com/strip/1996-08-22)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jLfmBSJkFxo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -87,6 +95,8 @@
 [![como_encuentran_trabajo_espanoles](images/como_encuentran_trabajo_espanoles.jpg)](http://www.expansion.com/emprendedores-empleo/empleo/2016/06/13/575eeb26468aeb1a568b4570.html)
 
 [![motivos-trabajar-en-el-extranjero](images/motivos-trabajar-en-el-extranjero.png)](http://blog.binternational.net/los-espanoles-apuestan-por-la-movilidad-internacional/)
+
+[![dilbert_salary_depends_on_boss](images/dilbert_salary_depends_on_boss.gif)](http://dilbert.com/strip/1996-07-12)
 
 ## Articulos
 - [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)

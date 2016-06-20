@@ -40,6 +40,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This has come up a few times this week: &quot;What would you say... you do here?&quot; The Bobs from Office Space <a href="https://t.co/sQwQpMXXhu">https://t.co/sQwQpMXXhu</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Joshua Cypess (@JoshuaCypess) <a href="https://twitter.com/JoshuaCypess/status/679800703032889344">23 de diciembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![dilbert_mental_connection_performance_salary](images/dilbert_mental_connection_performance_salary.gif)](http://dilbert.com/strip/1994-11-23)
+
 # Human Resources 
 ## HR Blogs
 - [careerealism.com](http://www.careerealism.com/)
@@ -149,6 +151,8 @@
 
 [![hard_work_wont_make_you_successful](images/hard_work_wont_make_you_successful.png)](http://www.forbes.com/sites/lizryan/2016/06/03/hard-work-wont-make-you-successful-but-doing-this-will/)
 
+[![dilbert_salary_depends_team_success](images/dilbert_salary_depends_team_success.gif)](http://dilbert.com/strip/1994-11-28)
+
 ## Work environment issues
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
 - [businessinsider.com: 19 signs your coworkers secretly hate you](http://www.businessinsider.com/signs-your-colleagues-secretly-hate-you-2016-1)
@@ -236,6 +240,8 @@
 
 [![bi_7situations_acceptable_lie](images/bi_7situations_acceptable_lie.png)](http://www.businessinsider.com/when-its-okay-to-lie-to-your-boss-and-coworkers-2016-3)
 
+[![dilbert_demanding_new_wage](images/dilbert_demanding_new_wage.gif)](http://dilbert.com/strip/1990-03-11)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Open-Plan Office Paradox<br> <a href="https://t.co/v2M4BY7kda">https://t.co/v2M4BY7kda</a> <a href="https://t.co/p9mAF1o1JT">pic.twitter.com/p9mAF1o1JT</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/717403109769756677">5 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -271,6 +277,10 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/RedHatNews">@RedHatNews</a> CEO on why office gossip is crucial for success <a href="https://t.co/beI9rHcObc">https://t.co/beI9rHcObc</a> <a href="https://t.co/HOFHdhvUaT">pic.twitter.com/HOFHdhvUaT</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/742787318977835008">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![dilbert_internal_competitors](images/dilbert_internal_competitors.gif)](http://dilbert.com/strip/1995-10-09)
+
+[![dilbert_wally_compensation_project](images/dilbert_wally_compensation_project.gif)](http://dilbert.com/strip/1996-05-06)
 
 ## Game theory
 
@@ -474,4 +484,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ktlTxC4QG8g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![dilbert_salary_opinion_work](images/dilbert_salary_opinion_work.gif)](http://dilbert.com/strip/1995-05-23)
 
