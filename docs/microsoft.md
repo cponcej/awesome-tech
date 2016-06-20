@@ -39,6 +39,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Microsoft to acquire LinkedIn for $26.2 billion :O <a href="https://t.co/jXs2D0uuwq">https://t.co/jXs2D0uuwq</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/742343727788609536">13 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">.<a href="https://twitter.com/Telefonica">@Telefonica</a> impulsa su <a href="https://twitter.com/hashtag/TransformacionDigital?src=hash">#TransformacionDigital</a> con la ayuda de <a href="https://twitter.com/MicrosoftES">@MicrosoftES</a> <a href="https://t.co/MEjVloyHz6">https://t.co/MEjVloyHz6</a></p>&mdash; IT User (ITDM) (@ITUser_es) <a href="https://twitter.com/ITUser_es/status/744786913819656192">20 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## SSH client for Windows
 - [SSH for Windows open sourced by Microsoft. What's going on? 🌟](https://github.com/PowerShell/Win32-OpenSSH)
 - [MobaXterm](http://mobaxterm.mobatek.net/)
