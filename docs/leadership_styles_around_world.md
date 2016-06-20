@@ -42,6 +42,8 @@
 </div>
 <br/>
 
+[![dilbert_documenting_bullying_behavior](images/dilbert_documenting_bullying_behavior.png)](http://dilbert.com/strip/2011-07-02)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g1r5vBJnJAE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -121,6 +123,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gWVn2PRJIZc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![dilbert_entrepreneur_or_jerk](images/dilbert_entrepreneur_or_jerk.gif)](http://dilbert.com/strip/2012-08-19)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top-down leadership is declining, and not just in creative industries like software: <a href="https://t.co/jIMAjTolry">https://t.co/jIMAjTolry</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/714236056217001984">27 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

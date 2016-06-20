@@ -18,6 +18,8 @@
 - [RRHH Press - Actualidad y noticias sobre recursos humanos, RRHH, laboral y empleo](http://www.rrhhpress.com)
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
 
+[![dilbert_do_you_have_vacations](images/dilbert_do_you_have_vacations.png)](http://dilbert.com/strip/2016-06-17)
+
 ## Orientacion laboral
 - [orientacion-laboral.infojobs.net](https://orientacion-laboral.infojobs.net)
     - [Webinar | Cómo enamorar a tu seleccionador](https://orientacion-laboral.infojobs.net/webinar-como-enamorar-al-seleccionador)

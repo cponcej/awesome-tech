@@ -365,6 +365,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New grads: Your first job out of college probably won&#39;t matter <a href="https://t.co/M0jmE8h2Uh">https://t.co/M0jmE8h2Uh</a> <a href="https://t.co/YGncD3CS5P">pic.twitter.com/YGncD3CS5P</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/736263452101087233">27 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![dilbert_company_policy_vacation](images/dilbert_company_policy_vacation.png)](http://dilbert.com/strip/2016-06-18)
+
 ### Job Description
 - [4 Benefits of Accurate Job Descriptions for Small Businesses](http://www.mjms.net/blog/4-benefits-of-accurate-job-descriptions-for-small-businesses/)
 - [On Being A Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
