@@ -98,6 +98,8 @@
 
 [![motivos-trabajar-en-el-extranjero](images/motivos-trabajar-en-el-extranjero.png)](http://blog.binternational.net/los-espanoles-apuestan-por-la-movilidad-internacional/)
 
+[![estrategias_pedir_vacaciones](images/estrategias_pedir_vacaciones.png)](http://hbr.es/conciliaci%C3%B3n/72/%C2%BFvacaciones-cuando-uno-quiera-avise-su-jefa-con-tiempo)
+
 [![dilbert_salary_depends_on_boss](images/dilbert_salary_depends_on_boss.gif)](http://dilbert.com/strip/1996-07-12)
 
 ## Articulos
