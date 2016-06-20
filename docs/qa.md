@@ -125,6 +125,8 @@
 - [Testing & QA Management blog by PractiTest](http://qablog.practitest.com/)
     - [International 2016 State of Testing. What it means to be a tester worldwide 🌟🌟](http://qablog.practitest.com/state-of-testing/)
 
+[![state_testing_report_formal_training](images/state_testing_report_formal_training.png)](http://qablog.practitest.com/state-of-testing/)
+
 ## Mapas Mentales para Software Testing
 - [TestingBaires Mapas Mentales para Software Testing](http://testingbaires.com/mapas-mentales/)
 
