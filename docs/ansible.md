@@ -34,6 +34,8 @@
 
 [![ansible_offers_automated_container_creation](images/ansible_offers_automated_container_creation.png)](https://www.redhat.com/en/about/press-releases/red-hat-launches-ansible-native-container-workflow-project)
 
+[![ansible_container](images/ansible_container.png)](https://github.com/ansible/ansible-container)
+
 # Ansible
 - [docs.ansible.com 🌟🌟🌟🌟](http://docs.ansible.com)
 - [releases.ansible.com](http://releases.ansible.com)
