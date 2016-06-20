@@ -450,6 +450,11 @@ ________________________________________________________________________________
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="fr" dir="ltr">On air ;-) <a href="https://t.co/E8430894wN">https://t.co/E8430894wN</a></p>&mdash; Marc Vidal (@marcvidal) <a href="https://twitter.com/marcvidal/status/723904827487621121">23 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLhkHcc7EKtBZO8HXDD50QKpCwXz9MC7V5" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 ______________________________________________________________________________________________________________________________________
 
 ## Business process improvement
