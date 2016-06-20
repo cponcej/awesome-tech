@@ -79,6 +79,8 @@
 - [5 Secrets To Staying Upbeat In A Job Search](http://www.careerealism.com/job-search-secrets-staying-upbeat/)
 - [How to Answer 'Why Should I Hire You?' 🌟](https://www.entrepreneur.com/article/277683)
 
+[![interview_why_looking_for_a_change](images/interview_why_looking_for_a_change.png)](https://www.linkedin.com/pulse/answering-why-you-looking-change-j-t-o-donnell)
+
 ![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
 
 [![walk_out_job_interview](images/walk_out_job_interview.png)](https://www.linkedin.com/pulse/i-wrong-walk-out-job-interview-liz-ryan)

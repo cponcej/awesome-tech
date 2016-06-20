@@ -158,6 +158,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Dramático final en las <a href="https://twitter.com/24hoursoflemans">@24hoursoflemans</a>. El Toyota del líder se paró a 4 minutos del final  <a href="https://t.co/ADCIQuYZMw">https://t.co/ADCIQuYZMw</a></p>&mdash; Pablo Muñoz Portillo (@pablom_portillo) <a href="https://twitter.com/pablom_portillo/status/744527269457178625">19 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="https://player.vimeo.com/video/161551058" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe><p><a href="https://vimeo.com/161551058">Persigue tu sue&ntilde;o, supera los obst&aacute;culos - Javier Gomez Noya</a> from <a href="https://vimeo.com/bridgestoneeurope">Bridgestone</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
