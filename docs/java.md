@@ -37,6 +37,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Java Annotations Are a Big Mistake <a href="https://t.co/8X4HNU0oyI">https://t.co/8X4HNU0oyI</a> via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> <a href="https://twitter.com/yegor256">@yegor256</a> <a href="https://twitter.com/hashtag/Java?src=hash">#Java</a> <a href="https://t.co/zFQU48tnAY">pic.twitter.com/zFQU48tnAY</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/735470667353706501">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">11 JPA and Hibernate query hints every developer should know<a href="https://t.co/IXq6npiU9j">https://t.co/IXq6npiU9j</a><br><br>E.g. to set eager/lazy loading at runtime.</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/744818166379884545">20 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Java Blogs
 - [Java Magazine by and for the Java community](http://oraclejavamagazine-digital.com)
 - [vladmihalcea.com](http://vladmihalcea.com) 
