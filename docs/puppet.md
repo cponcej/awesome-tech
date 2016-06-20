@@ -180,7 +180,7 @@
 <br/>
 
 <div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/FsURElxHGpg?rel=0" framebor<div class="container">der="0" allowfullscreen class="video"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FsURElxHGpg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
