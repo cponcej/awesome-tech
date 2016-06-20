@@ -5,7 +5,7 @@
         - [Jenkins on Twitter](#jenkins-on-twitter)
         - [Jenkins slides](#jenkins-slides)
         - [softwarefactory-project.io](#softwarefactory-projectio)
-    - [Sonatype Nexus Software Supply Chain Solutions](#sonatype-nexus-software-supply-chain-solutions)
+    - [Nexus Repository Manager. Sonatype Nexus Software Supply Chain Solutions](#nexus-repository-manager-sonatype-nexus-software-supply-chain-solutions)
     - [Bamboo CI](#bamboo-ci)
     - [Travis CI](#travis-ci)
         - [Travis on Twitter](#travis-on-twitter)
@@ -127,7 +127,7 @@
 
 [![software factory testing](images/software_factory_testing.png)](http://softwarefactory-project.io/docs/testing.html)
 
-## Sonatype Nexus Software Supply Chain Solutions
+## Nexus Repository Manager. Sonatype Nexus Software Supply Chain Solutions
 - TheNEXUS Community Project is a global community for users of Sonatype products, including Nexus Repository Manager (OSS and enterprise versions), Nexus Lifecycle, Nexus Auditor  and Nexus Firewall. You can view a comparison of all the products here.
 - [sonatype.org](http://www.sonatype.org)
 - [Nexus Repository Manager 🌟](http://www.sonatype.org/nexus/)
