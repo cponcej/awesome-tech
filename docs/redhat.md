@@ -80,6 +80,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Red Hat, 56 trimestres consecutivos de crecimiento <a href="https://t.co/AHZu1DnuWU">https://t.co/AHZu1DnuWU</a> <a href="https://t.co/nGNR1FIR0x">pic.twitter.com/nGNR1FIR0x</a></p>&mdash; DiarioTi (@diarioti) <a href="https://twitter.com/diarioti/status/715357089485430784">31 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1NYcXt1D_RY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
