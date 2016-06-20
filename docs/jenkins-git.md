@@ -112,6 +112,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GRD4AuB83j1FMc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TracyKennedy2/continuous-delivery-with-jenkins-and-wildfly-2014" title="Continuous Delivery with Jenkins and Wildfly (2014)" target="_blank">Continuous Delivery with Jenkins and Wildfly (2014)</a> </strong> from <strong><a href="//www.slideshare.net/TracyKennedy2" target="_blank">Tracy Kennedy</a></strong> </div>
+</div>
+<br/>
+
 ### softwarefactory-project.io
 - [softwarefactory-project.io](http://softwarefactory-project.io) 
     - [Introduction to Software Factory](http://softwarefactory-project.io/docs/intro.html)

@@ -440,6 +440,10 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vy55GV54z52Zds" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SonatypeCorp/nexus-and-continuous-delivery" title="DevOps and Continuous Delivery Reference Architectures (including Nexus and other popular tools)" target="_blank">DevOps and Continuous Delivery Reference Architectures (including Nexus and other popular tools)</a> </strong> from <strong><a href="//www.slideshare.net/SonatypeCorp" target="_blank">Sonatype </a></strong> </div>
+</div>
+<br/>
 
 #### Continuous Integration Tools
 - [Continuous Integration Tools](jenkins-git.md)
