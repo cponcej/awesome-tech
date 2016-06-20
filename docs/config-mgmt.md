@@ -66,6 +66,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">4 Challenges You Need to Address with Microservices Adoption <a href="https://t.co/n5jD5LD1Rv">https://t.co/n5jD5LD1Rv</a> <br><br>via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> <a href="https://twitter.com/sabaanees">@sabaanees</a> <a href="https://t.co/5GGNGlYicr">pic.twitter.com/5GGNGlYicr</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/743096304113471488">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Coder bingo<br> <a href="https://t.co/c4Sk4k8MZu">https://t.co/c4Sk4k8MZu</a> <a href="https://t.co/EkeKiyIBZI">pic.twitter.com/EkeKiyIBZI</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/744948598450823168">20 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Vagrant
 - [How Vagrant Eases the Software Research and Testing - The New Stack](http://thenewstack.io/vagrant-developers-researchers/)
 - [Improve your development environments with virtualization - Vagrant, Python ](http://pyvideo.org/video/3411/improve-your-development-environments-with-virtua)

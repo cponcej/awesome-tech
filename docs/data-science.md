@@ -61,6 +61,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Moving Streaming Analytics Out of the Data Center <a href="https://t.co/cUM2LB7y6s">https://t.co/cUM2LB7y6s</a> <br><br>via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> <a href="https://twitter.com/MarkLochbihler">@MarkLochbihler</a> <a href="https://t.co/gOwqMxcQxc">pic.twitter.com/gOwqMxcQxc</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/742084135343296512">12 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New Machine Learning Cheat Sheet by Emily Barry <a href="https://t.co/gHrB4ZHVuD">https://t.co/gHrB4ZHVuD</a> <a href="https://t.co/d35YArL4Ah">pic.twitter.com/d35YArL4Ah</a></p>&mdash; Machine Learning (@ML_toparticles) <a href="https://twitter.com/ML_toparticles/status/744946473440161793">20 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![nosql_real_time_analytics](images/nosql_real_time_analytics.png)](https://www.linkedin.com/pulse/nosql-real-time-analytics-what-you-need-know-jim-scott)
 
 ## SQL and Databases

@@ -95,6 +95,7 @@
 ## Ansible Container
 - [Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks 🌟🌟](https://github.com/ansible/ansible-container)
 - [ansible.com/ansible-container](https://www.ansible.com/ansible-container)
+- [5 Reasons We Started the Ansible Container Project 🌟🌟🌟](https://www.ansible.com/blog/ansible-container-project)
 
 [![ansible_container](images/ansible_container.jpg)](https://www.ansible.com/ansible-container)
 
