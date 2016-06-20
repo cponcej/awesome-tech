@@ -182,6 +182,8 @@
 - [reddit.com/r/Asterisk](https://www.reddit.com/r/Asterisk/)
 - [Asterisk admin guide](https://wiki.asterisk.org/wiki/display/AST/Asterisk+Exported+Documentation)
 - [How to manage your Asterisk PBX](http://www.voip-info.org/wiki/view/Asterisk+administration)
+- [wiki.asterisk.org](https://wiki.asterisk.org)
+- [asteriskguru.com](http://asteriskguru.com/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/fQJk4WddNmE05T" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmirHajihasani/what-is-asterisk-62524965" title="What is Asterisk?" target="_blank">What is Asterisk?</a> </strong> from <strong><a href="//www.slideshare.net/AmirHajihasani" target="_blank">Amir Hajihasani</a></strong> </div>
