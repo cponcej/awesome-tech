@@ -280,8 +280,6 @@
 
 [![dilbert_internal_competitors](images/dilbert_internal_competitors.gif)](http://dilbert.com/strip/1995-10-09)
 
-[![dilbert_wally_compensation_project](images/dilbert_wally_compensation_project.gif)](http://dilbert.com/strip/1996-05-06)
-
 ## Game theory
 
 <div class="container">
