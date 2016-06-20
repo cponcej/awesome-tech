@@ -2,6 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [QA. Software Testing](#qa-software-testing)
+    - [Blogs](#blogs)
     - [Mapas Mentales para Software Testing](#mapas-mentales-para-software-testing)
     - [ISTQB](#istqb)
     - [TMAP](#tmap)
@@ -38,6 +39,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5o_KMFrFpc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![state_testing_report_2016](images/state_testing_report_2016.png)](http://qablog.practitest.com/state-of-testing/)
 
 [![opensource_qa_tools](images/opensource_qa_tools.png)](https://dzone.com/articles/selecting-the-best-open-source-test-automation-too)
 
@@ -117,6 +120,10 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Open-Source Test Automation Tools and You<a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a><a href="https://t.co/qS8iUKZ6EF">https://t.co/qS8iUKZ6EF</a><br><br>via <a href="https://twitter.com/ek121268">@ek121268</a> <a href="https://t.co/xeeTMMF4xr">pic.twitter.com/xeeTMMF4xr</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/744651123596857344">19 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Blogs
+- [Testing & QA Management blog by PractiTest](http://qablog.practitest.com/)
+    - [International 2016 State of Testing. What it means to be a tester worldwide 🌟🌟](http://qablog.practitest.com/state-of-testing/)
 
 ## Mapas Mentales para Software Testing
 - [TestingBaires Mapas Mentales para Software Testing](http://testingbaires.com/mapas-mentales/)
