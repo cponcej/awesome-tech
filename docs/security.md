@@ -4,6 +4,7 @@
 - [Security](#security)
 	- [Awesome Security Lists](#awesome-security-lists)
 	- [CVE Common Vulnerabilities and Exposures](#cve-common-vulnerabilities-and-exposures)
+	- [OWASP Open Web Application Security Project](#owasp-open-web-application-security-project)
 	- [OpenSCAP and Lynis. Open Source security auditing tools](#openscap-and-lynis-open-source-security-auditing-tools)
 	- [Cisco Security Advisories and Responses](#cisco-security-advisories-and-responses)
 	- [Security Blogs](#security-blogs)
@@ -82,6 +83,15 @@
 - [National Vulnerability Database 🌟](https://nvd.nist.gov)
 	- [Search CVE and CCE Vulnerability Database 🌟](https://web.nvd.nist.gov/view/vuln/search)
 - [SCAP (Security Content Automation Protocol)](http://scap.nist.gov/)
+
+## OWASP Open Web Application Security Project 
+- [owasp.org 🌟🌟](https://www.owasp.org) The Open Web Application Security Project (OWASP) is a worldwide not-for-profit charitable organization focused on improving the security of software. 
+- [OWASP Testing Project](https://www.owasp.org/index.php/OWASP_Testing_Project)
+- [Guía de pruebas de OWASP 3.0](https://www.owasp.org/images/8/80/Gu%C3%ADa_de_pruebas_de_OWASP_ver_3.0.pdf)
+- [OWASP Testing Guide v4.0. Guia de seguridad en aplicaciones Web](https://www.incibe.es/blogs/post/Seguridad/BlogSeguridad/Articulo_y_comentarios/owasp_4_en)
+- [OWASP Testing Guide v4 Table of Contents 🌟🌟](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+
+[![owasp_testing_guide](images/owasp_testing_guide.png)](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
 ## OpenSCAP and Lynis. Open Source security auditing tools
 - [OpenSCAP and Lynis. Open Source security auditing tools  🌟🌟🌟🌟](auditing-tools.md)
