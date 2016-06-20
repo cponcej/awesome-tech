@@ -139,6 +139,8 @@
 
 [![chocolatey](images/chocolatey.png)](https://chocolatey.org/)
 
+[![puppet_windows_chocolatey_module](images/puppet_windows_chocolatey_module.png)](https://puppet.com/blog/package-management-windows-gets-even-better-chocolatey)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why didn&#39;t I know about <a href="https://twitter.com/hashtag/chocolatey?src=hash">#chocolatey</a> ? A package manager for <a href="https://twitter.com/hashtag/Windows?src=hash">#Windows</a> <a href="https://t.co/Lg7yXoZVXB">https://t.co/Lg7yXoZVXB</a> its amazing!</p>&mdash; John Roach (@johnroach) <a href="https://twitter.com/johnroach/status/708366744109223936">11 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
