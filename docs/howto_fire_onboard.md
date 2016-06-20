@@ -62,6 +62,8 @@
 
 [![house_foreman_quits](images/house_foreman_quits.png)](https://www.youtube.com/watch?v=IECa1eCLVr4)
 
+[![key_employee_leaves_company](images/key_employee_leaves_company.png)](https://www.entrepreneur.com/article/277202)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WVr1NcBdGTg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
