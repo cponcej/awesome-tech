@@ -18,7 +18,7 @@
     - [Cucumber](#cucumber)
     - [Jasmine Behavior Driven JavaScript](#jasmine-behavior-driven-javascript)
     - [Concordion](#concordion)
-    - [Appium Mobile App Automation Made Awesome](#appium-mobile-app-automation-made-awesome)
+    - [Appium Mobile App Automation](#appium-mobile-app-automation)
     - [Calabash automated acceptance testing for mobile apps](#calabash-automated-acceptance-testing-for-mobile-apps)
     - [Capybara acceptance test framework for web applications](#capybara-acceptance-test-framework-for-web-applications)
     - [Arquillian Testing Platform and Citrus Integration Testing](#arquillian-testing-platform-and-citrus-integration-testing)
@@ -322,7 +322,7 @@
 - [concordion.org](http://concordion.org/)
 - [Concordion, construye tests que se conviertan en la auténtica documentación de los proyectos](http://www.genbetadev.com/metodologias-de-programacion/concordion-test-de-aceptacion-que-se-conviertan-en-autentica-documentacion)
 
-## Appium Mobile App Automation Made Awesome
+## Appium Mobile App Automation
 - [Appium: Mobile App Automation Made Awesome](http://appium.io/)
 
 <div class="container">
