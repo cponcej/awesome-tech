@@ -36,8 +36,10 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cuando alguien te dice que es de izquierdas y luego que su diario de referencia es El País <a href="https://t.co/yV0OHGmw4A">pic.twitter.com/yV0OHGmw4A</a></p>&mdash; Memes políticos (@PoliReac) <a href="https://twitter.com/PoliReac/status/696725391520747520">8 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A bit of Philip Seymour Hoffman to brighten up your Friday...<a href="https://t.co/WNGDU7fHEE">https://t.co/WNGDU7fHEE</a></p>&mdash; Luke Massey (@LukeMassey) <a href="https://twitter.com/LukeMassey/status/705714882251984896">4 de marzo de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/066BFGk6QvA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 [![dilbert_job_interview](images/dilbert_job_interview.png)](http://dilbert.com/strip/2015-07-26)
 
