@@ -9,6 +9,8 @@
 
 [![dilbert_wally_compensation_project](images/dilbert_wally_compensation_project.gif)](http://dilbert.com/strip/1996-05-06)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;I choose rich every fucking time!&quot; <a href="https://t.co/qkq5JHGwMW">https://t.co/qkq5JHGwMW</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/654310927949541376">14 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Office Politics
 - [Forbes.com: Office Politics: Must You Play? A Handbook For Survival/Success](http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/)
 - [Setting up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
