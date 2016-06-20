@@ -266,6 +266,8 @@
 - [developerblog.redhat.com Apps 101: An Absolute Beginner’s Guide to building a Mobile App](http://developerblog.redhat.com/2016/02/17/apps-101-an-absolute-beginners-guide-to-building-a-mobile-app/)
 - [developerblog.redhat.com Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend](http://developerblog.redhat.com/2016/02/19/apps-101-an-absolute-beginners-guide-to-integrating-with-a-node-js-backend/)
 
+[![gartner_redhat_mobile_app_devel](images/gartner_redhat_mobile_app_devel.png)](https://www.gartner.com/doc/reprints?id=1-39K7VY4&ct=160616&st=sb?src=fridayfive5email)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5_qsqPOi6kE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
