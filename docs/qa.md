@@ -34,6 +34,13 @@
 <!-- /MarkdownTOC -->
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5o_KMFrFpc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+[![opensource_qa_tools](images/opensource_qa_tools.png)](https://dzone.com/articles/selecting-the-best-open-source-test-automation-too)
+
 [![selenium, qtp Job Trends](images/indeed_selenium_qtp_trends.png)](http://www.indeed.com/jobtrends/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 
 [![Most popular test automation frameworks](images/Most-popular-test-automation-frameworks.png)](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
@@ -111,8 +118,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Can We Neglect Manual Testing for Automation Testing? <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a><a href="https://t.co/mrztTSgcrt">https://t.co/mrztTSgcrt</a> <br><br>via Pavan Kumar <a href="https://t.co/qgnKWG3vlb">pic.twitter.com/qgnKWG3vlb</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/743171375754514432">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[![opensource_qa_tools](images/opensource_qa_tools.png)](https://dzone.com/articles/selecting-the-best-open-source-test-automation-too)
-
 ## Mapas Mentales para Software Testing
 - [TestingBaires Mapas Mentales para Software Testing](http://testingbaires.com/mapas-mentales/)
 
@@ -162,11 +167,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Fitting the pieces together with <a href="https://twitter.com/hashtag/ContinuousTesting?src=hash">#ContinuousTesting</a> <a href="https://t.co/6TqcyonqJ1">https://t.co/6TqcyonqJ1</a> <a href="https://t.co/WVxZqSzarX">pic.twitter.com/WVxZqSzarX</a></p>&mdash; DevOps Online News (@DevOpsOnline) <a href="https://twitter.com/DevOpsOnline/status/739426599854972928">5 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U5o_KMFrFpc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
 
 ## OWASP Open Web Application Security Project 
 - [owasp.org 🌟🌟](https://www.owasp.org) The Open Web Application Security Project (OWASP) is a worldwide not-for-profit charitable organization focused on improving the security of software. 
