@@ -14,6 +14,8 @@
     - [SonarQube previusly known as Sonar](#sonarqube-previusly-known-as-sonar)
     - [Mockito Mocking framework](#mockito-mocking-framework)
     - [Selenium](#selenium)
+        - [Selenium training](#selenium-training)
+            - [Selenium training via Udemy](#selenium-training-via-udemy)
         - [Selenium on Twitter](#selenium-on-twitter)
     - [SoapUI](#soapui)
     - [Cucumber](#cucumber)
@@ -258,6 +260,16 @@
 - [selenium 2.49.0 released: Python bindings for Selenium](https://pypi.python.org/pypi/selenium/2.49.0)
 - [slideshare: Selenium Tips & Tricks](http://www.slideshare.net/tourdedave/selenium-tips-tricks)
 - [10 Tips For Faster Selenium Scripts](http://www.beacon.by/test-automation-for-manual-testers/10-tips-for-faster-selenium-scripts)
+
+### Selenium training
+- [Top 7 Websites to Practice Selenium Webdriver Online 🌟🌟](http://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/)
+- [toolsqa.com 🌟🌟](http://toolsqa.com/)
+
+#### Selenium training via Udemy
+- [Learn Software Testing from Scratch](https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&dtcode=wmOZ6Dq2WrKO&couponCode=qa10)
+- [Selenium Webdriver 2.0: Master Automated Testing](https://www.udemy.com/selenium-webdriver-20-a-beginners-guide-to-selenium)
+- [Selenium WebDriver With Java - Novice To Ninja + Interview](https://www.udemy.com/selenium-webdriver-with-java-testng-and-log4j/)
+- [Advanced Selenium(Architect)-Pageobject,TestNG,Maven,Jenkins](https://www.udemy.com/selenium-framework-design-pageobjecttestngmavenjenkins/)
 
 ### Selenium on Twitter
 - [twitter.com/SeleniumHQ](https://twitter.com/SeleniumHQ)
