@@ -40,7 +40,7 @@
 [![Boomerang-Stat-76-percent-more-accepting-of-boomerangs](images/Boomerang-Stat-76-percent-more-accepting-of-boomerangs.jpg)](http://www.kronos.com/pr/boomerang-employees-and-the-organizations-they-once-left.aspx)
 
 <div class="container">
-<iframe width="540" height="304" frameborder="0" src=http://www.usatoday.com/videos/embed/71520046 frameborder="0" allowfullscreen="true" class="video"></iframe>
+<iframe title="USA TODAY - Embed Player" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="http://www.usatoday.com/videos/embed/71520046/?fullsite=true" class="video"></iframe>
 </div>
 <br>
 
