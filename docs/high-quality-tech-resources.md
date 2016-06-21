@@ -7,6 +7,7 @@
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
 	- [Code geek](#code-geek)
+	- [Codely TV](#codely-tv)
 	- [Cubeupload image sharing](#cubeupload-image-sharing)
 	- [Shared presentations](#shared-presentations)
 	- [Stack Exchange family of Q&A websites](#stack-exchange-family-of-qa-websites)
@@ -177,6 +178,12 @@
 - [twitter.com/codek_tv](https://twitter.com/codek_tv)
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
+
+## Codely TV
+- [codely.TV 🌟](http://codely.tv/) Vídeos cada jueves. Objetivos: Transmitir conocimiento mediante screencasts de programación y dar a conocer el mundo de la informática vía entrevistas.
+- [twitter.com/CodelyTV](https://twitter.com/CodelyTV)
+	
+[![codelytv](images/codelytv.png)](http://codely.tv/)
 
 ## Cubeupload image sharing
 - [cubeupload.com](http://cubeupload.com) Zero compression image sharing
