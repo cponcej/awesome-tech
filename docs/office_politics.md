@@ -60,6 +60,8 @@
 
 [![how-old-are-the-employees-at-top-tech-companies](images/how-old-are-the-employees-at-top-tech-companies.png)](http://www.businessinsider.com/stressful-lives-of-older-tech-workers-2015-11)
 
+![lumberjack_webdeveloper](images/lumberjack_webdeveloper.jpg)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">60 películas que deberías haber visto antes de votar el 20-D.<br>Nº 43: &quot;The Ides of March&quot; (George Clooney, 2011)<a href="https://t.co/egXb7kp8WS">https://t.co/egXb7kp8WS</a></p>&mdash; Melón Tajá En Mano (@melontajaenmano) <a href="https://twitter.com/melontajaenmano/status/664397112445116416">11 de noviembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Trailer de House of Cards, repaso ideal antes de ver la Temp 4. El líder que nos merecemos (Sin subtítulos) <a href="https://t.co/7XtQBSxt3G">https://t.co/7XtQBSxt3G</a></p>&mdash; Santiago García (@sangarciacorre) <a href="https://twitter.com/sangarciacorre/status/707600155177041920">9 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
