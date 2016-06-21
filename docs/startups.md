@@ -529,7 +529,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Learn from it! <a href="https://t.co/6SAMhrF9nH">pic.twitter.com/6SAMhrF9nH</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/703291137881145345">26 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<p align="center">
+<div class="container">
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x42fpcl" allowfullscreen class="video"></iframe><br /><a href="http://www.dailymotion.com/video/x42fpcl_las-companias-tecnologicas-mas-valiosas-del-mundo_tech" target="_blank">Las compa&ntilde;&iacute;as tecnol&oacute;gicas m&aacute;s valiosas del mundo</a> <i>por <a href="http://www.dailymotion.com/ticbeat" target="_blank">ticbeat</a></i>
 </div>
 <br/>
