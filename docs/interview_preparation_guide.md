@@ -26,6 +26,8 @@
 
 [![new_linkedin_features_networking_new_job](images/new_linkedin_features_networking_new_job.png)](http://www.inc.com/jt-odonnell/getting-referred-to-a-new-job-just-got-easier-on-linkedin.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Loved reading this! Definitely, Maybe: What Brexit Could Mean For Recruitment. <a href="https://t.co/zs6cMeDYNQ">https://t.co/zs6cMeDYNQ</a> by Salma El… <a href="https://t.co/7A9sB5Ql7g">pic.twitter.com/7A9sB5Ql7g</a></p>&mdash; Nadja Weidner (@NadjaWeidner) <a href="https://twitter.com/NadjaWeidner/status/744868475357765632">20 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)

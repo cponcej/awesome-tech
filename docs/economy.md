@@ -30,8 +30,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Fragmento de la última entrevista a Carl Sagan <a href="https://t.co/cJIoOcXpAO">https://t.co/cJIoOcXpAO</a></p>&mdash; Albert Montserrat (@tenormontserrat) <a href="https://twitter.com/tenormontserrat/status/704633194830831616">1 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Loved reading this! Definitely, Maybe: What Brexit Could Mean For Recruitment. <a href="https://t.co/zs6cMeDYNQ">https://t.co/zs6cMeDYNQ</a> by Salma El… <a href="https://t.co/7A9sB5Ql7g">pic.twitter.com/7A9sB5Ql7g</a></p>&mdash; Nadja Weidner (@NadjaWeidner) <a href="https://twitter.com/NadjaWeidner/status/744868475357765632">20 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Economy
 - [World Economic Forum](http://www.weforum.org/)
 - [ourworldindata.org](http://ourworldindata.org/) Topic by topic the data-entries show you how the world is changing
