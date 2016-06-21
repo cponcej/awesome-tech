@@ -49,6 +49,21 @@
 - [RackTables.org - a datacenter asset management system](http://racktables.org/)
 - [Is It Down Righ Now? 🌟🌟](http://www.isitdownrightnow.com)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LH5lj4sARI0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHO1MTPHnHM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d9imUUrV-hk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Centros de datos
 - [centrodedatos-datacenter.es](http://www.centrodedatos-datacenter.es)
 
