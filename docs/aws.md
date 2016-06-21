@@ -348,6 +348,9 @@
 - [Amazon EC2 Container Registry Documentation](http://aws.amazon.com/es/documentation/ecr/)
 - [Get started with Amazon EC2 Container Registry (Amazon ECR)](http://docs.aws.amazon.com/AmazonECR/latest/userguide/ECR_GetStarted.html)
 - [Using Docker Machine with AWS](http://blog.scottlowe.org/2016/03/22/using-docker-machine-with-aws/)
+- [Docker Datacenter on the AWS Cloud: Quick Start Reference Deployment 🌟🌟](https://aws.amazon.com/es/about-aws/whats-new/2016/06/docker-datacenter-on-the-aws-cloud-quick-start-reference-deployment/)
+
+[![docker_datacenter_on_aws](images/docker_datacenter_on_aws.png)](https://aws.amazon.com/es/about-aws/whats-new/2016/06/docker-datacenter-on-the-aws-cloud-quick-start-reference-deployment/)
 
 ## AWS CLI
 - [Amazon CLI Documentation](https://aws.amazon.com/cli)
