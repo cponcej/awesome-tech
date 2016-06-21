@@ -32,7 +32,32 @@
 [![getting_your_boss_to_love_you](images/getting_your_boss_to_love_you.png)](http://www.businessinsider.com/dave-kerpen-how-to-manage-up-2016-3)
 
 [![dilbert_office_relocation](images/dilbert_office_relocation.png)](http://dilbert.com/strip/2011-02-18)
- 
+
+<div class="container"> 
+<iframe title="USA TODAY - Embed Player" width="540" height="304" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" class= "video" src=http://www.usatoday.com/videos/embed/71520046/?fullsite=true></iframe>
+</div>
+<br>
+
+[![BoomerangeEmployees](images/BoomerangeEmployees.jpg)](http://www.baselinemag.com/careers/slideshows/what-motivates-boomerang-employees-to-return.html)
+
+[![are_you_Boomerang-Employee](images/are_you_Boomerang-Employee.png)](http://yournextchapternow.com/2015/09/are-you-a-boomerang-employee-learn-your-lesson-first.html)
+
+[![Boomerang-Stat-76-percent-more-accepting-of-boomerangs](images/Boomerang-Stat-76-percent-more-accepting-of-boomerangs.jpg)](http://www.kronos.com/pr/boomerang-employees-and-the-organizations-they-once-left.aspx)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">STLtoday: Why more employees are going back to their old jobs <a href="http://t.co/cl1sYHcB7Y">http://t.co/cl1sYHcB7Y</a></p>&mdash; St. Louis News (@stlnews) <a href="https://twitter.com/stlnews/status/638781914564927489">1 de septiembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why More Employees Are Going Back to Their Old Jobs - Bloomberg: BloombergWhy More Employees Are Goi... <a href="http://t.co/5HL7f9TMyE">http://t.co/5HL7f9TMyE</a> <a href="https://twitter.com/hashtag/hr?src=hash">#hr</a> <a href="https://twitter.com/hashtag/jobs?src=hash">#jobs</a></p>&mdash; HR News (@HR_News_Daily) <a href="https://twitter.com/HR_News_Daily/status/638819719722590208">1 de septiembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why more employees are going back to their old jobs <a href="http://t.co/dqLO0RuNQe">http://t.co/dqLO0RuNQe</a></p>&mdash; Livemint (@livemint) <a href="https://twitter.com/livemint/status/638926384967122944">2 de septiembre de 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDphVJS9Aos?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">60 películas que deberías haber visto antes de votar el 20-D.<br>Nº 43: &quot;The Ides of March&quot; (George Clooney, 2011)<a href="https://t.co/egXb7kp8WS">https://t.co/egXb7kp8WS</a></p>&mdash; Melón Tajá En Mano (@melontajaenmano) <a href="https://twitter.com/melontajaenmano/status/664397112445116416">11 de noviembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Trailer de House of Cards, repaso ideal antes de ver la Temp 4. El líder que nos merecemos (Sin subtítulos) <a href="https://t.co/7XtQBSxt3G">https://t.co/7XtQBSxt3G</a></p>&mdash; Santiago García (@sangarciacorre) <a href="https://twitter.com/sangarciacorre/status/707600155177041920">9 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
