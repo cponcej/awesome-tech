@@ -605,6 +605,10 @@
 - [Configure Static Routes In Debian or Red Hat Enterprise Linux](http://www.cyberciti.biz/tips/configuring-static-routes-in-debian-or-red-hat-linux-systems.html)
 - [Introducing Linux Network Namespaces 🌟](http://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/)
 - [fedoramagazine.org: Build a network bridge with Fedora](https://fedoramagazine.org/build-network-bridge-fedora/)
+- [dig: How To Find My Public IP Address From Command Line On a Linux](http://www.cyberciti.biz/faq/how-to-find-my-public-ip-address-from-command-line-on-a-linux/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Use dig to find your own public IP from OSX/Linux/Unix/Win10<br><br>dig +short myip\.opendns.com <a href="https://twitter.com/Resolver1">@resolver1</a>.opendns.com<a href="https://t.co/9dX7mLlk5i">https://t.co/9dX7mLlk5i</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/745242343918317568">21 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Build a network bridge with Fedora <a href="https://t.co/gC4BbmUMjg">https://t.co/gC4BbmUMjg</a> &lt;- Create a virtual switch.</p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/739848133702750208">6 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

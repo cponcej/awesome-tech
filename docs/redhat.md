@@ -252,6 +252,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Free ebook: <a href="https://twitter.com/openshift">@openshift</a>  for Developers - O&#39;Reilly Book Covering Version 3 of the Platform – OpenShift Blog <a href="https://t.co/vYzQjegsrG">https://t.co/vYzQjegsrG</a></p>&mdash; Red Hat Atomic (@RedHatAtomic) <a href="https://twitter.com/RedHatAtomic/status/743539930769526784">16 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![openshift-dockercon-2016](images/openshift-dockercon-2016.jpg)](http://bit.ly/openshift-dockercon-2016)
+
 ## Red Hat OpenStack
 - [Red Hat OpenStack](redhat_openstack.md)
 
