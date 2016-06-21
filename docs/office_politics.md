@@ -33,16 +33,16 @@
 
 [![dilbert_office_relocation](images/dilbert_office_relocation.png)](http://dilbert.com/strip/2011-02-18)
 
-<div class="container"> 
-<iframe title="USA TODAY - Embed Player" width="540" height="304" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" class= "video" src=http://www.usatoday.com/videos/embed/71520046/?fullsite=true></iframe>
-</div>
-<br>
+[![are_you_Boomerang-Employee](images/are_you_Boomerang-Employee.png)](http://yournextchapternow.com/2015/09/are-you-a-boomerang-employee-learn-your-lesson-first.html)
 
 [![BoomerangeEmployees](images/BoomerangeEmployees.jpg)](http://www.baselinemag.com/careers/slideshows/what-motivates-boomerang-employees-to-return.html)
 
-[![are_you_Boomerang-Employee](images/are_you_Boomerang-Employee.png)](http://yournextchapternow.com/2015/09/are-you-a-boomerang-employee-learn-your-lesson-first.html)
-
 [![Boomerang-Stat-76-percent-more-accepting-of-boomerangs](images/Boomerang-Stat-76-percent-more-accepting-of-boomerangs.jpg)](http://www.kronos.com/pr/boomerang-employees-and-the-organizations-they-once-left.aspx)
+
+<div class="container"> 
+<iframe title="USA TODAY - Embed Player" width="540" height="304" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src=http://www.usatoday.com/videos/embed/71520046/?fullsite=true></iframe>
+</div>
+<br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">STLtoday: Why more employees are going back to their old jobs <a href="http://t.co/cl1sYHcB7Y">http://t.co/cl1sYHcB7Y</a></p>&mdash; St. Louis News (@stlnews) <a href="https://twitter.com/stlnews/status/638781914564927489">1 de septiembre de 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
