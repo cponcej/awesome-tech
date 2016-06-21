@@ -9,6 +9,8 @@
 
 [![vmsources](images/vmsources.png)](https://www.youtube.com/user/VMsources)
 
+[![vmworld_tv](images/vmworld_tv.png)](https://www.youtube.com/user/VMworldTV)
+
 # VMware
 - [VMware Front Experience](http://www.v-front.de/)
 	- [VMware launches vSphere 6 - What's in ESXi 6.0 for free license and white box users?](http://www.v-front.de/2015/02/whats-in-esxi-60-for-free-license-and.html)
