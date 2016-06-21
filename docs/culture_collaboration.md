@@ -39,7 +39,10 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="http://t.co/RmXpSOqNwy">http://t.co/RmXpSOqNwy</a> Best scene from Moneyball</p>&mdash; Shigeyuki Ono (@hibarifuji) <a href="https://twitter.com/hibarifuji/status/640504452047314944">6 de septiembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/o9Q0kp8CMFQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Game of inches<a href="https://t.co/SwBSum936R">https://t.co/SwBSum936R</a></p>&mdash; Famps (@ElFamps) <a href="https://twitter.com/ElFamps/status/708649150548742144">12 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
