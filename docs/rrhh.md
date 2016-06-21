@@ -150,6 +150,7 @@
 - [Prohibido salir tarde del trabajo](https://www.cesarpiqueras.com/prohibido-salir-tarde-del-trabajo/)
 - [El coste económico de los “empleados tóxicos”](http://www.elblogsalmon.com/mundo-laboral/el-coste-economico-de-los-empleados-toxicos)
 - [Llevarse bien con el jefe](http://elpais.com/elpais/2014/10/09/eps/1412875219_002156.html) Un alto porcentaje de personas cambian de trabajo por mala relación con su superior. Éstas son pautas para dar la vuelta a un ambiente laboral tóxico
+- [genbetadev.com: 10 cosas sobre trabajar en remoto que quizá no habías pensado y deberías tener en cuenta](http://www.genbetadev.com/trabajar-como-desarrollador/10-cosas-sobre-trabajar-en-remoto-que-quiza-no-habias-pensado-y-deberias-tener-en-cuenta)
 
 [![buen jefe, mal jefe](images/buen_jefe_mal_jefe.jpg)](http://www.amazon.com/dp/0307882934/)
 
