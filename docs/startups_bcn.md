@@ -223,13 +223,13 @@ para universitarios y titulados júnior
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Grifols publicará sus pagos a médicos en España <a href="https://t.co/9y5ZNORr6C">https://t.co/9y5ZNORr6C</a> <a href="https://t.co/UeQw4Q5gTV">pic.twitter.com/UeQw4Q5gTV</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/743137037604126726">15 de junio de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">&quot;El que més valorem de Barcelona Activa és la xarxa de contactes que et dóna&quot; 10 testimonis d&#39; <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a> <a href="https://t.co/UgKNMsxadJ">https://t.co/UgKNMsxadJ</a></p>&mdash; Barcelona Activa (@barcelonactiva) <a href="https://twitter.com/barcelonactiva/status/706013987096424448">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Biotech?src=hash">#Biotech</a> <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a> are looking to &#39;win the 21st century,&#39; the <a href="https://twitter.com/guardian">@guardian</a> reports <a href="https://t.co/R4DBGMp2xI">https://t.co/R4DBGMp2xI</a></p>&mdash; CRG (@CRGenomica) <a href="https://twitter.com/CRGenomica/status/702554925889429505">24 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Grifols publicará sus pagos a médicos en España <a href="https://t.co/9y5ZNORr6C">https://t.co/9y5ZNORr6C</a> <a href="https://t.co/UeQw4Q5gTV">pic.twitter.com/UeQw4Q5gTV</a></p>&mdash; Cinco Días (@CincoDiascom) <a href="https://twitter.com/CincoDiascom/status/743137037604126726">15 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Miquel Camprodon de Kernel e Israel Saeta de <a href="https://twitter.com/leadratings">@leadratings</a> presentando <a href="https://twitter.com/hashtag/statsmodels?src=hash">#statsmodels</a> en la <a href="https://twitter.com/PyConES">@PyConES</a> 2015 <a href="https://t.co/F3NKAFBmNM">https://t.co/F3NKAFBmNM</a></p>&mdash; Kernel Analytics (@KernelAnalytics) <a href="https://twitter.com/KernelAnalytics/status/697375146747760640">10 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
