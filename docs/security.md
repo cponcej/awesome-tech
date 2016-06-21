@@ -192,6 +192,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Virtualisation - what is it?  <a href="https://t.co/agayoDZlvR">https://t.co/agayoDZlvR</a> <a href="https://twitter.com/hashtag/sdn?src=hash">#sdn</a> <a href="https://twitter.com/hashtag/nfv?src=hash">#nfv</a> <a href="https://twitter.com/NatilikSEC">@NatilikSEC</a></p>&mdash; James Talbot (@jamesrtalbot) <a href="https://twitter.com/jamesrtalbot/status/735364101535375360">25 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Securing Your Virtual Environment&quot; <a href="https://t.co/IJXr5RfNnZ">https://t.co/IJXr5RfNnZ</a> <a href="https://twitter.com/hashtag/RedHatConsulting?src=hash">#RedHatConsulting</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a></p>&mdash; Jose Simonelli (@ubercloud) <a href="https://twitter.com/ubercloud/status/742855688951582721">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 

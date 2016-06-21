@@ -22,6 +22,7 @@
 - [rhelblog.redhat.com: Virtual Machine Migration Best Practices 🌟](http://rhelblog.redhat.com/2016/05/11/migratevms/)
 - [Live Migrating QEMU-KVM Virtual Machines 🌟](http://developers.redhat.com/blog/2015/03/24/live-migrating-qemu-kvm-virtual-machines/)
 - [captainkvm.com 🌟🌟🌟](http://captainkvm.com)
+- [red hat whitepaper: ADVANCED OPERATIONS WITH RED HAT ENTERPRISE VIRTUALIZATION 3.6 🌟🌟🌟](https://www.redhat.com/cms/managed-files/vi-red-hat-enterprise-virtualization-testing-whitepaper-inc0383299-201605-en-2.pdf)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HsqtHT8auxg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -62,6 +63,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want to detect execution in a virtualized environment on Linux?<br><br>systemd-detect-virt<br><br>OR<br><br>dmidecode -s system-manufacturer<a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/714602201222524928">28 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A lot of good work happening in the <a href="https://twitter.com/hashtag/ovirt?src=hash">#ovirt</a>, <a href="https://twitter.com/hashtag/fedora?src=hash">#fedora</a> and <a href="https://twitter.com/hashtag/rhel?src=hash">#rhel</a> communities. <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://t.co/Ks5ENiCb4S">https://t.co/Ks5ENiCb4S</a></p>&mdash; Scott McCarty (@fatherlinux) <a href="https://twitter.com/fatherlinux/status/734727633871724544">23 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New on the <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Enterprise Linux Blog: How <a href="https://twitter.com/hashtag/SRIOV?src=hash">#SRIOV</a> in <a href="https://twitter.com/hashtag/RHEV?src=hash">#RHEV</a> 3.6 increases your <a href="https://twitter.com/hashtag/virtualization?src=hash">#virtualization</a> network throughput. <a href="https://t.co/FNeKKYgtl1">https://t.co/FNeKKYgtl1</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/740695657623650306">9 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">New whitepaper: Advanced operations with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Enterprise Virtualization 3.6 <a href="https://t.co/3gj3LJU4Wr">https://t.co/3gj3LJU4Wr</a> <a href="https://twitter.com/hashtag/databasevirtualization?src=hash">#databasevirtualization</a> <a href="https://twitter.com/hashtag/RHEV?src=hash">#RHEV</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/743539145004376065">16 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![zdnet_rhel_kvm_36](images/zdnet_rhel_kvm_36.png)](http://www.zdnet.com/article/red-hat-updates-kvm-virtualizaiton-program/)

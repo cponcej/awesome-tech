@@ -51,6 +51,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat and <a href="https://twitter.com/bbva">@bbva</a> team up for <a href="https://twitter.com/hashtag/digitalbanking?src=hash">#digitalbanking</a> push: <a href="https://t.co/AZfrb2uBm8">https://t.co/AZfrb2uBm8</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://twitter.com/hashtag/innovation?src=hash">#innovation</a> <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://t.co/6ww8jebOI0">pic.twitter.com/6ww8jebOI0</a></p>&mdash; Banking Technology (@BankingTechno) <a href="https://twitter.com/BankingTechno/status/735548016992485377">25 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/FASTWEB">@FASTWEB</a>, <a href="https://twitter.com/paddypower">@paddypower</a> &amp; <a href="https://twitter.com/hashtag/Produban?src=hash">#Produban</a> deploy <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> Platform to enable cloud innovation: <a href="https://t.co/TKMmWKmHzZ">https://t.co/TKMmWKmHzZ</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/744006976313528320">18 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/CaixaSeguradora">@CaixaSeguradora</a> gains an agile, scalable <a href="https://twitter.com/hashtag/virtualization?src=hash">#virtualization</a> platform with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>: <a href="https://t.co/zUxxP0bSMb">https://t.co/zUxxP0bSMb</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/734385327356424196">22 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -89,6 +92,9 @@
 [![open_decision_framework](images/open_decision_framework.png)](https://github.com/opensourceway/open-decision-framework/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Meritocracy 2.0: A framework for decision-making <a href="https://t.co/xxcvrDQn4A">https://t.co/xxcvrDQn4A</a> by <a href="https://twitter.com/delisaatredhat">@delisaatredhat</a> <a href="https://t.co/sUhFDteXWz">pic.twitter.com/sUhFDteXWz</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/737971965210722304">1 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Five core Red Hat principles: <br>1 open exchange<br>2 participation<br>3 meritocracy<br>4 community<br>5 release early and often <a href="https://t.co/8ZaIa1zWGp">https://t.co/8ZaIa1zWGp</a></p>&mdash; Jason Hiner (@jasonhiner) <a href="https://twitter.com/jasonhiner/status/740160563414630400">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![make_rhel7_pci-dss](images/make_rhel7_pci-dss.png)](https://www.open-scap.org/resources/documentation/make-a-rhel7-server-compliant-with-pci-dss/)
@@ -298,6 +304,9 @@
 [![gartner_redhat_mobile_app_devel](images/gartner_redhat_mobile_app_devel.png)](https://www.gartner.com/doc/reprints?id=1-39K7VY4&ct=160616&st=sb?src=fridayfive5email)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Telefónica se une a Red Hat para acelerar la transformación digital. <a href="https://t.co/g84xacnvPg">https://t.co/g84xacnvPg</a> <a href="https://t.co/qCcblQge33">pic.twitter.com/qCcblQge33</a></p>&mdash; TICbeat (@ticbeat) <a href="https://twitter.com/ticbeat/status/729964474665414656">10 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/Telefonica">@Telefonica</a> establishes <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://twitter.com/hashtag/MobileApplication?src=hash">#MobileApplication</a> Platform as its reference platform for mobile development <a href="https://t.co/KVOzwZLSJt">https://t.co/KVOzwZLSJt</a></p>&mdash; Business Solutions (@telefonicab2b) <a href="https://twitter.com/telefonicab2b/status/740920226397757441">9 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
