@@ -48,7 +48,22 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/bbva">@BBVA</a> signs strategic collaboration with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> to accelerate its global transformation: <a href="https://t.co/Px2AI3qERZ">https://t.co/Px2AI3qERZ</a> <a href="https://t.co/8gAVauJ5N4">pic.twitter.com/8gAVauJ5N4</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/736529457494659072">28 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat and <a href="https://twitter.com/bbva">@bbva</a> team up for <a href="https://twitter.com/hashtag/digitalbanking?src=hash">#digitalbanking</a> push: <a href="https://t.co/AZfrb2uBm8">https://t.co/AZfrb2uBm8</a> <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a> <a href="https://twitter.com/hashtag/innovation?src=hash">#innovation</a> <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://t.co/6ww8jebOI0">pic.twitter.com/6ww8jebOI0</a></p>&mdash; Banking Technology (@BankingTechno) <a href="https://twitter.com/BankingTechno/status/735548016992485377">25 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/CaixaSeguradora">@CaixaSeguradora</a> gains an agile, scalable <a href="https://twitter.com/hashtag/virtualization?src=hash">#virtualization</a> platform with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>: <a href="https://t.co/zUxxP0bSMb">https://t.co/zUxxP0bSMb</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/734385327356424196">22 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Royal Bank of Scotland Powers Open Experience with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Mobile, <a href="https://twitter.com/hashtag/Container?src=hash">#Container</a> and <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a> Technologies: <a href="https://t.co/rr98uc8PSJ">https://t.co/rr98uc8PSJ</a> <a href="https://twitter.com/RBSGroup">@RBSGroup</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/731485721857400832">14 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Telefonica has selected Red Hat for its Mobile Application Platform <a href="https://twitter.com/hashtag/mobile?src=hash">#mobile</a> <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> <a href="https://t.co/8L0HjPwExC">https://t.co/8L0HjPwExC</a> <a href="https://t.co/A9RsZI1mnV">pic.twitter.com/A9RsZI1mnV</a></p>&mdash; Irish Cloud Centre (@IC4ie) <a href="https://twitter.com/IC4ie/status/729269031367233536">8 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/Telefonica">@Telefonica</a> and .<a href="https://twitter.com/RedHatNews">@RedHatNews</a> sign a global agreement to help companies mobilise business <a href="https://t.co/XNQiOjdIKK">https://t.co/XNQiOjdIKK</a> <a href="https://t.co/kff4IRZYVq">pic.twitter.com/kff4IRZYVq</a></p>&mdash; LogisticsIT Magazine (@LogisticsIT) <a href="https://twitter.com/LogisticsIT/status/733719223726419969">20 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> and <a href="https://twitter.com/Telefonica">@Telefonica</a> mobilize business processes <a href="https://t.co/KVOzwZLSJt">https://t.co/KVOzwZLSJt</a> cc <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://twitter.com/hashtag/EnterpriseMobility?src=hash">#EnterpriseMobility</a> <a href="https://twitter.com/hashtag/OpenSource?src=hash">#OpenSource</a></p>&mdash; Business Solutions (@telefonicab2b) <a href="https://twitter.com/telefonicab2b/status/732229243611054081">16 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>&#39;s <a href="https://twitter.com/hashtag/OpenSource?src=hash">#OpenSource</a> success story is built on killing complexity in IT, says <a href="https://twitter.com/mjasay">@mjasay</a> <a href="https://t.co/7xeF4ctm5R">https://t.co/7xeF4ctm5R</a> (via <a href="https://twitter.com/TechRepublic">@techrepublic</a>)</p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/737561909394735104">31 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -72,6 +87,9 @@
 <br>
 
 [![open_decision_framework](images/open_decision_framework.png)](https://github.com/opensourceway/open-decision-framework/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Meritocracy 2.0: A framework for decision-making <a href="https://t.co/xxcvrDQn4A">https://t.co/xxcvrDQn4A</a> by <a href="https://twitter.com/delisaatredhat">@delisaatredhat</a> <a href="https://t.co/sUhFDteXWz">pic.twitter.com/sUhFDteXWz</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/737971965210722304">1 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![make_rhel7_pci-dss](images/make_rhel7_pci-dss.png)](https://www.open-scap.org/resources/documentation/make-a-rhel7-server-compliant-with-pci-dss/)
 
@@ -207,7 +225,13 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Migrate to a next-generation <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> infrastructure with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> Consulting. Watch our <a href="https://twitter.com/hashtag/video?src=hash">#video</a> here: <a href="https://t.co/g5Sxxk51Gd">https://t.co/g5Sxxk51Gd</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/731230540653690880">13 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This just keeps getting better - the integration between <a href="https://twitter.com/ansible">@ansible</a> , CloudForms and <a href="https://twitter.com/openshift">@openshift</a>  will blow people away <a href="https://t.co/gjIkFajGRB">pic.twitter.com/gjIkFajGRB</a></p>&mdash; Adam Clater (@shatnerandsulu) <a href="https://twitter.com/shatnerandsulu/status/736195823437021184">27 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Check out our free course on deploying applications in containers. | <a href="https://t.co/eaKnn7xdrE">https://t.co/eaKnn7xdrE</a> <a href="https://t.co/h2ZB3Qi7wS">pic.twitter.com/h2ZB3Qi7wS</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/730531688644677632">11 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
@@ -272,6 +296,9 @@
 - [developerblog.redhat.com Apps 101: An Absolute Beginners Guide to Integrating With a Node.js Backend](http://developerblog.redhat.com/2016/02/19/apps-101-an-absolute-beginners-guide-to-integrating-with-a-node-js-backend/)
 
 [![gartner_redhat_mobile_app_devel](images/gartner_redhat_mobile_app_devel.png)](https://www.gartner.com/doc/reprints?id=1-39K7VY4&ct=160616&st=sb?src=fridayfive5email)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Telefónica se une a Red Hat para acelerar la transformación digital. <a href="https://t.co/g84xacnvPg">https://t.co/g84xacnvPg</a> <a href="https://t.co/qCcblQge33">pic.twitter.com/qCcblQge33</a></p>&mdash; TICbeat (@ticbeat) <a href="https://twitter.com/ticbeat/status/729964474665414656">10 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5_qsqPOi6kE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

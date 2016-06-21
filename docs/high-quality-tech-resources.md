@@ -59,6 +59,12 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The shift in <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a>: A new kind of platform war: <a href="https://t.co/Fih41jOdLk">https://t.co/Fih41jOdLk</a> <a href="https://t.co/FapMuYeSsV">pic.twitter.com/FapMuYeSsV</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/736983197850861569">29 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>&#39;s <a href="https://twitter.com/jgershater">@jgershater</a> discusses the difference between open and <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> on <a href="https://twitter.com/idgconnect">@idgconnect</a>: <a href="https://t.co/XRtSMlFH6h">https://t.co/XRtSMlFH6h</a> <a href="https://t.co/vlnIlTC0tz">pic.twitter.com/vlnIlTC0tz</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/737848901697343488">1 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want a good <a href="https://twitter.com/hashtag/tech?src=hash">#tech</a> job? Report says ​<a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> skills are hotter than ever: <a href="https://t.co/hqq79stT2J">https://t.co/hqq79stT2J</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> <a href="https://t.co/uQj5pFQzUa">pic.twitter.com/uQj5pFQzUa</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/731927131165331456">15 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NxUyTA81epg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

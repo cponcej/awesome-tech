@@ -6,6 +6,9 @@
 
 [![captain_kvm](images/captain_kvm.png)](http://captainkvm.com/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A primer on steps to consider when migrating VMs to a different virtualization platform <a href="https://t.co/ZDvpR0gXsr">https://t.co/ZDvpR0gXsr</a> <a href="https://twitter.com/hashtag/vmmigration?src=hash">#vmmigration</a> <a href="https://twitter.com/hashtag/vsphere2rhev?src=hash">#vsphere2rhev</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/732944080997654529">18 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Red Hat Virtualization
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 	- [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)

@@ -54,13 +54,60 @@
 
 [![nexica](images/nexica.jpg)](https://www.nexica.com/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/emN6OYxozoA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![cdmon blog](images/cdmon_blog-748x350.jpg)](https://www.cdmon.com)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8NWu8-Q2Hro?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 [![ackstorm logo](images/ack_storm_logo.png)](http://www.ackstorm.com/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oxgbs0Om-NU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![acens logo](images/acens.jpg)](http://www.acens.com/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/naENbwanMlg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aVrUIL7tFqs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pR_Td9VZd7Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![gigas company](images/gigas_company.png)](https://gigas.com/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3z3Ve1rKA78?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+[![uniway](images/uniway.jpg)](https://www.uniway.es/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjB_pM-tEzY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qiqvDEQ-W8A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 # Cloud
 - [Cloud automation should be the heart of enterprise support -- it will decrease downtime, increase flexibility, and dramatically improve your provider’s ability to rapidly respond to service requests](https://www.linkedin.com/pulse/uk-cios-dissatisfied-cloud-providers-ryan-kroonenburg)

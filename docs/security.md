@@ -465,6 +465,9 @@
 - [Containers and security: Docker, Red Hat & Linux: How containers can boost business and save time for developers 🌟](http://www.cbronline.com/news/enterprise-it/software/docker-red-hat-linux-how-containers-can-boost-business-and-save-time-for-developers-4816851)
 - [Adopt Continuous Security With OpenShift – Save Yourself From The Next glibc 🌟](https://blog.openshift.com/save-yourself-from-the-next-glibc/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/joshbressers">@joshbressers</a> discusses <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a> as a fundamental tenet, not a feature (and certainly not an option): <a href="https://t.co/Ks8cJMwFin">https://t.co/Ks8cJMwFin</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/732396221227098114">17 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### DDos and Project Shield. February 2016
 - [Project Shield 🌟](https://projectshield.withgoogle.com) Google Releases Project Shield To Fight Against DDoS Attacks 
 

@@ -84,6 +84,9 @@
 
 [![tech_salary_calculator](images/tech_salary_calculator.png)](http://www.techsalarycalculator.com/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/developers?src=hash">#developers</a> salary survey results are in. See how you stack up.  <a href="https://t.co/usqPxlE3O1">https://t.co/usqPxlE3O1</a> <a href="https://twitter.com/rhdevelopers">@rhdevelopers</a> <a href="https://t.co/4PRzTrGjw1">pic.twitter.com/4PRzTrGjw1</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/736165811744694274">27 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![bi_dont_work_for_startup](images/bi_dont_work_for_startup.png)](http://www.businessinsider.com/dont-work-for-a-startup-2016-3)
 
 [![active_vs_reactive_innovator](images/active_vs_reactive_innovator.png)](https://www.linkedin.com/pulse/you-active-reactive-innovator-gijs-van-wulfen?trk=hp-feed-article-title-channel-add)
