@@ -29,6 +29,8 @@
 
 [![knowmads_manual_supervivencia](images/knowmads_manual_supervivencia.png)](http://ethic.es/2016/06/knowmads-manual-de-supervivencia-en-la-era-digital/)
 
+[![after_work_determines_your_future](images/after_work_determines_your_future.png)](https://www.linkedin.com/pulse/after-work-what-determines-your-future-spend-one-hour-sundaram)
+
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
 - [Six Certification Exam Mistakes to Avoid](http://www.globalknowledge.com/training/generic.asp?pageid=3833)
