@@ -275,6 +275,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">awk &#39;{print $4}&#39; apache_log|sort -n|cut -c1-15|uniq -c|awk &#39;{b=&quot;&quot;;for(i=0;i&lt;$1/10;i++){b=b&quot;#&quot;}; print $0 &quot; &quot; b;}&#39; # Request by hour graph.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696591310266847232">febrero 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Read Awk Input from STDIN in Linux – Part 7<a href="https://t.co/sCOxh6GKHo">https://t.co/sCOxh6GKHo</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://t.co/ZuOv5GvIBU">pic.twitter.com/ZuOv5GvIBU</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/745555555159154688">22 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">du -h . | grep &quot;^[0-9\.]\+G&quot; # # Find out which of your directories(below the current directory) occupy at least 1GB of space.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/696200949786767360">febrero 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
