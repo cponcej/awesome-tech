@@ -100,6 +100,8 @@
 
 [![howto_create_resume](images/howto_create_resume.png)](http://www.careerealism.com/resume-captures-hearts-minds-job-offers-employers/)
 
+[![3_job_search_secrets](images/3_job_search_secrets.png)](http://www.careerealism.com/job-search-secrets-employers-wish/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">78% of well-paying “middle-skill” positions call for basic proficiency with technology. <a href="https://t.co/K3dn8fWHVJ">https://t.co/K3dn8fWHVJ</a> <a href="https://t.co/ZRQSyj77no">pic.twitter.com/ZRQSyj77no</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/745315355027996672">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
