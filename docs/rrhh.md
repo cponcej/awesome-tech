@@ -71,6 +71,8 @@
 
 [![dilbert_intern_salary](images/dilbert_intern_salary.gif)](http://dilbert.com/strip/1996-08-22)
 
+[![como_ser_buen_companero](images/como_ser_buen_companero.png)](http://www.quiminet.com/articulos/consejos-para-ser-un-buen-companero-en-el-trabajo-como-ser-un-buen-companero-60813.htm)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jLfmBSJkFxo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
