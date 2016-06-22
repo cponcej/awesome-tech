@@ -168,6 +168,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ebook: Introducing the <a href="https://twitter.com/hashtag/RHCSA?src=hash">#RHCSA</a> and <a href="https://twitter.com/hashtag/RHCE?src=hash">#RHCE</a> Exam Preparation Guide <a href="https://t.co/bSEaxdOkIB">https://t.co/bSEaxdOkIB</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/qWQVT2EVia">pic.twitter.com/qWQVT2EVia</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/739092479337627648">4 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![redhat_learning_subscription](images/redhat_learning_subscription.png)](https://www.redhat.com/en/about/press-releases/red-hat-launches-new-learning-subscription)
+
 ### Fedora
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
