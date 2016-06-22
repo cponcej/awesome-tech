@@ -81,6 +81,11 @@
 
 [![dilbert_job_interview](images/dilbert_job_interview.png)](http://dilbert.com/strip/2015-07-26)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnwG9lTd4-M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Using these 7 words can damage your confidence levels &amp; impact how you&#39;re seen at work: <a href="https://t.co/OD6PUhtAQF">https://t.co/OD6PUhtAQF</a> <a href="https://t.co/hfKp9nXNwL">pic.twitter.com/hfKp9nXNwL</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/745250170942685184">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

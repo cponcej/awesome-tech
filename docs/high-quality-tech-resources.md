@@ -49,9 +49,12 @@
 # High quality tech resources and search engines
 - [The history of open source and a glimpse at its future. Open source changed startups, and then startups turned around and changed open source. Open source became the default, not an alternative 🌟🌟🌟🌟🌟](https://medium.com/@nayafia/we-re-in-a-brave-new-post-open-source-world-56ef46d152a3) Two startups, in particular: GitHub and Stack Overflow. Together, they launched a new chapter for software technology. And the decisions we make from here will determine how the next 5–10 years of software unfold. But to understand why, we have to start at the beginning.
 	- [Choosing an open source license 🌟🌟🌟](http://choosealicense.com) GitHub started taking a stance on licensing in 2013. They now suggest a license when creating a new project, and they made a microsite to help project owners choose.
+	- [DZone: Selecting an Open Source License for Your Project](https://dzone.com/articles/selecting-an-open-source-license-for-your-project)
 - [Why There Will Never Be Another RedHat: The Economics Of Open Source 🌟](http://techcrunch.com/2014/02/13/please-dont-tell-me-you-want-to-be-the-next-red-hat/)
 - [8 advantages of using open source in the enterprise](https://enterprisersproject.com/article/2015/1/top-advantages-open-source-offers-over-proprietary-solutions)
 - [First Timers Only](http://www.firsttimersonly.com/) Friendly Open Source projects should reserve specific issues for newbies.
+
+[![dzone_opensource_license](images/dzone_opensource_license.png)](https://dzone.com/articles/selecting-an-open-source-license-for-your-project)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Carlos Aguayo shares why <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> and <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> are the future: <a href="https://t.co/k1Xs1ZoDZO">https://t.co/k1Xs1ZoDZO</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/707265881781342208">marzo 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
