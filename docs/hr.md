@@ -64,6 +64,8 @@
 - [How Maslow’s Hierarchy of Needs influences Employee Engagement](http://www.scancapture.co.uk/how-maslows-hierarchy-of-needs-influences-employee-engagement/)
 - [BOOMERANG EMPLOYEES: WHO THEY ARE AND WHY THEY ARE ON THE RISE](http://www.yoh.com/blog/boomerang-employees-who-are-they-and-why-they-are-on-the-rise)
 
+[![truth_employee_attitude_probs](images/truth_employee_attitude_probs.png)](http://www.forbes.com/sites/lizryan/2016/06/22/the-truth-about-employees-with-attitude-problems)
+
 ## Flexible Work Policies
 - [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
