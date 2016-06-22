@@ -22,6 +22,7 @@
     - [AWS Database Migration Service](#aws-database-migration-service)
     - [AWS Redshift](#aws-redshift)
     - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
+    - [AWS OpsWorks](#aws-opsworks)
     - [AWS Latency](#aws-latency)
     - [Amazon ECS optimized AMI](#amazon-ecs-optimized-ami)
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
@@ -263,6 +264,17 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46PRLMW8otg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## AWS OpsWorks
+- [AWS OpsWorks](https://aws.amazon.com/opsworks/)
+- [youtube: AWS OpsWorks Overview and Demo](https://www.youtube.com/watch?v=cj_LoG6C2xk&list=PLR3sVanzLpJN6BiYS20K4BMPpiDGifbZy)
+
+[![aws_opsworks_centos](images/aws_opsworks_centos.png)](https://aws.amazon.com/es/about-aws/whats-new/2016/06/aws-opsworks-supports-centos/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TPc4zdFg12M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
