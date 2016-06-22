@@ -38,6 +38,8 @@ para universitarios y titulados júnior
 
 [![efintech_show_bcn](images/efintech_show_bcn.jpg)](http://efintechshow.com/)
 
+[![redhat_3scale](images/redhat_3scale.png)](https://www.redhat.com/en/about/press-releases/red-hat-acquire-api-management-leader-3scale)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PhO-ar0la-s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

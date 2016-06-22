@@ -84,6 +84,8 @@
 
 [![no-cost_rhel_developer](images/no-cost_rhel_developer.png)](http://developers.redhat.com/blog/2016/03/31/no-cost-rhel-developer-subscription-now-available/)
 
+[![redhat_3scale](images/redhat_3scale.png)](https://www.redhat.com/en/about/press-releases/red-hat-acquire-api-management-leader-3scale)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3qiWqagaHE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
