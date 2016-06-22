@@ -216,6 +216,9 @@
 
 ## AWS Database Migration Service
 - [AWS Database Migration Service 🌟](https://aws.amazon.com/es/blogs/aws/aws-database-migration-service/)
+- [Whitepaper: Migrating Your Databases to AWS](https://aws.amazon.com/es/dms/learn-more/)
+
+[![aws_database_migration_services](images/aws_database_migration_services.png)](https://aws.amazon.com/es/dms/learn-more/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ouia1Sc5QGo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
