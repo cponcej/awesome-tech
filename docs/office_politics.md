@@ -16,6 +16,11 @@
 </div>
 <br>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/066BFGk6QvA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 # Office Politics
 - [Forbes.com: Office Politics: Must You Play? A Handbook For Survival/Success](http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/)
 - [Setting up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
@@ -70,7 +75,7 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/066BFGk6QvA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZMg4vFcRQs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
@@ -90,17 +95,12 @@
 <br>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BGX4nMrnxg0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Jdk3riKKwo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AZMg4vFcRQs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BGX4nMrnxg0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
