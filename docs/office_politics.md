@@ -147,6 +147,8 @@
 
 [![expansion_relacion_laboral_toxica](images/expansion_relacion_laboral_toxica.png)](http://www.expansion.com/emprendedores-empleo/desarrollo-carrera/2016/06/21/576981aaca474159778b45a1.html)
 
+[![7_managerial_misteps](images/7_managerial_misteps.png)](http://www.inc.com/shawn-doyle/the-7-daily-practices-managers-need-to-stop-doing-.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPJnQ9JB5xA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
