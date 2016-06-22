@@ -190,6 +190,11 @@
 
 [![capgemini_app_security_testing](images/capgemini_app_security_testing.png)](https://www.capgemini.com/cybersecurity/application-security-testing)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ROd-uXV3Ho?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## DevOps Quality Blueprint
 - [Assessing state of your DevOps Adoption - Use of a Quality Blueprint (QBP) Approach](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 - [New Breed of Testers with DevOps](https://www.capgemini.com/blog/capping-it-off/2015/08/new-breed-of-testers-with-devops)
