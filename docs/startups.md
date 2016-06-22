@@ -89,6 +89,8 @@
 
 [![bi_dont_work_for_startup](images/bi_dont_work_for_startup.png)](http://www.businessinsider.com/dont-work-for-a-startup-2016-3)
 
+[![reason_people_leave_startups](images/reason_people_leave_startups.png)](https://www.linkedin.com/pulse/1-reason-why-people-leave-startups-alexander-taub)
+
 [![active_vs_reactive_innovator](images/active_vs_reactive_innovator.png)](https://www.linkedin.com/pulse/you-active-reactive-innovator-gijs-van-wulfen?trk=hp-feed-article-title-channel-add)
 
 # Startups and IT Jobs
