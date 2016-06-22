@@ -73,6 +73,8 @@
 
 ![you_are_not_born_fixed_amount_resilience](images/you_are_not_born_fixed_amount_resilience.jpg)
 
+[![dilbert_relocation](images/dilbert_relocation.gif)](http://dilbert.com/strip/2012-01-01)
+
 ## Management
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
 - [Good vs Bad Leader](http://vladmihalcea.com/2013/12/28/good-vs-bad-leader/)
@@ -106,6 +108,8 @@
 - [Lazy Leadership: Why I rarely go to the office, only see my team a couple times a week, and let other people make important decisions](https://www.linkedin.com/pulse/lazy-leadership-why-i-rarely-go-office-only-see-my-team-wilkinson)
 - [I once caught someone lying on their résumé — here's why you should never fib to an employer](http://www.businessinsider.com/why-you-shouldnt-lie-on-your-resume)
 - [The 8 Delegation Myths Of The Office 🌟](http://www.careerealism.com/the-8-myths-of-delegation/)
+
+[![dilbert_company_knows_everyting](images/dilbert_company_knows_everyting.gif)](http://dilbert.com/strip/1998-02-06)
 
 [![a_cure_for_bad_boss_problem](images/a_cure_for_bad_boss_problem.png)](http://www.forbes.com/sites/lizryan/2016/06/17/is-there-a-cure-for-my-bad-boss-problem/)
 
