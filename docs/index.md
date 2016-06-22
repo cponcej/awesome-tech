@@ -15,10 +15,6 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 
-<iframe src="http://tunein.com/embed/player/s182103/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
-
-<iframe src="http://tunein.com/embed/player/s182104/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
-
 **Table of Contents**
 
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)
@@ -96,6 +92,8 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
     - [Live News 🌟](live-news.md)
     - [World Press Photo 🌟🌟🌟🌟](world-press-photo.md)
     - [Quote](mkeiser.md)
+
+<iframe src="http://tunein.com/embed/player/s182103/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
