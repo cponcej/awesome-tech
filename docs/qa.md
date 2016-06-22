@@ -188,6 +188,8 @@
 
 [![owasp_testing_guide](images/owasp_testing_guide.png)](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
+[![capgemini_app_security_testing](images/capgemini_app_security_testing.png)](https://www.capgemini.com/cybersecurity/application-security-testing)
+
 ## DevOps Quality Blueprint
 - [Assessing state of your DevOps Adoption - Use of a Quality Blueprint (QBP) Approach](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 - [New Breed of Testers with DevOps](https://www.capgemini.com/blog/capping-it-off/2015/08/new-breed-of-testers-with-devops)
