@@ -215,6 +215,26 @@
 
 [![gerrit_jenkins](images/gerrit_jenkins.png)](https://gitenterprise.me/category/jenkins/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4xxhVGnaSA1rg1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lucamilanesio/gerrit-code-review" title="Gerrit Code Review" target="_blank">Gerrit Code Review</a> </strong> de <strong><a href="//www.slideshare.net/lucamilanesio" target="_blank">Luca Milanesio</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/eGWOAw5vhHC9h1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kfish/git-and-gerrit" title="How Git and Gerrit make you more productive" target="_blank">How Git and Gerrit make you more productive</a> </strong> from <strong><a href="//www.slideshare.net/kfish" target="_blank">Karsten Dambekalns</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IcAGqTssPwRiI9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lucamilanesio/gerrit-codereviewgit-hubplugin" title="Gerrit Code Review with GitHub plugin" target="_blank">Gerrit Code Review with GitHub plugin</a> </strong> from <strong><a href="//www.slideshare.net/lucamilanesio" target="_blank">Luca Milanesio</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4dl9cPIshTpj2L" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lucamilanesio/gerrit-is-getting-native-with-rpm-deb-and-docker" title="Gerrit is Getting Native with RPM, Deb and Docker" target="_blank">Gerrit is Getting Native with RPM, Deb and Docker</a> </strong> from <strong><a href="//www.slideshare.net/lucamilanesio" target="_blank">Luca Milanesio</a></strong> </div>
+</div>
+<br>
+
 ## JUnit
 - [JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
 - [JUnit 5: Setup, Build Tool Support, and Writing Your First Test](https://dzone.com/articles/junit-5-setup)
