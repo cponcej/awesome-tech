@@ -71,6 +71,8 @@
 
 [![bi_motherhood](images/bi_motherhood.png)](http://www.businessinsider.com/r-motherhood-penalty-daddy-bonus-new-british-parents-judged-at-work-2016-3)
 
+![you_are_not_born_fixed_amount_resilience](images/you_are_not_born_fixed_amount_resilience.jpg)
+
 ## Management
 - [What is conservative management style?](http://www.answers.com/Q/What_is_conservative_management_style)
 - [Good vs Bad Leader](http://vladmihalcea.com/2013/12/28/good-vs-bad-leader/)

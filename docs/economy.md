@@ -341,6 +341,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The four big reasons why 4 billion people aren&#39;t online <a href="https://t.co/HSd9qaunHo">https://t.co/HSd9qaunHo</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> &amp; <a href="https://twitter.com/jackschofield">@jackschofield</a> <a href="https://t.co/ZpS6zRQigQ">pic.twitter.com/ZpS6zRQigQ</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/706494911428874240">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The disturbing number of nuclear bombs that humans have detonated throughout history <a href="https://t.co/dXjoHsPrIB">https://t.co/dXjoHsPrIB</a> <a href="https://t.co/VcG2aeLH2e">pic.twitter.com/VcG2aeLH2e</a></p>&mdash; BI Video (@BI_Video) <a href="https://twitter.com/BI_Video/status/745341965248696320">21 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![top countries with the most people living overseas](images/top_countries_with_most_people_living_overseas.png)](http://www.forbes.com/sites/niallmccarthy/2016/01/15/the-countries-with-the-most-native-born-people-living-abroad-infographic/)
 
 [![OECD tomorrow's scientists](images/oecd_tomorrows_scientists.png)](https://twitter.com/OECD)

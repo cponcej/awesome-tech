@@ -150,6 +150,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Building a business: &quot;It&#39;s about being OK with failure and knowing you&#39;ll make mistakes.&quot; <a href="https://t.co/scRF54QQ2h">https://t.co/scRF54QQ2h</a> <a href="https://t.co/B5eXQtiJ12">pic.twitter.com/B5eXQtiJ12</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/745245137912107009">21 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![entrepreneurs_stop_micromanaging](images/entrepreneurs_stop_micromanaging.png)](https://www.entrepreneur.com/article/274517)
 
 [![startups_do_donts](images/startups_do_donts.png)](https://www.linkedin.com/pulse/startups-dos-donts-first-3-years-pradeep-agarwal)
@@ -233,6 +236,9 @@
 [![mobile_health](images/mobile_health.png)](http://www.economist.com/news/business/21694523-mobile-health-apps-are-becoming-more-capable-and-potentially-rather-useful-things-are-looking)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Britain&#39;s most hipster city is also one of its richest <a href="https://t.co/EMspIF3sjr">https://t.co/EMspIF3sjr</a> <a href="https://t.co/vHjoV0iLwf">pic.twitter.com/vHjoV0iLwf</a></p>&mdash; The Economist (@TheEconomist) <a href="https://twitter.com/TheEconomist/status/711583779475890176">20 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How do you choose where to live? Each generation has different qualifications: <a href="https://t.co/QX0aAQBkru">https://t.co/QX0aAQBkru</a> <a href="https://t.co/KGes0qWlqQ">pic.twitter.com/KGes0qWlqQ</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/745239855064547328">21 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mapa mundial del desempleo. <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> <a href="https://twitter.com/hashtag/paro?src=hash">#paro</a> <a href="https://t.co/cuy1ju7xCy">pic.twitter.com/cuy1ju7xCy</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/710463801561325568">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -174,6 +174,8 @@
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
 
+[![fedora24](images/fedora24.png)](https://www.redhat.com/en/about/press-releases/fedora-24-now-generally-available-delivers-new-cloud-and-container-features)
+
 ## Red Hat Security
 - [Red Hat Security Blog](https://access.redhat.com/blogs/product-security)
 - [Red Hat Security guide](https://www.redhat.com/en/technologies/guide/it-security)
