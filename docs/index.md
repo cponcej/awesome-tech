@@ -15,6 +15,10 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
 
+<iframe src="http://tunein.com/embed/player/s182103/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
+
+<iframe src="http://tunein.com/embed/player/s182104/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
+
 **Table of Contents**
 
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)
