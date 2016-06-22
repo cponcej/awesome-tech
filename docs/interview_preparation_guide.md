@@ -30,6 +30,11 @@
 
 ![align_with_people_who_fit_your_destiny](images/align_with_people_who_fit_your_destiny.jpg)
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/rQKis2Cfpeo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
