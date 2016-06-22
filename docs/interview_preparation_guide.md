@@ -91,6 +91,8 @@
 
 [![10_things_recruiters_dont_need_to_know_about_you](images/10_things_recruiters_dont_need_to_know_about_you.png)](http://www.forbes.com/sites/lizryan/2016/03/17/ten-things-recruiters-dont-need-to-know-about-you/2)
 
+[![howto_create_resume](images/howto_create_resume.png)](http://www.careerealism.com/resume-captures-hearts-minds-job-offers-employers/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vMiSf7LpFQE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
