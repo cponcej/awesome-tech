@@ -24,6 +24,9 @@
 - [captainkvm.com 🌟🌟🌟](http://captainkvm.com)
 - [red hat whitepaper: ADVANCED OPERATIONS WITH RED HAT ENTERPRISE VIRTUALIZATION 3.6 🌟🌟🌟](https://www.redhat.com/cms/managed-files/vi-red-hat-enterprise-virtualization-testing-whitepaper-inc0383299-201605-en-2.pdf)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">See how Red Hat CloudForms helps you calculate estimated VM Cost during service provisioning. | <a href="https://t.co/KZIUvhmkVK">https://t.co/KZIUvhmkVK</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/745919351103062016">23 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HsqtHT8auxg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

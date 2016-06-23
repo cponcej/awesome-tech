@@ -86,6 +86,9 @@
 
 [![redhat_3scale](images/redhat_3scale.png)](https://www.redhat.com/en/about/blog/red-hat-and-api-economy)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat (<a href="https://twitter.com/RedHatNews">@RedHatNews</a>) acquires API management company 3scale, will open-source the code <a href="https://t.co/fuauq0QSJ6">https://t.co/fuauq0QSJ6</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/745920021730312192">23 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![faq_redhat_acquire_3scale](images/faq_redhat_acquire_3scale.png)](https://www.redhat.com/en/about/blog/faq-red-hat-acquire-3scale)
 
 <div class="container">
@@ -246,6 +249,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This just keeps getting better - the integration between <a href="https://twitter.com/ansible">@ansible</a> , CloudForms and <a href="https://twitter.com/openshift">@openshift</a>  will blow people away <a href="https://t.co/gjIkFajGRB">pic.twitter.com/gjIkFajGRB</a></p>&mdash; Adam Clater (@shatnerandsulu) <a href="https://twitter.com/shatnerandsulu/status/736195823437021184">27 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">See how Red Hat CloudForms helps you calculate estimated VM Cost during service provisioning. | <a href="https://t.co/KZIUvhmkVK">https://t.co/KZIUvhmkVK</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/745919351103062016">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Check out our free course on deploying applications in containers. | <a href="https://t.co/eaKnn7xdrE">https://t.co/eaKnn7xdrE</a> <a href="https://t.co/h2ZB3Qi7wS">pic.twitter.com/h2ZB3Qi7wS</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/730531688644677632">11 de mayo de 2016</a></blockquote>

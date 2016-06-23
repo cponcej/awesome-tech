@@ -143,6 +143,9 @@
 - [Learn it Faster: The Entire JavaScript Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-javascript-language-in-a-single-image/)
 - [Learn it Faster: The Entire Python Language in a Single Image](http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ICYMI?src=hash">#ICYMI</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> signed a definitive agreement to acquire 3scale: <a href="https://t.co/FNEoLPH5DZ">https://t.co/FNEoLPH5DZ</a> <a href="https://twitter.com/3scale">@3scale</a> <a href="https://t.co/IcXOir7dhC">pic.twitter.com/IcXOir7dhC</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/745934140869054468">23 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Getting the most out of <a href="https://twitter.com/hashtag/financial?src=hash">#financial</a> <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a> <a href="https://twitter.com/hashtag/FinTech?src=hash">#FinTech</a> <a href="https://t.co/zYPAbde48q">https://t.co/zYPAbde48q</a></p>&mdash; Liesbeth (@beckerhoff1973) <a href="https://twitter.com/beckerhoff1973/status/743684169406963714">17 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
