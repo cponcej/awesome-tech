@@ -338,6 +338,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The amount of time it takes to fix <a href="https://twitter.com/hashtag/technical?src=hash">#technical</a> debt could save you so much more time, effort &amp; hassle. <a href="https://twitter.com/hashtag/WorthIt?src=hash">#WorthIt</a> <a href="https://twitter.com/hashtag/Lean?src=hash">#Lean</a> <a href="https://t.co/Q4PCqzNXas">https://t.co/Q4PCqzNXas</a></p>&mdash; Scrum.org (@Scrumdotorg) <a href="https://twitter.com/Scrumdotorg/status/744980516072456196">20 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![cross_functional_teams_dysfunction](images/cross_functional_teams_dysfunction.png)](https://www.linkedin.com/pulse/taking-dysfunction-out-cross-functional-teams-eric-feng)
+
 #### Product Owner
 - [medium.com: Product Owner Responsibilities in Agile (Scrum Methodologies) 🌟🌟](https://medium.com/agile-project-management-scrum-lean-kanban/product-owner-responsibilities-in-agile-scrum-methodologies-dc7aeeb5ff71)
 - [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)
