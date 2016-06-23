@@ -75,6 +75,8 @@
 - [Ansible automation glue 🌟🌟🌟](https://www.ansible.com/blog/ansible-automation-glue) Mark Phillips put together a great demo video (18 minutes) which covers aspects of how powerful and flexible Ansible is as a tool - from machine provisioning to configuration management to code deployment to interacting with various APIs - all in the pursuit of gluing together many components.
 - [Open Source Alternative to Ansible Tower 🌟](https://github.com/ansible-semaphore/semaphore)
 
+[![free_ansible_books](images/free_ansible_books.png)](https://www.ansible.com/blog/free-ansible-ebooks)
+
 [![Ansible for DevOps](images/ansible-for-devops-cover.jpg)](http://www.ansiblefordevops.com/)
 
 [![zabbix_share_ansible](images/zabbix_share_ansible.png)](https://share.zabbix.com/)
