@@ -92,6 +92,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Microsoft announces new data protection tool to help enterprises secure their data <a href="https://t.co/CuHnL5Nn99">https://t.co/CuHnL5Nn99</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/745741921381916673">22 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/sbikKfH34KbY7D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TVEDTnet/microsoft-windows-10-bootcamp-active-directory" title="Microsoft Windows 10 Bootcamp - Active directory" target="_blank">Microsoft Windows 10 Bootcamp - Active directory</a> </strong> from <strong><a href="//www.slideshare.net/TVEDTnet" target="_blank">Olav Tvedt</a></strong> </div>
 </div>
