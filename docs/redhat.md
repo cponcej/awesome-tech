@@ -276,6 +276,11 @@
 
 [![openshift-dockercon-2016](images/openshift-dockercon-2016.jpg)](http://bit.ly/openshift-dockercon-2016)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cmr3UZCkL5A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Red Hat OpenStack
 - [Red Hat OpenStack](redhat_openstack.md)
 
