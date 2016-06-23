@@ -72,6 +72,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Boom, bubble or bust for fintech? <a href="https://t.co/BnXho0OpOC">https://t.co/BnXho0OpOC</a> by <a href="https://twitter.com/howardlindzon">@howardlindzon</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/743171391411785728">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![biggest_devels_fintech_2016](images/biggest_devels_fintech_2016.png)](http://www.wired.co.uk/article/biggest-developments-in-fintech-in-2016)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uScvb-BBp_M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
