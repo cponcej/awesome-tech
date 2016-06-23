@@ -277,6 +277,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cable/broadband operators fear losing content to OTT players but still take the risk says Incognito Software survey <a href="http://t.co/VjVL3DRorO">http://t.co/VjVL3DRorO</a></p>&mdash; Openwave Messaging (@owMessaging) <a href="https://twitter.com/owMessaging/status/363444597038383104">2 de agosto de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7dpcDA8-8I?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## Big Data Security
 - [[2014] Big Data y Privacidad por Chema Alonso](https://youtu.be/_oeqjepFkEY)
 - [Panopticlick.eff.org: Is your browser safe against tracking?](https://panopticlick.eff.org/)
