@@ -19,6 +19,12 @@
 # How to Fire and Onboard Employees
 ## How to Fire
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
+- [This CEO Has Some Strict Rules on Firing People 🌟🌟🌟](https://www.linkedin.com/pulse/ceo-has-some-strict-rules-firing-people-betty-liu)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U10gFLspWZk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">Check out this HBR article on how to embrace complex change. | <a href="https://t.co/McNTpbrQwP">https://t.co/McNTpbrQwP</a> <a href="https://t.co/p8aMSXyauL">pic.twitter.com/p8aMSXyauL</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/706809624440266752">March 7, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
