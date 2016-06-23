@@ -68,6 +68,8 @@
 
 [![teamviewer_hacked](images/teamviewer_hacked.png)](http://arstechnica.com/security/2016/06/teamviewer-users-are-being-hacked-in-bulk-and-we-still-dont-know-how/)
 
+[![buscar_imagenes_google](images/buscar_imagenes_google.png)](http://blogthinkbig.com/como-sacarle-todo-el-provecho-al-buscador-de-imagenes-de-google/)
+
 ## Internet speed. Test de velocidad
 - [fast.com](https://fast.com)
 - [speedtest.net](http://www.speedtest.net)
