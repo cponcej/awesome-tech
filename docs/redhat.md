@@ -57,6 +57,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/FASTWEB">@FASTWEB</a>, <a href="https://twitter.com/paddypower">@paddypower</a> &amp; <a href="https://twitter.com/hashtag/Produban?src=hash">#Produban</a> deploy <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> <a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> Platform to enable cloud innovation: <a href="https://t.co/TKMmWKmHzZ">https://t.co/TKMmWKmHzZ</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/744006976313528320">18 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Produban despliega Red Hat OpenStack Platform como columna vertebral de sus iniciativas en la nube - FinancialTech M…<a href="https://t.co/NXxnVI09q6">https://t.co/NXxnVI09q6</a></p>&mdash; Javier lopez (@jalmor_es) <a href="https://twitter.com/jalmor_es/status/730636680126824452">12 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/CaixaSeguradora">@CaixaSeguradora</a> gains an agile, scalable <a href="https://twitter.com/hashtag/virtualization?src=hash">#virtualization</a> platform with <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>: <a href="https://t.co/zUxxP0bSMb">https://t.co/zUxxP0bSMb</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/734385327356424196">22 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
