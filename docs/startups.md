@@ -530,6 +530,8 @@
 
 [![Oracle buys Sun](images/oracle-sun.jpg)](http://www.zdnet.com/article/worst-tech-mergers-and-acquisitions-oracle-and-sun-and-the-sad-tale-of-palm/)
 
+[![11_biggest_tech_mergers](images/11_biggest_tech_mergers.png)](http://www.businessinsider.com/microsoft-linkedin-the-10-biggest-tech-mergers-in-history-2016-6)
+
 [![Dell EMC deal](images/Dell-EMC-deal.png)](http://marketrealist.com/2015/10/emc-uyout-marks-technology-industrys-biggest-buyout/)
 
 [![victim dot com bust](images/victim_dot_com_bust.png)](http://www.businessinsider.com/bonnie-crater-interview-2016-3)

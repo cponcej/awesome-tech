@@ -102,6 +102,8 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 
 [![dilbert_consultant_cloud](images/dilbert_consultant_cloud.png)](http://dilbert.com/strip/2011-01-07)
 
+[![quality_vs__quantity](images/quality_vs__quantity.png)](http://stuartmday.deviantart.com/art/Quality-vs-Quantity-377746374)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7HF1Sfos3v4?list=PL_h5o0KnrCrgB0Xo19U6orpWOv9yxK-c7" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

@@ -88,6 +88,18 @@
 </div>
 <br/>
 
+[![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
+
+[![dilbert_qa2](images/dilbert_qa2.gif)](http://dilbert.com/strip/2010-03-07)
+
+[![dilbert_qa1](images/dilbert_qa1.gif)](http://dilbert.com/strip/2012-12-05)
+
+[![dilbert_qa3](images/dilbert_qa3.gif)](http://dilbert.com/strip/2016-02-21)
+
+[![dilbert_qa4](images/dilbert_qa4.gif)](http://dilbert.com/strip/2011-07-21)
+
+[![dilbert_qa5](images/dilbert_qa5.gif)](http://dilbert.com/strip/1990-04-20)
+
 # QA. Software Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
