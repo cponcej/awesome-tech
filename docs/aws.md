@@ -15,6 +15,7 @@
     - [AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start](#aws-architecture-blog-official-blog-aws-labs-aws-quick-start)
     - [AWS tips](#aws-tips)
     - [AWS New Features](#aws-new-features)
+    - [AWS Management Console](#aws-management-console)
     - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
     - [AWS RDS](#aws-rds)
     - [AWS Application Discovery Service](#aws-application-discovery-service)
@@ -173,6 +174,9 @@
 - [Amazon WorkMail – Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-workmail-now-generally-available/)
 - [London Calling! An AWS Region is coming to the UK!](http://www.allthingsdistributed.com/2015/11/aws-announces-uk-region.html)
 - [New – Scheduled Reserved Instances](https://aws.amazon.com/blogs/aws/new-scheduled-reserved-instances/)
+
+## AWS Management Console
+- [Working with the AWS Management Console 🌟🌟🌟](http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
 
 ## AWS Schema Conversion Tool
 - [cloudacademy.com: Migrating Data to AWS Using the AWS Schema Conversion Tool: A Preview](http://cloudacademy.com/blog/migrating-data-to-aws/)
