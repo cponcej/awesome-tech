@@ -68,7 +68,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
     - [Java](java.md)
 	- [Python](python.md)
 	- [Static Site Generators 🌟🌟](staticsitegen.md)
-11. [QA. Software Testing 🌟🌟🌟](qa.md)
+11. [QA and Testing 🌟🌟🌟](qa.md)
 	- [Scalability and Reliability 🌟](scalability.md)
 	- [Web Performance and Metrics. JMeter, Webpagetest, Zabbix, APM](metrics.md)
 	- [Continuous Integration Tools. Jenkins, Git](jenkins-git.md)

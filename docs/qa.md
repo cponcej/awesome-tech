@@ -1,7 +1,7 @@
 
 <!-- MarkdownTOC -->
 
-- [QA. Software Testing](#qa-software-testing)
+- [QA and Testing](#qa-and-testing)
     - [Blogs](#blogs)
     - [Mapas Mentales para Software Testing](#mapas-mentales-para-software-testing)
     - [ISTQB](#istqb)
@@ -100,7 +100,7 @@
 
 [![dilbert_qa5](images/dilbert_qa5.gif)](http://dilbert.com/strip/1990-04-20)
 
-# QA. Software Testing
+# QA and Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
 - [blog.testproject.io - World’s most desirable test automation skills!](http://blog.testproject.io/2015/12/03/worlds-most-desirable-automation-skills/)
 - [TestNG: Run tests sequentially with @DataProvider inside one test class](http://www.javacodegeeks.com/2014/01/testng-run-tests-sequentially-with-dataprovider-inside-one-test-class.html)
