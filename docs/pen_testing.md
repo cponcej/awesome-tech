@@ -24,6 +24,8 @@
 - [foxglovesecurity.com: Building a Wireless Pentest Environment using Docker](http://foxglovesecurity.com/2016/02/24/when-whales-fly-building-a-wireless-pentest-environment-using-docker/)
 - [Here are the top hacking tools for 2016 used by hackers and pentesters 🌟🌟](http://hackzzon.blogspot.com.es/2016/02/top-hacking-tools-for-2016-for-hackers.html)
 - [Use SQLMAP SQL Injection to hack a website and database in Kali Linux 🌟🌟](https://www.darkmoreops.com/2014/08/28/use-sqlmap-sql-injection-hack-website-database/)
+- [PENETRATION TESTING ACADEMY](https://pentestacademy.wordpress.com/)
+    - [Common Windows Commands for Pentesters 🌟](https://pentestacademy.wordpress.com/2016/06/21/common-windows-commands-for-pentesters/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/r2FJWflQkniIRU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jeromeathias/cve-web-applicationpenetrationtesting" title="Leveraging CVE for Web Application Penetration Testing" target="_blank">Leveraging CVE for Web Application Penetration Testing</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/jeromeathias">Jerome Athias</a></strong> </div>
