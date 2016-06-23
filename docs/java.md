@@ -27,6 +27,11 @@
 
 [![where_oracle_supporters](images/where_oracle_supporters.png)](https://dzone.com/articles/oracle-vs-google-is-anyone-rooting-for-oracle)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat (<a href="https://twitter.com/RedHatNews">@RedHatNews</a>) acquires API management company 3scale, will open-source the code <a href="https://t.co/fuauq0QSJ6">https://t.co/fuauq0QSJ6</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/745920021730312192">23 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![redhat_3scale_buy_misunderstood](images/redhat_3scale_buy_misunderstood.png)](http://seekingalpha.com/article/3983863-redhat-3scale-buy-misunderstood)
+
 # Java
 ## Java on Twitter
 - [twitter.com/java](https://twitter.com/java)
