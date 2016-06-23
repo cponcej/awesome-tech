@@ -35,6 +35,8 @@
 
 [![after_work_determines_your_future](images/after_work_determines_your_future.png)](https://www.linkedin.com/pulse/after-work-what-determines-your-future-spend-one-hour-sundaram)
 
+[![build_skills_outside_work](images/build_skills_outside_work.png)](http://www.careerealism.com/build-skills-expertise-outside-work/)
+
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
 - [Six Certification Exam Mistakes to Avoid](http://www.globalknowledge.com/training/generic.asp?pageid=3833)
@@ -155,12 +157,15 @@
     - [twitter.com/codek_tv](https://twitter.com/codek_tv)
 - [codely.TV 🌟](http://codely.tv/) Vídeos cada jueves. Objetivos: Transmitir conocimiento mediante screencasts de programación y dar a conocer el mundo de la informática vía entrevistas.
 	- [twitter.com/CodelyTV](https://twitter.com/CodelyTV)
+- [gcflearnfree.org 🌟🌟](http://www.gcflearnfree.org/)
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
 
 [![codelytv](images/codelytv.png)](http://codely.tv/)
 
 [![itfreetraining](images/itfreetraining.jpg)](https://www.youtube.com/user/itfreetraining)
+
+[![gcf_learnfree](images/gcf_learnfree.png)](http://www.gcflearnfree.org/)
 
 [![bi_7sites_learn_skills_free](images/bi_7sites_learn_skills_free.png)](http://www.businessinsider.com/7-sites-where-you-can-learn-a-new-skill-for-free-2016-3)
 
