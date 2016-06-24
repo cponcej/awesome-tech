@@ -494,6 +494,11 @@
 - [Analyze Your Data on Amazon DynamoDB with Apache Spark 🌟🌟](http://blogs.aws.amazon.com/bigdata/post/Tx1G4SQRV049UL0/Analyze-Your-Data-on-Amazon-DynamoDB-with-Apache-Spark)
 - [Using Spark SQL for ETL](http://blogs.aws.amazon.com/bigdata/post/Tx2D93GZRHU3TES/Using-Spark-SQL-for-ETL)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fkGCM0feC0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">AWS <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> Blog month in review: <a href="https://t.co/dsC9KNe95a">https://t.co/dsC9KNe95a</a> <a href="https://t.co/QrJV88ruLs">pic.twitter.com/QrJV88ruLs</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/694702660344107008">febrero 3, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
