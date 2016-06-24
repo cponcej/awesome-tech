@@ -239,6 +239,9 @@ para universitarios y titulados júnior
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Zhilabs granted Spark Certification from Databricks.  <a href="https://t.co/swEPhVhIuK">https://t.co/swEPhVhIuK</a> <a href="https://t.co/eBAgdhT32r">pic.twitter.com/eBAgdhT32r</a></p>&mdash; Zhilabs (@Zhilabs) <a href="https://twitter.com/Zhilabs/status/698447100359659521">13 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We keep working hard on our expansion. New integration with our partner FIGARO <a href="https://t.co/qIxEz607ES">https://t.co/qIxEz607ES</a> <a href="https://t.co/0lOb7UaeC2">pic.twitter.com/0lOb7UaeC2</a></p>&mdash; ROIBACK (@ROIBACK) <a href="https://twitter.com/ROIBACK/status/732231539644354561">16 de mayo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ABA&#39;s <a href="https://twitter.com/hashtag/quicktips?src=hash">#quicktips</a> to learn <a href="https://twitter.com/hashtag/English?src=hash">#English</a>: Practice really does make perfect (or close to perfect) <a href="https://twitter.com/hashtag/learn?src=hash">#learn</a> <a href="https://t.co/xnRl8tQ8EK">pic.twitter.com/xnRl8tQ8EK</a></p>&mdash; ABA English (@ABAEnglish) <a href="https://twitter.com/ABAEnglish/status/701852015606046732">22 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
