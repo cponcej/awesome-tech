@@ -73,6 +73,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Happy to hear that we just passed 400 <a href="https://twitter.com/hashtag/AWS?src=hash">#AWS</a> new functionality launches for 2016... up 36% over the same week in 2015 <a href="https://twitter.com/mza">@mza</a> <a href="https://twitter.com/jeffbarr">@jeffbarr</a></p>&mdash; Ariel Kelman (@akelman) <a href="https://twitter.com/akelman/status/742792888673697792">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![a cloud  guru at udemy](images/acloudguru.png)](https://www.udemy.com/user/ryankroonenburg/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Passed the AWS Solution Architect Associate exam today.. Highly recommend the <a href="https://twitter.com/acloudguru">@acloudguru</a> courses for exam prep. <a href="https://t.co/lJiJefDbsD">https://t.co/lJiJefDbsD</a></p>&mdash; Mairtin O Sullivan (@_mairtin_) <a href="https://twitter.com/_mairtin_/status/691612822002868224">enero 25, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![a cloud  guru](images/acloudguru_black.png)](https://acloud.guru)
+
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
 - [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
