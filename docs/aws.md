@@ -489,6 +489,7 @@
 - [AWS Config Rules now available in 4 new regions: US West (Oregon), EU (Ireland), EU (Frankfurt) and Asia Pacific (Tokyo)](https://aws.amazon.com/es/about-aws/whats-new/2016/04/aws-config-rules-now-available-in-4-new-regions-us-west-oregon-eu-ireland-eu-frankfurt-and-asia-pacific-tokyo/)
 
 ## AWS BigData 
+- [aws.amazon.com/big-data 🌟🌟](http://aws.amazon.com/big-data)
 - [blogs.aws.amazon.com/bigdata](http://blogs.aws.amazon.com/bigdata/)
 - [Querying Amazon Kinesis Streams Directly with SQL and Spark Streaming](http://blogs.aws.amazon.com/bigdata/post/Tx3916WCIUPVA3T/Querying-Amazon-Kinesis-Streams-Directly-with-SQL-and-Spark-Streaming)
 - [Analyze Your Data on Amazon DynamoDB with Apache Spark 🌟🌟](http://blogs.aws.amazon.com/bigdata/post/Tx1G4SQRV049UL0/Analyze-Your-Data-on-Amazon-DynamoDB-with-Apache-Spark)
