@@ -214,6 +214,9 @@
 
 [![queen_backs_brexit](images/queen_backs_brexit.jpg)](http://www.bbc.com/news/uk-politics-eu-referendum-35760912)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Absolutely brilliant poll on Brexit by <a href="https://twitter.com/YouGov">@YouGov</a> <a href="https://t.co/EPevG1MOAW">pic.twitter.com/EPevG1MOAW</a></p>&mdash; Tancredi Palmeri (@tancredipalmeri) <a href="https://twitter.com/tancredipalmeri/status/746115846624403457">23 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![Recession. Countries by GDP per Capita in 2014](images/Countries_by_GDP_Per_Capita_in_2014.png)](https://en.wikipedia.org/wiki/Recession)
 
 [![OECD Data: Household debt](images/oecd_household_debt.png)](https://data.oecd.org)
