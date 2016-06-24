@@ -41,6 +41,8 @@
 
 ![The art of programming](images/the_art_of_programming.jpg)
 
+[![dzone_simple_code_is_beautiful](images/dzone_simple_code_is_beautiful.png)](https://dzone.com/articles/simple-code-is-beautiful)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which Career to Choose: Programmer Vs Administrator <a href="http://t.co/JWYZS7mfjz">http://t.co/JWYZS7mfjz</a> via <a href="https://twitter.com/tecmint">@tecmint</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/472604266905886720">31 de mayo de 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
