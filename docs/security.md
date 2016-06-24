@@ -67,6 +67,8 @@
 
 [![make_rhel7_pci-dss](images/make_rhel7_pci-dss.png)](https://www.open-scap.org/resources/documentation/make-a-rhel7-server-compliant-with-pci-dss/)
 
+[![zdnet_api_code_security](images/zdnet_api_code_security.png)](http://www.zdnet.com/article/severe-swagger-vulnerability-compromises-nodejs-php-java/)
+
 [![gartner_security_predictions](images/gartner_security_predictions.png)](http://www.gartner.com/smarterwithgartner/top-10-security-predictions-2016)
 
 # Security
