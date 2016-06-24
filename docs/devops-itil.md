@@ -97,6 +97,8 @@
 
 [![key_devops_practices](images/key_devops_practices.png)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 
+[![principles_of_devops](images/principles_of_devops.png)](https://www.linkedin.com/pulse/principles-devops-establishing-sustaining-high-bowler)
+
 [![periodic_table_devops_tools](images/periodic_table_devops_tools.png)](https://xebialabs.com/periodic-table-of-devops-tools/)
 
 [![devops_glossary](images/devops_glossary.png)](https://xebialabs.com/glossary/)
