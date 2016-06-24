@@ -21,6 +21,8 @@
 
 [![itfreetraining](images/itfreetraining.jpg)](https://www.youtube.com/user/itfreetraining)
 
+[![azure_vms_linux](images/azure_vms_linux.png)](http://www.cio.com/article/3087875/cloud-computing/one-third-of-azure-virtual-machines-now-run-linux.html)
+
 # Microsoft
 - [zdnet: Linux and open source have won, get over it](http://www.zdnet.com/article/linux-and-open-source-have-won-get-over-it/) 2015 was the year Linux and open-source software took over the IT world, but many open-source and proprietary software fans still haven't figured it out.
 - [Microsoft open sources its Visual Studio Code light-weight editor](http://www.zdnet.com/article/microsoft-open-sources-its-visual-studio-code-light-weight-editor/)
