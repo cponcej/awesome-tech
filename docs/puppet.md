@@ -31,6 +31,7 @@
 - [Puppet Modules: Apps for Ops](http://pyvideo.org/video/2589/puppet-modules-apps-for-ops)
 - [Geppetto, eclipse plugin for puppet](https://puppetlabs.com/blog-tags/geppetto)
 - [New Releases for AWS and vSphere Modules](https://puppetlabs.com/blog/new-releases-aws-and-vsphere-modules)
+- [puppet.com: Learn to use command line, Vim and Git with our new guide](https://puppet.com/blog/learn-use-command-line-vim-and-git-our-new-guide)
 
 ## DZone and Puppet
 - [DZone: Puppet Labs Redefines Application Orchestration](https://dzone.com/articles/puppet-labs-redefines-application-orchestration)

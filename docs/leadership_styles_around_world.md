@@ -83,6 +83,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How all the biggest tech companies are organized, by <a href="https://twitter.com/hashtag/ManuCornet?src=hash">#ManuCornet</a> <a href="https://twitter.com/hashtag/Humor?src=hash">#Humor</a> <a href="https://twitter.com/hashtag/Tech?src=hash">#Tech</a> <a href="https://twitter.com/hashtag/happyfriday?src=hash">#happyfriday</a> ;) <a href="https://t.co/L7D9XOYduE">pic.twitter.com/L7D9XOYduE</a></p>&mdash; Global Knowledge ESP (@GK_Spain) <a href="https://twitter.com/GK_Spain/status/746291104883015681">24 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/xksfl-5PwAE" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -139,6 +142,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Biggest challenges for new managers:<br><br>1. Balance<br>2. Managing peers<br>3. Motivating the team<a href="https://t.co/7v8ToLyPzm">https://t.co/7v8ToLyPzm</a> <a href="https://t.co/bbVaQQe7EF">pic.twitter.com/bbVaQQe7EF</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/740121125640884224">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![10-mgmt-tips](image/10-mgmt-tips.jpg)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How old were you when u watch this movie?<br>Full Metal Jacket Opening Scene <a href="https://t.co/uELnj7rOrz">https://t.co/uELnj7rOrz</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Gerardo Granados (@BN24GGranados) <a href="https://twitter.com/BN24GGranados/status/707623054302576640">9 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

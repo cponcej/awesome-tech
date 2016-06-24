@@ -27,6 +27,8 @@
 
 [![google_new_website_testing_tool](images/google_new_website_testing_tool.png)](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
 
+[![dzone_howto_troubleshoot_cpu_java](images/dzone_howto_troubleshoot_cpu_java.png)](https://dzone.com/articles/troubleshoot-sudden-cpu-spikes)
+
 [![grafana](images/grafana.png)](http://grafana.org/)
 
 # Metrics

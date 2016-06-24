@@ -42,4 +42,6 @@ En cualquier caso hay una tendencia al Heap-Offloading. El consumo de memoria en
 - [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
 - [cubrid.org: How to Tune Java Garbage Collection](http://www.cubrid.org/blog/dev-platform/how-to-tune-java-garbage-collection)
 
+[![dzone_howto_troubleshoot_cpu_java](images/dzone_howto_troubleshoot_cpu_java.png)](https://dzone.com/articles/troubleshoot-sudden-cpu-spikes)
+
 [![Red Hat CEO quote](images/redhat_ceo_quote.png)](https://twitter.com/redhatnews)

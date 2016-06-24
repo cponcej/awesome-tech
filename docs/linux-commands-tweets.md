@@ -178,3 +178,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Trim leading and trailing whitespace: sed -i &#39;s/^[ \t]*//;s/[ \t]*$//&#39; somefile</p>&mdash; Unix tool tip (@UnixToolTip) <a href="https://twitter.com/UnixToolTip/status/742758635625979904">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">sed -n &#39;107056p&#39; WigleWifi_20140929191654.kml # Print out line 107056 of your input file that your program is choking on for invalid input.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/746055382603169792">23 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">powertop # Will show you the top power consuming processes on your Linux laptop.</p>&mdash; Command Line Magic (@climagic) <a href="https://twitter.com/climagic/status/746418623900590085">24 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

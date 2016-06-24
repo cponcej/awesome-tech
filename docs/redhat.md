@@ -188,11 +188,15 @@
 
 [![redhat_learning_subscription](images/redhat_learning_subscription.png)](https://www.redhat.com/en/about/press-releases/red-hat-launches-new-learning-subscription)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> launches subscription feat. unlimited access to full portfolio of online training content &amp; cert. exams <a href="https://t.co/Y1BxEjzoU5">https://t.co/Y1BxEjzoU5</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/746293795046625280">24 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Fedora
 - [Fedora 23 released - Fedora Magazine](http://fedoramagazine.org/fedora-23-released/)
 	- [Fedora 23: An Impressive Release for Advanced Linux Users](https://www.linux.com/news/software/applications/868617-fedora-23-an-impressive-release-for-advanced-linux-users/)
 
 [![fedora24](images/fedora24.png)](https://www.redhat.com/en/about/press-releases/fedora-24-now-generally-available-delivers-new-cloud-and-container-features)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Explore <a href="https://twitter.com/hashtag/Flatpak?src=hash">#Flatpak</a>, the new distro-agnostic app packaging &amp; distribution system, in the Magazine: <a href="https://t.co/A9OnAfvbAy">https://t.co/A9OnAfvbAy</a></p>&mdash; Fedora Project (@fedora) <a href="https://twitter.com/fedora/status/746406719417376768">24 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Red Hat Security
 - [Red Hat Security Blog](https://access.redhat.com/blogs/product-security)
@@ -402,6 +406,9 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9gYLKxJ9NbY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">At <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a>, we talk about <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>&#39;s recommended approach for migrating from TIBCO to JBoss <a href="https://twitter.com/hashtag/Middleware?src=hash">#Middleware</a> <a href="https://t.co/OeCgDgSeXd">https://t.co/OeCgDgSeXd</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/746092976221224960">23 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others
 - [JBoss GateIn Portal](http://gatein.jboss.org/)

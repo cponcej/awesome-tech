@@ -55,6 +55,8 @@
 - [DZone/Java](https://dzone.com/java-jdk-development-tutorials-tools-news)
 - [genbetadev.com: java-j2ee](http://www.genbetadev.com/categoria/java-j2ee)
 
+[![dzone_howto_troubleshoot_cpu_java](images/dzone_howto_troubleshoot_cpu_java.png)](https://dzone.com/articles/troubleshoot-sudden-cpu-spikes)
+
 ## Java refs
 - [blog.eisele.net: A Refresher - Top 10 Java EE 7 Backend Features](http://blog.eisele.net/2015/12/a-refresher-top-10-java-ee-7-backend.html)
 - [codejava.net: Spring Web MVC Security Basic Example Part 1 with XML Configuration](http://www.codejava.net/frameworks/spring/spring-web-mvc-security-basic-example-part-1-with-xml-configuration)

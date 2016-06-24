@@ -253,6 +253,7 @@
 - [DZone refcard: Getting started with Git 🌟🌟](https://dzone.com/refcardz/getting-started-git)
 - [tutorialzine.com: Learn Git in 30 Minutes 🌟🌟🌟](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 - [3 easy steps to submitting a GitHub pull request](https://opensource.com/life/16/3/submit-github-pull-request)
+- [puppet.com: Learn to use command line, Vim and Git with our new guide](https://puppet.com/blog/learn-use-command-line-vim-and-git-our-new-guide)
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 

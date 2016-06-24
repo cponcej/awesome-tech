@@ -61,16 +61,6 @@
 <br/>
 
 <div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/lEWAyQYKmE4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pdAFB5SzO-8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vuzFtgcZM-8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>

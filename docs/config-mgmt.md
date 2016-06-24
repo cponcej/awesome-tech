@@ -53,8 +53,9 @@
 - [highscalability.com: How to build your Property Management System integration using Microservices](http://highscalability.com/blog/2016/2/10/how-to-build-your-property-management-system-integration-usi.html)
 - [DZone: Breaking Down the Monolith: Microservices vs. Self-Contained Systems](https://dzone.com/articles/breaking-down-a-monolithic-software-a-case-for-mic)
 - [DZone: Carving the Java EE Monolith Into Microservices](https://dzone.com/articles/carving-the-java-ee-monolith-into-microservices) This article looks at how to break up enterprise Java applications into microservices and how to separate concerns and build smaller usable modules.
+- [DZone: 4 Challenges You Need to Address With Microservices Adoption](https://dzone.com/articles/4-challenges-you-need-to-address-with-microservice) Transitioning to microservices creates significant challenges for organizations. This week, I’ll delve into some of the obstacles you might face and the ultimate benefits of your efforts.
 
-[![Updated map of the microservices ecosystem](images/microservices_ecosystem_map.png)](http://techcrunch.com/2016/01/23/get-small-to-get-big-through-microservices/)
+[![Updated map of the microservices ecosystem](images/microservices_ecosystem_map.png)](http://techcrunch.com/2016/01/23/get-small-to-get-big-through-microservices/) 
 
 ![extraordinary](images/extraordinary.gif)
 

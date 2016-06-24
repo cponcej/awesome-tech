@@ -407,6 +407,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">for loop <a href="https://twitter.com/hashtag/oneliner?src=hash">#oneliner</a> in <a href="https://twitter.com/hashtag/bash?src=hash">#bash</a> <a href="https://t.co/oSvQ9DLMag">https://t.co/oSvQ9DLMag</a></p>&mdash; Barthelemy Dagenais (@bartdag) <a href="https://twitter.com/bartdag/status/740160113160359936">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This is so cool. BASH3 Boilerplate – Template for writing better Bash scripts :) <a href="https://t.co/QAJIfuqtP0">https://t.co/QAJIfuqtP0</a><a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/osx?src=hash">#osx</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/745669976854433792">22 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
 
@@ -733,6 +736,9 @@
 <iframe src="https://player.vimeo.com/video/65396820" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">[Comic Friday!]<br><br>To VI Or Not To VI<a href="https://twitter.com/hashtag/Java?src=hash">#Java</a><a href="https://t.co/DVsw2ppChI">https://t.co/DVsw2ppChI</a><br><br>via <a href="https://twitter.com/turnoff_us">@turnoff_us</a> <a href="https://t.co/tFe7T6gGuZ">pic.twitter.com/tFe7T6gGuZ</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/746417886336528385">24 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Emacs
 - [Emacs cheat sheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)

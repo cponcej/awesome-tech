@@ -24,6 +24,9 @@
 - [captainkvm.com 🌟🌟🌟](http://captainkvm.com)
 - [red hat whitepaper: ADVANCED OPERATIONS WITH RED HAT ENTERPRISE VIRTUALIZATION 3.6 🌟🌟🌟](https://www.redhat.com/cms/managed-files/vi-red-hat-enterprise-virtualization-testing-whitepaper-inc0383299-201605-en-2.pdf)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Congratulations: <a href="https://twitter.com/hashtag/oVirt?src=hash">#oVirt</a> 4.0 Final Release is now available! Release highlights and more info on the oVirt blog: <a href="https://t.co/vznUO0vkab">https://t.co/vznUO0vkab</a></p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/746067115585736704">23 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">See how Red Hat CloudForms helps you calculate estimated VM Cost during service provisioning. | <a href="https://t.co/KZIUvhmkVK">https://t.co/KZIUvhmkVK</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/745919351103062016">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
