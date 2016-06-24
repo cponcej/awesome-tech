@@ -138,6 +138,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Understanding the nature of Enterprise IT in a single diagram <a href="https://t.co/GX2Z24Lo2q">pic.twitter.com/GX2Z24Lo2q</a></p>&mdash; swardley (@swardley) <a href="https://twitter.com/swardley/status/743340775065321476">16 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why a strong <a href="https://twitter.com/hashtag/entrepreneur?src=hash">#entrepreneur</a> never gives up <a href="https://t.co/IM7fVNaNSG">https://t.co/IM7fVNaNSG</a> via <a href="https://twitter.com/Forbes">@forbes</a> <a href="https://twitter.com/DavidKWilliams">@DavidKWilliams</a> <a href="https://t.co/gazmHTi6eI">pic.twitter.com/gazmHTi6eI</a></p>&mdash; Paul Denham (@PaulTDenham) <a href="https://twitter.com/PaulTDenham/status/740587951684386816">8 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Startup Blogs, Documentaries and Talks
 - [entrepreneur.com 🌟](http://www.entrepreneur.com)
 - [soyentrepreneur.com](http://www.soyentrepreneur.com)
