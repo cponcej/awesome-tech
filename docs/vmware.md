@@ -37,6 +37,16 @@
 - [maquinasvirtuales.eu: Blog VMware en español](http://www.maquinasvirtuales.eu/)
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yUtzPq7OnH8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HxEO8y9imE0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Bd60P6lGTw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>

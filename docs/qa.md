@@ -90,15 +90,7 @@
 
 [![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
 
-[![dilbert_qa2](images/dilbert_qa2.gif)](http://dilbert.com/strip/2010-03-07)
-
-[![dilbert_qa1](images/dilbert_qa1.gif)](http://dilbert.com/strip/2012-12-05)
-
 [![dilbert_qa3](images/dilbert_qa3.gif)](http://dilbert.com/strip/2016-02-21)
-
-[![dilbert_qa4](images/dilbert_qa4.gif)](http://dilbert.com/strip/2011-07-21)
-
-[![dilbert_qa5](images/dilbert_qa5.gif)](http://dilbert.com/strip/1990-04-20)
 
 # QA and Testing
 - [dzone.com: The QA Checklist Framework. 13 considerations for building your own QA checklist](https://dzone.com/articles/the-qa-checklist-avoid-costly-oversights-by-implem)
@@ -301,6 +293,8 @@
 
 [![dzone_mockito](images/dzone_mockito.png)](https://dzone.com/refcardz/mockito)
 
+[![dilbert_qa5](images/dilbert_qa5.gif)](http://dilbert.com/strip/1990-04-20)
+
 ## Selenium
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 - [selenium 2.49.0 released: Python bindings for Selenium](https://pypi.python.org/pypi/selenium/2.49.0)
@@ -402,6 +396,8 @@
 </div>
 <br/>
 
+[![dilbert_qa4](images/dilbert_qa4.gif)](http://dilbert.com/strip/2011-07-21)
+
 ## Calabash automated acceptance testing for mobile apps
 - [Calabash](http://calaba.sh/)
 
@@ -471,6 +467,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/KKqPKBvTwOP73U" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DavidIonut2/test-link-introduction-52636373" title="TestLink introduction" target="_blank">TestLink introduction</a> </strong> from <strong><a href="//www.slideshare.net/DavidIonut2" target="_blank">David Ionut</a></strong> </div>
 </div>
 <br/>
+
+[![dilbert_qa1](images/dilbert_qa1.gif)](http://dilbert.com/strip/2012-12-05)
 
 ### Atlassian Jira
 - [Jira software](https://en.wikipedia.org/wiki/Jira_%28software%29)
@@ -558,4 +556,6 @@ ________________________________________________________________________________
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Too Full Stack<br> <a href="https://t.co/Pbn9UBCKKv">https://t.co/Pbn9UBCKKv</a> <a href="https://t.co/2nStiS6oFB">pic.twitter.com/2nStiS6oFB</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/710544004199354369">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Watching a user test your product for the first time. <a href="https://t.co/NFWqyW25ld">pic.twitter.com/NFWqyW25ld</a></p>&mdash; 〰 (@darylginn) <a href="https://twitter.com/darylginn/status/707176649478041600">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![dilbert_qa2](images/dilbert_qa2.gif)](http://dilbert.com/strip/2010-03-07)
 

@@ -7,19 +7,19 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr">^^ <a href="https://t.co/wHyUrJlqVS">pic.twitter.com/wHyUrJlqVS</a></p>&mdash; Memes políticos (@PoliReac) <a href="https://twitter.com/PoliReac/status/706102689416011776">5 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[![dilbert_wally_compensation_project](images/dilbert_wally_compensation_project.gif)](http://dilbert.com/strip/1996-05-06)
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;I choose rich every fucking time!&quot; <a href="https://t.co/qkq5JHGwMW">https://t.co/qkq5JHGwMW</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/654310927949541376">14 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/066BFGk6QvA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNrG5lD2zmQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/066BFGk6QvA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
+[![dilbert_wally_compensation_project](images/dilbert_wally_compensation_project.gif)](http://dilbert.com/strip/1996-05-06)
 
 # Office Politics
 - [Forbes.com: Office Politics: Must You Play? A Handbook For Survival/Success](http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/)
