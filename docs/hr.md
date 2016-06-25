@@ -113,6 +113,8 @@
 
 [![dilbert_company_knows_everyting](images/dilbert_company_knows_everyting.gif)](http://dilbert.com/strip/1998-02-06)
 
+[![toxic_employee](images/toxic_employee.png)](https://www.entrepreneur.com/article/277201)
+
 [![a_cure_for_bad_boss_problem](images/a_cure_for_bad_boss_problem.png)](http://www.forbes.com/sites/lizryan/2016/06/17/is-there-a-cure-for-my-bad-boss-problem/)
 
 [![forbes_9things_to_do_your_boss_takes_credit_for_your_work](images/forbes_9things_to_do_your_boss_takes_credit_for_your_work.png)](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
