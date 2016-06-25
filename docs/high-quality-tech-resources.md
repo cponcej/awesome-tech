@@ -39,6 +39,8 @@
 
 [![pace of technology change](images/pace_of_technology_change.png)](http://deloitte.wsj.com/cio/2015/10/20/cultivating-the-it-workforce-of-the-future/)
 
+[![eweek](images/eweek.png)](http://www.eweek.com/)
+
 [![10_fastest-growing_tech_skills](images/10_fastest-growing_tech_skills.jpg)](http://www.computerworld.com/article/3064436/it-skills-training/10-fastest-growing-tech-skills.html)
 
 <div class="container">
