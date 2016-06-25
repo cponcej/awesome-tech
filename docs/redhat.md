@@ -410,6 +410,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">At <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a>, we talk about <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>&#39;s recommended approach for migrating from TIBCO to JBoss <a href="https://twitter.com/hashtag/Middleware?src=hash">#Middleware</a> <a href="https://t.co/OeCgDgSeXd">https://t.co/OeCgDgSeXd</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/746092976221224960">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/267987904&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 ### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others
 - [JBoss GateIn Portal](http://gatein.jboss.org/)
 - [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
