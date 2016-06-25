@@ -35,14 +35,16 @@
     - [Calidad de Software](#calidad-de-software)
 
 <!-- /MarkdownTOC -->
+[![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
+
 [![fixing bugs time](images/fixing_bugs_time.png)](https://twitter.com/myusuf3)
+
+[![state_testing_report_2016](images/state_testing_report_2016.png)](http://qablog.practitest.com/state-of-testing/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5o_KMFrFpc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
-
-[![state_testing_report_2016](images/state_testing_report_2016.png)](http://qablog.practitest.com/state-of-testing/)
 
 [![opensource_qa_tools](images/opensource_qa_tools.png)](https://dzone.com/articles/selecting-the-best-open-source-test-automation-too)
 
@@ -87,8 +89,6 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/vv0CP6Bc6rH8zv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PeterLeschev/how-atlassians-build-engineering-team-has-scaled-to-150k-builds-per-month-and-beyond-puppetconf-2015" title="How Atlassian&#x27;s Build Engineering Team Has Scaled to 150k Builds Per Month and Beyond – PuppetConf 2015" target="_blank">How Atlassian&#x27;s Build Engineering Team Has Scaled to 150k Builds Per Month and Beyond – PuppetConf 2015</a> </strong> from <strong><a href="//www.slideshare.net/PeterLeschev" target="_blank">Peter Leschev</a></strong> </div>
 </div>
 <br/>
-
-[![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
 
 [![dilbert_qa3](images/dilbert_qa3.gif)](http://dilbert.com/strip/2016-02-21)
 
