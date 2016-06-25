@@ -127,6 +127,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">As Red Hat aims for $5 billion in revenue, Linux won’t be only driver <a href="https://t.co/6NWO8bj4Cl">https://t.co/6NWO8bj4Cl</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/745425082265174016">22 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![twitter_opensourcearch](images/twitter_opensourcearch.png)](https://twitter.com/opensourcearch)
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
@@ -454,6 +456,9 @@
 <br>
 
 [![wildfly cookbook](images/WildFly-Cookbook.png)](http://www.wowebook.org/wildfly-cookbook.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Using <a href="https://twitter.com/hashtag/GlassFish?src=hash">#GlassFish</a>? Is <a href="https://twitter.com/hashtag/WebLogic?src=hash">#WebLogic</a> out of reach? Say hello to <a href="https://twitter.com/hashtag/JBoss?src=hash">#JBoss</a> EAP! <a href="https://twitter.com/RedHatPartners">@RedHatPartners</a> <a href="https://t.co/FhKdurxgXM">https://t.co/FhKdurxgXM</a></p>&mdash; OpenSourceArchitect (@opensourcearch) <a href="https://twitter.com/opensourcearch/status/742732291336589312">14 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Getting started with <a href="https://twitter.com/hashtag/EAP7?src=hash">#EAP7</a> and <a href="https://twitter.com/hashtag/JBoss?src=hash">#JBoss</a> Developer Studio by <a href="https://twitter.com/myfear">@myfear</a> <a href="https://t.co/QWeqKIQR69">https://t.co/QWeqKIQR69</a> <a href="https://t.co/ZdD8iqBNAB">pic.twitter.com/ZdD8iqBNAB</a></p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/701666594695602176">febrero 22, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
