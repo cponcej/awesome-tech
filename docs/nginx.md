@@ -10,6 +10,8 @@
 
 [![How Apache Is Losing The Web To NGINX](images/nginx-netcraft-data.jpg)](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
 
+[![eweek_nginx](images/eweek_nginx.png)](http://www.eweek.com/security/nginx-amplifies-web-server-technology.html)
+
 # Nginx
 - [Wikipedia Nginx](https://en.wikipedia.org/wiki/Nginx)
 - [nginx.org](http://nginx.org/)
