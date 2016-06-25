@@ -40,6 +40,8 @@
 
 [![DeutscheBank_cloud_adoption](images/DeutscheBank_cloud_adoption.png)](http://www.networkworld.com/article/3083421/microsoft-subnet/deutsche-bank-nearly-a-third-of-finance-workloads-could-hit-cloud-in-3-years.html)
 
+[![zdnet_it_on_cloud](images/zdnet_it_on_cloud.png)](http://www.zdnet.com/article/it-runs-on-the-cloud-and-the-cloud-runs-on-linux-any-questions/)
+
 # Data Centers
 - [datacentermap.com 🌟](http://www.datacentermap.com)
 	- [datacentermap.com/spain](http://www.datacentermap.com/spain/)

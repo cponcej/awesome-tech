@@ -51,6 +51,8 @@
 
 [![cloud job market](images/cloud_job_market.png)](http://cloudacademy.com/blog/cloud-computing-salary/)
 
+[![zdnet_it_on_cloud](images/zdnet_it_on_cloud.png)](http://www.zdnet.com/article/it-runs-on-the-cloud-and-the-cloud-runs-on-linux-any-questions/)
+
 [![aws_webinar_channel](images/aws_webinar_channel.png)](https://www.youtube.com/user/AWSwebinars)
 
 [![aws_tutorial_series](images/aws_tutorial_series.png)](https://www.youtube.com/user/awstutorialseries)

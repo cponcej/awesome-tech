@@ -72,6 +72,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Linux Journey is a site dedicated to making learning Linux fun and easy.&quot;  <a href="https://t.co/6zFkticGrB">https://t.co/6zFkticGrB</a></p>&mdash; Anthony Pisapia (@anthonypisapia) <a href="https://twitter.com/anthonypisapia/status/738578805053259778">3 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![zdnet_it_on_cloud](images/zdnet_it_on_cloud.png)](http://www.zdnet.com/article/it-runs-on-the-cloud-and-the-cloud-runs-on-linux-any-questions/)
+
 # Sysadmin Blogs
 - [The 79 Best Tech Blogs for sysadmins to follow](http://www.gfi.com/blog/the-79-best-tech-blogs-for-sysadmins-to-follow/)
 - [The Lone SysAdmin](https://lonesysadmin.net)
