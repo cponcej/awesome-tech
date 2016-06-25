@@ -240,6 +240,8 @@
 
 ![always that way](images/always_that_way.jpg)
 
+[![8_tools_to_have_in_devops_toolkit](images/8_tools_to_have_in_devops_toolkit.png)](http://www.eweek.com/enterprise-apps/slideshows/8-important-tools-to-have-in-a-devops-toolkit.html)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Periodic Table of DevOps Tools <a href="https://t.co/xkWVqwLPkq">https://t.co/xkWVqwLPkq</a> <a href="https://t.co/KQPeAsVzTO">pic.twitter.com/KQPeAsVzTO</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/739067366575738880">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Rundeck 
