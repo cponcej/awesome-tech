@@ -9,6 +9,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A primer on steps to consider when migrating VMs to a different virtualization platform <a href="https://t.co/ZDvpR0gXsr">https://t.co/ZDvpR0gXsr</a> <a href="https://twitter.com/hashtag/vmmigration?src=hash">#vmmigration</a> <a href="https://twitter.com/hashtag/vsphere2rhev?src=hash">#vsphere2rhev</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/732944080997654529">18 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![ovirt-logo](images/ovirt-logo.png)](http://www.ovirt.org)
+
 # Red Hat Virtualization
 - [tecmint.com: How to Install RedHat Enterprise Virtualization (RHEV) 3.5](http://www.tecmint.com/install-redhat-virtualization-rhev/)
 	- [Open source Virtualization by Quru, the fastest-growing Red Hat solution provider based in London](https://youtu.be/F2lxJTdfVy8)
@@ -26,6 +28,10 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Congratulations: <a href="https://twitter.com/hashtag/oVirt?src=hash">#oVirt</a> 4.0 Final Release is now available! Release highlights and more info on the oVirt blog: <a href="https://t.co/vznUO0vkab">https://t.co/vznUO0vkab</a></p>&mdash; Red Hat Community (@redhatopen) <a href="https://twitter.com/redhatopen/status/746067115585736704">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![ovirt_noengine](images/ovirt_noengine.png)](http://www.ovirt.org)
+
+[![ovirt_4](images/ovirt_4.png)](http://www.ovirt.org/develop/projects/node/4.0/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">See how Red Hat CloudForms helps you calculate estimated VM Cost during service provisioning. | <a href="https://t.co/KZIUvhmkVK">https://t.co/KZIUvhmkVK</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/745919351103062016">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
