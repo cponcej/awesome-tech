@@ -216,6 +216,12 @@
 
 [![devopsqbp](images/devopsqbp.jpg)](https://www.capgemini.com/blog/capping-it-off/2016/05/assessing-state-of-your-devops-adoption-use-of-a-quality-blueprint-qbp/)
 
+[![devops_qa_capgemini](images/devops_qa_capgemini.png)](https://www.capgemini.com/testing-services/devops-qa-increasing-speed-and-quality)
+
+[![qa_solutions_capgemini](images/qa_solutions_capgemini.png)](https://www.capgemini.com/testing-services/devops-qa-increasing-speed-and-quality)
+
+[![capgemini_testing](images/capgemini_testing.png)](https://www.capgemini.com/testing)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szNowbML4Ck?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
