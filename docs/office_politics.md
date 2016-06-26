@@ -154,6 +154,8 @@
 
 [![7_managerial_misteps](images/7_managerial_misteps.png)](http://www.inc.com/shawn-doyle/the-7-daily-practices-managers-need-to-stop-doing-.html)
 
+[![next_step_in_career](images/next_step_in_career.png)](http://www.careerealism.com/career-ready-next-step/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPJnQ9JB5xA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
