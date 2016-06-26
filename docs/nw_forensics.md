@@ -73,7 +73,7 @@
 - [How Can the Packet Size Be Greater than the MTU?](http://packetbomb.com/how-can-the-packet-size-be-greater-than-the-mtu/)
 - [INE.com training videos: Analyzing Packet Lengths](https://youtu.be/qsUaB36CVDw)
 - [blog.cloudflare.com - The story of one latency spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/)
-	- [packetbomb.com: Case Study: All Web Pages Load Slooooowly](http://packetbomb.com/case-study-all-web-pages-load-slooooowly/)
+	- [packetbomb.com: Case Study: All Web Pages Load Slooooowly 🌟🌟](http://packetbomb.com/case-study-all-web-pages-load-slooooowly/)
 	- [Calculate HTTP response time in wireshark](http://www.thevisiblenetwork.com/2015/01/21/calculate-http-response-time-in-wireshark/)
 	- [Diagnose slow connections with Wireshark](http://theitjuggler.com/how-to/diagnose-slow-connections-wireshark/)
 	- [Toubleshooting with Wireshark: Detect HTTP Delays](http://youtu.be/5k16DWEnEGA)
@@ -90,6 +90,11 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">tcpdump is a command-line packets sniffer or package analyzer tool...<a href="https://t.co/ECkBftFsaX">https://t.co/ECkBftFsaX</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/networking?src=hash">#networking</a> <a href="https://t.co/U31fQ1iC3c">pic.twitter.com/U31fQ1iC3c</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/731765697328517120">15 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtIsj2KHBVw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 #### Laura Chappell
 - [Laura Chappell's Top Videos](https://www.youtube.com/user/thebitgirl/videos)

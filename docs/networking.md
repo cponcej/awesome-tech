@@ -77,6 +77,51 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I FOUND IT. I FOUND THE INTERNET SWITCH. <a href="https://t.co/7xdOxhimI7">pic.twitter.com/7xdOxhimI7</a></p>&mdash; Whitney Champion (@shortxstack) <a href="https://twitter.com/shortxstack/status/707637919809404928">9 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVJ6qoMPBXQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmzqiitKleE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OA8qJzXon3g?list=PLgkVbgoVinpdu8CBnF_4cUzZRcUwDxAd6" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBBuhdLO018?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/_3k5Iic4pWI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rjluns-AEnc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vwywdylnbEo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2UujN_pOcYI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P7zLQyu_zv0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Virtual LAN
 - [Virtual LAN](VLAN.md)
 

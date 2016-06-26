@@ -33,6 +33,8 @@
     - [Automated Acceptance Testing](#automated-acceptance-testing)
     - [Behavior Driven Development](#behavior-driven-development)
     - [Calidad de Software](#calidad-de-software)
+    - [Protocol Testing](#protocol-testing)
+    - [Network Emulator](#network-emulator)
 
 <!-- /MarkdownTOC -->
 [![qualityvsquantity](images/qualityvsquantity.jpg)](https://opsmgt.edublogs.org/2014/09/30/quantity-versus-quality/)
@@ -560,6 +562,22 @@ ________________________________________________________________________________
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/f5Ambk3tSAzmwTFQgrEUqw/139044569770" data-did="eb9a18b0012d1238179ae41a992b0497a3ed51e0"><a href="http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile">http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Too Full Stack<br> <a href="https://t.co/Pbn9UBCKKv">https://t.co/Pbn9UBCKKv</a> <a href="https://t.co/2nStiS6oFB">pic.twitter.com/2nStiS6oFB</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/710544004199354369">17 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Protocol Testing
+- [Guru99.com Protocol Testing](http://www.guru99.com/protocol-testing.html)
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1JWY-9CCTqI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+## Network Emulator
+- [Common Open Research Emulator (CORE)](http://www.nrl.navy.mil/itd/ncs/products/core)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/An_BXThvSVI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Watching a user test your product for the first time. <a href="https://t.co/NFWqyW25ld">pic.twitter.com/NFWqyW25ld</a></p>&mdash; 〰 (@darylginn) <a href="https://twitter.com/darylginn/status/707176649478041600">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
