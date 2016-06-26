@@ -291,6 +291,11 @@
 [![Python for Data Analysis](images/Python-for-Data-Analysis.jpg)](http://www.wowebook.org/python-for-data-analysis.html)
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbKCzgzVNh4?list=PL5L8qNT_l7Cn4B_UKV_aN6H60nChGDMYu" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/73DMPaVzTls?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
