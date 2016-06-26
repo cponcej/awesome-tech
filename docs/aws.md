@@ -254,6 +254,7 @@
 <br/>
 
 ## AWS Redshift
+- [Tutorial: Tuning Table Design 🌟](http://docs.aws.amazon.com/redshift/latest/dg/tutorial-tuning-tables.html) In this tutorial, you will learn how to optimize the design of your tables.
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AUvn49gey8Y?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
