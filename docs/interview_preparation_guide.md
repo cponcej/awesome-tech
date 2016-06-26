@@ -111,6 +111,7 @@
 - [How To Write A LinkedIn Profile When You’re Unemployed](http://www.careerealism.com/linkedin-profile-unemployed/)
 - [5 Secrets To Staying Upbeat In A Job Search](http://www.careerealism.com/job-search-secrets-staying-upbeat/)
 - [How to Answer 'Why Should I Hire You?' 🌟](https://www.entrepreneur.com/article/277683)
+- [10 Reasons Why You Haven’t Heard Back From A Recruiter 🌟🌟🌟](http://www.careerealism.com/reasons-why-havent-heard-recruiter/)
 
 [![dilbert_people_careers_looks](images/dilbert_people_careers_looks.gif)](http://dilbert.com/strip/2010-04-14)
 
