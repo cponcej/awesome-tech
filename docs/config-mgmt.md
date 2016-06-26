@@ -169,6 +169,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sDRYeujbEHoYtI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sarahhynescheney/infrastructure-as-code-with-chef" title="Infrastructure as Code with Chef" target="_blank">Infrastructure as Code with Chef</a> </strong> from <strong><a href="//www.slideshare.net/sarahhynescheney" target="_blank">sarahhynescheney</a></strong> </div>
+</div>
+<br/>
+
 ## Capistrano
 - [Capistrano](http://capistranorb.com)
 - [Capistrano GitHub](https://github.com/capistrano/capistrano)
