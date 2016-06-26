@@ -9,6 +9,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;I choose rich every fucking time!&quot; <a href="https://t.co/qkq5JHGwMW">https://t.co/qkq5JHGwMW</a></p>&mdash; The Wolf of Wall St. (@TheWolfofWaIlSt) <a href="https://twitter.com/TheWolfofWaIlSt/status/654310927949541376">14 de octubre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Summary of this article: UK opting out of EU data protection is terrible and costly idea but somebody will get paid<a href="https://t.co/E9wHq1K0oQ">https://t.co/E9wHq1K0oQ</a></p>&mdash; Ryan Meade (@ryano) <a href="https://twitter.com/ryano/status/747078620460482561">26 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/066BFGk6QvA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

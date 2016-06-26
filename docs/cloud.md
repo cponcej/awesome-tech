@@ -23,6 +23,8 @@
 
 [![baby security](images/baby_security.jpg)](http://blogs.aws.amazon.com/security)
 
+[![ft_tech_companies_datacenters_brexit](images/ft_tech_companies_datacenters_brexit.png)](https://next.ft.com/content/4fbbfc3c-3ae4-11e6-8716-a4a71e8140b0)
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/17iFA4MCdt9EZx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TableauSoftware/top-10-cloud-trends-for-2016" title="Top 10 Cloud Trends for 2016" target="_blank">Top 10 Cloud Trends for 2016</a> </strong> from <strong><a href="//www.slideshare.net/TableauSoftware" target="_blank">Tableau Software</a></strong> </div>
 </div>
