@@ -66,6 +66,9 @@
 
 [![truth_employee_attitude_probs](images/truth_employee_attitude_probs.png)](http://www.forbes.com/sites/lizryan/2016/06/22/the-truth-about-employees-with-attitude-problems)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why do millennials change jobs so frequently? The reasons make a lot of sense: <a href="https://t.co/UWptuL3uuC">https://t.co/UWptuL3uuC</a> <a href="https://t.co/nsSdChLWu9">pic.twitter.com/nsSdChLWu9</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/746780000859336708">25 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Flexible Work Policies
 - [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)

@@ -36,6 +36,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">34 things you should never say during a performance review <a href="https://t.co/C6ObUtWQtc">https://t.co/C6ObUtWQtc</a> <a href="https://t.co/K38X3tssVV">pic.twitter.com/K38X3tssVV</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/737674830695288832">31 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">In meritocracies, leaders can emerge anywhere—if you let them. <a href="https://twitter.com/jackieyeaney">@JackieYeaney</a> explains how to do it: <a href="https://t.co/VJ30cSKDdr">https://t.co/VJ30cSKDdr</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/746567347402481664">25 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZQcEPEaWYc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

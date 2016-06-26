@@ -93,6 +93,9 @@
 - [The Developer Struggle is Real: What Our Family and Friends Think We Do](https://dzone.com/articles/the-developer-struggle-is-real-what-our-family-and) What our friends and family think we do is quite different from what we actually do. Their misconceptions lead to hilarious exchanges.
 - [Which programming language should I learn first? 🌟🌟🌟](http://i.cubeupload.com/dxUuH1.png)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">174 <a href="https://twitter.com/hashtag/unicorn?src=hash">#unicorn</a> startups can&#39;t be wrong, 95% of the them use <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a>. <a href="https://t.co/ItmdvJ6l5b">https://t.co/ItmdvJ6l5b</a></p>&mdash; BBVA Open Talent (@bbvaopentalent) <a href="https://twitter.com/bbvaopentalent/status/746679393314013184">25 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which programming language should I learn first? Large version <a href="https://t.co/JxKrY4rYUD">https://t.co/JxKrY4rYUD</a> <a href="https://t.co/O51aIH5EcM">pic.twitter.com/O51aIH5EcM</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/701895847731032064">febrero 22, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Bonus points if you can&#39;t even read it yourself <a href="https://t.co/9Tk2WREN0E">pic.twitter.com/9Tk2WREN0E</a></p>&mdash; Practical Developer (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/710156980535558144">16 de marzo de 2016</a></blockquote>

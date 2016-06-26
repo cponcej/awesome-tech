@@ -9,6 +9,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las empresas no contratan conocimiento: contratan personalidades by <a href="https://twitter.com/ZumoDeEmpleo">@ZumoDeEmpleo</a> <a href="https://t.co/OWWmzu9zpW">https://t.co/OWWmzu9zpW</a> <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> <a href="https://t.co/TDFjWDyVT9">pic.twitter.com/TDFjWDyVT9</a></p>&mdash; Nilton Navarro (@NiltonNavarro) <a href="https://twitter.com/NiltonNavarro/status/712675612142526464">23 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los CEO empiezan a apoyar a los CIO: se les pide generar más ingresos mediante la <a href="https://twitter.com/hashtag/transformaci%C3%B3ndigital?src=hash">#transformacióndigital</a> <a href="https://t.co/HGf9xTJGto">https://t.co/HGf9xTJGto</a></p>&mdash; A un clic de las TIC (@AunCLICdelasTIC) <a href="https://twitter.com/AunCLICdelasTIC/status/746418075264753664">24 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dilbert_resigns_higher_salary](images/dilbert_resigns_higher_salary.gif)](http://dilbert.com/strip/1996-04-23)
 
 # Recursos Humanos
@@ -76,6 +79,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Claves sobre el periodo de prueba en los <a href="https://twitter.com/hashtag/contratos?src=hash">#contratos</a> de <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> <a href="https://t.co/LD2lkEml3Q">https://t.co/LD2lkEml3Q</a></p>&mdash; citapreviainem (@citapreviainem) <a href="https://twitter.com/citapreviainem/status/741623737196253186">11 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los jueces ofrecen una aplicación informática para calcular la indemnización por despido <a href="https://t.co/IMtCpuUXFC">https://t.co/IMtCpuUXFC</a> via <a href="https://twitter.com/elespanolcom">@elespanolcom</a></p>&mdash; anonimous ECI (@anonimousECI) <a href="https://twitter.com/anonimousECI/status/746811001744547840">25 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![dilbert_intern_salary](images/dilbert_intern_salary.gif)](http://dilbert.com/strip/1996-08-22)
@@ -204,6 +210,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Smart Tips <a href="https://twitter.com/hashtag/empleo?src=hash">#empleo</a> Expectativas salariales, la pregunta del millón <a href="https://t.co/ES2CrNBZlC">https://t.co/ES2CrNBZlC</a></p>&mdash; MªJosé Vizcaíno (@VentProfesional) <a href="https://twitter.com/VentProfesional/status/706615881611112448">6 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Las crisis 2.0¿Cómo solucionar una metedura de pata en las redes sociales,qué NO hacer nunca? Lo cuenta .<a href="https://twitter.com/TreceBits">@TreceBits</a> <a href="https://t.co/tUAsmmH0Tp">https://t.co/tUAsmmH0Tp</a></p>&mdash; A punto con La 2 (@apuntoconLa2) <a href="https://twitter.com/apuntoconLa2/status/705727435862634496">marzo 4, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Nuestro peor problema de <a href="https://twitter.com/hashtag/comunicaci%C3%B3n?src=hash">#comunicación</a> es que no escuchamos para entender, sino que escuchamos para contestar <a href="https://t.co/Bj6uQm3wda">pic.twitter.com/Bj6uQm3wda</a></p>&mdash; Ana Belen Arcones (@BelenArcones) <a href="https://twitter.com/BelenArcones/status/733186736143097856">19 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">CUIDAdo. El hábito de ser mejor persona! <a href="https://twitter.com/apuntoconLa2">@apuntoconLa2</a> Gracias <a href="https://twitter.com/Patri_Psicologa">@Patri_Psicologa</a> por tu lección <a href="https://twitter.com/hashtag/habitos?src=hash">#habitos</a> <a href="https://twitter.com/hashtag/saludables?src=hash">#saludables</a> <a href="https://t.co/xIYnPLIvxp">pic.twitter.com/xIYnPLIvxp</a></p>&mdash; Elisabet Carnicé (@EliCarnice) <a href="https://twitter.com/EliCarnice/status/704334220194349056">febrero 29, 2016</a></blockquote>

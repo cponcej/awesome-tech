@@ -126,6 +126,9 @@
 
 [![sistema_universitari_catalunya](images/sistema_universitari_catalunya.png)](http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/293683/ca/sistema-universitari-catalunya-encapcala-lactivitat-recerca-lestat-espanyol.do)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Teaching teachers to teach open source <a href="https://t.co/yqsm73nOqZ">https://t.co/yqsm73nOqZ</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/746764648117002241">25 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![voltaire education](images/voltaire_education.jpg)](http://statusmind.com/)
 
 ## Free e-learning

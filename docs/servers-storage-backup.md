@@ -4,6 +4,8 @@
 - [Servers, Storage and Backup](#servers-storage-and-backup)
 	- [Dell](#dell)
 	- [HP](#hp)
+	- [FlexPod Datacenter](#flexpod-datacenter)
+	- [VxRail VMware Hyper-Converged Infrastructure HCI](#vxrail-vmware-hyper-converged-infrastructure-hci)
 	- [RAID disks](#raid-disks)
 	- [Remote PC Access](#remote-pc-access)
 	- [VMware](#vmware)
@@ -18,6 +20,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">According to one analyst <a href="https://twitter.com/hashtag/CloudComputing?src=hash">#CloudComputing</a> Not Seen Cannibalizing <a href="https://twitter.com/hashtag/Server?src=hash">#Server</a> Market, As Assumed <a href="https://t.co/93MecfNxPG">https://t.co/93MecfNxPG</a> via <a href="https://twitter.com/IBDinvestors">@IBDInvestors</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/726738435973640192">1 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Senior vs junior <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> during an outage. <a href="https://t.co/0Ag6eN0tTg">pic.twitter.com/0Ag6eN0tTg</a></p>&mdash; Sentral (@SentralSystems) <a href="https://twitter.com/SentralSystems/status/738662874638323712">3 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/FloppyDisks?src=hash">#FloppyDisks</a> <a href="https://twitter.com/hashtag/OldSchoolCool?src=hash">#OldSchoolCool</a> <a href="https://twitter.com/hashtag/History?src=hash">#History</a> <a href="https://t.co/AtHGcR1UfU">pic.twitter.com/AtHGcR1UfU</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/746763306560413696">25 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Servers, Storage and Backup
@@ -88,6 +93,26 @@
 [![veeam_hpe](images/veeam_hpe.png)](https://www.veeam.com/wp-hyper-converged-infrastructure-maximizing-availability.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">HPE launches midmarket hyperconverged system, bets on UI, integration <a href="https://t.co/XwfsrawAPL">https://t.co/XwfsrawAPL</a> by <a href="https://twitter.com/ldignan">@ldignan</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/709706982836469761">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## FlexPod Datacenter
+- [FlexPod Datacenter](http://www.netapp.com/solutions/flexpod/datacenter.aspx)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/FlexPod?src=hash">#FlexPod</a> <a href="https://twitter.com/hashtag/Datacenter?src=hash">#Datacenter</a> with Red Hat <a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> Design Guide <a href="https://t.co/P3nqOvfBKf">https://t.co/P3nqOvfBKf</a></p>&mdash; FlexPod (@FlexPod) <a href="https://twitter.com/FlexPod/status/746737226185334784">25 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gDyDy-h9rc4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+## VxRail VMware Hyper-Converged Infrastructure HCI
+- [Hyper-Converged Infrastructure (HCI)](https://www.vmware.com/products/hyper-converged-infrastructure)
+- [VxRail](http://www.vce.com/products/hyper-converged/vxrail)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_wX6ZGgF7s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 ## RAID disks
 - [Practical RAID Choices for Spindle Based Arrays](http://www.smbitjournal.com/2015/03/practical-raid-choices-for-spindle-based-arrays/)

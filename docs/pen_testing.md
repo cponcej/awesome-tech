@@ -26,6 +26,10 @@
 - [Use SQLMAP SQL Injection to hack a website and database in Kali Linux 🌟🌟](https://www.darkmoreops.com/2014/08/28/use-sqlmap-sql-injection-hack-website-database/)
 - [PENETRATION TESTING ACADEMY](https://pentestacademy.wordpress.com/)
     - [Common Windows Commands for Pentesters 🌟](https://pentestacademy.wordpress.com/2016/06/21/common-windows-commands-for-pentesters/)
+- [Security Onion](https://security-onion-solutions.github.io/security-onion/) Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management. It's based on Ubuntu and contains Snort, Suricata, Bro, OSSEC, Sguil, Squert, ELSA, Xplico, NetworkMiner, and many other security tools. The easy-to-use Setup wizard allows you to build an army of distributed sensors for your enterprise in minutes!
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management <a href="https://t.co/kePD0NrxCL">https://t.co/kePD0NrxCL</a> <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/746757211628572672">25 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/r2FJWflQkniIRU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jeromeathias/cve-web-applicationpenetrationtesting" title="Leveraging CVE for Web Application Penetration Testing" target="_blank">Leveraging CVE for Web Application Penetration Testing</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/jeromeathias">Jerome Athias</a></strong> </div>
