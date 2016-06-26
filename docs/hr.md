@@ -40,6 +40,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This has come up a few times this week: &quot;What would you say... you do here?&quot; The Bobs from Office Space <a href="https://t.co/sQwQpMXXhu">https://t.co/sQwQpMXXhu</a> via <a href="https://twitter.com/YouTube">@YouTube</a></p>&mdash; Joshua Cypess (@JoshuaCypess) <a href="https://twitter.com/JoshuaCypess/status/679800703032889344">23 de diciembre de 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![key_to_hiring](images/key_to_hiring.png)](https://www.linkedin.com/pulse/key-hiring-being-hired-james-citrin)
+
 [![dilbert_mental_connection_performance_salary](images/dilbert_mental_connection_performance_salary.gif)](http://dilbert.com/strip/1994-11-23)
 
 # Human Resources 

@@ -13,6 +13,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Diversity in tech and the challenges of unconscious bias: <a href="https://t.co/s98C7uh8e5">https://t.co/s98C7uh8e5</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/711967611030888448">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![key_to_hiring](images/key_to_hiring.png)](https://www.linkedin.com/pulse/key-hiring-being-hired-james-citrin)
+
 [![4reasons_no_linkedin_recommendations](images/4reasons_no_linkedin_recommendations.png)](http://www.careerealism.com/recommendations-linkedin-reasons-not/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;The ideal candidate should have at least 15+ years of experience with RHEL 7 and OpenStack.&quot; Who writes this stuff? <a href="https://t.co/AnYCJwDvoJ">pic.twitter.com/AnYCJwDvoJ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/712554322278612992">23 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
