@@ -159,6 +159,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/s00RuF52yJqXwH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CIRCUIT2015/circuit-2015-aem-infrastructure-automation-with-chef-cookbooks" title="CIRCUIT 2015 - AEM Infrastructure Automation with Chef Cookbooks" target="_blank">CIRCUIT 2015 - AEM Infrastructure Automation with Chef Cookbooks</a> </strong> from <strong><a href="//www.slideshare.net/CIRCUIT2015" target="_blank">CIRCUIT</a></strong> </div>
+</div>
+<br/>
+
 ## Capistrano
 - [Capistrano](http://capistranorb.com)
 - [Capistrano GitHub](https://github.com/capistrano/capistrano)
