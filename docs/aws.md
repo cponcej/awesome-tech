@@ -59,6 +59,8 @@
 
 [![aws_slideshare](images/aws_slideshare.png)](http://www.slideshare.net/AmazonWebServices/)
 
+[![aws_blog](images/aws_blog.png)](http://aws.amazon.com/blogs/aws/)
+
 [![github_awslabs](images/github_awslabs.png)](https://github.com/awslabs)
 
 [![aws_podcast](images/aws_podcast.png)](https://aws.amazon.com/podcasts/aws-podcast/)
