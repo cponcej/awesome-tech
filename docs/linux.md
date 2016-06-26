@@ -507,6 +507,13 @@
 - [opensource.com: 4 open source tools for Linux system monitoring](https://opensource.com/life/16/2/open-source-tools-system-monitoring)
 - [nixCraft: Linux: Check Ram Speed and Type](http://www.cyberciti.biz/faq/check-ram-speed-linux/)
 - [tecmint_monitor.sh: A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM Usage in Linux 🌟🌟🌟](http://www.tecmint.com/linux-server-health-monitoring-script/)
+- [tier1app: Build ultra available, highly scalable, performant apps 🌟🌟🌟](https://blog.tier1app.com/)
+	- [Garbage Collection Log Analysis API](https://blog.tier1app.com/2016/06/18/garbage-collection-log-analysis-api/)
+	- [How to take thread dumps? – 7 options](https://blog.tier1app.com/2016/05/23/how-to-take-thread-dumps-7-options/)
+
+[![gceasy](images/gceasy.png)](http://gceasy.io/)
+
+[![fastthread](images/fastthread.png)](http://fastthread.io/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Perf- A Performance Monitoring and Analysis Tool for Linux<a href="https://t.co/dc4kzOHWEV">https://t.co/dc4kzOHWEV</a> <br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/sYi1KhAmr3">pic.twitter.com/sYi1KhAmr3</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/733207445317648384">19 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
