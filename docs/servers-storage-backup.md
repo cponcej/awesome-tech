@@ -5,7 +5,7 @@
 	- [Dell](#dell)
 	- [HP](#hp)
 	- [FlexPod Datacenter](#flexpod-datacenter)
-	- [VxRail VMware Hyper-Converged Infrastructure HCI](#vxrail-vmware-hyper-converged-infrastructure-hci)
+	- [VxRail VMware Hyper Converged Infrastructure HCI](#vxrail-vmware-hyper-converged-infrastructure-hci)
 	- [RAID disks](#raid-disks)
 	- [Remote PC Access](#remote-pc-access)
 	- [VMware](#vmware)
@@ -105,7 +105,7 @@
 </div>
 <br>
 
-## VxRail VMware Hyper-Converged Infrastructure HCI
+## VxRail VMware Hyper Converged Infrastructure HCI
 - [Hyper-Converged Infrastructure (HCI)](https://www.vmware.com/products/hyper-converged-infrastructure)
 - [VxRail](http://www.vce.com/products/hyper-converged/vxrail)
 
