@@ -254,6 +254,8 @@
 ### Sublime Text Editor
 - [Sublime Text Editor](sublime.md)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="http://t.co/QIJJFHPFGS">pic.twitter.com/QIJJFHPFGS</a></p>&mdash; Tim Pope (@tpope) <a href="https://twitter.com/tpope/status/439060962448912384">27 de febrero de 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Regular expressions
 - [RegExr: Learn, Build, & Test RegEx 🌟](http://www.regexr.com/)
 - [pythex is a quick way to test your Python regular expressions 🌟](http://pythex.org/)

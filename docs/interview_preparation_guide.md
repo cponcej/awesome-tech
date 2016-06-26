@@ -11,6 +11,26 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Honest tech recruiter. <a href="https://twitter.com/hashtag/programming?src=hash">#programming</a><br><br>h/t <a href="https://twitter.com/ThePracticalDev">@ThePracticalDev</a> <a href="https://t.co/HWqelL1sz4">pic.twitter.com/HWqelL1sz4</a></p>&mdash; Randy Olson (@randal_olson) <a href="https://twitter.com/randal_olson/status/708661402618228738">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![the linkedin effect](images/linkedin_effect.jpg)
+
+[![linkedin connection request standards](images/linkedin-connection-request-standards.jpg)](http://www.wordstream.com/blog/ws/2016/01/18/linkedin-connection-requests)
+
+[![linkedin sales pitch meme](images/LinkedIn-Meme-sales-pitch.png)](http://www.ringdna.com/blog/meme-selling-on-LinkedIn)
+
+[![not_updating_linkedin](images/not_updating_linkedin.png)](https://www.quora.com/Why-is-it-that-people-are-not-updating-their-Linkedin-profiles-when-they-get-new-jobs)
+
+[![found_job_dont_update_linkedin](images/found_job_dont_update_linkedin.png)](https://www.linkedin.com/pulse/20140417163736-10326243-found-a-job-don-t-update-your-linkedin-profile-yet)
+
+[![former_boss_change_linkedin_profile](images/former_boss_change_linkedin_profile.png)](http://www.theglobeandmail.com/report-on-business/careers/career-advice/life-at-work/can-i-be-forced-by-a-former-boss-to-change-my-linkedin-profile/article27051185/)
+
+[![dont_expect_recruiters_to_call_you](images/dont_expect_recruiters_to_call_you.png)](https://www.linkedin.com/pulse/dont-expect-recruiters-call-you-bruce-kasanoff)
+
+[![linkedin_boss_employee](images/linkedin_boss_employee.png)](https://www.linkedin.com/pulse/attn-boss-my-linkedin-profile-your-property-glen-mccallum)
+
+![linkedin_professional_criticism](images/linkedin_professional_criticism.png)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/iM11wnRwlC">https://t.co/iM11wnRwlC</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747069828121399296">26 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Diversity in tech and the challenges of unconscious bias: <a href="https://t.co/s98C7uh8e5">https://t.co/s98C7uh8e5</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/711967611030888448">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![key_to_hiring](images/key_to_hiring.png)](https://www.linkedin.com/pulse/key-hiring-being-hired-james-citrin)

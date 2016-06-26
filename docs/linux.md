@@ -484,6 +484,7 @@
 - [mbw: Memory Bandwidth Benchmark](https://github.com/raas/mbw/)
 - [tiobench: portable, fully-threaded I/O benchmark program](http://sourceforge.net/projects/tiobench/)
 - [IOzone Filesystem Benchmark](http://www.iozone.org/)
+- [nixCraft: Linux and Unix Test Disk I/O Performance With dd Command 🌟🌟](http://www.cyberciti.biz/faq/howto-linux-unix-test-disk-performance-with-dd-command/)
 - [Dstat, a versatile replacement for vmstat, iostat, netstat and ifstat 🌟](http://dag.wiee.rs/home-made/dstat/)
 - [pgbench -- run a benchmark test on PostgreSQL](http://www.postgresql.org/docs/devel/static/pgbench.html)
 - [seeker: measuring disk performance in virtual machines](http://www.linuxinsight.com/how_fast_is_your_disk.html)

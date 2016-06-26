@@ -16,25 +16,6 @@
 - [Skills That Can Get You Hired in 2016](#skills-that-can-get-you-hired-in-2016)
 
 <!-- /MarkdownTOC -->
-
-![the linkedin effect](images/linkedin_effect.jpg)
-
-[![linkedin connection request standards](images/linkedin-connection-request-standards.jpg)](http://www.wordstream.com/blog/ws/2016/01/18/linkedin-connection-requests)
-
-[![linkedin sales pitch meme](images/LinkedIn-Meme-sales-pitch.png)](http://www.ringdna.com/blog/meme-selling-on-LinkedIn)
-
-[![not_updating_linkedin](images/not_updating_linkedin.png)](https://www.quora.com/Why-is-it-that-people-are-not-updating-their-Linkedin-profiles-when-they-get-new-jobs)
-
-[![found_job_dont_update_linkedin](images/found_job_dont_update_linkedin.png)](https://www.linkedin.com/pulse/20140417163736-10326243-found-a-job-don-t-update-your-linkedin-profile-yet)
-
-[![former_boss_change_linkedin_profile](images/former_boss_change_linkedin_profile.png)](http://www.theglobeandmail.com/report-on-business/careers/career-advice/life-at-work/can-i-be-forced-by-a-former-boss-to-change-my-linkedin-profile/article27051185/)
-
-[![dont_expect_recruiters_to_call_you](images/dont_expect_recruiters_to_call_you.png)](https://www.linkedin.com/pulse/dont-expect-recruiters-call-you-bruce-kasanoff)
-
-[![linkedin_boss_employee](images/linkedin_boss_employee.png)](https://www.linkedin.com/pulse/attn-boss-my-linkedin-profile-your-property-glen-mccallum)
-
-![linkedin_professional_criticism](images/linkedin_professional_criticism.png)
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/HarvardBiz">@HarvardBiz</a> - The Most <a href="https://twitter.com/hashtag/DigitalCompanies?src=hash">#DigitalCompanies</a> Are Leaving All the Rest Behind <a href="https://t.co/VxZ2O5KG2g">https://t.co/VxZ2O5KG2g</a> <a href="https://twitter.com/hashtag/DigitalDivide?src=hash">#DigitalDivide</a> <a href="https://twitter.com/hashtag/DigitalTransformation?src=hash">#DigitalTransformation</a></p>&mdash; Red Hat Cloud (@RedHatCloud) <a href="https://twitter.com/RedHatCloud/status/707168141080526848">8 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Stop breaking new ground. Use boring, mature, tech.&quot; <a href="https://twitter.com/hashtag/mysql?src=hash">#mysql</a> works fine, and you can google for help.&quot; <a href="https://t.co/14RhaDKsXp">https://t.co/14RhaDKsXp</a></p>&mdash; Anthony Pisapia (@anthonypisapia) <a href="https://twitter.com/anthonypisapia/status/737500073483866112">31 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
