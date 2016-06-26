@@ -72,6 +72,8 @@
 
 [![codelytv](images/codelytv.png)](http://codely.tv/)
 
+[![bextlan_twitter](images/bextlan_twitter.png)](https://twitter.com/bextlan)
+
 # Software Development
 - [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)
@@ -334,6 +336,12 @@
 - [twitter.com/angularjs](https://twitter.com/angularjs)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Beginner’s Guide to Installing Node.js on a Raspberry Pi <a href="https://t.co/0Iudv0B4Da">https://t.co/0Iudv0B4Da</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707749142177517568">marzo 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">“Node.js philosophy is to take the worst fucking language ever designed and put it on the server”  <a href="https://t.co/3h54qyzxmP">https://t.co/3h54qyzxmP</a></p>&mdash; Sébastien ☁ Stormacq (@sebsto) <a href="https://twitter.com/sebsto/status/746996378816086016">26 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 ways <a href="https://twitter.com/hashtag/nodejs?src=hash">#nodejs</a> changes the rules of app development from <a href="https://twitter.com/VentureBeat">@VentureBeat</a> and <a href="https://twitter.com/NodeSource">@NodeSource</a>: <a href="https://t.co/kn1BiVoqwF">https://t.co/kn1BiVoqwF</a></p>&mdash; Node.js (@nodejs) <a href="https://twitter.com/nodejs/status/746417648725012480">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">A moment of nostalgia...<br> <a href="https://t.co/Sgt0OsCZ4S">https://t.co/Sgt0OsCZ4S</a> <a href="https://t.co/nEEsV4kCmI">pic.twitter.com/nEEsV4kCmI</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/730111283400478720">10 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

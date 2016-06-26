@@ -95,6 +95,8 @@
 
 [![active_vs_reactive_innovator](images/active_vs_reactive_innovator.png)](https://www.linkedin.com/pulse/you-active-reactive-innovator-gijs-van-wulfen?trk=hp-feed-article-title-channel-add)
 
+[![crunchbase](images/crunchbase.png)](https://www.crunchbase.com)
+
 # Startups and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)

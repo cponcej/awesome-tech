@@ -161,10 +161,13 @@
 - [codely.TV 🌟](http://codely.tv/) Vídeos cada jueves. Objetivos: Transmitir conocimiento mediante screencasts de programación y dar a conocer el mundo de la informática vía entrevistas.
 	- [twitter.com/CodelyTV](https://twitter.com/CodelyTV)
 - [gcflearnfree.org 🌟🌟](http://www.gcflearnfree.org/)
+- [bextlan.com](http://bextlan.com/)
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
 
 [![codelytv](images/codelytv.png)](http://codely.tv/)
+
+[![bextlan_twitter](images/bextlan_twitter.png)](https://twitter.com/bextlan)
 
 [![itfreetraining](images/itfreetraining.jpg)](https://www.youtube.com/user/itfreetraining)
 
