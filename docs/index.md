@@ -82,6 +82,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 	- [Anaconda Analytics](anaconda.md)
 	- [Big Bang Data 🌟🌟🌟](bigbangdata.md)
 13. [Networking](networking.md)
+    - [Mobile Core Network](mobilecore.md)
     - [Virtual LAN](VLAN.md)
     - [Next Generation Firewalls (NGFW)](NGFW.md)
 	- [Network Forensics](nw_forensics.md)
