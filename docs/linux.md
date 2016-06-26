@@ -511,6 +511,8 @@
 	- [Garbage Collection Log Analysis API](https://blog.tier1app.com/2016/06/18/garbage-collection-log-analysis-api/)
 	- [How to take thread dumps? – 7 options](https://blog.tier1app.com/2016/05/23/how-to-take-thread-dumps-7-options/)
 
+[![tier1app_twitter](images/tier1app_twitter.png)](https://twitter.com/tier1app)
+
 [![gceasy](images/gceasy.png)](http://gceasy.io/)
 
 [![fastthread](images/fastthread.png)](http://fastthread.io/)
