@@ -130,7 +130,7 @@
 [![history_cellular_techs](images/history_cellular_techs.png)](www.slideshare.net/mustafagolam/intro-to-lte-epc-network)
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ofNS5UQIkw2mrI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yusufd/introduction-to-mobile-core-network-17667704" title="Introduction to Mobile Core Network" target="_blank">Introduction to Mobile Core Network</a> </strong> from <strong><a href="//www.slideshare.net/yusufd" target="_blank">yusufd</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ofNS5UQIkw2mrI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yusufd/introduction-to-mobile-core-network-17667704" title="Introduction to Mobile Core Network" target="_blank">Introduction to Mobile Core Network</a> </strong> from <strong><a href="//www.slideshare.net/yusufd" target="_blank">yusufd</a></strong> </div>
 </div>
 <br>
 
