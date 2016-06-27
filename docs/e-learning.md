@@ -40,6 +40,7 @@
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
 - [Six Certification Exam Mistakes to Avoid](http://www.globalknowledge.com/training/generic.asp?pageid=3833)
+- [How I Passed the AWS Solutions Architect Professional Exam 🌟🌟🌟](https://hydrasit.com/passed-aws-solutions-architect-professional-exam/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When someone asks about certification, show them this. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/4mgZlTnnt2">pic.twitter.com/4mgZlTnnt2</a></p>&mdash; Portnox (@portnox) <a href="https://twitter.com/portnox/status/715569497332191233">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

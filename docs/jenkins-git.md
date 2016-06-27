@@ -214,9 +214,11 @@
 	- [Reddit: Creating internal RPM build environment?](https://www.reddit.com/r/linuxadmin/comments/2ke2vs/creating_internal_rpm_build_environment/)
 
 ## CI Maven and Gradle
+- [Apache Maven](https://en.wikipedia.org/wiki/Apache_Maven)
 - [Java: Maven vs Gradle](https://dzone.com/articles/maven-vs-gradle-one-year-later)
 - [Gradle | Modern Open-Source Enterprise Build Automation](http://gradle.org/)
 - [javacodegeeks.com: Setting up your application server with maven](http://www.javacodegeeks.com/2013/10/setting-up-your-application-server-with-maven.html)
+- [DZone: How to Set Up a Maven Repository In Minutes](https://dzone.com/articles/how-to-setup-a-maven-repository-in-minutes) A tutorial on how to set up Artifactory as a Maven repository to resolve and deploy artifacts in Maven builds.
 
 ## Deploying PHP Applications
 - [deployingphpapplications.com](http://www.deployingphpapplications.com/)
