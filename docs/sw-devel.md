@@ -10,6 +10,7 @@
 	- [Design Patterns](#design-patterns)
 	- [Editors](#editors)
 		- [Sublime Text Editor](#sublime-text-editor)
+		- [Eclipse Che](#eclipse-che)
 	- [Regular expressions](#regular-expressions)
 	- [Bash](#bash)
 	- [PHP](#php)
@@ -73,6 +74,9 @@
 [![codelytv](images/codelytv.png)](http://codely.tv/)
 
 [![bextlan_twitter](images/bextlan_twitter.png)](https://twitter.com/bextlan)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">And so it begins <a href="https://twitter.com/RedHatSummit">@RedHatSummit</a>! Microsoft .net core supported on rhel and <a href="https://twitter.com/openshift">@openshift</a> via <a href="https://twitter.com/TechCrunch">@TechCrunch</a> ! <a href="https://t.co/Icr0Rsy0aM">https://t.co/Icr0Rsy0aM</a></p>&mdash; Ashesh Badani (@asheshbadani) <a href="https://twitter.com/asheshbadani/status/747484022343929857">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Software Development
 - [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
@@ -255,6 +259,27 @@
 - [Sublime Text Editor](sublime.md)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="http://t.co/QIJJFHPFGS">pic.twitter.com/QIJJFHPFGS</a></p>&mdash; Tim Pope (@tpope) <a href="https://twitter.com/tpope/status/439060962448912384">27 de febrero de 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Eclipse Che
+- [Eclipse Che](https://www.eclipse.org/che/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>, <a href="https://twitter.com/hashtag/Codenvy?src=hash">#Codenvy</a> and <a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> Collaborate on Language Server Protocol: <a href="https://t.co/ab3ijMVNbd">https://t.co/ab3ijMVNbd</a> <a href="https://twitter.com/CodenvyHQ">@CodenvyHQ</a> <a href="https://twitter.com/Microsoft">@Microsoft</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/747501374124875776">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Big day @ <a href="https://twitter.com/hashtag/DevNation?src=hash">#DevNation</a>: <br>1) New language server protocol w/ <a href="https://twitter.com/RedHatNews">@RedHatNews</a> &amp; <a href="https://twitter.com/Microsoft">@Microsoft</a> <br>2) Red Hat&#39;s strategic adoption of <a href="https://twitter.com/eclipse_che">@eclipse_che</a></p>&mdash; Codenvy (@CodenvyHQ) <a href="https://twitter.com/CodenvyHQ/status/747496889281449984">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Get the details on <a href="https://twitter.com/RedHatNews">@RedHatNews</a>&#39; strategic commitment to Eclipse Che &amp; additional <a href="https://twitter.com/hashtag/DevNation?src=hash">#DevNation</a> news. <a href="https://t.co/kVuRSz8Zko">https://t.co/kVuRSz8Zko</a> cc <a href="https://twitter.com/rhdevelopers">@rhdevelopers</a></p>&mdash; Eclipse Che (@eclipse_che) <a href="https://twitter.com/eclipse_che/status/747499719371325440">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Eclipse Che is supported by IBM, SAP, Samsung, Microsoft, and now … Red Hat! <a href="https://twitter.com/hashtag/DevNation?src=hash">#DevNation</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/Jg0q8Fac8v">pic.twitter.com/Jg0q8Fac8v</a></p>&mdash; Eclipse Che (@eclipse_che) <a href="https://twitter.com/eclipse_che/status/747496385721704448">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/TylerJewell">@TylerJewell</a> on how <a href="https://twitter.com/eclipse_che">@eclipse_che</a> redefines dev workspaces: shareable, portable, dependencies included. <a href="https://twitter.com/hashtag/DevNation?src=hash">#DevNation</a> <a href="https://t.co/BgY4l2RWQi">pic.twitter.com/BgY4l2RWQi</a></p>&mdash; Codenvy (@CodenvyHQ) <a href="https://twitter.com/CodenvyHQ/status/747491992377004033">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Just announced at <a href="https://twitter.com/hashtag/DevNation?src=hash">#DevNation</a>: <a href="https://twitter.com/hashtag/EclipseChe?src=hash">#EclipseChe</a> is now a strategic development platform for Red Hat! <a href="https://t.co/GVAsxl3lFQ">https://t.co/GVAsxl3lFQ</a></p>&mdash; Eclipse Che (@eclipse_che) <a href="https://twitter.com/eclipse_che/status/747490456980725761">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Regular expressions
 - [RegExr: Learn, Build, & Test RegEx 🌟](http://www.regexr.com/)
