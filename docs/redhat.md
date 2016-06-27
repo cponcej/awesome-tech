@@ -134,6 +134,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat&#39;s JBoss moves to the cloud <a href="https://t.co/VrR9mKfNlz">https://t.co/VrR9mKfNlz</a> by <a href="https://twitter.com/sjvn">@sjvn</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/747486861459808256">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Eclipse Che is supported by IBM, SAP, Samsung, Microsoft, and now … Red Hat! <a href="https://twitter.com/hashtag/DevNation?src=hash">#DevNation</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/Jg0q8Fac8v">pic.twitter.com/Jg0q8Fac8v</a></p>&mdash; Eclipse Che (@eclipse_che) <a href="https://twitter.com/eclipse_che/status/747496385721704448">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
