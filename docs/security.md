@@ -50,6 +50,7 @@
 	- [Top security initiatives for 2016](#top-security-initiatives-for-2016)
 		- [Container security. Who’s fixing containers? February 2016](#container-security-who’s-fixing-containers-february-2016)
 		- [DDos and Project Shield. February 2016](#ddos-and-project-shield-february-2016)
+		- [Disk Encryption](#disk-encryption)
 
 <!-- /MarkdownTOC -->
 
@@ -493,6 +494,26 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ceg4hyrcHJc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+### Disk Encryption
+- [VeraCrypt](https://veracrypt.codeplex.com/)
+- [TrueCrypt](http://truecrypt.sourceforge.net/)
+- [How to Enable Full-Disk Encryption on Windows 10](http://www.howtogeek.com/234826/how-to-enable-full-disk-encryption-on-windows-10/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SEsIO8T5R80?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Rk04NGQPr0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JKzrCvlfMhE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
