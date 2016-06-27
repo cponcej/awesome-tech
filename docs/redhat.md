@@ -129,6 +129,8 @@
 
 [![twitter_opensourcearch](images/twitter_opensourcearch.png)](https://twitter.com/opensourcearch)
 
+[![net_core_rhel](images/net_core_rhel.jpg)](https://www.redhat.com/en/about/blog/net-core-now-available-and-supported-red-hat-enterprise-linux-and-red-hat-openshift)
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
