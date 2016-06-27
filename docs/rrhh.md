@@ -12,6 +12,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los CEO empiezan a apoyar a los CIO: se les pide generar más ingresos mediante la <a href="https://twitter.com/hashtag/transformaci%C3%B3ndigital?src=hash">#transformacióndigital</a> <a href="https://t.co/HGf9xTJGto">https://t.co/HGf9xTJGto</a></p>&mdash; A un clic de las TIC (@AunCLICdelasTIC) <a href="https://twitter.com/AunCLICdelasTIC/status/746418075264753664">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Qué hay de malo en trabajar por dinero y solo por dinero? ➡ <a href="https://t.co/e3Mdujkm1O">https://t.co/e3Mdujkm1O</a>  por <a href="https://twitter.com/Meninstein">@Meninstein</a> <a href="https://t.co/zX6Fn3SSrP">pic.twitter.com/zX6Fn3SSrP</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/747387793354137600">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dilbert_resigns_higher_salary](images/dilbert_resigns_higher_salary.gif)](http://dilbert.com/strip/1996-04-23)
 
 # Recursos Humanos
@@ -82,6 +85,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los jueces ofrecen una aplicación informática para calcular la indemnización por despido <a href="https://t.co/IMtCpuUXFC">https://t.co/IMtCpuUXFC</a> via <a href="https://twitter.com/elespanolcom">@elespanolcom</a></p>&mdash; anonimous ECI (@anonimousECI) <a href="https://twitter.com/anonimousECI/status/746811001744547840">25 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Programa de cálculo de indemnizaciones por extinción del contrato de trabajo <a href="https://twitter.com/hashtag/laboral?src=hash">#laboral</a>  <a href="https://t.co/3GCI4IsbrM">https://t.co/3GCI4IsbrM</a> <a href="https://t.co/bEQBn2uuDl">pic.twitter.com/bEQBn2uuDl</a></p>&mdash; Enlace Profesional (@EnProfesional) <a href="https://twitter.com/EnProfesional/status/746358320399851521">24 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![dilbert_intern_salary](images/dilbert_intern_salary.gif)](http://dilbert.com/strip/1996-08-22)
