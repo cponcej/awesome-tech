@@ -5,6 +5,8 @@
     - [Blogs](#blogs)
     - [Mapas Mentales para Software Testing](#mapas-mentales-para-software-testing)
     - [ISTQB](#istqb)
+        - [V Model Testing](#v-model-testing)
+        - [Onion Model Testing](#onion-model-testing)
     - [TMAP](#tmap)
     - [OWASP Open Web Application Security Project](#owasp-open-web-application-security-project)
     - [DevOps Quality Blueprint](#devops-quality-blueprint)
@@ -152,6 +154,8 @@
 
 [![istqbtecnicaltestanalyst](images/istqbtecnicaltestanalyst.png)](http://www.businessinnova.com)
 
+### V Model Testing
+
 [![V-model_Test_levels_mapping](images/V-model_Test_levels_mapping.jpg)](http://blog.panel.es/index.php/software-qa-software-testing-levels-onion-model/)
 
 [![traditional_v_model](images/traditional_v_model.jpg)](https://insights.sei.cmu.edu/sei_blog/2013/11/using-v-models-for-testing.html)
@@ -159,6 +163,8 @@
 [![v_model_wikipedia](images/v_model_wikipedia.png)](https://en.wikipedia.org/wiki/V-Model_(software_development))
 
 [![v-model](images/v-model.png)](http://www.softobiz.com/v-model)
+
+### Onion Model Testing
 
 [![Software_testing_levels_onion](images/Software_testing_levels_onion.jpg)](http://blog.panel.es/index.php/software-qa-software-testing-levels-onion-model/)
 
