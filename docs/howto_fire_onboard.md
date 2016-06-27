@@ -21,6 +21,8 @@
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
 - [This CEO Has Some Strict Rules on Firing People 🌟🌟🌟](https://www.linkedin.com/pulse/ceo-has-some-strict-rules-firing-people-betty-liu)
 
+[![3_ways_people_get_fired](images/3_ways_people_get_fired.png)](http://www.inc.com/jt-odonnell/3-most-common-ways-people-get-fired.html)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U10gFLspWZk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
