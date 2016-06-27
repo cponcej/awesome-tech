@@ -97,6 +97,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat (<a href="https://twitter.com/RedHatNews">@RedHatNews</a>) acquires API management company 3scale, will open-source the code <a href="https://t.co/fuauq0QSJ6">https://t.co/fuauq0QSJ6</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/745920021730312192">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why Red Hat &amp; 3scale Matter <a href="https://t.co/6xZGgfFjhE">https://t.co/6xZGgfFjhE</a> &quot;Imagine this combination: 3Scale, Apache Camel, Springboot&quot; &gt;&gt;all running on <a href="https://twitter.com/openshift">@openshift</a></p>&mdash; Joe Fernandes (@joefern1) <a href="https://twitter.com/joefern1/status/747175610259148800">26 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![faq_redhat_acquire_3scale](images/faq_redhat_acquire_3scale.png)](https://www.redhat.com/en/about/blog/faq-red-hat-acquire-3scale)
 
 <div class="container">
@@ -131,8 +134,7 @@
 
 [![net_core_rhel](images/net_core_rhel.jpg)](https://www.redhat.com/en/about/blog/net-core-now-available-and-supported-red-hat-enterprise-linux-and-red-hat-openshift)
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat&#39;s JBoss moves to the cloud <a href="https://t.co/VrR9mKfNlz">https://t.co/VrR9mKfNlz</a> by <a href="https://twitter.com/sjvn">@sjvn</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/747486861459808256">27 de junio de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat&#39;s JBoss moves to the cloud <a href="https://t.co/VrR9mKfNlz">https://t.co/VrR9mKfNlz</a> by <a href="https://twitter.com/sjvn">@sjvn</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/747486861459808256">27 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![redhat_microsoft_codenvy_eclipseche](images/redhat_microsoft_codenvy_eclipseche.png)](https://www.redhat.com/en/about/press-releases/red-hat-codenvy-and-microsoft-collaborate-language-server-protocol)
 
