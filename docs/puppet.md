@@ -2,6 +2,8 @@
 
 - [Puppet](#puppet)
     - [DZone and Puppet](#dzone-and-puppet)
+    - [Application Orchestration](#application-orchestration)
+    - [WebLogic via Puppet](#weblogic-via-puppet)
 
 <!-- /MarkdownTOC -->
 
@@ -191,3 +193,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sTVSCoylluc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## Application Orchestration
+- [Bringing application orchestration to the Learning VM](https://puppetlabs.com/blog/bringing-application-orchestration-to-learning-vm)
+- [Extending your Puppet language dictionary for application orchestration](https://puppetlabs.com/blog/extending-your-puppet-language-dictionary-application-orchestration)
+
+## WebLogic via Puppet
+- [Setup WebLogic 12c environment with Vagrant and Puppet](http://multikoop.blogspot.com.br/2013/11/setup-weblogic-12c-environment-with.html)
+- [New Puppet 3 Weblogic provisioning module by Edwin Biemond](https://blogs.oracle.com/emeapartnerweblogic/entry/new_puppet_3_weblogic_provisioning)
+    - [puppet forge: Oracle WebLogic / Fusion Middleware ( ADF, OSB, WebCenter, SOA Suite, WebCenter ,OAM, OIM) puppet module](https://forge.puppetlabs.com/biemond/wls)
+    - [middlewaresnippets.blogspot.com - Install and Configure a WebLogic Server Environment using Puppet](http://middlewaresnippets.blogspot.com/2015/03/install-and-configure-weblogic-server.html)

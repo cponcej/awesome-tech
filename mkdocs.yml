@@ -60,6 +60,7 @@ pages:
 - Configuration Management and Orchestration. Microservices: config-mgmt.md
 - Ansible: ansible.md
 - Puppet: puppet.md
+- Chef: chef.md
 - Docker: docker.md
 - Software Development: sw-devel.md
 - Sublime Text Editor: sublime.md

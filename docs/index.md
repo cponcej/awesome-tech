@@ -66,6 +66,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 9. [Configuration Management and Orchestration. Microservices 🌟🌟](config-mgmt.md)
 	- [Ansible 🌟🌟🌟](ansible.md)
 	- [Puppet](puppet.md)
+    - [Chef](chef.md)
 	- [Docker](docker.md)
 10. [Software Development](sw-devel.md)
     - [Sublime Text Editor](sublime.md)
