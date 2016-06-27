@@ -83,6 +83,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Passed the AWS Solution Architect Associate exam today.. Highly recommend the <a href="https://twitter.com/acloudguru">@acloudguru</a> courses for exam prep. <a href="https://t.co/lJiJefDbsD">https://t.co/lJiJefDbsD</a></p>&mdash; Mairtin O Sullivan (@_mairtin_) <a href="https://twitter.com/_mairtin_/status/691612822002868224">enero 25, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/1GevVSQPeR">https://t.co/1GevVSQPeR</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/747406836240887808">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![a cloud  guru](images/acloudguru_black.png)](https://acloud.guru)
 
 # Amazon Web Services
