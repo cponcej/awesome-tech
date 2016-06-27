@@ -71,6 +71,9 @@
 
 [![gartner_security_predictions](images/gartner_security_predictions.png)](http://www.gartner.com/smarterwithgartner/top-10-security-predictions-2016)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to Apply DevOps Culture to Security<a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a><a href="https://t.co/8UMlDqKahE">https://t.co/8UMlDqKahE</a><br><br>via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> <a href="https://twitter.com/petecheslock">@petecheslock</a> <a href="https://t.co/RBpCxGDsTQ">pic.twitter.com/RBpCxGDsTQ</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/747278413853949957">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Security
 ## Awesome Security Lists
 - [awesome security](https://github.com/sbilly/awesome-security)
