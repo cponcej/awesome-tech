@@ -62,6 +62,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Nuestra vida sería más fácil si siguiéramos los consejos que damos a los demás <a href="https://t.co/bNiQCVfPiw">https://t.co/bNiQCVfPiw</a> <a href="https://twitter.com/InfoJobs">@InfoJobs</a> <a href="https://t.co/IQzGnicf3a">pic.twitter.com/IQzGnicf3a</a></p>&mdash; Alfonso Alcántara (@Yoriento) <a href="https://twitter.com/Yoriento/status/744444859130519552">19 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Alguna vez has tenido que elegir entre tu carrera profesional o atender a tus hijos? <a href="https://t.co/HuiS7dLJQn">https://t.co/HuiS7dLJQn</a> vía <a href="https://twitter.com/balcon40">@balcon40</a></p>&mdash; Roberto García Esteb (@72rge) <a href="https://twitter.com/72rge/status/747414039672856576">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cómo redactar tu <a href="https://twitter.com/hashtag/curriculum?src=hash">#curriculum</a> en inglés <a href="https://t.co/qubgFmKLMY">https://t.co/qubgFmKLMY</a> <a href="https://twitter.com/InfoJobs">@InfoJobs</a> <a href="https://t.co/DcohvsM0YH">pic.twitter.com/DcohvsM0YH</a></p>&mdash; Alfonso Alcántara (@Yoriento) <a href="https://twitter.com/Yoriento/status/745292862498168832">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

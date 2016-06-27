@@ -37,12 +37,18 @@
 
 [![build_skills_outside_work](images/build_skills_outside_work.png)](http://www.careerealism.com/build-skills-expertise-outside-work/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Amazon jumps into online learning with Inspire, a platform for free crowdsourced and premium mat... <a href="https://t.co/3ubXHzjySb">https://t.co/3ubXHzjySb</a> by <a href="https://twitter.com/ingridlunden">@ingridlunden</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/747415128694456322">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
 - [Six Certification Exam Mistakes to Avoid](http://www.globalknowledge.com/training/generic.asp?pageid=3833)
 - [How I Passed the AWS Solutions Architect Professional Exam 🌟🌟🌟](https://hydrasit.com/passed-aws-solutions-architect-professional-exam/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When someone asks about certification, show them this. <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/4mgZlTnnt2">pic.twitter.com/4mgZlTnnt2</a></p>&mdash; Portnox (@portnox) <a href="https://twitter.com/portnox/status/715569497332191233">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How much do qualifications matter for a job in tech, really? <a href="https://t.co/NxNqGP4arE">https://t.co/NxNqGP4arE</a> via  <a href="https://twitter.com/mark_samuels">@mark_samuels</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/747457944963289088">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Udemy. Lifetime access with no subscription. Drop the price of any Udemy Course to 11 or 12 euro with a Coupon Code
 - [twitter.com/udemy](https://twitter.com/udemy)

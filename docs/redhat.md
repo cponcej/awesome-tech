@@ -131,6 +131,9 @@
 
 [![net_core_rhel](images/net_core_rhel.jpg)](https://www.redhat.com/en/about/blog/net-core-now-available-and-supported-red-hat-enterprise-linux-and-red-hat-openshift)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat&#39;s JBoss moves to the cloud <a href="https://t.co/VrR9mKfNlz">https://t.co/VrR9mKfNlz</a> by <a href="https://twitter.com/sjvn">@sjvn</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/747486861459808256">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
