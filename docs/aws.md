@@ -88,6 +88,8 @@
 
 [![a cloud  guru](images/acloudguru_black.png)](https://acloud.guru)
 
+[![paradigmadigital_blog_aws](images/paradigmadigital_blog_aws.png)](https://www.paradigmadigital.com/dev/devops-microservicios-autoescalado-desarrollo-apps-las-claves-del-exito-amazon/)
+
 # Amazon Web Services
 - [AWS Forums 🌟🌟🌟](https://forums.aws.amazon.com)
 - [AWS Knowledge Center](https://aws.amazon.com/en/premiumsupport/knowledge-center/)
