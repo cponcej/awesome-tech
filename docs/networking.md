@@ -4,8 +4,8 @@
 - [Networking](#networking)
 	- [Next Generation Firewalls \(NGFW\)](#next-generation-firewalls-ngfw)
 	- [Switches](#switches)
-	- [Mobile Core Network](#mobile-core-network)
 		- [Virtual LAN](#virtual-lan)
+	- [Mobile Core Network](#mobile-core-network)
 	- [Network virtualization. Software Defined Networking \(SDN\)](#network-virtualization-software-defined-networking-sdn)
 	- [IPv4](#ipv4)
 	- [IPv6](#ipv6)
@@ -85,11 +85,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I FOUND IT. I FOUND THE INTERNET SWITCH. <a href="https://t.co/7xdOxhimI7">pic.twitter.com/7xdOxhimI7</a></p>&mdash; Whitney Champion (@shortxstack) <a href="https://twitter.com/shortxstack/status/707637919809404928">9 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Mobile Core Network
-- [Mobile Core Network](mobilecore.md)
-
 ### Virtual LAN
 - [Virtual LAN](VLAN.md)
+
+## Mobile Core Network
+- [Mobile Core Network](mobilecore.md)
 
 ## Network virtualization. Software Defined Networking (SDN)
 - [FOSS Network Functions Virtualization](https://www.opnfv.org)
