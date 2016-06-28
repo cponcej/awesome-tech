@@ -10,6 +10,9 @@
 
 ![modis_employees_who_collaborate_with_coworkers](images/modis_employees_who_collaborate_with_coworkers.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Jim, can any company become an open organization?<a href="https://twitter.com/hashtag/CUBEgems?src=hash">#CUBEgems</a> <a href="https://twitter.com/JWhitehurst">@JWhitehurst</a> <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://twitter.com/hashtag/theCUBE?src=hash">#theCUBE</a> <a href="https://t.co/Kg5Qb4KXNM">pic.twitter.com/Kg5Qb4KXNM</a></p>&mdash; theCUBE (@theCUBE) <a href="https://twitter.com/theCUBE/status/747844822308794368">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Culture and collaboration
 - [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
 - [deloitte: Cultivating the IT Workforce of the Future](http://deloitte.wsj.com/cio/2015/10/20/cultivating-the-it-workforce-of-the-future/)
