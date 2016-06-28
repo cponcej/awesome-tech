@@ -122,6 +122,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">4 reasons why team-building exercises can actually damage your workplace: <a href="https://t.co/qy7T7yyrOW">https://t.co/qy7T7yyrOW</a> <a href="https://t.co/YP8apfHwJJ">pic.twitter.com/YP8apfHwJJ</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/714059645166493698">27 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/1YyemsOqr1">https://t.co/1YyemsOqr1</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747694658759843840">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Bullying, violence and mean behavior costs American businesses billions of dollars each year <a href="https://t.co/K4r3cW6ZMS">https://t.co/K4r3cW6ZMS</a> <a href="https://t.co/RgbDYDrnrA">pic.twitter.com/RgbDYDrnrA</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/734343298958131200">22 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

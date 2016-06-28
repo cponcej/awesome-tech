@@ -226,6 +226,9 @@
 
 [![software with most vulnerabilities](images/software_with_most_vulnerabilities.png)](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los 8 tipos de <a href="https://twitter.com/hashtag/malware?src=hash">#malware</a> más peligrosos para pymes y autónomos. <a href="https://t.co/6KuN7ti8L8">https://t.co/6KuN7ti8L8</a> <a href="https://t.co/v73IsCes0U">pic.twitter.com/v73IsCes0U</a> via <a href="https://twitter.com/ticbeat">@ticbeat</a></p>&mdash; Derecho de la Red (@DerechodelaRed) <a href="https://twitter.com/DerechodelaRed/status/746705792712187904">25 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wn-uVP8HncA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

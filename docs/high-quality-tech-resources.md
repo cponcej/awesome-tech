@@ -72,6 +72,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Want a good <a href="https://twitter.com/hashtag/tech?src=hash">#tech</a> job? Report says ​<a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> skills are hotter than ever: <a href="https://t.co/hqq79stT2J">https://t.co/hqq79stT2J</a> via <a href="https://twitter.com/ZDNet">@ZDNet</a> <a href="https://t.co/uQj5pFQzUa">pic.twitter.com/uQj5pFQzUa</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/731927131165331456">15 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">It&#39;s time to choose: Are you investing in <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> or not? <a href="https://t.co/UbXXpstbKX">https://t.co/UbXXpstbKX</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/747656523766173696">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NxUyTA81epg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
