@@ -40,6 +40,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The future of <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> is open source <a href="https://t.co/mxYQGTfLyP">https://t.co/mxYQGTfLyP</a> via <a href="https://twitter.com/DataconomyMedia">@DataconomyMedia</a> <a href="https://t.co/epJeSG1iHk">pic.twitter.com/epJeSG1iHk</a></p>&mdash; Paul Denham (@PaulTDenham) <a href="https://twitter.com/PaulTDenham/status/747034179561369601">26 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/L3fUiplTHq">https://t.co/L3fUiplTHq</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747792843410935808">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![modern_data_scientist](images/modern_data_scientist.png)](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/)
 
 # Data Science and Big Data
