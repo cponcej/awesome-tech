@@ -173,12 +173,12 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-8xPLCIuQzE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TybbmHcxXek?list=PLE5D25EB7AA76EE4B" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TybbmHcxXek?list=PLE5D25EB7AA76EE4B" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-8xPLCIuQzE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
