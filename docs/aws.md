@@ -237,6 +237,8 @@
 ## New AWS Competency. AWS Migration
 - [New AWS Competency – AWS Migration 🌟🌟🌟](https://aws.amazon.com/blogs/aws/new-aws-competency-aws-migration/)
 
+[![aws_migrating_apps_to_saas](images/aws_migrating_apps_to_saas.png)](https://aws.amazon.com/blogs/apn/migrating-applications-to-saas-a-minimally-invasive-approach/)
+
 ## AWS Database Migration Service
 - [AWS Database Migration Service 🌟](https://aws.amazon.com/es/blogs/aws/aws-database-migration-service/)
 - [Whitepaper: Migrating Your Databases to AWS](https://aws.amazon.com/es/dms/learn-more/)
