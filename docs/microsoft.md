@@ -2,9 +2,11 @@
 
 - [Microsoft](#microsoft)
     - [SSH client for Windows](#ssh-client-for-windows)
+    - [MongoDB on Azure](#mongodb-on-azure)
     - [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
         - [Azure and Chef](#azure-and-chef)
         - [PowerShell](#powershell)
+        - [Spiceworks](#spiceworks)
 
 <!-- /MarkdownTOC -->
 
@@ -133,6 +135,16 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Microsoft is specifically looking for those with knowledge of Linux, Ansible, Docker and Chef.&quot; <a href="https://t.co/jrkGDXcYPv">https://t.co/jrkGDXcYPv</a></p>&mdash; Donnie Berkholz (@dberkholz) <a href="https://twitter.com/dberkholz/status/723571303505113088">22 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## MongoDB on Azure
+- [MongoDB on Azure](https://docs.mongodb.com/ecosystem/platforms/windows-azure/)
+- [Install MongoDB on a Windows VM](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-classic-install-mongodb/)
+- [Instalación de MongoDB en una máquina virtual de Windows](https://azure.microsoft.com/es-es/documentation/articles/virtual-machines-windows-classic-install-mongodb/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e2W5lnMf3Pc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ## Microsoft Monitoring and Management
 - [Simple Talk](https://www.simple-talk.com)
 - [simple-talk.com/sysadmin](https://www.simple-talk.com/sysadmin/)
@@ -181,6 +193,9 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/IhpcPalgYeTt5A" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alikhanzafar/power-shell-for-newbies-getting-started-powershell-4" title="Power shell for newbies getting started powershell 4" target="_blank">Power shell for newbies getting started powershell 4</a> </strong> from <strong><a href="//www.slideshare.net/alikhanzafar" target="_blank">Zafar Ali Khan</a></strong> </div>
 </div>
 <br>
+
+### Spiceworks
+- [spiceworks.com](http://www.spiceworks.com)
 
 [![spiceworks](images/spiceworks-logo.png)](http://www.spiceworks.com/)
 

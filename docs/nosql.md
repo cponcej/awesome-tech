@@ -92,6 +92,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Build <a href="https://twitter.com/hashtag/MongoDB?src=hash">#MongoDB</a> Map-Reduce queries with ease! Preview the data at any stage! Use <a href="https://twitter.com/hashtag/MongoChef?src=hash">#MongoChef</a> <a href="https://t.co/u7h33BSItn">https://t.co/u7h33BSItn</a> <a href="https://t.co/mF5K62T9lz">pic.twitter.com/mF5K62T9lz</a></p>&mdash; 3T Software Labs (@3TSoftwareLabs) <a href="https://twitter.com/3TSoftwareLabs/status/694905949509808128">febrero 3, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IiyegaMvZjg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Redis, Coudhdb, and others
 - [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
 - [Redis](http://redis.io/)
