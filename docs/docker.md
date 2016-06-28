@@ -30,6 +30,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">.<a href="https://twitter.com/docker">@Docker</a>  Engine 1.12 natively deploys entire multi-tier distributed <a href="https://twitter.com/hashtag/apps?src=hash">#apps</a> by creating a distributed <a href="https://twitter.com/hashtag/app?src=hash">#app</a> bundle. <a href="https://t.co/0HFEmKlOOh">https://t.co/0HFEmKlOOh</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/744947205971185664">20 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![redhat_container_portfolio](images/redhat_container_portfolio.png)](https://www.redhat.com/en/about/press-releases/red-hat-unleashes-power-linux-containers-industry%E2%80%99s-broadest-solution-set)
+
 ## Docker
 ### Docker on Twitter
 - [twitter.com/docker](https://twitter.com/docker)
