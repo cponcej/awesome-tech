@@ -42,6 +42,8 @@
 
 [![eweek](images/eweek.png)](http://www.eweek.com/)
 
+[![computerworld](images/computerworld.png)](http://www.computerworld.es/)
+
 [![10_fastest-growing_tech_skills](images/10_fastest-growing_tech_skills.jpg)](http://www.computerworld.com/article/3064436/it-skills-training/10-fastest-growing-tech-skills.html)
 
 <div class="container">

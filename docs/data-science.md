@@ -69,6 +69,9 @@
 
 [![nosql_real_time_analytics](images/nosql_real_time_analytics.png)](https://www.linkedin.com/pulse/nosql-real-time-analytics-what-you-need-know-jim-scott)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/JqRbbmNnxV">https://t.co/JqRbbmNnxV</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747760278020972544">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## SQL and Databases
 - [SQL and Databases](databases.md)
 
