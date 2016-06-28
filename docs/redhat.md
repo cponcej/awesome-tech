@@ -141,9 +141,6 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Eclipse Che is supported by IBM, SAP, Samsung, Microsoft, and now … Red Hat! <a href="https://twitter.com/hashtag/DevNation?src=hash">#DevNation</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/Jg0q8Fac8v">pic.twitter.com/Jg0q8Fac8v</a></p>&mdash; Eclipse Che (@eclipse_che) <a href="https://twitter.com/eclipse_che/status/747496385721704448">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>, <a href="https://twitter.com/hashtag/Codenvy?src=hash">#Codenvy</a> &amp; <a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> adopt common protocol for programming language integration into <a href="https://twitter.com/code">@code</a> &amp; <a href="https://twitter.com/eclipse_che">@eclipse_che</a> <a href="https://t.co/ab3ijMVNbd">https://t.co/ab3ijMVNbd</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/747627583848615937">28 de junio de 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)

@@ -30,6 +30,9 @@
 
 [![devops_library_jenkins_certification](images/devops_library_jenkins_certification.png)](https://www.devopslibrary.com/Jenkins)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>, <a href="https://twitter.com/hashtag/Codenvy?src=hash">#Codenvy</a> &amp; <a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> adopt common protocol for programming language integration into <a href="https://twitter.com/code">@code</a> &amp; <a href="https://twitter.com/eclipse_che">@eclipse_che</a> <a href="https://t.co/ab3ijMVNbd">https://t.co/ab3ijMVNbd</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/747627583848615937">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Continuous Integration Tools
 ## CI Jenkins
 - [jenkins.io (new jenkins 2.0 site)](https://jenkins.io/)
