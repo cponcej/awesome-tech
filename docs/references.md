@@ -14,6 +14,15 @@
 
 [![pubpeer](images/pubpeer.png)](https://pubpeer.com/)
 
+[![nadal_defamation](images/nadal_defamation.png)](http://www.elmundo.es/deportes/2016/03/14/56e6722b22601d39318b45b0.html)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Curiosidades, verdades y mentiras sobre Robert Redford ( vía <a href="https://twitter.com/lanochede">@lanochede</a> ) <a href="http://t.co/fod44KKI0x">http://t.co/fod44KKI0x</a></p>&mdash; Cinestudio d&#39;Or (@cinestudiodor) <a href="https://twitter.com/cinestudiodor/status/459730110237925376">25 de abril de 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGdzsGvMn_4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # References and online defamation
 - [wikipedia: Defamation](https://en.wikipedia.org/wiki/Defamation)
 - [wikipedia: Right to be forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten)
@@ -93,8 +102,10 @@
 </div>
 <br/>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I liked a <a href="https://twitter.com/YouTube">@YouTube</a> video <a href="https://t.co/cy63SwQAN4">https://t.co/cy63SwQAN4</a> The Lives of Others: A Joke Too Far Scene</p>&mdash; Ken Lee (@Koverptw) <a href="https://twitter.com/Koverptw/status/686393149632196609">enero 11, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gHZJsMfukQY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zUFc3RncijY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -146,19 +157,10 @@
 </div>
 <br/>
 
-[![nadal_defamation](images/nadal_defamation.png)](http://www.elmundo.es/deportes/2016/03/14/56e6722b22601d39318b45b0.html)
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Curiosidades, verdades y mentiras sobre Robert Redford ( vía <a href="https://twitter.com/lanochede">@lanochede</a> ) <a href="http://t.co/fod44KKI0x">http://t.co/fod44KKI0x</a></p>&mdash; Cinestudio d&#39;Or (@cinestudiodor) <a href="https://twitter.com/cinestudiodor/status/459730110237925376">25 de abril de 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i96VS_z8y7g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sGdzsGvMn_4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gqrZ297e0E4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
