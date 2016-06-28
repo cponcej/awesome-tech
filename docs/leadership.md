@@ -10,12 +10,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/t0PL7Idxeb">https://t.co/t0PL7Idxeb</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747690426023415808">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4405704/height/100/width/480/theme/custom/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="100" width="480" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 # Leadership Blogs
 - [forbes.com/leadership](http://www.forbes.com/leadership)
 - [Addicted to success](http://addicted2success.com)
 - [Quiet Revolution: Unlocking the Power of Introverts. Susan Cain](http://www.quietrev.com)
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4405704/height/100/width/480/theme/custom/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="100" width="480" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ## Leaders on Twitter
 - [twitter.com/TEDTalks](https://twitter.com/TEDTalks)
