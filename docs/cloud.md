@@ -275,6 +275,9 @@
 
 [![openstack cluster](images/openstack-cluster.png)](https://raymii.org/s/articles/Building_HA_Clusters_With_Ansible_and_Openstack.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5 new <a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> tutorials for cloud mastery <a href="https://t.co/RPrJ6PPoM3">https://t.co/RPrJ6PPoM3</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/747718934896480256">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Look how shiny is our new Puppet <a href="https://twitter.com/hashtag/OpenStack?src=hash">#OpenStack</a> guide <a href="https://t.co/EI8240NMPl">https://t.co/EI8240NMPl</a> - kudos to <a href="https://twitter.com/bkero">@bkero</a> <a href="https://twitter.com/_Skolt_Iury_">@_Skolt_Iury_</a></p>&mdash; Emilien Macchi (@EmilienMacchi) <a href="https://twitter.com/EmilienMacchi/status/738521170073489408">3 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
