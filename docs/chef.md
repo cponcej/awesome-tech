@@ -2,6 +2,8 @@
 
 - [Chef](#chef)
     - [Chef and SAP](#chef-and-sap)
+    - [Chef and Azure](#chef-and-azure)
+    - [Chef Slides](#chef-slides)
 
 <!-- /MarkdownTOC -->
 
@@ -28,10 +30,15 @@
 </div>
 <br/>
 
+## Chef and Azure
+- [Chef for Microsoft Azure](https://www.chef.io/solutions/azure/)
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/s00RuF52yJqXwH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CIRCUIT2015/circuit-2015-aem-infrastructure-automation-with-chef-cookbooks" title="CIRCUIT 2015 - AEM Infrastructure Automation with Chef Cookbooks" target="_blank">CIRCUIT 2015 - AEM Infrastructure Automation with Chef Cookbooks</a> </strong> from <strong><a href="//www.slideshare.net/CIRCUIT2015" target="_blank">CIRCUIT</a></strong> </div>
 </div>
 <br/>
+
+## Chef Slides
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3vsGBOv3OtDabb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Joncak/learning-chef" title="Learning chef" target="_blank">Learning chef</a> </strong> from <strong><a href="//www.slideshare.net/Joncak" target="_blank">Jonathan Carrillo</a></strong> </div>

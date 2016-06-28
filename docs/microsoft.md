@@ -3,6 +3,7 @@
 - [Microsoft](#microsoft)
     - [SSH client for Windows](#ssh-client-for-windows)
     - [Microsoft Monitoring and Management](#microsoft-monitoring-and-management)
+        - [Azure and Chef](#azure-and-chef)
         - [PowerShell](#powershell)
 
 <!-- /MarkdownTOC -->
@@ -154,6 +155,12 @@
 [![puppet_windows_chocolatey_module](images/puppet_windows_chocolatey_module.png)](https://puppet.com/blog/package-management-windows-gets-even-better-chocolatey)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why didn&#39;t I know about <a href="https://twitter.com/hashtag/chocolatey?src=hash">#chocolatey</a> ? A package manager for <a href="https://twitter.com/hashtag/Windows?src=hash">#Windows</a> <a href="https://t.co/Lg7yXoZVXB">https://t.co/Lg7yXoZVXB</a> its amazing!</p>&mdash; John Roach (@johnroach) <a href="https://twitter.com/johnroach/status/708366744109223936">11 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Azure and Chef
+- [Chef for Microsoft Azure](https://www.chef.io/solutions/azure/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> customer story: See how <a href="https://twitter.com/kCura">@kCura</a> has achieved great results across development &amp; operations w/ <a href="https://twitter.com/hashtag/Azure?src=hash">#Azure</a> &amp; <a href="https://twitter.com/chef">@Chef</a> <a href="https://t.co/kHtx4lMgCL">https://t.co/kHtx4lMgCL</a></p>&mdash; Microsoft Azure (@Azure) <a href="https://twitter.com/Azure/status/724659238614736896">25 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### PowerShell
