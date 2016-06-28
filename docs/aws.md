@@ -24,6 +24,7 @@
     - [AWS Redshift](#aws-redshift)
     - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
     - [AWS OpsWorks](#aws-opsworks)
+    - [AWS Networking](#aws-networking)
     - [AWS Latency](#aws-latency)
     - [Amazon ECS optimized AMI](#amazon-ecs-optimized-ami)
     - [AWS EC2 Container Registry \(Docker\)](#aws-ec2-container-registry-docker)
@@ -302,6 +303,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TPc4zdFg12M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## AWS Networking
+- [Elastic Network Adapter](https://aws.amazon.com/blogs/aws/elastic-network-adapter-high-performance-network-interface-for-amazon-ec2)
+
+[![aws_elastic_nw_interface](images/aws_elastic_nw_interface.png])(https://aws.amazon.com/blogs/aws/elastic-network-adapter-high-performance-network-interface-for-amazon-ec2)
 
 ## AWS Latency
 - [Find the fastest region from your location](http://aws-latency.altaircp.com/) Check AWS response time from you browser. Sharing my mini-project, it measures response time from AWS services from different regions base on your location. let me know what you think.
