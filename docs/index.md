@@ -23,6 +23,14 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 <a href="http://paper.li/tag/redhat">The #redhat Daily</a>
 </p>
 
+<p align="center">
+<a href="http://paper.li/tag/aws">The #aws Daily</a>
+</p>
+
+<p align="center">
+<a href="http://paper.li/tag/azure">The #azure Daily</a>
+</p>
+
 **Table of Contents**
 
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)

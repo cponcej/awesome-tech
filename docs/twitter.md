@@ -1,7 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Newsletters](#newsletters)
-- [Newsfeeds (RSS Readers)](#newsfeeds-rss-readers)
+- [Newsfeeds \(RSS Readers\)](#newsfeeds-rss-readers)
 	- [Feedly](#feedly)
 	- [Paper.li LinuxSec](#paperli-linuxsec)
 	- [Paper.li Newspapers](#paperli-newspapers)
@@ -97,6 +97,8 @@
 - [The #Linux Daily](http://paper.li/LinuxHQ/1315868351)
 - [The #redhat Daily 🌟](http://paper.li/tag/redhat)
 - [The webhat/redhat Daily 🌟](http://paper.li/webhat)
+- [The #AWS Daily 🌟](http://paper.li/tag/aws)
+- [The #Azure Daily 🌟](http://paper.li/tag/azure)
 - [The Open Hybrid Cloud Daily](https://paper.li/e-1437352004)
 - [Moving Tech Forward](http://paper.li/MalcolmIsaacs/1443774212)
 - [Open Tech Daily](http://paper.li/JeffKaplan88/1306711421)
