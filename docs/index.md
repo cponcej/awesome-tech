@@ -19,6 +19,9 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 [![zdnet spain](images/zdnet_logo.png)](http://www.zdnet.com/blog/iberia/)
 [![barcelona vs madrid vs everywhere else](images/bcn_vs_madrid_startups.png)](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 
+<p align="center">
+<a href="http://paper.li/tag/redhat">The #redhat Daily</a>
+</p>
 
 **Table of Contents**
 

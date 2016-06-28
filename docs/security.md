@@ -140,6 +140,9 @@
 
 [![hack_in_the_security_conference](images/hack_in_the_security_conference.png)](https://www.youtube.com/user/hitbsecconf)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">6 cybersecurity and emergency situations every IT depart should train for <a href="https://t.co/bXt7mDf9BA">https://t.co/bXt7mDf9BA</a> by <a href="https://twitter.com/patgrayjr">@patgrayjr</a> <a href="https://t.co/gvGygVZGVc">pic.twitter.com/gvGygVZGVc</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/747513603968864260">27 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Blogs de Seguridad Informática
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)
 - [hackplayers.com](http://www.hackplayers.com)
