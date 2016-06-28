@@ -81,6 +81,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a>, <a href="https://twitter.com/hashtag/Codenvy?src=hash">#Codenvy</a> &amp; <a href="https://twitter.com/hashtag/Microsoft?src=hash">#Microsoft</a> adopt common protocol for programming language integration into <a href="https://twitter.com/code">@code</a> &amp; <a href="https://twitter.com/eclipse_che">@eclipse_che</a> <a href="https://t.co/ab3ijMVNbd">https://t.co/ab3ijMVNbd</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/747627583848615937">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Soy programador y tengo 50 años <a href="https://t.co/ELW9mP04Rg">https://t.co/ELW9mP04Rg</a> vía <a href="https://twitter.com/xataka">@xataka</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747776481074495488">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Software Development
 - [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)
