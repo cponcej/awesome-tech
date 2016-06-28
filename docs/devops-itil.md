@@ -54,6 +54,9 @@
 
 [![learn_devops_udemy](images/learn_devops_udemy.png)](https://www.udemy.com/learn-devops-continuously-deliver-better-software/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/1YyemsOqr1">https://t.co/1YyemsOqr1</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747694658759843840">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # DevOps
 ## DevOps Blogs
 - [devops.com](http://devops.com/)
