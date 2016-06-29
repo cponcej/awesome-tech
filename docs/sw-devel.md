@@ -118,7 +118,7 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The good coder is the coder who codes good code... <a href="https://t.co/8OxyoKaAxm">https://t.co/8OxyoKaAxm</a> <a href="https://t.co/EwywiSDre0">pic.twitter.com/EwywiSDre0</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/740238819841150976">7 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Biggest Opportunities For Improvement in Software Development<a href="https://twitter.com/hashtag/Agile?src=hash">#Agile</a><a href="https://t.co/6kJIj7CQe3">https://t.co/6kJIj7CQe3</a><br><br>via <a href="https://twitter.com/ctsmithiii">@ctsmithiii</a> <a href="https://t.co/pdob2eYKRy">pic.twitter.com/pdob2eYKRy</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/744335659997995008">19 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![dzone_biggest_opportunities_for_improvement_in_sw_devel](images/dzone_biggest_opportunities_for_improvement_in_sw_devel.png)](https://dzone.com/articles/biggest-opportunities-for-improvement-in-software)
 
 ## Blogs and Forums
 - [DZone 🌟🌟🌟🌟🌟](http://dzone.com)
