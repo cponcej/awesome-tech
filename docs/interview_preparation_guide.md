@@ -115,6 +115,8 @@
 
 [![dilbert_people_careers_looks](images/dilbert_people_careers_looks.gif)](http://dilbert.com/strip/2010-04-14)
 
+[![what_developers_hate_about_job_search](images/what_developers_hate_about_job_search.png)](http://business.stackoverflow.com/blog/what-todays-developers-hate-about-the-job-search)
+
 [![interview_why_looking_for_a_change](images/interview_why_looking_for_a_change.png)](https://www.linkedin.com/pulse/answering-why-you-looking-change-j-t-o-donnell)
 
 [![howto_reject_candidates_2016](images/howto_reject_candidates_2016.png)](https://business.linkedin.com/talent-solutions/blog/candidate-experience/2015/why-you-must-rethink-how-you-reject-candidates-in-2016)
