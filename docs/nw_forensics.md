@@ -64,6 +64,11 @@
 ### WireEdit
 - [WireEdit. First-Of-A-Kind and The Only Full Stack WYSIWYG Packet Editor Edit L2 - L7 with just a few clicks](https://wireedit.com/)
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Mp1hpMOjk6c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Wireshark 
 - [Optimal Wireshark Setup | Enhance Your Wireshark Experience](https://www.youtube.com/watch?v=F4l3CedRlJc)
 	- [Switches And Tool Placement (by Tony Fortunato). Ubicación de las herramientas de análisis de tráfico en redes conmutadas (switched networks). Taps, span ports y hubs](http://www.lovemytool.com/blog/2014/06/switches-and-tool-placement-by-tony-fortunato.html)
@@ -173,6 +178,27 @@
 	- [Fiddler, un proxy para depurar aplicaciones](http://www.vozidea.com/fiddler-proxy-para-depurar-aplicaciones)
 	- [slideshare: Debugging with Fiddler](http://www.slideshare.net/idof/debugging-with-fiddler)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MoJJdezWYicCvT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/idof/debugging-with-fiddler" title="Debugging with Fiddler" target="_blank">Debugging with Fiddler</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/idof">Ido Flatow</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8bEIQd1XsE8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe src="https://player.vimeo.com/video/43659037" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+<p><a href="https://vimeo.com/43659037">Ido Flatow - Debugging the Web with Fiddler</a> from <a href="https://vimeo.com/ndcconferences">NDC Conferences</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkuJ6juEUhQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Transum wireshark plugin
 - [TRANSUM Wireshark Plugin. Some Wireshark dissectors provide response time measurement values, but what gets measured is not ideal for performance analysis work](http://www.tribelabzero.com/transum)
 	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
@@ -194,16 +220,6 @@
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/N-n1n6WKmRs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Mp1hpMOjk6c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/MoJJdezWYicCvT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/idof/debugging-with-fiddler" title="Debugging with Fiddler" target="_blank">Debugging with Fiddler</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/idof">Ido Flatow</a></strong> </div>
 </div>
 <br>
 
