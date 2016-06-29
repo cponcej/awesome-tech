@@ -349,6 +349,11 @@
 
 [![cross_functional_teams_dysfunction](images/cross_functional_teams_dysfunction.png)](https://www.linkedin.com/pulse/taking-dysfunction-out-cross-functional-teams-eric-feng)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZY8iQVIjnXg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 #### Product Owner
 - [medium.com: Product Owner Responsibilities in Agile (Scrum Methodologies) 🌟🌟](https://medium.com/agile-project-management-scrum-lean-kanban/product-owner-responsibilities-in-agile-scrum-methodologies-dc7aeeb5ff71)
 - [blog.scrum.org: What Product Ownership might entangle](http://blog.scrum.org/what-product-ownership-might-entangle/)
