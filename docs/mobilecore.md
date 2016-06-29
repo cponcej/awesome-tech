@@ -5,6 +5,7 @@
 <!-- /MarkdownTOC -->
 
 # Mobile Core Network
+- [Core Network](https://en.wikipedia.org/wiki/Core_network)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XBBuhdLO018?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
