@@ -94,7 +94,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 	- [NoSQL and NewSQL 🌟](nosql.md)
 	- [Anaconda Analytics](anaconda.md)
 	- [Big Bang Data 🌟🌟🌟](bigbangdata.md)
-13. [Networking](networking.md)
+13. [Networking 🌟🌟🌟](networking.md)
     - [Mobile Core Network](mobilecore.md)
     - [Virtual LAN](VLAN.md)
     - [Next Generation Firewalls (NGFW)](NGFW.md)
