@@ -84,6 +84,12 @@
 
 [![dilbert_job_interview](images/dilbert_job_interview.png)](http://dilbert.com/strip/2015-07-26)
 
+[![howto_give_constructive_feedback_to_toxic_boss](images/howto_give_constructive_feedback_to_toxic_boss.png)](https://www.entrepreneur.com/article/248379)
+
+[![chat_room_risks.png](images/chat_room_risks.png)](http://www.inc.com/jeff-haden/hulk-hogan-sex-tape-what-you-say-in-a-chat-room-can-be-used-against-you.html)
+
+[![your_office_not_game_of_thrones](images/your_office_not_game_of_thrones.png)](https://www.linkedin.com/pulse/your-office-game-thrones-beware-negative-behaviors-hold-betty-liu)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnwG9lTd4-M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

@@ -115,8 +115,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Straks Falling Down met Michael Douglas <a href="https://twitter.com/hashtag/SBS9?src=hash">#SBS9</a> met deze geweldige scene. And you ma&#39;am, how is the food? <a href="https://twitter.com/hashtag/bleblehbleh?src=hash">#bleblehbleh</a> <a href="https://t.co/IEOZu0iKk9">https://t.co/IEOZu0iKk9</a></p>&mdash; Richard van Meerten (@richardvmeerten) <a href="https://twitter.com/richardvmeerten/status/697501436263972865">10 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[![chat_room_risks.png](images/chat_room_risks.png)](http://www.inc.com/jeff-haden/hulk-hogan-sex-tape-what-you-say-in-a-chat-room-can-be-used-against-you.html)
-
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rSPb0MuVZnM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

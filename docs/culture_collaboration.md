@@ -127,10 +127,6 @@
 
 [![Forbes: seven ways to inspire your team to collaborate](images/forbes_inspire_people_to_collaborate.png)](http://www.forbes.com/sites/carolkinseygoman/2016/02/21/seven-ways-to-inspire-your-team-to-collaborate)
 
-[![howto_give_constructive_feedback_to_toxic_boss](images/howto_give_constructive_feedback_to_toxic_boss.png)](https://www.entrepreneur.com/article/248379)
-
-[![your_office_not_game_of_thrones](images/your_office_not_game_of_thrones.png)](https://www.linkedin.com/pulse/your-office-game-thrones-beware-negative-behaviors-hold-betty-liu)
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Help! My boss doesn&#39;t do any work and takes credit for everything I do <a href="https://t.co/O83AHc1wpP">https://t.co/O83AHc1wpP</a> <a href="https://t.co/RFWT4fhFlc">pic.twitter.com/RFWT4fhFlc</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/717387777718009858">5 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![2015 state of devops report, burnout](images/state_devops_report_burnout.png)](https://puppetlabs.com/2015-devops-report)
