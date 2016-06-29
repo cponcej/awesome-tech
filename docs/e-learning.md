@@ -217,6 +217,8 @@
 - [Lynda.com Databases](http://www.lynda.com/Databases-training-tutorials/)
 - [springboard.com - Learn Data Science & UX Design online](https://www.springboard.com)
 - [udemy.com: Fired To Hired: 8 Steps To Get You Back To Work](https://www.udemy.com/fired-to-hired-8-steps-to-get-you-back-to-work/)
+- [Dell SonicWALL Network Security Basic Administration (CSSA Level Course)](https://support.software.dell.com/sonicwall-nsa-series/training/100/dell-sonicwall-network-security-basic-administration-cssa-level-course-instructor-led-training)
+- [globalknowledge.com: Dell SonicWALL Network Security Basic Administration](https://www.globalknowledge.com/us-en/course/85445/dell-sonicwall-network-security-basic-administration/) Learn to design, implement, and troubleshoot SonicWALL security devices running SonicOS firmware.
 
 [![aba english](images/logo-aba-english.png)](http://www.abaenglish.com)
 

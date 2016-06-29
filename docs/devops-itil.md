@@ -432,6 +432,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/68YcOcz8MM">pic.twitter.com/68YcOcz8MM</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/739101900856037376">4 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Who&#39;s in charge of Product Backlog <a href="https://twitter.com/hashtag/management?src=hash">#management</a>? What are some other challenges &amp;responsibilities of a <a href="https://twitter.com/hashtag/ProductOwner?src=hash">#ProductOwner</a>? <a href="https://t.co/VMLNWloQWq">https://t.co/VMLNWloQWq</a></p>&mdash; Scrum.org (@Scrumdotorg) <a href="https://twitter.com/Scrumdotorg/status/748151086721142784">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### Open Project
 - [openproject.org 🌟](https://www.openproject.org)
 - [OpenProject: An open source project management solution](https://opensource.com/business/16/2/openproject-open-source-project-management-solution)

@@ -242,6 +242,8 @@
 
 [![spark_summit](images/spark_summit.png)](http://www.slideshare.net/SparkSummit)
 
+[![monitoring_apache_spark](images/monitoring_apache_spark.png)](https://dzone.com/articles/monitoring-apache-spark-why-is-it-challenging)
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/SxAxAhn-BDU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

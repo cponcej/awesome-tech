@@ -168,6 +168,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ask HN: How do detect a crappy boss / toxic environment when interviewing? | Hacker News <a href="https://twitter.com/hashtag/goodread?src=hash">#goodread</a>  <a href="https://t.co/KjaYBwktW2">https://t.co/KjaYBwktW2</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/718389363386818560">8 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Your Guide to Hiring a Good Programmer<a href="https://twitter.com/hashtag/Agile?src=hash">#Agile</a><a href="https://t.co/NyjK9hOxcJ">https://t.co/NyjK9hOxcJ</a><br><br>via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> <a href="https://twitter.com/yegor256">@yegor256</a> <a href="https://t.co/9Mw1RvxCep">pic.twitter.com/9Mw1RvxCep</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/748123868007641088">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which big tech companies employ the most women? <a href="https://t.co/JWV8NTv1iq">https://t.co/JWV8NTv1iq</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/708749654930952193">12 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

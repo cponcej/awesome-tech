@@ -19,6 +19,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why reducing <a href="https://twitter.com/hashtag/jitter?src=hash">#jitter</a> can improve your <a href="https://twitter.com/hashtag/data?src=hash">#data</a> transfert and increase your <a href="https://twitter.com/hashtag/WebPerformance?src=hash">#WebPerformance</a>? <a href="https://t.co/CCye30Glvi">https://t.co/CCye30Glvi</a></p>&mdash; Datapath.io (@datapath_io) <a href="https://twitter.com/datapath_io/status/748124606293225472">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Network Performance Monitoring
 #### ntop
 - [ntop.org](http://www.ntop.org/)

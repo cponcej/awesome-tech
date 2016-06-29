@@ -84,6 +84,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Soy programador y tengo 50 años <a href="https://t.co/ELW9mP04Rg">https://t.co/ELW9mP04Rg</a> vía <a href="https://twitter.com/xataka">@xataka</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747776481074495488">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to get a job as a software engineer <a href="https://t.co/Of0W9xWfkG">https://t.co/Of0W9xWfkG</a> <a href="https://t.co/rMQAfvy5Rs">pic.twitter.com/rMQAfvy5Rs</a></p>&mdash; Glassdoor (@Glassdoor) <a href="https://twitter.com/Glassdoor/status/748169264981389315">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Software Development
 - [Signs that you're a good programmer 🌟](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 - [15 Characteristics of a Good Programmer](http://www.entrepreneur.com/article/240644)

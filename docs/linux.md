@@ -412,6 +412,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This is so cool. BASH3 Boilerplate – Template for writing better Bash scripts :) <a href="https://t.co/QAJIfuqtP0">https://t.co/QAJIfuqtP0</a><a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/osx?src=hash">#osx</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/745669976854433792">22 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/X0AftEPdJR">https://t.co/X0AftEPdJR</a> <a href="https://t.co/dI97HTZMsQ">https://t.co/dI97HTZMsQ</a></p>&mdash; Unixmen (@unixmen) <a href="https://twitter.com/unixmen/status/748140962250108928">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Linux Tips
 - [nixCraft: 20 Examples: Make Sure Unix/Linux Configuration Files Are Free From Syntax Errors](http://www.cyberciti.biz/tips/check-unix-linux-configuration-file-for-syntax-errors.html) Stop! Test Your Server Configuration Before Restarting Unix and Linux Services
 
@@ -674,6 +677,7 @@
 - [nixCraft: create-ssh-config-file-on-linux-unix 🌟](http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/)
 - [How to Ensure Proper SSH User Key Management](http://aberdeenessentials.com/how-to-ensure-proper-ssh-user-key-management/)
 - [nixCraft: Ubuntu/Debian Linux Server Install Keychain SSH Key Manager For OpenSSH 🌟🌟](http://www.cyberciti.biz/faq/ubuntu-debian-linux-server-install-keychain-apt-get-command/)
+- [linux.com: 5 SSH Hardening Tips 🌟🌟🌟](https://www.linux.com/learn/5-ssh-hardening-tips)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
@@ -698,6 +702,7 @@
 - [How to list all iptables rules with line numbers on Linux](http://www.cyberciti.biz/faq/linux-viewing-all-iptables-rules-with-numbers-command/)
 - [nixCraft: Iptables MAC Address Filtering](http://www.cyberciti.biz/tips/iptables-mac-address-filtering.html)
 - [unixmen.com: IPTABLES VS FIREWALLD 🌟](https://www.unixmen.com/iptables-vs-firewalld/)
+- [Linux Iptables Delete postrouting Rule Command 🌟🌟](http://www.cyberciti.biz/faq/how-to-iptables-delete-postrouting-rule/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Blocklist of all Facebook domains <br><br>-&gt; /etc/hosts file <a href="https://t.co/fh3G6c2Tqg">https://t.co/fh3G6c2Tqg</a><br><br>-&gt; iptables <a href="https://t.co/oH3r62qByF">https://t.co/oH3r62qByF</a> <a href="https://twitter.com/hashtag/privacy?src=hash">#privacy</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/736581390276272128">28 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -750,6 +755,9 @@
 <br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">[Comic Friday!]<br><br>To VI Or Not To VI<a href="https://twitter.com/hashtag/Java?src=hash">#Java</a><a href="https://t.co/DVsw2ppChI">https://t.co/DVsw2ppChI</a><br><br>via <a href="https://twitter.com/turnoff_us">@turnoff_us</a> <a href="https://t.co/tFe7T6gGuZ">pic.twitter.com/tFe7T6gGuZ</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/746417886336528385">24 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Most of you probably  know but if you don&#39;t know fire up a terminal &amp; type the following to starts the Vim tutor:<br><br>vimtutor<a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/748155457542336512">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Emacs

@@ -184,6 +184,9 @@
 
 [![dilbert_salary_depends_team_success](images/dilbert_salary_depends_team_success.gif)](http://dilbert.com/strip/1994-11-28)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Be clear and specific, plus more tips on how to ask for a raise <a href="https://t.co/ZF2VYahyIw">https://t.co/ZF2VYahyIw</a> <a href="https://t.co/oCKBpNOAi6">pic.twitter.com/oCKBpNOAi6</a></p>&mdash; Glassdoor (@Glassdoor) <a href="https://twitter.com/Glassdoor/status/748139053480968192">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Work environment issues
 - [forbes.com: How To Handle A Frenemy At Work](http://www.forbes.com/sites/lizryan/2016/02/11/how-to-handle-a-frenemy-at-work) What is a frenemy? It’s a person who acts like a friend until they suddenly decide to stab you in the back.
 - [businessinsider.com: 19 signs your coworkers secretly hate you](http://www.businessinsider.com/signs-your-colleagues-secretly-hate-you-2016-1)

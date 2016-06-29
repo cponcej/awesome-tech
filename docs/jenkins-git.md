@@ -347,6 +347,12 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Putting this up in the office... <a href="https://t.co/XFapcU39Dw">pic.twitter.com/XFapcU39Dw</a></p>&mdash; Mark Fink (@markfink) <a href="https://twitter.com/markfink/status/743380610266337280">16 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">They told me offline use was a big advantage of git over svn. But, how are you supposed to use git without google?</p>&mdash; Matt Might (@mattmight) <a href="https://twitter.com/mattmight/status/418408900996919296">1 de enero de 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">You don&#39;t really learn git. It just crushes your life into a git-shaped hole.</p>&mdash; Matt Might (@mattmight) <a href="https://twitter.com/mattmight/status/193363646238298112">20 de abril de 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Git clients
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [git-scm clients](http://git-scm.com/downloads)
