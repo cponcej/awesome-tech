@@ -84,6 +84,8 @@
 - [elmundoenbits.com](http://www.elmundoenbits.com)
 - [Blog de un sysadmin](http://ernestogamez.es)
 
+[![handbook_servers_checklist](images/handbook_servers_checklist.png)](https://www.upguard.com/handbooks/server-checklist)
+
 # Sysadmin Forums
 - [sysadmin 'subreddit'](https://www.reddit.com/r/sysadmin/)
 	- [Sysadmin BestOf 2015 Results](https://www.reddit.com/r/sysadmin/comments/42wdj6/sysadmin_bestof_2015_results/)
