@@ -148,6 +148,8 @@
 </div>
 <br>
 
+[![rhel_future](images/rhel_future.png)](http://www.techrepublic.com/article/red-hat-enterprise-linux-getting-in-the-way-and-needs-to-evolve-says-product-director/)
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
