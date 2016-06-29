@@ -117,6 +117,8 @@
 
 [![interview_why_looking_for_a_change](images/interview_why_looking_for_a_change.png)](https://www.linkedin.com/pulse/answering-why-you-looking-change-j-t-o-donnell)
 
+[![howto_reject_candidates_2016](images/howto_reject_candidates_2016.png)](https://business.linkedin.com/talent-solutions/blog/candidate-experience/2015/why-you-must-rethink-how-you-reject-candidates-in-2016)
+
 ![candidates_loyal_to_recruiters](images/candidates_loyal_to_recruiters.jpg)
 
 [![walk_out_job_interview](images/walk_out_job_interview.png)](https://www.linkedin.com/pulse/i-wrong-walk-out-job-interview-liz-ryan)
