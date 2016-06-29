@@ -13,6 +13,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Jim, can any company become an open organization?<a href="https://twitter.com/hashtag/CUBEgems?src=hash">#CUBEgems</a> <a href="https://twitter.com/JWhitehurst">@JWhitehurst</a> <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://twitter.com/hashtag/theCUBE?src=hash">#theCUBE</a> <a href="https://t.co/Kg5Qb4KXNM">pic.twitter.com/Kg5Qb4KXNM</a></p>&mdash; theCUBE (@theCUBE) <a href="https://twitter.com/theCUBE/status/747844822308794368">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ben Johnson&#39;s 9.79 100M record during the &#39;88 Seoul Olympics is oldie but goodie <a href="https://twitter.com/hashtag/30for30?src=hash">#30for30</a> <a href="https://t.co/ijyXgTWkpp">https://t.co/ijyXgTWkpp</a></p>&mdash; Casey Stavropoulos (@kassianistavro) <a href="https://twitter.com/kassianistavro/status/713173702599438336">25 de marzo de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ItBL6Qmloj0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
