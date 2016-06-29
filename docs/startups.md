@@ -143,6 +143,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Building a business: &quot;It&#39;s about being OK with failure and knowing you&#39;ll make mistakes.&quot; <a href="https://t.co/scRF54QQ2h">https://t.co/scRF54QQ2h</a> <a href="https://t.co/B5eXQtiJ12">pic.twitter.com/B5eXQtiJ12</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/745245137912107009">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aTWvXwix6dA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ![fail_risk_enough](images/fail_risk_enough.jpg)
 
 [![entrepreneurs_stop_micromanaging](images/entrepreneurs_stop_micromanaging.png)](https://www.entrepreneur.com/article/274517)
