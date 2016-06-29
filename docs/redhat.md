@@ -474,6 +474,7 @@
 - [developers.redhat.com: What’s new with JPA 2.1 and Hibernate 5 in JBoss EAP 7](http://developers.redhat.com/blog/2016/03/07/whats-new-jpa-2-1-hibernate-5-jboss-eap-7)
 - [servicesblog.redhat.com - Starting with DevOps: Deploying Applications on your Docker JBoss EAP Image](http://servicesblog.redhat.com/2016/03/28/starting-with-devops-deploying-applications-on-your-docker-jboss-eap-image/)
 - [Red Hat Delivers JBoss EAP 7, a Foundation for Hybrid Cloud Applications](https://www.redhat.com/en/about/press-releases/red-hat-delivers-jboss-eap-7-foundation-hybrid-cloud-applications)
+- [Red Hat polishes JBoss EAP 7 for a cloud-native future](http://www.pcworld.com/article/3089029/red-hat-polishes-jboss-eap-for-a-cloud-native-future.html) A new services collection offers building blocks commonly used in enterprise applications
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
