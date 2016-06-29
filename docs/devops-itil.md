@@ -102,6 +102,8 @@
 
 [![principles_of_devops](images/principles_of_devops.png)](https://www.linkedin.com/pulse/principles-devops-establishing-sustaining-high-bowler)
 
+[![dzone_periodic_table_devops_tools_v2](images/dzone_periodic_table_devops_tools_v2.png)](https://dzone.com/articles/the-periodic-table-of-devops-tools-v2-is-here-1)
+
 [![periodic_table_devops_tools](images/periodic_table_devops_tools.png)](https://xebialabs.com/periodic-table-of-devops-tools/)
 
 [![devops_glossary](images/devops_glossary.png)](https://xebialabs.com/glossary/)
