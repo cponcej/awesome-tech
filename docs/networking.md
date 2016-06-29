@@ -11,12 +11,7 @@
 	- [IPv6](#ipv6)
 	- [Network Forensics](#network-forensics)
 	- [Network Performance](#network-performance)
-		- [Network Performance Monitoring](#network-performance-monitoring)
-			- [ntop](#ntop)
-			- [Solarwinds](#solarwinds)
-			- [NetCrunch](#netcrunch)
 	- [VoIP](#voip)
-		- [Asterisk](#asterisk)
 	- [MPLS Multi Protocol Label Switching \(IP VPN\)](#mpls-multi-protocol-label-switching-ip-vpn)
 	- [WiFi security](#wifi-security)
 	- [WiFi Products](#wifi-products)
@@ -163,93 +158,10 @@
 <br/>
 
 ## Network Performance
-- [infoworld.com: 10 tips for boosting network performance 🌟](http://www.infoworld.com/article/2627174/network-monitoring/10-tips-for-boosting-network-performance.html)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B8AgMu6Wr5g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-### Network Performance Monitoring
-#### ntop
-- [ntop.org](http://www.ntop.org/)
-[![ntopng_logo](images/ntopng_logo.png)](http://www.ntop.org/)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cs022q4iu4w?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/q97_sX5gRCc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-#### Solarwinds
-- [Solarwinds: Monitoring 101 ebook](https://thwack.solarwinds.com/docs/DOC-187523)
-- [Solarwinds: Network Monitoring for Dummies](http://www.solarwinds.com/lp/bandwidth-analyzer-pack-plus-ebook.aspx)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TybbmHcxXek?list=PLE5D25EB7AA76EE4B" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-8xPLCIuQzE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-#### NetCrunch
-- [NetCrunch](https://www.adremsoft.com/netcrunch/)
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">NetCrunch 9: simply awesome network monitoring <a href="https://t.co/XqIkKuH912">https://t.co/XqIkKuH912</a> <a href="https://twitter.com/hashtag/SysAdmin?src=hash">#SysAdmin</a> <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> <a href="https://twitter.com/hashtag/CIO?src=hash">#CIO</a> <a href="https://twitter.com/hashtag/CTO?src=hash">#CTO</a> <a href="https://twitter.com/hashtag/DataViz?src=hash">#DataViz</a> <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> <a href="https://t.co/CiDQvRHKGj">pic.twitter.com/CiDQvRHKGj</a></p>&mdash; AdRem Software (@adremsoftware) <a href="https://twitter.com/adremsoftware/status/734183514904616961">22 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e5R0hliHHVk?list=PL4350CA1BB4DE458A" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
+- [Network Performance](nw_performance.md)
 
 ## VoIP
-- [voip-info.org](http://www.voip-info.org)
-- [VoIP Planning: Calculate Your Bandwidth Before Adding SIP Trunk Service](http://it.toolbox.com/blogs/voip-news/voip-planning-calculate-your-bandwidth-before-adding-sip-trunk-service-66093)
-- [The Importance of VoIP Voice Quality](http://it.toolbox.com/blogs/voip-news/the-importance-of-voip-voice-quality-65970)
-- [10 Key VoIP Trends to Track in 2015](http://it.toolbox.com/blogs/voip-news/10-key-voip-trends-to-track-in-2015-66121)
-- [The Power of VoIP in Disaster Recovery](http://it.toolbox.com/blogs/voip-news/the-power-of-voip-in-disaster-recovery-66205)
-- [Implementing A Successful VoIP System](http://it.toolbox.com/blogs/voip-news/implementing-a-successful-voip-system-66450)
-- [Hosted vs SIP and PBX: Which is best for your Business?](http://it.toolbox.com/blogs/voip-news/hosted-vs-sip-and-pbx-which-is-best-for-your-business-66697)
-	- [Reddit: Hosted VoIP/PBX Suggestions. Moving FreePBX/Asterisk/3CX to the Cloud](http://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/)
-- [Understanding the Key Differences between ESBCs and Firewalls?](https://www.edgewaternetworks.com/2015/05/understanding-the-key-differences-between-esbcs-and-firewalls/)
-- [In 2015 Lync became Skype for Business](https://products.office.com/en-US/skype-for-business)
-- [voipmonitoringzone.com: Enterprise VoIP is Growing Up and Meeting More Companies' Needs](http://www.voipmonitoringzone.com/articles/415200-enterprise-voip-growing-up-meeting-more-companies-needs.htm)
-- [El 86% de las empresas utiliza herramientas de Comunicaciones Unificadas y colaboración. La colaboración móvil, el nuevo frente de batalla](http://www.aunclicdelastic.com/la-colaboracion-movil-el-nuevo-frente-de-batalla/)
-
-<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/Xp1qr1NOFx">pic.twitter.com/Xp1qr1NOFx</a></p>&mdash; Boing Boing (@BoingBoing) <a href="https://twitter.com/BoingBoing/status/726557954883768320">30 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="reddit-card" data-card-created="1464421957"><a href="https://www.reddit.com/r/sysadmin/comments/11ii9l/hosted_pbx_suggestions/?ref=share&ref_source=embed">Hosted PBX Suggestions.</a> from <a href="http://www.reddit.com/r/sysadmin">sysadmin</a></blockquote><script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
-
-### Asterisk
-- [Asterisk.org](http://www.asterisk.org/)
-- [Asterisk PBX wikipedia](https://en.wikipedia.org/wiki/Asterisk_(PBX))
-- [reddit.com/r/Asterisk](https://www.reddit.com/r/Asterisk/)
-- [Asterisk admin guide](https://wiki.asterisk.org/wiki/display/AST/Asterisk+Exported+Documentation)
-- [How to manage your Asterisk PBX](http://www.voip-info.org/wiki/view/Asterisk+administration)
-- [wiki.asterisk.org](https://wiki.asterisk.org)
-- [asteriskguru.com](http://asteriskguru.com/)
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/fQJk4WddNmE05T" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmirHajihasani/what-is-asterisk-62524965" title="What is Asterisk?" target="_blank">What is Asterisk?</a> </strong> from <strong><a href="//www.slideshare.net/AmirHajihasani" target="_blank">Amir Hajihasani</a></strong> </div>
-</div>
-<br/>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/JTcpi44A1PS92b" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MoisesSilva6/implementation-lessons-using-webrtc" title="Implementation Lessons using WebRTC in Asterisk" target="_blank">Implementation Lessons using WebRTC in Asterisk</a> </strong> from <strong><a href="//www.slideshare.net/MoisesSilva6" target="_blank">Moises Silva</a></strong> </div>
-</div>
-<br/>
-
-<div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/dW8piVlTlcM4j6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/enjayworld/sugarcrm-asterisk-integration-by-enjay" title="Sugar CRM asterisk integration by enjay " target="_blank">Sugar CRM asterisk integration by enjay </a> </strong> from <strong><a href="//www.slideshare.net/enjayworld" target="_blank">Limesh Parekh</a></strong> </div>
-</div>
-<br/>
+- [VoIP](voip.md)
 
 ## MPLS Multi Protocol Label Switching (IP VPN)
 - [tech-faq.com: MPLS](http://www.tech-faq.com/mpls.html)

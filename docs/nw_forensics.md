@@ -3,7 +3,7 @@
 - [Network Forensics](#network-forensics)
 	- [Network Forensics Blogs](#network-forensics-blogs)
 	- [Network Forensics and Wireshark on Twitter](#network-forensics-and-wireshark-on-twitter)
-	- [Network Forensics Docs](#network-forensics-docs)
+	- [Network Forensics Tools](#network-forensics-tools)
 		- [WireEdit](#wireedit)
 		- [Wireshark](#wireshark)
 			- [Laura Chappell](#laura-chappell)
@@ -11,10 +11,9 @@
 			- [Wireshark Slides](#wireshark-slides)
 		- [Fiddler](#fiddler)
 		- [Transum wireshark plugin](#transum-wireshark-plugin)
-		- [Network Performance](#network-performance)
 		- [Manuales de Wireshark](#manuales-de-wireshark)
 		- [Wireshark 2.0](#wireshark-20)
-	- [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
+		- [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
 	- [DPI Deep Packet Inspection](#dpi-deep-packet-inspection)
 		- [CapAnalysis](#capanalysis)
 
@@ -57,7 +56,7 @@
 </div>
 <br>
 
-## Network Forensics Docs
+## Network Forensics Tools
 - [Digital Attack Map. Top daily DDoS attacks worldwide 🌟🌟🌟](http://www.digitalattackmap.com/)
 	- [radware.com: DDoS Handbook](https://www.radware.com/social/ddoshandbook/)
 
@@ -203,11 +202,6 @@
 - [TRANSUM Wireshark Plugin. Some Wireshark dissectors provide response time measurement values, but what gets measured is not ideal for performance analysis work](http://www.tribelabzero.com/transum)
 	- [Wireshark Transum Quickstart (by Tony Fortunato)](http://www.lovemytool.com/blog/2014/08/wireshark-transum-quickstart-by-tony-fortunato.html)
 
-### Network Performance
-- [Corvil.com Network Data Analsysis. Free eBook: Understanding Packet Loss](http://corvil.com/resources/white-papers/ebook-understanding-packet-loss)
-- [What’s the performance meaning of 0-Windows?](http://blog.securactive.net/performance-meaning-0-windows/) When a machine starts to send more and more 0-win you have to investigate if there is enough resources, CPU, RAM …
-- [Great explanation on how performance metrics are calculated by Tony Fortunato (Tech firm)](http://www.lovemytool.com/blog/2015/10/application-performance-term-connect-time-by-tony-fortunato.html)
-
 ### Manuales de Wireshark
 - [Manual básico de wireshark](http://www.slideshare.net/DIANYSS2012/manual-bsico-de-wireshark)
 - [Analisis de red mediante Wireshark y Tcpdump](http://www.slideshare.net/JavierMartinRivero/analisis-de-red-mediante-wireshark-y-tcpdump)
@@ -243,7 +237,7 @@
 </div>
 <br>
 
-## Network Forensics and Monitoring for MySQL and PostgreSQL
+### Network Forensics and Monitoring for MySQL and PostgreSQL
 - [VividCortex](https://twitter.com/VividCortex)
 - [Announcing VividCortex's Free Network Analyzer Tools for MySQL and PostgreSQL](https://www.vividcortex.com/blog/2015/05/13/announcing-vividcortex-network-analyzer-mysql-postgresql/)
 - [Analyzing PostgreSQL Network Traffic with vc-pgsql-sniffer](http://www.pgconfsv.com/sessions/analyzing-postgresql-network-traffic-vc-pgsql-sniffer)
