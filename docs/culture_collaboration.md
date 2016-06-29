@@ -14,6 +14,11 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kOYcbod5J0w?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sPPfYtFE6og?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
@@ -169,11 +174,6 @@
 [![culture shaped by worst behavior](images/culture_shaped_by_worst_behavior.jpg)](http://ricklochner.com/the-culture-of-any-organization-is-shaped/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Once someone starts disrespecting you.<br>It is so hard to ever get them to stop....best to just walk away. <a href="https://t.co/2tYzUf9f0Q">pic.twitter.com/2tYzUf9f0Q</a></p>&mdash; ✨Påυυιđå❤️ (@krua6497) <a href="https://twitter.com/krua6497/status/701213378069417984">21 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kOYcbod5J0w?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
 
 [![alonso_herbert_tu_acabaste_comentarista](images/alonso_herbert_tu_acabaste_comentarista.png)](http://buzz.eurosport.es/top/alonso-a-herbert-no-me-retiro-soy-campeon-tu-no-y-acabaste-de-comentarista-12370/)
 
