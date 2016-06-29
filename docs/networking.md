@@ -164,6 +164,11 @@
 ## Network Performance
 - [infoworld.com: 10 tips for boosting network performance 🌟](http://www.infoworld.com/article/2627174/network-monitoring/10-tips-for-boosting-network-performance.html)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8AgMu6Wr5g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Network Performance Monitoring
 #### ntop
 - [ntop.org](http://www.ntop.org/)
@@ -182,11 +187,6 @@
 #### Solarwinds
 - [Solarwinds: Monitoring 101 ebook](https://thwack.solarwinds.com/docs/DOC-187523)
 - [Solarwinds: Network Monitoring for Dummies](http://www.solarwinds.com/lp/bandwidth-analyzer-pack-plus-ebook.aspx)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B8AgMu6Wr5g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TybbmHcxXek?list=PLE5D25EB7AA76EE4B" frameborder="0" allowfullscreen class="video"></iframe>
