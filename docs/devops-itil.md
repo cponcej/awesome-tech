@@ -54,6 +54,9 @@
 
 [![learn_devops_udemy](images/learn_devops_udemy.png)](https://www.udemy.com/learn-devops-continuously-deliver-better-software/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Tech jobs report: security, <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>, and <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> stay hot <a href="https://t.co/gphg2ibB7W">https://t.co/gphg2ibB7W</a> via <a href="https://twitter.com/infoworld">@infoworld</a> <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> <a href="https://t.co/cVzlNDLS2c">pic.twitter.com/cVzlNDLS2c</a></p>&mdash; Paul Denham (@PaulTDenham) <a href="https://twitter.com/PaulTDenham/status/748168909656719360">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # DevOps
 ## DevOps Blogs
 - [devops.com](http://devops.com/)

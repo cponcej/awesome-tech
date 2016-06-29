@@ -80,6 +80,9 @@
 
 [![cybersecurity_skills_gap](images/cybersecurity_skills_gap.png)](https://community.spiceworks.com/topic/1618495-cybersecurity-skills-gap-most-organizations-lack-it-security-experts)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Josh, how does Red Hat deal with security issues?<a href="https://twitter.com/hashtag/CUBEgems?src=hash">#CUBEgems</a> <a href="https://twitter.com/joshbressers">@joshbressers</a> <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://twitter.com/hashtag/theCUBE?src=hash">#theCUBE</a> <a href="https://t.co/nvCSCG1pT6">pic.twitter.com/nvCSCG1pT6</a></p>&mdash; theCUBE (@theCUBE) <a href="https://twitter.com/theCUBE/status/748233165668397056">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Security
 ## Awesome Security Lists
 - [awesome security](https://github.com/sbilly/awesome-security)

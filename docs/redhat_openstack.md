@@ -26,6 +26,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat Drives OpenStack Adoption Across Europe <a href="https://t.co/2LQXKVNRaV">https://t.co/2LQXKVNRaV</a> <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> <a href="https://twitter.com/hashtag/redhat?src=hash">#redhat</a> <a href="https://twitter.com/hashtag/fastweb?src=hash">#fastweb</a> <a href="https://twitter.com/hashtag/paddypower?src=hash">#paddypower</a> <a href="https://twitter.com/hashtag/betfair?src=hash">#betfair</a> <a href="https://twitter.com/hashtag/produban?src=hash">#produban</a></p>&mdash; Tariq Iqbal (@TariqIqbal_) <a href="https://twitter.com/TariqIqbal_/status/725665026288275457">28 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Joint solutions from <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> + <a href="https://twitter.com/Cisco">@Cisco</a> simplify deployment, increase flexibility, &amp; reduce risk <a href="https://t.co/FBWrhHsSob">https://t.co/FBWrhHsSob</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/748234340178468864">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # OpenStack Private Cloud
 - [OpenStack private cloud](cloud.md#openstack-private-cloud)
 

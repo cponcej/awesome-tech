@@ -13,6 +13,8 @@
 
 [![puppet_knowledge_base](images/puppet_knowledge_base.png)](https://puppet.com/blog/knowledge-one-best-ways-ensure-customer-success)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Test your configuration management skills in <a href="https://twitter.com/hashtag/puppet?src=hash">#puppet</a> by visiting training showcase. Not @ <a href="https://twitter.com/hashtag/rhsummit?src=hash">#rhsummit</a>? No sweat! | <a href="https://t.co/Rehj1Y7Z1X">https://t.co/Rehj1Y7Z1X</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/748235843815411712">29 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Puppet
 - [The Puppet Labs Issue Tracker](https://tickets.puppetlabs.com)
 - [Google Groups puppet-bugs](https://groups.google.com/forum/#!forum/puppet-bugs)
