@@ -38,6 +38,7 @@
         - [Payment Card Industry Data Security Standard compliance](#payment-card-industry-data-security-standard-compliance)
     - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
     - [AWS S3](#aws-s3)
+    - [Amazon EFS Elastic File System](#amazon-efs-elastic-file-system)
     - [AWS Backup and Recovery. Design for failure](#aws-backup-and-recovery-design-for-failure)
     - [AWS Config Rules](#aws-config-rules)
     - [AWS BigData](#aws-bigdata)
@@ -492,6 +493,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/55f-4CMxoro?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## Amazon EFS Elastic File System
+- [EFS Elastic File System](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-production-ready-in-three-regions)
+
+[![aws_elastic_filesystem 🌟🌟🌟](images/aws_elastic_filesystem.png)](https://aws.amazon.com/es/blogs/aws/amazon-elastic-file-system-production-ready-in-three-regions)
 
 ## AWS Backup and Recovery. Design for failure
 - [Quantum Taps AWS for Cloud-Powered Disaster Recovery](http://www.infostor.com/backup-and_recovery/quantum-taps-aws-for-cloud-powered-disaster-recovery.html)
