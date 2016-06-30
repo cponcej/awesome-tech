@@ -4,6 +4,7 @@
 - [High quality tech resources and search engines](#high-quality-tech-resources-and-search-engines)
 	- [Gartner](#gartner)
 	- [Goldman Sachs](#goldman-sachs)
+	- [Accenture](#accenture)
 	- [Zeef.com: Find and share quality development/tech resources](#zeefcom-find-and-share-quality-developmenttech-resources)
 	- [Awesome List. Awesome AWS, Awesome SysAdmin, Awesome Docker, Awesome BigData, etc](#awesome-list-awesome-aws-awesome-sysadmin-awesome-docker-awesome-bigdata-etc)
 	- [Code geek](#code-geek)
@@ -102,6 +103,13 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mqqyAlr50fU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## Accenture
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q5IlpzMTdVY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
