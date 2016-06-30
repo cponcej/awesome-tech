@@ -237,6 +237,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Explore <a href="https://twitter.com/hashtag/Flatpak?src=hash">#Flatpak</a>, the new distro-agnostic app packaging &amp; distribution system, in the Magazine: <a href="https://t.co/A9OnAfvbAy">https://t.co/A9OnAfvbAy</a></p>&mdash; Fedora Project (@fedora) <a href="https://twitter.com/fedora/status/746406719417376768">24 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CentOS?src=hash">#CentOS</a>, proud to be a key component of the RedHat&#39;s innovation, engagement, community. <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/F05juE5oIg">pic.twitter.com/F05juE5oIg</a></p>&mdash; Karanbir Singh (@CentOS) <a href="https://twitter.com/CentOS/status/748185399948775424">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Red Hat Security
 - [Red Hat Security Blog](https://access.redhat.com/blogs/product-security)
 - [Red Hat Security guide](https://www.redhat.com/en/technologies/guide/it-security)

@@ -32,6 +32,9 @@
 
 [![ansible_semaphore](images/ansible_semaphore.png)](https://github.com/ansible-semaphore/semaphore)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">To all Red Hat customers asking: yes, we will release Ansible Tower as open source in the future. <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a></p>&mdash; Alessandro Perilli (@giano) <a href="https://twitter.com/giano/status/747873367315845121">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![ansible_offers_automated_container_creation](images/ansible_offers_automated_container_creation.png)](https://www.redhat.com/en/about/press-releases/red-hat-launches-ansible-native-container-workflow-project)
 
 # Ansible
