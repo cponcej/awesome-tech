@@ -100,6 +100,7 @@
 - [capgemini.com: DevOps with Quality - 7 principles, integrated approach to DevOps Quality 🌟🌟🌟](https://www.capgemini.com/resources/devops-with-quality-7-principles-integrated-approach-to-devops-quality)
 - [Jumpstarting DevOps with continuous testing](http://www.devopsonline.co.uk/jumpstarting-devops-with-continuous-testing/)
 - [DZone: Open-Source Test Automation Tools and You 🌟🌟🌟](https://dzone.com/articles/selecting-the-best-open-source-test-automation-too) 
+- [capgemini.com: DevOps with Quality - Achieving the desired quality at every stage of the DevOps lifecycle 🌟🌟🌟](https://www.capgemini.com/resources/devops-with-quality-achieving-the-desired-quality-at-every-stage-of-the-devops-lifecycle)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Can We Neglect Manual Testing for Automation Testing? <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a><a href="https://t.co/mrztTSgcrt">https://t.co/mrztTSgcrt</a> <br><br>via Pavan Kumar <a href="https://t.co/qgnKWG3vlb">pic.twitter.com/qgnKWG3vlb</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/743171375754514432">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

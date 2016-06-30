@@ -122,6 +122,7 @@
 - [I once caught someone lying on their résumé — here's why you should never fib to an employer](http://www.businessinsider.com/why-you-shouldnt-lie-on-your-resume)
 - [The 8 Delegation Myths Of The Office 🌟](http://www.careerealism.com/the-8-myths-of-delegation/)
 - [When Your Job Title Doesn’t Reflect What You Really Do](http://www.careerealism.com/job-title-doesnt-reflect-what-you-do/)
+- [Millennials Don’t Want Fun; They Want You To Lead Better](https://www.linkedin.com/pulse/millennials-dont-want-fun-you-lead-better-mark-c-crowley)
 
 [![dilbert_company_knows_everyting](images/dilbert_company_knows_everyting.gif)](http://dilbert.com/strip/1998-02-06)
 
