@@ -43,5 +43,3 @@ En cualquier caso hay una tendencia al Heap-Offloading. El consumo de memoria en
 - [cubrid.org: How to Tune Java Garbage Collection](http://www.cubrid.org/blog/dev-platform/how-to-tune-java-garbage-collection)
 
 [![dzone_howto_troubleshoot_cpu_java](images/dzone_howto_troubleshoot_cpu_java.png)](https://dzone.com/articles/troubleshoot-sudden-cpu-spikes)
-
-[![Red Hat CEO quote](images/redhat_ceo_quote.png)](https://twitter.com/redhatnews)
