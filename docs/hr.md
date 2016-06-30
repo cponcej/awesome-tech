@@ -67,6 +67,7 @@
 - [Warning: Over Half Your Employees Hate Their Job](http://www.mjms.net/blog/warning-half-employees-hate-job/)
 - [BOOMERANG EMPLOYEES: WHO THEY ARE AND WHY THEY ARE ON THE RISE](http://www.yoh.com/blog/boomerang-employees-who-are-they-and-why-they-are-on-the-rise)
 - [THE PSYCHOLOGICAL CONTRACT: ARE YOU ON GOOD TERMS WITH YOUR MANAGER?](http://www.yoh.com/blog/the-psychological-contract-are-you-on-good-terms-with-your-manager)
+- [9 Warning Signs Your Employee is Quitting](http://www.mjms.net/blog/9-warning-signs-your-employee-is-quitting/)
 
 [![truth_employee_attitude_probs](images/truth_employee_attitude_probs.png)](http://www.forbes.com/sites/lizryan/2016/06/22/the-truth-about-employees-with-attitude-problems)
 
