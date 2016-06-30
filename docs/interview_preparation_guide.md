@@ -115,6 +115,8 @@
 
 [![dilbert_people_careers_looks](images/dilbert_people_careers_looks.gif)](http://dilbert.com/strip/2010-04-14)
 
+![reason_leaving_last_job](images/reason_leaving_last_job.jpg)
+
 [![what_developers_hate_about_job_search](images/what_developers_hate_about_job_search.png)](http://business.stackoverflow.com/blog/what-todays-developers-hate-about-the-job-search)
 
 [![recruitment_dont_send_email](images/recruitment_dont_send_email.png)](https://www.linkedin.com/pulse/stop-dont-send-email-james-caan-cbe)
