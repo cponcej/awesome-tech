@@ -21,6 +21,11 @@
 
 [![disruption cycle](images/disruption-cycle.png)](http://getcloudify.org/2015/10/21/configuration-management-chef-puppet-ansible-emc-dell-vmware-orchestration.html)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TYLpChzXTBc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # Configuration Management and Orchestration
 
 ## Microservices
