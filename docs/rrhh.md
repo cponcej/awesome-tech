@@ -54,6 +54,9 @@
 
 [![dilbert_raise_ceo](images/dilbert_raise_ceo.gif)](http://dilbert.com/strip/2015-03-15)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/FelizMi%C3%A9rcoles?src=hash">#FelizMiércoles</a> ¿cómo será el trabajo del futuro? <a href="https://twitter.com/Lanzaderas_EES">@Lanzaderas_EES</a>   <a href="https://twitter.com/fundacionTef">@fundacionTef</a>  <a href="https://twitter.com/hashtag/FSE?src=hash">#FSE</a> <a href="https://t.co/PVl6KnXnDg">pic.twitter.com/PVl6KnXnDg</a></p>&mdash; LanzaT (@_lanzaT) <a href="https://twitter.com/_lanzaT/status/748076279388332032">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">La vía tradicional hacia el desarrollo (la que también utilizó España)la del trabajo barato,se va a terminar: robots <a href="https://t.co/hVkH0AWsaO">https://t.co/hVkH0AWsaO</a></p>&mdash; Juan Ignacio Crespo (@JuanIgnacioCre1) <a href="https://twitter.com/JuanIgnacioCre1/status/745322210609475588">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
