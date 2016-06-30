@@ -56,6 +56,11 @@
 [![biggest_devels_fintech_2016](images/biggest_devels_fintech_2016.png)](http://www.wired.co.uk/article/biggest-developments-in-fintech-in-2016)
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mfE41OUMf5M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uScvb-BBp_M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
