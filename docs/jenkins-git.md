@@ -261,6 +261,7 @@
 - [tutorialzine.com: Learn Git in 30 Minutes 🌟🌟🌟](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 - [3 easy steps to submitting a GitHub pull request](https://opensource.com/life/16/3/submit-github-pull-request)
 - [puppet.com: Learn to use command line, Vim and Git with our new guide](https://puppet.com/blog/learn-use-command-line-vim-and-git-our-new-guide)
+- [Easily Calculate Your Project Version With Git 🌟🌟](https://dzone.com/articles/easily-calculate-your-project-version-with-git) How a user created a project to automatically create version names with every Git commit using Maven and Gradle plugins.
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
 
