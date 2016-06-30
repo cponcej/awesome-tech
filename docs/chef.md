@@ -4,6 +4,7 @@
     - [Chef and SAP](#chef-and-sap)
     - [Chef and Azure](#chef-and-azure)
     - [Chef Slides](#chef-slides)
+    - [Chef Videos](#chef-videos)
 
 <!-- /MarkdownTOC -->
 
@@ -39,6 +40,14 @@
 <br/>
 
 ## Chef Slides
+- [Chef on slideshare](http://www.slideshare.net/opscode)
+
+[![chef_slideshare](images/chef_slideshare.png)](http://www.slideshare.net/opscode)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/EM04KcoqijlYEk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/opscode/week6-roles-environmentscommunity" title="Chef Fundamentals Training Series Module 6: Roles, Environments, Community Cookbooks, and Other Resources" target="_blank">Chef Fundamentals Training Series Module 6: Roles, Environments, Community Cookbooks, and Other Resources</a> </strong> from <strong><a href="//www.slideshare.net/opscode" target="_blank">Chef Software, Inc.</a></strong> </div>
+</div>
+<br/>
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3vsGBOv3OtDabb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Joncak/learning-chef" title="Learning chef" target="_blank">Learning chef</a> </strong> from <strong><a href="//www.slideshare.net/Joncak" target="_blank">Jonathan Carrillo</a></strong> </div>
@@ -49,3 +58,22 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/sDRYeujbEHoYtI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sarahhynescheney/infrastructure-as-code-with-chef" title="Infrastructure as Code with Chef" target="_blank">Infrastructure as Code with Chef</a> </strong> from <strong><a href="//www.slideshare.net/sarahhynescheney" target="_blank">sarahhynescheney</a></strong> </div>
 </div>
 <br/>
+
+## Chef Videos
+- [Chef youtube channel](https://www.youtube.com/user/getchef)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jlwGcgFfcnU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/iRtb6q6RGHI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S5lHUpzoCYo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
