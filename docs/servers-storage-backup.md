@@ -268,6 +268,8 @@
 
 [![cambie_backup_tradicional_a_veeam](images/cambie_backup_tradicional_a_veeam.png)](https://go.veeam.com/switch-to-veeam-now-es?ccode=emea_linkedin)
 
+![veeam_best_solution](images/veeam_best_solution.png)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9PJL8wa4s8A?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
