@@ -484,6 +484,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Is tech turning contract work into the future of employment? <a href="https://t.co/Q1TonIo9sR">https://t.co/Q1TonIo9sR</a> by <a href="https://twitter.com/hope_reese">@Hope_Reese</a> <a href="https://t.co/t1EreileS3">pic.twitter.com/t1EreileS3</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/711968147214041088">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![Flowchart-of-umbrella-employment](images/Flowchart-of-umbrella-employment.png)](https://en.wikipedia.org/wiki/Umbrella_company)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ICYMI: &quot;Penetration Testing discussion&quot; by Gina Roberts <a href="https://t.co/ZW1HzYrZmF">https://t.co/ZW1HzYrZmF</a></p>&mdash; Peerlyst (@Peerlyst) <a href="https://twitter.com/Peerlyst/status/747893680036548608">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
