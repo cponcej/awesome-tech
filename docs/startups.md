@@ -92,6 +92,9 @@
 
 ![how_customer_explained_it](images/how_customer_explained_it.jpg)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Telefónica,reconocida como la telco europea que mejor trabaja con <a href="https://twitter.com/hashtag/startups?src=hash">#startups</a>➡<a href="https://t.co/zf2sBpC7jw">https://t.co/zf2sBpC7jw</a> por <a href="https://twitter.com/EvaOvix">@EvaOvix</a> Cc:<a href="https://twitter.com/fundacionTef">@fundacionTef</a>  <a href="https://twitter.com/WayraES">@WayraES</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/747888514575007744">28 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Startup related links
 - [ZDnet: Barcelona vs Madrid vs everywhere else: Spain's regions slug it out to be named startup capital 🌟🌟🌟](http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/)
 - [webcapitalriesgo.com: Startup Financing in Spain. 2015](https://www.webcapitalriesgo.com/descargas/4714_07_15_353136675.pdf)
