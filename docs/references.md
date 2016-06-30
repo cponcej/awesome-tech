@@ -16,6 +16,8 @@
 
 [![nadal_defamation](images/nadal_defamation.png)](http://www.elmundo.es/deportes/2016/03/14/56e6722b22601d39318b45b0.html)
 
+[![trabajo_basura](images/trabajo_basura.gif)](http://trabajobasura.info/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Curiosidades, verdades y mentiras sobre Robert Redford ( vía <a href="https://twitter.com/lanochede">@lanochede</a> ) <a href="http://t.co/fod44KKI0x">http://t.co/fod44KKI0x</a></p>&mdash; Cinestudio d&#39;Or (@cinestudiodor) <a href="https://twitter.com/cinestudiodor/status/459730110237925376">25 de abril de 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
