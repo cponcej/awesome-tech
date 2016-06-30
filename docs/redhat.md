@@ -150,6 +150,17 @@
 
 [![rhel_future](images/rhel_future.png)](http://www.techrepublic.com/article/red-hat-enterprise-linux-getting-in-the-way-and-needs-to-evolve-says-product-director/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How did <a href="https://twitter.com/Accenture">@Accenture</a> foster <a href="https://twitter.com/hashtag/OpenSource?src=hash">#OpenSource</a> culture internally? <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/AUnAhT1lGn">pic.twitter.com/AUnAhT1lGn</a></p>&mdash; Niel Eyde (@nieleyde) <a href="https://twitter.com/nieleyde/status/748271717458468864">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/Accenture">@Accenture</a> contributes to over 3000 open source projects through its Inner Source platform. <a href="https://t.co/jzO8dwAKNc">https://t.co/jzO8dwAKNc</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a></p>&mdash; kimbuck (@KimWilsonBuck) <a href="https://twitter.com/KimWilsonBuck/status/748272517417033728">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![inner_source](images/inner_source.png)](https://innersource.accenture.com/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Interesting to hear Accenture talking at <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a>, we are observing a shift from this type of outsourcing <a href="https://t.co/5F43zUjb8y">https://t.co/5F43zUjb8y</a></p>&mdash; Fintan Ryan (@fintanr) <a href="https://twitter.com/fintanr/status/748271265773813760">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Red Hat
 ## Red Hat on Twitter
 - [twitter.com/RedHatNews](https://twitter.com/RedHatNews)
