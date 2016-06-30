@@ -213,7 +213,7 @@
 <br>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/9uwz3eQbhQ9BVI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Riju_Rocks/kickstart-51602505" title="Kickstart" target="_blank">Kickstart</a> </strong> from <strong><a href="//www.slideshare.net/Riju_Rocks" target="_blank">Reezoo Bose</a></strong> </div>
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/1opbP9LT0tFsVa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/albertspijkers/red-hat-enterprise-linux-7-technical-overview" title="Red Hat Enterprise Linux 7 technical Overview" target="_blank">Red Hat Enterprise Linux 7 technical Overview</a> </strong> de <strong><a href="//es.slideshare.net/albertspijkers" target="_blank">albertspijkers</a></strong> </div>
 </div>
 <br>
 
