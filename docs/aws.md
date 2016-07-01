@@ -36,7 +36,8 @@
     - [AWS Cloud Formation](#aws-cloud-formation)
     - [AWS Security](#aws-security)
         - [Payment Card Industry Data Security Standard compliance](#payment-card-industry-data-security-standard-compliance)
-    - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
+        - [AWS IAM](#aws-iam)
+        - [AWS WAF Web Application Firewall](#aws-waf-web-application-firewall)
     - [AWS S3](#aws-s3)
     - [Amazon EFS Elastic File System](#amazon-efs-elastic-file-system)
     - [AWS Backup and Recovery. Design for failure](#aws-backup-and-recovery-design-for-failure)
@@ -450,8 +451,6 @@
 - [Tutorial: Configure Apache Web Server on Amazon Linux to use SSL/TLS](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-an-instance.html)
 - [The Most Popular AWS Security Blog Posts in 2015](http://blogs.aws.amazon.com/security/post/Tx4QX7W51NDSLO/The-Most-Popular-AWS-Security-Blog-Posts-in-2015)
 - [dzone: Private Subnets Are Broken on AWS](https://dzone.com/articles/private-subnets-are-broken-on-aws)
-- [AWS Identity and Access Management (IAM) best practices in 2016](http://blogs.aws.amazon.com/security/post/Tx2OB7YGHMB7WCM/Adhere-to-IAM-Best-Practices-in-2016)
-- [How to Record and Govern Your IAM Resource Configurations Using AWS Config](http://blogs.aws.amazon.com/security/post/Tx14ADBJOCAT9NS/How-to-Record-and-Govern-Your-IAM-Resource-Configurations-Using-AWS-Config)
 - [Amazon’s customer service backdoor](https://medium.com/@espringe/amazon-s-customer-service-backdoor-be375b3428c4#.qyixu5mu3)
 - [Announcing Industry Best Practices for Securing AWS Resources 🌟🌟](http://blogs.aws.amazon.com/security/post/Tx3PTTZB14FWPBA/Announcing-Industry-Best-Practices-for-Securing-AWS-Resources)
 - [The Most Viewed AWS Security Blog Posts so Far in 2016 🌟🌟🌟](http://blogs.aws.amazon.com/security/post/Tx2N52FR8XGJVL3/The-Most-Viewed-AWS-Security-Blog-Posts-so-Far-in-2016)
@@ -475,7 +474,12 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Create on the fly disposable VPN using AWS: <a href="https://t.co/9nQ5VXCv2Q">https://t.co/9nQ5VXCv2Q</a> - that&#39;s really cool 😎 <a href="https://twitter.com/hashtag/privacy?src=hash">#privacy</a> <a href="https://t.co/Fblg4J4CDp">pic.twitter.com/Fblg4J4CDp</a></p>&mdash; x0rz (@x0rz) <a href="https://twitter.com/x0rz/status/723132469696978944">21 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## AWS WAF Web Application Firewall
+### AWS IAM
+- [AWS Identity and Access Management - Getting Started 🌟🌟🌟](http://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started.html)
+- [AWS Identity and Access Management (IAM) best practices in 2016](http://blogs.aws.amazon.com/security/post/Tx2OB7YGHMB7WCM/Adhere-to-IAM-Best-Practices-in-2016)
+- [How to Record and Govern Your IAM Resource Configurations Using AWS Config](http://blogs.aws.amazon.com/security/post/Tx14ADBJOCAT9NS/How-to-Record-and-Govern-Your-IAM-Resource-Configurations-Using-AWS-Config)
+
+### AWS WAF Web Application Firewall
 - [AWS WAF - Web Application Firewall](https://aws.amazon.com/waf/)
 - [How to Automatically Update Your Security Groups for Amazon CloudFront and AWS WAF by Using AWS Lambda (boto3 python)](http://blogs.aws.amazon.com/security/post/Tx1LPI2H6Q6S5KC/How-to-Automatically-Update-Your-Security-Groups-for-Amazon-CloudFront-and-AWS-W)
 - [How to Use AWS WAF to Block IP Addresses That Generate Bad Requests 🌟](http://blogs.aws.amazon.com/security/post/Tx223ZW25YRPRKV/How-to-Use-AWS-WAF-to-Block-IP-Addresses-That-Generate-Bad-Requests)
