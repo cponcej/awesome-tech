@@ -75,6 +75,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/JqRbbmNnxV">https://t.co/JqRbbmNnxV</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747760278020972544">28 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">10 Great Data Science, Machine / Deep Learning, IoT, AI, Stats, Python and R Resources <a href="https://t.co/yGqf4xPw83">https://t.co/yGqf4xPw83</a> <a href="https://t.co/R5YVHOZ13m">pic.twitter.com/R5YVHOZ13m</a></p>&mdash; Machine Learning (@ML_toparticles) <a href="https://twitter.com/ML_toparticles/status/748409327577272321">30 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## SQL and Databases
 - [SQL and Databases](databases.md)
 

@@ -4,6 +4,7 @@
     - [Java on Twitter](#java-on-twitter)
     - [Java Blogs](#java-blogs)
     - [Java refs](#java-refs)
+        - [Garbage Collection and Heap Offloading](#garbage-collection-and-heap-offloading)
 
 <!-- /MarkdownTOC -->
 
@@ -119,6 +120,24 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/g0xZOrGp6f0UWc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/scolebourne/java-se-8-best-practices-53975908" title="Java SE 8 best practices" target="_blank">Java SE 8 best practices</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/scolebourne">Stephen Colebourne</a></strong> </div>
+</div>
+<br/>
+
+### Garbage Collection and Heap Offloading
+- [Tecnologías de Heap-Offloading son EHcache, Memcached, Jillegal library, etc.](http://ehcache.org/)
+- [Jillegal OffHeap Module](https://github.com/serkan-ozal/jillegal)
+- [Free eGuide: JVM Troubleshooting Guide](http://freepromagazine.blogspot.de/2014/07/free-eguide-jvm-troubleshooting-guide.html)
+- [Cambios importantes en la gestión de memoria de Java 8 de Oracle](http://karunsubramanian.com/websphere/one-important-change-in-memory-management-in-java-8/)
+- [PermGen eliminado](http://www.infoq.com/articles/Java-PERMGEN-Removed)
+- [On heap vs off heap memory usage](http://www.javacodegeeks.com/2014/12/on-heap-vs-off-heap-memory-usage.html)
+- [How Garbage Collection differs in the three big JVMs](http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/)
+- [cubrid.org: How to Tune Java Garbage Collection](http://www.cubrid.org/blog/dev-platform/how-to-tune-java-garbage-collection)
+- [DZone: Revisiting the Advanced Theories of ‘Java Garbage Collection’ 🌟🌟🌟](https://dzone.com/articles/revisiting-the-advanced-theories-of-java-garbage-c)
+
+[![dzone_howto_troubleshoot_cpu_java](images/dzone_howto_troubleshoot_cpu_java.png)](https://dzone.com/articles/troubleshoot-sudden-cpu-spikes)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NpUYrnBQ59fyV6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/feuteston/jvm-internals-2015corkdevio" title="JVM Internals (2015)" target="_blank">JVM Internals (2015)</a> </strong> from <strong><a href="//www.slideshare.net/feuteston" target="_blank">Luiz Fernando Teston</a></strong> </div>
 </div>
 <br/>
 

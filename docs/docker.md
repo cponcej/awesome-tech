@@ -35,6 +35,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ashesh, what&#39;s the transformation to containers and services been like?<a href="https://twitter.com/hashtag/CUBEgems?src=hash">#CUBEgems</a> <a href="https://twitter.com/asheshbadani">@asheshbadani</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/b1pQZU4mZh">pic.twitter.com/b1pQZU4mZh</a></p>&mdash; theCUBE (@theCUBE) <a href="https://twitter.com/theCUBE/status/748240026811531264">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Containers Aren’t Replacing Linux, They’re Augmenting It <a href="https://t.co/p3UDzRz48x">https://t.co/p3UDzRz48x</a></p>&mdash; Benjamin Wootton (@benjaminwootton) <a href="https://twitter.com/benjaminwootton/status/748385048844439552">30 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Docker
 ### Docker on Twitter
 - [twitter.com/docker](https://twitter.com/docker)

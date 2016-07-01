@@ -83,6 +83,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/AWSSummit?src=hash">#AWSSummit</a> <a href="https://twitter.com/hashtag/Dallas?src=hash">#Dallas</a> <a href="https://twitter.com/hashtag/EnterpriseTransformation?src=hash">#EnterpriseTransformation</a> <a href="https://t.co/LIYo4pMsd4">pic.twitter.com/LIYo4pMsd4</a></p>&mdash; AWS Summits (@AWSSummits) <a href="https://twitter.com/AWSSummits/status/748544795929362432">30 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Centros de datos
 - [centrodedatos-datacenter.es](http://www.centrodedatos-datacenter.es)
 

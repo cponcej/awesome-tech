@@ -180,6 +180,9 @@
 	- [How to Take ‘Snapshot of Logical Volume and Restore’ in LVM – Part III](http://www.tecmint.com/take-snapshot-of-logical-volume-and-restore-in-lvm/)
 - [Logical Volume Management on Debian Linux](http://www.tecmint.com/logical-volume-management-on-debian-linux/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Create and Setup LUNs using LVM in “iSCSI Target Server”<a href="https://t.co/E2G0zwbXWQ">https://t.co/E2G0zwbXWQ</a><br>RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a>  <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://t.co/l55gq6VoyD">pic.twitter.com/l55gq6VoyD</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/748745273577385985">1 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### File Systems
 - [Linux File System Structure](http://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/linux-directory-structure/)
 - [Linux File System Explained: Boot Loading, Disk Partitioning, BIOS, UEFI and File System Types](http://www.tecmint.com/linux-file-system-explained/)

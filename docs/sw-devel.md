@@ -108,6 +108,12 @@
 - [The Developer Struggle is Real: What Our Family and Friends Think We Do](https://dzone.com/articles/the-developer-struggle-is-real-what-our-family-and) What our friends and family think we do is quite different from what we actually do. Their misconceptions lead to hilarious exchanges.
 - [Which programming language should I learn first? 🌟🌟🌟](http://i.cubeupload.com/dxUuH1.png)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">10 interview questions for software engineers <a href="https://t.co/42I39xHgw4">https://t.co/42I39xHgw4</a> <a href="https://t.co/CqRb6ZJiTY">pic.twitter.com/CqRb6ZJiTY</a></p>&mdash; Glassdoor (@Glassdoor) <a href="https://twitter.com/Glassdoor/status/748641956478128129">30 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Just 19% of all software developers are women - <a href="https://twitter.com/corinnepw">@corinnepw</a> <a href="https://twitter.com/girldevelopit">@girldevelopit</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/sEInC8pvfp">pic.twitter.com/sEInC8pvfp</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/748621972611833857">30 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">174 <a href="https://twitter.com/hashtag/unicorn?src=hash">#unicorn</a> startups can&#39;t be wrong, 95% of the them use <a href="https://twitter.com/hashtag/APIs?src=hash">#APIs</a>. <a href="https://t.co/ItmdvJ6l5b">https://t.co/ItmdvJ6l5b</a></p>&mdash; BBVA Open Talent (@bbvaopentalent) <a href="https://twitter.com/bbvaopentalent/status/746679393314013184">25 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -269,6 +275,9 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="pl" dir="ltr">11 Debugging Tips That Will Save You Time <a href="https://twitter.com/hashtag/Performance?src=hash">#Performance</a><a href="https://t.co/rN8oXRAQAW">https://t.co/rN8oXRAQAW</a> <br><br>via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a>  Bartłomiej Filipek <a href="https://t.co/0ZIcbvtRk4">pic.twitter.com/0ZIcbvtRk4</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/743141223016312832">15 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">14 Best IDEs for <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/0mpQ3f030C">https://t.co/0mpQ3f030C</a> RT <a href="https://twitter.com/linuxtoday">@linuxtoday</a> <a href="https://twitter.com/AtomEditor">@AtomEditor</a> <a href="https://twitter.com/netbeans">@netbeans</a> <a href="https://twitter.com/EclipseFdn">@EclipseFdn</a> <a href="https://twitter.com/brackets">@brackets</a> <a href="https://t.co/eAnmSce1Od">pic.twitter.com/eAnmSce1Od</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/748484080371568640">30 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![ibm eclipse health center](images/ibm_eclipse_health_center.png)](https://developer.ibm.com/open/2016/01/05/visualizing-http-requests-node-application-metrics-health-center/)
@@ -492,6 +501,7 @@
 - [DZone: The Importance of a Data Format: Part 1 — Current State Problems](https://dzone.com/articles/the-importance-of-a-data-format-part-i-current-sta) JSON is a really simple format. It's very easy to work with it, interchange it, read it, etc. However, JSON also has a few major issues.
 - [Querying JSON in Postgres](http://schinckel.net/2014/05/25/querying-json-in-postgres/) Good read for anyone storing jsonb data in postgresql
 - [jq is a lightweight and flexible command-line JSON processor](https://stedolan.github.io/jq/) jq is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
+- [KEEP CALM and QUERY JSON](https://dzone.com/articles/keep-calm-and-query-json) Trying to break from SQL? Here's how JSON and the platforms that use it can lend a hand organizing and querying data.
 
 ### Mozilla Tools
 - [developer.mozilla.org](https://developer.mozilla.org/)

@@ -83,6 +83,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Josh, how does Red Hat deal with security issues?<a href="https://twitter.com/hashtag/CUBEgems?src=hash">#CUBEgems</a> <a href="https://twitter.com/joshbressers">@joshbressers</a> <a href="https://twitter.com/RedHatNews">@RedHatNews</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://twitter.com/hashtag/theCUBE?src=hash">#theCUBE</a> <a href="https://t.co/nvCSCG1pT6">pic.twitter.com/nvCSCG1pT6</a></p>&mdash; theCUBE (@theCUBE) <a href="https://twitter.com/theCUBE/status/748233165668397056">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cover up your laptop camera right now<a href="https://t.co/3Orx88WqEH">https://t.co/3Orx88WqEH</a></p>&mdash; Tech Insider (@techinsider) <a href="https://twitter.com/techinsider/status/748213687610023936">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Security
 ## Awesome Security Lists
 - [awesome security](https://github.com/sbilly/awesome-security)
@@ -285,6 +288,7 @@
 - [nixCraft: How to paste password easily when pasting into password input fields disabled on Google Chrome 🌟](http://www.cyberciti.biz/linux-news/google-chrome-extension-to-removes-password-paste-blocking-on-website/)
 - [Single sign-on improvements in Fedora 24 🌟](https://fedoramagazine.org/single-sign-on-improvements-fedora-24/)
 - [Visionary Trends of Identity Access Management (IAM) Security](https://www.peerlyst.com/posts/visionary-trends-of-identity-access-management-iam-security-george-moraetes)
+- [DZone: 11 Steps to Secure Your Servers Part 3 & 4: Login and Securing Passwords 🌟](https://dzone.com/articles/11-steps-to-secure-your-servers-4-securing-passwor) Parts 3 and 4 of a series of posts on server security from Inversoft's 2016 Guide to User Data Security.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Red Hat Identity Manager: Part 1 – Overview and Getting started <a href="https://t.co/b6HOQO4dVU">https://t.co/b6HOQO4dVU</a></p>&mdash; RHELdevelop (@RHELdevelop) <a href="https://twitter.com/RHELdevelop/status/726033502903267328">29 de abril de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

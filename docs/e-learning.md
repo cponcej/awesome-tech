@@ -87,6 +87,7 @@
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript)
 - [Taming Big Data with Apache Spark - Hands On!](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/?couponCode=SPARK15)
 - [Taming Big Data with MapReduce and Hadoop - Hands On!](https://www.udemy.com/taming-big-data-with-mapreduce-and-hadoop/)
+- [From 0 to 1 : Spark for Data Science with Python](https://www.udemy.com/spark-for-data-science-with-python/)
 - [Learning Python for Data Analysis and Visualization](https://www.udemy.com/learning-python-for-data-analysis-and-visualization)
 - [Transition your SQL skills into R skills with this FREE training. Baseball Database Queries with SQL and dplyr](https://www.udemy.com/baseball1/)
 - [Data visualization: Tableau](https://www.udemy.com/tableau/)
