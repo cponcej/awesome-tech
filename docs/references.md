@@ -25,6 +25,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gHZJsMfukQY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # References and online defamation
 - [wikipedia: Defamation](https://en.wikipedia.org/wiki/Defamation)
 - [wikipedia: Right to be forgotten](https://en.wikipedia.org/wiki/Right_to_be_forgotten)
@@ -101,11 +106,6 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZOK3m-zGFAA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
-
-<div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/gHZJsMfukQY?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
