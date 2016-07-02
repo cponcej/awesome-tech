@@ -161,6 +161,8 @@
 
 [![expansion_relacion_laboral_toxica](images/expansion_relacion_laboral_toxica.png)](http://www.expansion.com/emprendedores-empleo/desarrollo-carrera/2016/06/21/576981aaca474159778b45a1.html)
 
+[![luchas_laborales_primates](images/luchas_laborales_primates.png)](http://www.elmundo.es/blogs/elmundo/yomono/2016/07/02/luchas-de-primates-humanos-en-la-selva.html)
+
 [![7_managerial_misteps](images/7_managerial_misteps.png)](http://www.inc.com/shawn-doyle/the-7-daily-practices-managers-need-to-stop-doing-.html)
 
 [![next_step_in_career](images/next_step_in_career.png)](http://www.careerealism.com/career-ready-next-step/)
