@@ -373,6 +373,7 @@
 - [This resume for Elon Musk proves you never, ever need to use more than one page](http://www.businessinsider.com/elons-musk-resume-all-on-one-page-2016-4)
 - [Tick tock: You have just seconds to impress with your CV](http://www.talentinternational.com/tick-tock-you-have-just-seconds-to-impress-with-your-cv/)
 - [20 CV fixes you can make in less than 20 minutes](http://uk.hudson.com/job-seekers/career-advice/20-cv-fixes-you-can-do-in-20-minutes)
+- [4 Tips To Updating The Old Resume 🌟](http://www.careerealism.com/updating-old-resume-tips/)
 
 [![BI_30things_remove_from_resume](images/BI_30things_remove_from_resume.png)](http://www.businessinsider.com/dont-put-these-things-on-your-resume-2015-3-31)
 

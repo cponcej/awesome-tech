@@ -43,6 +43,7 @@
     - [AWS Backup and Recovery. Design for failure](#aws-backup-and-recovery-design-for-failure)
     - [AWS Config Rules](#aws-config-rules)
     - [AWS BigData](#aws-bigdata)
+    - [AWS NoSQL DynamoDB](#aws-nosql-dynamodb)
     - [AWS IoT](#aws-iot)
     - [AWS Elastic Transcoder. Video streaming](#aws-elastic-transcoder-video-streaming)
     - [AWS and Splunk](#aws-and-splunk)
@@ -562,6 +563,9 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/EXzenJslN9EQgE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/big-data-architectural-patterns-and-best-practices" title="Big Data Architectural Patterns" target="_blank">Big Data Architectural Patterns</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
 </div>
 <br/>
+
+## AWS NoSQL DynamoDB
+- [Easily model your app data in a NoSQL database with AWS Mobile Hub](https://aws.amazon.com/es/about-aws/whats-new/2016/06/easily-model-your-app-data-in-a-nosql-database-with-aws-mobile-hub/)
 
 ## AWS IoT
 - [aws.amazon.com/en/iot](https://aws.amazon.com/en/iot)
