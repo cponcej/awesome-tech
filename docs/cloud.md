@@ -44,6 +44,9 @@
 
 [![zdnet_it_on_cloud](images/zdnet_it_on_cloud.png)](http://www.zdnet.com/article/it-runs-on-the-cloud-and-the-cloud-runs-on-linux-any-questions/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Aws vs rest <a href="https://twitter.com/hashtag/CloudComputing?src=hash">#CloudComputing</a> <a href="https://t.co/1jDJyNhraZ">pic.twitter.com/1jDJyNhraZ</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/749479305864814592">3 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Data Centers
 - [datacentermap.com 🌟](http://www.datacentermap.com)
 	- [datacentermap.com/spain](http://www.datacentermap.com/spain/)

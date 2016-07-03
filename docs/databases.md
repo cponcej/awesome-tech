@@ -388,6 +388,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Advanced PostgreSQL features in practice · <a href="https://twitter.com/jsuchal">@jsuchal</a><a href="https://t.co/Nfs9e3Te8z">https://t.co/Nfs9e3Te8z</a><br><br>• Partial indexes<br>• recursive queries<br>• window functions<br>…</p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/745263128783503360">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![pgexercises](images/pgexercises.png)](https://pgexercises.com/)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">PostgreSQL Exercises <a href="https://twitter.com/hashtag/dba?src=hash">#dba</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a>  <a href="https://t.co/RRjCluVmWO">https://t.co/RRjCluVmWO</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/749477889515483136">3 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### PostgreSQL Metrics
 - [Powa: PostgreSQL Workload Analyzer](http://dalibo.github.io/powa/)
 - [Spotify PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics)

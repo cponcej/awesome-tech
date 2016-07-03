@@ -39,6 +39,7 @@
 - [storagereview.com Dell PowerEdge 13G R730 Server Review](http://www.storagereview.com/dell_poweredge_13g_r730_server_review)
 	- [Red Hat Enterprise Linux achieves 2-processor world record result on two-tier SAP® Sales and Distribution standard application benchmark](http://www.redhat.com/en/about/blog/red-hat-enterprise-linux-achieves-2-processor-world-record-result-two-tier-sap%C2%AE-sales-and-distribution-standard-application-benchmark)
 - [thevarguy.com: Dell and Red Hat Deliver Easier Firmware Updates for Linux Users](http://thevarguy.com/open-source-application-software-companies/dell-and-red-hat-deliver-easier-firmware-updates-linux-us)
+- [Dell Unveils New OpenStack Extensions at Red Hat Summit 2016](http://www.eweek.com/cloud/dell-unveils-new-openstack-extensions-at-red-hat-summit.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Dell?src=hash">#Dell</a> and <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> deliver easier <a href="https://twitter.com/hashtag/firmware?src=hash">#firmware</a> updates for <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> users <a href="https://t.co/GruU90bU9O">https://t.co/GruU90bU9O</a> (via <a href="https://twitter.com/thevarguy">@thevarguy</a>)</p>&mdash; Red Hat EMEA (@RedHatEMEA) <a href="https://twitter.com/RedHatEMEA/status/699967981548343296">febrero 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -93,6 +94,9 @@
 [![veeam_hpe](images/veeam_hpe.png)](https://www.veeam.com/wp-hyper-converged-infrastructure-maximizing-availability.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">HPE launches midmarket hyperconverged system, bets on UI, integration <a href="https://t.co/XwfsrawAPL">https://t.co/XwfsrawAPL</a> by <a href="https://twitter.com/ldignan">@ldignan</a></p>&mdash; ZDNet (@ZDNet) <a href="https://twitter.com/ZDNet/status/709706982836469761">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">HPE to Bundle Docker Containers Into All Servers <a href="https://t.co/UufzZW8Zi3">https://t.co/UufzZW8Zi3</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/749400141602361344">3 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## FlexPod Datacenter
 - [FlexPod Datacenter](http://www.netapp.com/solutions/flexpod/datacenter.aspx)
@@ -253,11 +257,15 @@
 	- [eweek.com: Red Hat Enterprise Linux 7.2 Adds Security, DR Features 🌟🌟🌟](http://www.eweek.com/enterprise-apps/red-hat-enterprise-linux-7.2-adds-security-dr-features.html)
 - [silicon.es: Tecnologías para manejar y asegurar la información](http://www.silicon.es/tecnologias-manejar-asegurar-informacion-2310166) La información que manejan las empresas se ha multiplicado en los últimos años. Tecnologías como Snapshots, Incremental Change Capture y live Copy ayuden a gestionar efizcamente la información.
 - [distrowatch.com: SystemRescueCd](http://distrowatch.com/table.php?distribution=systemrescue)
+- [Linux.com: Let Attic Deduplicate and Store your Backups 🌟🌟🌟](https://www.linux.com/learn/let-attic-deduplicate-and-store-your-backups)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/33326XobwYg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Dedupe your backups to save space on your Linux system with Attic, via <a href="https://twitter.com/jlwallen">@jlwallen</a>: <a href="https://t.co/DbioYU9dQr">https://t.co/DbioYU9dQr</a> <a href="https://t.co/6URqfZ1r94">pic.twitter.com/6URqfZ1r94</a></p>&mdash; Linux.com (@LinuxDotCom) <a href="https://twitter.com/LinuxDotCom/status/749567120552304640">3 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LOL. Via <a href="https://t.co/zzGQ5Fzlht">https://t.co/zzGQ5Fzlht</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://twitter.com/hashtag/CloudComputing?src=hash">#CloudComputing</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/2L8OG2mGHv">pic.twitter.com/2L8OG2mGHv</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/709861013093359616">15 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

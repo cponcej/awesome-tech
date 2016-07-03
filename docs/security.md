@@ -28,6 +28,7 @@
 	- [Next Generation Firewalls](#next-generation-firewalls)
 	- [Security Checklist](#security-checklist)
 	- [Major Security Vulnerabilities](#major-security-vulnerabilities)
+		- [Keyloggers](#keyloggers)
 		- [Red Hat Vulnerabilities Catalog. Red Hat CVE Database.](#red-hat-vulnerabilities-catalog-red-hat-cve-database)
 		- [SQL injection](#sql-injection)
 		- [Windows Vulnerabilities](#windows-vulnerabilities)
@@ -395,6 +396,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">PuTTY version 0.67 is released. This is a security update. <a href="https://t.co/7MXHcveBM6">https://t.co/7MXHcveBM6</a> <a href="https://twitter.com/hashtag/SSH?src=hash">#SSH</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706218771388588033">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Keyloggers
+- [How I Cracked a Keylogger and Ended Up in Someone's Inbox](https://www.trustwave.com/Resources/SpiderLabs-Blog/How-I-Cracked-a-Keylogger-and-Ended-Up-in-Someone-s-Inbox/)
 
 ### Red Hat Vulnerabilities Catalog. Red Hat CVE Database.
 - [Vulnerability Responses 🌟🌟](https://access.redhat.com/security/vulnerabilities/) Large scale security vulnerabilities like the ones below receive special attention from Red Hat Product Security. In order to create the best experience possible for our customers during these critical moments, a specialized vulnerability page is created within the Red Hat Product Security Center which aggregates information, diagnostic tools, and updates in one easy-to-use interface. This list is a catalog of these pages.
