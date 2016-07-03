@@ -112,9 +112,25 @@
 ## VxRail VMware Hyper Converged Infrastructure HCI
 - [Hyper-Converged Infrastructure (HCI)](https://www.vmware.com/products/hyper-converged-infrastructure)
 - [VxRail](http://www.vce.com/products/hyper-converged/vxrail)
+- [VxRack System 1000 with FLEX Nodes- Holistically Addressing the Data Center Requirements of Today and Tomorrow](https://community.emc.com/community/products/scaleio/blog/2016/05/25/vxrack-system-1000-with-flex-nodes-hollistically-addressing-the-data-center-requirements-of-today-and-tomorrow)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_wX6ZGgF7s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8SVSIknWc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j33xY65069s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EDgSTlPLs00?list=PLeI0J3mFLYgwk2G0wkTCXpygnXuvBlVE6" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
