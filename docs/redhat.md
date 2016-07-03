@@ -212,11 +212,6 @@
 </div>
 <br>
 
-<div class="container">
-<iframe src="//es.slideshare.net/slideshow/embed_code/key/1opbP9LT0tFsVa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/albertspijkers/red-hat-enterprise-linux-7-technical-overview" title="Red Hat Enterprise Linux 7 technical Overview" target="_blank">Red Hat Enterprise Linux 7 technical Overview</a> </strong> de <strong><a href="//es.slideshare.net/albertspijkers" target="_blank">albertspijkers</a></strong> </div>
-</div>
-<br>
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ebook: Introducing the <a href="https://twitter.com/hashtag/RHCSA?src=hash">#RHCSA</a> and <a href="https://twitter.com/hashtag/RHCE?src=hash">#RHCE</a> Exam Preparation Guide <a href="https://t.co/bSEaxdOkIB">https://t.co/bSEaxdOkIB</a> <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://t.co/qWQVT2EVia">pic.twitter.com/qWQVT2EVia</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/739092479337627648">4 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -243,6 +238,11 @@
 ## Red Hat Security
 - [Red Hat Security Blog](https://access.redhat.com/blogs/product-security)
 - [Red Hat Security guide](https://www.redhat.com/en/technologies/guide/it-security)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/C2pHBwAqdw1c3g" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ThomasGraf5/graf-h-1100nextgenerationfirewallrhel7" title="The Next Generation Firewall for Red Hat Enterprise Linux 7 RC" target="_blank">The Next Generation Firewall for Red Hat Enterprise Linux 7 RC</a> </strong> from <strong><a href="//www.slideshare.net/ThomasGraf5" target="_blank">Thomas Graf</a></strong> </div>
+</div>
+<br>
 
 ## Red Hat Insights. Modern infrastructure management
 - [Red Hat Insights. Proactively manage your infrastructure with Red Hat® Insights](https://access.redhat.com/insights/info/)
