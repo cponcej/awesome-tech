@@ -213,6 +213,7 @@
 - [AWS Tutorials: Create and Connect to a MySQL Database with Amazon RDS 🌟🌟](https://aws.amazon.com/getting-started/tutorials/create-mysql-db/)
 - [Migrating from MySQL (RDS) to Aurora with no downtime 🌟🌟](http://cantrill.io/howto/aws/2016/06/06/migrating-from-mysql-to-aurora-with-almost-no-downtime.html)
 - [Replicating Amazon Aurora DB Clusters Across AWS Regions 🌟🌟🌟](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Replication.CrossRegion.html)
+- [Working with PostgreSQL, MySQL, and MariaDB Read Replicas - Amazon 🌟🌟](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html) Use RDS PostgreSQL cross-region Read Replicas to get data close to customers. 
 
 [![Replicating_AuroraDB_Clusters_Across_AWS_Regions](images/Replicating_AuroraDB_Clusters_Across_AWS_Regions.png)](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Replication.CrossRegion.html)
 

@@ -30,6 +30,11 @@
 
 [![margin call](images/margincall.jpg)](http://thoughtsofafinancestudent.blogspot.com.es/2015/11/margin-call-be-first-be-smart-or-cheat.html)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TQ_zhHUu8NE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 # Culture and collaboration
 - [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
 - [deloitte: Cultivating the IT Workforce of the Future](http://deloitte.wsj.com/cio/2015/10/20/cultivating-the-it-workforce-of-the-future/)
