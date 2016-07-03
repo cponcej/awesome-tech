@@ -40,6 +40,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Amazon jumps into online learning with Inspire, a platform for free crowdsourced and premium mat... <a href="https://t.co/3ubXHzjySb">https://t.co/3ubXHzjySb</a> by <a href="https://twitter.com/ingridlunden">@ingridlunden</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/747415128694456322">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![modis_soak_up_new_info](images/modis_soak_up_new_info.jpg)
+
 ## Professional Certification
 - [certifications.bcs.org](http://certifications.bcs.org)
 - [Six Certification Exam Mistakes to Avoid](http://www.globalknowledge.com/training/generic.asp?pageid=3833)
