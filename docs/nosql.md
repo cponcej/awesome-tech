@@ -107,6 +107,16 @@
 </div>
 <br>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpkmFGuC9NQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5B7mJtiwbMg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 ### Redis, Coudhdb, and others
 - [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
 - [Redis](http://redis.io/)

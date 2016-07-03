@@ -91,7 +91,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 	- [Continuous Integration Tools. Jenkins, Git](jenkins-git.md)
 12. [Data Science and Big Data](data-science.md)
 	- [SQL and Databases](databases.md)
-	- [NoSQL and NewSQL 🌟](nosql.md)
+	- [NoSQL and NewSQL. MongoDB 🌟](nosql.md)
 	- [Anaconda Analytics](anaconda.md)
 	- [Big Bang Data 🌟🌟🌟](bigbangdata.md)
 13. [Networking 🌟🌟🌟](networking.md)

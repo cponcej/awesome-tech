@@ -74,7 +74,7 @@ pages:
 - Continuous Integration Tools. Jenkins, Git: jenkins-git.md
 - Data Science and Big Data: data-science.md
 - SQL and Databases: databases.md
-- NoSQL and NewSQL: nosql.md
+- NoSQL and NewSQL. MongoDB : nosql.md
 - Anaconda Analytics: anaconda.md
 - Big Bang Data: bigbangdata.md
 - Networking: networking.md
