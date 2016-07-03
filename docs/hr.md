@@ -125,6 +125,9 @@
 - [Millennials Don’t Want Fun; They Want You To Lead Better](https://www.linkedin.com/pulse/millennials-dont-want-fun-you-lead-better-mark-c-crowley)
 - [Don’t let stress and a crazy pace kill your culture 🌟🌟🌟](http://www.content-loop.com/dont-let-stress-and-a-crazy-pace-kill-your-culture)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![dilbert_company_knows_everyting](images/dilbert_company_knows_everyting.gif)](http://dilbert.com/strip/1998-02-06)
 
 [![toxic_employee](images/toxic_employee.png)](https://www.entrepreneur.com/article/277201)
