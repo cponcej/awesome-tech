@@ -23,6 +23,7 @@
 - [Dead-simple HTTPS Set up with Docker and Let's Encrypt](http://steveltn.me/2015/12/18/nginx-acme/)
 - [nixCraft: How to configure Nginx with free Let’s Encrypt SSL certificate on Debian or Ubuntu Linux](http://www.cyberciti.biz/faq/how-to-configure-nginx-with-free-lets-encrypt-ssl-certificate-on-debian-or-ubuntu-linux/)
 - [What ISPs Can See Even When Traffic Is Encrypted With HTTPS and Poor Implantation of VPN](https://www.teamupturn.com/reports/2016/what-isps-can-see)
+- [acens.com - White Paper: Mejora la seguridad web con estas 10 recomendaciones 🌟🌟](http://www.acens.com/blog/white-paper-mejora-seguridad-web.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The end of an expensive era<br> <a href="https://t.co/f56arooZHF">https://t.co/f56arooZHF</a> <a href="https://t.co/FxilUJZBxF">pic.twitter.com/FxilUJZBxF</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/742420985165549568">13 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

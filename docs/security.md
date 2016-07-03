@@ -5,6 +5,7 @@
 	- [Awesome Security Lists](#awesome-security-lists)
 	- [CVE Common Vulnerabilities and Exposures](#cve-common-vulnerabilities-and-exposures)
 	- [OWASP Open Web Application Security Project](#owasp-open-web-application-security-project)
+	- [Seguridad Web](#seguridad-web)
 	- [OpenSCAP and Lynis. Open Source security auditing tools](#openscap-and-lynis-open-source-security-auditing-tools)
 	- [Cisco Security Advisories and Responses](#cisco-security-advisories-and-responses)
 	- [Security Blogs](#security-blogs)
@@ -110,6 +111,9 @@
 - [OWASP Testing Guide v4 Table of Contents 🌟🌟](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
 [![owasp_testing_guide](images/owasp_testing_guide.png)](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+
+## Seguridad Web
+- [acens.com - White Paper: Mejora la seguridad web con estas 10 recomendaciones 🌟🌟](http://www.acens.com/blog/white-paper-mejora-seguridad-web.html)
 
 ## OpenSCAP and Lynis. Open Source security auditing tools
 - [OpenSCAP and Lynis. Open Source security auditing tools  🌟🌟🌟🌟](auditing-tools.md)
