@@ -227,6 +227,7 @@
 - [5 Steps To Easily Connect With Your Co-Workers](http://www.careerealism.com/easily-connect-coworkers/)
 - [Five Signs Your Job Is Wasting Your Talent](http://www.forbes.com/sites/lizryan/2016/06/03/five-signs-your-job-is-wasting-your-talent/#dead23f42304)
 - [How a 'Praise Addiction' Can Really Mess Up Your Career](http://www.inc.com/jt-odonnell/how-a-praise-addiction-can-really-mess-up-your-career.html)
+- [Want to Be Happy at Work? Care Less About It](http://www.quietrev.com/want-to-be-happy-at-work-care-less-about-it/)
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 

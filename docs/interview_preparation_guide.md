@@ -113,6 +113,8 @@
 - [How to Answer 'Why Should I Hire You?' 🌟](https://www.entrepreneur.com/article/277683)
 - [10 Reasons Why You Haven’t Heard Back From A Recruiter 🌟🌟🌟](http://www.careerealism.com/reasons-why-havent-heard-recruiter/)
 
+[![bi_interview_question_about_money_is_trap](images/bi_interview_question_about_money_is_trap.png)](http://www.businessinsider.com/never-directly-answer-a-salary-question-2016-6)
+
 [![dilbert_people_careers_looks](images/dilbert_people_careers_looks.gif)](http://dilbert.com/strip/2010-04-14)
 
 ![reason_leaving_last_job](images/reason_leaving_last_job.jpg)
