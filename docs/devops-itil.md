@@ -162,6 +162,7 @@
 - [opensource.com - The best ideas win: Community reflections on The Open Organization 🌟](https://opensource.com/open-organization/15/12/introducing-open-organization-field-guide) free e-book
 - [accenture.com: DevOps Leadership Culture—Staying Cool When it is Getting Tough](https://www.accenture.com/us-en/blogs/blogs-devops-leadership-culture-staying-cool-when-getting-tough)
 - [middlewareblog.redhat.com: Intro to DevOps 🌟](http://middlewareblog.redhat.com/2016/05/25/intro-to-devops/)
+- [Chef: Now we know DevOps, how to understand DevOps metrics 🌟🌟🌟](http://www.computerweekly.com/blog/Open-Source-Insider/Chef-Now-we-know-DevOps-how-to-understand-DevOps-metrics) Operational metrics such as Time to Delivery, and Quality of Release are starting to be more widely understood and discussed beyond hardcore DevOps audiences. However, even in DevOps circles and broader IT and company leadership, there’s a lot more fuzziness when it comes to having well defined business goals and working towards them. This is getting better, there’s been a marked improvement over the past three years in particular. I’d say about 45 per cent of the clients we speak to don’t have a direct measurement for business success in mind, when we begin speaking to them. So there’s still a lot of opportunity for progress.
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_I94-tJlovg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -186,6 +187,8 @@
 [![automation](images/automation.png)](https://dzone.com/articles/automate-to-save-mental-energy-not-time-1)
 
 [![Puppet Labs 2015 State of DevOps Report](images/puppetlabs_state_of_devops_report_2015.jpg)](https://puppetlabs.com/2015-devops-report)
+
+[![state_devops_report_2016](images/state_devops_report_2016.png)](https://puppet.com/resources/white-paper/2016-state-of-devops-report)
 
 [![DevOps for Dummies 2nd ed](images/DevOps_For_Dummies_2nd_ed_cover.jpg)](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 
