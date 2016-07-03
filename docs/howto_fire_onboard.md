@@ -19,6 +19,7 @@
 # How to Fire and Onboard Employees
 ## How to Fire
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
+- [businessinsider.com: Too many companies are firing all wrong — and it’s hurting their business](http://www.businessinsider.com/ceo-explains-the-perfect-way-to-fire-someone-2015-7)
 - [This CEO Has Some Strict Rules on Firing People 🌟🌟🌟](https://www.linkedin.com/pulse/ceo-has-some-strict-rules-firing-people-betty-liu)
 
 [![3_ways_people_get_fired](images/3_ways_people_get_fired.png)](http://www.inc.com/jt-odonnell/3-most-common-ways-people-get-fired.html)
