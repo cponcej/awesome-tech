@@ -172,6 +172,7 @@
 	- [twitter.com/CodelyTV](https://twitter.com/CodelyTV)
 - [gcflearnfree.org 🌟🌟](http://www.gcflearnfree.org/)
 - [bextlan.com](http://bextlan.com/)
+- [xataka.com: Los 21 cursos gratuitos a los que más gente se está apuntando](http://www.xataka.com/otros/los-21-cursos-gratuitos-a-los-que-mas-gente-se-esta-apuntando)
 
 [![codegeek](images/codegeek.png)](https://codek.tv/)
 
