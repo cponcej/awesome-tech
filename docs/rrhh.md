@@ -134,6 +134,11 @@
 
 [![dilbert_salary_depends_on_boss](images/dilbert_salary_depends_on_boss.gif)](http://dilbert.com/strip/1996-07-12)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8cdPD71jZjM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Articulos
 - [¿Soy imprescindible en mi puesto de trabajo?](http://www.elblogderrhh.com/2008/04/soy-imprescindible-en-mi-puesto-de.html)
 - [Buen jefe, mal jefe (Spanish Edition)](http://www.amazon.com/dp/0307882934/)
