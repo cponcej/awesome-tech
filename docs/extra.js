@@ -1,6 +1,7 @@
 (function() {
   //var stopPlayAt = 33, // Stop play at time in seconds //Mike Oldfield - The Top Of The Morning
-  var stopPlayAt = 21, // Stop play at time in seconds // Chariots of Fire Theme • Vangelis 
+  //var stopPlayAt = 21, // Stop play at time in seconds // Chariots of Fire Theme • Vangelis 
+  var stopPlayAt = 35, // Stop play at time in seconds // Jan Hammer - Crockett's Theme
       stopPlayTimer;   // Reference to settimeout call
 
   // This code loads the IFrame Player API code asynchronously.
@@ -18,7 +19,8 @@
       "width": "100%",
       "playerVars": { 'autoplay': 1, 'controls': 2, 'showinfo': 0, 'autohide': 2 },
       //"videoId": "uuvDToxhZO0",  //Mike Oldfield - The Top Of The Morning
-      "videoId": "CSav51fVlKU", // Chariots of Fire Theme • Vangelis 
+      //"videoId": "CSav51fVlKU", // Chariots of Fire Theme • Vangelis 
+      "videoId": "Lfgf9HatIHI", // Jan Hammer - Crockett's Theme
       "events": {
         "onReady": onPlayerReady,
         "onStateChange": onPlayerStateChange
