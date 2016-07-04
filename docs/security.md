@@ -237,8 +237,12 @@
 - [For the first time, Mac users have to worry about malware that locks their computer and demands a ransom](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 - [Eastern European Cyber Crooks Raid US Banks For $4 Million In Just 3 Days](http://www.forbes.com/sites/thomasbrewster/2016/04/14/goznym-bank-malware-steals-4-million-american-banks/)
 - [Microsoft’s Windows 10 Wants To Replace Your PC Antivirus With WDATP](https://www.devbattles.com/en/sand/post-2462-Microsofts_Windows_10_Wants_To_Replace_Your_PC_Antivirus_With_WDATP)
+- [nakedsecurity.sophos.com](https://nakedsecurity.sophos.com/)
+	- [nakedsecurity.sophos.com - Anatomy of an exploit: the Microsoft Word bug that just won’t die](https://nakedsecurity.sophos.com/2016/07/01/anatomy-of-an-exploit-the-microsoft-word-bug-that-just-wont-die/)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
+
+[![sophos_security_podcast](images/sophos_security_podcast.png)](https://soundcloud.com/sophossecurity)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">More info on Transmission app and new Mac ransomware <a href="https://t.co/z54gbNicbi">https://t.co/z54gbNicbi</a> via <a href="https://twitter.com/aallan">@aallan</a><br><br>VirusTotal has more info <a href="https://t.co/s4LWzSTfsG">https://t.co/s4LWzSTfsG</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/706561604700114945">6 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -254,6 +258,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wn-uVP8HncA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117239445&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ## Mobile Security
 - [Zeef: Mobile Security](https://mobile-security.zeef.com)
