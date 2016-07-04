@@ -254,6 +254,8 @@
 - [highperfmysql.com - High Performance MySQL. Learn to Build Fast, Reliable, Scalable Systems with MySQL](http://www.highperfmysql.com/)
 - [High Performance MySQL, 3rd Edition](http://it-ebooks.info/book/676/)
 
+[![High-Performance-MySQL-3rd-Edition](images/High-Performance-MySQL-3rd-Edition.jpg)](http://www.wowebook.org/high-performance-mysql-3rd-edition.html)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LOL. Sql server on Linux. <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/Kernel?src=hash">#Kernel</a> <a href="https://twitter.com/hashtag/Humor?src=hash">#Humor</a> Via <a href="https://t.co/Yac4YcWurx">https://t.co/Yac4YcWurx</a> <a href="https://t.co/jR7C2eqnvp">pic.twitter.com/jR7C2eqnvp</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/707842565865754624">marzo 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
