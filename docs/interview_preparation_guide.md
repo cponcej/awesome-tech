@@ -416,3 +416,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7W_qrc-TkR8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+<p align="center">
+<a href="https://www.reddit.com/r/programming/comments/16qbxn/if_carpenters_were_hired_like_programmers/">If Carpenters Were Hired Like Programmers</a>
+</p>
+[![If drivers were hired like programmers](images/drivers_hired_like_programmers.jpg)](https://www.jitbit.com/alexblog/203-what-if-drivers-were-hired-like-programmers/)
