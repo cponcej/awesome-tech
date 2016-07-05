@@ -164,6 +164,7 @@
 - [middlewareblog.redhat.com: Intro to DevOps 🌟](http://middlewareblog.redhat.com/2016/05/25/intro-to-devops/)
 - [Chef: Now we know DevOps, how to understand DevOps metrics 🌟🌟🌟](http://www.computerweekly.com/blog/Open-Source-Insider/Chef-Now-we-know-DevOps-how-to-understand-DevOps-metrics) Operational metrics such as Time to Delivery, and Quality of Release are starting to be more widely understood and discussed beyond hardcore DevOps audiences. However, even in DevOps circles and broader IT and company leadership, there’s a lot more fuzziness when it comes to having well defined business goals and working towards them. This is getting better, there’s been a marked improvement over the past three years in particular. I’d say about 45 per cent of the clients we speak to don’t have a direct measurement for business success in mind, when we begin speaking to them. So there’s still a lot of opportunity for progress.
 - [Teaching the DevOps soft skills](http://www.devopsonline.co.uk/teaching-the-devops-soft-skills/)
+- [Agile Vs. DevOps: 10 Ways They're Different](http://www.informationweek.com/devops/agile-vs-devops-10-ways-theyre-different/d/d-id/1326121) DevOps and Agile are broad terms but they aren't synonyms. Here are the ways in which they're different -- and why those differences matter to your team.
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_I94-tJlovg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -225,6 +226,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">DevOps maturity is not about developers writing Chef code. It is when when developers prioritize maintaining said scripts same as prod code.</p>&mdash; Badri Janakiraman (@badrij) <a href="https://twitter.com/badrij/status/722834988387999744">20 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 5 <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> tutorials on <a href="https://twitter.com/hashtag/developerWorks?src=hash">#developerWorks</a> <a href="https://t.co/VZ4YHXszuM">https://t.co/VZ4YHXszuM</a> <a href="https://t.co/Dwr7pZiVEG">pic.twitter.com/Dwr7pZiVEG</a></p>&mdash; Marc Peters (@MPetersBE) <a href="https://twitter.com/MPetersBE/status/739069386774831105">4 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/jmBeCBREB1">https://t.co/jmBeCBREB1</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750383381846851584">5 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Collaborative tools

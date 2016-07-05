@@ -162,10 +162,9 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/VUYG2OPTrw">pic.twitter.com/VUYG2OPTrw</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/748161815679467520">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ba9S2BQcRG4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/LOKOX0yXl3">https://t.co/LOKOX0yXl3</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750384551290167296">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/jmBeCBREB1">https://t.co/jmBeCBREB1</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750383381846851584">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
