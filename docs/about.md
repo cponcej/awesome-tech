@@ -5,8 +5,6 @@
 
 ![winston wolf solves problems](images/winston_wolf_solves_problems.gif)
 
-![r.hevia](images/r.hevia.png)
-
 # Awesome Tech
 
 - A curated list of awesome IT projects and resources collected since 2014. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
