@@ -136,7 +136,7 @@
 
 [![a_cure_for_bad_boss_problem](images/a_cure_for_bad_boss_problem.png)](http://www.forbes.com/sites/lizryan/2016/06/17/is-there-a-cure-for-my-bad-boss-problem/)
 
-[![forbes_9things_to_do_your_boss_takes_crWhen Your Job Title Doesn’t Reflect What You Really Do_for_your_work.png)](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
+[![forbes_9things_to_do_your_boss_takes_credit_for_your_work](images/forbes_9things_to_do_your_boss_takes_credit_for_your_work.png)](http://www.forbes.com/sites/jacquelynsmith/2013/04/30/9-things-you-can-do-when-the-boss-takes-credit-for-your-work)
 
 ![voltaire good mood](images/voltaire_good_mood.jpg)
 
