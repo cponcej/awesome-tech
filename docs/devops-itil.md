@@ -2,7 +2,7 @@
 <!-- MarkdownTOC -->
 
 - [DevOps](#devops)
-	- [DevOps Blogs](#devops-blogs)
+	- [DevOps Blogs and Podcasts](#devops-blogs-and-podcasts)
 	- [Description](#description)
 	- [Cultura DevOps](#cultura-devops)
 	- [Collaborative tools](#collaborative-tools)
@@ -58,7 +58,7 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # DevOps
-## DevOps Blogs
+## DevOps Blogs and Podcasts
 - [devops.com](http://devops.com/)
 - [TechBeacon.com](http://techbeacon.com/) Practical Knowledge for dev and tech pros
 - [DevOps Library: The Best Videos for the Best Admins](http://devopslibrary.com/)
@@ -80,8 +80,8 @@
 		- [DevOps](https://www.linkedin.com/groups/2825397)
 		- [Devops discussions](https://www.linkedin.com/groups/6585254)
 	8. Devops Podcasts
+		- [Arrested Devops](https://www.arresteddevops.com)
 		- [The ship show](http://theshipshow.com/)
-		- [Arrested Devops](http://theshipshow.com/)
 		- [Devops Cafe](http://devopscafe.org/)
 
 [![devops.com page](images/devops_com-logo.png)](http://devops.com/)
