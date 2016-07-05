@@ -14,6 +14,7 @@
 	- [Network Performance](#network-performance)
 	- [VoIP](#voip)
 	- [MPLS Multi Protocol Label Switching \(IP VPN\)](#mpls-multi-protocol-label-switching-ip-vpn)
+	- [IPTV Internet Protocol Television](#iptv-internet-protocol-television)
 	- [WiFi security](#wifi-security)
 	- [WiFi Products](#wifi-products)
 	- [WebPerf and Resilient Networking: Planning for Failure](#webperf-and-resilient-networking-planning-for-failure)
@@ -116,9 +117,24 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/AErpa2kNvJd73E" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Ericsson_ES/el-sector-de-las-tic-en-espaa-santander-2013-ericsson" title="El sector de las tic en españa santander 2013 - ericsson" target="_blank">El sector de las tic en españa santander 2013 - ericsson</a> </strong> from <strong><a href="//www.slideshare.net/Ericsson_ES" target="_blank">Ericsson España</a></strong> </div>
+</div>
+<br/>
+
 ### OpenDaylight
 -  With the rise of cloud computing and the expansion of data centers, software-defined solutions, like this Linux-based platform, are gaining greater traction in the tech industry. OpenDaylight works to help drive network success, reduce business costs and provide employees with greater flexibility.
 - [opendaylight.org](https://www.opendaylight.org)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/iAm4HSH0q1R1K9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/esumit/opendaylight-sdn-controller" title="Opendaylight SDN Controller" target="_blank">Opendaylight SDN Controller</a> </strong> from <strong><a href="//www.slideshare.net/esumit" target="_blank">Sumit Arora</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/elWbuAzg3IbcH5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sdnhub/opendaylight-app-development-tutorial" title="OpenDaylight app development tutorial" target="_blank">OpenDaylight app development tutorial</a> </strong> from <strong><a href="//www.slideshare.net/sdnhub" target="_blank">SDN Hub</a></strong> </div>
+</div>
+<br/>
 
 ## IPv4
 - [wikipedia: IPv4](https://en.wikipedia.org/wiki/IPv4)
@@ -194,6 +210,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AtmmbsQTSa8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+## IPTV Internet Protocol Television
+- [IPTV](iptv.md)
 
 ## WiFi security
 - [Analyzing the 1000 Most Common Wi-Fi Network Names](https://ghostpath.com/blog/ssid-analyzing-the-1000-most-common-wi-fi-network-names/)

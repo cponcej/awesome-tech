@@ -112,6 +112,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JlJjeOzMGARUGa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Officevibe/10-ways-your-boss-kills-employee-motivation" title="10 Ways Your Boss Kills Employee Motivation" target="_blank">10 Ways Your Boss Kills Employee Motivation</a> </strong> from <strong><a href="//www.slideshare.net/Officevibe" target="_blank">Officevibe</a></strong> </div>
+</div>
+<br/>
+
 ![dilbert_disdain](images/dilbert_disdain.gif)
 
 ![professional_title_does_not_define_you](images/professional_title_does_not_define_you.png)

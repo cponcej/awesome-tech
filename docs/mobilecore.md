@@ -88,3 +88,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/B3sS4DZ26UQtjl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shubhabratamukherjee1/lte-ims-intro" title="LTE &amp; IMS An Introduction" target="_blank">LTE &amp; IMS An Introduction</a> </strong> from <strong><a href="//www.slideshare.net/shubhabratamukherjee1" target="_blank">Shubhabratra Mukherjee</a></strong> </div>
 </div>
 <br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/aaTeTVrvv02Lm6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Ericsson_ES/el-camino-hacia-la-5-g-rev-a" title="El camino hacia la 5G - Isidro Nieto from Ericsson at VI Jornadas Cátedras Telefonica UPM (Nov 6, Madrid)" target="_blank">El camino hacia la 5G - Isidro Nieto from Ericsson at VI Jornadas Cátedras Telefonica UPM (Nov 6, Madrid)</a> </strong> from <strong><a href="//www.slideshare.net/Ericsson_ES" target="_blank">Ericsson España</a></strong> </div>
+</div>
+<br>
