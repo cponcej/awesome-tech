@@ -40,6 +40,7 @@
 - [guru99.com: Free Jmeter Tutorials](http://www.guru99.com/jmeter-tutorials.html)
 - [unpocodejava.wordpress.com: ¿Cómo hacer pruebas de carga de una clase Java con JMeter?](https://unpocodejava.wordpress.com/2015/12/21/como-hacer-pruebas-de-carga-de-una-clase-java-con-jmeter-2/)
 - [DZone refcard: Getting Started With Apache JMeter 🌟](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
+- [The DNS Cache Manager: The Right Way To Test Load Balanced Apps 🌟](https://www.blazemeter.com/blog/dns-cache-manager-right-way-test-load-balanced-apps)
 
 [![dzone_jmeter_refcard](images/dzone_jmeter_refcard.png)](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 
