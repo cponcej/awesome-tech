@@ -353,6 +353,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a> <a href="https://twitter.com/hashtag/Sysadmin?src=hash">#Sysadmin</a> <a href="https://twitter.com/hashtag/Humor?src=hash">#Humor</a> <a href="https://t.co/zqE8hlpo2I">pic.twitter.com/zqE8hlpo2I</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/750684723068833792">6 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## man pages on steroids with examples
 - [TLDR pages](http://tldr-pages.github.io/)
 - [Bro pages](http://bropages.org/)
@@ -689,6 +692,7 @@
 - [How to Ensure Proper SSH User Key Management](http://aberdeenessentials.com/how-to-ensure-proper-ssh-user-key-management/)
 - [nixCraft: Ubuntu/Debian Linux Server Install Keychain SSH Key Manager For OpenSSH 🌟🌟](http://www.cyberciti.biz/faq/ubuntu-debian-linux-server-install-keychain-apt-get-command/)
 - [linux.com: 5 SSH Hardening Tips 🌟🌟🌟](https://www.linux.com/learn/5-ssh-hardening-tips)
+- [nixCraft: {Updated} How To Setup SSH Keys on a Linux/Unix System 🌟🌟🌟](http://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>

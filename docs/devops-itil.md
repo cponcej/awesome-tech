@@ -433,6 +433,8 @@
 
 [![scrum cheat sheet](images/scrum_cheat_sheet.png)](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Changes to the <a href="https://twitter.com/hashtag/ScrumGuide?src=hash">#ScrumGuide</a> are official! What&#39;s new? Find out here: <a href="https://t.co/enmoWzWAgv">https://t.co/enmoWzWAgv</a> <a href="https://t.co/oZZs6qwU6c">pic.twitter.com/oZZs6qwU6c</a></p>&mdash; Scrum.org (@Scrumdotorg) <a href="https://twitter.com/Scrumdotorg/status/750723577155088384">6 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/sivZnLLIue3AZO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/infoDiagram/how-to-start-scrum-from-traditional-project-management" title="How to Start Scrum from Traditional Project Management" target="_blank">How to Start Scrum from Traditional Project Management</a> </strong> from <strong><a href="//www.slideshare.net/infoDiagram" target="_blank">Peter Zvirinsky</a></strong> </div>
 </div>
