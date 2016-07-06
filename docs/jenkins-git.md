@@ -249,8 +249,12 @@
 [![Use of CD is growing](images/use_of_CD_growing.jpg)](http://www.theregister.co.uk/2016/01/15/devops_people_problem/)
 
 ## Subversion
+- [subversion.apache.org](https://subversion.apache.org/)
+- [Subversion wikipedia](https://en.wikipedia.org/wiki/Apache_Subversion)
 
 [![dzone_refcard_subversion](images/dzone_refcard_subversion.png)](https://dzone.com/refcardz/getting-started-subversion)
+
+[![dzone_git_svn](images/dzone_git_svn.png)](https://dzone.com/articles/git-or-svn-centralized-or-de-centralized-version-c)
 
 ## Git
 - [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)

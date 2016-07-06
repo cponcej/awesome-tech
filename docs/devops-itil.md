@@ -92,6 +92,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Ops Team #023 - &quot;Free, like a Puppy&quot; <a href="https://t.co/wWjB4XzuI1">https://t.co/wWjB4XzuI1</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/doxWZgw9fy">pic.twitter.com/doxWZgw9fy</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/750391689861226496">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> and CI/CD are an awesome career move! The future of Enterprise IT is here today! <a href="https://t.co/OfpPMtQVBu">pic.twitter.com/OfpPMtQVBu</a></p>&mdash; AWS Summits (@AWSSummits) <a href="https://twitter.com/AWSSummits/status/748654562936905728">30 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![devops.com page](images/devops_com-logo.png)](http://devops.com/)
 
 [![DevOps-Online-LOGO](images/DevOps-Online-LOGO.png)](http://www.devopsonline.co.uk/)
