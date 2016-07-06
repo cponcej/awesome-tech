@@ -93,6 +93,8 @@
 
 [![a cloud  guru](images/acloudguru_black.png)](https://acloud.guru)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/tKDhUefJXB">https://t.co/tKDhUefJXB</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/750801673363320833">6 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![paradigmadigital_blog_aws](images/paradigmadigital_blog_aws.png)](https://www.paradigmadigital.com/dev/devops-microservicios-autoescalado-desarrollo-apps-las-claves-del-exito-amazon/)
 
 # Amazon Web Services
