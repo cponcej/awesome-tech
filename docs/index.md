@@ -166,6 +166,9 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/jmBeCBREB1">https://t.co/jmBeCBREB1</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750383381846851584">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GDP, 2015. ($ trillion)<br><br>Germany: 3.41<br>UK: 2.85<br>France: 2.46<br>Italy: 1.84<br>Spain: 1.23<br>Russia: 1.17<br>Turkey: 0.75 <a href="https://t.co/ltCVGhOtz2">pic.twitter.com/ltCVGhOtz2</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/750299133852790784">5 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![internet users](images/internet-users.jpeg)](http://dadaviz.com/i/4164)
 
 <!-- <iframe width="100%" height="45" src="https://www.youtube.com/embed/uuvDToxhZO0?rel=0&amp;autohide=2&amp;showinfo=0&amp;autoplay=1&amp;controls=2&amp;start=33&amp;end=82" frameborder="0" allowfullscreen></iframe> -->

@@ -646,6 +646,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">To see bridge info on <a href="https://twitter.com/hashtag/Linux?src=hash">#Linux</a>:<br>brctl show<br><br>On <a href="https://twitter.com/hashtag/FreeBSD?src=hash">#FreeBSD</a> use:<br>ifconfig bridge0 | grep member<a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/DyjxjoSm6Q">pic.twitter.com/DyjxjoSm6Q</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/749923194245525504">4 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">[Updated] Ubuntu Linux Add Static IPv6 Address Network Configuration <a href="https://t.co/wGS2Fj6kOQ">https://t.co/wGS2Fj6kOQ</a><a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://t.co/Rfy8IvmxwN">pic.twitter.com/Rfy8IvmxwN</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/750392448975679488">5 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Z1IoXIxLJVE" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

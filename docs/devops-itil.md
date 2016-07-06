@@ -83,6 +83,9 @@
 		- [Arrested Devops](https://www.arresteddevops.com)
 		- [The ship show](http://theshipshow.com/)
 		- [Devops Cafe](http://devopscafe.org/)
+		- [The Ops Team](https://channel9.msdn.com/Shows/The-Ops-Team)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Ops Team #023 - &quot;Free, like a Puppy&quot; <a href="https://t.co/wWjB4XzuI1">https://t.co/wWjB4XzuI1</a>  <a href="https://twitter.com/hashtag/devops?src=hash">#devops</a> <a href="https://t.co/doxWZgw9fy">pic.twitter.com/doxWZgw9fy</a></p>&mdash; DevOps Guy (@DevopsG) <a href="https://twitter.com/DevopsG/status/750391689861226496">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![devops.com page](images/devops_com-logo.png)](http://devops.com/)
 

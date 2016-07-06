@@ -119,6 +119,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which programming language should I learn first? Large version <a href="https://t.co/JxKrY4rYUD">https://t.co/JxKrY4rYUD</a> <a href="https://t.co/O51aIH5EcM">pic.twitter.com/O51aIH5EcM</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/701895847731032064">febrero 22, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Bot + Bot = &lt;3<br> <a href="https://t.co/aRw0C0uNwP">https://t.co/aRw0C0uNwP</a> <a href="https://t.co/LuFL40PMwa">pic.twitter.com/LuFL40PMwa</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/750388357625159680">5 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Bonus points if you can&#39;t even read it yourself <a href="https://t.co/9Tk2WREN0E">pic.twitter.com/9Tk2WREN0E</a></p>&mdash; Practical Developer (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/710156980535558144">16 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

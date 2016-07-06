@@ -51,6 +51,7 @@
 - [DZone: A Practical, Quick Introduction to Puppet](https://dzone.com/articles/practical-quick-introduction)
 - [DZone: Puppet: A Beginners Concept Guide (Part 1) 🌟](https://dzone.com/articles/puppet-beginners-concept-guide)
 - [DZone: Puppet for Java Developers](https://dzone.com/articles/puppet-java-developers)
+- [DZone: Puppet Server: Advanced Memory Debugging](https://dzone.com/articles/puppet-server-advanced-memory-debugging) How to monitor, prevent, and debug memory issues in the open source and proprietary Puppet Server tools.
 
 [![Puppet 3 Cookbook](images/Puppet-3-Cookbook.png)](http://www.wowebook.org/puppet-3-cookbook.html)
 
