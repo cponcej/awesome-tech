@@ -48,6 +48,11 @@
 - [Microsoft opens up its deep-learning toolkit on GitHub](http://www.pcworld.com/article/3026236/microsoft-opens-up-its-deep-learning-toolkit-on-github.html)
 - [zdnet: Why Microsoft's vulnerability severity ratings are obsolete 🌟](http://www.zdnet.com/article/microsofts-vulnerability-severity-ratings-are-obsolete/) The distinction between 'critical' and 'important' has become meaningless. It makes no sense to treat them differently. Patch Tuesday needs a patch.
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5A2k-R_XRqs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Microsoft to acquire LinkedIn for $26.2 billion :O <a href="https://t.co/jXs2D0uuwq">https://t.co/jXs2D0uuwq</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/742343727788609536">13 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
