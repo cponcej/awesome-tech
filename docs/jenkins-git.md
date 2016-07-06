@@ -49,6 +49,7 @@
 - [DZone: Jenkins Pipeline - Software Delivery Made Easy 🌟🌟🌟](https://dzone.com/articles/jenkins-pipeline-software-delivery-made-easy) 
 - [Jenkins CD and Pipelines Microsite](https://jenkins.io/solutions/pipeline/)
 - [DZone: Continuous Delivery With Jenkins Workflow 🌟🌟🌟](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow) The Jenkins Plugin for Managing Complex DevOps Pipelines
+- [Jul. 05, 16 - DZone: Top 10 Best Practices for Jenkins Pipeline 🌟🌟🌟](https://dzone.com/articles/top-10-best-practices-for-jenkins-pipeline) The Jenkins Pipeline Plugin makes Jenkins much easier to manage, deploy, and use. Find out how to get started here.
 
 [![dzone_refcard_ci](images/dzone_refcard_ci.png)](https://dzone.com/refcardz/continuous-integration-servers)
 
