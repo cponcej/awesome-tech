@@ -28,7 +28,7 @@
     - [Calidad de Software](#calidad-de-software)
     - [Protocol Testing. TTCN](#protocol-testing-ttcn)
     - [Network Emulator](#network-emulator)
-    - [Test Data Generators. MySQL ans PostgreSQL Testing](#test-data-generators-mysql-ans-postgresql-testing)
+    - [Test Data Generators. MySQL and PostgreSQL Testing](#test-data-generators-mysql-and-postgresql-testing)
         - [Network Forensics and Monitoring for MySQL and PostgreSQL](#network-forensics-and-monitoring-for-mysql-and-postgresql)
 
 <!-- /MarkdownTOC -->
@@ -385,7 +385,7 @@ ________________________________________________________________________________
 </div>
 <br>
 
-## Test Data Generators. MySQL ans PostgreSQL Testing
+## Test Data Generators. MySQL and PostgreSQL Testing
 - [generatedata.com via percona.com: Generating test data for MySQL tables](https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/)
 - [Datanamic Data Generator for PostgreSQL](http://www.datanamic.com/datagenerator-for-postgresql)
 - [Databene Benerator](http://databene.org/databene-benerator)
