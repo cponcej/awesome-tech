@@ -492,6 +492,8 @@
 - [Red Hat Delivers JBoss EAP 7, a Foundation for Hybrid Cloud Applications](https://www.redhat.com/en/about/press-releases/red-hat-delivers-jboss-eap-7-foundation-hybrid-cloud-applications)
 - [Red Hat polishes JBoss EAP 7 for a cloud-native future](http://www.pcworld.com/article/3089029/red-hat-polishes-jboss-eap-for-a-cloud-native-future.html) A new services collection offers building blocks commonly used in enterprise applications
 
+[![jboss_middleware_blog](images/jboss_middleware_blog.png)](http://middlewareblog.redhat.com/)
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMS6b40GsJo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
