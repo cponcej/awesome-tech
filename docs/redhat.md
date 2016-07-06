@@ -499,6 +499,8 @@
 
 [![wildfly cookbook](images/WildFly-Cookbook.png)](http://www.wowebook.org/wildfly-cookbook.html)
 
+[![dzone_refcard_jboss_eap5](images/dzone_refcard_jboss_eap5.png)](https://dzone.com/refcardz/getting-started-jboss)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Using <a href="https://twitter.com/hashtag/GlassFish?src=hash">#GlassFish</a>? Is <a href="https://twitter.com/hashtag/WebLogic?src=hash">#WebLogic</a> out of reach? Say hello to <a href="https://twitter.com/hashtag/JBoss?src=hash">#JBoss</a> EAP! <a href="https://twitter.com/RedHatPartners">@RedHatPartners</a> <a href="https://t.co/FhKdurxgXM">https://t.co/FhKdurxgXM</a></p>&mdash; OpenSourceArchitect (@opensourcearch) <a href="https://twitter.com/opensourcearch/status/742732291336589312">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

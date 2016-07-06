@@ -21,6 +21,8 @@
 - [All Things Distributed. Werner Vogels' weblog on building scalable and robust distributed systems](http://www.allthingsdistributed.com/)
 - [iheavy.com Scalable Startups](http://www.iheavy.com/) MySQL, AWS & Scalability Expert NYC
 
+[![dzone_refcard_ha_scalability](images/dzone_refcard_ha_scalability.png)](https://dzone.com/refcardz/scalability)
+
 [![If you think it's expensive to hire a professional](images/If-you-think-its-expensive-to-hire-a-professional.jpg)](http://www.javiergarzas.com/2014/12/como-y-quien-recupero-healthcare-gov.html)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The Image Optimization Technology that Serves Millions of Requests Per Day <a href="https://t.co/1Gn8xJu9pG">https://t.co/1Gn8xJu9pG</a></p>&mdash; highscalability (@highscal) <a href="https://twitter.com/highscal/status/743112166392369152">15 de junio de 2016</a></blockquote>

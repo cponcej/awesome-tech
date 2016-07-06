@@ -58,6 +58,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Tech jobs report: security, <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a>, and <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> stay hot <a href="https://t.co/gphg2ibB7W">https://t.co/gphg2ibB7W</a> via <a href="https://twitter.com/infoworld">@infoworld</a> <a href="https://twitter.com/hashtag/cloud?src=hash">#cloud</a> <a href="https://t.co/cVzlNDLS2c">pic.twitter.com/cVzlNDLS2c</a></p>&mdash; Paul Denham (@PaulTDenham) <a href="https://twitter.com/PaulTDenham/status/748168909656719360">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![dzone_refcard_alm](images/dzone_refcard_alm.png)](https://dzone.com/refcardz/getting-started-application)
+
 [![dilbert_unwarranted_optimism](images/dilbert_unwarranted_optimism.jpg)](http://dilbert.com/strip/2008-11-09)
 
 # DevOps
@@ -326,6 +328,14 @@
 [![agile manifesto](images/agile_manifesto.png)](http://www.agilemanifesto.org/)
 
 [![dzone_refcard_scrum](images/dzone_refcard_scrum.png)](https://dzone.com/refcardz/scrum)
+
+[![dzone_refcard_canban](images/dzone_refcard_canban.png)](https://dzone.com/refcardz/getting-started-kanban)
+
+[![dzone_refcard_agile_adoption](images/dzone_refcard_agile_adoption.png)](https://dzone.com/refcardz/agile-adoption-improving)
+
+[![dzone_refcard_agile_adoption_decreasing_time_to_market](images/dzone_refcard_agile_adoption_decreasing_time_to_market.png)](https://dzone.com/refcardz/agile-adoption-decreasing-time)
+
+[![dzone_refcard_agile_adoption_reducing_cost](images/dzone_refcard_agile_adoption_reducing_cost.png)](https://dzone.com/refcardz/agile-adoption-reducing-cost)
 
 [![dilbert_dont_have_enough_time](images/dilbert_dont_have_enough_time.gif)](http://dilbert.com/strip/2009-08-12)
 

@@ -58,6 +58,10 @@
 - [Top 10 Machine Learning Projects on Github](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
 - [Data scientists have the hottest job in America](http://www.infoworld.com/article/3024523/big-data/data-scientists-have-the-hottest-job-in-america.html)
 
+[![dzone_refcard_machine_learning](images/dzone_refcard_machine_learning.png)](https://dzone.com/refcardz/machine-learning-predictive)
+
+[![dzone_refcard_data_warehousing](images/dzone_refcard_data_warehousing.png)](https://dzone.com/refcardz/data-warehousing)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top Machine Learning Twitter influencers one should follow <a href="https://t.co/BOWwefvwam">https://t.co/BOWwefvwam</a></p>&mdash; Machine Learning (@ML_toparticles) <a href="https://twitter.com/ML_toparticles/status/705144727184609280">2 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -76,6 +80,8 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">10 Great Data Science, Machine / Deep Learning, IoT, AI, Stats, Python and R Resources <a href="https://t.co/yGqf4xPw83">https://t.co/yGqf4xPw83</a> <a href="https://t.co/R5YVHOZ13m">pic.twitter.com/R5YVHOZ13m</a></p>&mdash; Machine Learning (@ML_toparticles) <a href="https://twitter.com/ML_toparticles/status/748409327577272321">30 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![dzone_refcard_python_data_mining](images/dzone_refcard_python_data_mining.png)](https://dzone.com/refcardz/data-mining-discovering-and)
 
 ## SQL and Databases
 - [SQL and Databases](databases.md)
@@ -274,6 +280,10 @@
 - [information-age.com: 5 ways to get more out of Hadoop](http://www.information-age.com/technology/information-management/123460762/5-ways-get-more-out-hadoop)
 - [datafloq.com: 10 Things to Consider Before Diving Into the Hadoop Data Lake](https://datafloq.com/read/10-things-consider-diving-into-hadoop-data-lake/1805)
 - [16 for '16: What you must know about Hadoop and Spark right now](http://www.infoworld.com/article/3019754/application-development/16-things-you-should-know-about-hadoop-and-spark-right-now.html)
+
+[![dzone_refcard_hadoop](images/dzone_refcard_hadoop.png)](https://dzone.com/refcardz/getting-started-apache-hadoop)
+
+[![dzone_refcard_hadoop_deployment](images/dzone_refcard_hadoop_deployment.png)](https://dzone.com/refcardz/deploying-hadoop)
 
 #### Cloudera Docker image
 - [pythian.com: how to deploy a cluster](http://www.pythian.com/blog/how-to-deploy-cluster/)

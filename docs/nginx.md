@@ -21,6 +21,8 @@
 - [nginx.com](https://www.nginx.com/)
 - [nextplatform.com: How Apache Is Losing The Web To NGINX 🌟🌟](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
 
+[![dzone_refcard_monitoring_nginx](images/dzone_refcard_monitoring_nginx.png)](https://dzone.com/refcardz/monitoring-nginx)
+
 ## Nginx Virtual Hosts
 - [How to Setup Name-based and IP-based Virtual Hosts (Server Blocks) with NGINX](http://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-blocks/)
 

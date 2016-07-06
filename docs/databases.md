@@ -246,6 +246,10 @@
 - [InsideMySQL.com](http://insidemysql.com)
 - [mysqlblog.fivefarmers.com](http://mysqlblog.fivefarmers.com)
 
+[![dzone_refcard_essential_mysql](images/dzone_refcard_essential_mysql.png)](https://dzone.com/refcardz/essential-mysql)
+
+[![dzone_refcard_mysql_data_partitioning](images/dzone_refcard_mysql_data_partitioning.png)](https://dzone.com/refcardz/database-partitioning)
+
 ### MySQL Tutorials
 - [Syadmincasts: Crash Course on MySQL](https://sysadmincasts.com/episodes/38-crash-course-on-mysql)
 - [Tutorialspoint.com - MySQL Tutorial](http://www.tutorialspoint.com/mysql/index.htm)
@@ -383,6 +387,8 @@
 - [Introduction to PostgreSQL physical storage](http://rachbelaid.com/introduction-to-postgres-physical-storage/)
 - [Differences between PostgreSQL & MySQL Server](http://www.articlesbase.com/databases-articles/differences-between-postgresql-mysql-server-7377764.html)
 - [The Internals of PostgreSQL for database administrators and system developers covering version 9.5](http://www.interdb.jp/pg/index.html)
+
+[![dzone_essential_postgresql](images/dzone_essential_postgresql.png)](https://dzone.com/refcardz/essential-postgresql)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Good read for anyone storing jsonb data in postgresql <a href="https://t.co/uPu1R3MuH3">https://t.co/uPu1R3MuH3</a></p>&mdash; MΛHDI (@myusuf3) <a href="https://twitter.com/myusuf3/status/699354734042296324">febrero 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

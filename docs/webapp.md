@@ -22,6 +22,7 @@
 	- [JVM Latency: Caching, Off Heap, Data Grid](#jvm-latency-caching-off-heap-data-grid)
 		- [Java Garbage Collection: Changes in Java 8. JMX monitoring](#java-garbage-collection-changes-in-java-8-jmx-monitoring)
 	- [E-Mail](#e-mail)
+	- [DNS](#dns)
 	- [Video](#video)
 	- [Distributed Messaging System. Message oriented middleware](#distributed-messaging-system-message-oriented-middleware)
 
@@ -45,6 +46,8 @@
 - [simple-talk.com: Script Loading between HTTP/1.1 and HTTP/2](https://www.simple-talk.com/dotnet/asp.net/script-loading-between-http1.1-and-http2/)
 - [5 Tips to Boost the Performance of Your Apache Web Server](http://www.tecmint.com/apache-performance-tuning/)
 - [DZone: How HTTP/2 Is Changing Web Performance Best Practices](https://dzone.com/articles/how-http2-is-changing-web-performance-best-practic-2) For people who write code for the web, transitioning to HTTP/2 isn’t always straightforward, and a speed boost isn’t automatically guaranteed. This article is an introduction to HTTP/2 and how it changes web performance best practices.
+
+[![dzone_refcard_introduction_http](images/dzone_refcard_introduction_http.png)](https://dzone.com/refcardz/http-hypertext-transfer-0)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WkLBrHW4NhQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -116,6 +119,10 @@
 	- [middlewaresnippets.blogspot.com - Working some more with Apache HTTP Server](http://middlewaresnippets.blogspot.com/2015/09/working-some-more-with-apache-http.html)
 
 [![How Apache Is Losing The Web To NGINX 2](images/nginx-w3techs-data.jpg)](http://www.nextplatform.com/2016/02/24/how-apache-is-losing-the-web-to-nginx/)
+
+[![dzone_refcard_essential_apache](images/dzone_refcard_essential_apache.png)](https://dzone.com/refcardz/essential-apache-http-server)
+
+[![dzone_refcard_apache_tomcat](images/dzone_refcard_apache_tomcat.png)](https://dzone.com/refcardz/getting-started-with-apache-tomcat)
 
 <div class="container">
 <iframe src="https://player.vimeo.com/video/62427114" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
@@ -227,6 +234,10 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Internet Draft: SMTP Strict Transport Security <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/hashtag/email?src=hash">#email</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a>  <a href="https://t.co/SNiwaGZ2xH">https://t.co/SNiwaGZ2xH</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711739784637521921">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Even the FBI, DNI and the CIA don’t implement STARTTLS on their email server, but The NSA, on the other hand, does 🤔 <a href="https://t.co/xSTsR0NATY">https://t.co/xSTsR0NATY</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/713581832625754112">26 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## DNS
+
+[![dzone_refcard_practical_dns](images/dzone_refcard_practical_dns.png)](https://dzone.com/refcardz/dns)
 
 ## Video
 - [List of streaming media systems](https://en.wikipedia.org/wiki/List_of_streaming_media_systems)

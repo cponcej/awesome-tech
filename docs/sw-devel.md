@@ -259,6 +259,10 @@
 	- [eclipse marketplace: IBM Monitoring and Diagnostic Tools - Health Center](http://marketplace.eclipse.org/content/ibm-monitoring-and-diagnostic-tools-health-center)
 - [IntelliJ IDEA 16 EAP Improves Debugger and Adds Git Worktree Support](https://dzone.com/articles/intellij-idea-16-eap-improves-debugger-and-adds-gi) A new patch brings several new features to IntelliJ, including the use of Groovy expressions when debugging a Java application and VC integration.
 
+[![dzone_refcard_intellijidea](images/dzone_refcard_intellijidea.png)](https://dzone.com/refcardz/intellij-idea)
+
+[![dzone_refcard_intellijidea_update](images/dzone_refcard_intellijidea_update.png)](https://dzone.com/refcardz/intellij-idea-update)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How I feel after ~15 yrs using VIM: <a href="https://t.co/CwQCt54MRK">https://t.co/CwQCt54MRK</a></p>&mdash; Stephen Beck (@altphi) <a href="https://twitter.com/altphi/status/688542838385192961">17 de enero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -5,7 +5,8 @@
     - [Gerrit Code Review](#gerrit-code-review)
     - [JUnit](#junit)
     - [SonarQube previusly known as Sonar](#sonarqube-previusly-known-as-sonar)
-    - [Mockito Mocking framework](#mockito-mocking-framework)
+    - [Mockito Mocking Framework](#mockito-mocking-framework)
+    - [Spock Testing Framework](#spock-testing-framework)
     - [Selenium](#selenium)
         - [Selenium training](#selenium-training)
             - [Selenium training via Udemy](#selenium-training-via-udemy)
@@ -34,6 +35,8 @@
 <!-- /MarkdownTOC -->
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/vV8bOA5cLx">https://t.co/vV8bOA5cLx</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747789848929505280">28 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![dzone_refcard_real_user_monitoring](images/dzone_refcard_real_user_monitoring.png)](https://dzone.com/refcardz/getting-started-with-real-user-monitoring)
 
 # Testing Tools
 ## Google New website Testing tool for Small Businesses
@@ -103,18 +106,32 @@
 </div>
 <br/>
 
-## Mockito Mocking framework
-- [Mockito](https://dzone.com/refcardz/mockito) A Simple, Intuitive Mocking Framework
+## Mockito Mocking Framework
+- [DZone Mockito refcard](https://dzone.com/refcardz/mockito) A Simple, Intuitive Mocking Framework
 
 [![dzone_mockito](images/dzone_mockito.png)](https://dzone.com/refcardz/mockito)
 
 [![dilbert_qa5](images/dilbert_qa5.gif)](http://dilbert.com/strip/1990-04-20)
+
+## Spock Testing Framework
+- [DZone: A first look at the Spock testing framework](https://dzone.com/articles/first-look-spock-testing)
+- [DZone Testing Java using the Spock Framework](https://dzone.com/articles/spock-data-driven-testing)
+- [DZone - Spock: Data Driven Testing](https://dzone.com/articles/spock-data-driven-testing)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HByidnePxa4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## Selenium
 - [Selenium, QTP Job Trends](http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&l=)
 - [selenium 2.49.0 released: Python bindings for Selenium](https://pypi.python.org/pypi/selenium/2.49.0)
 - [slideshare: Selenium Tips & Tricks](http://www.slideshare.net/tourdedave/selenium-tips-tricks)
 - [10 Tips For Faster Selenium Scripts](http://www.beacon.by/test-automation-for-manual-testers/10-tips-for-faster-selenium-scripts)
+
+[![dzone_refcard_selenium](images/dzone_refcard_selenium.png)](https://dzone.com/refcardz/getting-started-selenium)
+
+[![dzone_refcard_selenium_2](images/dzone_refcard_selenium_2.png)](https://dzone.com/refcardz/getting-started-selenium-20)
 
 ### Selenium training
 - [Top 7 Websites to Practice Selenium Webdriver Online 🌟🌟](http://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/)
@@ -200,6 +217,8 @@
 
 ## Appium Mobile App Automation
 - [Appium: Mobile App Automation Made Awesome](http://appium.io/)
+
+[![dzone_refcard_mobile_app_testing](images/dzone_refcard_mobile_app_testing.png)](https://dzone.com/refcardz/mobile-web-application-testing)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/L7CsPirFmQKfw0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ElizabethHechtel/automate-you-appium-test-like-a-pro" title="Automate you Appium test like a pro!" target="_blank">Automate you Appium test like a pro!</a> </strong> from <strong><a href="//www.slideshare.net/ElizabethHechtel" target="_blank">TestObject - Mobile Testing</a></strong> </div>

@@ -37,6 +37,8 @@
 </div>
 <br>
 
+[![dzone_refcard_nosql_data_scalability](images/dzone_refcard_nosql_data_scalability.png)](https://dzone.com/refcardz/nosql-and-data-scalability-20)
+
 [![howto_evolve_to_nosql](images/howto_evolve_to_nosql.png)](https://www.linkedin.com/pulse/how-evolve-from-rdbms-nosql-sql-jim-scott)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">There ARE good reasons for NoSQL.<br>It&#39;s just that the average apps performance problems isn&#39;t.<a href="https://t.co/Os0wio3ekO">https://t.co/Os0wio3ekO</a></p>&mdash; SQL Performance Tips (@SQLPerfTips) <a href="https://twitter.com/SQLPerfTips/status/711909070995849216">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -65,6 +67,10 @@
 - [3T MongoChef – Your New MongoDB GUI](http://3t.io/)
 	- [Connecting to your MongoDB at MongoLab](http://3t.io/blog/how-to-connect-to-mongolab/)
 - [MongoDB Administration Checklist for MySQL DBAs 🌟](https://dzone.com/articles/mongodb-administration-checklist-for-mysql-dbas) If you are MySQL DBA, starting MongoDB administration is not always an easy transition. This post provides a checklist for MongoDB administrators who are familiar with MySQL.
+
+[![dzone_refcard_mongodb](images/dzone_refcard_mongodb.png)](https://dzone.com/refcardz/mongodb)
+
+[![dzone_refcard_getting_started_nosql_scalability](images/dzone_refcard_getting_started_nosql_scalability.png)](https://dzone.com/refcardz/getting-started-nosql-and-data)
 
 [![mongodb_admin_checklist](images/mongodb_admin_checklist.png)](https://dzone.com/articles/mongodb-administration-checklist-for-mysql-dbas)
 

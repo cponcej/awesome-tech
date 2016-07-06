@@ -145,6 +145,8 @@
 
 [![docker_cheat_sheet](images/docker_cheat_sheet.jpg)](http://dockerlux.github.io/pdf/cheat-sheet-v2.pdf)
 
+[![dzone_refcard_docker](images/dzone_refcard_docker.png)](https://dzone.com/refcardz/getting-started-with-docker-1)
+
 ### Referencias Docker
 - [Dockerfile: Creación de imágenes docker 🌟](http://www.josedomingo.org/pledin/2016/02/dockerfile-creacion-de-imagenes-docker/)
 

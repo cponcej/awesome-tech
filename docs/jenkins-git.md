@@ -13,6 +13,7 @@
     - [CI RPM build](#ci-rpm-build)
     - [CI Maven and Gradle](#ci-maven-and-gradle)
     - [Deploying PHP Applications](#deploying-php-applications)
+    - [Subversion](#subversion)
     - [Git](#git)
         - [Git on Twitter](#git-on-twitter)
         - [Git clients](#git-clients)
@@ -48,6 +49,24 @@
 - [DZone: Jenkins Pipeline - Software Delivery Made Easy 🌟🌟🌟](https://dzone.com/articles/jenkins-pipeline-software-delivery-made-easy) 
 - [Jenkins CD and Pipelines Microsite](https://jenkins.io/solutions/pipeline/)
 - [DZone: Continuous Delivery With Jenkins Workflow 🌟🌟🌟](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow) The Jenkins Plugin for Managing Complex DevOps Pipelines
+
+[![dzone_refcard_ci](images/dzone_refcard_ci.png)](https://dzone.com/refcardz/continuous-integration-servers)
+
+[![dzone_refcard_ci_2](images/dzone_refcard_ci_2.png)](https://dzone.com/refcardz/continuous-integration)
+
+[![dzone_refcard_preparing_cd](images/dzone_refcard_preparing_cd.png)](https://dzone.com/refcardz/preparing-continuous-delivery)
+
+[![dzone_refcard_cd](images/dzone_refcard_cd.png)](https://dzone.com/refcardz/continuous-delivery-patterns)
+
+[![dzone_refcard_deployment_automation_pattern](images/dzone_refcard_deployment_automation_pattern.png)](https://dzone.com/refcardz/deployment-automation-patterns)
+
+[![dzone_refcard_apache_ant](images/dzone_refcard_apache_ant.png)](https://dzone.com/refcardz/getting-started-apache-ant)
+
+[![dzone_refcard_maven](images/dzone_refcard_maven.png)](https://dzone.com/refcardz/getting-started-repository)
+
+[![dzone_refcard_maven2](images/dzone_refcard_maven2.png)](https://dzone.com/refcardz/apache-maven-2)
+
+[![dzone_refcard_jenkins_on_paas](images/dzone_refcard_jenkins_on_paas.png)](https://dzone.com/refcardz/jenkins-paas)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Why Jenkins is becoming the engine of devops&quot; <a href="https://t.co/28OYn8mSjR">https://t.co/28OYn8mSjR</a> <a href="https://twitter.com/openshift">@OpenShift</a></p>&mdash; Steve Speicher (@sspeiche) <a href="https://twitter.com/sspeiche/status/711903617767317504">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -229,6 +248,10 @@
 
 [![Use of CD is growing](images/use_of_CD_growing.jpg)](http://www.theregister.co.uk/2016/01/15/devops_people_problem/)
 
+## Subversion
+
+[![dzone_refcard_subversion](images/dzone_refcard_subversion.png)](https://dzone.com/refcardz/getting-started-subversion)
+
 ## Git
 - [A tidy, linear Git history](http://www.bitsnbites.eu/?p=221)
 - [One Million Downloads of GitLab 🌟](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/)
@@ -264,6 +287,8 @@
 - [Easily Calculate Your Project Version With Git 🌟🌟](https://dzone.com/articles/easily-calculate-your-project-version-with-git) How a user created a project to automatically create version names with every Git commit using Maven and Gradle plugins.
 
 [![dzone_git_refcard](images/dzone_git_refcard.png)](https://dzone.com/refcardz/getting-started-git)
+
+[![dzone_refcard_git_patterns](images/dzone_refcard_git_patterns.png)](https://dzone.com/refcardz/git-patterns-and-anti-patterns)
 
 [![One Million Downloads of GitLab](images/gitlab.png)](https://about.gitlab.com/2015/10/29/one-million-downloads-of-gitlab/) 
 
