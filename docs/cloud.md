@@ -99,6 +99,9 @@
 ## Centros de datos
 - [centrodedatos-datacenter.es](http://www.centrodedatos-datacenter.es)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">.<a href="https://twitter.com/mirandadonosti">@mirandadonosti</a>, dir. gral. de <a href="https://twitter.com/NetApp_es">@NetApp_es</a>: en la <a href="https://twitter.com/hashtag/transformaci%C3%B3ndigital?src=hash">#transformacióndigital</a> &quot;el cambio es obligado a todos los niveles&quot; <a href="https://t.co/kXpFoBvlW2">https://t.co/kXpFoBvlW2</a></p>&mdash; Asoc. de Directivos (@AEDtweets) <a href="https://twitter.com/AEDtweets/status/750289419664490496">5 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![nexica](images/nexica.jpg)](https://www.nexica.com/)
 
 <div class="container">

@@ -169,6 +169,21 @@
 - [nixCraft: 7 Awesome Open Source Cloud Storage Software For Your Privacy and Security 🌟](http://www.cyberciti.biz/cloud-computing/7-awesome-open-source-cloud-storage-software-for-your-privacy-and-security/)
 - [learnitguide.net: Disk Management in Linux - Understand the Basic Concepts](http://www.learnitguide.net/2016/05/disk-management-in-linux-basic-concepts.html)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">It&#39;s time to give your data the flash it demands &amp; from the provider you trust. <a href="https://twitter.com/hashtag/YourDataDemandsMore?src=hash">#YourDataDemandsMore</a><a href="https://t.co/rGQiDGPh5k">https://t.co/rGQiDGPh5k</a></p>&mdash; NetApp (@NetApp) <a href="https://twitter.com/NetApp/status/748154380805824512">29 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/NetApp?src=hash">#NetApp</a> FAS2500 Series. Almacenamiento Híbrido para tu Plataforma Convergente de <a href="https://twitter.com/hashtag/FlexPod?src=hash">#FlexPod</a> <a href="https://t.co/OEGlkbKDIm">https://t.co/OEGlkbKDIm</a> <a href="https://t.co/QiAyCN0kf1">pic.twitter.com/QiAyCN0kf1</a></p>&mdash; Ingram Micro ES (@IngramMicroES) <a href="https://twitter.com/IngramMicroES/status/748066834075750400">29 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uf0taABJ5rU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0R1-Y1ZtbFQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 [![synology logo](images/synology_logo.jpg)](https://www.synology.com)
 
 <div class="container">
