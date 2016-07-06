@@ -48,7 +48,7 @@
 - [DZone: Puppet unit testing like a pro](https://dzone.com/articles/puppet-unit-testing-pro)
 - [DZone: Setting up a LAMP box with Puppet](https://dzone.com/articles/setting-lamp-box-puppet)
 - [DZone: Intro to Puppet, Installing your First MySQL Service in 5 Minutes 🌟](https://dzone.com/articles/intro-puppet-installing-your)
-- [DZone: A Practical, Quick Introduction to Puppet](https://dzone.com/articles/practical-quick-introduction)
+- [DZone: A Practical, Quick Introduction to Puppet 🌟🌟](https://dzone.com/articles/practical-quick-introduction)
 - [DZone: Puppet: A Beginners Concept Guide (Part 1) 🌟](https://dzone.com/articles/puppet-beginners-concept-guide)
 - [DZone: Puppet for Java Developers](https://dzone.com/articles/puppet-java-developers)
 - [DZone: Puppet Server: Advanced Memory Debugging](https://dzone.com/articles/puppet-server-advanced-memory-debugging) How to monitor, prevent, and debug memory issues in the open source and proprietary Puppet Server tools.
