@@ -15,6 +15,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">¿Qué hay de malo en trabajar por dinero y solo por dinero? ➡ <a href="https://t.co/e3Mdujkm1O">https://t.co/e3Mdujkm1O</a>  por <a href="https://twitter.com/Meninstein">@Meninstein</a> <a href="https://t.co/zX6Fn3SSrP">pic.twitter.com/zX6Fn3SSrP</a></p>&mdash; Movistar pymes (@Movistar_pymes) <a href="https://twitter.com/Movistar_pymes/status/747387793354137600">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![spain_runs_out_of_workers_with_5_million_unemployed](images/spain_runs_out_of_workers_with_5_million_unemployed.png)](https://slashdot.org/story/16/07/02/1311247/spain-runs-out-of-workers-with-almost-5-million-unemployed)
+
 [![dilbert_resigns_higher_salary](images/dilbert_resigns_higher_salary.gif)](http://dilbert.com/strip/1996-04-23)
 
 # Recursos Humanos
