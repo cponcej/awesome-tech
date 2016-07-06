@@ -5,7 +5,6 @@
 	- [DevOps Blogs and Podcasts](#devops-blogs-and-podcasts)
 	- [Description](#description)
 	- [Cultura DevOps](#cultura-devops)
-	- [Red Hat Demo. Live CI/CD deployment](#red-hat-demo-live-cicd-deployment)
 	- [Collaborative tools](#collaborative-tools)
 	- [DevOps Tools 2016](#devops-tools-2016)
 		- [Rundeck](#rundeck)
@@ -239,16 +238,6 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Top 5 <a href="https://twitter.com/hashtag/DevOps?src=hash">#DevOps</a> tutorials on <a href="https://twitter.com/hashtag/developerWorks?src=hash">#developerWorks</a> <a href="https://t.co/VZ4YHXszuM">https://t.co/VZ4YHXszuM</a> <a href="https://t.co/Dwr7pZiVEG">pic.twitter.com/Dwr7pZiVEG</a></p>&mdash; Marc Peters (@MPetersBE) <a href="https://twitter.com/MPetersBE/status/739069386774831105">4 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Red Hat Demo. Live CI/CD deployment
-- Red Hat delivers a live CI/CD deployment on-stage at Red Hat Summit 2016. Transformation hype can become a reality--even in a keynote. Watch the demo here:
-
-[![ci_cd_redhatsummit_2016](images/ci_cd_redhatsummit_2016.png)](https://youtu.be/wMTgIIJ-oqQ)
-
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wMTgIIJ-oqQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br/>
 
 ## Collaborative tools
 - [etherpad.org 🌟](http://etherpad.org)

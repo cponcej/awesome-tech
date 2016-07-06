@@ -17,6 +17,7 @@
     - [Git](#git)
         - [Git on Twitter](#git-on-twitter)
         - [Git clients](#git-clients)
+    - [Red Hat Demo. Live CI/CD deployment](#red-hat-demo-live-cicd-deployment)
 
 <!-- /MarkdownTOC -->
 
@@ -395,6 +396,16 @@
 [![git image](images/git.png)](http://www.cyberciti.biz/)
 
 [![sourcetree on windows](images/sourcetree-on-windows.png)](https://www.sourcetreeapp.com)
+
+## Red Hat Demo. Live CI/CD deployment
+- Red Hat delivers a live CI/CD deployment on-stage at Red Hat Summit 2016. Transformation hype can become a reality--even in a keynote. Watch the demo here:
+
+[![ci_cd_redhatsummit_2016](images/ci_cd_redhatsummit_2016.png)](https://youtu.be/wMTgIIJ-oqQ)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wMTgIIJ-oqQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mgme0yy9nXg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
