@@ -569,6 +569,11 @@
 ## AWS NoSQL DynamoDB
 - [Easily model your app data in a NoSQL database with AWS Mobile Hub](https://aws.amazon.com/es/about-aws/whats-new/2016/06/easily-model-your-app-data-in-a-nosql-database-with-aws-mobile-hub/)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fhnAvn2YxZA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## AWS IoT
 - [aws.amazon.com/en/iot](https://aws.amazon.com/en/iot)
 - [What Is AWS IoT?](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
