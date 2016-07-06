@@ -18,6 +18,7 @@
 		- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
 			- [Continuous Integration Tools](#continuous-integration-tools)
 	- [Metrics](#metrics)
+	- [Example of DevOps Job description](#example-of-devops-job-description)
 - [ITIL](#itil)
 	- [Is DevOps replacing ITIL?](#is-devops-replacing-itil)
 	- [ITIL Tools](#itil-tools)
@@ -491,6 +492,36 @@
 
 ## Metrics
 - [Metrics](metrics.md)
+
+## Example of DevOps Job description
+
+You will be working closely with the product engineering teams to ensure products are secure, highly available and scalable. Your development and scripting skills will help you automate scaling and management of server resources and implement zero-downtime deployments. This position offers an outstanding opportunity for a unique individual who possesses a solid development and web services background. 
+
+Requirements: 
+
+- Extensive experience supporting customer facing web servers and web sites in production environment 
+- Software development experience with at least one language (Ruby, Python, Java) 
+- Management of continuous integration servers like Jenkins 
+- Automated provisioning, configuration of many nodes with code deployment and configuration management tools (Chef, Puppet, SaltStack...)
+- BS Degree in Information Technology, Engineering, Computer Science or equivalent experience 
+- Strong experience in Linux Systems Administration and troubleshooting 
+- Willingness to participate in 7/24 on call rotation to respond to and resolve application issues to ensure SaaS applications are online 
+- Good organizational skills and the ability the track and prioritize several tasks 
+- Ability to pair with other engineers to dig into problems that occur in production and ship production code 
+- Experience with source code repositories (Git, Perforce, subversion) 
+- Experience with cloud environments like AWS
+
+Preferred Qualifications: 
+
+- Understanding and experience with code deployment and micro-services 
+- Good understanding of relational databases such as MS SQL Server or MySQL or PostgreSQL 
+- Excellent problem solving skills, along with the ability to work independently, as well as part of a cross-functional global team 
+- Ability to work on complex problems where analysis of situations or data requires in-depth evaluation of various factors 
+- Understanding of ITIL "best practices" 
+- Windows and Linux certifications 
+- Working knowledge of networking and security concepts 
+- Experience working with architecture or engineering disciplines 
+- Experience working with containers – Docker / Mesos 
 
 # ITIL
 ## Is DevOps replacing ITIL?
