@@ -408,6 +408,6 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mgme0yy9nXg?rel=0&t=42m44s" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mgme0yy9nXg?rel=0?t=42m44s" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
