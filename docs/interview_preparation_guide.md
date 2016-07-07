@@ -117,6 +117,8 @@
 - [#1 Darkest Fear of Every Job Seeker](https://www.linkedin.com/pulse/20121002131101-7668018--1-darkest-fear-of-every-job-seeker) 
 - [The Interview Secret HR Doesn't Want You To Know...](https://www.linkedin.com/pulse/interview-secret-hr-doesnt-want-you-know-j-t-o-donnell)
 
+![marla_singer_phone](images/marla_singer_phone.gif)
+
 [![bi_interview_question_about_money_is_trap](images/bi_interview_question_about_money_is_trap.png)](http://www.businessinsider.com/never-directly-answer-a-salary-question-2016-6)
 
 [![dilbert_people_careers_looks](images/dilbert_people_careers_looks.gif)](http://dilbert.com/strip/2010-04-14)

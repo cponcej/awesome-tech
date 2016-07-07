@@ -243,6 +243,8 @@
 - [Want to Be Happy at Work? Care Less About It](http://www.quietrev.com/want-to-be-happy-at-work-care-less-about-it/)
 - [How a Millennial Stunned the Worst Boss Ever by Telling Him to Take His Job and Shove It](http://www.inc.com/chris-matyszczyk/how-a-millennial-stunned-the-worst-boss-ever-by-telling-him-to-take-his-job-and-.html)
 
+![marla_two_sides](images/marla_two_sides.gif)
+
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
 [![bi_8things_companies_do](images/bi_8things_companies_do.png)](http://www.businessinsider.com/things-your-boss-can-legally-do-2016-3)

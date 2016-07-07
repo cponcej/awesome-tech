@@ -126,6 +126,8 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 
 ![same-dress](images/same-dress.gif)
 
+![marla](images/marla.gif)
+
 [![dilbert_consultant_cloud](images/dilbert_consultant_cloud.png)](http://dilbert.com/strip/2011-01-07)
 
 [![quality_vs__quantity](images/quality_vs__quantity.png)](http://stuartmday.deviantart.com/art/Quality-vs-Quantity-377746374)
