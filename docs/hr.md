@@ -127,6 +127,7 @@
 - [Millennials Don’t Want Fun; They Want You To Lead Better](https://www.linkedin.com/pulse/millennials-dont-want-fun-you-lead-better-mark-c-crowley)
 - [Don’t let stress and a crazy pace kill your culture 🌟🌟🌟](http://www.content-loop.com/dont-let-stress-and-a-crazy-pace-kill-your-culture)
 - [Multitasking is Killing Your Brain](https://medium.com/the-mission/multitasking-is-killing-your-brain-79104e62e930#.jwwyl5rc7)
+- [26 time-management tricks I wish I'd known at 20 🌟🌟](http://www.businessinsider.com/time-management-and-productivity-hacks-2016-7)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -231,6 +232,7 @@
 - [Five Signs Your Job Is Wasting Your Talent](http://www.forbes.com/sites/lizryan/2016/06/03/five-signs-your-job-is-wasting-your-talent/#dead23f42304)
 - [How a 'Praise Addiction' Can Really Mess Up Your Career](http://www.inc.com/jt-odonnell/how-a-praise-addiction-can-really-mess-up-your-career.html)
 - [Want to Be Happy at Work? Care Less About It](http://www.quietrev.com/want-to-be-happy-at-work-care-less-about-it/)
+- [How a Millennial Stunned the Worst Boss Ever by Telling Him to Take His Job and Shove It](http://www.inc.com/chris-matyszczyk/how-a-millennial-stunned-the-worst-boss-ever-by-telling-him-to-take-his-job-and-.html)
 
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
