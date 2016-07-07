@@ -19,8 +19,8 @@
 - [The Puppet Labs Issue Tracker](https://tickets.puppetlabs.com)
 - [Google Groups puppet-bugs](https://groups.google.com/forum/#!forum/puppet-bugs)
 - [Google Groups puppet-users](https://groups.google.com/forum/#!forum/puppet-users)
-- [r/puppet](https://www.reddit.com/r/puppet)
-- [Download the Learning VM](https://puppetlabs.com/download-learning-vm)
+- [r/puppet 🌟🌟🌟](https://www.reddit.com/r/puppet)
+- [Download the Learning VM 🌟](https://puppetlabs.com/download-learning-vm)
 	- [Bringing application orchestration to the Learning VM](https://puppetlabs.com/blog/bringing-application-orchestration-to-learning-vm)
 - [sysadmincasts.com: Learning Puppet with Vagrant](http://sysadmincasts.com/episodes/8-learning-puppet-with-vagrant)
 	- [Sysadmincasts.com: Git to Puppet Deployment Workflow](https://sysadmincasts.com/episodes/33-git-to-puppet-deployment-workflow)
@@ -36,6 +36,9 @@
 - [Geppetto, eclipse plugin for puppet](https://puppetlabs.com/blog-tags/geppetto)
 - [New Releases for AWS and vSphere Modules](https://puppetlabs.com/blog/new-releases-aws-and-vsphere-modules)
 - [puppet.com: Learn to use command line, Vim and Git with our new guide](https://puppet.com/blog/learn-use-command-line-vim-and-git-our-new-guide)
+
+<blockquote class="reddit-card" data-card-created="1467912191"><a href="https://www.reddit.com/r/Puppet/comments/4rbbm5/puppet_4_user_base/?ref=share&ref_source=embed">Puppet 4 user base</a> from <a href="http://www.reddit.com/r/Puppet">Puppet</a></blockquote>
+<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## DZone and Puppet
 - [DZone: Puppet Labs Redefines Application Orchestration](https://dzone.com/articles/puppet-labs-redefines-application-orchestration)
