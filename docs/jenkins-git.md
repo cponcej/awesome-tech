@@ -403,7 +403,7 @@
 [![ci_cd_redhatsummit_2016](images/ci_cd_redhatsummit_2016.png)](https://www.youtube.com/watch?v=wMTgIIJ-oqQ&feature=youtu.be&t=42m44s)
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wMTgIIJ-oqQ?rel=0?start=2684" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wMTgIIJ-oqQ?start=2684" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
