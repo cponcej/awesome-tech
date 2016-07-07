@@ -88,6 +88,8 @@
 
 ![you_are_not_born_fixed_amount_resilience](images/you_are_not_born_fixed_amount_resilience.jpg)
 
+[![bi_26_time_management_tricks](images/bi_26_time_management_tricks.png)](http://www.businessinsider.com/time-management-and-productivity-hacks-2016-7)
+
 [![dilbert_relocation](images/dilbert_relocation.gif)](http://dilbert.com/strip/2012-01-01)
 
 ## Management

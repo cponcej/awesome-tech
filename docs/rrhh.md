@@ -44,6 +44,8 @@
 
 [![laboro](images/laboro.png)](http://laboro-spain.blogspot.com.es/)
 
+[![10_senales_para_ser_jefe](images/10_senales_para_ser_jefe.png)](http://www.equiposytalento.com/noticias/2016/06/30/10-senales-para-saber-si-esta-listo-para-ser-jefe-o-no)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">El enchufe como síntoma de un país estancado  <a href="https://t.co/mFIweLJLX9">https://t.co/mFIweLJLX9</a> Blog de <a href="https://twitter.com/jotaicabrera">@jotaicabrera</a> <a href="https://t.co/fRjzg0WPCr">pic.twitter.com/fRjzg0WPCr</a></p>&mdash; El Huffington Post (@ElHuffPost) <a href="https://twitter.com/ElHuffPost/status/704276216514269184">29 de febrero de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

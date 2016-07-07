@@ -378,6 +378,8 @@
 
 [![get_done_by_friday](images/get_done_by_friday.gif)](http://dilbert.com/strip/2016-05-18)
 
+[![bi_26_time_management_tricks](images/bi_26_time_management_tricks.png)](http://www.businessinsider.com/time-management-and-productivity-hacks-2016-7)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The amount of time it takes to fix <a href="https://twitter.com/hashtag/technical?src=hash">#technical</a> debt could save you so much more time, effort &amp; hassle. <a href="https://twitter.com/hashtag/WorthIt?src=hash">#WorthIt</a> <a href="https://twitter.com/hashtag/Lean?src=hash">#Lean</a> <a href="https://t.co/Q4PCqzNXas">https://t.co/Q4PCqzNXas</a></p>&mdash; Scrum.org (@Scrumdotorg) <a href="https://twitter.com/Scrumdotorg/status/744980516072456196">20 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
