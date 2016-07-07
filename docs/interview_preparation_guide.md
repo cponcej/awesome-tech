@@ -147,6 +147,8 @@
 
 [![interview_questions_been_laid_off](images/interview_questions_been_laid_off.png)](http://www.careerealism.com/interview-questions-been-laid-off/)
 
+[![answer_interview_question_after_being_fired](images/answer_interview_question_after_being_fired.png)](http://www.careerealism.com/interview-questions-answer-been-fired/)
+
 [![over40_interview](images/over40_interview.png)](https://www.linkedin.com/pulse/over-40-major-interview-mistake-you-could-making-j-t-o-donnell)
 
 ![business-commerce-interview](images/business-commerce-interview.jpg)
