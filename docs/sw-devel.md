@@ -134,6 +134,8 @@
 
 [![dzone_biggest_opportunities_for_improvement_in_sw_devel](images/dzone_biggest_opportunities_for_improvement_in_sw_devel.png)](https://dzone.com/articles/biggest-opportunities-for-improvement-in-software)
 
+![newrelic_lifestooshort](images/newrelic_lifestooshort.png)
+
 ## Blogs and Forums
 - [DZone 🌟🌟🌟🌟🌟](http://dzone.com)
 	- [DZone Refcardz](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
