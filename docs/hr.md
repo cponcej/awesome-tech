@@ -130,6 +130,7 @@
 - [Don’t let stress and a crazy pace kill your culture 🌟🌟🌟](http://www.content-loop.com/dont-let-stress-and-a-crazy-pace-kill-your-culture)
 - [Multitasking is Killing Your Brain](https://medium.com/the-mission/multitasking-is-killing-your-brain-79104e62e930#.jwwyl5rc7)
 - [26 time-management tricks I wish I'd known at 20 🌟🌟](http://www.businessinsider.com/time-management-and-productivity-hacks-2016-7)
+- [What Are The Next Steps After Getting A Promotion? 🌟](http://www.careerealism.com/promotion-next-steps/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
