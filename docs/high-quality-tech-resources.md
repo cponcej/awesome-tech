@@ -47,6 +47,8 @@
 
 [![inforworld](images/inforworld.png)](http://www.infoworld.com/)
 
+[![cio](images/cio.png)](http://www.cio.com/)
+
 [![silicon_angle](images/silicon_angle.png)](http://siliconangle.com/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/ChrisLAS">@ChrisLAS</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://twitter.com/RedHatNews">@RedHatNews</a> Summit goes up too this youtube channel: <a href="https://t.co/FL65f6aOM4">https://t.co/FL65f6aOM4</a> <a href="https://twitter.com/theCUBE">@theCUBE</a> Tip</p>&mdash; bittin (@bittin) <a href="https://twitter.com/bittin/status/748273096835141636">29 de junio de 2016</a></blockquote>
