@@ -171,6 +171,8 @@
 
 ![fujitsu_good_work_today_tomorrow](images/fujitsu_good_work_today_tomorrow.png)
 
+[![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)](http://insights.com/)
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/c2UUSp4bkNs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

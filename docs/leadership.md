@@ -71,7 +71,10 @@
 
 [![simon sinek facebook](images/simonsinek_facebook_taking_care.png)](https://www.facebook.com/simonsinek/)
 
-[![how to lead extraverts and introverts](images/howto_lead_extraverts_introverts.png)](http://insights.com/)
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PMEqLzWrMIo?list=PL9F0Fb36EYxszkB-LnSVpquu7j3Gqo3ux" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QKmnLiAGj10?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
