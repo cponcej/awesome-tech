@@ -14,7 +14,8 @@
 - [What’s the performance meaning of 0-Windows?](http://blog.securactive.net/performance-meaning-0-windows/) When a machine starts to send more and more 0-win you have to investigate if there is enough resources, CPU, RAM …
 - [Great explanation on how performance metrics are calculated by Tony Fortunato (Tech firm)](http://www.lovemytool.com/blog/2015/10/application-performance-term-connect-time-by-tony-fortunato.html)
 - [blog.performancevision.com - NETWORK PERFORMANCE: LINKS BETWEEN LATENCY, THROUGHPUT AND PACKET LOSS 🌟🌟🌟](http://blog.performancevision.com/links-between-latency-throughput-and-packet-loss)
-- [DNS: KEY TO NETWORK AND APPLICATION PERFORMANCE](http://blog.performancevision.com/dns-key-to-network-and-application-performance)
+- [blog.performancevision.com - DNS: KEY TO NETWORK AND APPLICATION PERFORMANCE](http://blog.performancevision.com/dns-key-to-network-and-application-performance)
+- [blog.performancevision.com - HOW TO MEASURE NETWORK PERFORMANCE THROUGH PASSIVE TRAFFIC ANALYSIS](http://blog.performancevision.com/how-to-measure-network-performance-through-passive-traffic-analysis)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8AgMu6Wr5g?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

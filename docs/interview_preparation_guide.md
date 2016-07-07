@@ -57,6 +57,8 @@
 </div>
 <br/>
 
+[![10_top_tech_roles](images/10_top_tech_roles.jpg)](http://www.computing.co.uk/ctg/news/2464111/the-10-top-earning-technology-roles)
+
 [![dilbert_new_assignment](images/dilbert_new_assignment.gif)](http://dilbert.com/strip/2008-12-18)
 
 # Interview Preparation Guide
