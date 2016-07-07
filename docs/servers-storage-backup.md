@@ -6,6 +6,7 @@
 	- [HP](#hp)
 	- [FlexPod Datacenter](#flexpod-datacenter)
 	- [VxRail VMware Hyper Converged Infrastructure HCI](#vxrail-vmware-hyper-converged-infrastructure-hci)
+	- [Lenovo Servers](#lenovo-servers)
 	- [RAID disks](#raid-disks)
 	- [Remote PC Access](#remote-pc-access)
 	- [VMware](#vmware)
@@ -131,6 +132,17 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EDgSTlPLs00?list=PLeI0J3mFLYgwk2G0wkTCXpygnXuvBlVE6" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+## Lenovo Servers
+- [Strategic alliance: Red Hat and Lenovo](https://www.redhat.com/en/partners/strategic-alliance/lenovo)
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">We&#39;re proud to partner with <a href="https://twitter.com/LenovoServers">@LenovoServers</a>. Learn more about our partnership: <a href="https://t.co/PVvsdxQPRk">https://t.co/PVvsdxQPRk</a> <a href="https://t.co/NJ0sbqrEtL">https://t.co/NJ0sbqrEtL</a></p>&mdash; Red Hat Partners (@RedHatPartners) <a href="https://twitter.com/RedHatPartners/status/751150976392892416">7 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVoj4zrrBSA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
