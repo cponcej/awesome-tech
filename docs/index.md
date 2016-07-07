@@ -8,9 +8,9 @@
 
 <br/>
 <p align="center">
-Middleware SysAdmin | DevOps CI/CD AWS | Testing  | RedHat solutions | Contract & Permanent. </p>
+Middleware SysAdmin | DevOps CI/CD AWS | Testing  | RedHat solutions | Contract & Permanent (no freelance). </p>
 <p align="center">
-Available for work in Barcelona, Madrid, Bilbao (no freelance). <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know. </strike>
+Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know. </strike>
 </p>
 
 <p align="center">
