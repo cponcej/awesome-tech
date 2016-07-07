@@ -165,6 +165,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Happiest jobs that pay 6-figures:<br><br>1. CMO<br>2. Senior HR director<br>3. Senior project manager<a href="https://t.co/ZqwJ3yjdAs">https://t.co/ZqwJ3yjdAs</a> <a href="https://t.co/kmCO7GG4BY">pic.twitter.com/kmCO7GG4BY</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/739577544962412544">5 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![fujitsu_good_work_today_tomorrow](images/fujitsu_good_work_today_tomorrow.png)
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/c2UUSp4bkNs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
