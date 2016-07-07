@@ -295,6 +295,8 @@
 - [blog.openshift.com: Using OpenShift 3 on your local environment 🌟](https://blog.openshift.com/using-openshift-3-on-your-local-environment/)
 - [planet.jboss.org: How to install OpenShift as your private PaaS](http://planet.jboss.org/post/how_to_install_openshift_as_your_private_paas)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/7O0VDdOlfO">https://t.co/7O0VDdOlfO</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/751143822109868032">7 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qUTP0wDDEH9bVo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/greghoelzer7/red-hat-openshift-v3-overview-and-deep-dive" title="Red Hat OpenShift V3 Overview and Deep Dive" target="_blank">Red Hat OpenShift V3 Overview and Deep Dive</a> </strong> from <strong><a href="//www.slideshare.net/greghoelzer7" target="_blank">Greg Hoelzer</a></strong> </div>
 </div>

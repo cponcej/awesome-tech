@@ -34,6 +34,8 @@
 
 [![ovirt_4](images/ovirt_4.png)](http://www.ovirt.org/develop/projects/node/4.0/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/7O0VDdOlfO">https://t.co/7O0VDdOlfO</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/751143822109868032">7 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">See how Red Hat CloudForms helps you calculate estimated VM Cost during service provisioning. | <a href="https://t.co/KZIUvhmkVK">https://t.co/KZIUvhmkVK</a></p>&mdash; Red Hat Training (@RedHat_Training) <a href="https://twitter.com/RedHat_Training/status/745919351103062016">23 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
