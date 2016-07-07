@@ -400,7 +400,7 @@
 ## Red Hat Demo. Live CI/CD deployment
 - Red Hat delivers a live CI/CD deployment on-stage at Red Hat Summit 2016. Transformation hype can become a reality--even in a keynote. Watch the demo here:
 
-[![ci_cd_redhatsummit_2016](images/ci_cd_redhatsummit_2016.png)](https://youtu.be/wMTgIIJ-oqQ)
+[![ci_cd_redhatsummit_2016](images/ci_cd_redhatsummit_2016.png)](https://www.youtube.com/watch?v=wMTgIIJ-oqQ&feature=youtu.be&t=42m44s)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wMTgIIJ-oqQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
@@ -408,6 +408,6 @@
 <br/>
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mgme0yy9nXg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mgme0yy9nXg?rel=0&t=42m44s" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
