@@ -284,6 +284,8 @@
 
 [![hilda_arbones_mobbing_legislacion_laboral](images/hilda_arbones_mobbing_legislacion_laboral.png)](http://confilegal.com/20160331-hilda-i-arbones-no-existe-una-definicion-clara-concisa-lo-mobbing-la-legislacion-laboral/)
 
+[![fox_news_acoso_sexual](images/fox_news_acoso_sexual.png)](http://www.elmundo.es/television/2016/07/07/577d9e49468aeb85018b456f.html)
+
 [![denuncio_a_mi_jefe](images/denuncio_a_mi_jefe.png)](http://www.elcorreo.com/bizkaia/economia/201605/28/denuncio-jefe-20160527224714.html)
 
 <div class="container">
