@@ -16,6 +16,8 @@
 
 ![love_money_people](images/love_money_people.png)
 
+[![make_resignation_letter_polite](images/make_resignation_letter_polite.png)](https://www.entrepreneur.com/article/278306)
+
 # How to Fire and Onboard Employees
 ## How to Fire
 - [How to Fire Someone You Like](https://www.linkedin.com/pulse/how-fire-someone-you-like-zeynep-ilgaz)
