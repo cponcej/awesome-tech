@@ -18,6 +18,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">.<a href="https://twitter.com/mirandadonosti">@mirandadonosti</a>, dir. gral. de <a href="https://twitter.com/NetApp_es">@NetApp_es</a>: en la <a href="https://twitter.com/hashtag/transformaci%C3%B3ndigital?src=hash">#transformacióndigital</a> &quot;el cambio es obligado a todos los niveles&quot; <a href="https://t.co/kXpFoBvlW2">https://t.co/kXpFoBvlW2</a></p>&mdash; Asoc. de Directivos (@AEDtweets) <a href="https://twitter.com/AEDtweets/status/750289419664490496">5 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![datos_consultoria_espanola_2015](images/datos_consultoria_espanola_2015.png)](https://image-store.slidesharecdn.com/7ac618a4-bb3d-4733-ab9e-03153bf7744e-original.jpeg)
+
 [![spain_runs_out_of_workers_with_5_million_unemployed](images/spain_runs_out_of_workers_with_5_million_unemployed.png)](https://slashdot.org/story/16/07/02/1311247/spain-runs-out-of-workers-with-almost-5-million-unemployed)
 
 [![dilbert_resigns_higher_salary](images/dilbert_resigns_higher_salary.gif)](http://dilbert.com/strip/1996-04-23)

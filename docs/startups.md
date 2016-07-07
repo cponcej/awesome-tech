@@ -83,6 +83,8 @@
 
 [![crunchbase](images/crunchbase.png)](https://www.crunchbase.com)
 
+[![distribucion_ingresos_espana](images/distribucion_ingresos_espana.png)](https://image-store.slidesharecdn.com/7ac618a4-bb3d-4733-ab9e-03153bf7744e-original.jpeg)
+
 # Startups and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)
