@@ -113,6 +113,7 @@
 - [How to Answer 'Why Should I Hire You?' 🌟](https://www.entrepreneur.com/article/277683)
 - [10 Reasons Why You Haven’t Heard Back From A Recruiter 🌟🌟🌟](http://www.careerealism.com/reasons-why-havent-heard-recruiter/)
 - [#1 Darkest Fear of Every Job Seeker](https://www.linkedin.com/pulse/20121002131101-7668018--1-darkest-fear-of-every-job-seeker) 
+- [The Interview Secret HR Doesn't Want You To Know...](https://www.linkedin.com/pulse/interview-secret-hr-doesnt-want-you-know-j-t-o-donnell)
 
 [![bi_interview_question_about_money_is_trap](images/bi_interview_question_about_money_is_trap.png)](http://www.businessinsider.com/never-directly-answer-a-salary-question-2016-6)
 
