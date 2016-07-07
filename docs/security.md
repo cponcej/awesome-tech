@@ -239,6 +239,7 @@
 - [Microsoft’s Windows 10 Wants To Replace Your PC Antivirus With WDATP](https://www.devbattles.com/en/sand/post-2462-Microsofts_Windows_10_Wants_To_Replace_Your_PC_Antivirus_With_WDATP)
 - [nakedsecurity.sophos.com](https://nakedsecurity.sophos.com/)
 	- [nakedsecurity.sophos.com - Anatomy of an exploit: the Microsoft Word bug that just won’t die](https://nakedsecurity.sophos.com/2016/07/01/anatomy-of-an-exploit-the-microsoft-word-bug-that-just-wont-die/)
+- [Trendmicro: ¿Qué es el ransomware? 🌟🌟🌟](https://image-store.slidesharecdn.com/1d7d2982-9b05-49c2-b78c-0f71b9226dd5-original.jpeg)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 
