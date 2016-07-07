@@ -172,6 +172,8 @@
 </div>
 <br>
 
+[![jt_odonnell_4_things_before_job_hunt](images/jt_odonnell_4_things_before_job_hunt.png)](http://www.careerealism.com/job-hunt-need-to-know/)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you using this highly effective interview technique? <a href="https://t.co/eeWUCOic24">https://t.co/eeWUCOic24</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/705914978633551873">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
