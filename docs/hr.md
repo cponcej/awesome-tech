@@ -79,6 +79,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The most common complaint about meetings is actually pretty easy to fix: <a href="https://t.co/2LZudhYPrg">https://t.co/2LZudhYPrg</a> <a href="https://t.co/sh4tpgigC2">pic.twitter.com/sh4tpgigC2</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/747419462928842752">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![jtodonnell_purpose_talent](images/jtodonnell_purpose_talent.png)](https://business.linkedin.com/talent-solutions/blog/recruiting-strategy/2016/how-the-concept-of-purpose-can-make-a-huge-difference-in-attracting-talent)
+
 ## Flexible Work Policies
 - [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
@@ -131,6 +133,7 @@
 - [Multitasking is Killing Your Brain](https://medium.com/the-mission/multitasking-is-killing-your-brain-79104e62e930#.jwwyl5rc7)
 - [26 time-management tricks I wish I'd known at 20 🌟🌟](http://www.businessinsider.com/time-management-and-productivity-hacks-2016-7)
 - [What Are The Next Steps After Getting A Promotion? 🌟](http://www.careerealism.com/promotion-next-steps/)
+- [How the Concept of "Purpose" Can Make a Huge Difference in Attracting Talent 🌟🌟](https://business.linkedin.com/talent-solutions/blog/recruiting-strategy/2016/how-the-concept-of-purpose-can-make-a-huge-difference-in-attracting-talent)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
