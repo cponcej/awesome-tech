@@ -85,6 +85,7 @@
 - [slideshare: Troubleshooting Live Java Web Applications](http://www.slideshare.net/SpringCentral/puls-spring-one2gx)
 - [DZone refcard: java performance optimization 🌟🌟🌟🌟](https://dzone.com/refcardz/java-performance-optimization)
 - [genbetadev.com: ¿Por qué empresas que empiezan con lenguajes modernos se vuelven a Java? 🌟🌟](http://www.genbetadev.com/java-j2ee/por-que-empresas-que-empiezan-con-lenguajes-modernos-se-vuelven-a-java)
+- [Java EE devotees plot to seize control from Oracle 🌟🌟🌟](http://www.infoworld.com/article/3090528/java/java-ee-devotees-plot-to-seize-control-from-oracle.html)
 
 [![dzone_refcard_groovy](images/dzone_refcard_groovy.png)](https://dzone.com/refcardz/groovy)
 
