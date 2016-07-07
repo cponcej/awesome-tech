@@ -182,6 +182,14 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why do so many job interviewers stick to the same, tired job interview script? <a href="https://t.co/SMCo4gqacU">https://t.co/SMCo4gqacU</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/706248424157552640">5 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sY5BPvQbLdM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/programmers?src=hash">#programmers</a> these days be like <a href="https://t.co/BugqcIu5rg">pic.twitter.com/BugqcIu5rg</a></p>&mdash; unixstickers (@unixstickers) <a href="https://twitter.com/unixstickers/status/749606370845028352">3 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ask HN: How do detect a crappy boss / toxic environment when interviewing? | Hacker News <a href="https://twitter.com/hashtag/goodread?src=hash">#goodread</a>  <a href="https://t.co/KjaYBwktW2">https://t.co/KjaYBwktW2</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/718389363386818560">8 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Your Guide to Hiring a Good Programmer<a href="https://twitter.com/hashtag/Agile?src=hash">#Agile</a><a href="https://t.co/NyjK9hOxcJ">https://t.co/NyjK9hOxcJ</a><br><br>via <a href="https://twitter.com/hashtag/MVB?src=hash">#MVB</a> <a href="https://twitter.com/yegor256">@yegor256</a> <a href="https://t.co/9Mw1RvxCep">pic.twitter.com/9Mw1RvxCep</a></p>&mdash; DZone (@DZone) <a href="https://twitter.com/DZone/status/748123868007641088">29 de junio de 2016</a></blockquote>
