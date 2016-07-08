@@ -352,11 +352,6 @@
 
 [![dilbert_internal_competitors](images/dilbert_internal_competitors.gif)](http://dilbert.com/strip/1995-10-09)
 
-<div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jMIDpJ8H7H0?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-<br>
-
 ## Game theory
 
 <div class="container">
