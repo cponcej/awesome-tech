@@ -162,6 +162,14 @@
 
 ![business-commerce-interview](images/business-commerce-interview.jpg)
 
+[![bi_interview_question_facebook](images/bi_interview_question_facebook.png)](http://www.businessinsider.com/the-tricky-interview-question-facebook-uses-to-weed-out-selfish-candidates-2016-6)
+
+[![question_facebook_uses_to_measure_teamwok](images/question_facebook_uses_to_measure_teamwok.png)](http://www.businessinsider.com/the-tricky-interview-question-facebook-uses-to-weed-out-selfish-candidates-2016-6)
+
+[![inc_why_you_need_to_be_more_selfish](images/inc_why_you_need_to_be_more_selfish.png)](http://www.inc.com/sarah-vermunt/why-you-need-to-be-more-selfish-at-work.html)
+
+[![inc_why_you_need_to_be_more_selfish2](images/inc_why_you_need_to_be_more_selfish2.png)](http://www.inc.com/sarah-vermunt/why-you-need-to-be-more-selfish-at-work.html)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">78% of well-paying “middle-skill” positions call for basic proficiency with technology. <a href="https://t.co/K3dn8fWHVJ">https://t.co/K3dn8fWHVJ</a> <a href="https://t.co/ZRQSyj77no">pic.twitter.com/ZRQSyj77no</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/745315355027996672">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
