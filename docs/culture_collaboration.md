@@ -88,6 +88,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Maria Sharapova receives two-year suspension from tennis for failed drug test <a href="https://t.co/JVWuQMc9jp">https://t.co/JVWuQMc9jp</a> <a href="https://t.co/ccfi4kmjXl">pic.twitter.com/ccfi4kmjXl</a></p>&mdash; Business Insider (@businessinsider) <a href="https://twitter.com/businessinsider/status/740560273895985152">8 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![elizabeth_holmes_banned_for_2_years](images/elizabeth_holmes_banned_for_2_years.png)](http://thenextweb.com/insider/2016/07/08/theranos-elizabeth-holmes-banned-running-labs-2-years/)
+
 <div class="container">
 <iframe src="//es.slideshare.net/slideshow/embed_code/key/BYA1zNZmsN7dqC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/SuharshHarsha/business-etiquette-and-culture-in-europe" title="BUSINESS ETIQUETTE AND CULTURE IN EUROPE " target="_blank">BUSINESS ETIQUETTE AND CULTURE IN EUROPE </a> </strong> from <strong><a target="_blank" href="//es.slideshare.net/SuharshHarsha">Suharsh L</a></strong> </div>
 </div>
