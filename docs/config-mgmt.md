@@ -62,6 +62,10 @@
 
 [![dzone_microservices_vs_soa](images/dzone_microservices_vs_soa.png)](https://dzone.com/articles/microservices-vs-soa-2)
 
+[![dzone_soa_architecture](images/dzone_soa_architecture.png)](https://dzone.com/articles/microservices-vs-soa-2)
+
+[![dzone_microservices_architecture](images/dzone_microservices_architecture.png)](https://dzone.com/articles/microservices-vs-soa-2)
+
 [![Updated map of the microservices ecosystem](images/microservices_ecosystem_map.png)](http://techcrunch.com/2016/01/23/get-small-to-get-big-through-microservices/) 
 
 ![extraordinary](images/extraordinary.gif)
