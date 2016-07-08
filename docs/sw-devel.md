@@ -46,6 +46,8 @@
 
 [![venturebeat_redhat_3scale_api](images/venturebeat_redhat_3scale_api.png)](http://venturebeat.com/2016/06/22/red-hat-acquires-api-management-company-3scale-will-open-source-the-code/)
 
+[![dzone_peformance_zone](images/dzone_peformance_zone.png)](https://dzone.com/apm-tools-performance-monitoring-optimization)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Which Career to Choose: Programmer Vs Administrator <a href="http://t.co/JWYZS7mfjz">http://t.co/JWYZS7mfjz</a> via <a href="https://twitter.com/tecmint">@tecmint</a></p>&mdash; TecMint.com (@tecmint) <a href="https://twitter.com/tecmint/status/472604266905886720">31 de mayo de 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
