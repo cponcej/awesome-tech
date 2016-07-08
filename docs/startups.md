@@ -476,6 +476,11 @@
 
 [![pernicioso_circulo_carnicas_no_empresas_sw](images/pernicioso_circulo_carnicas_no_empresas_sw.png)](http://www.genbetadev.com/trabajar-como-desarrollador/el-pernicioso-circulo-vicioso-de-las-carnicas-las-consultoras-no-son-empresas-de-software)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0M6rBgPPa3c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![welcome_to_desperate_economy](images/welcome_to_desperate_economy.png)](https://www.linkedin.com/pulse/game-jobs-3-welcome-desperate-economy-nachi-junankar)
 
 [![dejo_la_informatica](images/dejo_la_informatica.png)](http://www.javiergarzas.com/2014/07/los-siento-dejo-la-profesion-dejo-la-informatica-y-dedico-otra-cosa.html)
