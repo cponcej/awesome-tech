@@ -177,6 +177,7 @@
 - [Automated Software Testing of Fusion Middleware applications with FlexDeploy](http://adfpractice-fedor.blogspot.com.br/2015/10/automated-software-testing-of-fusion.html)
 - [WLSDM | Native WebLogic Smart Dashboard & Monitoring](http://www.wlsdm.com) WLSDM is a WebLogic console extension which enables monitoring for WebLogic MBean metrics. It is very easy to create alarms and notifications by using WLSDM metric browser. WLSDM can store any WebLogic metric values historically and also can generate graphical reports.
 	- [Advanced WebLogic Monitoring: Develop JMX MBeans and Automate with WLSDM Metric Actions 🌟](http://www.wlsdm.com/tutorials/advanced-weblogic-monitoring-develop-jmx-mbeans-and-automate-with-wlsdm-metric-actions/)
+- [DZone: WebLogic Performance and Tuning: Part 1 🌟🌟🌟](https://dzone.com/articles/weblogic-performance-and-tuning-part-1) The Java Virtual machine, or JVM, on which WebLogic server runs, is the single most important software component of your system. Fortunately, it is not terribly difficult to properly configure your JVM.
 
 #### WebLogic and Docker
 - [WebLogic and Docker](docker.md#weblogic-via-docker)

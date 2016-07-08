@@ -31,6 +31,8 @@
 
 [![grafana](images/grafana.png)](http://grafana.org/)
 
+[![dzone_peformance_zone](images/dzone_peformance_zone.png)](https://dzone.com/apm-tools-performance-monitoring-optimization)
+
 # Metrics
 ## Web Performance Testing. Traffic injectors
 ### JMeter
@@ -91,7 +93,7 @@
 - [Google Launches New website Testing tool for Small Businesses](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
 
 ### Alternatives
-- [Siege, a CLI tool ideal for a simple testing of AWS Auto Scaling](https://www.joedog.org/siege-home/)
+- [Siege, a CLI tool ideal for a simple testing of AWS Auto Scaling 🌟](https://www.joedog.org/siege-home/)
 - [Grinder](http://grinder.sourceforge.net/)
 - [xmodulo.com: What are good web server benchmarking tools for Linux](http://xmodulo.com/web-server-benchmarking-tools-linux.html)
 - [Performance Testing With Real Browsers: using Selenium WebDriver with BlazeMeter and/or JMeter on its own](https://blazemeter.com/blog/view-webcast-performance-testing-real-browsers)
@@ -99,8 +101,17 @@
 	- [httpress](https://bitbucket.org/yarosla/httpress/wiki/Home)
 - [ApacheBench](https://en.wikipedia.org/wiki/ApacheBench)
 	- [digitalocean.com: How To Use ApacheBench To Do Load Testing on an Ubuntu 13.10 VPS](https://www.digitalocean.com/community/tutorials/how-to-use-apachebench-to-do-load-testing-on-an-ubuntu-13-10-vps)
+- [DZone: How to Easily Load Test With Open Source Tools 🌟🌟🌟](https://dzone.com/articles/how-to-easily-load-test-with-open-source-tools) Learn how to use open source tools for testing in continuous delivery environments presented by Noga Cohen of BlazeMeter.
+    - [Taurus 🌟](http://gettaurus.org/) Automation-friendly framework for Continuous Testing. Taurus improves experience of JMeter, Selenium and others. 
+    - [Gatling stress tool 🌟](http://gatling.io) 
+    - [Locust 🌟](http://locust.io/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Para ser un buen <a href="https://twitter.com/hashtag/SysAdmin?src=hash">#SysAdmin</a> de red aprende a monitorear el rendimiento de servidores <a href="https://twitter.com/hashtag/Apache?src=hash">#Apache</a> <a href="https://t.co/YP6OBrI0Yn">https://t.co/YP6OBrI0Yn</a> <a href="https://t.co/iLFVlYIrHP">pic.twitter.com/iLFVlYIrHP</a></p>&mdash; Solvetic (@solvetic) <a href="https://twitter.com/solvetic/status/715657005881561088">31 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/hRFxCf9w7oo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ## Metric monitoring
 ### Tools
