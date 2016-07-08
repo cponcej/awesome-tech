@@ -105,6 +105,7 @@
 - [capgemini.com: DevOps with Quality - Achieving the desired quality at every stage of the DevOps lifecycle 🌟🌟🌟](https://www.capgemini.com/resources/devops-with-quality-achieving-the-desired-quality-at-every-stage-of-the-devops-lifecycle)
 - [DZone: 3 Reasons Why People Write Insanely Bad Code 🌟](https://dzone.com/articles/3-reasons-why-people-write-insanely-bad-code) Ever wondered why you see bad code... everywhere? There are a few reasons why this keeps happening.
 - [DZone: Detecting Java Race Conditions With Tests Part 2: Non-Atomic Updates](https://dzone.com/articles/detecting-java-race-conditions-with-tests-part-2-n-1) If you update a field from different threads, you must make sure the field isn't updated by one thread between the read and write of another. This article shows how you can test it.
+- [DZone: What Is Regression Testing? 🌟](https://dzone.com/articles/what-is-regression-testing) Regression testing is a type of functional testing that checks for issues that are introduced by new additions or updates to the codebase. This post deep dives into exactly what it consists of and when you should be doing it.
 
 [![dzone_refcard_refactoring_patterns](images/dzone_refcard_refactoring_patterns.png)](https://dzone.com/refcardz/refactoring-patterns)
 

@@ -39,6 +39,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">5-minute deployments? It&#39;s not a dream, it&#39;s a reality at <a href="https://twitter.com/jcrew">@jcrew</a> w/ a little help from <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a> &amp; <a href="https://twitter.com/ansible">@ansible</a> <a href="https://twitter.com/hashtag/RHSummit?src=hash">#RHSummit</a> <a href="https://t.co/e4odDhmo7I">https://t.co/e4odDhmo7I</a></p>&mdash; Red Hat, Inc. (@RedHatNews) <a href="https://twitter.com/RedHatNews/status/748945015695511553">1 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![mastering_ansible_udemy](images/mastering_ansible_udemy.png)](https://www.udemy.com/mastering-ansible/)
+
 # Ansible
 - [docs.ansible.com 🌟🌟🌟🌟](http://docs.ansible.com)
 - [releases.ansible.com](http://releases.ansible.com)
