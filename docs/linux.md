@@ -693,6 +693,7 @@
 - [nixCraft: Ubuntu/Debian Linux Server Install Keychain SSH Key Manager For OpenSSH 🌟🌟](http://www.cyberciti.biz/faq/ubuntu-debian-linux-server-install-keychain-apt-get-command/)
 - [linux.com: 5 SSH Hardening Tips 🌟🌟🌟](https://www.linux.com/learn/5-ssh-hardening-tips)
 - [nixCraft: {Updated} How To Setup SSH Keys on a Linux/Unix System 🌟🌟🌟](http://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
+- [DZone: SSH From the Ground Up 🌟🌟](https://dzone.com/articles/ssh-from-the-ground-up) We use SSH for so much today. The toolset it provides is powerful and useful, but even if you use it every day you probably don't know it as well as you should. Fix that with this primer.
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6sQGpxBbycM9eE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/shahhe/introduction-to-ssh" title="Introduction to SSH" target="_blank">Introduction to SSH</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/shahhe">Hemant Shah</a></strong> </div>
