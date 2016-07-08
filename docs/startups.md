@@ -394,9 +394,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">This Tube map shows why renting in London has become unaffordable <a href="https://t.co/9AQ4D4I7MD">https://t.co/9AQ4D4I7MD</a> <a href="https://t.co/n4bzhG6Zcy">pic.twitter.com/n4bzhG6Zcy</a></p>&mdash; Mashable (@mashable) <a href="https://twitter.com/mashable/status/718375354411458561">8 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/mkaVAreHByWpO5" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IQGroup/london-vs-tunbridge-wells" title="London Vs. Tunbridge Wells" target="_blank">London Vs. Tunbridge Wells</a> </strong> from <strong><a href="//www.slideshare.net/IQGroup" target="_blank">InterQuest Group</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/mkaVAreHByWpO5" width="668" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IQGroup/london-vs-tunbridge-wells" title="London Vs. Tunbridge Wells" target="_blank">London Vs. Tunbridge Wells</a> </strong> from <strong><a href="//www.slideshare.net/IQGroup" target="_blank">InterQuest Group</a></strong> </div>
 </div>
-<br>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">ML Salaries in Europe: Given the field of ML/Data Mining is, at its core, all about data, I thought it was rat... <a href="http://t.co/oCEudlWfov">http://t.co/oCEudlWfov</a></p>&mdash; InfoSysDataSciReddit (@InfoSysReddit) <a href="https://twitter.com/InfoSysReddit/status/645497290719784960">septiembre 20, 2015</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
