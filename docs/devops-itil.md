@@ -320,7 +320,7 @@
 
 ## Agile planning: Scrum, Kanban, Lean
 - [Manifesto for Agile Software Development 🌟🌟🌟🌟🌟](http://agilemanifesto.org)
-- [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge 🌟](http://www.scrumguides.org/)
+- [Scrumguides.org: Scrum’s creators seek definitive place for Scrum knowledge 🌟🌟🌟](http://www.scrumguides.org/)
 - [Why estimates never work 🌟🌟🌟](http://www.brandonsavage.net/why-estimates-never-work/)
 - [In Support of DevOps: Kanban vs. Scrum](http://devops.com/2014/07/29/kanban-vs-scrum/)
 - [You will not become agile by implementing scrum 🌟](https://www.linkedin.com/pulse/you-become-agile-implementing-scrum-jurriaan-kamer)
@@ -331,6 +331,8 @@
 - [enterprisersproject.com: A conversation with Gene Kim on DevOps, waterfall development, and containers](https://enterprisersproject.com/article/2015/4/conversation-gene-kim-devops-waterfall-development-and-containers)
 - [opensource.com - Scrum is dead: breaking down the new open development method](https://opensource.com/business/15/11/open-development-method)
 - [DZone refcard: Scrum 🌟🌟](https://dzone.com/refcardz/scrum)
+
+[![scrumguides](images/scrumguides.png)](http://www.scrumguides.org/)
 
 [![agile manifesto](images/agile_manifesto.png)](http://www.agilemanifesto.org/)
 

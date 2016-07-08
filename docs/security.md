@@ -9,6 +9,7 @@
 	- [OpenSCAP and Lynis. Open Source security auditing tools](#openscap-and-lynis-open-source-security-auditing-tools)
 	- [Cisco Security Advisories and Responses](#cisco-security-advisories-and-responses)
 	- [Security Blogs](#security-blogs)
+			- [Security articles](#security-articles)
 		- [Blogs de Seguridad Informática](#blogs-de-seguridad-informática)
 		- [Network Security](#network-security)
 	- [Security on Twitter](#security-on-twitter)
@@ -151,6 +152,7 @@
 	- [NetSecNow on Youtube](https://www.youtube.com/user/NetSecNow)
 - [hacking-etico.com](http://hacking-etico.com)
 - [Hack In The Box Security Conference 🌟](https://www.youtube.com/user/hitbsecconf)
+- [infosecurity-magazine.com 🌟🌟](http://www.infosecurity-magazine.com/)
 
 [![NetSecNow](images/NetSecNow.jpg)](https://www.youtube.com/user/NetSecNow)
 
@@ -158,6 +160,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">6 cybersecurity and emergency situations every IT depart should train for <a href="https://t.co/bXt7mDf9BA">https://t.co/bXt7mDf9BA</a> by <a href="https://twitter.com/patgrayjr">@patgrayjr</a> <a href="https://t.co/gvGygVZGVc">pic.twitter.com/gvGygVZGVc</a></p>&mdash; TechRepublic (@TechRepublic) <a href="https://twitter.com/TechRepublic/status/747513603968864260">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### Security articles
+- [Cybersecurity isn’t Rocket Science!](http://www.infosecurity-magazine.com/opinions/cybersecurity-isnt-rocket-science/)
 
 ### Blogs de Seguridad Informática
 - [elladodelmal.com - Chema Alonso](http://www.elladodelmal.com)

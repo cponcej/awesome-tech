@@ -29,6 +29,8 @@
 - [How to Install Elastic Stack (ELK) on Red Hat Enterprise Linux (RHEL)](http://developers.redhat.com/blog/2016/06/07/how-to-install-elastic-stack-elk-on-red-hat-enterprise-linux-rhel/)
 - [Writing Python Scripts that Interact with Elasticsearch Plus Useful Examples 🌟](https://qbox.io/blog/python-scripts-interact-elasticsearch-examples)
 - [Which ELK Stack Solution Is Right for You? 🌟🌟🌟](https://dzone.com/articles/which-elk-stack-solution-is-right-for-you) Clare Avieli takes a look at four cloud-hosted ELK solutions that all seek to offer an easy and scalable way to use stack and summarizes her results.
+- [Anatomy of an Elasticsearch Cluster: Part I](http://insightdataengineering.com/blog/elasticsearch-crud/)
+    - [Anatomy of an Elasticsearch Cluster: Part II](http://insightdataengineering.com/blog/elasticsearch-core/)
 
 [![dzone_which_elk_solution](images/dzone_which_elk_solution.png)](https://dzone.com/articles/which-elk-stack-solution-is-right-for-you)
 
