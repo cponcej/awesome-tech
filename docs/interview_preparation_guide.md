@@ -125,6 +125,7 @@
 - [10 Reasons Why You Haven’t Heard Back From A Recruiter 🌟🌟🌟](http://www.careerealism.com/reasons-why-havent-heard-recruiter/)
 - [#1 Darkest Fear of Every Job Seeker](https://www.linkedin.com/pulse/20121002131101-7668018--1-darkest-fear-of-every-job-seeker) 
 - [The Interview Secret HR Doesn't Want You To Know...](https://www.linkedin.com/pulse/interview-secret-hr-doesnt-want-you-know-j-t-o-donnell)
+- [Rejection: It's not about you](https://www.linkedin.com/pulse/rejection-its-you-jay-kaufmann)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
@@ -169,6 +170,11 @@
 [![inc_why_you_need_to_be_more_selfish](images/inc_why_you_need_to_be_more_selfish.png)](http://www.inc.com/sarah-vermunt/why-you-need-to-be-more-selfish-at-work.html)
 
 [![inc_why_you_need_to_be_more_selfish2](images/inc_why_you_need_to_be_more_selfish2.png)](http://www.inc.com/sarah-vermunt/why-you-need-to-be-more-selfish-at-work.html)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkmi_UTsjtE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">78% of well-paying “middle-skill” positions call for basic proficiency with technology. <a href="https://t.co/K3dn8fWHVJ">https://t.co/K3dn8fWHVJ</a> <a href="https://t.co/ZRQSyj77no">pic.twitter.com/ZRQSyj77no</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/745315355027996672">21 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -236,6 +242,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Tres simuladores para practicar tu <a href="https://twitter.com/hashtag/entrevista?src=hash">#entrevista</a> de <a href="https://twitter.com/hashtag/trabajo?src=hash">#trabajo</a> <a href="https://t.co/GKCD2PXC6C">https://t.co/GKCD2PXC6C</a> vía <a href="https://twitter.com/Infoempleo">@Infoempleo</a> <a href="https://twitter.com/hashtag/orientacionline?src=hash">#orientacionline</a> <a href="https://twitter.com/hashtag/orientaci%C3%B3n?src=hash">#orientación</a></p>&mdash; Orientación_Online (@Orientacionline) <a href="https://twitter.com/Orientacionline/status/737269053832736769">30 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-5iCygFd9M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to answer dumb job interview questions in Silicon Valley <a href="https://t.co/5q4WFLRBnH">https://t.co/5q4WFLRBnH</a> <a href="https://t.co/ROOXCIHBnb">pic.twitter.com/ROOXCIHBnb</a></p>&mdash; Forbes Tech News (@ForbesTech) <a href="https://twitter.com/ForbesTech/status/733391780385853440">19 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
