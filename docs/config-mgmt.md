@@ -121,6 +121,16 @@
 
 [![Pro-Vagrant](images/Pro-Vagrant.png)](http://www.wowebook.org/pro-vagrant.html)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5LVJbmkS2hdsuJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/opscode/multi-providervagrantmitchellhashimoto" title="Multi-provider Vagrant and Chef: AWS, VMware, and more" target="_blank">Multi-provider Vagrant and Chef: AWS, VMware, and more</a> </strong> from <strong><a href="//www.slideshare.net/opscode" target="_blank">Chef Software, Inc.</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Ai5fUyOPrDi9m" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/juanvicenteherrera/md-vagrant-chefawssept2013novideo" title="Immutable servers provided by Vagrant/Chef/AWS" target="_blank">Immutable servers provided by Vagrant/Chef/AWS</a> </strong> from <strong><a href="//www.slideshare.net/juanvicenteherrera" target="_blank">Juan Vicente Herrera Ruiz de Alejo</a></strong> </div>
+</div>
+<br/>
+
 ## Ansible
 - [Ansible](ansible.md)
 
