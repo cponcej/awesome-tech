@@ -141,6 +141,11 @@
 <br/>
 
 <div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOir8mMAX9U?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/J5saN0sbo4cgTE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Examure4/aws-certified-solutions-architect-exam-questions-answers" title="AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers" target="_blank">AWS CERTIFIED SOLUTIONS ARCHITECT Exam Questions Answers</a> </strong> from <strong><a href="//www.slideshare.net/Examure4" target="_blank">Examure4</a></strong> </div>
 </div>
 <br/>
