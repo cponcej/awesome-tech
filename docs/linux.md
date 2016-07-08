@@ -166,6 +166,9 @@
 
 [![linuxsay](images/linuxsay.png)](http://linuxsay.com/)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Visit our YouTube Channel and SUBSCRIBE, It&#39;s free!<a href="https://t.co/9kACbmd4vg">https://t.co/9kACbmd4vg</a><a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/sysadminshowto?src=hash">#sysadminshowto</a> <a href="https://twitter.com/hashtag/cbt?src=hash">#cbt</a></p>&mdash; SysAdmíns Howto (@SysAdmHowto) <a href="https://twitter.com/SysAdmHowto/status/743950692788895748">17 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Alternatives
 - [FOSS Force](http://fossforce.com/)
 - [opensource.com](https://opensource.com/)

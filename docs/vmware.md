@@ -128,6 +128,9 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">VMware vSphere Performance Resolution Cheat Sheet<br>ReTweet to spread knowledge<a href="https://twitter.com/hashtag/VMware?src=hash">#VMware</a> <a href="https://twitter.com/hashtag/vSphere?src=hash">#vSphere</a> <a href="https://twitter.com/hashtag/esxi?src=hash">#esxi</a> <a href="https://twitter.com/hashtag/vcenter?src=hash">#vcenter</a> <a href="https://t.co/vKShdhKi8R">pic.twitter.com/vKShdhKi8R</a></p>&mdash; SysAdmíns Howto (@SysAdmHowto) <a href="https://twitter.com/SysAdmHowto/status/747079162716950528">26 de junio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/BMNPJmyDW82d7R" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/masafumi_ohta/linux-on-v-mware-es-xi-4738633" title="Linux On V Mware ESXi" target="_blank">Linux On V Mware ESXi</a> </strong> from <strong><a href="//www.slideshare.net/masafumi_ohta" target="_blank">Masafumi Ohta</a></strong> </div>
 </div>
