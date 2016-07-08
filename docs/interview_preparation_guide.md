@@ -29,6 +29,8 @@
 
 ![linkedin_professional_criticism](images/linkedin_professional_criticism.png)
 
+[![bi_linkedin_10secs](images/bi_linkedin_10secs.png)](http://www.businessinsider.com/your-linkedin-profile-should-reveal-these-10-things-2016-7)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/iM11wnRwlC">https://t.co/iM11wnRwlC</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747069828121399296">26 de junio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Diversity in tech and the challenges of unconscious bias: <a href="https://t.co/s98C7uh8e5">https://t.co/s98C7uh8e5</a></p>&mdash; Open Source Way (@opensourceway) <a href="https://twitter.com/opensourceway/status/711967611030888448">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
