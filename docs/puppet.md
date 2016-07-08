@@ -161,6 +161,11 @@
 <br/>
 
 <div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fvI4rXQQfGbAN3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bobtfish/chasing-ami-puppetcamplondonapr2014" title="Chasing AMI - Building Amazon machine images with Puppet, Packer and Jenkins" target="_blank">Chasing AMI - Building Amazon machine images with Puppet, Packer and Jenkins</a> </strong> from <strong><a href="//www.slideshare.net/bobtfish" target="_blank">Tomas Doran</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pnn7fqBKI4E?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>

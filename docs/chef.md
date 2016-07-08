@@ -48,6 +48,21 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4fSuHqpVD6PDQS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/app308-chef-on-aws-deep-dive-aws-reinvent-2014" title="(APP308) Chef on AWS: Deep Dive | AWS re:Invent 2014" target="_blank">(APP308) Chef on AWS: Deep Dive | AWS re:Invent 2014</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/z1MOL3O5jM8Wz1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/markghiasy/aws-meetup-sydney-february-45783126" title="AWS Meetup - Sydney - February " target="_blank">AWS Meetup - Sydney - February </a> </strong> from <strong><a href="//www.slideshare.net/markghiasy" target="_blank">markghiasy</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5jZwtCxH9i62TO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/gmiranda23/ec2-provisioning-withchefberkshelfandpackerchefamifactory" title="EC2 AMI Factory with Chef, Berkshelf, and Packer" target="_blank">EC2 AMI Factory with Chef, Berkshelf, and Packer</a> </strong> from <strong><a href="//www.slideshare.net/gmiranda23" target="_blank">George Miranda</a></strong> </div>
+</div>
+<br/>
+
 ## Chef Slides
 - [Chef on slideshare](http://www.slideshare.net/opscode)
 
@@ -60,6 +75,16 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3vsGBOv3OtDabb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Joncak/learning-chef" title="Learning chef" target="_blank">Learning chef</a> </strong> from <strong><a href="//www.slideshare.net/Joncak" target="_blank">Jonathan Carrillo</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5LVJbmkS2hdsuJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/opscode/multi-providervagrantmitchellhashimoto" title="Multi-provider Vagrant and Chef: AWS, VMware, and more" target="_blank">Multi-provider Vagrant and Chef: AWS, VMware, and more</a> </strong> from <strong><a href="//www.slideshare.net/opscode" target="_blank">Chef Software, Inc.</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Ai5fUyOPrDi9m" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/juanvicenteherrera/md-vagrant-chefawssept2013novideo" title="Immutable servers provided by Vagrant/Chef/AWS" target="_blank">Immutable servers provided by Vagrant/Chef/AWS</a> </strong> from <strong><a href="//www.slideshare.net/juanvicenteherrera" target="_blank">Juan Vicente Herrera Ruiz de Alejo</a></strong> </div>
 </div>
 <br/>
 
