@@ -34,6 +34,8 @@
     - [AWS Developer Blog](#aws-developer-blog)
     - [AWS Lambda](#aws-lambda)
     - [AWS Cloud Formation](#aws-cloud-formation)
+    - [AWS for Windows](#aws-for-windows)
+    - [Continuous Deployment with AWS. iCook recipe sharing platform](#continuous-deployment-with-aws-icook-recipe-sharing-platform)
     - [AWS Security](#aws-security)
         - [Payment Card Industry Data Security Standard compliance](#payment-card-industry-data-security-standard-compliance)
         - [AWS IAM](#aws-iam)
@@ -308,12 +310,18 @@
 
 ## AWS OpsWorks
 - [AWS OpsWorks](https://aws.amazon.com/opsworks/)
+- [AWS OpsWorks - Chef Versions](http://docs.aws.amazon.com/opsworks/latest/userguide/workingcookbook-chef11.html)
 - [youtube: AWS OpsWorks Overview and Demo](https://www.youtube.com/watch?v=cj_LoG6C2xk&list=PLR3sVanzLpJN6BiYS20K4BMPpiDGifbZy)
 
 [![aws_opsworks_centos](images/aws_opsworks_centos.png)](https://aws.amazon.com/es/about-aws/whats-new/2016/06/aws-opsworks-supports-centos/)
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TPc4zdFg12M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/16EYvlqLrbhTNT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/dvo301-aws-opsworks-under-the-hood" title="(DVO301) AWS OpsWorks Under the Hood" target="_blank">(DVO301) AWS OpsWorks Under the Hood</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
 </div>
 <br/>
 
@@ -455,6 +463,25 @@
 ## AWS Cloud Formation
 - [AWS Cloud Formation Release History](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)
 - [All the AWS Resource Types Reference for AWS CloudFormation ](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
+
+## AWS for Windows
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/iwoF2R0A0to5gv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/dvo310-benefit-from-devops-when-moving-to-aws-for-windows" title="(DVO310) Benefit from DevOps When Moving to AWS for Windows" target="_blank">(DVO310) Benefit from DevOps When Moving to AWS for Windows</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/aJl79BW5dQ5GtJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/introducing-aws-opsworks-for-windows-server" title="AWS July Webinar Series: Introducing AWS OpsWorks for Windows Server" target="_blank">AWS July Webinar Series: Introducing AWS OpsWorks for Windows Server</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+## Continuous Deployment with AWS. iCook recipe sharing platform 
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gJQWuANbI3tKpA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/customer-sharing-icook-continuous-deployment-with-aws" title="Customer Sharing: iCook - Continuous Deployment with AWS" target="_blank">Customer Sharing: iCook - Continuous Deployment with AWS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
 
 ## AWS Security
 - [AWS Security Blog](http://blogs.aws.amazon.com/security)
