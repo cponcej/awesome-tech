@@ -13,7 +13,7 @@
     - [Closed groups for AWS certified professionals](#closed-groups-for-aws-certified-professionals)
     - [AWS re:Invent 2015](#aws-reinvent-2015)
     - [AWS Architecture Blog, Official Blog, AWS Labs, AWS Quick Start](#aws-architecture-blog-official-blog-aws-labs-aws-quick-start)
-    - [AWS tips](#aws-tips)
+    - [AWS tips. AWS Performance. Handling AWS Failures and Outages](#aws-tips-aws-performance-handling-aws-failures-and-outages)
     - [AWS New Features](#aws-new-features)
     - [AWS Management Console](#aws-management-console)
     - [AWS Schema Conversion Tool](#aws-schema-conversion-tool)
@@ -184,12 +184,16 @@
 - [InfoWorld Review – Amazon Aurora Rocks MySQL](https://aws.amazon.com/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/)
 - [AWS Cost Explorer Update – Access to EC2 Usage Data](https://aws.amazon.com/blogs/aws/aws-cost-explorer-update-access-to-ec2-usage-data/)
 
-## AWS tips
+## AWS tips. AWS Performance. Handling AWS Failures and Outages
 - [AWS Tips I Wish I'd Known Before I Started (Feb 2014) 🌟🌟🌟](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/) A collection of random tips for Amazon Web Services (AWS) that I wish I'd been told a few years ago, based on what I've learned by building and deploying various applications on AWS.
 - [Amazon AWS Tips and Gotchas – Part 1 (Feb 2016)](http://www.tekhead.org/blog/2016/02/amazon-aws-tips-and-gotchas-part-1/)
 - [DZone: 5 Tips for Better AWS Performance 🌟🌟](https://dzone.com/articles/5-tips-for-better-aws-performance) The Ngnix team has a nice list of tips for better performance when using the AWS services. Some of them are related to Ngnix, but others are completely usable for anyone.
 - [How do I get started with AWS cloud computing? 🌟🌟🌟](https://aws.amazon.com/premiumsupport/knowledge-center/get-started-aws/)
 - [DZone: Dude, Where's My Performance? 🌟🌟](https://dzone.com/articles/dude-wheres-my-performance)
+- [DZone: A Guide to Performance Challenges with AWS EC2: Part 1](https://blog.appdynamics.com/cloud/a-guide-to-performance-challenges-with-aws-ec2-part-1/) 
+- [DZone: A Guide to Performance Challenges With AWS EC2: Part 2](https://dzone.com/articles/a-guide-to-performance-challenges-with-aws-ec2-par-1) Using Amazon Web Services? Learn how to get your Elastic Compute Cloud instances to perform better than your competitors.
+- [DZone: A Guide to Performance Challenges With AWS EC2: Part 3](https://dzone.com/articles/a-guide-to-performance-challenges-with-aws-ec2-par-2) In the second part of his guide covering performance challenges in AWS EC2, Saba Anees covers instances and the right applications for your workloads.
+- [DZone: A Guide to Performance Challenges With AWS EC2: Part 4 🌟🌟🌟](https://dzone.com/articles/a-guide-to-performance-challenges-with-aws-ec2-par-3) In the final part of his series covering performance challenges with AWS EC2, Saba Anees goes over poor ELB performance and handling AWS failures and outages.
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/nvFyKjg81DaHtz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AmazonWebServices/bootcamp-getting-started-on-aws" title="Bootcamp: Getting Started on AWS" target="_blank">Bootcamp: Getting Started on AWS</a> </strong> from <strong><a href="//www.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
