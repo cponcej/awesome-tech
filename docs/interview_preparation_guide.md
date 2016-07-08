@@ -61,6 +61,13 @@
 
 [![dilbert_new_assignment](images/dilbert_new_assignment.gif)](http://dilbert.com/strip/2008-12-18)
 
+[![10_fastest-growing_tech_skills](images/10_fastest-growing_tech_skills.jpg)](http://www.computerworld.com/article/3064436/it-skills-training/10-fastest-growing-tech-skills.html)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/7u34JkyVLROPz" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IQGroup/top-10-tech-jobs-for-2016" title="Top 10 Tech Jobs for 2016" target="_blank">Top 10 Tech Jobs for 2016</a> </strong> from <strong><a href="//www.slideshare.net/IQGroup" target="_blank">InterQuest Group</a></strong> </div>
+</div>
+<br/>
+
 # Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
@@ -204,6 +211,11 @@
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/RQLY2xKLlDk?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/J4vIu5qJl4L9rD" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IQGroup/how-to-make-your-linkedin-profile-desireable" title="How To Make Your LinkedIn Profile Desireable" target="_blank">How To Make Your LinkedIn Profile Desireable</a> </strong> from <strong><a href="//www.slideshare.net/IQGroup" target="_blank">InterQuest Group</a></strong> </div>
 </div>
 <br>
 

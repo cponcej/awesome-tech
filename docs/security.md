@@ -220,6 +220,16 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">&quot;Securing Your Virtual Environment&quot; <a href="https://t.co/IJXr5RfNnZ">https://t.co/IJXr5RfNnZ</a> <a href="https://twitter.com/hashtag/RedHatConsulting?src=hash">#RedHatConsulting</a> <a href="https://twitter.com/hashtag/RedHat?src=hash">#RedHat</a></p>&mdash; Jose Simonelli (@ubercloud) <a href="https://twitter.com/ubercloud/status/742855688951582721">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/t0MvDZbR7oHOH3" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IQGroup/most-in-demand-information-security-skills" title="Most In Demand Information Security Skills" target="_blank">Most In Demand Information Security Skills</a> </strong> from <strong><a href="//www.slideshare.net/IQGroup" target="_blank">InterQuest Group</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pXRqukKAUn7xq6" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IQGroup/top-10-highest-paid-information-security-jobs" title="Top 10 Highest Paid Information Security Jobs " target="_blank">Top 10 Highest Paid Information Security Jobs </a> </strong> from <strong><a href="//www.slideshare.net/IQGroup" target="_blank">InterQuest Group</a></strong> </div>
+</div>
+<br/>
+
 ## Security Podcasts
 - [phoneboy.com](https://phoneboy.com/)
 

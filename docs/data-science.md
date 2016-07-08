@@ -115,6 +115,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">I added a video to a <a href="https://twitter.com/YouTube">@YouTube</a> playlist <a href="https://t.co/znBOF9N3pq">https://t.co/znBOF9N3pq</a> Moneyball Trailer 2011 HD</p>&mdash; Mr S Sinclair (@businessbgs01) <a href="https://twitter.com/businessbgs01/status/704341618325897216">29 de febrero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xP0wYfN8YGYSyW" width="668" height="5553" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IQGroup/top-10-highest-paying-analytics-jobs" title="Top 10 Highest Paying Analytics Jobs " target="_blank">Top 10 Highest Paying Analytics Jobs </a> </strong> from <strong><a href="//www.slideshare.net/IQGroup" target="_blank">InterQuest Group</a></strong> </div>
+</div>
+<br/>
+
 ## Google Analytics
 - [Google Analytics para principiantes](http://www.contunegocio.es/tecnologia/google-analytics-para-principiantes-i/)
 
