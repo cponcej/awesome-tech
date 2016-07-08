@@ -126,6 +126,7 @@
 - [#1 Darkest Fear of Every Job Seeker](https://www.linkedin.com/pulse/20121002131101-7668018--1-darkest-fear-of-every-job-seeker) 
 - [The Interview Secret HR Doesn't Want You To Know...](https://www.linkedin.com/pulse/interview-secret-hr-doesnt-want-you-know-j-t-o-donnell)
 - [Rejection: It's not about you](https://www.linkedin.com/pulse/rejection-its-you-jay-kaufmann)
+- [What To Write In A Thank You Email After Your Interview](http://www.careerealism.com/thank-you-email-after-interview/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
