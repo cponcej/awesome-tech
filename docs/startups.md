@@ -263,9 +263,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los gigantes tecnológicos acumulan $1,680,000,000,000 en caja. No se ni como se dice el ese numero 😄 vía <a href="https://twitter.com/ValaAfshar">@ValaAfshar</a> <a href="https://t.co/sPXtUzTU2Q">pic.twitter.com/sPXtUzTU2Q</a></p>&mdash; Roberto García Esteb (@72rge) <a href="https://twitter.com/72rge/status/737377154783182848">30 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="container">
-<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x42fpcl" allowfullscreen class="video"></iframe><br /><a href="http://www.dailymotion.com/video/x42fpcl_las-companias-tecnologicas-mas-valiosas-del-mundo_tech" target="_blank">Las compa&ntilde;&iacute;as tecnol&oacute;gicas m&aacute;s valiosas del mundo</a> <i>por <a href="http://www.dailymotion.com/ticbeat" target="_blank">ticbeat</a></i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjCquJ6fp-E?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<br/>
+<br>
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jNk1Wr6jLOM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
