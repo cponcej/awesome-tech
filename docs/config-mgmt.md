@@ -26,8 +26,9 @@
 </div>
 <br/>
 
-# Configuration Management and Orchestration
+[![dzone_integration_zone](images/dzone_integration_zone.png)](https://dzone.com/enterprise-integration-training-tools-news)
 
+# Configuration Management and Orchestration
 ## Microservices
 - [microservices.io](http://microservices.io)
 - Building applications with a microservices architecture:
