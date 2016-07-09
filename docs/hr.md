@@ -82,6 +82,11 @@
 
 [![jtodonnell_purpose_talent](images/jtodonnell_purpose_talent.png)](https://business.linkedin.com/talent-solutions/blog/recruiting-strategy/2016/how-the-concept-of-purpose-can-make-a-huge-difference-in-attracting-talent)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OXrSlpJT_5M?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Flexible Work Policies
 - [medium: Oh Sh*t. Your top female talent is pregnant](https://medium.com/swlh/oh-sh-t-your-top-female-talent-is-pregnant-7625cbc0a755)
 - [Which is the best country to be a working woman? 🌟](http://www.weforum.org/agenda/2016/02/where-is-the-best-country-to-be-a-working-woman)
