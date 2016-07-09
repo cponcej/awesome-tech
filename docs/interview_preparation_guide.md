@@ -128,6 +128,7 @@
 - [Rejection: It's not about you](https://www.linkedin.com/pulse/rejection-its-you-jay-kaufmann)
 - [What To Write In A Thank You Email After Your Interview](http://www.careerealism.com/thank-you-email-after-interview/)
 - [7 Career Regrets To Let Go Of In 2016](https://www.linkedin.com/pulse/7-career-regrets-let-go-2016-j-t-o-donnell) Everyone has regrets. Especially, when it comes to our careers. We all make mistakes we wish we could take back. We all have things we wish we could do over. Here are seven career regrets you need to let go of in 2016.
+- [5 Things Every Employer Wants To Hear In An Interview 🌟](http://www.careerealism.com/every-employer-wants-hear-interview/)
 
 ![marla_singer_phone](images/marla_singer_phone.gif)
 
