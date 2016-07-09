@@ -1,0 +1,1478 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>body {
+  width: 45em;
+  border: 1px solid #ddd;
+  outline: 1300px solid #fff;
+  margin: 16px auto;
+}
+
+body .markdown-body
+{
+  padding: 30px;
+}
+
+@font-face {
+  font-family: fontawesome-mini;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+@font-face {
+  font-family: octicons-anchor;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+.markdown-body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body b,
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body sub,
+.markdown-body sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+.markdown-body sup {
+  top: -0.5em;
+}
+.markdown-body sub {
+  bottom: -0.25em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body .codehilitetable {
+  border: 0;
+  border-spacing: 0;
+}
+
+.markdown-body .codehilitetable tr {
+  border: 0;
+}
+
+.markdown-body .codehilitetable pre,
+.markdown-body .codehilitetable div.codehilite {
+  margin: 0;
+}
+
+.markdown-body .linenos,
+.markdown-body .code,
+.markdown-body .codehilitetable td {
+  border: 0;
+  padding: 0;
+}
+
+.markdown-body td:not(.linenos) .linenodiv {
+  padding: 0 !important;
+}
+
+.markdown-body .code {
+  width: 100%;
+}
+
+.markdown-body .linenos div pre,
+.markdown-body .linenodiv pre,
+.markdown-body .linenodiv {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.markdown-body .code div pre,
+.markdown-body .code div {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+}
+
+.markdown-body a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before,
+.markdown-body hr:after {
+  display: table;
+  content: " ";
+}
+
+.markdown-body hr:after {
+  clear: both;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #e7e7e7;
+  background-image: -moz-linear-gradient(#fefefe, #e7e7e7);
+  background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);
+  background-image: linear-gradient(#fefefe, #e7e7e7);
+  background-repeat: repeat-x;
+  border-radius: 2px;
+  border: 1px solid #cfcfcf;
+  color: #000;
+  padding: 3px 5px;
+  line-height: 10px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  display: inline-block;
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body .headeranchor-link {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  padding-right: 6px;
+  padding-left: 30px;
+  margin-left: -30px;
+}
+
+.markdown-body .headeranchor-link:focus {
+  outline: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.markdown-body h1 .headeranchor,
+.markdown-body h2 .headeranchor,
+.markdown-body h3 .headeranchor,
+.markdown-body h4 .headeranchor,
+.markdown-body h5 .headeranchor,
+.markdown-body h6 .headeranchor {
+  display: none;
+  color: #000;
+  vertical-align: middle;
+}
+
+.markdown-body h1:hover .headeranchor-link,
+.markdown-body h2:hover .headeranchor-link,
+.markdown-body h3:hover .headeranchor-link,
+.markdown-body h4:hover .headeranchor-link,
+.markdown-body h5:hover .headeranchor-link,
+.markdown-body h6:hover .headeranchor-link {
+  height: 1em;
+  padding-left: 8px;
+  margin-left: -30px;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .headeranchor-link .headeranchor,
+.markdown-body h2:hover .headeranchor-link .headeranchor,
+.markdown-body h3:hover .headeranchor-link .headeranchor,
+.markdown-body h4:hover .headeranchor-link .headeranchor,
+.markdown-body h5:hover .headeranchor-link .headeranchor,
+.markdown-body h6:hover .headeranchor-link .headeranchor {
+  display: inline-block;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre,
+.markdown-body .admonition {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body code,
+.markdown-body samp {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .codehilite {
+  margin-bottom: 16px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .codehilite pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+/* Admonition */
+.markdown-body .admonition {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  border-left: 6px solid #333;
+  padding: 10px 10px 10px 30px;
+}
+
+.markdown-body .admonition table {
+  color: #333;
+}
+
+.markdown-body .admonition p {
+  padding: 0;
+}
+
+.markdown-body .admonition-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.markdown-body .admonition>.admonition-title {
+  color: #333;
+}
+
+.markdown-body .attention>.admonition-title {
+  color: #a6d796;
+}
+
+.markdown-body .caution>.admonition-title {
+  color: #d7a796;
+}
+
+.markdown-body .hint>.admonition-title {
+  color: #96c6d7;
+}
+
+.markdown-body .danger>.admonition-title {
+  color: #c25f77;
+}
+
+.markdown-body .question>.admonition-title {
+  color: #96a6d7;
+}
+
+.markdown-body .note>.admonition-title {
+  color: #d7c896;
+}
+
+.markdown-body .admonition:before,
+.markdown-body .attention:before,
+.markdown-body .caution:before,
+.markdown-body .hint:before,
+.markdown-body .danger:before,
+.markdown-body .question:before,
+.markdown-body .note:before {
+  font: normal normal 16px fontawesome-mini;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.5;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.markdown-body .admonition:before {
+  content: "\f056\00a0";
+  color: 333;
+}
+
+.markdown-body .attention:before {
+  content: "\f058\00a0";
+  color: #a6d796;
+}
+
+.markdown-body .caution:before {
+  content: "\f06a\00a0";
+  color: #d7a796;
+}
+
+.markdown-body .hint:before {
+  content: "\f05a\00a0";
+  color: #96c6d7;
+}
+
+.markdown-body .danger:before {
+  content: "\f057\00a0";
+  color: #c25f77;
+}
+
+.markdown-body .question:before {
+  content: "\f059\00a0";
+  color: #96a6d7;
+}
+
+.markdown-body .note:before {
+  content: "\f040\00a0";
+  color: #d7c896;
+}
+
+.markdown-body .admonition::after {
+  content: normal;
+}
+
+.markdown-body .attention {
+  border-left: 6px solid #a6d796;
+}
+
+.markdown-body .caution {
+  border-left: 6px solid #d7a796;
+}
+
+.markdown-body .hint {
+  border-left: 6px solid #96c6d7;
+}
+
+.markdown-body .danger {
+  border-left: 6px solid #c25f77;
+}
+
+.markdown-body .question {
+  border-left: 6px solid #96a6d7;
+}
+
+.markdown-body .note {
+  border-left: 6px solid #d7c896;
+}
+
+.markdown-body .admonition>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body .admonition>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* progress bar*/
+.markdown-body .progress {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+  height: 24px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #ededed;
+  position: relative;
+  box-shadow: inset -1px 1px 3px rgba(0, 0, 0, .1);
+}
+
+.markdown-body .progress-label {
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  width: 100%; margin: 0;
+  line-height: 24px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fefefe, -1px -1px 0 #fefefe, -1px 1px 0 #fefefe, 1px -1px 0 #fefefe, 0 1px 0 #fefefe, 0 -1px 0 #fefefe, 1px 0 0 #fefefe, -1px 0 0 #fefefe, 1px 1px 2px #000;
+  -webkit-font-smoothing: antialiased !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.markdown-body .progress-bar {
+  height: 24px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #96c6d7;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .5), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background-size: 30px 30px;
+  background-image: -webkit-linear-gradient(
+    135deg, rgba(255, 255, 255, .4) 27%,
+    transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%,
+    transparent 77%, transparent
+  );
+  background-image: -moz-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -ms-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -o-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+}
+
+.markdown-body .progress-100plus .progress-bar {
+  background-color: #a6d796;
+}
+
+.markdown-body .progress-80plus .progress-bar {
+  background-color: #c6d796;
+}
+
+.markdown-body .progress-60plus .progress-bar {
+  background-color: #d7c896;
+}
+
+.markdown-body .progress-40plus .progress-bar {
+  background-color: #d7a796;
+}
+
+.markdown-body .progress-20plus .progress-bar {
+  background-color: #d796a6;
+}
+
+.markdown-body .progress-0plus .progress-bar {
+  background-color: #c25f77;
+}
+
+.markdown-body .candystripe-animate .progress-bar{
+  -webkit-animation: animate-stripes 3s linear infinite;
+  -moz-animation: animate-stripes 3s linear infinite;
+  animation: animate-stripes 3s linear infinite;
+}
+
+@-webkit-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@-moz-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+.markdown-body .gloss .progress-bar {
+  box-shadow:
+    inset 0 4px 12px rgba(255, 255, 255, .7),
+    inset 0 -12px 0 rgba(0, 0, 0, .05);
+}
+
+/* Multimarkdown Critic Blocks */
+.markdown-body .critic_mark {
+  background: #ff0;
+}
+
+.markdown-body .critic_delete {
+  color: #c82829;
+  text-decoration: line-through;
+}
+
+.markdown-body .critic_insert {
+  color: #718c00 ;
+  text-decoration: underline;
+}
+
+.markdown-body .critic_comment {
+  color: #8e908c;
+  font-style: italic;
+}
+
+.markdown-body .headeranchor {
+  font: normal normal 16px octicons-anchor;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.headeranchor:before {
+  content: '\f05c';
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
+/* Media */
+@media only screen and (min-width: 480px) {
+  .markdown-body {
+    font-size:14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .markdown-body {
+    font-size:16px;
+  }
+}
+
+@media print {
+  .markdown-body * {
+    background: transparent !important;
+    color: black !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  .markdown-body {
+    font-size:12pt;
+    max-width:100%;
+    outline:none;
+    border: 0;
+  }
+
+  .markdown-body a,
+  .markdown-body a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-body .headeranchor-link {
+    display: none;
+  }
+
+  .markdown-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-body .ir a:after,
+  .markdown-body a[href^="javascript:"]:after,
+  .markdown-body a[href^="#"]:after {
+    content: "";
+  }
+
+  .markdown-body pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .markdown-body pre,
+  .markdown-body blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  .markdown-body .progress,
+  .markdown-body .progress-bar {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .markdown-body .progress {
+    border: 1px solid #ddd;
+  }
+
+  .markdown-body .progress-bar {
+    height: 22px;
+    border-right: 1px solid #ddd;
+  }
+
+  .markdown-body tr,
+  .markdown-body img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-body img {
+    max-width: 100% !important;
+  }
+
+  .markdown-body p,
+  .markdown-body h2,
+  .markdown-body h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .markdown-body h2,
+  .markdown-body h3 {
+    page-break-after: avoid;
+  }
+}
+</style><title>qa_tools</title></head><body><article class="markdown-body"><!-- MarkdownTOC -->
+
+<ul>
+<li><a href="#testing-tools">Testing Tools</a><ul>
+<li><a href="#google-new-website-testing-tool-for-small-businesses">Google New website Testing tool for Small Businesses</a></li>
+<li><a href="#gerrit-code-review">Gerrit Code Review</a></li>
+<li><a href="#junit">JUnit</a></li>
+<li><a href="#sonarqube-previusly-known-as-sonar">SonarQube previusly known as Sonar</a></li>
+<li><a href="#mockito-mocking-framework">Mockito Mocking Framework</a></li>
+<li><a href="#spock-testing-framework">Spock Testing Framework</a></li>
+<li><a href="#selenium">Selenium</a><ul>
+<li><a href="#selenium-training">Selenium training</a><ul>
+<li><a href="#selenium-training-via-udemy">Selenium training via Udemy</a></li>
+</ul>
+</li>
+<li><a href="#selenium-on-twitter">Selenium on Twitter</a></li>
+</ul>
+</li>
+<li><a href="#soapui">SoapUI</a></li>
+<li><a href="#cucumber">Cucumber</a></li>
+<li><a href="#jasmine-behavior-driven-javascript">Jasmine Behavior Driven JavaScript</a></li>
+<li><a href="#concordion">Concordion</a></li>
+<li><a href="#appium-mobile-app-automation">Appium Mobile App Automation</a></li>
+<li><a href="#calabash-automated-acceptance-testing-for-mobile-apps">Calabash automated acceptance testing for mobile apps</a></li>
+<li><a href="#capybara-acceptance-test-framework-for-web-applications">Capybara acceptance test framework for web applications</a></li>
+<li><a href="#arquillian-testing-platform-and-citrus-integration-testing">Arquillian Testing Platform and Citrus Integration Testing</a></li>
+<li><a href="#issue-tracking-tools">Issue tracking tools</a><ul>
+<li><a href="#testlink-open-source-test-management">TestLink Open Source Test Management</a></li>
+<li><a href="#atlassian-jira">Atlassian Jira</a></li>
+</ul>
+</li>
+<li><a href="#atlassian-confluence-collaboration-software">Atlassian Confluence collaboration software</a></li>
+<li><a href="#pruebas-funcionales-de-software">Pruebas Funcionales de Software</a></li>
+<li><a href="#automated-acceptance-testing">Automated Acceptance Testing</a></li>
+<li><a href="#behavior-driven-development">Behavior Driven Development</a></li>
+<li><a href="#calidad-de-software">Calidad de Software</a></li>
+<li><a href="#protocol-testing-ttcn">Protocol Testing. TTCN</a></li>
+<li><a href="#network-emulator">Network Emulator</a></li>
+<li><a href="#test-data-generators-mysql-and-postgresql-testing">Test Data Generators. MySQL and PostgreSQL Testing</a><ul>
+<li><a href="#network-forensics-and-monitoring-for-mysql-and-postgresql">Network Forensics and Monitoring for MySQL and PostgreSQL</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<!-- /MarkdownTOC -->
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/vV8bOA5cLx">https://t.co/vV8bOA5cLx</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/747789848929505280">28 de junio de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><a href="https://dzone.com/refcardz/getting-started-with-real-user-monitoring"><img alt="dzone_refcard_real_user_monitoring" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/dzone_refcard_real_user_monitoring.png" /></a></p>
+<h1 id="testing-tools"><a name="user-content-testing-tools" href="#testing-tools" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Testing Tools</h1>
+<h2 id="google-new-website-testing-tool-for-small-businesses"><a name="user-content-google-new-website-testing-tool-for-small-businesses" href="#google-new-website-testing-tool-for-small-businesses" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Google New website Testing tool for Small Businesses</h2>
+<ul>
+<li><a href="https://testmysite.thinkwithgoogle.com/">testmysite.thinkwithgoogle.com 🌟🌟🌟</a></li>
+<li><a href="http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses">Google Launches New website Testing tool for Small Businesses</a></li>
+</ul>
+<h2 id="gerrit-code-review"><a name="user-content-gerrit-code-review" href="#gerrit-code-review" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Gerrit Code Review</h2>
+<ul>
+<li><a href="https://www.gerritcodereview.com/">Gerrit</a></li>
+<li><a href="https://www.youtube.com/watch?v=jeWTvDad6VM">youtube: Introducing GerritHub, Gerrit Code Review on GitHub</a></li>
+</ul>
+<p><a href="https://www.bsi-software.com/en/scout-blog/article/git-gerrit-workflow.html"><img alt="Gerrit_workflow" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/Gerrit_workflow.png" /></a></p>
+<p><a href="https://gitenterprise.me/category/jenkins/"><img alt="gerrit_jenkins" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/gerrit_jenkins.png" /></a></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4xxhVGnaSA1rg1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lucamilanesio/gerrit-code-review" title="Gerrit Code Review" target="_blank">Gerrit Code Review</a> </strong> de <strong><a href="//www.slideshare.net/lucamilanesio" target="_blank">Luca Milanesio</a></strong> </div>
+</div>
+
+<p><br></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/eGWOAw5vhHC9h1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kfish/git-and-gerrit" title="How Git and Gerrit make you more productive" target="_blank">How Git and Gerrit make you more productive</a> </strong> from <strong><a href="//www.slideshare.net/kfish" target="_blank">Karsten Dambekalns</a></strong> </div>
+</div>
+
+<p><br></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IcAGqTssPwRiI9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lucamilanesio/gerrit-codereviewgit-hubplugin" title="Gerrit Code Review with GitHub plugin" target="_blank">Gerrit Code Review with GitHub plugin</a> </strong> from <strong><a href="//www.slideshare.net/lucamilanesio" target="_blank">Luca Milanesio</a></strong> </div>
+</div>
+
+<p><br></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4dl9cPIshTpj2L" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lucamilanesio/gerrit-is-getting-native-with-rpm-deb-and-docker" title="Gerrit is Getting Native with RPM, Deb and Docker" target="_blank">Gerrit is Getting Native with RPM, Deb and Docker</a> </strong> from <strong><a href="//www.slideshare.net/lucamilanesio" target="_blank">Luca Milanesio</a></strong> </div>
+</div>
+
+<p><br></p>
+<h2 id="junit"><a name="user-content-junit" href="#junit" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>JUnit</h2>
+<ul>
+<li><a href="http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html">JUnit Tutorial for Unit Testing – The ULTIMATE Guide (PDF Download)</a></li>
+<li><a href="https://dzone.com/articles/junit-5-setup">JUnit 5: Setup, Build Tool Support, and Writing Your First Test</a></li>
+</ul>
+<h2 id="sonarqube-previusly-known-as-sonar"><a name="user-content-sonarqube-previusly-known-as-sonar" href="#sonarqube-previusly-known-as-sonar" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>SonarQube previusly known as Sonar</h2>
+<ul>
+<li><a href="http://www.sonarqube.org/">sonarqube.org</a></li>
+<li><a href="https://github.com/SonarSource/sonarqube">github.com/SonarSource/sonarqube</a></li>
+<li><a href="http://www.sonarqube.org/manage-code-coverage-by-unit-tests-with-sonar/">Manage Code Coverage by Unit Tests with Sonar</a></li>
+<li><a href="https://dzone.com/articles/static-code-analysis-and">Dzone: Sonar Installation and Eclipse Plugin</a></li>
+<li><a href="https://dzone.com/articles/how-setup-eclipse-ide-sonar">Dzone: How to Setup Eclipse IDE for Sonar Analysis</a></li>
+<li><a href="https://dzone.com/articles/how-quickly-get-started-sonar">Dzone: How to Quickly Get Started with Sonar</a></li>
+<li><a href="https://dzone.com/articles/code-coverage-tools-comparison">Dzone: Code Coverage Tools Comparison in Sonar</a></li>
+<li><a href="https://dzone.com/articles/quality-assurance-sonar">Dzone: Quality Assurance With Sonar</a></li>
+<li><a href="https://dzone.com/articles/configuring-sonar-maven">Dzone: Configuring Sonar with Maven</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/33MDMRUd4AcZni" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ppapapetrou/tracking-and-improving-software-quality-with-sonarqube" title="Tracking and improving software quality with SonarQube" target="_blank">Tracking and improving software quality with SonarQube</a> </strong> from <strong><a href="//www.slideshare.net/ppapapetrou" target="_blank">Patroklos Papapetrou</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Btyj4ITfX14g3D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pazscall/continuous-integration-32047593" title="Continuous integration using Jenkins and Sonar" target="_blank">Continuous integration using Jenkins and Sonar</a> </strong> from <strong><a href="//www.slideshare.net/pazscall" target="_blank">Pascal Larocque</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/EqGKxlkWmaKh2v" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/corneliusmellino/software-development-quality-control-with-sonar" title="Software Development Quality Control with SONAR" target="_blank">Software Development Quality Control with SONAR</a> </strong> from <strong><a href="//www.slideshare.net/corneliusmellino" target="_blank">Cornelius Mellino</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wXTBTf0ZN7EBmM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/neomatrix369/sonar-qube-to-impove-code-quality-39398492" title="Sonar qube to impove code quality" target="_blank">Sonar qube to impove code quality</a> </strong> from <strong><a href="//www.slideshare.net/neomatrix369" target="_blank">Mani Sarkar</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="mockito-mocking-framework"><a name="user-content-mockito-mocking-framework" href="#mockito-mocking-framework" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Mockito Mocking Framework</h2>
+<ul>
+<li><a href="https://dzone.com/refcardz/mockito">DZone Mockito refcard</a> A Simple, Intuitive Mocking Framework</li>
+</ul>
+<p><a href="https://dzone.com/refcardz/mockito"><img alt="dzone_mockito" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/dzone_mockito.png" /></a></p>
+<p><a href="http://dilbert.com/strip/1990-04-20"><img alt="dilbert_qa5" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/dilbert_qa5.gif" /></a></p>
+<h2 id="spock-testing-framework"><a name="user-content-spock-testing-framework" href="#spock-testing-framework" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Spock Testing Framework</h2>
+<ul>
+<li><a href="https://dzone.com/articles/first-look-spock-testing">DZone: A first look at the Spock testing framework</a></li>
+<li><a href="https://dzone.com/articles/spock-data-driven-testing">DZone Testing Java using the Spock Framework</a></li>
+<li><a href="https://dzone.com/articles/spock-data-driven-testing">DZone - Spock: Data Driven Testing</a></li>
+</ul>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HByidnePxa4?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<h2 id="selenium"><a name="user-content-selenium" href="#selenium" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Selenium</h2>
+<ul>
+<li><a href="http://www.indeed.com/publicanalytics/jobanalytics/jobtrends?q=selenium%2C+qtp&amp;l=">Selenium, QTP Job Trends</a></li>
+<li><a href="https://pypi.python.org/pypi/selenium/2.49.0">selenium 2.49.0 released: Python bindings for Selenium</a></li>
+<li><a href="http://www.slideshare.net/tourdedave/selenium-tips-tricks">slideshare: Selenium Tips &amp; Tricks</a></li>
+<li><a href="http://www.beacon.by/test-automation-for-manual-testers/10-tips-for-faster-selenium-scripts">10 Tips For Faster Selenium Scripts</a></li>
+</ul>
+<p><a href="https://dzone.com/refcardz/getting-started-selenium"><img alt="dzone_refcard_selenium" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/dzone_refcard_selenium.png" /></a></p>
+<p><a href="https://dzone.com/refcardz/getting-started-selenium-20"><img alt="dzone_refcard_selenium_2" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/dzone_refcard_selenium_2.png" /></a></p>
+<h3 id="selenium-training"><a name="user-content-selenium-training" href="#selenium-training" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Selenium training</h3>
+<ul>
+<li><a href="http://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/">Top 7 Websites to Practice Selenium Webdriver Online 🌟🌟</a></li>
+<li><a href="http://toolsqa.com/">toolsqa.com 🌟🌟</a></li>
+</ul>
+<h4 id="selenium-training-via-udemy"><a name="user-content-selenium-training-via-udemy" href="#selenium-training-via-udemy" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Selenium training via Udemy</h4>
+<ul>
+<li><a href="https://www.udemy.com/learn-software-testing-from-scratch/?ccManual=&amp;dtcode=wmOZ6Dq2WrKO&amp;couponCode=qa10">Learn Software Testing from Scratch</a></li>
+<li><a href="https://www.udemy.com/selenium-webdriver-20-a-beginners-guide-to-selenium">Selenium Webdriver 2.0: Master Automated Testing</a></li>
+<li><a href="https://www.udemy.com/selenium-webdriver-with-java-testng-and-log4j/">Selenium WebDriver With Java - Novice To Ninja + Interview</a></li>
+<li><a href="https://www.udemy.com/selenium-framework-design-pageobjecttestngmavenjenkins/">Advanced Selenium(Architect)-Pageobject,TestNG,Maven,Jenkins</a></li>
+</ul>
+<h3 id="selenium-on-twitter"><a name="user-content-selenium-on-twitter" href="#selenium-on-twitter" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Selenium on Twitter</h3>
+<ul>
+<li><a href="https://twitter.com/SeleniumHQ">twitter.com/SeleniumHQ</a></li>
+<li><a href="https://twitter.com/saucelabs">twitter.com/saucelabs</a></li>
+<li><a href="https://twitter.com/seleniumconf">twitter.com/seleniumconf</a></li>
+<li><a href="https://twitter.com/SeleniumExample">twitter.com/SeleniumExample</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/enq08ekUWo1s65" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cuelogic/automation-testing-by-selenium-web-driver" title="Automation Testing by Selenium Web Driver" target="_blank">Automation Testing by Selenium Web Driver</a> </strong> from <strong><a href="//www.slideshare.net/cuelogic" target="_blank">Cuelogic Technologies Pvt. Ltd.</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cTKwjMmxpspx8i" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tourdedave/how-to-use-selenium-successfully-java-edition" title="How To Use Selenium Successfully (Java Edition)" target="_blank">How To Use Selenium Successfully (Java Edition)</a> </strong> from <strong><a href="//www.slideshare.net/tourdedave" target="_blank">Dave Haeffner</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KES4lBwD44Mrw4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mcgray/story-testing-approach-for-enterprise-applications-using-selenium-framework" title="Story Testing Approach for Enterprise Applications using Selenium Framework" target="_blank">Story Testing Approach for Enterprise Applications using Selenium Framework</a> </strong> from <strong><a href="//www.slideshare.net/mcgray" target="_blank">Oleksiy Rezchykov</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="soapui"><a name="user-content-soapui" href="#soapui" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>SoapUI</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/SoapUI">SoapUI</a></li>
+<li><a href="https://www.soapui.org/">soapui.org</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nSROjjwCLZGcT4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/danielfeist77/design-first-apis-with-raml-and-soapui" title="Design First API&#x27;s with RAML and SoapUI" target="_blank">Design First API&#x27;s with RAML and SoapUI</a> </strong> from <strong><a href="//www.slideshare.net/danielfeist77" target="_blank">Daniel Feist</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="cucumber"><a name="user-content-cucumber" href="#cucumber" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Cucumber</h2>
+<ul>
+<li><a href="https://cucumber.io/">cucumber.io</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cucumber_%28software%29">Cucumber wikipedia</a></li>
+<li><a href="http://behat.org">Behat: Cucumber in PHP</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dKwAXByQiBkfyg" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NibuBaby/introduction-to-bdd-and-cucumber" title="Introduction to Bdd and cucumber" target="_blank">Introduction to Bdd and cucumber</a> </strong> from <strong><a href="//www.slideshare.net/NibuBaby" target="_blank">Nibu Baby</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/c9bkn6AkrOpRpQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bkeepers/behavior-driven-development-with-cucumber-presentation" title="Behavior Driven Development with Cucumber" target="_blank">Behavior Driven Development with Cucumber</a> </strong> from <strong><a href="//www.slideshare.net/bkeepers" target="_blank">Brandon Keepers</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BmE5nmgfH1lrZM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bmabey/writing-software-not-code-with-cucumber" title="Writing Software not Code with Cucumber" target="_blank">Writing Software not Code with Cucumber</a> </strong> from <strong><a href="//www.slideshare.net/bmabey" target="_blank">Ben Mabey</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GdD2dhOcXuDtPV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/alan_parkinson/test-automation-with-cucumberjvm" title="Test automation with Cucumber-JVM" target="_blank">Test automation with Cucumber-JVM</a> </strong> from <strong><a href="//www.slideshare.net/alan_parkinson" target="_blank">Alan Parkinson</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/uSPuSJjjNWPtme" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sebrose/introduction-to-bdd-with-cucumber-for-java" title="Introduction to BDD with Cucumber for Java" target="_blank">Introduction to BDD with Cucumber for Java</a> </strong> from <strong><a href="//www.slideshare.net/sebrose" target="_blank">Seb Rose</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="jasmine-behavior-driven-javascript"><a name="user-content-jasmine-behavior-driven-javascript" href="#jasmine-behavior-driven-javascript" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Jasmine Behavior Driven JavaScript</h2>
+<ul>
+<li><a href="http://jasmine.github.io/">jasmine.github.io</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6L9ZOi4ckTKIQx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/WapAdmin/drupalcon-2013" title="Automated Testing With Jasmine, PhantomJS and Jenkins" target="_blank">Automated Testing With Jasmine, PhantomJS and Jenkins</a> </strong> from <strong><a href="//www.slideshare.net/WapAdmin" target="_blank">Work at Play</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="concordion"><a name="user-content-concordion" href="#concordion" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Concordion</h2>
+<ul>
+<li><a href="http://concordion.org/">concordion.org</a></li>
+<li><a href="http://www.genbetadev.com/metodologias-de-programacion/concordion-test-de-aceptacion-que-se-conviertan-en-autentica-documentacion">Concordion, construye tests que se conviertan en la auténtica documentación de los proyectos</a></li>
+</ul>
+<h2 id="appium-mobile-app-automation"><a name="user-content-appium-mobile-app-automation" href="#appium-mobile-app-automation" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Appium Mobile App Automation</h2>
+<ul>
+<li><a href="http://appium.io/">Appium: Mobile App Automation Made Awesome</a></li>
+</ul>
+<p><a href="https://dzone.com/refcardz/mobile-web-application-testing"><img alt="dzone_refcard_mobile_app_testing" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/dzone_refcard_mobile_app_testing.png" /></a></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/L7CsPirFmQKfw0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ElizabethHechtel/automate-you-appium-test-like-a-pro" title="Automate you Appium test like a pro!" target="_blank">Automate you Appium test like a pro!</a> </strong> from <strong><a href="//www.slideshare.net/ElizabethHechtel" target="_blank">TestObject - Mobile Testing</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xu1HujGilA9zdp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kkashyap1707/next-level-of-appium-62525447" title="Next level of Appium" target="_blank">Next level of Appium</a> </strong> from <strong><a href="//www.slideshare.net/kkashyap1707" target="_blank">Keshav Kashyap</a></strong> </div>
+</div>
+
+<p><br/></p>
+<p><a href="http://dilbert.com/strip/2011-07-21"><img alt="dilbert_qa4" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/dilbert_qa4.gif" /></a></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-7ZDTV_ano?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<h2 id="calabash-automated-acceptance-testing-for-mobile-apps"><a name="user-content-calabash-automated-acceptance-testing-for-mobile-apps" href="#calabash-automated-acceptance-testing-for-mobile-apps" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Calabash automated acceptance testing for mobile apps</h2>
+<ul>
+<li><a href="http://calaba.sh/">Calabash</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ba2UWotPlXxUax" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mobiletestsummit/calabash-crossplatform-automated-acceptance-testing-for-mobile-apps" title="Calabash: Cross-Platform Automated Acceptance Testing for Mobile Apps" target="_blank">Calabash: Cross-Platform Automated Acceptance Testing for Mobile Apps</a> </strong> from <strong><a href="//www.slideshare.net/mobiletestsummit" target="_blank">mobiletestsummit</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lMpo0RJxg730Fv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bitbar/testdroid-32309222" title="Testdroid: Tips and Tricks with Calabash for Mobile App Testing" target="_blank">Testdroid: Tips and Tricks with Calabash for Mobile App Testing</a> </strong> from <strong><a href="//www.slideshare.net/bitbar" target="_blank">Bitbar</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BCuTcpMnzHvgo2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jesanchezb/workshop-calabash-appium-59595337" title="Workshop calabash appium" target="_blank">Workshop calabash appium</a> </strong> from <strong><a href="//www.slideshare.net/jesanchezb" target="_blank">Enrique Sánchez-Bayuela</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="capybara-acceptance-test-framework-for-web-applications"><a name="user-content-capybara-acceptance-test-framework-for-web-applications" href="#capybara-acceptance-test-framework-for-web-applications" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Capybara acceptance test framework for web applications</h2>
+<ul>
+<li><a href="https://github.com/jnicklas/capybara">Capybara</a></li>
+<li><a href="http://jnicklas.github.io/capybara/">jnicklas.github.io/capybara</a></li>
+<li><a href="http://mink.behat.org">Mink: capybara in PHP</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pxlMX2xbwARtC9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/futureworkz/capybara-testing" title="Capybara testing" target="_blank">Capybara testing</a> </strong> from <strong><a href="//www.slideshare.net/futureworkz" target="_blank">Futureworkz</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/v62aWAYcaFoeaW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/bsbodden/rspec-and-capybara" title="Rspec and Capybara Intro Tutorial at RailsConf 2013" target="_blank">Rspec and Capybara Intro Tutorial at RailsConf 2013</a> </strong> from <strong><a href="//www.slideshare.net/bsbodden" target="_blank">Brian Sam-Bodden</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/e32HyGD3jrAcqI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marc.seeger/lunch-and-learn-cucumber-and-capybara" title="Lunch and learn: Cucumber and Capybara" target="_blank">Lunch and learn: Cucumber and Capybara</a> </strong> from <strong><a href="//www.slideshare.net/marc.seeger" target="_blank">Marc Seeger</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="arquillian-testing-platform-and-citrus-integration-testing"><a name="user-content-arquillian-testing-platform-and-citrus-integration-testing" href="#arquillian-testing-platform-and-citrus-integration-testing" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Arquillian Testing Platform and Citrus Integration Testing</h2>
+<ul>
+<li><a href="http://arquillian.org/">Arquillian, a testing platform built on the JVM that substantially reduces the effort required to write and execute Java middleware integration and functional tests</a></li>
+<li><a href="http://www.javacodegeeks.com/2016/01/container-object-pattern-new-pattern-tests.html">Container Object pattern. A new pattern for your tests. Arquillian  community</a></li>
+<li><a href="http://www.tomitribe.com/blog/2016/01/testing-persistence-with-arquillian-on-tomee/">Testing persistence with Arquillian on TomEE: Excellent step by step introduction tutorial on persistence unit testing</a></li>
+<li><a href="http://citrusframework.org/">citrusframework.org</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/uXVk8vUkazFpPd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/christophd/arquillian-citrus" title="Arquillian &amp; Citrus" target="_blank">Arquillian &amp; Citrus</a> </strong> from <strong><a href="//www.slideshare.net/christophd" target="_blank">christophd</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/C3W2fDo5ErVjTa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/IvanIvanov138/testing-java-ee-apps-with-arquillian" title="Testing Java EE apps with Arquillian" target="_blank">Testing Java EE apps with Arquillian</a> </strong> from <strong><a href="//www.slideshare.net/IvanIvanov138" target="_blank">Ivan Ivanov</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dqNsTJNR9eYVZz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/christophd/testing-microservices-with-a-citrus-twist" title="Testing Microservices with a Citrus twist" target="_blank">Testing Microservices with a Citrus twist</a> </strong> from <strong><a href="//www.slideshare.net/christophd" target="_blank">christophd</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="issue-tracking-tools"><a name="user-content-issue-tracking-tools" href="#issue-tracking-tools" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Issue tracking tools</h2>
+<ul>
+<li><a href="https://opensource.com/business/16/2/top-issue-support-and-bug-tracking-tools">Top 4 open source issue tracking tools</a></li>
+</ul>
+<h3 id="testlink-open-source-test-management"><a name="user-content-testlink-open-source-test-management" href="#testlink-open-source-test-management" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>TestLink Open Source Test Management</h3>
+<ul>
+<li><a href="http://testlink.org/">testlink.org</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KKqPKBvTwOP73U" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DavidIonut2/test-link-introduction-52636373" title="TestLink introduction" target="_blank">TestLink introduction</a> </strong> from <strong><a href="//www.slideshare.net/DavidIonut2" target="_blank">David Ionut</a></strong> </div>
+</div>
+
+<p><br/></p>
+<p><a href="http://dilbert.com/strip/2012-12-05"><img alt="dilbert_qa1" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/dilbert_qa1.gif" /></a></p>
+<h3 id="atlassian-jira"><a name="user-content-atlassian-jira" href="#atlassian-jira" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Atlassian Jira</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Jira_%28software%29">Jira software</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/rkNnYhenOaans" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sgenterprise20/introduction-to-jira" title="Introduction To Jira" target="_blank">Introduction To Jira</a> </strong> from <strong><a href="//www.slideshare.net/sgenterprise20" target="_blank">Hua Soon Sim</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/g70uzEtkXP4XnC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lmaija/jira-as-a-tool-for-test-management" title="Jira as a Tool for Test Management" target="_blank">Jira as a Tool for Test Management</a> </strong> from <strong><a href="//www.slideshare.net/lmaija" target="_blank">lmaija</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/E28p9ryqTmo05h" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/zeteo/jira-25510526" title="Using JIRA Software for Issue Tracking" target="_blank">Using JIRA Software for Issue Tracking</a> </strong> from <strong><a href="//www.slideshare.net/zeteo" target="_blank">Anjali Rao</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/c6gRYHMNAIxb2S" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GoAtlassian/three-uses-of-jira-beyond-bug-tracking" title="Three Uses Of JIRA Beyond Bug Tracking" target="_blank">Three Uses Of JIRA Beyond Bug Tracking</a> </strong> from <strong><a href="//www.slideshare.net/GoAtlassian" target="_blank">Atlassian</a></strong> </div>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xrCJv0fTyR8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NrHpXvDXVrw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TxbtOfyljoA?list=PLaD4FvsFdarTkD7deo0bBKwZkibDh38t2" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a59jWfwmKgA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P63Koe6aX4s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<h2 id="atlassian-confluence-collaboration-software"><a name="user-content-atlassian-confluence-collaboration-software" href="#atlassian-confluence-collaboration-software" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Atlassian Confluence collaboration software</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Confluence_%28software%29">Atlassian Confluence</a></li>
+<li><a href="https://www.youtube.com/user/GoAtlassian">Atlassian Youtube</a></li>
+</ul>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/y1ph3e8uMzjfTw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sgenterprise20/introduction-to-confluence" title="Introduction To Confluence" target="_blank">Introduction To Confluence</a> </strong> from <strong><a href="//www.slideshare.net/sgenterprise20" target="_blank">Hua Soon Sim</a></strong> </div>
+</div>
+
+<p><br/></p>
+<hr />
+<h2 id="pruebas-funcionales-de-software"><a name="user-content-pruebas-funcionales-de-software" href="#pruebas-funcionales-de-software" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Pruebas Funcionales de Software</h2>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/s4axucmRKymUOS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/briankerubin/pruebas-funcionales-de-software-62280806" title="Pruebas funcionales de Software" target="_blank">Pruebas funcionales de Software</a> </strong> from <strong><a href="//www.slideshare.net/briankerubin" target="_blank">Brian Pando</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="automated-acceptance-testing"><a name="user-content-automated-acceptance-testing" href="#automated-acceptance-testing" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Automated Acceptance Testing</h2>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kvrGOWBZSObe8J" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toddbr/automated-acceptance-tests-tool-choice" title="Automated Acceptance Tests &amp; Tool choice" target="_blank">Automated Acceptance Tests &amp; Tool choice</a> </strong> from <strong><a href="//www.slideshare.net/toddbr" target="_blank">toddbr</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="behavior-driven-development"><a name="user-content-behavior-driven-development" href="#behavior-driven-development" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Behavior Driven Development</h2>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/XtgZ4zo8YVRub" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/helderdoliveira/bdd-35039822" title="Bdd (Behavior Driven Development)" target="_blank">Bdd (Behavior Driven Development)</a> </strong> from <strong><a href="//www.slideshare.net/helderdoliveira" target="_blank">Helder De Oliveira</a></strong> </div>
+</div>
+
+<p><br/></p>
+<h2 id="calidad-de-software"><a name="user-content-calidad-de-software" href="#calidad-de-software" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Calidad de Software</h2>
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/uZwR77RCr9eV0W" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Miguelcs1/convencer-al-jefe-para-aplicar-calidad-del-software" title="Convencer al jefe para aplicar &quot;Calidad de Software&quot;." target="_blank">Convencer al jefe para aplicar &quot;Calidad de Software&quot;.</a> </strong> from <strong><a href="//www.slideshare.net/Miguelcs1" target="_blank">Miguel cs</a></strong> </div>
+</div>
+
+<p><br/></p>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Too Full Stack<br> <a href="https://t.co/Pbn9UBCKKv">https://t.co/Pbn9UBCKKv</a> <a href="https://t.co/2nStiS6oFB">pic.twitter.com/2nStiS6oFB</a></p>&mdash; CommitStrip (@CommitStrip) <a href="https://twitter.com/CommitStrip/status/710544004199354369">17 de marzo de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h2 id="protocol-testing-ttcn-ims-testing"><a name="user-content-protocol-testing-ttcn-ims-testing" href="#protocol-testing-ttcn-ims-testing" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Protocol Testing. TTCN. IMS Testing</h2>
+<ul>
+<li><a href="http://www.guru99.com/protocol-testing.html">Guru99.com Protocol Testing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/TTCN">TTCN</a> TTCN is a programming language used for testing of communication protocols and web services. </li>
+<li><a href=""></a></li>
+</ul>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1JWY-9CCTqI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br></p>
+<h2 id="network-emulator"><a name="user-content-network-emulator" href="#network-emulator" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Network Emulator</h2>
+<ul>
+<li><a href="http://www.nrl.navy.mil/itd/ncs/products/core">Common Open Research Emulator (CORE)</a></li>
+</ul>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/An_BXThvSVI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br></p>
+<h2 id="test-data-generators-mysql-and-postgresql-testing"><a name="user-content-test-data-generators-mysql-and-postgresql-testing" href="#test-data-generators-mysql-and-postgresql-testing" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Test Data Generators. MySQL and PostgreSQL Testing</h2>
+<ul>
+<li><a href="https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/">generatedata.com via percona.com: Generating test data for MySQL tables</a></li>
+<li><a href="http://www.datanamic.com/datagenerator-for-postgresql">Datanamic Data Generator for PostgreSQL</a></li>
+<li><a href="http://databene.org/databene-benerator">Databene Benerator</a></li>
+<li><a href="http://www.mockaroo.com/">Mockaroo</a></li>
+<li><a href="http://faker.rubyforge.org/">faker.rubyforge.org</a></li>
+<li><a href="http://random-data.rubyforge.org/">random-data.rubyforge.org</a></li>
+<li><a href="http://www.red-gate.com/products/sql-development/sql-data-generator/">red-gate.com sql data generator</a></li>
+</ul>
+<p><a href="https://www.percona.com/blog/2014/02/10/generating-test-data-mysql-tables/"><img alt="generatedata.com" src="///C://Users/Inaki/Documents/GitHub/awesome-tech/docs/images/generatedata.jpg" /></a></p>
+<h3 id="network-forensics-and-monitoring-for-mysql-and-postgresql"><a name="user-content-network-forensics-and-monitoring-for-mysql-and-postgresql" href="#network-forensics-and-monitoring-for-mysql-and-postgresql" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Network Forensics and Monitoring for MySQL and PostgreSQL</h3>
+<ul>
+<li><a href="https://twitter.com/VividCortex">VividCortex</a></li>
+<li><a href="https://www.vividcortex.com/blog/2015/05/13/announcing-vividcortex-network-analyzer-mysql-postgresql/">Announcing VividCortex&rsquo;s Free Network Analyzer Tools for MySQL and PostgreSQL</a></li>
+<li><a href="http://www.pgconfsv.com/sessions/analyzing-postgresql-network-traffic-vc-pgsql-sniffer">Analyzing PostgreSQL Network Traffic with vc-pgsql-sniffer</a></li>
+</ul>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Watching a user test your product for the first time. <a href="https://t.co/NFWqyW25ld">pic.twitter.com/NFWqyW25ld</a></p>&mdash; 〰 (@darylginn) <a href="https://twitter.com/darylginn/status/707176649478041600">8 de marzo de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></article></body></html>

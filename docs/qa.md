@@ -117,6 +117,18 @@
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/f5Ambk3tSAzmwTFQgrEUqw/139044569770" data-did="eb9a18b0012d1238179ae41a992b0497a3ed51e0"><a href="http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile">http://agile-testing.tumblr.com/post/139044569770/accelerating-devops-processes-through-agile</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
+[![ING_testing_ciclo_desarrollo_sw](images/ING_testing_ciclo_desarrollo_sw.png)](http://www.slideshare.net/educar_bressano/testing-ing-gabriela-muoz)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/thb8jCfGeCLQ7a" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/educar_bressano/testing-ing-gabriela-muoz" title="Testing - Ing. Gabriela Muñoz" target="_blank">Testing - Ing. Gabriela Muñoz</a> </strong> from <strong><a href="//www.slideshare.net/educar_bressano" target="_blank">Mario Osvaldo Bressano</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/uJ8rtaWxJvLZMP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GuillermoLemus/tipos-de-pruebas-de-software" title="Tipos de pruebas de software" target="_blank">Tipos de pruebas de software</a> </strong> from <strong><a href="//www.slideshare.net/GuillermoLemus" target="_blank">Guillermo Lemus</a></strong> </div>
+</div>
+<br>
+
 ## Blogs
 - [Testing & QA Management blog by PractiTest](http://qablog.practitest.com/)
     - [International 2016 State of Testing. What it means to be a tester worldwide 🌟🌟](http://qablog.practitest.com/state-of-testing/)

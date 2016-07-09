@@ -26,7 +26,7 @@ pages:
 - Rules for success: rules_for_success.md
 - Freelance jobs: freelance_jobs.md
 - Motivational videos: motivational_videos.md
-- Human Resources, Interviews, Leadership: hr.md
+- Human Resources: hr.md
 - How to Fire and Onboard: howto_fire_onboard.md
 - Culture and Collaboration: culture_collaboration.md
 - Office Politics: office_politics.md
@@ -78,7 +78,7 @@ pages:
 - Anaconda Analytics: anaconda.md
 - Big Bang Data: bigbangdata.md
 - Networking: networking.md
-- Mobile Core Network: mobilecore.md
+- Mobile Core Network. IMS: mobilecore.md
 - Virtual LAN: VLAN.md
 - Next Generation Firewalls (NGFW): NGFW.md
 - Network Forensics: nw_forensics.md

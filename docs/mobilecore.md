@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Mobile Core Network](#mobile-core-network)
+    - [IMS IP Multimedia Subsystem](#ims-ip-multimedia-subsystem)
 
 <!-- /MarkdownTOC -->
 
@@ -91,5 +92,33 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/aaTeTVrvv02Lm6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Ericsson_ES/el-camino-hacia-la-5-g-rev-a" title="El camino hacia la 5G - Isidro Nieto from Ericsson at VI Jornadas Cátedras Telefonica UPM (Nov 6, Madrid)" target="_blank">El camino hacia la 5G - Isidro Nieto from Ericsson at VI Jornadas Cátedras Telefonica UPM (Nov 6, Madrid)</a> </strong> from <strong><a href="//www.slideshare.net/Ericsson_ES" target="_blank">Ericsson España</a></strong> </div>
+</div>
+<br>
+
+## IMS IP Multimedia Subsystem
+- [IP Multimedia Subsystem - wikipedia](https://en.wikipedia.org/wiki/IP_Multimedia_Subsystem)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hR5XPnuAuF0WCB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/inventiveanirudh/ims-presentation-51042480" title="IMS presentation" target="_blank">IMS presentation</a> </strong> from <strong><a href="//www.slideshare.net/inventiveanirudh" target="_blank">Anirudh Yadav</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/oBRq7KvHdN6Izp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/inam_qau/ip-multimedia-subsystems-overview-my-training-on-ims" title="IP Multimedia Subsystems Overview - My Training on IMS" target="_blank">IP Multimedia Subsystems Overview - My Training on IMS</a> </strong> from <strong><a href="//www.slideshare.net/inam_qau" target="_blank">Inam Khosa</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vNwFFi2rFlzu7p" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kentloh583/ims-core-elements" title="IMS Core Elements" target="_blank">IMS Core Elements</a> </strong> from <strong><a href="//www.slideshare.net/kentloh583" target="_blank">Kent Loh</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1S4AJX9cvFFylr" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kentloh583/ims-registration-flow" title="IMS Registration Flow" target="_blank">IMS Registration Flow</a> </strong> from <strong><a href="//www.slideshare.net/kentloh583" target="_blank">Kent Loh</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Iv1ErkK31lOlL7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FrankQ85/arquitectura-ims" title="Arquitectura IMS" target="_blank">Arquitectura IMS</a> </strong> from <strong><a href="//www.slideshare.net/FrankQ85" target="_blank">FrankQ85</a></strong> </div>
 </div>
 <br>

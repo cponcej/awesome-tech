@@ -48,7 +48,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 	- [Rules for success](rules_for_success.md)
 	- [Freelance jobs](freelance_jobs.md)
 	- [Motivational videos](motivational_videos.md)
-3. [Human Resources, Interviews, Leadership 🙈 🙉 🙊](hr.md) Stimulating and provocative!
+3. [Human Resources 🙈 🙉 🙊](hr.md) Stimulating and provocative!
 	- [How to Fire and Onboard](howto_fire_onboard.md)
 	- [Culture and Collaboration](culture_collaboration.md)
 	- [Office Politics](office_politics.md)
@@ -100,7 +100,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 	- [Anaconda Analytics](anaconda.md)
 	- [Big Bang Data 🌟🌟🌟](bigbangdata.md)
 13. [Networking 🌟🌟🌟](networking.md)
-    - [Mobile Core Network](mobilecore.md)
+    - [Mobile Core Network. IMS](mobilecore.md)
     - [Virtual LAN](VLAN.md)
     - [Next Generation Firewalls (NGFW)](NGFW.md)
 	- [Network Forensics](nw_forensics.md)
