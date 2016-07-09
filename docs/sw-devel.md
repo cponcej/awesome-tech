@@ -4,6 +4,7 @@
 - [Software Development](#software-development)
 	- [Blogs and Forums](#blogs-and-forums)
 	- [Domain driven design](#domain-driven-design)
+	- [Software Architecture Patterns](#software-architecture-patterns)
 	- [API and Documentation Generators](#api-and-documentation-generators)
 		- [API Blueprint, defining the emerging API design space](#api-blueprint-defining-the-emerging-api-design-space)
 			- [Tools: Apiary](#tools-apiary)
@@ -175,6 +176,11 @@
 - [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design) Highly recommended reading
 
 ![system testing](images/system_testing_cartoon.png)
+
+## Software Architecture Patterns
+- [Architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern)
+- [EDA - Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture)
+- [Service-oriented architecture (SOA)](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 
 ## API and Documentation Generators
 - [dzone: The Hard Work When it Comes to Defining APIs 🌟](https://dzone.com/articles/the-hard-work-when-it-comes-to-defining-apis)
