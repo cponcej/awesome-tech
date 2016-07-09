@@ -9,6 +9,7 @@
 		- [Alternatives](#alternatives)
 	- [Metric monitoring](#metric-monitoring)
 		- [Tools](#tools)
+		- [Icinga](#icinga)
 		- [Grafana](#grafana)
 		- [Zabbix](#zabbix)
 		- [Prometheus](#prometheus)
@@ -151,6 +152,14 @@
 </div>
 <br/>
 
+### Icinga
+- [icinga.org](https://www.icinga.org/)
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2vd0qUGteGRnlm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/icinga/icinga-camp-barcelona-current-state-of-icinga" title="Icinga Camp Barcelona - Current State of Icinga" target="_blank">Icinga Camp Barcelona - Current State of Icinga</a> </strong> from <strong><a href="//www.slideshare.net/icinga" target="_blank">Icinga</a></strong> </div>
+</div>
+<br/>
+
 ### Grafana
 - [Grafana](http://grafana.org/) Beautiful metric & analytic dashboards
 
@@ -252,6 +261,11 @@
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/lYDwY0HIujnMO7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CAinc/what-can-ca-apm-10-do-for-you" title="What Can CA APM 10 Do For You?" target="_blank">What Can CA APM 10 Do For You?</a> </strong> from <strong><a href="//www.slideshare.net/CAinc" target="_blank">CA Technologies</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbPgaXSPfcQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

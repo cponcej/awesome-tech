@@ -2,7 +2,9 @@
 
 - [Elasticsearch](#elasticsearch)
     - [Logstash, kibana and elasticsearch](#logstash-kibana-and-elasticsearch)
+- [Graylog](#graylog)
 - [Syslog ng](#syslog-ng)
+- [Advanced troubleshooting linux performance](#advanced-troubleshooting-linux-performance)
 
 <!-- /MarkdownTOC -->
 
@@ -72,6 +74,24 @@
 </div> 
 <br/>
 
+# Graylog
+- [graylog.org](https://www.graylog.org/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XRjjyrgxbNQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div> 
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/uIC7VAJtltk1B0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/atSistemas/webinar-usando-graylog-para-la-gestin-centralizada-de-logs" title="Webinar usando graylog para la gestión centralizada de logs" target="_blank">Webinar usando graylog para la gestión centralizada de logs</a> </strong> from <strong><a href="//www.slideshare.net/atSistemas" target="_blank">atSistemas</a></strong> </div>
+</div> 
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4O2yF0FBwdLlsw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/inovex/monitoring-with-graylog-a-modern-approach-to-monitoring" title="Monitoring with Graylog - a modern approach to monitoring?" target="_blank">Monitoring with Graylog - a modern approach to monitoring?</a> </strong> from <strong><a href="//www.slideshare.net/inovex" target="_blank">inovex GmbH</a></strong> </div>
+</div> 
+<br/>
+
 # Syslog ng
 - [syslog-ng: Open Source log management solution with over a million users worldwide 🌟](https://syslog-ng.org/)
 - [syslog-ng.org: Introduction to disk-based buffering in syslog-ng Open Source Edition 🌟🌟](https://syslog-ng.org/493-2/)
@@ -108,6 +128,13 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">LogZoom, a fast and lightweight substitute for Logstash<a href="https://t.co/XuApDTNoZC">https://t.co/XuApDTNoZC</a><a href="https://t.co/NKMs4mryPU">https://t.co/NKMs4mryPU</a><a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> <a href="https://twitter.com/hashtag/golang?src=hash">#golang</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/718377879336263680">8 de abril de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![you can't write code without knowing how to log](images/Strip-Log-nonstandard.jpg)](http://www.commitstrip.com/en/2016/02/25/you-cant-write-code-without-knowing-how-to-log/)
+
+# Advanced troubleshooting linux performance 
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/aEf0MujlNm6XHG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/forthscale/advanced-troubleshooting-linux-performance" title="Advanced troubleshooting linux performance" target="_blank">Advanced troubleshooting linux performance</a> </strong> from <strong><a href="//www.slideshare.net/forthscale" target="_blank">Forthscale</a></strong> </div>
+</div> 
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">“Let’s aggregate and analyze our log files” <a href="https://t.co/UERamUhzvJ">pic.twitter.com/UERamUhzvJ</a></p>&mdash; the grugq (@thegrugq) <a href="https://twitter.com/thegrugq/status/741667306615365632">11 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -75,7 +75,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 	- [SQL injection 🌟](sql_injection.md)
 8. [DevOps and ITIL 🌟🌟🌟](devops-itil.md)
 	- [Web Performance and Metrics. JMeter, Webpagetest, Zabbix, APM 🌟](metrics.md)
-	- [Elasticsearch](elasticsearch.md)
+	- [Elasticsearch, Graylog, Syslog ng](elasticsearch.md)
 	- [Continuous Integration Tools. Jenkins, Nexus, Bamboo, Git](jenkins-git.md)
 9. [Configuration Management and Orchestration. Microservices 🌟🌟](config-mgmt.md)
 	- [Ansible 🌟🌟🌟](ansible.md)

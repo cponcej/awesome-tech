@@ -55,7 +55,7 @@ pages:
 - SQL Injection: sql_injection.md
 - DevOps and ITIL: devops-itil.md
 - Metrics. JMeter, Zabbix, APM: metrics.md
-- Elasticsearch: elasticsearch.md
+- Elasticsearch, Graylog, Syslog ng: elasticsearch.md
 - Continuous Integration Tools. Jenkins, Nexus, Bamboo, Git: jenkins-git.md
 - Configuration Management and Orchestration. Microservices: config-mgmt.md
 - Ansible: ansible.md
