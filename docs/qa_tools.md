@@ -232,6 +232,11 @@
 
 [![dilbert_qa4](images/dilbert_qa4.gif)](http://dilbert.com/strip/2011-07-21)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-7ZDTV_ano?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Calabash automated acceptance testing for mobile apps
 - [Calabash](http://calaba.sh/)
 
@@ -344,6 +349,11 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a59jWfwmKgA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P63Koe6aX4s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 
