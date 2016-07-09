@@ -76,6 +76,8 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Trailer de House of Cards, repaso ideal antes de ver la Temp 4. El líder que nos merecemos (Sin subtítulos) <a href="https://t.co/7XtQBSxt3G">https://t.co/7XtQBSxt3G</a></p>&mdash; Santiago García (@sangarciacorre) <a href="https://twitter.com/sangarciacorre/status/707600155177041920">9 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![loyalty_simon_sinek](images/loyalty_simon_sinek.png)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Cuando estudias ciencias políticas y te dicen que House of Cards es realista. <a href="https://t.co/OCM9HApXwN">pic.twitter.com/OCM9HApXwN</a></p>&mdash; Memes políticos (@PoliReac) <a href="https://twitter.com/PoliReac/status/707571385778970626">9 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
