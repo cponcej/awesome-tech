@@ -112,6 +112,11 @@
 
 <iframe width='560' height='315' src='https://www.lynda.com/player/embed/505758?fs=3&w=560&h=315&ps=paused&utm_medium=referral&utm_source=embed+video&utm_campaign=ldc-website&utm_content=vid-505758' mozallowfullscreen='true' webkitallowfullscreen='true' allowfullscreen='true' frameborder='0'></iframe><div style="margin-bottom:10px"><strong><a href="http://www.lynda.com/Excel-tutorials/Excel-Tips/363001-2.html" title="Get a new productivity-boosting tip every Tuesday from Excel expert Dennis Taylor.">Excel Tips Weekly</a></strong> by <a href="https://www.lynda.com/author/574677">Dennis Taylor</a></div>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/II8TUZlXx2w?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Have you used the Gantt <a href="https://twitter.com/hashtag/chart?src=hash">#chart</a> in Excel before? Use it to take your data to the next level. <a href="https://t.co/FxdDp4rVOR">pic.twitter.com/FxdDp4rVOR</a></p>&mdash; Microsoft Excel (@msexcel) <a href="https://twitter.com/msexcel/status/699594080590893056">febrero 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
