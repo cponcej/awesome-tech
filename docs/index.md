@@ -38,7 +38,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 
 [![eweek_logo](images/eweek_logo.jpg)](https://www.youtube.com/c/eweek1)
 
-[![computerworld_logo](images/computerworld_logo.jpg)](https://www.youtube.com/c/computerworld)
+[![computerworld_logo](images/computerworld_logo.png)](https://www.youtube.com/c/computerworld)
 
 [![thenextweb](images/tnw.png)](https://www.youtube.com/user/thenextweb)
 
