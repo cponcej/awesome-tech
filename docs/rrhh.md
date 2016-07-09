@@ -382,4 +382,9 @@
 <blockquote class="twitter-video tw-align-center" data-lang="es"><p lang="es" dir="ltr">Si no te gusta el fútbol en España, ESTAS JODIDO. <a href="https://twitter.com/hashtag/finalchampions?src=hash">#finalchampions</a> <a href="https://twitter.com/hashtag/halamadrid?src=hash">#halamadrid</a> <a href="https://twitter.com/hashtag/aupaatleti?src=hash">#aupaatleti</a> <a href="https://t.co/qI33jtAKTo">pic.twitter.com/qI33jtAKTo</a></p>&mdash; Wasabi Humor (@wasabihumor) <a href="https://twitter.com/wasabihumor/status/736504024875323392">28 de mayo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DlfNw6v5e38?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 
