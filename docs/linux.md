@@ -42,6 +42,7 @@
 		- [Linux SSH](#linux-ssh)
 		- [Rsync](#rsync)
 		- [iptables](#iptables)
+		- [ModSecurity Web Application Level Firewall](#modsecurity-web-application-level-firewall)
 		- [SELinux, AppArmor and OpenSCAP](#selinux-apparmor-and-openscap)
 	- [Vim and Emacs](#vim-and-emacs)
 		- [Vim](#vim)
@@ -724,6 +725,16 @@
 - [Linux Iptables Delete postrouting Rule Command 🌟🌟](http://www.cyberciti.biz/faq/how-to-iptables-delete-postrouting-rule/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Blocklist of all Facebook domains <br><br>-&gt; /etc/hosts file <a href="https://t.co/fh3G6c2Tqg">https://t.co/fh3G6c2Tqg</a><br><br>-&gt; iptables <a href="https://t.co/oH3r62qByF">https://t.co/oH3r62qByF</a> <a href="https://twitter.com/hashtag/privacy?src=hash">#privacy</a> <a href="https://twitter.com/hashtag/security?src=hash">#security</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/736581390276272128">28 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### ModSecurity Web Application Level Firewall
+- [modsecurity.org](https://www.modsecurity.org/) ModSecurity is an open source, cross-platform web application firewall (WAF) module. Known as the "Swiss Army Knife" of WAFs, it enables web application defenders to gain visibility into HTTP(S) traffic and provides a power rules language and API to implement advanced protections.
+
+[![modsecurity_logo](images/modsecurity_logo.png)](https://www.modsecurity.org/)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AqNWLms7zvw?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 ### SELinux, AppArmor and OpenSCAP
 - [Red Hat Security: Celebrating 15 Years of SELinux](http://www.redhat.com/en/about/blog/celebrating-15-years-selinux)
