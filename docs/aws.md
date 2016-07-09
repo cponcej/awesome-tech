@@ -321,6 +321,7 @@
 - [AWS OpsWorks](https://aws.amazon.com/opsworks/)
 - [AWS OpsWorks - Chef Versions](http://docs.aws.amazon.com/opsworks/latest/userguide/workingcookbook-chef11.html)
 - [youtube: AWS OpsWorks Overview and Demo](https://www.youtube.com/watch?v=cj_LoG6C2xk&list=PLR3sVanzLpJN6BiYS20K4BMPpiDGifbZy)
+- [Use OpsWorks to create and manage instances that run CentOS 7](https://docs.aws.amazon.com/opsworks/latest/userguide/workinginstances-os-linux.html?adbsc=docs_20160709_63418706&adbid=UPDATE-c2382910-6157610151248490496&adbpl=li&adbpr=2382910#workinginstances-os-linux-centos)
 
 [![aws_opsworks_centos](images/aws_opsworks_centos.png)](https://aws.amazon.com/es/about-aws/whats-new/2016/06/aws-opsworks-supports-centos/)
 
