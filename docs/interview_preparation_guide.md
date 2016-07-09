@@ -70,6 +70,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Mas candidatos que oferta en empleo TIC <a href="https://twitter.com/ticjob">@ticjob</a><a href="https://t.co/W4Rus6i0bd">https://t.co/W4Rus6i0bd</a></p>&mdash; ComputerWorld España (@ComputerworldES) <a href="https://twitter.com/ComputerworldES/status/751432003006832640">8 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Interview Preparation Guide
 - [Interview Preparation Guide](https://github.com/ride/interview-prep)
 - [The Ultimate Guide to Acing Your Skype Interview](https://www.themuse.com/advice/the-ultimate-guide-to-acing-your-skype-interview)
