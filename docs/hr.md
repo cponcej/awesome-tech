@@ -264,6 +264,9 @@
 
 [![soft_skills](images/soft_skills.png)](https://www.linkedin.com/pulse/who-you-calling-soft-value-skills-tech-obsessed-economy-dennis-yang)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">While we know the value of hard skills in our tech economy, <a href="https://twitter.com/dennistyang">@dennistyang</a> reminds us not to forget about <a href="https://twitter.com/hashtag/softskills?src=hash">#softskills</a>&gt;<a href="https://t.co/OLaLDY8h2Q">https://t.co/OLaLDY8h2Q</a></p>&mdash; Udemy (@udemy) <a href="https://twitter.com/udemy/status/751523814018785280">8 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![you_dont_work_as_much_as_coworkers](images/you_dont_work_as_much_as_coworkers.png)](http://dilbert.com/strip/2016-06-06#comments)
 
 <div class="container">

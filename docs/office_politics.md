@@ -45,6 +45,11 @@
 
 [![BoomerangeEmployees](images/BoomerangeEmployees.jpg)](http://www.baselinemag.com/careers/slideshows/what-motivates-boomerang-employees-to-return.html)
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/D6ouyeycWk8?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
 [![Boomerang-Stat-76-percent-more-accepting-of-boomerangs](images/Boomerang-Stat-76-percent-more-accepting-of-boomerangs.jpg)](http://www.kronos.com/pr/boomerang-employees-and-the-organizations-they-once-left.aspx)
 
 <iframe title="USA TODAY - Embed Player" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="http://www.usatoday.com/videos/embed/71520046/?fullsite=true"></iframe>

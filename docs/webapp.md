@@ -272,6 +272,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">YouTube’s new Director tools allow small businesses to create video ads on their phones <a href="https://t.co/7OOZeT4KoX">https://t.co/7OOZeT4KoX</a> by <a href="https://twitter.com/anthonyha">@anthonyha</a></p>&mdash; TechCrunch (@TechCrunch) <a href="https://twitter.com/TechCrunch/status/743096005105590273">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Audio music streams just surpassed video streams for the 1st time in history <a href="https://t.co/FRHDCSEqbq">https://t.co/FRHDCSEqbq</a> <a href="https://t.co/Q7goNhWrz9">pic.twitter.com/Q7goNhWrz9</a></p>&mdash; Forbes (@Forbes) <a href="https://twitter.com/Forbes/status/751516459449417729">8 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Distributed Messaging System. Message oriented middleware 
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Apache Kafka](http://kafka.apache.org/)

@@ -37,6 +37,9 @@
 
 [![history_of_cloud](images/history_of_cloud.png)](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why did the Cloud happen? In part because Moore&#39;s Law made computers much cheaper than developers. <a href="https://t.co/Cu1EEdWgKT">https://t.co/Cu1EEdWgKT</a> <a href="https://twitter.com/hashtag/2MA?src=hash">#2MA</a></p>&mdash; Andrew McAfee (@amcafee) <a href="https://twitter.com/amcafee/status/750769291549609985">6 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/VDC?src=hash">#VDC</a>: Flexibilidad para que las infraestructuras se adapten a tu negocio... y no al revés <a href="https://t.co/BMfJ6TNbgD">https://t.co/BMfJ6TNbgD</a> <a href="https://twitter.com/hashtag/Cloud?src=hash">#Cloud</a></p>&mdash; A un clic de las TIC (@AunCLICdelasTIC) <a href="https://twitter.com/AunCLICdelasTIC/status/743141248626794496">15 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

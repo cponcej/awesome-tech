@@ -52,6 +52,9 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Muy bueno - recomendado para mis estudiantes del Grado RRLL y RRHH: &quot;PECERA&quot;, el corto más reivindicativo del año. <a href="https://t.co/tdNSHbk0c4">https://t.co/tdNSHbk0c4</a></p>&mdash; Alberto R.Villaverde (@alberto_ugr) <a href="https://twitter.com/alberto_ugr/status/683382607699152897">2 de enero de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Los requisitos de una carta de despido. Errores de forma pueden invalidarlo. <a href="https://twitter.com/hashtag/laboral?src=hash">#laboral</a> <a href="https://t.co/5yGeWGG33o">https://t.co/5yGeWGG33o</a></p>&mdash; Oscar de las Heras (@oscardelas) <a href="https://twitter.com/oscardelas/status/751506112407625728">8 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Best way to deliver bad news: <a href="https://t.co/CyRZExxfU7">https://t.co/CyRZExxfU7</a> via <a href="https://twitter.com/YouTube">@youtube</a> <a href="https://twitter.com/hashtag/moneyball?src=hash">#moneyball</a></p>&mdash; Jenny Kay Pollock (@jennykaypollock) <a href="https://twitter.com/jennykaypollock/status/707406607328485377">9 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
