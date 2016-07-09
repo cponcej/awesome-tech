@@ -12,6 +12,8 @@
 </div>
 <br/>
 
+[![simo](images/simo.jpg)](http://www.ifema.es/simoeducacion_01/)
+
 # IT Television
 - [IT Television](https://www.youtube.com/c/ittelevisiones)
 
