@@ -219,3 +219,8 @@
 <br>
 
 [![bill_gates_barsa](images/bill_gates_barsa.png)](https://www.linkedin.com/pulse/extrovert-monopoly-sport-scrutinised-james-anderson)
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-MZ1rsSrq5Q?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
