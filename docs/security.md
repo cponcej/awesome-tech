@@ -255,6 +255,7 @@
 - [nakedsecurity.sophos.com](https://nakedsecurity.sophos.com/)
 	- [nakedsecurity.sophos.com - Anatomy of an exploit: the Microsoft Word bug that just won’t die](https://nakedsecurity.sophos.com/2016/07/01/anatomy-of-an-exploit-the-microsoft-word-bug-that-just-wont-die/)
 - [Trendmicro: ¿Qué es el ransomware? 🌟🌟🌟](https://image-store.slidesharecdn.com/1d7d2982-9b05-49c2-b78c-0f71b9226dd5-original.jpeg)
+- [Malware hits millions of Android phones](http://www.bbc.com/news/technology-36744925)
 
 [![mac users malware](images/mac_users_malware.png)](http://www.businessinsider.com/mac-users-attacked-with-ransomware-2016-3)
 
