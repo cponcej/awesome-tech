@@ -36,6 +36,16 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 
 [![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)
 
+[![eweek_logo](images/eweek_logo.jpg)](https://www.youtube.com/c/eweek1)
+
+[![computerworld_logo.jpg](images/computerworld_logo.jpg)](https://www.youtube.com/c/computerworld)
+
+[![thenextweb](images/tnw.png)](https://www.youtube.com/user/thenextweb)
+
+[![cio_logo](images/cio_logo.jpg)](https://www.youtube.com/user/CIOtv)
+
+[![silicon_angle](images/silicon_angle.png)](https://www.youtube.com/user/siliconangle)
+
 **Table of Contents**
 
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)
