@@ -116,6 +116,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/KK2XfDmQ5Jg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## Metric monitoring
 ### Tools
 - [Stop using Nagios (so it can die peacefully) 🌟](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
