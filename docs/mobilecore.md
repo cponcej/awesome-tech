@@ -129,12 +129,22 @@
 <br>
 
 <div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/hWGm4060azo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1ug0kqpVvMWWE1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kirank29/ims-volte-sip" title="Ims volte sip" target="_blank">Ims volte sip</a> </strong> de <strong><a href="//www.slideshare.net/kirank29" target="_blank">Kiran Koona</a></strong> </div>
 </div>
 <br>
 
 <div class="container">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/abMFqY2s6FU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6fMtYRnevqJTec" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Dialogic/ims-volte-and-getting-ready-for-nfv" title="IMS/ VoLTE and Getting Ready for NFV" target="_blank">IMS/ VoLTE and Getting Ready for NFV</a> </strong> from <strong><a href="//www.slideshare.net/Dialogic" target="_blank">Dialogic Inc.</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/apmz8FEGP9uy8O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RADVISION/lte-the-future-of-ims" title="LTE – the Future of IMS" target="_blank">LTE – the Future of IMS</a> </strong> from <strong><a href="//www.slideshare.net/RADVISION" target="_blank">RADVISION Ltd.</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/hWGm4060azo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
 
