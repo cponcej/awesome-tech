@@ -78,12 +78,13 @@ pages:
 - Anaconda Analytics: anaconda.md
 - Big Bang Data: bigbangdata.md
 - Networking: networking.md
-- Mobile Core Network. IMS: mobilecore.md
 - Virtual LAN: VLAN.md
 - Next Generation Firewalls (NGFW): NGFW.md
 - Network Forensics: nw_forensics.md
 - Network Performance: nw_performance.md
 - VoIP: voip.md
+- Mobile Core Network: mobilecore.md
+- IMS IP Multimedia Subsystem: ims.md
 - IPTV Internet Protocol Television: iptv.md
 - Servers, Storage and Backup: servers-storage-backup.md
 - VMware, VirtualBox: vmware.md
