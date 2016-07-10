@@ -2,6 +2,7 @@
 
 - [Performance Testing. Traffic injectors](#performance-testing-traffic-injectors)
     - [JMeter](#jmeter)
+        - [Video Streaming Load Testing](#video-streaming-load-testing)
     - [Webpagetest](#webpagetest)
     - [Performance tools in Firefox](#performance-tools-in-firefox)
     - [Google New website Testing tool for Small Businesses](#google-new-website-testing-tool-for-small-businesses)
@@ -17,11 +18,13 @@
 ## JMeter
 - [javacodegeeks.com: JMeter Tutorial for Load Testing – The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [blazemeter.com: The Ultimate JMeter Resource List (july 2015)](https://blazemeter.com/blog/ultimate-jmeter-resource-list)
-- [blazemeter.com: How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
 - [guru99.com: Free Jmeter Tutorials](http://www.guru99.com/jmeter-tutorials.html)
 - [unpocodejava.wordpress.com: ¿Cómo hacer pruebas de carga de una clase Java con JMeter?](https://unpocodejava.wordpress.com/2015/12/21/como-hacer-pruebas-de-carga-de-una-clase-java-con-jmeter-2/)
 - [DZone refcard: Getting Started With Apache JMeter 🌟](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 - [The DNS Cache Manager: The Right Way To Test Load Balanced Apps 🌟](https://www.blazemeter.com/blog/dns-cache-manager-right-way-test-load-balanced-apps)
+
+### Video Streaming Load Testing
+- [blazemeter.com: How to Load Test HTTP Live Media Streaming (HLS) with JMeter](http://blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
 
 [![dzone_jmeter_refcard](images/dzone_jmeter_refcard.png)](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 
