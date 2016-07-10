@@ -1,7 +1,7 @@
 **Table of Contents**
 <!-- MarkdownTOC -->
 
-- [Startups and IT Jobs](#startups-and-it-jobs)
+- [Startups, multinationals and IT Jobs](#startups-multinationals-and-it-jobs)
 	- [Startup related links](#startup-related-links)
 		- [Startup Blogs, Documentaries and Talks](#startup-blogs-documentaries-and-talks)
 	- [IT remuneration](#it-remuneration)
@@ -90,7 +90,7 @@
 
 [![distribucion_ingresos_espana](images/distribucion_ingresos_espana.png)](https://image-store.slidesharecdn.com/7ac618a4-bb3d-4733-ab9e-03153bf7744e-original.jpeg)
 
-# Startups and IT Jobs
+# Startups, multinationals and IT Jobs
 - [La economía crece 🌟](mkeiser.md)
 - [IT Jobs Watch, Tracking the IT Job Market 🌟🌟](http://www.itjobswatch.co.uk/)
 - [Global Technology Adoption Index 2015](https://powermore.dell.com/2015-global-technology-adoption-index/)

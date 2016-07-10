@@ -41,7 +41,7 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
 1. [High quality tech resources and search engines 🌟🌟🌟](high-quality-tech-resources.md)
 	- [Newsfeeds and Twitter resources 😀](twitter.md)
 	- [Miscellaneous. IT Blogs, Support](it-blogs.md)
-2. [Startups and IT Jobs, In-Demand Skills](startups.md)
+2. [Startups, multinationals and IT Jobs. In-Demand Skills](startups.md)
 	- [Leadership Styles Around the World 🌟](leadership_styles_around_world.md)
 	- [Barcelona Tech, Startups and Innovation](startups_bcn.md)
 	- [Madrid Tech, Startups and Innovation](startups_madrid.md)

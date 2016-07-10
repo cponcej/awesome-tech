@@ -35,6 +35,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="es" dir="ltr">Barcelona gana a Madrid en la pugna por atraer empresas de Londres tras Brexit <a href="https://t.co/i8j5deYgJ8">https://t.co/i8j5deYgJ8</a> <a href="https://twitter.com/hashtag/negocios?src=hash">#negocios</a> <a href="https://t.co/T5uVfFUDDz">pic.twitter.com/T5uVfFUDDz</a></p>&mdash; José Manuel García (@abcTraderClub) <a href="https://twitter.com/abcTraderClub/status/751844450515689472">9 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Culture and collaboration
 - [hbr.org: Aligning Your Organization with an Agile Workforce](https://hbr.org/2016/02/aligning-your-organization-with-an-agile-workforce)
 - [deloitte: Cultivating the IT Workforce of the Future](http://deloitte.wsj.com/cio/2015/10/20/cultivating-the-it-workforce-of-the-future/)
