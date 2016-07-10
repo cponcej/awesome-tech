@@ -1,6 +1,6 @@
 <!-- MarkdownTOC -->
 
-- [Performance Testing. Traffic injectors](#performance-testing-traffic-injectors)
+- [Performance Testing. Traffic injectors/generators](#performance-testing-traffic-injectorsgenerators)
     - [JMeter](#jmeter)
         - [Video Streaming Load Testing](#video-streaming-load-testing)
     - [Webpagetest](#webpagetest)
@@ -14,7 +14,7 @@
 
 [![dzone_peformance_zone](images/dzone_peformance_zone.png)](https://dzone.com/apm-tools-performance-monitoring-optimization)
 
-# Performance Testing. Traffic injectors
+# Performance Testing. Traffic injectors/generators
 ## JMeter
 - [javacodegeeks.com: JMeter Tutorial for Load Testing – The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [blazemeter.com: The Ultimate JMeter Resource List (july 2015)](https://blazemeter.com/blog/ultimate-jmeter-resource-list)

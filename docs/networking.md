@@ -120,6 +120,11 @@
 </div>
 <br/>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2Me02xGBOaDGWQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/basimaly1/introduction-to-sdn-and-nfv" title="Introduction to SDN and NFV" target="_blank">Introduction to SDN and NFV</a> </strong> from <strong><a href="//www.slideshare.net/basimaly1" target="_blank">Basim Aly (JNCIP-SP, JNCIP-ENT)</a></strong> </div>
+</div>
+<br/>
+
 ### OpenDaylight
 -  With the rise of cloud computing and the expansion of data centers, software-defined solutions, like this Linux-based platform, are gaining greater traction in the tech industry. OpenDaylight works to help drive network success, reduce business costs and provide employees with greater flexibility.
 - [opendaylight.org](https://www.opendaylight.org)

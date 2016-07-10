@@ -1,6 +1,7 @@
 <!-- MarkdownTOC -->
 
 - [Mobile Core Network](#mobile-core-network)
+    - [Signaling. Diameter protocol](#signaling-diameter-protocol)
 
 <!-- /MarkdownTOC -->
 
@@ -94,3 +95,20 @@
 </div>
 <br>
 
+## Signaling. Diameter protocol
+- [Diameter protocol - wikipedia](https://en.wikipedia.org/wiki/Diameter_(protocol))
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pT2ue47VcCPipI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/basimaly1/introduction-to-diameter-protocol-part1" title="Introduction to Diameter Protocol - Part1" target="_blank">Introduction to Diameter Protocol - Part1</a> </strong> from <strong><a href="//www.slideshare.net/basimaly1" target="_blank">Basim Aly (JNCIP-SP, JNCIP-ENT)</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3J88OdcB7oG6LC" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BenyHaddad/diameter-presentation" title="Diameter Presentation" target="_blank">Diameter Presentation</a> </strong> from <strong><a href="//www.slideshare.net/BenyHaddad" target="_blank">Beny Haddad</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/p8MxpCAMbZutC7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/zahidtg/diameter-and-lte-roaming" title="Diameter and LTE Roaming" target="_blank">Diameter and LTE Roaming</a> </strong> from <strong><a href="//www.slideshare.net/zahidtg" target="_blank">Zahid Ghadialy</a></strong> </div>
+</div>
+<br>

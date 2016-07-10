@@ -70,6 +70,11 @@
 - [MobaXterm](http://mobaxterm.mobatek.net/)
 - [Need an SSH client on Windows? Don't use Putty or CygWin...use Git](http://www.hurryupandwait.io/blog/need-an-ssh-client-on-windows-dont-use-putty-or-cygwinuse-git)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1ZXHdwqOr9pGcp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/basimaly1/vandyke-securecrt-tips-and-tricks" title="Vandyke SecureCRT tips and tricks" target="_blank">Vandyke SecureCRT tips and tricks</a> </strong> from <strong><a href="//www.slideshare.net/basimaly1" target="_blank">Basim Aly (JNCIP-SP, JNCIP-ENT)</a></strong> </div>
+</div>
+<br/>
+
 [![pirates of silicon valley](images/pirates_of_silicon_valley.jpg)](https://vimeo.com/55439991)
 
 [![number of running windows dec 2015](images/number_of_win10.jpg)](http://www.computerworld.com/article/3018882/windows-pcs/microsofts-new-tally-for-windows-10-200m.html)

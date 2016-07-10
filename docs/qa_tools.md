@@ -401,6 +401,7 @@ ________________________________________________________________________________
 - [Guru99.com Protocol Testing](http://www.guru99.com/protocol-testing.html)
 - [TTCN](https://en.wikipedia.org/wiki/TTCN) TTCN is a programming language used for testing of communication protocols and web services. 
 - [IMS Testing](http://www.etsi.org/technologies-clusters/technologies/testing/ims-testing)
+- [Seagull: an Open Source Multi-protocol traffic generator (Diameter Test)](http://gull.sourceforge.net/) Seagull is a multi-protocol traffic generator. Especially targeted towards IMS, Seagull supports Diameter (RFC3588 and all applications) over TCP/SCTP and IPv4/IPv6 , TCAP (over SS7 or Sigtran), XCAP over HTTP and Radius.
 
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/1JWY-9CCTqI?rel=0" frameborder="0" allowfullscreen class="video"></iframe>

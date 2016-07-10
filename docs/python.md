@@ -115,6 +115,16 @@
 	- [Part 2 Supplementary Code](https://github.com/TrackMaven/getting-started-with-drf-angular/tree/part-2)
 - [webcodegeeks.com: Python Django Tutorial](http://www.webcodegeeks.com/python/python-django-tutorial/)
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KPwgA2IwOKggJA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/basimaly1/building-python-development-station" title="Building Python Development Station" target="_blank">Building Python Development Station</a> </strong> from <strong><a href="//www.slideshare.net/basimaly1" target="_blank">Basim Aly (JNCIP-SP, JNCIP-ENT)</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1ZXHdwqOr9pGcp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/basimaly1/vandyke-securecrt-tips-and-tricks" title="Vandyke SecureCRT tips and tricks" target="_blank">Vandyke SecureCRT tips and tricks</a> </strong> from <strong><a href="//www.slideshare.net/basimaly1" target="_blank">Basim Aly (JNCIP-SP, JNCIP-ENT)</a></strong> </div>
+</div>
+<br/>
+
 ## Python Flask 
 - [The Flask Mega-Tutorial: Now with Python 3 Support](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-now-with-python-3-support)
 - [realpython.com: Discover Flask, Part 1 - Setting Up a Static Site ](https://realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site/)
