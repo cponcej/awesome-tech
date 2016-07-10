@@ -1,6 +1,6 @@
 <!-- MarkdownTOC -->
 
-- [Web Performance Testing. Traffic injectors](#web-performance-testing-traffic-injectors)
+- [Performance Testing. Traffic injectors](#performance-testing-traffic-injectors)
     - [JMeter](#jmeter)
     - [Webpagetest](#webpagetest)
     - [Performance tools in Firefox](#performance-tools-in-firefox)
@@ -13,7 +13,7 @@
 
 [![dzone_peformance_zone](images/dzone_peformance_zone.png)](https://dzone.com/apm-tools-performance-monitoring-optimization)
 
-# Web Performance Testing. Traffic injectors
+# Performance Testing. Traffic injectors
 ## JMeter
 - [javacodegeeks.com: JMeter Tutorial for Load Testing – The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [blazemeter.com: The Ultimate JMeter Resource List (july 2015)](https://blazemeter.com/blog/ultimate-jmeter-resource-list)
