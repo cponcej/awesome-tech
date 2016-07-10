@@ -119,6 +119,41 @@
 <br>
 
 <div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/k9RwCTsvr9c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/Iv1ErkK31lOlL7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FrankQ85/arquitectura-ims" title="Arquitectura IMS" target="_blank">Arquitectura IMS</a> </strong> from <strong><a href="//www.slideshare.net/FrankQ85" target="_blank">FrankQ85</a></strong> </div>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/hWGm4060azo?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/abMFqY2s6FU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F03bxSDmzVs?list=PLuN0RblconqwM-ZuU5G0viM64Hq5bq4LJ" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/bJV5lTs7rjE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gntRH0MMQgs?list=PLuN0RblconqxyB8RFj8A03bK0BJCXtnIc" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br>
+
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/JadGES2sKEs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br>
