@@ -121,6 +121,8 @@ Disable Tracking Protection in Firefox in order to render the embedded tweets</s
     - [World Press Photo 🌟🌟🌟🌟](world-press-photo.md)
     - [Quote](mkeiser.md)
 
+[![redhatvideos](images/redhatvideos.jpg)](https://www.youtube.com/user/RedHatVideos) [![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices) [![azurevideos](images/azurevideos.jpg)](https://www.youtube.com/microsoftazure) [![google_compute_videos](images/google_compute_videos.jpg)](https://www.youtube.com/googlecode) [![googleplatform_videos](images/googleplatform_videos.jpg)](https://www.youtube.com/c/googlecloudplatform) [![apple_videos](images/apple_videos.jpg)](https://www.youtube.com/user/Apple) [![swift_language_videos](images/swift_language_videos.jpg)](https://www.youtube.com/c/theswiftlanguage) 
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Technology is anything invented after you were born. - Alan Kay</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/711841287792504833">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
