@@ -69,8 +69,8 @@ pages:
 - Static Site Generators: staticsitegen.md
 - QA and Testing: qa.md
 - Testing Tools: qa_tools.md
+- Web Performance Tools. JMeter, Webpagetest, Taurus, Gatling: webperftesting.md
 - Scalability and Reliability: scalability.md
-- Web Performance. JMeter, Webpagetest, Taurus, Gatling: webperftesting.md
 - Continuous Integration Tools. Jenkins, Git: jenkins-git.md
 - Data Science and Big Data: data-science.md
 - SQL and Databases: databases.md
