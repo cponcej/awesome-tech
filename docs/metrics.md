@@ -23,8 +23,6 @@
 
 [![dzone_performance_monitoring](images/dzone_performance_monitoring.png)](https://dzone.com/guides/performance-and-monitoring)
 
-[![google_new_website_testing_tool](images/google_new_website_testing_tool.png)](http://www.learnunbound.com//articles/google-launches-new-website-testing-tool-for-small-businesses)
-
 [![dzone_howto_troubleshoot_cpu_java](images/dzone_howto_troubleshoot_cpu_java.png)](https://dzone.com/articles/troubleshoot-sudden-cpu-spikes)
 
 [![grafana](images/grafana.png)](http://grafana.org/)
@@ -41,19 +39,19 @@
 - [Time series database - wikipedia](https://en.wikipedia.org/wiki/Time_series_database)
 
 #### Open Source
-    - RRDtool
-    - [Graphite](http://graphite.readthedocs.io)
-    - Druid
-    - Riak-TS
-    - [InfluxDB](https://github.com/influxdata/influxdb) InfluxDB is an open source time series database with no external dependencies. It's useful for recording metrics, events, and performing analytics. 
+- RRDtool
+- [Graphite](http://graphite.readthedocs.io)
+- Druid
+- Riak-TS
+- [InfluxDB](https://github.com/influxdata/influxdb) InfluxDB is an open source time series database with no external dependencies. It's useful for recording metrics, events, and performing analytics. 
 
 #### Proprietary
-    - Honeywell Uniformance PHD
-    - Informix TimeSeries
-    - kdb+
-    - OSIsoft PI
-    - SAP HANA[2]
-    - Splunk
+- Honeywell Uniformance PHD
+- Informix TimeSeries
+- kdb+
+- OSIsoft PI
+- SAP HANA[2]
+- Splunk
     
 ### Tools
 - [Stop using Nagios (so it can die peacefully) 🌟](http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully)
