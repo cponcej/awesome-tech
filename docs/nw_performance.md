@@ -5,6 +5,7 @@
         - [ntop](#ntop)
         - [Solarwinds](#solarwinds)
         - [NetCrunch](#netcrunch)
+        - [PRTG](#prtg)
 
 <!-- /MarkdownTOC -->
 
@@ -61,5 +62,13 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e5R0hliHHVk?list=PL4350CA1BB4DE458A" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+#### PRTG
+- [PRTG](https://www.paessler.com/prtg)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IB-n_aRLgKw?list=PLlzpc0FQ9agj7_SWkChqqisv1Sky8ckgU" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
