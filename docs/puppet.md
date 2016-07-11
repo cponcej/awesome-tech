@@ -40,6 +40,11 @@
 <blockquote class="reddit-card" data-card-created="1467912191"><a href="https://www.reddit.com/r/Puppet/comments/4rbbm5/puppet_4_user_base/?ref=share&ref_source=embed">Puppet 4 user base</a> from <a href="http://www.reddit.com/r/Puppet">Puppet</a></blockquote>
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nBzt5CFixQln7F" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PuppetLabs/the-tools-for-learning-puppet-command-line-vim-git-63925964" title="The Tools for Learning Puppet: Command Line, VIM &amp; GIT " target="_blank">The Tools for Learning Puppet: Command Line, VIM &amp; GIT </a> </strong> from <strong><a href="//www.slideshare.net/PuppetLabs" target="_blank">Puppet</a></strong> </div>
+</div>
+<br/>
+
 ## DZone and Puppet
 - [DZone: Puppet Labs Redefines Application Orchestration](https://dzone.com/articles/puppet-labs-redefines-application-orchestration)
 - [DZone: Building Docker Images with Puppet](https://dzone.com/articles/building-docker-images-puppet)
