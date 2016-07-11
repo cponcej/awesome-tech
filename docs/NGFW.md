@@ -14,6 +14,8 @@
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/Y6ORssbcHF5P4Puns-jRoA/134533644467" data-did="5149c43f6654210e160397d04d6c754abcfbba41"><a href="http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall">http://securityreactions.tumblr.com/post/134533644467/bypassing-firewall</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 <br>
 
+[![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs) [![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet) [![firewalls_channel](images/firewalls_channel.jpg)](https://www.youtube.com/c/firewallsdotcom) 
+
 # Next Generation Firewalls (NGFW)
 - [Firewalls.com](http://www.firewalls.com/)
 	- [youtube channel: Firewalls.com](https://www.youtube.com/user/firewallsDotCom)
