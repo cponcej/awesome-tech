@@ -131,7 +131,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 
 [![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A) [![simonsinek_videos](images/simonsinek_videos.jpg)](https://www.youtube.com/user/SimonSinek) [![ldavidmarquet_videos](images/ldavidmarquet_videos.jpg)](https://www.youtube.com/c/davidmarquet) [![susan_cain_videos](images/susan_cain_videos.png)](https://www.youtube.com/c/susancain) [![evancarmichael](images/evancarmichael.jpg)](https://www.youtube.com/c/evancarmichael) 
 
-![alt-text-1](images/jt_odonnell_videos.jpg "title-1") ![alt-text-2](images/simonsinek_videos.jpg "title-2")
+|![alt-text-1](images/jt_odonnell_videos.jpg "title-1") |![alt-text-2](images/simonsinek_videos.jpg "title-2")|
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
