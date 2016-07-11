@@ -19,6 +19,8 @@
 
 [![state_testing_report_2016](images/state_testing_report_2016.png)](http://qablog.practitest.com/state-of-testing/)
 
+[![istqb_slides](images/istqb_slides.jpg)](http://es.slideshare.net/ISTQBORG)
+
 [![staging_servers_dead](images/staging_servers_dead.png)](https://dzone.com/articles/staging-servers-are-dead)
 
 <div class="container">
