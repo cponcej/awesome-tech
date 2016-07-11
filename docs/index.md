@@ -43,7 +43,22 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![BI_Social_Profile](images/BI_Social_Profile.jpg)](https://www.youtube.com/user/businessinsider) |[![entrepreneur_logo](images/entrepreneur_logo.jpg)](https://www.youtube.com/c/entrepreneur) | [![eweek_logo](images/eweek_logo.jpg)](https://www.youtube.com/c/eweek1)| [![computerworld_logo](images/computerworld_logo.png)](https://www.youtube.com/c/computerworld) |[![cio_logo](images/cio_logo.jpg)](https://www.youtube.com/user/CIOtv)|
 |:---:|:---:|:---:|:---:|:---:|
 
-|[![techcrunch_logo](images/techcrunch_logo.jpg)](https://www.youtube.com/c/techcrunch)| [![techinsider](images/techinsider.jpg)](https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg) | [![dzone_youtube](images/dzone_youtube.jpg)](https://www.youtube.com/c/dzone) | [![thenextweb2](images/tnw_small.png)](https://www.youtube.com/user/thenextweb)|[![silicon_angle_the_cube](images/thecube.png)](https://www.youtube.com/user/siliconangle)|
+|[![techcrunch_logo](images/techcrunch_logo.jpg)](https://www.youtube.com/c/techcrunch)| [![techinsider](images/techinsider.jpg)](https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg) | [![dzone_youtube](images/dzone_youtube.jpg)](https://www.youtube.com/c/dzone) |[![gotoconferences](images/gotoconferences.jpg)](https://www.youtube.com/user/GotoConferences) |[![oreilly](images/oreilly.jpg)](https://www.youtube.com/oreilly)|
+|:---:|:---:|:---:|:---:|:---:|
+
+|[![thenextweb2](images/tnw_small.png)](https://www.youtube.com/user/thenextweb) |[![silicon_angle_the_cube](images/thecube.png)](https://www.youtube.com/user/siliconangle) |
+|:---:|:---:|
+
+|[![redhatvideos](images/redhatvideos.jpg)](https://www.youtube.com/user/RedHatVideos) |  [![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices) | [![azurevideos](images/azurevideos.jpg)](https://www.youtube.com/microsoftazure) |  [![google_compute_videos](images/google_compute_videos.jpg)](https://www.youtube.com/googlecode) |  [![googleplatform_videos](images/googleplatform_videos.jpg)](https://www.youtube.com/c/googlecloudplatform)|
+|:---:|:---:|:---:|:---:|:---:|
+
+| [![apple_videos](images/apple_videos.jpg)](https://www.youtube.com/user/Apple)|  [![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell) | [![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/HPMobileEnterprise) | [![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs) | [![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet) | [![firewalls_channel](images/firewalls_channel.jpg)](https://www.youtube.com/c/firewallsdotcom) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)| [![spark_videos](images/spark_videos.jpg)](https://www.youtube.com/c/theapachespark)| [![cloudera_videos](images/cloudera_videos.jpg)](https://www.youtube.com/user/clouderahadoop)| [![sap_videos](images/sap_videos.jpg)](https://www.youtube.com/SAPCloud)| [![odoo_videos](images/odoo_videos.jpg)](https://www.youtube.com/c/odooapps)|
+|:---:|:---:|:---:|:---:|:---:|
+
+| [![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A) | [![simonsinek_videos](images/simonsinek_videos.jpg)](https://www.youtube.com/user/SimonSinek) | [![ldavidmarquet_videos](images/ldavidmarquet_videos.jpg)](https://www.youtube.com/c/davidmarquet) | [![susan_cain_videos](images/susan_cain_videos.png)](https://www.youtube.com/c/susancain) | [![evancarmichael](images/evancarmichael.jpg)](https://www.youtube.com/c/evancarmichael)|
 |:---:|:---:|:---:|:---:|:---:|
 
 **Table of Contents**
@@ -130,20 +145,6 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
     - [Live News 🌟](live-news.md)
     - [World Press Photo 🌟🌟🌟🌟](world-press-photo.md)
     - [Quote](mkeiser.md)
-
- [![gotoconferences](images/gotoconferences.jpg)](https://www.youtube.com/user/GotoConferences) [![oreilly](images/oreilly.jpg)](https://www.youtube.com/oreilly)
-
-|[![redhatvideos](images/redhatvideos.jpg)](https://www.youtube.com/user/RedHatVideos) |  [![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices) | [![azurevideos](images/azurevideos.jpg)](https://www.youtube.com/microsoftazure) |  [![google_compute_videos](images/google_compute_videos.jpg)](https://www.youtube.com/googlecode) |  [![googleplatform_videos](images/googleplatform_videos.jpg)](https://www.youtube.com/c/googlecloudplatform)|
-|:---:|:---:|:---:|:---:|:---:|
-
-| [![apple_videos](images/apple_videos.jpg)](https://www.youtube.com/user/Apple)|  [![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell) | [![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/HPMobileEnterprise) | [![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs) | [![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet) | [![firewalls_channel](images/firewalls_channel.jpg)](https://www.youtube.com/c/firewallsdotcom) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-
-|[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)| [![spark_videos](images/spark_videos.jpg)](https://www.youtube.com/c/theapachespark)| [![cloudera_videos](images/cloudera_videos.jpg)](https://www.youtube.com/user/clouderahadoop)| [![sap_videos](images/sap_videos.jpg)](https://www.youtube.com/SAPCloud)| [![odoo_videos](images/odoo_videos.jpg)](https://www.youtube.com/c/odooapps)|
-|:---:|:---:|:---:|:---:|:---:|
-
-| [![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A) | [![simonsinek_videos](images/simonsinek_videos.jpg)](https://www.youtube.com/user/SimonSinek) | [![ldavidmarquet_videos](images/ldavidmarquet_videos.jpg)](https://www.youtube.com/c/davidmarquet) | [![susan_cain_videos](images/susan_cain_videos.png)](https://www.youtube.com/c/susancain) | [![evancarmichael](images/evancarmichael.jpg)](https://www.youtube.com/c/evancarmichael)|
-|:---:|:---:|:---:|:---:|:---:|
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
