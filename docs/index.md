@@ -120,6 +120,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
     - [Quote](mkeiser.md)
 
 | [![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)| [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) | [![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)| 
+|:---:|:---:|:---:|:---:|:---:|:---:| 
 |[![3scale_videos](images/3scale_videos.jpg)](https://www.youtube.com/c/3scalenet) | [![capgemini_videos](images/capgemini_videos.jpg)](https://www.youtube.com/user/capgeminimedia) |[![sogeti_videos](images/sogeti_videos.jpg)](https://www.youtube.com/user/SogetiGroup) |  [![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)  | [![javiergarzas](images/javiergarzas.jpg)](https://www.youtube.com/channel/UCSdjrn9u1AiXQdopOQvl6kg)|  [![chemaalonso](images/chemaalonso.jpg)](https://www.youtube.com/c/malignoalonso) |
 |:---:|:---:|:---:|:---:|:---:|:---:|  
 
