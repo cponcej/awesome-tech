@@ -250,6 +250,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Cool. How Wi-Fi waves propagate in a building. <a href="https://twitter.com/hashtag/networking?src=hash">#networking</a> <a href="https://twitter.com/hashtag/WiFi?src=hash">#WiFi</a> <a href="https://t.co/VvB8sQwYE7">pic.twitter.com/VvB8sQwYE7</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/736534890137550848">28 de mayo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xmabFJUKMdg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ## WebPerf and Resilient Networking: Planning for Failure
 - [WebPerf & Resilient Networking: Planning for Failure. Service Worker tool, wireless and mobile network optimization](https://www.igvita.com/2015/01/26/resilient-networking/)
 	- [HTML5: Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
@@ -260,6 +265,11 @@
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Internet cables under the sea that connects continents together. This is how they put the cables. <a href="https://t.co/K8WbrgoOEW">pic.twitter.com/K8WbrgoOEW</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705260332982231041">3 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlAJJI-qG2k?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Latest submarine internet/telephone cable maps 2016 edition. Large version [3737x1818] <a href="https://t.co/32MZ0c4U6g">https://t.co/32MZ0c4U6g</a> <a href="https://t.co/sNFBRBJsKg">pic.twitter.com/sNFBRBJsKg</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/711766471827791872">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
