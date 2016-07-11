@@ -49,7 +49,13 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![redhatvideos](images/redhatvideos.jpg)](https://www.youtube.com/user/RedHatVideos) |  [![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices) | [![azurevideos](images/azurevideos.jpg)](https://www.youtube.com/microsoftazure) |  [![google_compute_videos](images/google_compute_videos.jpg)](https://www.youtube.com/googlecode) |  [![googleplatform_videos](images/googleplatform_videos.jpg)](https://www.youtube.com/c/googlecloudplatform)|
 |:---:|:---:|:---:|:---:|:---:|
 
+|[![nginx_videos](images/nginx_videos.jpg)](https://www.youtube.com/c/nginxinc)|[![docker_videos](images/docker_videos.jpg)](https://www.youtube.com/c/dockerio)|[![github_videos](images/github_videos.jpg)](https://www.youtube.com/c/github)|[![blazemeter_videos](images/blazemeter_videos.jpg)](https://www.youtube.com/user/BlazeMeterSupport)|[![selenium_videos](images/selenium_videos.jpg)](https://www.youtube.com/c/seleniumappiumtutorialtraining)|
+|:---:|:---:|:---:|:---:|:---:|
+
 | [![apple_videos](images/apple_videos.jpg)](https://www.youtube.com/user/Apple)|  [![dell_videos](images/dell_videos.jpg)](https://www.youtube.com/Dell) | [![hpe_videos](images/hpe_videos.jpg)](https://www.youtube.com/HPMobileEnterprise) | [![sophos_videos](images/sophos_videos.jpg)](https://www.youtube.com/user/SophosLabs) | [![fortinet_videos](images/fortinet_videos.jpg)](https://www.youtube.com/c/fortinet) | [![firewalls_channel](images/firewalls_channel.jpg)](https://www.youtube.com/c/firewallsdotcom) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+|[![emc_videos](images/emc_videos.jpg)](https://www.youtube.com/c/emc)|[![netapp_videos](images/netapp_videos.jpg)](https://www.youtube.com/c/netapp)|[![synology_videos](images/synology_videos.jpg)](https://www.youtube.com/user/synologyinc) |[![vce_videos](images/vce_videos.jpg)](https://www.youtube.com/user/VCEcomputing)|[![vmware_videos](images/vmware_videos.jpg)](https://www.youtube.com/c/vmware)| [![veeam_videos](images/veeam_videos.jpg)](https://www.youtube.com/c/veeam)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![atlassian_videos](images/atlassian_videos.jpg)](https://www.youtube.com/c/atlassian)| [![spark_videos](images/spark_videos.jpg)](https://www.youtube.com/c/theapachespark)| [![cloudera_videos](images/cloudera_videos.jpg)](https://www.youtube.com/user/clouderahadoop)| [![sap_videos](images/sap_videos.jpg)](https://www.youtube.com/SAPCloud)| [![odoo_videos](images/odoo_videos.jpg)](https://www.youtube.com/c/odooapps)|

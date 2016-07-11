@@ -133,6 +133,11 @@
 
 [![dzone_refcard_selenium_2](images/dzone_refcard_selenium_2.png)](https://dzone.com/refcardz/getting-started-selenium-20)
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BL4-_tVx2rE?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Selenium training
 - [Top 7 Websites to Practice Selenium Webdriver Online 🌟🌟](http://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/)
 - [toolsqa.com 🌟🌟](http://toolsqa.com/)
