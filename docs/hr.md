@@ -147,6 +147,7 @@
 - [How the Concept of "Purpose" Can Make a Huge Difference in Attracting Talent 🌟🌟](https://business.linkedin.com/talent-solutions/blog/recruiting-strategy/2016/how-the-concept-of-purpose-can-make-a-huge-difference-in-attracting-talent)
 - [3 Ways to Survive the Office Generation Clash 🌟🌟🌟](https://www.entrepreneur.com/article/277845) It seems with each year and with each new employee, offices and workplaces get harder to manage and handle. The rise in diversity of the modern workplace means that the chance of ideas and worldviews clashing is higher than it has ever been. And with new generations coming in, this will only worsen.
 - [5 Ways To Determine Corporate Culture 🌟🌟](http://www.careerealism.com/corporate-culture-determine/)
+- [Forbes: 25 Things Managers Do That Drive Their Employees Crazy 🌟🌟](http://www.forbes.com/sites/lizryan/2016/07/10/25-things-managers-do-that-drive-their-employees-crazy/)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/gPFvzxsDBJ">https://t.co/gPFvzxsDBJ</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/749325285682708481">2 de julio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
