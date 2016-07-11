@@ -43,7 +43,7 @@ pages:
 - Linux Commands Tweets: linux-commands-tweets.md
 - Microsoft: microsoft.md
 - WebApp, HTTP/2, e-mail, Middleware, JVM, Video: webapp.md
-- Caching: caching.md
+- Caching. CDN Content Delivery Network: caching.md
 - Nginx: nginx.md
 - F5 Load Balancer: f5lb.md
 - Cambios en Java 8: jvm-mem.md

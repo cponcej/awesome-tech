@@ -67,7 +67,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 	- [Linux Commands Tweets](linux-commands-tweets.md)
 5. [Microsoft](microsoft.md)
 6. [WebApp, HTTP/2, e-mail, Middleware, JVM, Video 🌟](webapp.md)
-    - [Caching 🌟](caching.md)
+    - [Caching. CDN Content Delivery Network 🌟](caching.md)
     - [Nginx](nginx.md)
     - [F5 Load Balancer](f5lb.md)
 	- [Cambios en Java 8](jvm-mem.md)

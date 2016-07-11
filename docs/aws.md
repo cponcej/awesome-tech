@@ -504,6 +504,7 @@
 - [The Most Viewed AWS Security Blog Posts so Far in 2016 🌟🌟🌟](http://blogs.aws.amazon.com/security/post/Tx2N52FR8XGJVL3/The-Most-Viewed-AWS-Security-Blog-Posts-so-Far-in-2016)
 - [Oracle Database Encryption Options on Amazon RDS](https://aws.amazon.com/es/blogs/apn/oracle-database-encryption-options-on-amazon-rds/)
 - [Learn AWS Security Fundamentals with Free and Online Training 🌟🌟](https://aws.amazon.com/about-aws/whats-new/2016/06/learn-aws-security-fundamentals-with-free-and-online-training)
+- [How to Restrict Amazon S3 Bucket Access to a Specific IAM Role](http://blogs.aws.amazon.com/security/post/TxK5WUJK3DG9G8/How-to-Restrict-Amazon-S3-Bucket-Access-to-a-Specific-IAM-Role)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Ready to learn more about securely controlling access to AWS resources? Follow <a href="https://twitter.com/AWSIdentity">@AWSIdentity</a>! <a href="https://t.co/zrQd8MQsiH">pic.twitter.com/zrQd8MQsiH</a></p>&mdash; Amazon Web Services (@awscloud) <a href="https://twitter.com/awscloud/status/747429329030701056">27 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
