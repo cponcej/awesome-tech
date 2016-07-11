@@ -119,9 +119,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
     - [World Press Photo 🌟🌟🌟🌟](world-press-photo.md)
     - [Quote](mkeiser.md)
 
-| [![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)| [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) | [![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)|
-|:---:|:---:|:---:|:---:|:---:|:---:|  
-
+| [![it_television](images/it_television.jpg)](https://www.youtube.com/c/ittelevisiones)| [![telefonicaid](images/telefonicaid.jpg)](https://www.youtube.com/user/telefonicaid) | [![ericsson](images/ericsson.jpg)](https://www.youtube.com/c/ericsson)| [![beeva](images/beeva.jpg)](https://www.youtube.com/c/beeva)  | [![paradigmadigital_videos](images/paradigmadigital_videos.jpg)](https://www.youtube.com/c/paradigmadigital) | [![thoughtworks_videos](images/thoughtworks_videos.jpg)](https://www.youtube.com/c/thoughtworks)| 
 |[![3scale_videos](images/3scale_videos.jpg)](https://www.youtube.com/c/3scalenet) | [![capgemini_videos](images/capgemini_videos.jpg)](https://www.youtube.com/user/capgeminimedia) |[![sogeti_videos](images/sogeti_videos.jpg)](https://www.youtube.com/user/SogetiGroup) |  [![epo_videos](images/epo_videos.jpg)](https://www.youtube.com/user/EPOfilms)  | [![javiergarzas](images/javiergarzas.jpg)](https://www.youtube.com/channel/UCSdjrn9u1AiXQdopOQvl6kg)|  [![chemaalonso](images/chemaalonso.jpg)](https://www.youtube.com/c/malignoalonso) |
 |:---:|:---:|:---:|:---:|:---:|:---:|  
 
@@ -144,7 +142,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 |[![mongodb_videos](images/mongodb_videos.jpg)](https://www.youtube.com/user/MongoDB) |[![spark_videos](images/spark_videos.jpg)](https://www.youtube.com/c/theapachespark)| [![cloudera_videos](images/cloudera_videos.jpg)](https://www.youtube.com/user/clouderahadoop)| [![sap_videos](images/sap_videos.jpg)](https://www.youtube.com/SAPCloud)| [![oracle_videos](images/oracle_videos.jpg)](https://www.youtube.com/c/oracle)|[![odoo_videos](images/odoo_videos.jpg)](https://www.youtube.com/c/odooapps)|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 | [![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A) | [![simonsinek_videos](images/simonsinek_videos.jpg)](https://www.youtube.com/user/SimonSinek) | [![ldavidmarquet_videos](images/ldavidmarquet_videos.jpg)](https://www.youtube.com/c/davidmarquet) | [![susan_cain_videos](images/susan_cain_videos.png)](https://www.youtube.com/c/susancain) | [![evancarmichael](images/evancarmichael.jpg)](https://www.youtube.com/c/evancarmichael)|
 |:---:|:---:|:---:|:---:|:---:|
