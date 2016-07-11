@@ -152,6 +152,9 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![puppet_slides](images/puppet_slides.png)](http://www.slideshare.net/PuppetLabs)| [![chef_slides](images/chef_slides.png)](http://www.slideshare.net/opscode)| [![flux7_slides](images/flux7_slides.jpg)](http://www.slideshare.net/Flux7Labs)| [![mongodb_slides](images/mongodb_slides.jpg)](http://www.slideshare.net/mongodb)| [![postgres_slides](images/postgres_slides.jpg)](http://es.slideshare.net/PGExperts)| [![nginx_slides](images/nginx_videos.jpg)](http://www.slideshare.net/Nginx)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![docker_videos](images/docker_videos.jpg)](http://www.slideshare.net/docker)|[![databricks_slides](images/databricks_slides.jpg)](http://www.slideshare.net/databricks)|[![spark_summit_slides](images/spark_summit_slides.jpg)](http://www.slideshare.net/SparkSummit)|[![anaconda_slides](images/anaconda_slides.jpg)](http://www.slideshare.net/continuumio)|[![tableau_slides](images/tableau_slides.jpg)](http://www.slideshare.net/TableauSoftware)|[![aws_videos](images/aws_videos.jpg)](http://www.slideshare.net/AmazonWebServices)
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Technology is anything invented after you were born. - Alan Kay</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/711841287792504833">21 de marzo de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
