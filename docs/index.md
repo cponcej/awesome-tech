@@ -126,7 +126,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![BI_Social_Profile](images/BI_Social_Profile.jpg)](https://www.youtube.com/user/businessinsider) |[![techinsider](images/techinsider.jpg)](https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg)|[![entrepreneur_logo](images/entrepreneur_logo.jpg)](https://www.youtube.com/c/entrepreneur) | [![eweek_logo](images/eweek_logo.jpg)](https://www.youtube.com/c/eweek1)| [![computerworld_logo](images/computerworld_logo.png)](https://www.youtube.com/c/computerworld) |[![cio_logo](images/cio_logo.jpg)](https://www.youtube.com/user/CIOtv)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[![techcrunch_logo](images/techcrunch_logo.jpg)](https://www.youtube.com/c/techcrunch)| [![thenextweb2](images/tnw_small.png)](https://www.youtube.com/user/thenextweb) | [![dzone_youtube](images/dzone_youtube.jpg)](https://www.youtube.com/c/dzone) |[![gotoconferences](images/gotoconferences.jpg)](https://www.youtube.com/user/GotoConferences) |[![oreilly](images/oreilly.jpg)](https://www.youtube.com/oreilly)|[![silicon_angle_the_cube](images/thecube.png)](https://www.youtube.com/user/siliconangle)|
-
+|||||||
 |[![redhatvideos](images/redhatvideos.jpg)](https://www.youtube.com/user/RedHatVideos) |  [![aws_videos](images/aws_videos.jpg)](https://www.youtube.com/c/amazonwebservices) | [![azurevideos](images/azurevideos.jpg)](https://www.youtube.com/microsoftazure) |  [![google_compute_videos](images/google_compute_videos.jpg)](https://www.youtube.com/googlecode) |  [![googleplatform_videos](images/googleplatform_videos.jpg)](https://www.youtube.com/c/googlecloudplatform)| [![rackspace_videos](images/rackspace_videos.jpg)](https://www.youtube.com/rackspace)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
