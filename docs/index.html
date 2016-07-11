@@ -1,0 +1,1305 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>body {
+  width: 45em;
+  border: 1px solid #ddd;
+  outline: 1300px solid #fff;
+  margin: 16px auto;
+}
+
+body .markdown-body
+{
+  padding: 30px;
+}
+
+@font-face {
+  font-family: fontawesome-mini;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+@font-face {
+  font-family: octicons-anchor;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+.markdown-body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body b,
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body sub,
+.markdown-body sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+.markdown-body sup {
+  top: -0.5em;
+}
+.markdown-body sub {
+  bottom: -0.25em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body .codehilitetable {
+  border: 0;
+  border-spacing: 0;
+}
+
+.markdown-body .codehilitetable tr {
+  border: 0;
+}
+
+.markdown-body .codehilitetable pre,
+.markdown-body .codehilitetable div.codehilite {
+  margin: 0;
+}
+
+.markdown-body .linenos,
+.markdown-body .code,
+.markdown-body .codehilitetable td {
+  border: 0;
+  padding: 0;
+}
+
+.markdown-body td:not(.linenos) .linenodiv {
+  padding: 0 !important;
+}
+
+.markdown-body .code {
+  width: 100%;
+}
+
+.markdown-body .linenos div pre,
+.markdown-body .linenodiv pre,
+.markdown-body .linenodiv {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.markdown-body .code div pre,
+.markdown-body .code div {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+}
+
+.markdown-body a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before,
+.markdown-body hr:after {
+  display: table;
+  content: " ";
+}
+
+.markdown-body hr:after {
+  clear: both;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #e7e7e7;
+  background-image: -moz-linear-gradient(#fefefe, #e7e7e7);
+  background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);
+  background-image: linear-gradient(#fefefe, #e7e7e7);
+  background-repeat: repeat-x;
+  border-radius: 2px;
+  border: 1px solid #cfcfcf;
+  color: #000;
+  padding: 3px 5px;
+  line-height: 10px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  display: inline-block;
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body .headeranchor-link {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  padding-right: 6px;
+  padding-left: 30px;
+  margin-left: -30px;
+}
+
+.markdown-body .headeranchor-link:focus {
+  outline: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.markdown-body h1 .headeranchor,
+.markdown-body h2 .headeranchor,
+.markdown-body h3 .headeranchor,
+.markdown-body h4 .headeranchor,
+.markdown-body h5 .headeranchor,
+.markdown-body h6 .headeranchor {
+  display: none;
+  color: #000;
+  vertical-align: middle;
+}
+
+.markdown-body h1:hover .headeranchor-link,
+.markdown-body h2:hover .headeranchor-link,
+.markdown-body h3:hover .headeranchor-link,
+.markdown-body h4:hover .headeranchor-link,
+.markdown-body h5:hover .headeranchor-link,
+.markdown-body h6:hover .headeranchor-link {
+  height: 1em;
+  padding-left: 8px;
+  margin-left: -30px;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .headeranchor-link .headeranchor,
+.markdown-body h2:hover .headeranchor-link .headeranchor,
+.markdown-body h3:hover .headeranchor-link .headeranchor,
+.markdown-body h4:hover .headeranchor-link .headeranchor,
+.markdown-body h5:hover .headeranchor-link .headeranchor,
+.markdown-body h6:hover .headeranchor-link .headeranchor {
+  display: inline-block;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre,
+.markdown-body .admonition {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body code,
+.markdown-body samp {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .codehilite {
+  margin-bottom: 16px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .codehilite pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+/* Admonition */
+.markdown-body .admonition {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  border-left: 6px solid #333;
+  padding: 10px 10px 10px 30px;
+}
+
+.markdown-body .admonition table {
+  color: #333;
+}
+
+.markdown-body .admonition p {
+  padding: 0;
+}
+
+.markdown-body .admonition-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.markdown-body .admonition>.admonition-title {
+  color: #333;
+}
+
+.markdown-body .attention>.admonition-title {
+  color: #a6d796;
+}
+
+.markdown-body .caution>.admonition-title {
+  color: #d7a796;
+}
+
+.markdown-body .hint>.admonition-title {
+  color: #96c6d7;
+}
+
+.markdown-body .danger>.admonition-title {
+  color: #c25f77;
+}
+
+.markdown-body .question>.admonition-title {
+  color: #96a6d7;
+}
+
+.markdown-body .note>.admonition-title {
+  color: #d7c896;
+}
+
+.markdown-body .admonition:before,
+.markdown-body .attention:before,
+.markdown-body .caution:before,
+.markdown-body .hint:before,
+.markdown-body .danger:before,
+.markdown-body .question:before,
+.markdown-body .note:before {
+  font: normal normal 16px fontawesome-mini;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.5;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.markdown-body .admonition:before {
+  content: "\f056\00a0";
+  color: 333;
+}
+
+.markdown-body .attention:before {
+  content: "\f058\00a0";
+  color: #a6d796;
+}
+
+.markdown-body .caution:before {
+  content: "\f06a\00a0";
+  color: #d7a796;
+}
+
+.markdown-body .hint:before {
+  content: "\f05a\00a0";
+  color: #96c6d7;
+}
+
+.markdown-body .danger:before {
+  content: "\f057\00a0";
+  color: #c25f77;
+}
+
+.markdown-body .question:before {
+  content: "\f059\00a0";
+  color: #96a6d7;
+}
+
+.markdown-body .note:before {
+  content: "\f040\00a0";
+  color: #d7c896;
+}
+
+.markdown-body .admonition::after {
+  content: normal;
+}
+
+.markdown-body .attention {
+  border-left: 6px solid #a6d796;
+}
+
+.markdown-body .caution {
+  border-left: 6px solid #d7a796;
+}
+
+.markdown-body .hint {
+  border-left: 6px solid #96c6d7;
+}
+
+.markdown-body .danger {
+  border-left: 6px solid #c25f77;
+}
+
+.markdown-body .question {
+  border-left: 6px solid #96a6d7;
+}
+
+.markdown-body .note {
+  border-left: 6px solid #d7c896;
+}
+
+.markdown-body .admonition>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body .admonition>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* progress bar*/
+.markdown-body .progress {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+  height: 24px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #ededed;
+  position: relative;
+  box-shadow: inset -1px 1px 3px rgba(0, 0, 0, .1);
+}
+
+.markdown-body .progress-label {
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  width: 100%; margin: 0;
+  line-height: 24px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fefefe, -1px -1px 0 #fefefe, -1px 1px 0 #fefefe, 1px -1px 0 #fefefe, 0 1px 0 #fefefe, 0 -1px 0 #fefefe, 1px 0 0 #fefefe, -1px 0 0 #fefefe, 1px 1px 2px #000;
+  -webkit-font-smoothing: antialiased !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.markdown-body .progress-bar {
+  height: 24px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #96c6d7;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .5), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background-size: 30px 30px;
+  background-image: -webkit-linear-gradient(
+    135deg, rgba(255, 255, 255, .4) 27%,
+    transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%,
+    transparent 77%, transparent
+  );
+  background-image: -moz-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -ms-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -o-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+}
+
+.markdown-body .progress-100plus .progress-bar {
+  background-color: #a6d796;
+}
+
+.markdown-body .progress-80plus .progress-bar {
+  background-color: #c6d796;
+}
+
+.markdown-body .progress-60plus .progress-bar {
+  background-color: #d7c896;
+}
+
+.markdown-body .progress-40plus .progress-bar {
+  background-color: #d7a796;
+}
+
+.markdown-body .progress-20plus .progress-bar {
+  background-color: #d796a6;
+}
+
+.markdown-body .progress-0plus .progress-bar {
+  background-color: #c25f77;
+}
+
+.markdown-body .candystripe-animate .progress-bar{
+  -webkit-animation: animate-stripes 3s linear infinite;
+  -moz-animation: animate-stripes 3s linear infinite;
+  animation: animate-stripes 3s linear infinite;
+}
+
+@-webkit-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@-moz-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+.markdown-body .gloss .progress-bar {
+  box-shadow:
+    inset 0 4px 12px rgba(255, 255, 255, .7),
+    inset 0 -12px 0 rgba(0, 0, 0, .05);
+}
+
+/* Multimarkdown Critic Blocks */
+.markdown-body .critic_mark {
+  background: #ff0;
+}
+
+.markdown-body .critic_delete {
+  color: #c82829;
+  text-decoration: line-through;
+}
+
+.markdown-body .critic_insert {
+  color: #718c00 ;
+  text-decoration: underline;
+}
+
+.markdown-body .critic_comment {
+  color: #8e908c;
+  font-style: italic;
+}
+
+.markdown-body .headeranchor {
+  font: normal normal 16px octicons-anchor;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.headeranchor:before {
+  content: '\f05c';
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
+/* Media */
+@media only screen and (min-width: 480px) {
+  .markdown-body {
+    font-size:14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .markdown-body {
+    font-size:16px;
+  }
+}
+
+@media print {
+  .markdown-body * {
+    background: transparent !important;
+    color: black !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  .markdown-body {
+    font-size:12pt;
+    max-width:100%;
+    outline:none;
+    border: 0;
+  }
+
+  .markdown-body a,
+  .markdown-body a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-body .headeranchor-link {
+    display: none;
+  }
+
+  .markdown-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-body .ir a:after,
+  .markdown-body a[href^="javascript:"]:after,
+  .markdown-body a[href^="#"]:after {
+    content: "";
+  }
+
+  .markdown-body pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .markdown-body pre,
+  .markdown-body blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  .markdown-body .progress,
+  .markdown-body .progress-bar {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .markdown-body .progress {
+    border: 1px solid #ddd;
+  }
+
+  .markdown-body .progress-bar {
+    height: 22px;
+    border-right: 1px solid #ddd;
+  }
+
+  .markdown-body tr,
+  .markdown-body img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-body img {
+    max-width: 100% !important;
+  }
+
+  .markdown-body p,
+  .markdown-body h2,
+  .markdown-body h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .markdown-body h2,
+  .markdown-body h3 {
+    page-break-after: avoid;
+  }
+}
+</style><title>index</title></head><body><article class="markdown-body"><h1 id="awesome-tech"><a name="user-content-awesome-tech" href="#awesome-tech" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>Awesome Tech <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a></h1>
+<div class="container">
+<img alt="Utopia Eduardo Galeano" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/utopia_eduardo_galeano.png">
+<div id="player"></div>
+</div>
+
+<iframe src="http://tunein.com/embed/player/s182103/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
+
+<p><br/><br />
+<p align="center"><br />
+Automation/DevOps CI/CD | Testing | Solutions/Systems Architect | Middleware SysAdmin | RedHat Solutions | Contract &amp; Permanent (no freelance) </p><br />
+<p align="center"><br />
+Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opportunities across Northern-Western Europe based more on the quality of my work and less whom I know </strike><br />
+</p></p>
+<p align="center">
+Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to render the embedded tweets</strike>
+</p>
+
+<p><a href="http://awesome-tech.readthedocs.org/about/"><img alt="available for hire" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/available-for-hire.png" /></a></p>
+<p><a href="http://www.zdnet.com/blog/iberia/"><img alt="zdnet spain" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/zdnet_logo.png" /></a><br />
+<a href="http://www.zdnet.com/article/barcelona-vs-madrid-vs-everywhere-else-spains-regions-slug-it-out-to-be-startup-capital/"><img alt="barcelona vs madrid vs everywhere else" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/bcn_vs_madrid_startups.png" /></a></p>
+<p align="center">
+<a href="http://paper.li/tag/redhat">The #redhat Daily</a>
+</p>
+
+<p align="center">
+<a href="http://paper.li/tag/aws">The #aws Daily</a>
+</p>
+
+<p align="center">
+<a href="http://paper.li/tag/azure">The #azure Daily</a>
+</p>
+
+<p><a href="https://www.youtube.com/c/ittelevisiones"><img alt="it_television" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/it_television.jpg" /></a> <a href="https://www.youtube.com/user/telefonicaid"><img alt="telefonicaid" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/telefonicaid.jpg" /></a> <a href="https://www.youtube.com/c/ericsson"><img alt="ericsson" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/ericsson.jpg" /></a> <a href="https://www.youtube.com/c/beeva"><img alt="beeva" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/beeva.jpg" /></a> <a href="https://www.youtube.com/c/paradigmadigital"><img alt="paradigmadigital_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/paradigmadigital_videos.jpg" /></a> <a href="https://www.youtube.com/c/3scalenet"><img alt="3scale_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/3scale_videos.jpg" /></a> <a href="https://www.youtube.com/user/capgeminimedia"><img alt="capgemini_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/capgemini_videos.jpg" /></a> <a href="https://www.youtube.com/user/SogetiGroup"><img alt="sogeti_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/sogeti_videos.jpg" /></a> <a href="https://www.youtube.com/user/EPOfilms"><img alt="epo_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/epo_videos.jpg" /></a> <a href="https://www.youtube.com/channel/UCSdjrn9u1AiXQdopOQvl6kg"><img alt="javiergarzas" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/javiergarzas.jpg" /></a> <a href="https://www.youtube.com/c/malignoalonso"><img alt="chemaalonso" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/chemaalonso.jpg" /></a> </p>
+<p><a href="https://www.youtube.com/user/businessinsider"><img alt="BI_Social_Profile" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/BI_Social_Profile.jpg" /></a> <a href="https://www.youtube.com/c/entrepreneur"><img alt="entrepreneur_logo" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/entrepreneur_logo.jpg" /></a> <a href="https://www.youtube.com/c/eweek1"><img alt="eweek_logo" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/eweek_logo.jpg" /></a> <a href="https://www.youtube.com/c/computerworld"><img alt="computerworld_logo" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/computerworld_logo.png" /></a> <a href="https://www.youtube.com/user/CIOtv"><img alt="cio_logo" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/cio_logo.jpg" /></a> <a href="https://www.youtube.com/c/techcrunch"><img alt="techcrunch_logo" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/techcrunch_logo.jpg" /></a> <a href="https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg"><img alt="techinsider" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/techinsider.jpg" /></a> <a href="https://www.youtube.com/c/dzone"><img alt="dzone_youtube" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/dzone_youtube.jpg" /></a> <a href="https://www.youtube.com/user/thenextweb"><img alt="thenextweb2" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/tnw_small.png" /></a> <a href="https://www.youtube.com/user/siliconangle"><img alt="silicon_angle_the_cube" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/thecube.png" /></a></p>
+<p><strong>Table of Contents</strong></p>
+<ol>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/high-quality-tech-resources.md">High quality tech resources and search engines 🌟🌟🌟</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/twitter.md">Newsfeeds and Twitter resources 😀</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/it-blogs.md">Miscellaneous. IT Blogs, Support</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/startups.md">Startups, multinationals and IT Jobs. In-Demand Skills</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/leadership_styles_around_world.md">Leadership Styles Around the World 🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/startups_bcn.md">Barcelona Tech, Startups and Innovation</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/startups_madrid.md">Madrid Tech, Startups and Innovation</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/rules_for_success.md">Rules for success</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/freelance_jobs.md">Freelance jobs</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/motivational_videos.md">Motivational videos</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/hr.md">Human Resources 🙈 🙉 🙊</a> Stimulating and provocative!<ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/howto_fire_onboard.md">How to Fire and Onboard</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/culture_collaboration.md">Culture and Collaboration</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/office_politics.md">Office Politics</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/leadership.md">Leadership Blogs</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/interview_preparation_guide.md">Interview Preparation Guide</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/references.md">References and online defamation</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/rrhh.md">Recursos Humanos</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/linux.md">Linux</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/redhat.md">Red Hat 🌟🌟🌟</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/redhatvirt.md">Red Hat Virtualization 🌟🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/redhat_openstack.md">Red Hat OpenStack</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/redhatcluster.md">Red Hat Cluster</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/linux-commands-examples.md">Linux Commands Examples 🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/linux-commands-tweets.md">Linux Commands Tweets</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/microsoft.md">Microsoft</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/webapp.md">WebApp, HTTP/2, e-mail, Middleware, JVM, Video 🌟</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/caching.md">Caching. CDN Content Delivery Network 🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/nginx.md">Nginx</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/f5lb.md">F5 Load Balancer</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/jvm-mem.md">Cambios en Java 8</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/security.md">Security 🌟🌟🌟</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/NGFW.md">Next Generation Firewalls (NGFW)</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/https.md">HTTPs and HSTS 🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/auditing-tools.md">Security auditing tools</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/pen_testing.md">Security Toolkits and Policies. Penetration Testing</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/sql_injection.md">SQL injection 🌟</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/devops-itil.md">DevOps and ITIL 🌟🌟🌟</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/metrics.md">Metrics with APM, Backend Server Monitoring and Alarm System. Grafana, Graphite, Influxdb, Zabbix 🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/elasticsearch.md">Elasticsearch, Graylog, Syslog ng</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/jenkins-git.md">Continuous Integration Tools. Jenkins, Nexus, Bamboo, Git</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/config-mgmt.md">Configuration Management and Orchestration. Microservices 🌟🌟</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/ansible.md">Ansible 🌟🌟🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/puppet.md">Puppet</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/chef.md">Chef</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/docker.md">Docker</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/sw-devel.md">Software Development</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/sublime.md">Sublime Text Editor</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/java.md">Java</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/python.md">Python</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/staticsitegen.md">Static Site Generators 🌟🌟</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/qa.md">QA and Testing 🌟🌟🌟</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/qa_tools.md">Testing Tools 🌟🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/webperftesting.md">Performance Testing Tools. JMeter, Webpagetest, Taurus, Gatling</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/scalability.md">Scalability and Reliability 🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/jenkins-git.md">Continuous Integration Tools. Jenkins, Git</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/data-science.md">Data Science and Big Data</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/databases.md">SQL and Databases</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/nosql.md">NoSQL and NewSQL. MongoDB 🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/anaconda.md">Anaconda Analytics</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/bigbangdata.md">Big Bang Data 🌟🌟🌟</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/networking.md">Networking 🌟🌟🌟</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/VLAN.md">Virtual LAN</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/NGFW.md">Next Generation Firewalls (NGFW)</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/nw_forensics.md">Network Forensics</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/nw_performance.md">Network Performance</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/voip.md">VoIP</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/mobilecore.md">Mobile Core Network &amp; Signaling. Diameter</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/ims.md">IMS IP Multimedia Subsystem</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/iptv.md">IPTV Internet Protocol Television</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/servers-storage-backup.md">Servers, Storage and Backup</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/vmware.md">VMware, VirtualBox</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/cloud.md">Cloud</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/aws.md">Amazon Web Services 🌟🌟🌟</a></li>
+</ul>
+</li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/desktop-tools.md">Desktop Tools and Presentations</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/e-learning.md">E-Learning 🌟🌟🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/economy.md">Economy</a><ul>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/economy-videos.md">Economy Videos</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/economics_films.md">Economics Films</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/live-news.md">Live News 🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/world-press-photo.md">World Press Photo 🌟🌟🌟🌟</a></li>
+<li><a href="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/mkeiser.md">Quote</a></li>
+</ul>
+</li>
+</ol>
+<p><a href="https://www.youtube.com/user/RedHatVideos"><img alt="redhatvideos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/redhatvideos.jpg" /></a> <a href="https://www.youtube.com/c/amazonwebservices"><img alt="aws_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/aws_videos.jpg" /></a> <a href="https://www.youtube.com/microsoftazure"><img alt="azurevideos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/azurevideos.jpg" /></a> <a href="https://www.youtube.com/googlecode"><img alt="google_compute_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/google_compute_videos.jpg" /></a> <a href="https://www.youtube.com/c/googlecloudplatform"><img alt="googleplatform_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/googleplatform_videos.jpg" /></a> <a href="https://www.youtube.com/user/GotoConferences"><img alt="gotoconferences" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/gotoconferences.jpg" /></a> <a href="https://www.youtube.com/oreilly"><img alt="oreilly" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/oreilly.jpg" /></a></p>
+<p><a href="https://www.youtube.com/user/Apple"><img alt="apple_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/apple_videos.jpg" /></a> <a href="https://www.youtube.com/Dell"><img alt="dell_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/dell_videos.jpg" /></a> <a href="https://www.youtube.com/HPMobileEnterprise"><img alt="hpe_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/hpe_videos.jpg" /></a> <a href="https://www.youtube.com/user/SophosLabs"><img alt="sophos_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/sophos_videos.jpg" /></a> <a href="https://www.youtube.com/c/fortinet"><img alt="fortinet_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/fortinet_videos.jpg" /></a> <a href="https://www.youtube.com/c/firewallsdotcom"><img alt="firewalls_channel" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/firewalls_channel.jpg" /></a> </p>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center"><a href="https://www.youtube.com/c/atlassian"><img alt="atlassian_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/atlassian_videos.jpg" /></a></th>
+<th align="center"><a href="https://www.youtube.com/c/theapachespark"><img alt="spark_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/spark_videos.jpg" /></a></th>
+<th align="center"><a href="https://www.youtube.com/user/clouderahadoop"><img alt="cloudera_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/cloudera_videos.jpg" /></a></th>
+<th align="center"><a href="https://www.youtube.com/SAPCloud"><img alt="sap_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/sap_videos.jpg" /></a></th>
+<th align="center"><a href="https://www.youtube.com/c/odooapps"><img alt="odoo_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/odoo_videos.jpg" /></a></th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center"><a href="https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A"><img alt="jt_odonnell_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/jt_odonnell_videos.jpg" /></a></th>
+<th align="center"><a href="https://www.youtube.com/user/SimonSinek"><img alt="simonsinek_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/simonsinek_videos.jpg" /></a></th>
+<th align="center"><a href="https://www.youtube.com/c/davidmarquet"><img alt="ldavidmarquet_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/ldavidmarquet_videos.jpg" /></a></th>
+<th align="center"><a href="https://www.youtube.com/c/susancain"><img alt="susan_cain_videos" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/susan_cain_videos.png" /></a></th>
+<th align="center"><a href="https://www.youtube.com/c/evancarmichael"><img alt="evancarmichael" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/evancarmichael.jpg" /></a></th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Technology is anything invented after you were born. - Alan Kay</p>&mdash; Tech-FAQ (@tech_faq) <a href="https://twitter.com/tech_faq/status/711841287792504833">21 de marzo de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><a href="http://statusmind.com/"><img alt="voltaire change others" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/voltaire_change_other.jpg" /></a></p>
+<p><img alt="same-dress" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/same-dress.gif" /></p>
+<p><img alt="marla" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/marla.gif" /></p>
+<p><a href="http://dilbert.com/strip/2011-01-07"><img alt="dilbert_consultant_cloud" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/dilbert_consultant_cloud.png" /></a></p>
+<p><a href="http://stuartmday.deviantart.com/art/Quality-vs-Quantity-377746374"><img alt="quality_vs__quantity" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/quality_vs__quantity.png" /></a></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9d500RXYCcA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7HF1Sfos3v4?list=PL_h5o0KnrCrgB0Xo19U6orpWOv9yxK-c7" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/E1o-NWNmQLM?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GWvqkDvv4mE?list=RDGWvqkDvv4mE" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<p><a href="https://www.youtube.com/watch?v=MLXPrGtHXMo"><img alt="eduard_punset_madrid" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/eduard_punset_madrid.gif" /></a></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Sol6AASguc?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBavpeSScxU?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/VUYG2OPTrw">pic.twitter.com/VUYG2OPTrw</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/748161815679467520">29 de junio de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/LOKOX0yXl3">https://t.co/LOKOX0yXl3</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750384551290167296">5 de julio de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/jmBeCBREB1">https://t.co/jmBeCBREB1</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/750383381846851584">5 de julio de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/nMDlDBiFic">https://t.co/nMDlDBiFic</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/750796644346654720">6 de julio de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/E3DKzC8bIT">https://t.co/E3DKzC8bIT</a></p>&mdash; inafevDevOps (@inafevDevOps) <a href="https://twitter.com/inafevDevOps/status/750797072845209604">6 de julio de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">GDP, 2015. ($ trillion)<br><br>Germany: 3.41<br>UK: 2.85<br>France: 2.46<br>Italy: 1.84<br>Spain: 1.23<br>Russia: 1.17<br>Turkey: 0.75 <a href="https://t.co/ltCVGhOtz2">pic.twitter.com/ltCVGhOtz2</a></p>&mdash; The Int&#39;l Spectator (@intlspectator) <a href="https://twitter.com/intlspectator/status/750299133852790784">5 de julio de 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y60wDzZt8yg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<p><a href="http://www.startupheatmap.eu/"><img alt="europe silicon valley" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/europe_silicon_valley.png" /></a></p>
+<p><a href="http://cincodias.com/cincodias/2016/07/11/economia/1468216496_759737.html"><img alt="handicaps_sistema_economico_espanol" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/handicaps_sistema_economico_espanol.png" /></a></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXEqR7KWlew?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jp79HDViQ9s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+<p><br/></p>
+<p><a href="http://dadaviz.com/i/4164"><img alt="internet users" src="///C://Users/inaki/Documents/GitHub/awesome-tech/docs/images/internet-users.jpeg" /></a></p>
+<!-- <iframe width="100%" height="45" src="https://www.youtube.com/embed/uuvDToxhZO0?rel=0&amp;autohide=2&amp;showinfo=0&amp;autoplay=1&amp;controls=2&amp;start=33&amp;end=82" frameborder="0" allowfullscreen></iframe> --></article></body></html>
