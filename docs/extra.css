@@ -33,3 +33,10 @@ img {
 img.noborder {
     border-style: none;
 }
+
+/* 
+image alignment
+*/
+.callout {
+    float: right;
+}
