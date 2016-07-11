@@ -14,7 +14,7 @@ Available for work in Barcelona, Madrid, Bilbao. <strike> Looking for new opport
 </p>
 
 <p align="center">
-Disable Tracking Protection in Firefox in order to render the embedded tweets</strike>
+Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to render the embedded tweets</strike>
 </p>
 
 [![available for hire](images/available-for-hire.png)](http://awesome-tech.readthedocs.org/about/)
