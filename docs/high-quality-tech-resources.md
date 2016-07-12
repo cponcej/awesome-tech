@@ -320,6 +320,8 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">The last and best programming book you&#39;ll ever need ;) <a href="https://twitter.com/hashtag/humor?src=hash">#humor</a> <a href="https://t.co/657JVbpwFX">pic.twitter.com/657JVbpwFX</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/705848396926464000">4 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[![stackoverflow_research](images/stackoverflow_research.png)](http://stackoverflow.com/research)
+
 ## DZone
 - [DZone 🌟🌟🌟🌟🌟](https://dzone.com) Over a million developers have joined DZone
 - [Refcard](https://dzone.com/refcardz) The world's largest library of technical cheat sheets
