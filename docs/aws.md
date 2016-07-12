@@ -23,6 +23,7 @@
     - [AWS Database Migration Service](#aws-database-migration-service)
     - [AWS Redshift](#aws-redshift)
     - [AWS DevOps. AWS CodePipeline](#aws-devops-aws-codepipeline)
+    - [AWS Elastic Beanstalk](#aws-elastic-beanstalk)
     - [AWS OpsWorks](#aws-opsworks)
     - [AWS Networking](#aws-networking)
     - [AWS Latency](#aws-latency)
@@ -314,6 +315,40 @@
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46PRLMW8otg?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+## AWS Elastic Beanstalk
+- [AWS Elastic Beanstalk Documentation](http://aws.amazon.com/documentation/elastic-beanstalk/)
+- [Deploying a High-Availability PHP Application with an External Amazon RDS Database to Elastic Beanstalk 🌟🌟](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-ha-tutorial.html)
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dvmssHHBnII?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/3HeLRXQv2D76aB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/AmazonWebServices/aws-elastic-beanstalk" title="Introducing AWS Elastic Beanstalk" target="_blank">Introducing AWS Elastic Beanstalk</a> </strong> de <strong><a href="//es.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/JNBCK40VmA6Zts" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/AmazonWebServices/deploy-manage-and-scale-your-apps-with-aws-elastic-beanstalk" title="Deploy, Manage, and Scale your Apps with AWS Elastic Beanstalk" target="_blank">Deploy, Manage, and Scale your Apps with AWS Elastic Beanstalk</a> </strong> de <strong><a href="//es.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/rbDQ3xXRJPOXeg" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/AmazonWebServices/aws-elastic-beanstalk-running-microservices-and-docker" title="AWS Elastic Beanstalk - Running Microservices and Docker" target="_blank">AWS Elastic Beanstalk - Running Microservices and Docker</a> </strong> de <strong><a href="//es.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/fCjR1dWjVw5iO7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/AmazonWebServices/dvo201-scaling-your-web-applications-with-aws-elastic-beanstalk" title="(DVO201) Scaling Your Web Applications with AWS Elastic Beanstalk" target="_blank">(DVO201) Scaling Your Web Applications with AWS Elastic Beanstalk</a> </strong> from <strong><a href="//es.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/5QNNmaBokFVJYF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/AmazonWebServices/agile-deployment-using-git-and-aws-elastic-beanstalk" title="Agile Deployment using Git and AWS Elastic Beanstalk" target="_blank">Agile Deployment using Git and AWS Elastic Beanstalk</a> </strong> de <strong><a href="//es.slideshare.net/AmazonWebServices" target="_blank">Amazon Web Services</a></strong> </div>
 </div>
 <br/>
 
