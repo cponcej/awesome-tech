@@ -146,6 +146,9 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![mongodb_videos](images/mongodb_videos.jpg)](https://www.youtube.com/user/MongoDB) |[![spark_videos](images/spark_videos.jpg)](https://www.youtube.com/c/theapachespark)| [![cloudera_videos](images/cloudera_videos.jpg)](https://www.youtube.com/user/clouderahadoop)| [![sap_videos](images/sap_videos.jpg)](https://www.youtube.com/SAPCloud)| [![oracle_videos](images/oracle_videos.jpg)](https://www.youtube.com/c/oracle)|[![odoo_videos](images/odoo_videos.jpg)](https://www.youtube.com/c/odooapps)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+|[![ca_tech_videos](images/ca_tech_videos.jpg)](https://www.youtube.com/c/catechnologies)|[![modis_videos](images/modis_videos.jpg)](https://www.youtube.com/c/modis)|[![bi_excel_videos](images/bi_excel_videos.jpg)](bi_excel_videos.jpg)|[![trello_videos](images/trello_videos.jpg)](https://www.youtube.com/channel/UCRcOkXoOrU6sN1yCz20VmQw)||
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 | [![jt_odonnell_videos](images/jt_odonnell_videos.jpg)](https://www.youtube.com/channel/UCMFNK_oznbyHRdc1i08DV5A) | [![simonsinek_videos](images/simonsinek_videos.jpg)](https://www.youtube.com/user/SimonSinek) | [![ldavidmarquet_videos](images/ldavidmarquet_videos.jpg)](https://www.youtube.com/c/davidmarquet) | [![susan_cain_videos](images/susan_cain_videos.png)](https://www.youtube.com/c/susancain) | [![evancarmichael](images/evancarmichael.jpg)](https://www.youtube.com/c/evancarmichael)|[![gartner_videos](images/gartner_videos.jpg)](https://www.youtube.com/user/Gartnervideo)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 

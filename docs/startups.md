@@ -139,6 +139,11 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Why a strong <a href="https://twitter.com/hashtag/entrepreneur?src=hash">#entrepreneur</a> never gives up <a href="https://t.co/IM7fVNaNSG">https://t.co/IM7fVNaNSG</a> via <a href="https://twitter.com/Forbes">@forbes</a> <a href="https://twitter.com/DavidKWilliams">@DavidKWilliams</a> <a href="https://t.co/gazmHTi6eI">pic.twitter.com/gazmHTi6eI</a></p>&mdash; Paul Denham (@PaulTDenham) <a href="https://twitter.com/PaulTDenham/status/740587951684386816">8 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GDgA4pgUYcs?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 ### Startup Blogs, Documentaries and Talks
 - [entrepreneur.com 🌟](http://www.entrepreneur.com)
 - [soyentrepreneur.com](http://www.soyentrepreneur.com)
