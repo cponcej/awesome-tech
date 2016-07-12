@@ -140,6 +140,7 @@
 - [DZone refcard: Java Containerization 🌟🌟](https://dzone.com/refcardz/java-containerization)
 - [4 Cluster Management Tools to Compare 🌟🌟🌟](https://dzone.com/articles/4-cluster-management-tools-to-compare)
 - [Docker Meets Continuous Deployment](https://dzone.com/articles/docker-meets-continuous-deployment)
+- [Monitoring Docker Containers – docker stats, cAdvisor, Universal Control Plane 🌟🌟](https://blog.codeship.com/monitoring-docker-containers/)
 
 [![java_containerization_dzone_refcard](images/java_containerization_dzone_refcard.png)](https://dzone.com/refcardz/java-containerization)
 
