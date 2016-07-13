@@ -102,7 +102,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
     - [Next Generation Firewalls (NGFW)](NGFW.md)
 	- [Network Forensics](nw_forensics.md)
     - [Network Performance](nw_performance.md)
-    - [CDN Content delivery network](cdn.md)
+    - [CDN Content Delivery Network](cdn.md)
     - [VoIP](voip.md)
     - [Mobile Core Network & Signaling. Diameter](mobilecore.md)
     - [IMS IP Multimedia Subsystem](ims.md)

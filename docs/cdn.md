@@ -1,6 +1,6 @@
 <!-- MarkdownTOC -->
 
-- [CDN Content delivery network](#cdn-content-delivery-network)
+- [CDN Content Delivery Network](#cdn-content-delivery-network)
 
 <!-- /MarkdownTOC -->
 
@@ -10,8 +10,8 @@
 
 [![akamai_slides](images/akamai_videos.jpg)](http://www.slideshare.net/AkamaiTechnologies)
 
-# CDN Content delivery network
-- [Wikipedia: CDN Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
+# CDN Content Delivery Network
+- [Wikipedia: CDN Content Delivery Network](https://en.wikipedia.org/wiki/Content_delivery_network)
 	- [Traditional commercial CDNs 🌟](https://en.wikipedia.org/wiki/Content_delivery_network#Traditional_commercial_CDNs)
 - [The Essential CDN Guide | Incapsula 🌟🌟](https://www.incapsula.com/cdn-guide/)
     - [chapter 3: CDN Caching 🌟](https://www.incapsula.com/cdn-guide/cdn-caching.html)
