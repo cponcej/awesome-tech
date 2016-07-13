@@ -89,6 +89,8 @@
 
 [![developers_midlife_crisis](images/developers_midlife_crisis.png)](https://dzone.com/articles/the-developers-midlife-crisis-whats-next)
 
+[![should_sw_eng_be_certified](images/should_sw_eng_be_certified.png)](http://techbeacon.com/should-software-engineers-be-certified)
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">How to get a job as a software engineer <a href="https://t.co/Of0W9xWfkG">https://t.co/Of0W9xWfkG</a> <a href="https://t.co/rMQAfvy5Rs">pic.twitter.com/rMQAfvy5Rs</a></p>&mdash; Glassdoor (@Glassdoor) <a href="https://twitter.com/Glassdoor/status/748169264981389315">29 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
