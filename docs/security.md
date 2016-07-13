@@ -278,6 +278,11 @@
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117239445&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vA2rJOLbXpC0K1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SophosBenelux/anatomy-of-an-attack-sophos-day-belux-2014" title="Anatomy of an Attack - Sophos Day Belux 2014" target="_blank">Anatomy of an Attack - Sophos Day Belux 2014</a> </strong> from <strong><a href="//www.slideshare.net/SophosBenelux" target="_blank">Sophos Benelux</a></strong> </div>
+</div>
+<br/>
+
 ## Mobile Security
 - [Zeef: Mobile Security](https://mobile-security.zeef.com)
 

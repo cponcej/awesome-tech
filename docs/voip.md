@@ -48,6 +48,11 @@
 <br/>
 
 <div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/8TGcCehTzSGdf3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/fernandomendioroz/telefona-ip-sip-diameter-rtprtpc" title="Telefonía IP (SIP, Diameter, RTP/RTPC)" target="_blank">Telefonía IP (SIP, Diameter, RTP/RTPC)</a> </strong> de <strong><a href="//es.slideshare.net/fernandomendioroz" target="_blank">Eng. Fernando Mendioroz, MSc. (c.)</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-QvJTcTIjA?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>

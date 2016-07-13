@@ -8,6 +8,8 @@
 
 [![nczonline CDN diagram](images/nczonline_cdn2.png)](https://www.nczonline.net/blog/2011/11/29/how-content-delivery-networks-cdns-work/)
 
+[![akamai_slides](images/akamai_videos.jpg)](http://www.slideshare.net/AkamaiTechnologies)
+
 # CDN Content delivery network
 - [Wikipedia: CDN Content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)
 	- [Traditional commercial CDNs 🌟](https://en.wikipedia.org/wiki/Content_delivery_network#Traditional_commercial_CDNs)
@@ -20,6 +22,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P4YHPYy918c?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
+
+[![akamai_videos](images/akamai_videos.jpg)](https://www.youtube.com/c/akamai)
 
 <div class="container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/eofmJODPbPM9M6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Netmanias/netmanias20130904content-networking-trends2013" title="2013 Content Networking Trends - OTT, Global CDN and Operator CDN" target="_blank">2013 Content Networking Trends - OTT, Global CDN and Operator CDN</a> </strong> from <strong><a href="//www.slideshare.net/Netmanias" target="_blank">Netmanias</a></strong> </div>

@@ -355,6 +355,11 @@
 <br/>
 
 <div class="container">
+<iframe src="//es.slideshare.net/slideshow/embed_code/key/dhH7s0qQVeCW1P" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/phpguru/git-101-31908275" title="Git 101 - Crash Course in Version Control using Git" target="_blank">Git 101 - Crash Course in Version Control using Git</a> </strong> de <strong><a href="//es.slideshare.net/phpguru" target="_blank">Geoff Hoffman</a></strong> </div>
+</div>
+<br/>
+
+<div class="container">
 <iframe src="https://player.vimeo.com/video/44518572" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
 </div>
 <br/>

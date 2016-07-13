@@ -112,3 +112,8 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/p8MxpCAMbZutC7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/zahidtg/diameter-and-lte-roaming" title="Diameter and LTE Roaming" target="_blank">Diameter and LTE Roaming</a> </strong> from <strong><a href="//www.slideshare.net/zahidtg" target="_blank">Zahid Ghadialy</a></strong> </div>
 </div>
 <br>
+
+<div class="container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/buNw8Db3GDdFgJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen class="video"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fernandomendioroz/sealizacin-en-redes-telefnicas-pblicas-conmutadas-ss7-dss1-sigtran" title="Señalización en Redes Telefónicas Públicas Conmutadas SS7 / DSS1 / Sigtran" target="_blank">Señalización en Redes Telefónicas Públicas Conmutadas SS7 / DSS1 / Sigtran</a> </strong> de <strong><a href="//www.slideshare.net/fernandomendioroz" target="_blank">Eng. Fernando Mendioroz, MSc. (c.)</a></strong> </div>
+</div>
+<br/>
