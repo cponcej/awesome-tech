@@ -174,7 +174,7 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 |[![dell_slides](images/dell_slides.jpg)](http://www.slideshare.net/dell)|[![hp_enterprise_slides](images/hp_enterprise_slides.jpg)](http://www.slideshare.net/HPESoftwareSolutions)|[![sap_slides](images/sap_slides.jpg)](http://www.slideshare.net/SAP)|[![salesforce_slides](images/salesforce_slides.jpg)](http://www.slideshare.net/salesforce)|[![ibm_slides](images/ibm_slides.jpg)](http://www.slideshare.net/ibm)|[![oracle_slides](images/oracle_slides.jpg)](http://www.slideshare.net/oracle)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-|[![acloudguru_slides](images/acloudguru_slides.jpg)](http://www.slideshare.net/acloudguru)||||||
+|[![acloudguru_slides](images/acloudguru_slides.jpg)](http://www.slideshare.net/acloudguru)|[![owasp_delphi_slides](images/owasp_delphi_slides.jpg)](http://www.slideshare.net/OWASPdelhi)|[![capgemini_slideshare](images/capgemini_slideshare.jpg)](http://www.slideshare.net/capgemini)|[![atlassian_videos](images/atlassian_videos.jpg)](http://www.slideshare.net/GoAtlassian)|[![agile_bcn_slides](images/agile_bcn_slides.jpg)](http://es.slideshare.net/agilebcn)|[![rackspace_slideshare](images/rackspace_slideshare.jpg)](http://www.slideshare.net/rackspace)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Science is not perfect. It&#39;s often misused. It&#39;s only a tool. But it&#39;s the best tool we have.</p>&mdash; Carl Sagan (@drcarlsagan) <a href="https://twitter.com/drcarlsagan/status/341313812357582848">2 de junio de 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
