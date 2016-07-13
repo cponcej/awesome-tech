@@ -57,6 +57,7 @@
 - [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 - [Top 10 Machine Learning Projects on Github](http://www.kdnuggets.com/2015/12/top-10-machine-learning-github.html)
 - [Data scientists have the hottest job in America](http://www.infoworld.com/article/3024523/big-data/data-scientists-have-the-hottest-job-in-america.html)
+- [datasciencecentral.com: 20 short tutorials all data scientists should read (and practice)](http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
 
 [![dzone_refcard_machine_learning](images/dzone_refcard_machine_learning.png)](https://dzone.com/refcardz/machine-learning-predictive)
 
