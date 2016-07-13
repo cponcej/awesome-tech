@@ -167,6 +167,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Are you still wasting time on pesky bug fixes? <a href="https://t.co/4fZ2wEFBxh">pic.twitter.com/4fZ2wEFBxh</a></p>&mdash; Practical Developer (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/712683212548521984">23 de marzo de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When you interrupt a developer in deep coding to ask if they got your email  <a href="https://t.co/MEeaafxx4C">pic.twitter.com/MEeaafxx4C</a></p>&mdash; Jonathan Zdziarski (@JZdziarski) <a href="https://twitter.com/JZdziarski/status/751568156993396736">9 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Domain driven design
 - [domaindrivendesign.org - Domain Driven Design Community](http://www.domaindrivendesign.org/)
 - [Domain-driven design description](https://en.wikipedia.org/wiki/Domain-driven_design)

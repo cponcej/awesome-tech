@@ -158,6 +158,9 @@
 <blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">9 Common Dockerfile Mistakes <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/programmatic?src=hash">#programmatic</a> <a href="https://twitter.com/hashtag/CloudComputing?src=hash">#CloudComputing</a>  <a href="https://t.co/sb3KaHjdsi">https://t.co/sb3KaHjdsi</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/742805356703711232">14 de junio de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">Life and death of a container <a href="https://t.co/pO57bTkR0a">https://t.co/pO57bTkR0a</a>  by <a href="https://twitter.com/hashtag/dockercaptain?src=hash">#dockercaptain</a> <a href="https://twitter.com/LHerrera">@lherrera</a> <a href="https://t.co/9wXkRlZcuP">pic.twitter.com/9wXkRlZcuP</a></p>&mdash; Docker (@docker) <a href="https://twitter.com/docker/status/752955202345500673">12 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Docker Networking
 - [Deploying Containers with Docker Swarm and Docker Networking](http://www.javacodegeeks.com/2015/11/deploying-containers-docker-swarm-docker-networking.html)
 - [Docker networking overview 🌟](http://filipv.net/2016/02/17/docker-networking-overview/)

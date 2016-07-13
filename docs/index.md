@@ -198,6 +198,11 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 </div>
 <br/>
 
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3qSSrTx1vjE?list=RD3qSSrTx1vjE" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
 [![eduard_punset_madrid](images/eduard_punset_madrid.gif)](https://www.youtube.com/watch?v=MLXPrGtHXMo)
 
 <div class="container">
@@ -242,6 +247,11 @@ Wifi N or AC recommended. Disable Tracking Protection in Firefox in order to ren
 
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jp79HDViQ9s?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+<br/>
+
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qN-HQlfF5o?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 <br/>
 

@@ -267,6 +267,9 @@
 
 ![marla_two_sides](images/marla_two_sides.gif)
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="und" dir="ltr"><a href="https://t.co/dq8PmIrUlF">https://t.co/dq8PmIrUlF</a></p>&mdash; RedHatSpain (@RedHatSpain) <a href="https://twitter.com/RedHatSpain/status/753009147730329601">12 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [![mauro felicori](images/mauro_felicori.png)](http://www.bbc.com/mundo/noticias/2016/03/160305_por_que_primer_ministro_italia_defendio_empleado_acusado_trabajar_demasiado_dgm)
 
 [![bi_8things_companies_do](images/bi_8things_companies_do.png)](http://www.businessinsider.com/things-your-boss-can-legally-do-2016-3)

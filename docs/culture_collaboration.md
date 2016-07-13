@@ -74,6 +74,8 @@
 </div>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">When the boss or client asks for a server/network problem fix update... <a href="https://twitter.com/hashtag/sysadmin?src=hash">#sysadmin</a> <a href="https://twitter.com/hashtag/linux?src=hash">#linux</a> <a href="https://twitter.com/hashtag/unix?src=hash">#unix</a> <a href="https://twitter.com/hashtag/IT?src=hash">#IT</a> <a href="https://t.co/ZLTc1btGl9">pic.twitter.com/ZLTc1btGl9</a></p>&mdash; nixCraft (@nixcraft) <a href="https://twitter.com/nixcraft/status/751421639435259904">8 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="container">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/o9Q0kp8CMFQ?rel=0" frameborder="0" allowfullscreen class="video"></iframe>
 </div>

@@ -457,6 +457,8 @@
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/267987904&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
+<blockquote class="twitter-tweet tw-align-center" data-lang="es"><p lang="en" dir="ltr">More <a href="https://twitter.com/hashtag/JBoss?src=hash">#JBoss</a> Weekly goodness for you to enjoy with your morning/afternoon/evening break! <a href="https://t.co/T4tR4DBmf8">https://t.co/T4tR4DBmf8</a> <a href="https://t.co/KIVlRQpk7L">pic.twitter.com/KIVlRQpk7L</a></p>&mdash; Eric D. Schabell (@ericschabell) <a href="https://twitter.com/ericschabell/status/751553578834075648">8 de julio de 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### JBoss GateIn, Exo, Forge, Forums, Developer Studio, Arquillian Testing Platform, and others
 - [JBoss GateIn Portal](http://gatein.jboss.org/)
 - [JBoss eXo Platform Enterprise Social collaboration software](https://www.exoplatform.com)
@@ -494,6 +496,11 @@
 - [servicesblog.redhat.com - Starting with DevOps: Deploying Applications on your Docker JBoss EAP Image](http://servicesblog.redhat.com/2016/03/28/starting-with-devops-deploying-applications-on-your-docker-jboss-eap-image/)
 - [Red Hat Delivers JBoss EAP 7, a Foundation for Hybrid Cloud Applications](https://www.redhat.com/en/about/press-releases/red-hat-delivers-jboss-eap-7-foundation-hybrid-cloud-applications)
 - [Red Hat polishes JBoss EAP 7 for a cloud-native future](http://www.pcworld.com/article/3089029/red-hat-polishes-jboss-eap-for-a-cloud-native-future.html) A new services collection offers building blocks commonly used in enterprise applications
+- [developer.jboss.org: This week in JBoss (1 July 2016): Harness the power of participation](https://developer.jboss.org/blogs/weekly-editorial/2016/07/01/this-week-in-jboss-1-july-2016-an-amazing-week-at-red-hat-summit-and-devnation-2016)
+- [DZone: How to Import Any JBoss BRMS Example Project](https://dzone.com/articles/how-to-import-any-jboss-brms-example-project) This article shows how you can import the projects associated with the various JBoss BRMS demo projects into my own existing installation.
+- [DZone: What You Missed at DevNation and Red Hat Summit 2016](https://dzone.com/articles/what-you-missed-at-devnation-red-hat-summit-2016-1) Haven't seen all the big news from DevNation and Red Hat Summit yet? This post goes over some of the highlights from Red Hat's Eric Schabell.
+
+[![jboss_eap7_release_notes](images/jboss_eap7_release_notes.png)](https://developer.jboss.org/blogs/weekly-editorial/2016/07/01/this-week-in-jboss-1-july-2016-an-amazing-week-at-red-hat-summit-and-devnation-2016)
 
 [![jboss_middleware_blog](images/jboss_middleware_blog.png)](http://middlewareblog.redhat.com/)
 
