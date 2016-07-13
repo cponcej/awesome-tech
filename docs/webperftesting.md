@@ -14,6 +14,8 @@
 
 [![dzone_peformance_zone](images/dzone_peformance_zone.png)](https://dzone.com/apm-tools-performance-monitoring-optimization)
 
+[![blazemeter_slides](images/blazemeter_slides.jpg)](http://www.slideshare.net/BlazeMeter)
+
 # Performance Testing. Traffic injectors/generators
 ## JMeter
 - [javacodegeeks.com: JMeter Tutorial for Load Testing – The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
