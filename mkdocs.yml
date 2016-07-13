@@ -82,6 +82,7 @@ pages:
 - Next Generation Firewalls (NGFW): NGFW.md
 - Network Forensics: nw_forensics.md
 - Network Performance: nw_performance.md
+- CDN Content delivery network: cdn.md
 - VoIP: voip.md
 - Mobile Core Network & Signaling. Diameter: mobilecore.md
 - IMS IP Multimedia Subsystem: ims.md
